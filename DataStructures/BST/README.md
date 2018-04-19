@@ -1,11 +1,11 @@
-#Binary Search Tree Breakdown
+# Binary Search Tree Breakdown
 
-###The init method: initializing<br>
+### The init method: initializing<br>
 1. The breakdown of this structure is a parent node with two child nodes (left and right node).
 2. In my algorithm's case I made the left child any value less or equal to the parent in value.
 3. The right child is anything greater than the parent in value.
 
-###The contains method<br>
+### The contains method<br>
 1. The structure of my BST algorithm dictates that anything node with a lesser or equal to that of a parent node goes to
 the left and node with a value that is greater goes to the right.
 2. My approach traverses the BST with the structure mentioned above in mind.
