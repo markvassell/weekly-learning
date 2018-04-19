@@ -16,7 +16,7 @@ call the contains methods with the right nodes as the parent node. The opposite 
 current node. 
 6. If a left or right node comes up as Null or None in my case return that the value isn't in the BST
 
-###The in-order method
+### The in-order method
 1. In this method the values in the tree are printed in ascending order.  It's another recursive algorithm the check for
 the left most node first then it parent second and repeat the process on its parent's right node if it available until the 
 entire list is complete. In short, first print the left side, then the root, then the right side.
