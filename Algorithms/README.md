@@ -12,7 +12,7 @@ inner loop goes through the entire list each time the list isn't sorted. In the 
 keeps track of the sorted status of the list. Inside the inner loop I check if the current index value is greater the 
 value in the next index.  If this is the case then I swap those elements and set the sorted boolean to False. This 
 process goes until the entire list is sorted. 
-![alt text](../Images/bubble_sort_images/bubble_sort.png)
+![alt text](../Images/bubble_sort_images/bubble_sort.png "bbsort Full Algorithm")
 
 ### Insertion Sort
 
