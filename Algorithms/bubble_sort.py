@@ -6,16 +6,13 @@ def bubble_sort(array):
     is_sorted = False
     while is_sorted is False:
         is_sorted = True
-        current_length = len(array) - 1
         while j < len(array) - 1:
             if array[j] > array[j+1]:
                 temp = array[j]
                 array[j] = array[j+1]
                 array[j+1] = temp
                 is_sorted = False
-            current_length -= 1
             j += 1
-
         i += 1
         j = 0
 
