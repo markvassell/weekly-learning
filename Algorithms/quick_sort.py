@@ -1,7 +1,7 @@
 from random import sample
 
 
-def quick_sort(array, start=0, end=None):
+def quick_sort(array, start, end):
     new_array = list(array)
     if len(array) == 1:
         return array
