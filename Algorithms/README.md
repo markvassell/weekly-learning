@@ -1,4 +1,9 @@
 # Algorithms
+1. [Bubble Sort](#Bubble Sort)
+2. [Insertion Sort](#Insertion Sort)
+3. [Selection Sort](#Selection Sort)
+4. [Merge Sort](#Merge Sort)
+5. [Quick Sort](#Quick Sort)
 
 ### Bubble Sort
 
