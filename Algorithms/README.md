@@ -1,9 +1,12 @@
 # Algorithms
-1. [Bubble Sort](#Bubble Sort)
-2. [Insertion Sort](#Insertion Sort)
-3. [Selection Sort](#Selection Sort)
-4. [Merge Sort](#Merge Sort)
-5. [Quick Sort](#Quick Sort)
+## Table of Contents
+- [Bubble Sort](#Bubble_Sort)
+- [Insertion Sort](#Insertion_Sort)
+- [Selection Sort](#Selection_Sort)
+- [Merge Sort](#Merge_Sort)
+- [Quick Sort](#Quick_Sort)
+
+<div id='Bubble_Sort' />
 
 ### Bubble Sort
 
@@ -19,11 +22,22 @@ value in the next index.  If this is the case then I swap those elements and set
 process goes until the entire list is sorted. 
 ![alt text](../Images/bubble_sort_images/bubble_sort.png "bbsort Full Algorithm")
 
+<div id='Insertion_Sort'>
+
 ### Insertion Sort
 
+</div>
+
+<div id='Selection_Sort'>
+
 ### Selection Sort
+</div>
+
+<div id='Merge_Sort' >
 
 ### Merge Sort
+
+</div>
 
 Merge sort is a efficient and elegant algorithm. It uses the concept of divide and conquer. By this I mean that it 
 breaks down the task at hand into smaller and more manageable tasks and works it way back to the final goal.  This is 
@@ -51,6 +65,7 @@ resulsts list.
 ![alt text](../Images/Merge%20Sort%20Images/recombine_algo.PNG "con4 One Element Condition")
 ![alt text](../Images/Merge%20Sort%20Images/recombine.PNG "con5 One Element Condition")
 
+<div id='Quick_Sort' />
 
 ### Quick Sort
 
