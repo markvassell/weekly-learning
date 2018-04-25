@@ -23,7 +23,7 @@ process goes until the entire list is sorted.
 Merge sort is a efficient and elegant algorithm. It uses the concept of divide and conquer. By this I mean that it 
 breaks down the task at hand into smaller and more manageable tasks and works it way back to the final goal.  This is 
 a recursive algorithm that separates the the given list into equal portions (or as close to even as possible) until each
-element is then considered to be its own list. It then recombines the those lists into sorted order as it goes back up 
+element is considered to be its own list. It then recombines the those lists into sorted order as it goes back up 
 the recursion stack. To clarify this ordered recombination is done at each step in the recursion stack.
 
 In this algorithm the first thing I checked for is if the list has one element. If this is the case then the list is 
@@ -39,9 +39,44 @@ until all the elements are separated into their own list.
 
 The Final Step is to recombine the separated lists into sorted list at each step of the recursion stack. There are many
 ways to do this step.  In my approach I created an entirely new list to wish I append the sorted data to. I loop until 
-one of the lists is empty and compare the first term in each list and the list that has the smallest element, get that 
-element removed and appended to the results list. At the end of the loop one of the lists must be empty and in that case
-the remain element of that list are already in sorted order and they get appended to the list  
+one of the lists is empty and compare the first term in each list to see which one is smaller. The list with that 
+element gets that element removed and appended to the results list. At the end of the loop one of the lists must be 
+empty and in that case the remaining elements of that list are already in sorted order and they get appended to the 
+resulsts list.  
 ![alt text](../Images/Merge%20Sort%20Images/recombine_algo.PNG "con4 One Element Condition")
 ![alt text](../Images/Merge%20Sort%20Images/recombine.PNG "con5 One Element Condition")
 
+
+### Quick Sort
+
+Quick sort uses a divide and conquer approach that is similar to that of merge sort. The major difference in this 
+approach is that it uses a pivot that dictates where element of the list will end up.  All elements less than the pivot 
+gets move to a position before the pivot and all elements larger than the pivot gets moved after it. This process is 
+done recursively. All the elements on the left and right sides of the initial pivot gets placed through the same process
+of selecting a pivot in that region and performing the same actions mentioned above.   
+
+Here are the links I used to gain a better understanding of how the quick sort algorithm works. 
+
+[Quicksort: Partitioning an array | By: KC Ang](https://www.youtube.com/watch?v=MZaf_9IZCrc)
+
+[Sorts 8 Quick Sort | By: RobEdwardsSDSU](https://www.youtube.com/watch?v=ZHVk2blR45Q)
+
+The recursive calls in quick sort are shown below. The idea behind it is that every time a partition is found the 
+algorithm get ran on the elements to the left and right side of the algorithm. 
+![alt text](../Images/Merge%20Sort%20Images/quick_sort_algo.PNG "qs1 Quick sort algo")
+
+Determining what element should be the partition can be done in many ways.  Just a heads up, some of the partition 
+selection methods have a greater chance of attaining the worst case performance of this algorithm. If the partition is 
+always the first or last element it could lead to a O(n^2) time complexity if the list is sorted in ascending or 
+descending order respectively. The average case performance is O(n log n).
+
+The approach I took always selects the middle index of the current region of the list. I then swap the selected pivot 
+with the last element in that section of the list for convenience. I then created two tracking variables i and j. The 
+i variable tracks the last element smaller than the pivot and it is initially set to the position before the start of 
+the list. This is because initially no items are considered to be smaller than the pivot. The j variable is used to step 
+through the current portion of the list excluding the pivot.  At every point where the j index of the list has a value 
+that is smaller than the pivot I increment the i variable and swap the j index value with the i index value. At the end 
+of this process I swap the pivot (the last index) with the index of the first element greater than the pivot (i + 1).
+The pivots location is then returned in order to continue the quick sort process.   
+
+![alt text](../Images/Merge%20Sort%20Images/q_sort_partition.PNG "qs2 Partition Algo")

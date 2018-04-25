@@ -24,10 +24,6 @@ def partition(array, start, end):
 
     pivot = array[end]
 
-    #  Learned this from two sources:
-    #  KC Ang https://www.youtube.com/watch?v=MZaf_9IZCrc
-    #  RobEdwardsSDSU https://www.youtube.com/watch?v=ZHVk2blR45Q
-
     while j < end:
         if array[j] < pivot:
             i += 1
