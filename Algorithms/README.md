@@ -1,5 +1,4 @@
 # Algorithms
-## Table of Contents
 - [Bubble Sort](#Bubble_Sort)
 - [Insertion Sort](#Insertion_Sort)
 - [Selection Sort](#Selection_Sort)
@@ -25,6 +24,15 @@ process goes until the entire list is sorted.
 <div id='Insertion_Sort'>
 
 ### Insertion Sort
+
+This sort runtime is in between O(n) and O(n^2). It is O(n) if the list is already sorted and it is O(n^2) if the list 
+is sorted in descending order. This algorithm breaks the list into two separate sections. A sorted section and a 
+non-sorted section. Initially the algorithm considers the first element of the list to be sorted and the remainder of 
+the list to be unsorted. It then checks the first element in the unsorted list and determines where in the sorted list 
+it should be placed and puts it in that position. It then continues this action until the list is fully sorted.
+
+![alt text](../Images/insertion_sort_images/insertion_sort.png "insertion Full Algorithm")
+
 
 </div>
 
@@ -65,9 +73,9 @@ already considered to be sorted and I just return the same list that was provide
 
 The second step in this algorithm is to separate the list into two halves and do the same thing to each half of the list
 until all the elements are separated into their own list.  
-![alt text](../Images/Merge%20Sort%20Images/breakdown_code.PNG "con2 One Element Condition")
+![alt text](../Images/Merge%20Sort%20Images/breakdown_code.PNG "con2 Recursion")
 
-![alt text](../Images/Merge%20Sort%20Images/merge_sort_breakdown.PNG "con3 One Element Condition")
+![alt text](../Images/Merge%20Sort%20Images/merge_sort_breakdown.PNG "con3 Diagram1")
 
 The Final Step is to recombine the separated lists into sorted list at each step of the recursion stack. There are many
 ways to do this step.  In my approach I created an entirely new list to wish I append the sorted data to. I loop until 
@@ -75,8 +83,8 @@ one of the lists is empty and compare the first term in each list to see which o
 element gets that element removed and appended to the results list. At the end of the loop one of the lists must be 
 empty and in that case the remaining elements of that list are already in sorted order and they get appended to the 
 resulsts list.  
-![alt text](../Images/Merge%20Sort%20Images/recombine_algo.PNG "con4 One Element Condition")
-![alt text](../Images/Merge%20Sort%20Images/recombine.PNG "con5 One Element Condition")
+![alt text](../Images/Merge%20Sort%20Images/recombine_algo.PNG "con4 Merge")
+![alt text](../Images/Merge%20Sort%20Images/recombine.PNG "con5 Diagram 2")
 
 <div id='Quick_Sort' />
 
