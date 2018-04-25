@@ -31,6 +31,19 @@ process goes until the entire list is sorted.
 <div id='Selection_Sort'>
 
 ### Selection Sort
+The selection sort algorithm dictates that the list being sorted must get separated into two sections, a sorted and an 
+unsorted portion. To start off there are no elements in the sorted portion of the list and the original list is the 
+unsorted section. The unsorted section of the list looped through and at each step the minimum value from the unsorted 
+portion is appended to the sorted portion of the list. This concept is carried out until there are no more elements left
+in the unsorted portion. The run-time of this algorithm is on average O(n^2). 
+
+![alt text](../Images/selection_sort_images/selection_sort_algo.png "Selection sort Algorithm")
+
+This function is used to find the minimum value and its index from a list. This function initially sets the first value 
+in the list as the minimum value and its index at the current index. The function loops through the remainder of the 
+list, and checks if there is another value in the list that is smaller than the first value.  If there is then the the 
+current min value and its index will get updated.
+![alt text](../Images/selection_sort_images/find_min_algo.png "find minimum sort Algorithm")
 </div>
 
 <div id='Merge_Sort' >
@@ -83,7 +96,7 @@ Here are the links I used to gain a better understanding of how the quick sort a
 
 The recursive calls in quick sort are shown below. The idea behind it is that every time a partition is found the 
 algorithm get ran on the elements to the left and right side of the algorithm. 
-![alt text](../Images/Merge%20Sort%20Images/quick_sort_algo.PNG "qs1 Quick sort algo")
+![alt text](../Images/quick_sort_images/quick_sort_algo.PNG "qs1 Quick sort algo")
 
 Determining what element should be the partition can be done in many ways.  Just a heads up, some of the partition 
 selection methods have a greater chance of attaining the worst case performance of this algorithm. If the partition is 
@@ -99,4 +112,4 @@ that is smaller than the pivot I increment the i variable and swap the j index v
 of this process I swap the pivot (the last index) with the index of the first element greater than the pivot (i + 1).
 The pivots location is then returned in order to continue the quick sort process.   
 
-![alt text](../Images/Merge%20Sort%20Images/q_sort_partition.PNG "qs2 Partition Algo")
+![alt text](../Images/quick_sort_images/q_sort_partition.PNG "qs2 Partition Algo")
