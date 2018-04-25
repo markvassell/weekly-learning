@@ -37,13 +37,13 @@ unsorted section. The unsorted section of the list looped through and at each st
 portion is appended to the sorted portion of the list. This concept is carried out until there are no more elements left
 in the unsorted portion. The run-time of this algorithm is on average O(n^2). 
 
-![alt text](../Images/selection_sort_images/selection_sort_algo.png "Selection sort Algorithm")
+![alt text](../Images/selection_sort_images/selection_sort_algo.PNG "Selection sort Algorithm")
 
 This function is used to find the minimum value and its index from a list. This function initially sets the first value 
 in the list as the minimum value and its index at the current index. The function loops through the remainder of the 
 list, and checks if there is another value in the list that is smaller than the first value.  If there is then the the 
 current min value and its index will get updated.
-![alt text](../Images/selection_sort_images/find_min_algo.png "find minimum sort Algorithm")
+![alt text](../Images/selection_sort_images/find_min_algo.PNG "find minimum sort Algorithm")
 </div>
 
 <div id='Merge_Sort' >
