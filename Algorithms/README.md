@@ -4,6 +4,7 @@
 - [Selection Sort](#Selection_Sort)
 - [Merge Sort](#Merge_Sort)
 - [Quick Sort](#Quick_Sort)
+- [Fibonacci Sequence](#Fibonacci_Sequence)
 
 <div id='Bubble_Sort' />
 
@@ -121,3 +122,14 @@ of this process I swap the pivot (the last index) with the index of the first el
 The pivots location is then returned in order to continue the quick sort process.   
 
 ![alt text](../Images/quick_sort_images/q_sort_partition.PNG "qs2 Partition Algo")
+<div id='Fibonacci_Sequence' />
+### Fibonacci Sequence
+
+This is a dynamic programming algorithm.  It continually breaks the problem down into smaller sub-problems and memoize
+the solutions of the sub-problems and reuses the solution whenever the same problem comes up again. The Fibonacci 
+algorithm requires the sum of the two fibonacci value below it. For instance fib(n) =  fib(n-1) + fib(n-2). Seeing this 
+will point to a recursive solution, but it may not need a helping hand. As show in the figure below doing the computation
+recursively will lead some solution being computed more than once. When memoization comes into play the value for all the 
+sub-problems gets store and only require the program to compute the value once. 
+![alt text](../Images/Fibonacci/fibo.png "fibo1 visual Algo")
+![alt text](../Images/Fibonacci/fibo_algo.png "fibo2 Algo")
