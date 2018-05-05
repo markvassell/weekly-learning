@@ -123,6 +123,7 @@ The pivots location is then returned in order to continue the quick sort process
 
 ![alt text](../Images/quick_sort_images/q_sort_partition.PNG "qs2 Partition Algo")
 <div id='Fibonacci_Sequence' />
+
 ### Fibonacci Sequence
 
 This is a dynamic programming algorithm.  It continually breaks the problem down into smaller sub-problems and memoize
