@@ -4,6 +4,9 @@ import json
 import re
 
 
+def get_links(page):
+    return page
+
 def get_department_name(html):
     holder = html.find('div', {'id': 'content'})
     return holder.find('h1').text
@@ -75,12 +78,12 @@ def clean_course_description(data):
         hours = hours.replace("Credit Hour: ", "")
         data = data[0:edge_case4]
         pre_req = "None Listed"
+    if isinstance(pre_req, int) == False:
+        edge_case5 = pre_req.find("Recommended: ")
 
-    edge_case5 = pre_req.find("Recommended: ")
-
-    if edge_case5 != -1:
-        recommendation = pre_req[edge_case5+13:]
-        pre_req = pre_req[: edge_case5]
+        if edge_case5 != -1:
+            recommendation = pre_req[edge_case5+13:]
+            pre_req = pre_req[: edge_case5]
 
     # print(data)
     # print(hours)
@@ -92,38 +95,45 @@ def clean_course_description(data):
 if __name__ == "__main__":
     all_data = []
     class_list = []
+    all_offerings = urlopen('http://catalog.missouri.edu/courseofferings/')
+    all_data = bS(all_offerings, 'html.parser')
 
-    page = urlopen("http://catalog.missouri.edu/courseofferings/cmp_sc/")
+    link_container = all_data.find('div', {'id': 'co_departments'})
 
-    page_data = bS(page, 'html.parser')
+    department_links = link_container.find_all('a', href=True)
+    print(department_links)
+    for link in department_links:
+        page = urlopen("http://catalog.missouri.edu/"+link['href'])
 
-    department_name = get_department_name(page_data)
+        page_data = bS(page, 'html.parser')
 
-    # class_list.append('department_name: ' + department_name)
+        department_name = get_department_name(page_data)
 
-    courses = page_data.find('div', {'class': 'courses'})
+        # class_list.append('department_name: ' + department_name)
 
-    course_blocks = courses.find_all('div', {'class': 'courseblock'})
+        courses = page_data.find('div', {'class': 'courses'})
 
-    for info in course_blocks:
-        # Getting all the course numbers and titles
+        course_blocks = courses.find_all('div', {'class': 'courseblock'})
 
-        class_name = info.find('p', {'class': 'courseblocktitle'}).text
-        class_name = class_name.split(':  ')
-        class_name[0] = class_name[0].replace("\xa0", " ")
+        for info in course_blocks:
+            # Getting all the course numbers and titles
 
-        class_description = info.find('p', {'class': 'courseblockdesc'}).text
-        class_description = clean_course_description(class_description)
-        class_list.append(
-            {
-                "course_number": class_name[0],
-                "course_name": class_name[1],
-                "course_description": class_description[0],
-                "prerequisites": class_description[2],
-                "credit_hours": class_description[1],
-                "recommendation": class_description[3]
-            }
-        )
+            class_name = info.find('p', {'class': 'courseblocktitle'}).text
+            class_name = class_name.split(':  ')
+            class_name[0] = class_name[0].replace("\xa0", " ")
 
-    with open("../Output/"+department_name+".json", "w+") as outfile:
-        outfile.write(json.dumps(class_list, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))
+            class_description = info.find('p', {'class': 'courseblockdesc'}).text
+            class_description = clean_course_description(class_description)
+            class_list.append(
+                {
+                    "course_number": class_name[0],
+                    "course_name": class_name[1],
+                    "course_description": class_description[0],
+                    "prerequisites": class_description[2],
+                    "credit_hours": class_description[1],
+                    "recommendation": class_description[3]
+                }
+            )
+
+        with open("../Output/"+department_name+".json", "w+") as outfile:
+            outfile.write(json.dumps(class_list, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))
