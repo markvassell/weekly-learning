@@ -4,8 +4,8 @@
         "course_name": "History of the Greek and Latin Languages",
         "course_description": "(same as LINGST 4130; cross-leveled with CLASS 7100, LINGST 7130). Evolution of classical languages and their relationship to each other.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: GREEK 4300 and LATIN 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "GREEK 4300 and LATIN 4300"
     },
     {
         "course_number": "CLASS 4205",
@@ -20,16 +20,16 @@
         "course_name": "Introduction to Text Criticism and Paleography",
         "course_description": "(cross-leveled with CLASS 7300). Latin and/or Greek textual criticism and paleography, using manuscript facsimiles at the University library.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: GREEK 2000 and LATIN 2000",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "GREEK 2000 and LATIN 2000"
     },
     {
         "course_number": "CLASS 4400",
         "course_name": "Ancient Pastoral",
         "course_description": "(cross-leveled with CLASS 7400). Reading and interpretation of pastoral poetry and prose in Greek and Latin; emphasis on Theocritus, Virgil, and Longus.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: GREEK 4300 and LATIN 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "GREEK 4300 and LATIN 4300"
     },
     {
         "course_number": "CLASS 4700",
@@ -84,7 +84,7 @@
         "course_name": "History of the Greek and Latin Languages",
         "course_description": "(same as LINGST 7130; cross-levelled with CLASS 4100, LINGST 4130). Evolution of classical languages and their relationship to each other.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -132,7 +132,7 @@
         "course_name": "Directed Readings in Classics",
         "course_description": "For graduate students to undertake special projects for graduate credit under the supervision of faculty.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -140,7 +140,7 @@
         "course_name": "Masters Research and Thesis in Classics",
         "course_description": "For graduate students studying for the MA and working on a thesis to receive credit for work directly related to the thesis.  Graded S/U only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -180,7 +180,7 @@
         "course_name": "Seminar in Ancient Rhetoric and Oratory",
         "course_description": "Seminar in Ancient Rhetoric and Oratory",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -188,7 +188,7 @@
         "course_name": "Seminar in Ancient Literary Criticism",
         "course_description": "Principles and theories of ancient Greek and Latin literary criticism, as developed in significant works on the subject.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -204,7 +204,7 @@
         "course_name": "Seminar in Greco-Roman Religion",
         "course_description": "Seminar in Greco-Roman Religion",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -212,7 +212,7 @@
         "course_name": "Seminar in Greco-Roman Satire and Social Criticism",
         "course_description": "Seminar in Greco-Roman Satire and Social Criticism",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

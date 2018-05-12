@@ -12,7 +12,7 @@
         "course_name": "Medical Microbiology and Immunology",
         "course_description": "Focus on medically important viruses, bacteria, fungi and parasites with emphasis on their disease causing potential and mechanisms. Introduction to cells and molecules of the immune system with emphasis on their role in fighting infectious diseases. Discussion of treatment and prevention strategies. Lecture material will be reinforced with laboratory demonstrations and hands-on exercises. The course is intended for preprofessional students.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -44,8 +44,8 @@
         "course_name": "Immunology",
         "course_description": "This is a comprehensive team-taught, basic immunology course covering cells and organs of the immune system, lymphocyte development, innate immunity, antibody production, antibody-antigen presentation, CD4+ and CD8+ T lymphocyte responses, cytokines, autoimmunity and immunodeficiency among other immunologically relevant topics.  Completion of a biochemistry, genetics, or molecular biology course would be helpful.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: MICROB 3200 or BIOCHM 4270",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "MICROB 3200 or BIOCHM 4270"
     },
     {
         "course_number": "MICROB 4305H",
@@ -100,15 +100,15 @@
         "course_name": "Immunology",
         "course_description": "Covers innate immunity, antibodies, antigens, MHC, antigen presentation, lymphocyte development, antigen specific receptors, lymphocyte activation and differentiation, immune effector mechanisms, hypersensitivities, tolerance, autoimmunity, immunodeciencies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: MICROB 3200 or BIOCHM 4270 or BIOCHM 4272 or instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "MICROB 3200 or BIOCHM 4270 or BIOCHM 4272 or instructor's consent"
     },
     {
         "course_number": "MICROB 7404",
         "course_name": "Foundations in Bacteriology and Pathogenesis",
         "course_description": "This team taught course covers the biology and virulence mechanisms of bacterial pathogens, with emphasis on those causing human and zoonotic disease.  Topics covered include bacterial structure, genetics, physiology, and metabolism; antibiotic resistance; host-pathogen interactions; microbiomes and emerging pathogens.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

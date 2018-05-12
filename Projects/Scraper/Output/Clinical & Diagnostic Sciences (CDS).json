@@ -12,8 +12,8 @@
         "course_name": "Essentials of Pathology",
         "course_description": "Provides basic foundation for understanding etiology of disease with emphasis on systemic pathology for non-medical students.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: general biology and one course in either physiology or anatomy",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "general biology and one course in either physiology or anatomy"
     },
     {
         "course_number": "CDS 3460",
@@ -60,7 +60,7 @@
         "course_name": "Organization and Administration",
         "course_description": "(same as RA_SCI 4440 and RS_THR 4440). Examines design and operation of allied health service departments and educational programs, including facilities, personnel procedures, record systems, ethics, medical-legal aspects, interdepartmental relations and curriculum development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Cardiovascular and Pulmonary Diagnostic Applications II",
         "course_description": "Interdisciplinary study of cardiac dysrhythmias, MI, stroke.  Application of current American Heart Association Advanced Cardiac Life Support (AHA ACLS) algorithms.  Successful completion of this course fulfills AHA ACLS Provider requirements.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Clinical Ethics",
         "course_description": "Exploration of bioethics issues in health care with emphasis on issues related to patient choice and provider responsibility.  Topics include philosophical theories, principles and models for ethical and lawful decision making in healthcare.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Clinical Ethics - Writing Intensive",
         "course_description": "Exploration of bioethics issues in health care with emphasis on issues related to patient choice and provider responsibility.  Topics include philosophical theories, principles and models for ethical and lawful decision making in healthcare.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Introduction to Research",
         "course_description": "(same as RS_THR 4955). An interdisciplinary course designed to promote undergraduate allied health research. Includes identifying and designing research problems through formulating relevant questions, learning to systematically search for answers, and methods for searching the literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Introduction to Research - Writing Intensive",
         "course_description": "(same as RS_THR 4955). An interdisciplinary course designed to promote undergraduate allied health research. Includes identifying and designing research problems through formulating relevant questions, learning to systematically search for answers, and methods for searching the literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

@@ -68,7 +68,7 @@
         "course_name": "Biomaterials",
         "course_description": "Engineering sciences and design will be leverage for the study and design of biomaterials.  Understanding the structure-property relationship between biomaterials and tissue will be addressed for implant design.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: BIOL_EN 2180, ENGINR 2200 or instructor's consent",
+        "credit_hours": "3Corequisites: BIOL_EN 2180, ENGINR 2200 or instructor's consent",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Biomaterials - Writing Intensive",
         "course_description": "Engineering sciences and design will be leverage for the study and design of biomaterials.  Understanding the structure-property relationship between biomaterials and tissue will be addressed for implant design.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: BIOL_EN 2180, ENGINR 2200 or instructor's consent",
+        "credit_hours": "3Corequisites: BIOL_EN 2180, ENGINR 2200 or instructor's consent",
         "recommendation": "None Listed"
     },
     {
@@ -124,8 +124,8 @@
         "course_name": "Soil and Water Conservation Engineering",
         "course_description": "(same as CV_ENG 4710; cross-leveled with BIOL_EN 7150, CV_ENG 7710).  Urban and rural run-off and erosion analysis.  Design and layout of erosion control structures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: BIOL_EN 2180 or CV_ENG 3200",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "BIOL_EN 2180 or CV_ENG 3200"
     },
     {
         "course_number": "BIOL_EN 4160",
@@ -172,8 +172,8 @@
         "course_name": "Design of Experiments and Statistical Quality Control for Process Engineers",
         "course_description": "(same as CH_ENG 4270; cross-leveled with BIOL_EN 7270, CH_ENG 7270).  A practical statistical tool box for experimenters including comparison of process means, effects of variables, design and interpretation of factorial experiments, and statistical quality control.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: experience with Excel or instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "experience with Excel or instructor's consent"
     },
     {
         "course_number": "BIOL_EN 4280",
@@ -196,32 +196,32 @@
         "course_name": "Introduction to Bioprocess Engineering",
         "course_description": "(same as CH_ENG 4315; cross-leveled with BIOL_EN 7315, CH_ENG 7315).  This general introduction to bioprocess engineering covers the fundamentals of microbiology and biochemistry in the context of a biomass refinery.  Analyses proceed through the use of mass balances, energy balances, and empirical or theoretical models.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: BIOL_EN 2180 (for Biological Engineering students) or CH_ENG 2225 (for Chemical Engineering students)",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "BIOL_EN 2180 (for Biological Engineering students) or CH_ENG 2225 (for Chemical Engineering students)"
     },
     {
         "course_number": "BIOL_EN 4316",
         "course_name": "Biomass Refinery Operations",
         "course_description": "(same as CH_ENG 4316; cross-leveled with BIOL_EN 7316, CH_ENG 7316).  Design and operation of processes for conversion and/or fractionation of biomass and associated upstream and downstream unit operations.  Emphasis on separations and product recovery.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: BIOL_EN 2180 or CH_ENG 2225 (for Chemical Engineering students) or  instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "BIOL_EN 2180 or CH_ENG 2225 (for Chemical Engineering students) or  instructor's consent"
     },
     {
         "course_number": "BIOL_EN 4350",
         "course_name": "Watershed Modeling Using GIS",
         "course_description": "(same as CV_ENG 4720; cross-leveled with BIOL_EN 7350, CV_ENG 7720).  Watershed evaluation using AVSWAT for hydrology, sediment yield, water quality; includes USLE, MUSLE, WEPP. Procedures for model calibration/sensitivity data analysis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: BIOL_EN 2180 or CV_ENG 3200 or instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "BIOL_EN 2180 or CV_ENG 3200 or instructor's consent"
     },
     {
         "course_number": "BIOL_EN 4370",
         "course_name": "Orthopaedic Biomechanics",
         "course_description": "(cross-leveled with BIOL_EN 7370, V_M_S 7370). Engineering sciences will be leverage to create a comprehensive study of orthopaedic biomechanics.  The tissue mechanics of bone and soft tissue will be studied along with applying structural analysis of the musculoskeletal system. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ENGINR 1200 and BIOL_EN 3170",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ENGINR 1200 and BIOL_EN 3170"
     },
     {
         "course_number": "BIOL_EN 4380",
@@ -252,8 +252,8 @@
         "course_name": "Physics and Chemistry of Materials",
         "course_description": "(same as PHYSCS 4190,CHEM 4490, NU_ENG 4319; cross-leveled with BIOL_EN 7480, PHYSIC 7190, CHEM 7490, NU_ENG 7319).  Physics and Chemistry of Materials is a 3 credit hours undergraduate/graduate level course offered every spring semester for students from Physics, Chemistry, Engineering and Medical Departments and consists of lectures, laboratory demonstrations, two mid term and one final exam. Graduate students will submit a term paper.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: PHYSCS 2760 or CHEM 1320 or equivalent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "PHYSCS 2760 or CHEM 1320 or equivalent"
     },
     {
         "course_number": "BIOL_EN 4550",
@@ -284,8 +284,8 @@
         "course_name": "Mechanical Systems Engineering",
         "course_description": "(cross-leveled with BIOL_EN 7580). Fundamentals and applications of prime movers and power transmissions for the design of engineering systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: ENGINR 2100 or BIOL_EN 4380 or instructor's consentRecommended: Thermodynamics course, Fluid Mechanics course",
-        "recommendation": "None Listed"
+        "credit_hours": "3Corequisites: ENGINR 2100 or BIOL_EN 4380 or instructor's consent",
+        "recommendation": "Thermodynamics course, Fluid Mechanics course"
     },
     {
         "course_number": "BIOL_EN 4670",
@@ -492,7 +492,7 @@
         "course_name": "Biomolecular Engineering and Nanobiotechnology",
         "course_description": "(cross-leveled with BIOL_EN 4470). Generation of biotechnological products, devices through integration of engineering approaches with contemporary biology, chemistry and nanotechnology starting at the molecular level.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -612,7 +612,7 @@
         "course_name": "Sensors and Biosensors",
         "course_description": "The course covers basic principles of chemical and biological sensors, such as immobilization techniques, transducers (optical, electrical, etc.) and performance factors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -628,7 +628,7 @@
         "course_name": "Advanced Ceramic Materials",
         "course_description": "(same as CH_ENG 8230, MAE 8230). To provide an advanced level understanding between processing, properties, and microstructure of ceramic materials.  Topics include crystallography, defect chemistry, transport properties, microstructure, and forming methods.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -644,7 +644,7 @@
         "course_name": "Principles and Applications of Fluorescence",
         "course_description": "Physical foundations of fluorescence, fluorophores, steady-state and lifetime measurements, and instrumentation. Applications in the life science from tissues staining to DNA probes.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -652,7 +652,7 @@
         "course_name": "Advanced Biological Transport Processes",
         "course_description": "Principles of fluid flow, heat transfer, and mass transfer applied to (a) understanding of how the human body functions (from the cellular up to the system level) and (b) designing biomedical devices.  An independent project/case-study of a relevant research topic also required.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -684,7 +684,7 @@
         "course_name": "Research Methods",
         "course_description": "(same as F_S 8402). Review of literature; planning research projects; publication procedures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {

@@ -4,7 +4,7 @@
         "course_name": "Veterinary Anatomy",
         "course_description": "In-depth study of the structure of the horse, ox, sheep, goat, pig and avian species. (Instructional periods 3 and 4).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -12,7 +12,7 @@
         "course_name": "Veterinary Anatomy with Laboratory",
         "course_description": "Continuation of V_BSCI 5011. In-depth study of the structure of the horse, ox, sheep, goat, pig and avian species. (Instructional periods 3 and 4).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Veterinary Gastrointestinal",
         "course_description": "Continuation of V_BSCI 5504. Physiology of the gastrointestinal tract, exocrine pancreas and liver. Lecture and lab designed to emphasize principles important to the practice of veterinary medicine.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Veterinary Endocrinology and Reproductive Physiology",
         "course_description": "Continuation of Veterinary Biomedical Science 5051. Comparative endocrinology and reproductive biology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Veterinary Anatomy with Laboratory",
         "course_description": "Correlative study of the anatomy of domestic and laboratory animals in which the developmental and gross anatomy are integrated. A segment is devoted to neuroanatomy. Dissection includes the dog, cat and common laboratory animals. (Instructional periods 1 and 2).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Veterinary Microscopic Anatomy with Laboratory",
         "course_description": "A study of microscopic anatomy including cytology, histology of basic tissues and microscopic anatomy of cardiovascular, urinary, respiratory systems and the special senses and integument. (Instructional periods 1 and 2).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Veterinary Microscopic Anatomy",
         "course_description": "Particular attention to digestive systems, endocrine organs and reproductive systems. (Instructional period 3).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Veterinary Physiology",
         "course_description": "This course is designed to provide an opportunity and motivation for the student to acquire an understanding of the physiological principles on which rational therapy in medical practice is based.  Topics include: Cellular Neurophysiology, Muscle, Cardiovascular, Renal and Respiratory Physiology.  The course also encourages the student to apply these principles in solving problems so that it becomes habitual for him or her to think in terms of \"mechanisms of action\" as he or she approaches a problem in disturbed physiology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Veterinary Molecular and Cellular Biology",
         "course_description": "(same as V_BSCI 7333) A comprehensive course overviewing molecular and biochemical issues of cell function especially as related to medicine and the underlying molecular causes of disease.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -100,7 +100,7 @@
         "course_name": "Veterinary Pharmacology with Laboratory",
         "course_description": "General principles of pharmacy, pharmacokinetics, and pharmacodynamics, with emphasis on drugs affecting the central and autonomic nervous system, cardiovascular and hematologic systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Veterinary Pharmacology",
         "course_description": "Continuation of V_PBIO 5507. Antiseptics, autocoids, hemostatics and anticoagulants, fluid and electrolytes, reproductive, endocrine, and gastrointestinal drugs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Veterinary Toxicology",
         "course_description": "(Same as V_BSCI 8509) Local and various systemic clinical responses of domestic animals to foreign chemicals including metals, pesticides, water-and food-borne agents, biotoxins, industrial and plant toxins. The principles, mechanism(s) of action, diagnosis, prevention and treatment of chemical intoxications are also presented.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -220,7 +220,7 @@
         "course_name": "Veterinary Physiology",
         "course_description": "Continuation of V_BSCI 8420. Physiology of the gastrointestinal tract, exocrine pancreas, liver, endocrine system and reproduction.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -228,7 +228,7 @@
         "course_name": "Veterinary Toxicology",
         "course_description": "(Same as V_BSCI 5509) Local and various systemic clinical responses of domestic animals to foreign chemicals including metals, pesticides, water-and food-borne agents, biotoxins, industrial and plant toxins. The principles, mechanism(s) of action, diagnosis, prevention and treatment of chemical intoxications are also presented.  Graded A-F only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -260,8 +260,8 @@
         "course_name": "Molecular Exercise Biology",
         "course_description": "(same as MPP 9435). Integrated adaptations of adipose tissue, blood vessels, bone, brain, heart, immune, liver, microbiome, and skeletal muscle to physical training during life. Lifecourse emphasis will be placed upon the role of physical activity during growth and aging in increasing and decreasing, respectively, cardiovascular fitness and strength fitness. The roles of the level of cardiovascular and strength fitness in slowing the onset of chronic diseases and death will be one outcome of the curriculum.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Introductory physiology and molecular biology",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Introductory physiology and molecular biology"
     },
     {
         "course_number": "V_BSCI 9462",

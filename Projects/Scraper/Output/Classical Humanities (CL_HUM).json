@@ -4,7 +4,7 @@
         "course_name": "Greek and Latin in English",
         "course_description": "A survey of the influence of Greek and Latin upon English literary, scientific, technical, legal and medical vocabulary.  Emphasis is upon building competency with complex English words while studying the cultural influence of the classical languages on modern vocabulary.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -12,7 +12,7 @@
         "course_name": "Classical Mythology",
         "course_description": "Myths of Greece and Rome in literature and art.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Classical Mythology - Writing Intensive",
         "course_description": "Myths of Greece and Rome in literature and art.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Greek Culture",
         "course_description": "Survey of Greek life and thought. Principal developments in literature, the arts, politics, religion and philosophy, and their influence on Western civilization.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Roman Culture",
         "course_description": "Survey of Roman life and thought. Principal developments in literature, the arts, politics, religion, philosophy, and private life, and their influence on Western Civilization.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Greek Classics in Translation",
         "course_description": "Reading in translation and critical study of the most important literary works of the ancient Greek World.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Roman Classics in Translation",
         "course_description": "Reading in translation and critical study of the most important literary works of the ancient Roman world.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -100,8 +100,8 @@
         "course_name": "The Origins of Music in the Ancient World",
         "course_description": "Explores the use of music in the earliest historical societies, from the earliest evidence up to the fall of the Roman empire. Topics will include the history of musical instruments, the earliest scores, the development of music theory, the origins of melody, rhythm, and harmony, and the relationship between music, politics, and religion. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060; CL_HUM 2100; CL_HUM 2200",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060; CL_HUM 2100; CL_HUM 2200"
     },
     {
         "course_number": "CL_HUM 2940",
@@ -116,8 +116,8 @@
         "course_name": "Foreigners and Dangerous Women in Greek and Latin Literature",
         "course_description": "(same as PEA_ST 3130). The study of how Greek and Roman writers depicted and reacted to other races and cultures, compared them with their own, and thereby revealed their own values and prejudices.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3000H",
@@ -132,8 +132,8 @@
         "course_name": "Foreigners and Dangerous Women in Greek and Latin Literature - Writing Intensive",
         "course_description": "(same as PEA_ST 3130). The study of how Greek and Roman writers depicted and reacted to other races and cultures, compared them with their own, and thereby revealed their own values and prejudices.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3005",
@@ -164,16 +164,16 @@
         "course_name": "Ancient Western Philosophy",
         "course_description": "(same as PHIL 3000). Philosophical thought on nature, knowledge, the gods, human life and society, from Thales to Augustine. Emphasis on Plato and Aristotle. The relevance of the ancients to contemporary life.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3050",
         "course_name": "Philosophy Before Socrates",
         "course_description": "A study of the origin of philosophical thinking in the Ancient Greek world.  Topics to be explored include the nature of reality and our knowledge of it, the structure and constituents of the cosmos, human excellence and its relation to morality, political power, and happiness.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3050H",
@@ -188,8 +188,8 @@
         "course_name": "The Age of Pericles",
         "course_description": "A study of the literature and culture of the 5th and early 4th centuries B.C. in Athens. Authors will include Thucydides, Herodotus, Xenophon, Plato, Aristotle, the tragedians and Aristophanes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3100H",
@@ -204,8 +204,8 @@
         "course_name": "The Age of Augustus",
         "course_description": "Study of the literature of the Age of Augustus; Vergil, Ovid, Horace, Livy, and Propertius.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3150H",
@@ -220,8 +220,8 @@
         "course_name": "Power and Oratory in Ancient Greece",
         "course_description": "Concentrates on the rise of oratory in Greece and how oratory was exploited for political ends. Special attention will be paid to the Athenian Democracy in the fifth and fourth centuries BC.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3200H",
@@ -236,16 +236,16 @@
         "course_name": "Roman Comedy, Wit and Humor",
         "course_description": "Study of works illustrating the comedy, wit and humor of the Romans: readings in comedies of Plautus and Terence, Catullus, Ovid's Metamorphoses,  Petronius' Satyricon, Martial, Juvenal and Macrobius.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3250",
         "course_name": "Greek and Roman Epic",
         "course_description": "A study of the major representatives of the ancient epic genre. Readings will include Homer's Iliad and Odyssey, Apollonius' Argonautica, Vergil's Aeneid.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3250H",
@@ -260,8 +260,8 @@
         "course_name": "Greek Drama",
         "course_description": "Reading and interpretation of Greek tragedies and comedies in translation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3300H",
@@ -276,8 +276,8 @@
         "course_name": "Advanced Mythology",
         "course_description": "Interpretation of selected classical myths and their influence on later literature and art.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3350H",
@@ -292,8 +292,8 @@
         "course_name": "Murder and Mayhem: Images of Justice in Classical Antiquity",
         "course_description": "Ideas of justice from Homer through the early Roman Empire; personal vengeance, law courts and trials, philosophical attitudes, women and courts, techniques of persuasion.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3400H",
@@ -308,16 +308,16 @@
         "course_name": "Murder and Mayhem: Images of Justice in Classical Antiquity - Writing Intensive",
         "course_description": "Ideas of justice from Homer through the early Roman Empire; personal vengeance, law courts and trials, philosophical attitudes, women and courts, techniques of persuasion.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3450",
         "course_name": "Greek and Roman Characters and Ideals",
         "course_description": "Study of selected types of characters admired and imitated or hated and rejected in classical antiquity; heroes, philosophers, women.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3450H",
@@ -332,16 +332,16 @@
         "course_name": "War and Democracy in Late 5th c. BCE Athens",
         "course_description": "(same as PEA_ST 3550).  Explores the discourse on war and peace in Athenian texts and art that survives from the last quarter of the 5th century B.C.E.  This was a period of relentless warfare: the Athenians were fighting the Spartans, Sparta's allies, unaligned cities and several of their own subject states.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3600",
         "course_name": "The Ancient Novel",
         "course_description": "Reading and analysis of Greek and Latin prose fiction: ideal and comic romance, fantasy, romantic biography; Hellenistic background.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3600H",
@@ -356,8 +356,8 @@
         "course_name": "Paganism and Christianity",
         "course_description": "A study of the transition from Paganism to Christianity in the Roman Empire, as seen by observers contemporary with the events.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3650H",
@@ -372,16 +372,16 @@
         "course_name": "Paganism and Christianity - Writing Intensive",
         "course_description": "A study of the transition from Paganism to Christianity in the Roman Empire, as seen by observers contemporary with the events.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3700",
         "course_name": "Women in the Ancient World",
         "course_description": "Using classical literary texts as the central focus this course examines the role of women: the conflict inherent in their obligations and their identity in the context of these obligations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3700H",
@@ -396,8 +396,8 @@
         "course_name": "Classics in a Cross-Cultural Context",
         "course_description": "The goal of this course is to place classical literature in a multicultural context by studying Greek and Latin literary texts alongside verbal art from non-European as well as European cultures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3750H",
@@ -412,24 +412,24 @@
         "course_name": "The Ancient World on Film",
         "course_description": "(same as AR_H_A 3775 and FILM_S 3775).  This course explores how classical antiquity has been represented in twentieth and twenty-first-century film, with particular emphasis on the ways in which ancient narratives and iconography have been appropriated by filmmakers to address contemporary cultural issues.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3775W",
         "course_name": "The Ancient World on Film - Writing Intensive",
         "course_description": "(same as AR_H_A 3775 and FILM_S 3775).  This course explores how classical antiquity has been represented in twentieth and twenty-first-century film, with particular emphasis on the ways in which ancient narratives and iconography have been appropriated by filmmakers to address contemporary cultural issues.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 3800",
         "course_name": "Sports and Spectacles in Greco-Roman Antiquity",
         "course_description": "Investigates athletic display in ancient Greek and Roman culture, from its earliest representations in Greek literature to the massive spectacles of the Roman empire, with an emphasis on the intersections between sport and spectacle and other areas of ancient cultural life.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 4005",
@@ -444,8 +444,8 @@
         "course_name": "Greece: From the Bronze Age to the Byzantine Empire",
         "course_description": "Study abroad in Greece, in conjunction with the MU International Center. Immersion in the physical and intellectual heritage of ancient Greece; emphasis on cross-disciplinary, on-site learning and the intersections among ancient, Byzantine, and modern Greece. Application required. Graded on A/F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 6Recommended: CL_HUM 1060",
-        "recommendation": "None Listed"
+        "credit_hours": "6",
+        "recommendation": "CL_HUM 1060"
     },
     {
         "course_number": "CL_HUM 4100H",
@@ -460,8 +460,8 @@
         "course_name": "Greek and Roman Religion",
         "course_description": "(same as REL_ST 4500). Survey of religious development among the Greeks and Romans.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060 and junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060 and junior standing"
     },
     {
         "course_number": "CL_HUM 4500H",
@@ -476,8 +476,8 @@
         "course_name": "Literature and Culture of the Hellenistic Age",
         "course_description": "(cross-leveled with CL_HUM 7550). A survey of the literature and culture of the Hellenistic Age.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060 and junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060 and junior standing"
     },
     {
         "course_number": "CL_HUM 4550H",
@@ -492,8 +492,8 @@
         "course_name": "The Classical Tradition",
         "course_description": "Selected studies in continuity and influence of Greek and Roman culture on Middle Ages, Renaissance, and modern times.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060 and junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060 and junior standing"
     },
     {
         "course_number": "CL_HUM 4600H",
@@ -508,24 +508,24 @@
         "course_name": "The Classical Tradition - Honors/Writing Intensive",
         "course_description": "Selected studies in continuity and influence of Greek and Roman culture on Middle Ages, Renaissance, and modern times.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060 and junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060 and junior standing"
     },
     {
         "course_number": "CL_HUM 4600W",
         "course_name": "The Classical Tradition - Writing Intensive",
         "course_description": "Selected studies in continuity and influence of Greek and Roman culture on Middle Ages, Renaissance, and modern times.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060 and junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060 and junior standing"
     },
     {
         "course_number": "CL_HUM 4650",
         "course_name": "The World of Late Antiquity",
         "course_description": "(cross-leveled with CL_HUM 7650). A survey of the literature, culture, and history of the late Roman and early Byzantine periods. Attention to Christianity's development and the transformation of the classical heritage.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060 and junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060 and junior standing"
     },
     {
         "course_number": "CL_HUM 4650H",
@@ -540,8 +540,8 @@
         "course_name": "Oral Tradition",
         "course_description": "(same as ENGLSH 4770). Study of verbal art from living oral traditions (e.g. Native American and African American) and important literary works with roots in oral tradition (e.g. the Bible, the Iliad and Odyssey, and Beowulf).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060 and junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060 and junior standing"
     },
     {
         "course_number": "CL_HUM 4770H",
@@ -556,8 +556,8 @@
         "course_name": "Political Thought in Classical and Christian Antiquity",
         "course_description": "(same as POL_SC 4800).  Reading and discussion of Greek, Roman, and Early Christian treatises on politics and political life. Survey of the political institutions and procedures of the Greek city states and Roman Republic and Empire. Examination of contemporary Christian responses and adaptations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CL_HUM 1060 and junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CL_HUM 1060 and junior standing"
     },
     {
         "course_number": "CL_HUM 4970",
@@ -588,7 +588,7 @@
         "course_name": "Literature and Culture of the Hellenistic Age",
         "course_description": "(cross-leveled with CL_HUM  7550). A survey of the literature and culture of the Hellenistic Age. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -596,7 +596,7 @@
         "course_name": "The World of Late Antiquity",
         "course_description": "(cross-leveled with CL_HUM 4650). A survey of the literature, culture, and history of the late Roman and early Byzantine periods. Attention to Christianity's development and the transformation of the classical heritage.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     }
 ]

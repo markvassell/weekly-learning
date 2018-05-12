@@ -4,7 +4,7 @@
         "course_name": "Elementary Chinese I",
         "course_description": "For beginners with no prior knowledge of Chinese.  Five hours of classroom instruction, with one hour lab work weekly.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 6",
+        "credit_hours": "6",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Chinese Civilization I",
         "course_description": "Survey of Chinese culture and arts. No knowledge of Chinese is required. No foreign language credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

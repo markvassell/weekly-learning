@@ -76,7 +76,7 @@
         "course_name": "Environmental Land Use Management",
         "course_description": "An introduction to environmentally sustainable use and management of land.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Environmental Soil Physics Laboratory",
         "course_description": "(same as SOIL 4306).  Introduction to the methodology and equipment for measurement of soil physical properties and processes.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: ENV_SC 4305",
+        "credit_hours": "2Prerequisites or Corequisites: ENV_SC 4305",
         "recommendation": "None Listed"
     },
     {
@@ -204,7 +204,7 @@
         "course_name": "Environmental Soil Physics Laboratory",
         "course_description": "(same as SOIL 7306). Introduction to the methodology and equipment for measurement of soil physical properties and properties and processes. Prerequisites or Corerquisites:  SOIL 4305.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -212,7 +212,7 @@
         "course_name": "Environmental Soil Microbiology",
         "course_description": "(same as SOIL 7312). Microbiology/ecology of life in the soil ecosystem. Emphasis is placed on the role of microbes in nutrient cycling, microbial pesticide/xenobiotic degradation and bioremediateion, soil quality and pathogen regulation in the environment.  Nitrogen fixation, mycorrhizal processes are discussed.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

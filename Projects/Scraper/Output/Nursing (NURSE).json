@@ -84,15 +84,15 @@
         "course_name": "Nursing Skills, Technologies, and Simulation",
         "course_description": "Provides laboratory experiences for fundamental to complex nursing skills and procedures. Focuses on application of therapeutic interventions and procedure to provide safe, patient-centered care.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: NURSE 3270",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "NURSE 3270"
     },
     {
         "course_number": "NURSE 3180",
         "course_name": "Role Transitions",
         "course_description": "Explores returning-to-school issues important to adult learners. Links previous basic nursing courses with baccalaureate courses and begins building new knowledge on prior nursing education.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: NURSE 3080",
+        "credit_hours": "3Prerequisites or Corequisites: NURSE 3080",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Foundations of Nursing: Physical Assessment and the Nursing Process",
         "course_description": "NURSE 3270 provides knowledge and skills in physical assessment and the application of the Nursing Process.  Clinical application of foundational knowledge determines the health status of individuals.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 5Prerequisites or Corequisites: For Clinical BSN, students must have completed NURSE 2000 and NURSE 2100 and be concurrently enrolled in NURSE 3170, NURSE  3200, NURSE 3300; for Clinical BSN Accelerated students must have completed NURSE 3200 or NURSE 3260 and be concurrently enrolled  NURSE 3170 and NURSE 3100 or NURSE 3300",
+        "credit_hours": "5Prerequisites or Corequisites: For Clinical BSN, students must have completed NURSE 2000 and NURSE 2100 and be concurrently enrolled in NURSE 3170, NURSE  3200, NURSE 3300; for Clinical BSN Accelerated students must have completed NURSE 3200 or NURSE 3260 and be concurrently enrolled  NURSE 3170 and NURSE 3100 or NURSE 3300",
         "recommendation": "None Listed"
     },
     {
@@ -124,8 +124,8 @@
         "course_name": "Pharmacology and Nursing Implications",
         "course_description": "This course will focus on pharmacological classifications and the nurse's role in medication administration and patient education.  Medication issues with special populations will be addressed.  Graded on a A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: PTH_AS 2201 and PTH_AS 2203 and MPP 3202",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "PTH_AS 2201 and PTH_AS 2203 and MPP 3202"
     },
     {
         "course_number": "NURSE 3350",
@@ -188,7 +188,7 @@
         "course_name": "Nursing Ethics and Law",
         "course_description": "This course examines and explores legal and ethical principles and applications as they pertain to clinical nursing practice and healthcare. The information in this course is applied in concurrent and subsequent program courses and provides a foundation for ethical and legal professional nursing practice.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: NURSE 3270 or NURSE 3080",
+        "credit_hours": "3Prerequisites or Corequisites: NURSE 3270 or NURSE 3080",
         "recommendation": "None Listed"
     },
     {
@@ -220,7 +220,7 @@
         "course_name": "Nursing Issues/Leadership and Management",
         "course_description": "Examines leadership and organizational theories in relation to resource management and effective delivery of nursing to sets of clients. Analyzes societal/political issues and trends related to nursing and contemporary health care.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: NURSE 3670 or NURSE 3180",
+        "credit_hours": "2Prerequisites or Corequisites: NURSE 3670 or NURSE 3180",
         "recommendation": "None Listed"
     },
     {
@@ -252,7 +252,7 @@
         "course_name": "Women's Health",
         "course_description": "A survey of international and domestic women's health issues; considers historical antecedents and specific effects of socio-cultural variables and economic development on women's health in developing and developed nations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -292,7 +292,7 @@
         "course_name": "Nursing Theory and Research",
         "course_description": "Addresses nursing research as means of acquiring and refining knowledge. Research utilization to impact nursing addressed. Examines development and utilization of nursing theory, primarily Self-Care Deficit Nursing Theory.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: NURSE 3080",
+        "credit_hours": "3Prerequisites or Corequisites: NURSE 3080",
         "recommendation": "None Listed"
     },
     {
@@ -300,7 +300,7 @@
         "course_name": "Nursing Theory and Research - Writing Intensive",
         "course_description": "Addresses nursing research as means of acquiring and refining knowledge. Research utilization to impact nursing addressed. Examines development and utilization of nursing theory, primarily Self-Care Deficit Nursing Theory.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: NURSE 3080",
+        "credit_hours": "3Prerequisites or Corequisites: NURSE 3080",
         "recommendation": "None Listed"
     },
     {
@@ -332,7 +332,7 @@
         "course_name": "Biostatistical Foundations for Health Researchers",
         "course_description": "Examines basic concepts of data management, study design, descriptive and inferential biostatistics using analytic software. Emphasizes statistical literacy and critical thinking for health researchers. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -356,7 +356,7 @@
         "course_name": "Theoretical Basis for Advanced Nursing",
         "course_description": "Analysis, application and evaluation of a variety of nursing and non nursing theories used in advanced nursing practice and research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -372,7 +372,7 @@
         "course_name": "Trends and Issues in Nursing",
         "course_description": "Issues and trends involving professional nursing practice are examined from socioeconomic, organizational, legal and ethical perspectives. Past, present and future roles and practice of nurses are examined.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -380,7 +380,7 @@
         "course_name": "Advanced Physiology and Pathophysiology",
         "course_description": "Focus on the normal and altered physiological functioning of body systems.  Provides essential knowledge of human health and disease across the lifespan necessary for advanced nursing practice.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -412,7 +412,7 @@
         "course_name": "Stress Management",
         "course_description": "Review of contemporary research on the causes, prevention, and treatment of stress. Examination of utility and validity of a variety of stress reduction methods. Development of selected self-management skills.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -420,7 +420,7 @@
         "course_name": "Legal Parameters of Nursing",
         "course_description": "This course provides the basic doctrines and principles of the law foundational to legally sound nursing practice. Included among significant topics are tort law, nurse practice act, licensure, effect of contract law.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -428,7 +428,7 @@
         "course_name": "Advanced Health Assessment for Pediatric Nursing Practice",
         "course_description": "Comprehensive assessment of children through adolescence including those with significant health and/or developmental deviations using advanced diagnostic reasoning process. Emphasis on health history, cultural diversity, differentiation, interpretation and documentation of findings.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3.5",
+        "credit_hours": "3.5",
         "recommendation": "None Listed"
     },
     {
@@ -436,7 +436,7 @@
         "course_name": "Pediatric Pharmacology for Advanced Nursing Practice",
         "course_description": "Clinical pharmacotherapeutics course that builds on prior pharmacology knowledge. Major focus is pharmacotherapeutics for primary care management of children to age eighteen. Emphasis on clinical critical thinking used to prescribe drugs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -444,7 +444,7 @@
         "course_name": "Women's Health",
         "course_description": "A survey of international and domestic women's health issues; considers historical antecedents and specific effects of socio-cultural variables and economic development on women's health in developing and developed nations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -452,7 +452,7 @@
         "course_name": "Physical Function and Older Adults",
         "course_description": "(Same as F_C_MD 7750, ARCHST 7640, HMI 7750, H_D_FS 7750, P_HLTH 7750, and SOC_WK 7752). This course takes an interdisciplinary approach to understanding and improving the physical function and independence of older adults and explores approaches to alleviate disabling conditions that interfere with physical function and quality of life in old age.  Graded A-F only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -460,7 +460,7 @@
         "course_name": "Psychosocial Function and Older Adults",
         "course_description": "(same as ARCHST 7650,  F_C_MD 7751, HMI 7751, H_D_FS 7751, P_HLTH 7751 and SOC_WK 7751).  This course takes an Interdisciplinary approach to understanding the psychosocial function of older adults and explores approaches to alleviate disabling conditions that interfere with psychosocial function and quality of life in old age.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -476,7 +476,7 @@
         "course_name": "Topics in Advanced Clinical Nursing",
         "course_description": "Specialized topics in advanced clinical nursing not available through regularly offered courses.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -484,7 +484,7 @@
         "course_name": "Research Topics in Nursing and Health",
         "course_description": "Topics courses are intended for special offerings, or as opportunities to experiment with a new course prior to seeking approval for it as a regular course. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -540,7 +540,7 @@
         "course_name": "Concepts for Specialization in Public Health Nursing",
         "course_description": "Key concepts fundamental to specialization in public health nursing, including core public health functions. Emphasis upon integrating public health science, nursing theory, and methodological/leadership skills.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: NURSE 7100",
+        "credit_hours": "3Prerequisites or Corequisites: NURSE 7100",
         "recommendation": "None Listed"
     },
     {
@@ -812,7 +812,7 @@
         "course_name": "Nursing and Health Policy",
         "course_description": "Designed to explore and critically evaluate the role of nursing and nurse leaders/scholars in health policy development and the organization and financing of health care in response to the health and social needs of the public.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -876,7 +876,7 @@
         "course_name": "Leadership and Transformational Role Institute",
         "course_description": "Synthesis of advanced nursing practice knowledge and leadership skills.  Prepares DNP graduate to implement an advanced nursing practice role that will result in practice and/or policy change at the local, state, or national levels.   May be repeated for credit.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: NURSE 9080 and NURSE 9070",
+        "credit_hours": "2Prerequisites or Corequisites: NURSE 9080 and NURSE 9070",
         "recommendation": "None Listed"
     },
     {
@@ -916,7 +916,7 @@
         "course_name": "Philosophy of Science in Nursing",
         "course_description": "Overview of foundational concepts of philosophy-history of science; development and evolution of science and philosophical perspectives of nature of science including logical, empiricism, historicism, post-structuralism as related to nursing science/nursing research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -980,7 +980,7 @@
         "course_name": "Theories and Interventions in Health Behavior Science",
         "course_description": "Focuses on health behavior science theories, linking theories to measurement, and designing health behavior interventions.  Graded on A-F basis only.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: NURSE 9100, NURSE 9120 or faculty consent",
+        "credit_hours": "3Prerequisites or Corequisites: NURSE 9100, NURSE 9120 or faculty consent",
         "recommendation": "None Listed"
     },
     {

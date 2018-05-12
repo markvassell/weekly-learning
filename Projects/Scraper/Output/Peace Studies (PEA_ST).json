@@ -4,7 +4,7 @@
         "course_name": "Topics in Peace Studies",
         "course_description": "Underclass topics. Subjects may vary from semester to semester. May be repeated to 6 hours maximum. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,23 +36,23 @@
         "course_name": "Introduction to Peace Studies",
         "course_description": "Interdisciplinary overview including theories on the nature of aggression and war, case studies of contemporary conflicts, consideration of various peace proposals, conditions making war or peace likely.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: sophomore standing. Writing intensive not fulfilled unless ENGLSH 1000 or equivalent has already been taken",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "sophomore standing. Writing intensive not fulfilled unless ENGLSH 1000 or equivalent has already been taken"
     },
     {
         "course_number": "PEA_ST 1050W",
         "course_name": "Introduction to Peace Studies - Writing Intensive",
         "course_description": "Interdisciplinary overview including theories on the nature of aggression and war, case studies of contemporary conflicts, consideration of various peace proposals, conditions making war or peace likely.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: sophomore standing. Writing intensive not fulfilled unless ENGLSH 1000 or equivalent has already been taken",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "sophomore standing. Writing intensive not fulfilled unless ENGLSH 1000 or equivalent has already been taken"
     },
     {
         "course_number": "PEA_ST 1051",
         "course_name": "International Conflict Resolution and Group Reconciliation",
         "course_description": "Theories of conflict resolution. We will study achieving peace through techniques and institutions that attempt personal and interactive reconciliation of opposing groups personally. Case studies might include the \"Truth and Reconciliation\" committees following South African Independence, and similar projects to promote inter-group understanding in Middle East conflicts. The course will then analyze examples of the resolution of major international conflicts and issues, such as the Irish Peace Accords, the Camp David peace process for the Middle East, Strategic Nuclear Arms Limitation, and the Kyoto Protocol.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "International Conflict Resolution and Group Reconciliation - Writing Intensive",
         "course_description": "Theories of conflict resolution. We will study achieving peace through techniques and institutions that attempt personal and interactive reconciliation of opposing groups personally. Case studies might include the \"Truth and Reconciliation\" committees following South African Independence, and similar projects to promote inter-group understanding in Middle East conflicts. The course will then analyze examples of the resolution of major international conflicts and issues, such as the Irish Peace Accords, the Camp David peace process for the Middle East, Strategic Nuclear Arms Limitation, and the Kyoto Protocol.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Global Warming, Climate Change, Catastrophic Climate Destabilization",
         "course_description": "Global warming, climate change and catastrophic climate destabilization as alternate conceptualizations. The greenhouse gas effect; the consequences of climate change for oceans, fresh water ecosystems, forests, agriculture, biodiversity, public health, social justice and global social stability. Potential solutions will be considered, including sustainable energy sources, efficiency of energy use, divestment from fossil fuels, and putting a price on carbon.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Global Warming, Climate Change, Catastrophic Climate Destabilization - Writing Intensive",
         "course_description": "Global warming, climate change and catastrophic climate destabilization as alternate conceptualizations. The greenhouse gas effect; the consequences of climate change for oceans, fresh water ecosystems, forests, agriculture, biodiversity, public health, social justice and global social stability. Potential solutions will be considered, including sustainable energy sources, efficiency of energy use, divestment from fossil fuels, and putting a price on carbon.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Terror, Violence, and Guns",
         "course_description": "An examination of gun violence focusing on international terrorist groups, state sanctioned violence, militias, gun violence and violence against women. Accounts of recruitment to violent actions and political groups, contrasted to the research on recruitment processes. Alternate public policies for the reduction of violence. Presentation of a diversity of viewpoints and concepts will be emphasized, especially in participatory formats such as panel discussions composed of students, and in formats that involve presentations in various media to the public outside the classroom.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Population and Ecology",
         "course_description": "(same as RU_SOC 1120 and SOCIOL 1120).  Changes in the structure and characteristics of population groups and their relationship to both human and non-human aspects of the biophysical environment.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Russia in Modern Times",
         "course_description": "(same as HIST 1610). Survey of Russian History from 1801 to present.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -188,7 +188,7 @@
         "course_name": "Perspectives on Peace in the Middle East",
         "course_description": "This course examines conflict theories, international relation theories and Middle Eastern politics. It is intended as a comprehensive applied study of these theories. The initial weeks will cover the major conflict theories including social learning theory, social identity theory, relative deprivation theory, human needs theory, and rational choice theory. The focus of this course will primarily be on conflicts and peace efforts of the Middle East including but not limited to: the Arab Spring, the Israeli-Palestinian conflict, Jordanian-Palestinian identity issue, peace efforts in the Middle East. Ultimately, students should explore ways to bridge the theories learned and apply them to conflicts, negotiation and peace efforts in the Middle East.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -212,8 +212,8 @@
         "course_name": "Critical Dialogues: Nonviolence in Peace/Democracy Movements",
         "course_description": "(same as SOCIOL 2182). History and theory of movements for peace, justice, and democracy. Development of violent and nonviolent tactics and factions in movements; relationship to state authority. Cases such as Gandhi's Independence, American Civil Rights, Arab Spring, and Occupy movements.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: PEA_ST 1050",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "PEA_ST 1050"
     },
     {
         "course_number": "PEA_ST 2182W",
@@ -236,7 +236,7 @@
         "course_name": "Nuclear Weapons: Environmental, Health and Social Effects",
         "course_description": "(same as HLTH_SCI 2200 and SOCIOL 2281).  Environmental consequences of the nuclear arms race, \"regional\" nuclear war, and weapons testing for human health, agriculture, and society. Examining \"a world without nuclear weapons\"; political dialogue on proliferation; Iran, North Korea, and nuclear weapons conventions. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -244,7 +244,7 @@
         "course_name": "Nuclear Weapons: Environmental, Health and Social Effects-Writing Intensive",
         "course_description": "(same as HLTH_SCI 2200 and SOCIOL 2281).  Environmental consequences of the nuclear arms race, \"regional\" nuclear war, and weapons testing for human health, agriculture, and society. Examining \"a world without nuclear weapons\"; political dialogue on proliferation; Iran, North Korea, and nuclear weapons conventions. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -268,7 +268,7 @@
         "course_name": "Youth, Islam, and Global Cultures",
         "course_description": "(same as SOCIOL 2255). Youth subcultures and the social issues and problems faced by youth, focusing on the Islamic world and Muslim immigrants, in the United States and elsewhere. Social and behavioral theories and concepts such as paths to modernization, Orientalism, post-colonialism, population movements, social construction, identity, and recognition will be illustrated.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -276,7 +276,7 @@
         "course_name": "Race, Democracy, and Violence in Cuba and Haiti",
         "course_description": "(same as SOCIOL 2280, GEOG 2280).  A sociological approach to understand race/ethnicity, identity, citizenship, human rights, violence, and political and economic systems in the Caribbean. Comparisons of the culture, politics, and historical trajectories of Cuba and Haiti using Post-Colonial and Feminist theories. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -284,7 +284,7 @@
         "course_name": "Race, Democracy, and Violence in Cuba and Haiti - Writing Intensive",
         "course_description": "(same as SOCIOL 2280, GEOG 2280).  A sociological approach to understand race/ethnicity, identity, citizenship, human rights, violence, and political and economic systems in the Caribbean. Comparisons of the culture, politics, and historical trajectories of Cuba and Haiti using Post-Colonial and Feminist theories. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -292,7 +292,7 @@
         "course_name": "Critical Dialogs: Global Environmental Policy Conflicts",
         "course_description": "(same as SOCIOL 2284). Climate change, water supplies, food, sustainability, industrialization, and chemical, oil, radioactive pollution.  Activity of transnational corporations, social harm, and formulation of international policies.  Analysis of alternatives using criteria of justice: distribution, recognition, participation, legality.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -300,7 +300,7 @@
         "course_name": "Large Corporations, Economic Crisis, Social Responsibility",
         "course_description": "(same as SOCIOL 2285). Institutional power of the corporate CEO; ethical regulatory restraint.  Historical contexts of economic crisis.  Theories of justice, alternative concepts of justice in popular culture.  Politics of policy issues in prosecution and criminalization of corporate behavior.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -308,7 +308,7 @@
         "course_name": "Technological Futures, National Security, and Civil Liberties",
         "course_description": "(same as SOCIOL 2286).Contemporary practices and future trends in data collection and mining by the NSA and by businesses. The interplay of government and corporate power, and possibilities of regulation and maintenance of privacy and civil liberties. The development of digital intellectual copyright and its consequences on patterns of dissemination of knowledge.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -316,7 +316,7 @@
         "course_name": "Technological Futures, National Security, and Civil Liberties - Writing Intensive",
         "course_description": "(same as SOCIOL 2286).Contemporary practices and future trends in data collection and mining by the NSA and by businesses. The interplay of government and corporate power, and possibilities of regulation and maintenance of privacy and civil liberties. The development of digital intellectual copyright and its consequences on patterns of dissemination of knowledge.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Conspiracies, Popular Imagination, Evidence",
         "course_description": "In-depth and critical analysis of cases involving allegations of \"conspiracy\" in international affairs, contrasted with official reports and presentations of evidence in a variety of venues. Conspiracy theories considered might include those centering on 9-11 and the Kennedy assassination. Conspiracy theories will be compared and contrasted to what is known about secrecy and the functioning of elite political and economic institutions such as the Trilateral Commission and campaign financing organizations. Students will analyze a variety of NGO and government documents and investigative journalism drawing on Wiki Leaks. We will compare and contrast what is considered evidence in different venues such as the criminal justice system, government reports, journalism, and academic writing by historians, social and behavioral scientists, and natural scientists. Concepts clarified and utilized will include: state corporate crime, system determination, social construction, narrative, historical memory, symbolic politics, and individual and group responsibility.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -332,7 +332,7 @@
         "course_name": "Conspiracies, Popular Imagination, Evidence - Writing Intensive",
         "course_description": "In-depth and critical analysis of cases involving allegations of \"conspiracy\" in international affairs, contrasted with official reports and presentations of evidence in a variety of venues. Conspiracy theories considered might include those centering on 9-11 and the Kennedy assassination. Conspiracy theories will be compared and contrasted to what is known about secrecy and the functioning of elite political and economic institutions such as the Trilateral Commission and campaign financing organizations. Students will analyze a variety of NGO and government documents and investigative journalism drawing on Wiki Leaks. We will compare and contrast what is considered evidence in different venues such as the criminal justice system, government reports, journalism, and academic writing by historians, social and behavioral scientists, and natural scientists. Concepts clarified and utilized will include: state corporate crime, system determination, social construction, narrative, historical memory, symbolic politics, and individual and group responsibility.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -340,7 +340,7 @@
         "course_name": "Sports, Protest Movements, and Conflict Resolution",
         "course_description": "This course will critically analyze the social significance of sports, focusing on events leading to and influencing protest movements and the peaceful outcomes (or lack thereof)of these movements through conflict resolution. We will identify the non-violent behaviors, strategies, and ideologies of numerous athletes such as: Muhammad Ali, Jim Brown, Harry Edwards, John Carlos and Tommy Smith, Colin Kaepernick, and their particular methods of rebellion and representation of issues. Furthermore, we will examine how fans, organizations, media, and sporting committees (i.e. International Olympic Committee) have reacted to athlete revolts, and the effectiveness of revolts in changing society.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -348,7 +348,7 @@
         "course_name": "Sports, Protest Movements, and Conflict Resolution - Writing Intensive",
         "course_description": "This course will critically analyze the social significance of sports, focusing on events leading to and influencing protest movements and the peaceful outcomes (or lack thereof)of these movements through conflict resolution. We will identify the non-violent behaviors, strategies, and ideologies of numerous athletes such as: Muhammad Ali, Jim Brown, Harry Edwards, John Carlos and Tommy Smith, Colin Kaepernick, and their particular methods of rebellion and representation of issues. Furthermore, we will examine how fans, organizations, media, and sporting committees (i.e. International Olympic Committee) have reacted to athlete revolts, and the effectiveness of revolts in changing society.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -356,7 +356,7 @@
         "course_name": "Towns in Missouri and the Midwest: Voices and Inequalities",
         "course_description": "Focusing on towns and communities and their regional history and cultural traditions, we will examine the issues and concerns of small town America in the context of recent hardships and adverse economic trends. Examples of topics to be covered include case studies of communities such as Marceline, Missouri (Walt Disney's boyhood home), race and the immigration of non-whites in to rural areas; gender roles in small communities, the role of religion in small-town identity formation, and other current issues faced by \"middle America\". The responsiveness of government, large corporations, and institutions to the problems of diverse communities will be critically examined, with a multidisciplinary approach that will draw on key theories and works in the disciplines of sociology, rural sociology, community development, and geography.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -364,7 +364,7 @@
         "course_name": "Towns in Missouri and the Midwest: Voices and Inequalities - Writing Intensive",
         "course_description": "Focusing on towns and communities and their regional history and cultural traditions, we will examine the issues and concerns of small town America in the context of recent hardships and adverse economic trends. Examples of topics to be covered include case studies of communities such as Marceline, Missouri (Walt Disney\u001as boyhood home), race and the immigration of non-whites in to rural areas; gender roles in small communities, the role of religion in small-town identity formation, and other current issues faced by \u001amiddle America\u001a. The responsiveness of government, large corporations, and institutions to the problems of diverse communities will be critically examined, with a multidisciplinary approach that will draw on key theories and works in the disciplines of sociology, rural sociology, community development, and geography.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -372,7 +372,7 @@
         "course_name": "Drugs, Violence and the Police in Latin America and Latina/o Communities in the United States",
         "course_description": "A regional and global perspective on the \"war on drugs\" and violence in Latin American countries such as Mexico and Colombia, as well as the United States. The course may include units on such topics as: the recent history of gangs in US urban areas; political violence in Central America and such countries as Colombia and Venezuela; and attempts to mediate and reconcile social conflicts and war in those areas. The interplay between gangs, drug policies, policing, and citizens' action and protests in major cities of the hemisphere, such as in Argentina and Brazil. Drugs, policing, gangs, and violence as a symbolic and hot button issue in domestic politics, and the consequences for public policy and the character of the discourse about public policy.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -380,7 +380,7 @@
         "course_name": "Information Technology: Facilitation and Constraint for the Creative Mind",
         "course_description": "This course will enable students to evaluate contrasting interpretations by leading thinkers about the development of information technologies, the internet, and robotics and artificial intelligence. Current debates will be covered; topics might include: views that social media are constraining the development of human relationships (Turkel); that commercialization of the internet reduces its function to attention getting (Wu); that automation degrades the humanity of work (Carr) and restricts the pay for producing creative content (Lanier). On the other hand, the course will consider arguments that human mind can be reverse reengineered to advance a new era of artificially intelligent machines (Kurzweil). Current theories of information technology and society will be grounded in the multidisciplinary thinking about mind, intelligence, art, and work.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -388,7 +388,7 @@
         "course_name": "Internet Identities, and the Clash of Global Countercultures and Oppositional Cultures",
         "course_description": "This course problematizes the development of individual and group identities on the internet and social media due to their multiple, global, shallow, shifting, segmented, and conflictual character. We emphasize a multidisciplinary examination of the internet presentation of diverse identities such as those of the 1960s counter-culture, the Christian right, militias, the alt-right, rural towns, terrorist cells, and life-style and sectarian political and religious groups. We will also examine the processes of publicity and celebrity in the creation of personal identities such as \"entrepreneur\" (Bill Gates and Steve Jobs), \"geek\", \"hacker,\" and anonymous, and the development of internet technologies and personal identities in the context of commercialism and ideals such as freedom and rebellion. The intersection of personal, work, and professional identities will be considered. Sources will include autobiography, biography, and literature on such topics as diaspora, borders, Empire, and exile.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -412,7 +412,7 @@
         "course_name": "Philosophies of War and Peace",
         "course_description": "(same as PHIL 2410). Moral issues about the recourse to war by the nation and the individual's obligations to participate. The nature of peace, social and personal. Special attention to the Vietnam War and the nuclear age.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -420,7 +420,7 @@
         "course_name": "Philosophies of War and Peace - Writing Intensive",
         "course_description": "(same as PHIL 2410). Moral issues about the recourse to war by the nation and the individual's obligations to participate. The nature of peace, social and personal. Special attention to the Vietnam War and the nuclear age.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -428,7 +428,7 @@
         "course_name": "Introduction to Native Studies",
         "course_description": "(Same as ENGLSH 2490) Introduction to the field of Native Studies. Topics include indigenous knowledge, culture change and continuity, history and misrepresentation, politics and political history, and global indigenous relationships. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -436,7 +436,7 @@
         "course_name": "Human Rights, Law, War and Peace",
         "course_description": "Interdisciplinary exploration of how human rights, law, war and peace are connected through an analysis of various  theories and contemporary examples, which may include issues regarding citizenship in the United States today, the regulation of economic markets in the U.S. today, state surveillance, the military industrial complex, the manner in which gender affects the experience of warfare and individuals",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -444,7 +444,7 @@
         "course_name": "CAFO: Concentrated Animals, Deep Ecology",
         "course_description": "Throughout the ages humans have toiled and tilled the land confirming their role as integral providers as well as graceful recipients of nature's bounty. The significant metamorphosis that this gentle and cautious stewardship of the earth has undergone, necessitates close scrutiny. This multi-disciplined humanities course will consider the prose of the human community as it intersects widespread industrialized animal production with its inevitable social, economic and environmental realities. Eco-Feminist readings and the Fine Arts with its theoretical underpinnings associated with a liberal arts aesthetic will invite a wider perspective.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -452,7 +452,7 @@
         "course_name": "CAFO: Concentrated Animals, Deep Ecology - Writing Intensive",
         "course_description": "Throughout the ages humans have toiled and tilled the land confirming their role as integral providers as well as graceful recipients of nature's bounty. The significant metamorphosis that this gentle and cautious stewardship of the earth has undergone, necessitates close scrutiny. This multi-disciplined humanities course will consider the prose of the human community as it intersects widespread industrialized animal production with its inevitable social, economic and environmental realities. Eco-Feminist readings and the Fine Arts with its theoretical underpinnings associated with a liberal arts aesthetic will invite a wider perspective.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -460,7 +460,7 @@
         "course_name": "Politics and the Military",
         "course_description": "(same as POL_SC 2710). Comparative study of post-cold war civil-military relations; military as an interest group, change agent, policy instrument and competitor of civilian politicians.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -524,7 +524,7 @@
         "course_name": "Foreigners and Dangerous Women in Greek and Latin Literature",
         "course_description": "(same as CL_HUM 3000). The study of how Greek and Roman writers depicted and reacted to other races and cultures, compared them with their own, and thereby revealed both their own values and prejudices.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -556,7 +556,7 @@
         "course_name": "Environmental Justice",
         "course_description": "(same as SOCIOL 3330).  Environmental justice refers to the ways in which the \"cost and benefits\" of modern industrial society are distributed among social groups. This course is concerned with justice, not as an abstract concept, and inequality not in terms of numbers in a bank account. Social justice or inequality are lived, embodied experiences. An individual's likelihood of experiencing environmental harm is related to intersecting gender, race and class formations, among other things. Justice or inequality is not only embodied, it also happens in places--national and regional differences matter. In this course we will look at some of the extensive literature documenting the ways in which communities of color and poor communities are subject to disproportionate environmental risks. In addition, we will focus on gender as an important category in understanding environmental inequality. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -572,7 +572,7 @@
         "course_name": "Politics of the Media",
         "course_description": "(same as SOCIOL 3400). We look at the history and viability of the public sphere in the United States and the integral role of the media to its vitality.  We analyze the impact of current trends toward media concentration and debate related issues of bias, censorship, and social control.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -580,7 +580,7 @@
         "course_name": "Politics of the Media - Writing Intensive",
         "course_description": "(same as SOCIOL 3400). We look at the history and viability of the public sphere in the United States and the integral role of the media to its vitality.  We analyze the impact of current trends toward media concentration and debate related issues of bias, censorship, and social control.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -588,7 +588,7 @@
         "course_name": "Global Public Health and Health Care Systems",
         "course_description": "(Same as HLTH_SCI 3400). An introduction to public health in a global context, with an emphasis on understanding how disparities in socioeconomic status, differences in political and national health care systems and the work of international organizations impact health in communities around the world. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -596,7 +596,7 @@
         "course_name": "America's Environmental Experience",
         "course_description": "(same as HIST 3420). Team-taught analysis of American thought and action on physical environment during 19th-20th centuries. Relation between politics, economics, technological change, environmental quality; roles of science, law, regulatory agencies, grassroots action.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -612,7 +612,7 @@
         "course_name": "Native Writing and Representation",
         "course_description": "(same as ENGLSH 3490).  Survey of native writing and representation from the late eighteenth century to the present, encompassing a diverse range of tribes and forms. Material will be drawn from tribes inhabiting the North American continent, but global indigenous relationships will also be addressed. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -620,7 +620,7 @@
         "course_name": "Digital Indigenous Studies",
         "course_description": "(same as GEOG 3496).  This course introduces students to Indigenous studies in a digital world.  The course begins with study of Indigenous sovereignty and representation, and moves quickly to critical and theoretical readings in new media, tracing both the historical impact of digital technologies (such as GIS) on Native communities, and the ways that both urban and rural Native communities have engaged in innovative digital projects that expand the way we understand information and storytelling in digital environments.  The course materials will cover a wide range of platforms and audio-visual genres, from documentary, community video, and animation productions, to GIS, video games, and social media sites. Students will engage with both scholars and artists working with new media through a program of public lectures, classroom visits, and Skype interviews.  All interview will be archived as podcasts from the course website.  Students will write weekly short response papers and produce independent audio-visual projects over the course of the semester, with opportunities to revise their work leading up to substantial final projects.  The course will also integrate community outreach into the curriculum through online participation of students from the Kiowa Kids, an Indigenous language immersion and storytelling program.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -636,7 +636,7 @@
         "course_name": "Digital Indigenous Studies - Writing Intensive",
         "course_description": "(same as GEOG 3496).  This course introduces students to Indigenous studies in a digital world.  The course begins with study of Indigenous sovereignty and representation, and moves quickly to critical and theoretical readings in new media, tracing both the historical impact of digital technologies (such as GIS) on Native communities, and the ways that both urban and rural Native communities have engaged in innovative digital projects that expand the way we understand information and storytelling in digital environments.  The course materials will cover a wide range of platforms and audio-visual genres, from documentary, community video, and animation productions, to GIS, video games, and social media sites. Students will engage with both scholars and artists working with new media through a program of public lectures, classroom visits, and Skype interviews.  All interview will be archived as podcasts from the course website.  Students will write weekly short response papers and produce independent audio-visual projects over the course of the semester, with opportunities to revise their work leading up to substantial final projects.  The course will also integrate community outreach into the curriculum through online participation of students from the Kiowa Kids, an Indigenous language immersion and storytelling program.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -644,7 +644,7 @@
         "course_name": "Collective Behavior",
         "course_description": "(same as SOCIOL 3520). Analysis of crowd behavior and related phenomena: rumors, disasters, fashions. Social responses to unclear, dangerous or unjust conditions. The dynamics of conflict, consensus and change.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -652,7 +652,7 @@
         "course_name": "Collective Behavior - Writing Intensive",
         "course_description": "(same as SOCIOL 3520). Analysis of crowd behavior and related phenomena: rumors, disasters, fashions. Social responses to unclear, dangerous or unjust conditions. The dynamics of conflict, consensus and change.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -668,7 +668,7 @@
         "course_name": "New Media, Conflict and Control",
         "course_description": "(same as SOCIOL 3522) This course will explore the increasing role of new media tools in conflict and surveillance. Examples from recent conflicts will illustrate how citizens and regimes use new media to communicate, report, mobilize, monitor, and/or control. Students will utilize new media as they research instances of democracy and control.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -676,15 +676,15 @@
         "course_name": "War and Democracy in Late 5th c. BCE Athens",
         "course_description": "(same as CL_HUM 3550).  War and Democracy in Late 5th c. B.C.E. Athens explores the discourse on war and peace in Athenian texts and art that survives from the last quarter of the 5th century B.C.E.  This was a period of adamantine, unrelenting warfare: the Athenians were fighting the Spartans, Sparta's allies, unaligned cities and several of their own subject states.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: any 2000 level CL_HUM course",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "any 2000 level CL_HUM course"
     },
     {
         "course_number": "PEA_ST 3600",
         "course_name": "Criminology",
         "course_description": "(same as SOCIOL 3600). Sociology of law; constitutional, psychological, sociological theories of criminal behavior; process of criminal justice; treatment of corrections; control of crime.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -700,7 +700,7 @@
         "course_name": "Ireland, 1850-1923",
         "course_description": "(same as HIST 3611). Ireland, from Famine to Partition: Irish history from the Great Famine of 1845-50 to the revolutions of 1916-23 that brought partial independence from Britain but partitioned Ireland into two hostile and trouble states.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -708,8 +708,8 @@
         "course_name": "Ireland, 1920-Present",
         "course_description": "(same as HIST 3612).  Ireland, from Partition to the Present:  After surveying the conflicts that led to Irish revolution and partition in 1916-23, the course focuses on the development of post partition Ireland and Northern Ireland, and on the violence that has scarred Northern Ireland since the 1960s.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: HIST 3610 and/or HIST 3611",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "HIST 3610 and/or HIST 3611"
     },
     {
         "course_number": "PEA_ST 3780",
@@ -740,7 +740,7 @@
         "course_name": "Social Revolution in Latin America",
         "course_description": "(same as HIST 3870 and SOCIOL 3870).Twentieth century social revolutions in selected Latin American countries.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -764,7 +764,7 @@
         "course_name": "American Foreign Policy from Colonial Times to 1898",
         "course_description": "(same as HIST 4080).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -868,7 +868,7 @@
         "course_name": "War Crimes and Genocide",
         "course_description": "(same as HIST 4480).  This course will explore the development of international law, international consciousness, and U.S. Foreign policy on the two distinct but often related issues of war crimes and genocide during the late 19th and throughout the 20th centuries.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -884,8 +884,8 @@
         "course_name": "Political Sociology",
         "course_description": "(same as SOCIOL 4520). Social bases of power and politics, economic and political elites, the political economy of the advanced societies, sources of political conflict and change. MA core course.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: SOCIOL 3200, SOCIOL 3510, SOCIOL 3520, or SOCIOL 3700",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "SOCIOL 3200, SOCIOL 3510, SOCIOL 3520, or SOCIOL 3700"
     },
     {
         "course_number": "PEA_ST 4550",
@@ -916,7 +916,7 @@
         "course_name": "Journalism and Conflict",
         "course_description": "(same as JOURN 4730). Introduction to the basic principles of conflict theory and negotiation, including the sources of conflict, why conflict escalates and what the conditions are for de-escalation, all with a special emphasis on the implications for the working journalist.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -948,7 +948,7 @@
         "course_name": "Topics in Peace Studies - Behavioral Sciences",
         "course_description": "Upperclass Topics.  Subject may vary from semester to semester.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -956,7 +956,7 @@
         "course_name": "American Foreign Policy from Colonial Times to 1898",
         "course_description": "(same as HIST 7080).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -972,7 +972,7 @@
         "course_name": "The Age of Ascendancy: U.S. Foreign Relations, 1945-Present",
         "course_description": "(same as HIST 7260). Surveys the Cold War in Europe and Asia, the Korean and Vietnam Wars, and Middle East policy.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -980,7 +980,7 @@
         "course_name": "Empire: Intellectual History, Literature, and Society",
         "course_description": "(same as REL_ST 7287; cross-leveled with PEA_ST 4287). Intellectuals and writers passionately debated the wisdom of colonies, free trade, and war as economies became increasingly global over the centuries. The proponents, critics, and interpreters of Empire will offer us rich examples of themes and theories in the culture of specific nations and eras. Intellectual life will be studied in the context of developments in social inequality, the culture of classes, media of communication, education, identites, transnational governance, and the nation-state. The course will be offered with different national and historical foci under different instructors, and may be repeated for credit with different instructors. Counts as the capstone experience for Peace Studies and is open to majors of other disciplines.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -988,7 +988,7 @@
         "course_name": "Law and Society: Corporate and White Collar Crime and Malfeasance",
         "course_description": "(cross-leveled with PEA_ST 4288).  Instances of corporate crime and ethical misconduct analyzed through major theories of the sociology of law including critical legal studies, Legal Realism, sociological jurisprudence, collective representation theory, state-corporate crime, rationalization of legal institutions/ critical theory, and post-structuralism. Cases to be analyzed might include mortgage lending fraud and malpractice, insider trading, pyramid schemes, the Erie Railroad scandals, and Enron, Worldcom, Tyco, and other instances in the hi tech collapse of 2001. Other topics: Corporate crime in the media and in novels and popular culture, appropriate sentencing, global corporate crime.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1004,7 +1004,7 @@
         "course_name": "Gender and Human Rights in Cross Cultural Perspective",
         "course_description": "(same as SOCIOL 7750 or WGST 7550). Focuses on the global discourse on human rights and gender, emphasizing cross-cultural theories.  Course includes the meaning of human rights, western and nonwestern perspectives, feminist contributions, important substantive debates, violations, policymaking and activism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1012,7 +1012,7 @@
         "course_name": "Ethical Issues in Communication",
         "course_description": "(same as COMMUN 7640). Exploration and analysis of ethical dimensions intrinsic to human communication.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

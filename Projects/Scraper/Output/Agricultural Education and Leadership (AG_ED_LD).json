@@ -20,7 +20,7 @@
         "course_name": "Introduction to Leadership",
         "course_description": "Overview of basic leadership principles and theories, including, but not limited to: personal leadership development, characteristics of effective leaders, leadership styles, ethics as a leader and leadership obstacles.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Team and Organizational Leadership",
         "course_description": "Principles and practices in planning, developing, conducting, and evaluating leadership programs for agricultural groups. The course focuses on helping students better understand themselves and others, improving group communications; becoming effective leaders and members of groups; improving leadership and personal development skills; assessing leadership situations, determining and administering appropriate leadership strategies, and evaluating results.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Team and Organizational Leadership - Writing Intensive",
         "course_description": "Principles and practices in planning, developing, conducting, and evaluating leadership programs for agricultural groups. The course focuses on helping students better understand themselves and others, improving group communications; becoming effective leaders and members of groups; improving leadership and personal development skills; assessing leadership situations, determining and administering appropriate leadership strategies, and evaluating results.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Leadership Development in Youth Organizations",
         "course_description": "This course focuses on how to develop leadership in youth through participation in a youth organization.  In particular, this course explores youth development, how to develop leadership through youth organizations and their activities, and organizational structures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Internship Seminar in Agricultural Education and Leadership",
         "course_description": "Seminar focused on the problems of practice and developing skills needed for a career in teaching agriculture at the secondary level. The core of the seminar is on coordinating experiential learning and leadership development activities, managing the complete program, and professional development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: AG_ED_LD 4995",
+        "credit_hours": "3Corequisites: AG_ED_LD 4995",
         "recommendation": "None Listed"
     },
     {
@@ -100,8 +100,8 @@
         "course_name": "Leading Organizational and Community Change",
         "course_description": "(cross-leveled with AG_ED_LD 7240). This course provides the diagnostic and strategic foundations for students to enact leadership in organizational and community contexts. Designed for undergraduate students and graduate-level professionals alike, this course increases a student's capacity to lead with or without authority, and with or without a formal organizational or political position. The course is based heavily on Heifetz's Adaptive Leadership theory, which challenges individuals to think beyond individual, role-based leadership skills and behaviors when enacting change in systems, such as organizations and communities.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: AG_ED_LD 2250 and AG_ED_LD 2260",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "AG_ED_LD 2250 and AG_ED_LD 2260"
     },
     {
         "course_number": "AG_ED_LD 4310",
@@ -172,7 +172,7 @@
         "course_name": "Internship Seminar in Agricultural Education and Leadership",
         "course_description": "Seminar focused on the problems of practice and developing skills needed for a career in teaching agriculture at the secondary level. The core of the seminar is on coordinating experimental learning and leadership development activities, managing the complete program, and professional development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: AG_ED_LD 4995",
+        "credit_hours": "3Corequisites: AG_ED_LD 4995",
         "recommendation": "None Listed"
     },
     {
@@ -180,7 +180,7 @@
         "course_name": "Leading Organizational and Community Change",
         "course_description": "(cross-leveled with AG_ED_LD 4240). This course provides the diagnostic and strategic foundations for students to enact leadership in organizational and community contexts. Designed for undergraduate students and graduate-level professionals alike, this course increases a student's capacity to lead with or without authority, and with or without a formal organizational or political position. The course is based heavily on Heifetz's Adaptive Leadership theory, which challenges individuals to think beyond individual, role-based leadership skills and behaviors when enacting change in systems, such as organizations and communities.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -188,7 +188,7 @@
         "course_name": "Intracurricular Program Management in Agricultural Education",
         "course_description": "This course explores the philosophical foundations and current structures of secondary Agricultural Education Programs.  Students will learn how to plan supervise and evaluate the intracurricular components within Agricultural Education Programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -260,7 +260,7 @@
         "course_name": "History and Leadership of the Land Grant University",
         "course_description": "Historical overview of the evolution and development of land-grant colleges.  Students examine early public mandates and evaluate education, research, public service developments and new initiatives needed for Land Grant universities to effectively serve society.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -268,7 +268,7 @@
         "course_name": "Leadership Theory and Application",
         "course_description": "Survey of concepts, theories and practices of leadership, personal development and group dynamics.  Exploration of leadership traits and models with a focus upon how they apply to Agricultural Education.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -276,7 +276,7 @@
         "course_name": "Advanced Methods of Teaching",
         "course_description": "Explores the principles and psychological aspects of teaching and learning; teaching strategies, methods, and techniques; evaluating student learning; motivating students; and personal teacher behaviors that influence learning.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -292,7 +292,7 @@
         "course_name": "College Teaching of Agriculture, Food and Natural Resources",
         "course_description": "A course designed to assist current or future college faculty who wish to improve their teaching skills. Topics include theories, principles and practices associated with effective teaching and learning in higher education.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Evaluation of Educational Programs",
         "course_description": "(same as RU_SOC 8430). Examines program evaluation concepts, principles, and models; and identifies major steps in planning, conducting, and reporting results of evaluation objects.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -332,7 +332,7 @@
         "course_name": "Research Methods and Design",
         "course_description": "(same as RU_SOC 8510). A foundations course on quantitative research methodology and design principles for investigating problems in social and behavioral sciences.  A focus is on the language of research, purposes, validity threats, and data collection methods. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -348,7 +348,7 @@
         "course_name": "Grant Proposal Writing",
         "course_description": "Preparation of proposals designed to solicit grant funding to support teaching, research or outreach programs. Emphasis on proposal development, identifying funding sources, and proposal review processes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -356,7 +356,7 @@
         "course_name": "Methods of Qualitative Research",
         "course_description": "(same as RU_SOC 8540). Overview of philosophies, approaches toward, design, data collection, analysis and reporting of qualitative research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

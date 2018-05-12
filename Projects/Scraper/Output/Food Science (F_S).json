@@ -12,7 +12,7 @@
         "course_name": "Food Science and Nutrition",
         "course_description": "Basic principles of science and technology as applied to the problem of providing safe, nutritious, and desirable food for man.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Live Animal and Meat Evaluation",
         "course_description": "(same as AN_SCI 2114). The composition and quality meat produced from food animals is the driving component of livestock economic value. This course will teach the principles and procedures involved in evaluation, grading, selection, and economic value of meat animals and poultry and the carcasses they produce. This course is an excellent introduction and (or) prerequisite for all livestock production courses and will provide a baseline of information for students interested in livestock or meat judging.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Dairy Products Evaluation",
         "course_description": "(same as AN_SCI 2131). Sensory Evaluation and judging of dairy products.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Grapes and Wines of the World",
         "course_description": "(same as PLNT_S 2195).  Explores the world of wine through study of viticultural principles and practices, wine styles, classifying wine, the winemaking process and New World and Old World wine regions. Learn wine tasting skills and experience wines from around the world. World wine consumption, social and physical health benefits of moderate wine consumption.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,16 +84,16 @@
         "course_name": "Principles of Meat Science",
         "course_description": "(same as AN_SCI 3214). Study of the principles involved in the conversion of living animals to meat and by-products; efficient utilization of meat as a food.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: one course in Biological Sciences",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "one course in Biological Sciences"
     },
     {
         "course_number": "F_S 3231",
         "course_name": "Principles of Dairy Foods Science",
         "course_description": "(same as AN_SCI 3231). Technology, chemistry and microbiology related to milk and its transformation into fluid milk products, fermented dairy foods and spreads. (2 hours of lecture and two hours of laboratory per week.)",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: One course in Chemistry or Biological Sciences",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "One course in Chemistry or Biological Sciences"
     },
     {
         "course_number": "F_S 3240",
@@ -108,8 +108,8 @@
         "course_name": "Physical Principles for Food Processing",
         "course_description": "Introduction to basic engineering concepts used to process raw materials: Energy balance, Pipe flow, Viscosity, Heat exchange, Refrigeration.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: one calculus course and one physics course",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "one calculus course and one physics course"
     },
     {
         "course_number": "F_S 3385",
@@ -140,23 +140,23 @@
         "course_name": "Food Chemistry and Analysis",
         "course_description": "(cross-leveled with F_S 7310).  Structure, composition and chemical properties of food.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: 5 hours Chemistry or Biochemistry",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "5 hours Chemistry or Biochemistry"
     },
     {
         "course_number": "F_S 4311",
         "course_name": "Investigation of Food Properties",
         "course_description": "(cross-leveled with F_S 7311). Study of the chemical and physical properties of foods and the interaction of food components.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: F_S 4310 or equivalent, or instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "F_S 4310 or equivalent, or instructor's consent"
     },
     {
         "course_number": "F_S 4315",
         "course_name": "Food Chemistry and Analysis Laboratory",
         "course_description": "(cross-leveled with F_S 7315)The quantitative determination of the constituents of food.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -164,7 +164,7 @@
         "course_name": "Food Chemistry and Analysis Laboratory - Writing Intensive",
         "course_description": "(cross-leveled with F_S 7315). The quantitative determination of the constituents of food.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -196,8 +196,8 @@
         "course_name": "Processing Muscle Foods",
         "course_description": "(same as  AN_SCI 4344; cross-leveled with F_S 7344, AN_SCI 7344). Materials and technologies for the manufacture of muscle food products from red meats, poultry and seafood. Experience problem-solving through further processing of complex ingredients and develop skills by practicing operations in a pilot plant facility.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: One Chemistry course",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "One Chemistry course"
     },
     {
         "course_number": "F_S 4345",
@@ -228,7 +228,7 @@
         "course_name": "Food Microbiology Laboratory",
         "course_description": "(cross-leveled with F_S 7375). Examination of foods for microorganisms and characterization of major species.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: F_S 4370",
+        "credit_hours": "2Prerequisites or Corequisites: F_S 4370",
         "recommendation": "None Listed"
     },
     {
@@ -260,8 +260,8 @@
         "course_name": "Principles of Winemaking and Wine Chemical Analysis",
         "course_description": "(cross-leveled with F_S 7440). The theoretical and practical basics needed by enologists/winemakers including sensory analysis of grapes; chemical, microbiological and technological aspects of winemaking; and the analytical methods used for juice and wine analysis. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: 5 credit hours inorganic chemistry and organic chemistry or concurrent, or instructors consent",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "5 credit hours inorganic chemistry and organic chemistry or concurrent, or instructors consent"
     },
     {
         "course_number": "F_S 4441",
@@ -340,7 +340,7 @@
         "course_name": "Principles of Food Processing",
         "course_description": "(same as AG_S_M 7330; cross-leveled with F_S 4330, AG_S_M 4330). Basic principles of food processing, with emphasis on blanching, pasteurization, commercial sterilization, refrigeration, freezing, concentration, dehydration and packing. Impacts of processing on product quality are evaluated.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -364,7 +364,7 @@
         "course_name": "Principles of Viticulture and Winemaking",
         "course_description": "(same as PLNT_S 7345; cross-leveled with PLNT_S 4345, F_S 4345). This course will cover the basics needed by viticulturists and winemakers to understand grape vine growth and vineyard considerations along with winemaking principles. Viticultural topics will include grapevine growth and development, vineyard design and development, cultivar selection, grapevine propagation, training systems, and harvest and pruning. Winemaking topics will include sensory analysis of grapes, chemical, microbiological and technological aspects of winemaking, and the analytical methods used for juice and wine analysis. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -380,7 +380,7 @@
         "course_name": "Food Quality Assurance",
         "course_description": "(cross-leveled with F_S 4980). Capstone course integrating various food science disciplines to comply with regulations concerned with protection of the nation's food supply.  Applies practices to insure consumers of healthful foods.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -516,7 +516,7 @@
         "course_name": "Research Methods in Food Science",
         "course_description": "(same as BIOL_EN 8402). Introduction to research. Defining research problems, developing hypotheses, searching scientific literature, designing experiments, presenting data, writing scientific papers and theses, making oral presentations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -524,7 +524,7 @@
         "course_name": "Advanced Food Microbiology and Biotechnology",
         "course_description": "Covers basic principles in biotechnology and applied food microbiology, including current topics of interest in food biotechnology.  May be repeated for credit.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -580,8 +580,8 @@
         "course_name": "Food Biopolymers",
         "course_description": "Study of physical, chemical, and functional properties of food biopolymers and their applications in food and other industries. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Organic chemistry and food chemistry",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Organic chemistry and food chemistry"
     },
     {
         "course_number": "F_S 9085",

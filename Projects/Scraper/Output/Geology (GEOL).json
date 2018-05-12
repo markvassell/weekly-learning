@@ -4,7 +4,7 @@
         "course_name": "Planet Earth",
         "course_description": "An introduction to Earth Science.  Topics include:  evidence for continental drift and plate tectonics, causes and prediction of natural hazards, the scale of geological time.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -12,7 +12,7 @@
         "course_name": "Principles of Geology with Laboratory",
         "course_description": "Three lectures, 2-hours lab. Earth processes and products and their impact on human needs and the environment. One field trip. For the Mizzou Online sections, there will not be required lectures, lab, and field trip.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Physical Geology for Scientists and Engineers",
         "course_description": "Introduction to physical geology and basic earth processes with a focus on applications and societal relevance. In addition to basic geologic processes, basic physical principles will illustrate the interactions between geology and engineering",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Corequisites: MATH 1500",
+        "credit_hours": "4Corequisites: MATH 1500",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Environmental Geology with Laboratory",
         "course_description": "The interaction between geologic processes and human society. Topics include mineral, water, and energy resources, volcanic hazards, earthquakes, landslides, floods, coastal erosion, pollution problems and environmental management.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "The World's Oceans",
         "course_description": "An interdisciplinary introduction to oceanography.  Topics include: geologic evolution of ocean basins, properties of seawater, ocean circulation (waves, tides, and currents), marine ecosystems, instability of beaches and coastlines, coastal development and engineering.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,8 +92,8 @@
         "course_name": "Volcanoes and the Human Environment - Honors",
         "course_description": "<p>(same as  GN_HON 2450H). This course gives students an understanding of how volcanoes work, how they are studied, and how they have impacted human cultures.  Students will gain appreciation of volcanology as a broad scientific discipline within geology and the role that science plays in public policy.  Graded on A/F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Honors eligibility required",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Honors eligibility required"
     },
     {
         "course_number": "GEOL 2200",
@@ -116,8 +116,8 @@
         "course_name": "Earth Systems and Global Change",
         "course_description": "Study of the earth as a whole, taking into account the many interwoven components of the geosphere, hydrosphere, atmosphere and biosphere.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: 1000-level Science course",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "1000-level Science course"
     },
     {
         "course_number": "GEOL 2350",
@@ -212,7 +212,7 @@
         "course_name": "Mineralogy",
         "course_description": "Introduction to crystallography, crystal chemistry and crystal structures. Systematic study of mineral groups. Includes identification of minerals by physical, chemical and optical properties.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -428,8 +428,8 @@
         "course_name": "Geology Field Camp",
         "course_description": "Field study of sedimentary, igneous and metamorphic rocks. Facies analysis of sedimentary rocks, mapping of folded and faulted sedimentary strata and fabric analysis of an igneous-metamorphic terrane. Excursion to Yellowstone and Grand Teton National Parks.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 6Recommended: GEOL 2350, GEOL 3650, and  GEOL 3800",
-        "recommendation": "None Listed"
+        "credit_hours": "6",
+        "recommendation": "GEOL 2350, GEOL 3650, and  GEOL 3800"
     },
     {
         "course_number": "GEOL 7002",
@@ -524,7 +524,7 @@
         "course_name": "Patterns and Processes in the Fossil Record",
         "course_description": "(cross-leveled with GEOL 4350). The purposes of this course are to 1) analyze patterns in the history of life and 2) to recognize the biased processes that led to its preservation.  We will accomplish these goals by examining two disparate fossil preservation pathways: 1) Konservat lagerstätten: fossil deposits that are notorious for the exceptional and rare preservation of soft tissues and 2) Konzentrat lagerstätten: fossil deposits that are exceptional for the enormous amount of fossilized skeletal material they contain.  Through careful examination of both the rare and hyper-abundant we can address the fundamental question of paleobiology: how literally can the fossil record be read as the history of life?  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -716,7 +716,7 @@
         "course_name": "Precambrian History",
         "course_description": "Coupled evolution of the biosphere, lithosphere, hydrosphere, and atmosphere over the span of Precambrian history. Topics will be discussed largely in the context of biological evolutionary events and the fossil record, as well as with a focus on geochemical records.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -732,7 +732,7 @@
         "course_name": "Marine Chemistry",
         "course_description": "Survey of biogeochemical processes in shallow and deep marine settings. Topics include sediment diagenesis, geochemical tracers, nutrient patterns and pathways, global biogeochemical cycles, paleoceanographic proxy records, and integrated paleoenvironmental reconstructions of ancient marine sequences.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

@@ -12,7 +12,7 @@
         "course_name": "Introduction to Human Nutrition",
         "course_description": "Basic nutrition principles, including: nutrient functions, food sources, and needs; healthy eating tools; energy balance and weight management; nutrition and fitness; nutrition through the life cycle; food safety; and consumer topics. No credit if taken after NEP 2340.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Food and Cultures of the World",
         "course_description": "Trans-disciplinary approach to nutrition, considering anthropological, physiological, geographical, socioeconomic and psychological elements in world nutrition.  These ideas will be explored in the context of cuisines and cultures that are found in the US, but originate elsewhere.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Food and Cultures of the World - Writing Intensive",
         "course_description": "Trans-disciplinary approach to nutrition, considering anthropological, physiological, geographical, socioeconomic and psychological elements in world nutrition.  These ideas will be explored in the context of cuisines and cultures that are found in the US, but originate elsewhere.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Introduction to Exercise and Fitness",
         "course_description": "Provides students with practical information about exercise and physical fitness.  After taking this class, students will be prepared to be physically active, understand the \"Do's and Don'ts\" of exercise, and know how to live a healthy way of life.  As part of the course, students will assess their current level of activity/fitness, develop a plan for improvement, and put that plan into action.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Nutritional Food Science",
         "course_description": "The study of components of food systems and how they are affected by processing, preservation, preparation and by techniques that improve taste, texture, flavor, appearance and nutrient retention. This course is 100% online and includes a virtual lab. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Biology of Healthy Living",
         "course_description": "(same as PH_THR 2420 and BIOMED 2420). Biology of inactivity as a causal factor in chronic disease.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -132,8 +132,8 @@
         "course_name": "Eating Disorders",
         "course_description": "Definition, etiology, treatment, and research related to eating disorders: anorexia nervosa, bulimia nervosa and binge eating disorder/obesity. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: NEP 1034 or NEP 2340 or NEP 2380 or NEP 4360",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "NEP 1034 or NEP 2340 or NEP 2380 or NEP 4360"
     },
     {
         "course_number": "NEP 3001",
@@ -588,7 +588,7 @@
         "course_name": "Cardiovascular Health and Fitness",
         "course_description": "Physiology underlying best methods for obtaining and maintaining cardiovascular health and fitness. Includes exercise and weight control, plasma lipids, energy metabolism, cardiovascular dynamics, and recent research findings.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

@@ -124,16 +124,16 @@
         "course_name": "Introduction to Italian Literature",
         "course_description": "This course introduces students to the literacy terminology that will enable them to study Italian literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ITAL 2310 and basic reading knowledge of a Romance Language",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ITAL 2310 and basic reading knowledge of a Romance Language"
     },
     {
         "course_number": "ITAL 3430",
         "course_name": "Survey of Italian Literature",
         "course_description": "Designed to expose students to the rich variety of Italian letters. Emphasis will be placed on textual analysis as well as on authors, themes and stylistic features.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ITAL 2310 and basic reading knowledge of a Romance Language",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ITAL 2310 and basic reading knowledge of a Romance Language"
     },
     {
         "course_number": "ITAL 3820",

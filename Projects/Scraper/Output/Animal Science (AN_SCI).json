@@ -12,7 +12,7 @@
         "course_name": "Animal Science",
         "course_description": "Principles of animal science including importance of animal agriculture, genetics, anatomy, physiology and nutrition.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Introduction to Captive Wild Animal Management",
         "course_description": "(same as F_W 1012). General introduction to housing, husbandry, behavior, genetics, nutrition, reproduction, animal health, and disease control of native and exotic species in zoological parks and other animal conservation facilities; emphasizes the role of captive animals in wildlife conservation.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Biotechnology in Animal Agriculture",
         "course_description": "Concepts, discoveries, and applications of biotechnology ranging from the discovery of brewing and baking to animal cloning and genetic engineering are covered.  Students will acquire a foundation to understand how biotechnology affects agriculture and our everyday lives.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Animal Science Laboratory Practicum",
         "course_description": "An introductory course in skill, related to the care and management of livestock and poultry plus a section dealing with meats and a section dealing with research methods.  Students will be expected to participate in hands-on learning development of fundamental skills and animal husbandry.  This class will include one 3 hour lab and 1 hour DIS per week.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Live Animal and Meat Evaluation",
         "course_description": "(same as F_S 2114). The composition and quality meat produced from food animals is the driving component of livestock economic value. This course will teach the principles and procedures involved in evaluation, grading, selection, and economic value of meat animals and poultry and the carcasses they produce. This course is an excellent introduction and (or) prerequisite for all livestock production courses and will provide a baseline of information for students interested in livestock or meat judging.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Dairy Products Evaluation",
         "course_description": "(same as F_S 2131) Sensory Evaluation and judging of dairy products.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -132,16 +132,16 @@
         "course_name": "Horse Selection and Evaluation",
         "course_description": "Techniques of selecting and evaluating horses based on conformation and performance characteristics. Effects of conformation on soundness. Includes learning to organize observations on the relative merits of a group of horses into an oral presentation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: AN_SCI 1065",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "AN_SCI 1065"
     },
     {
         "course_number": "AN_SCI 2140",
         "course_name": "Companion Animals",
         "course_description": "(same as BIOMED 2140). Focus on companion dog, cat, and horse owners concerns re: health zoonoses, legal responsibilities, inbreeding, choice of breeds, behavioral problems and loss of companion animals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "sophomore standing"
     },
     {
         "course_number": "AN_SCI 2165",
@@ -164,8 +164,8 @@
         "course_name": "Equine Facility Management and Marketing",
         "course_description": "Focuses on learning equine facility management through student care and management of the University's equine facility and breeding herd. Students also learn handling techniques for a wide variety of horses and gain experience in general equine facility maintenance. Students will be responsible for marketing horses sold in the annual MU online horse auction. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: AN_SCI 2135 and instructor's consent.  Cannot be taken at the same time as AN_SCI 2095",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "AN_SCI 2135 and instructor's consent.  Cannot be taken at the same time as AN_SCI 2095"
     },
     {
         "course_number": "AN_SCI 3001",
@@ -204,7 +204,7 @@
         "course_name": "Principles of Animal Nutrition",
         "course_description": "The purpose of this course is to teach students the essential nutrients for animal life and to understand the basic principles of nutrition. Graded on A-F basis only.  Recommend:  1 course in biochemistry or at least 4 hours of chemistry and MATH 1100 or equivalent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -220,16 +220,16 @@
         "course_name": "Principles of Meat Science",
         "course_description": "(same as F_S 3214). Study of the principles involved in the conversion of living animals to meat and by-products; efficient utilization of meat as a food.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: one course in Biology",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "one course in Biology"
     },
     {
         "course_number": "AN_SCI 3231",
         "course_name": "Principles of Dairy Foods Science",
         "course_description": "(same as F_S 3231). Technology, chemistry and microbiology related to milk and its transformation into fluid milk products, fermented dairy foods and spreads. (2 hours of lecture and two hours of laboratory per week.)",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: One course in Chemistry or Biological Sciences",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "One course in Chemistry or Biological Sciences"
     },
     {
         "course_number": "AN_SCI 3232",
@@ -324,7 +324,7 @@
         "course_name": "Physiology of Reproduction",
         "course_description": "(cross-leveled with AN_SCI 7314). Principles of animal reproduction with emphasis on endocrine control of reproductive processes.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: AN_SCI 3254",
+        "credit_hours": "3Prerequisites or Corequisites: AN_SCI 3254",
         "recommendation": "None Listed"
     },
     {
@@ -348,8 +348,8 @@
         "course_name": "Genomics of Plants and Animals",
         "course_description": "(cross-leveled with AN_SCI 7324). Analysis of organisms at the level of the complete genome sequence.  Covers genome sequencing, assembly and annotation, as well as functional, evolutionary and computational genomics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: BIO_SC 1010, BIO_SC 1020 or BIO_SC 1500, MATH 1100, AN_SCI 3213 /PLNT_S 3213 or equivalent",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "BIO_SC 1010, BIO_SC 1020 or BIO_SC 1500, MATH 1100, AN_SCI 3213 /PLNT_S 3213 or equivalent"
     },
     {
         "course_number": "AN_SCI 4332",
@@ -364,8 +364,8 @@
         "course_name": "Processing Muscle Foods",
         "course_description": "(same as F_S 4344; cross-leveled with AN_SCI 7344). Materials and technologies for the manufacture of muscle food products from red meats, poultry and seafood. Experience problem-solving through further processing of complex ingredients and develop skills by practicing operations in a pilot plant facility.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: One Chemistry course",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "One Chemistry course"
     },
     {
         "course_number": "AN_SCI 4354",
@@ -524,8 +524,8 @@
         "course_name": "Pasture-Based Dairy Management",
         "course_description": "(cross-leveled with AN_SCI 4010). The objective of the class is to give a broad overview of pasture-based dairying and instill a confidence for students evaluating if this type of animal agriculture is an occupation they want to pursue after graduation. The class is taught by experts from various departments in CAFNR and covers elements of dairy and forage production needed to be successful.  Materials from this class are also cross-species related where information can be used on other ruminant type operations.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: Background in dairy production, nutrition and reproductive physiology for Animal Science students or plant physiology and forage production for Plant Science students",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "Background in dairy production, nutrition and reproductive physiology for Animal Science students or plant physiology and forage production for Plant Science students"
     },
     {
         "course_number": "AN_SCI 7312",
@@ -836,8 +836,8 @@
         "course_name": "Placentation",
         "course_description": "Provide students with current and in-depth information about the mechanisms involved in placental development and how the placenta (and placental products) influence maternal physiology - both locally at the placenta-uterine interface and systemically. All course topics will be covered in a comparative cross-species approach whenever possible. Emphasis will be placed on the most recent literature regarding the interactions taking place between the placenta and maternal system and how these interactions lead to the eventual birth of live young.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: It is preferred that students take AN_SCI 9433 prior to this class, but this is not an absolute requirement",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "It is preferred that students take AN_SCI 9433 prior to this class, but this is not an absolute requirement"
     },
     {
         "course_number": "AN_SCI 9441",

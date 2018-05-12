@@ -12,7 +12,7 @@
         "course_name": "Experiencing Cultural Diversity in the United States",
         "course_description": "The purpose of this course is to examine cultural diversity in U.S. Society, to increase self-awareness related to worldviews and beliefs about diversity issues, and to increase understanding of the intersections of multiple group identities.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Inquiry Into Learning I",
         "course_description": "This course is designed to focus students on the central themes of learning and teaching. Emphasis will be placed on the interaction of theory, philosophy and practice as related to the field of education. Required for Phase II of the certification program.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Learning and Instruction",
         "course_description": "The nature of human learning processes with implications for instruction. Emphasis on bases of and readiness for learning, types of learning, memory forgetting and transfer, and related topics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Child Development",
         "course_description": "The psychological, intellectual, social, and physical development of children.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Psychological Perspectives in Sport",
         "course_description": "Survey of sport psychology literature with focus upon such topics as personality, positive and negative affect, cognitive and behavioral intervention, motivation, aggression, audience effects, team cohesion, team building, leadership, exercise, and multicultural issues.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,8 +108,8 @@
         "course_name": "Black Feminism",
         "course_description": "This course outlines the basic principles and practices of Black feminism in the United States. Examination of the multiple systems of oppression on Black women's lives and Black women's collective actions against social structures will occur.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: PSYCH 1000 or instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "PSYCH 1000 or instructor's consent"
     },
     {
         "course_number": "ESC_PS 3901",
@@ -132,7 +132,7 @@
         "course_name": "Human Learning",
         "course_description": "An introduction to the basic principles of learning. Focus is on principles of learning which have the greatest utility for professional educators. This course provides a foundation for more advanced courses in human learning.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -140,15 +140,15 @@
         "course_name": "Foundations of Counseling Psychology",
         "course_description": "Survey of contemporary theories underlying individual feminist, family systems, and multicultural approaches to counseling. Introduction to professional and ethical issues in Counseling Psychology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: departmental consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "departmental consent"
     },
     {
         "course_number": "ESC_PS 4160",
         "course_name": "Developmental Aspects of Human Learning",
         "course_description": "Investigates aspects of human development that affect classroom learning. Topics include parenting style, divorce, friendship, mental health, attachment, play, aggression, culture, and media.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -156,23 +156,23 @@
         "course_name": "Introduction to Applied Statistics",
         "course_description": "Introduces statistical techniques including descriptive statistics, correlation, simple regression and hypothesis testing. Math Reasoning Proficiency Course.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: College Algebra or equivalent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "College Algebra or equivalent"
     },
     {
         "course_number": "ESC_PS 4185",
         "course_name": "Health Behavior: Drug and Sexuality Education",
         "course_description": "Psychological, social, and physical factors related to drug taking and sexuality behaviors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "instructor's consent"
     },
     {
         "course_number": "ESC_PS 4200",
         "course_name": "Positive Psychology",
         "course_description": "Using self-actualization and self-determination theory, the course builds on identifying personal strengths in people.  An emphasis is placed on developing interventions that promote positive thinking.  Some sections graded on either A-F or S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -180,7 +180,7 @@
         "course_name": "Exploring Mental Health Issues in Schools",
         "course_description": "This course is an introduction to the mental health challenges found in schools. It provides education professionals with the knowledge and basic skills to promote positive mental health practices in the schools.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -268,7 +268,7 @@
         "course_name": "Developmental Aspects of Human Learning",
         "course_description": "Investigates aspects of human development that affect classroom learning. Topics include parenting style, divorce, friendship, mental health, attachment, play aggression, culture, and media.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -308,7 +308,7 @@
         "course_name": "Sport and Applied Coaching Psychology",
         "course_description": "Sport and Applied Coaching Psychology is a fusion of positive psychology and sport psychology. Positive psychology teaches coaches a healthy approach based in positive motivation and behavior modeling. Sport psychology helps coaches identify with the mental training of athletes and its role in delivering maximum performance. Course focus is on helping coaches maximize the potential of their athletes and teams, while also building upon their emotional and psychological wellbeing.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -316,7 +316,7 @@
         "course_name": "Positive Psychology",
         "course_description": "Positive psychology explores what is positive, creative, and fulfilling in human behavior.  It is the scientific study of well-being and flourishing:  what people do right.  This course will examine cornerstones and key concepts such as emotions, engagement, relationships, strengths, virtues, meaning, and purpose. Proven as a very effective application in the realms of organizations, governments, businesses, education, counseling, etc., it is best originally understood by applying it to oneself.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Measurement of Cognitive Abilities",
         "course_description": "Analysis of the function of psychological testing and a critical examination of various achievement, aptitude, and intelligence assessment instruments.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -356,7 +356,7 @@
         "course_name": "Foundations of School Mental Health",
         "course_description": "Explores the history, foundations, and implementation of  an expanded framework of school mental health focusing on collaborative and interdisciplinary approaches to supporting the wellness and school success of youth.  Introduces professional working in or with schools to the school mental health framework emphasizing a behavioral health continuum of care, links between mental health and academic performance, a comprehensive system of learning supports, and data-based decision-making.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -412,7 +412,7 @@
         "course_name": "Counseling Methods and Practices",
         "course_description": "Introduction to counseling microskills and techniques, with attention to case conceptualization, therapeutic alliance, and counseling process.  Laboratory experience in demonstrating skills and the ability to form an effective counseling relationship is required.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -532,7 +532,7 @@
         "course_name": "Psychological Assessment in Childrent and Adolescents: Behavior and Social Emotional Assessment",
         "course_description": "This course introduces behavior theory, behavioral and social-emotional  assessment techniques (including observations, interviewing, rating scales, and projective techniques) and their link to relevant interventions, with a primary focus on school-age youth and adolescents.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -540,7 +540,7 @@
         "course_name": "Psychological Interventions with Children and Adolescents: Behavioral  Intervention",
         "course_description": "This course will emphasize behavioral theory, assessment, and intervention, including functional behavior assessment, positive behavior supports, and the conceptualization from an individual, systems, and public health perspective.  Graded on A-F basis only",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -556,7 +556,7 @@
         "course_name": "Psychological Interventions with Children and Adolescents: Evidence-  Based Therapies",
         "course_description": "An introduction to evidence-based child and adolescent psychotherapies, including individual and group interventions.  Various aspects will be considered including assessment, diagnosis, and treatment planning.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -620,7 +620,7 @@
         "course_name": "Foundations of Sport Performance",
         "course_description": "Focuses on principles and methods to become an effective sport performance coach. Examines the development of athletes and education of basic sports nutrition, strength, and conditioning.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -644,7 +644,7 @@
         "course_name": "Legal Aspects of Sport and Coaching",
         "course_description": "Emphasis is to provide insight about how the law is applied is sport settings, the types of litigation involved, and the standard of care required. Fundamental terminology and concepts, and contemporary issues in sport law will be addressed.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -660,7 +660,7 @@
         "course_name": "Administration of Athletic Programs",
         "course_description": "Examines methods, principles, and roles of athletic administrators. Also, examines the job responsibilities and competencies required of sport leaders in athletic administration.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -668,15 +668,15 @@
         "course_name": "Student-Athlete Wellbeing",
         "course_description": "As a positive coach and career educator, your knowledge of student wellbeing is critical to support your students' physical, mental, and social health alongside their academic success and development beyond sport. Although our semester will focus largely on the most critical components of student welfare, we will also frame our study of student wellbeing using the tenets of Positive Psychology, a discipline that champions a strengths-based approach to guide positive behaviors associated with health and wellbeing. Health promotion theory will also guide our course of study as we examine: (a) individual student-athlete wellbeing with a focus on physical, mental, and social health (b) wellbeing in the context of student services provided by the school or organization, and (c) program evaluation methodology to identify strengths and opportunities for program improvement to enhance wellbeing and welfare for all student-athletes. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ESC_PS 7200 Positive Psychology",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ESC_PS 7200 Positive Psychology"
     },
     {
         "course_number": "ESC_PS 8280",
         "course_name": "Gender Issues in Sport",
         "course_description": "Through a study of theory and applied practice, students will explore personal biases, understand intersecting identities and explore privilege and oppression at the individual, interpersonal, structural, and cultural level when considering gender awareness in sport.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -684,7 +684,7 @@
         "course_name": "Multicultural Issues in Sport",
         "course_description": "The purpose of this course is to increase the level of multicultural awareness, knowledge, skills, and relationship of athletic coaches working with diverse student populations. Activities and assignments are designed to assist, encourage, and challenge each student to more fully develop awareness and knowledge of self, and to use this information to improve intercultural interactions with others in professional settings as well as other settings.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -692,7 +692,7 @@
         "course_name": "Positive Leadership in Sport",
         "course_description": "A Positive Leadership philosophy requires Positive Leadership delivery. Course is designed to prepare leaders to bridge content knowledge to practical application. Students will use core competencies learned throughout their program to develop their leadership approach.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -708,15 +708,15 @@
         "course_name": "Advanced Human Learning",
         "course_description": "A study of behavioral and cognitive theories of learning with an emphasis on those greatest utility for educators. Experimental evidence forming the theoretical base for educational practice is examined.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ESC_PS 2400 or ESC_PS 7100",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ESC_PS 2400 or ESC_PS 7100"
     },
     {
         "course_number": "ESC_PS 8330",
         "course_name": "Motivating At-Risk and Diverse Students",
         "course_description": "This course examines motivational concepts that apply to students of all ages. The course is designed to help teachers design classrooms and assignments that would improve the motivation of students, especially at-risk students. The course pays special attention to issues of diversity relevant to motivation. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -724,7 +724,7 @@
         "course_name": "Cultural Backgrounds and Learning",
         "course_description": "The course explores the influence of culture on the process of learning. Topics and discussions will center on learning within the K-12 classroom. Readings and assignments are tailored to engage students in practical classroom applications of the information and discussions within the course. At the conclusion of the course students will have a deep understanding of how culture shapes thinking, learning, behavior, and the classroom environment. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -740,7 +740,7 @@
         "course_name": "Cognition and Emotion",
         "course_description": "This course looks at human cognition and emotions and their influence on learning, self-control, motivation, executive processes, and behavior change. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -756,7 +756,7 @@
         "course_name": "Data-Driven Instructional Decisions",
         "course_description": "This course explores the uses of assessments and evaluation techniques for practical applications within the classroom. Focus is on use of data gathering techniques to increase student academic performance and inform classroom instruction. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -788,7 +788,7 @@
         "course_name": "Effects of Maltreatment on Child and Adolescent Development",
         "course_description": "Course topics to be covered include 1) definitions of child maltreatment, 2) incidence and prevalence rates, 3) possible causes and consequences associated with child maltreatment, 4) treatment of survivors and perpetrators, and 5) prevention efforts. Important legal and ethical issues will be discussed, such as children's competence and eyewitness abilities, false allegations of abuse, mandated reporting, and investigative interviewing of children. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -796,7 +796,7 @@
         "course_name": "Mental, Emotional, and Behavioral Disorders in Youth",
         "course_description": "The course will include on overview of normal development and an investigation into specific deviations in intensity, frequency, and/or duration of normal development which impact the individual in his or her home, school, and community.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -804,7 +804,7 @@
         "course_name": "Wellness Management for School Personnel",
         "course_description": "The current climate in schools places considerable demands on teachers and other school personnel. Often, those working in schools find themselves under enormous stress and pressure. In this course, school personnel will examine a variety of topics related to both identifying and effectively dealing with these pressures. Topics include communication skills, dealing with challenging individuals in the school system, recognizing and effectively managing stress, and recognizing burnout and re-energizing. The course will provide an overview of the research on these topics, as well as numerous effective strategies to deal with these pressures. Students in the course will have opportunities to apply learned strategies to real-life situations in the schools. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -812,7 +812,7 @@
         "course_name": "School Mental Health: Policy, Law and Ethics",
         "course_description": "This course is designed to familiarize school-based professionals with policies, laws and ethics associated with children and youth and schools.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -820,7 +820,7 @@
         "course_name": "Building Resiliency and Optimism in Youth",
         "course_description": "Examines risk and resiliency processes during childhood and adolescence. Focuses on defining resilience; sources of risks and protective factors within families, schools, and communities; prevention programs targeting early, middle childhood and adolescence. Promotion of one's own resilience and well-being discussed. Special topics include strengths-based models of resiliency, resilience and family difficulties, violence and maltreatment, poverty, dropout, and school/community-based prevention and intervention.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -828,7 +828,7 @@
         "course_name": "Diversity Issues in School Mental Health",
         "course_description": "The purpose of this course is to increase the level of multicultural awareness, knowledge, skills, and relationship of school personnel working with diverse student populations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -836,7 +836,7 @@
         "course_name": "Bully and Youth Violence: Prevention and Reduction",
         "course_description": "This course is a survey of current issues in bullying and youth violence with an emphasis on applications in the school environment. The course will present effective strategies for bullying and violence prevention within the school and in collaboration with the community at large. Students are encouraged to apply the course concepts to their work environment and develop tools for future practice in schools and other youth-serving settings. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -844,7 +844,7 @@
         "course_name": "Communication and Collaboration with Children and Families",
         "course_description": "This course will provide education professionals with the knowledge and basic skills to address common mental health issues through positive and solution focused communication and collaboration.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -852,7 +852,7 @@
         "course_name": "Vital Issues in School Mental Health",
         "course_description": "The course is highly individualized in that students, as a group, will choose the specific topics to be covered. Readings and assignments have three foci: 1) improve understanding of each issue within a broader context of public mental health policy, prevention, intervention, and maintenance; 2) deepen student knowledge of the topic from practice and research-based sources; and 3) enable students to deal more effectively with those issues within relevant settings. Topics may include, but are not limited to: school dropout, substance use, self-injury/cutting, relational aggression, management of extreme behaviors, homelessness, divorce/death, eating disorders, pregnancy, ADHD, and many others. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -860,7 +860,7 @@
         "course_name": "Preventions and Interventions in School Mental Health",
         "course_description": "This course explores the role that educators and school mental health professionals play in promoting, prevention and early intervention practices for mental, emotional, and behavioral disorders in youth and considers the basic steps for designing, implementing and evaluating evidence based interventions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -868,7 +868,7 @@
         "course_name": "Proactive Behavior Management",
         "course_description": "This course provides a framework to a prevention-focused model of classroom support and behavior management. Prevention is less time-consuming in the long run and leads to more opportunities for learning and social engagement because discipline problems are not interfering with teaching. This course will include evidence based strategies to structure proactive learning environments that promote students' academic skills and competencies as well as their social and emotional development. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -884,7 +884,7 @@
         "course_name": "Rehabilitation Counseling",
         "course_description": "A study of the history and current status of rehabilitation counseling, and the role, theory, and practice of counseling in rehabilitation settings with persons with disabilities.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -892,7 +892,7 @@
         "course_name": "Medical and Psychological Aspects of Disability",
         "course_description": "Presentation of medical aspects of major disabilities and their effects upon social, vocational, personal, and economic adjustment. Study of basic restoration and accommodating services.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -916,7 +916,7 @@
         "course_name": "Developmental Psychopathology and Exceptionality",
         "course_description": "An investigation into the presentation, diagnosis, and treatment of psychopathologies in individuals, emphasizing causal pathways, risks/resiliency, prevalence, incidence, and continuity/discontinuity of the disorders from research in the field of developmental psychopathology.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -932,39 +932,39 @@
         "course_name": "Diversity and Multiculturalism II - Practical Application",
         "course_description": "This course is part two in the Multicultural Education Certificate series of online courses designed for students working in a broad range of professions, such as health care, social work, education, school counseling, administration, etc. Students will examine various topics on diversity and multiculturalism to enhance their personal and professional development. To this end, the milieu of this course will be a safe online environment that is conducive to open dialogue, self-reflection, critical thinking, and questioning, and one in which students can actively engage in the learning process through affective and cognitive approaches. Postings, along with relevant readings and assignments, will be used as the primary tools and resources for this collective learning experience. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ESC_PS 8450",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ESC_PS 8450"
     },
     {
         "course_number": "ESC_PS 8555",
         "course_name": "African American Education - Historic and Current Issues",
         "course_description": "Critical examination of the deculturalization of American educational system. Concepts of race, culture, and \"post racial society\" are juxtaposed with social and systemic trends impacting African American students both in and out of the classroom. Pedagogical strategies are discussed. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ESC_PS 8450",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ESC_PS 8450"
     },
     {
         "course_number": "ESC_PS 8560",
         "course_name": "Immigrant Issues in Education",
         "course_description": "The purpose of this course is to increase the level of cross-cultural awareness, knowledge, and skills of school personnel working with students who are immigrants. It is designed to be practically and experientially oriented. Activities and assignments in the class are designed to assist, encourage, and challenge each student to more fully develop awareness and knowledge of self, and to use this information to improve intercultural interactions with others in professional settings as well as other settings. The anticipated outcome includes improved skills in conceptualizing the unique needs of and responding with appropriate approaches to effectively assist students who are immigrants. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ESC_PS 8450",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ESC_PS 8450"
     },
     {
         "course_number": "ESC_PS 8565",
         "course_name": "Gay, Lesbian and Bisexual Issues in the Schools",
         "course_description": "This online course seeks to expand your perspective, worldview, and knowledge of GLB individuals and in your work environments as well as an invitation to promote social justice to make positive changes for the benefit of GLB individuals. Individuals who identify as GLB face many unique experiences, challenges, and opportunities during their developmental life span including issues related to coming out, psychological well-being and mental health development, heterosexism and homophobia, stereotypes and myths, and sexual identity. These issues and more are discussed in the course. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ESC_PS 8450",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ESC_PS 8450"
     },
     {
         "course_number": "ESC_PS 8580",
         "course_name": "Social and Cultural Identity Development",
         "course_description": "Graduate-level course designed to introduce students to: (a) the dominant social and cultural identity theories and paradigms; (b) how these theories have been operationalized and measured.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -980,7 +980,7 @@
         "course_name": "Multicultural Counseling Competencies: Theory and Research",
         "course_description": "This course will introduce students to the current status of multicultural counseling theories and research issues and help students to increase their knowledge of cultural differences n counseling and psychology.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -988,7 +988,7 @@
         "course_name": "Interviewing, Diagnosis, and Assessment",
         "course_description": "Introduction to clinical, psychometric assessment, and diagnosis.  Data-gathering methods include interviews and tests/inventories of intellectual functioning, abilities, personality, and interests.  Students utilize psychological reports to inform assessment, diagnosis and treatment.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: ESC_PS 8082",
+        "credit_hours": "3Prerequisites or Corequisites: ESC_PS 8082",
         "recommendation": "None Listed"
     },
     {
@@ -1044,7 +1044,7 @@
         "course_name": "Quantitative Analysis in Educational Research I",
         "course_description": "This is the first course in the sequence of statistical analysis methods.  Topics covered in this course include statistical inference, simple regression, multiple regression, regression assumptions, regression with categorical predictors, model selection methods polynomial regression, and model validation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1068,7 +1068,7 @@
         "course_name": "Public Health Psychology",
         "course_description": "Study of applications of psychology to behavior, environment, and policy to promote health and prevent disease. The course gives particular attention to behavioral epidemiology and risk/resiliency factors associated with negative outcomes of childhood and adolescents.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1164,7 +1164,7 @@
         "course_name": "Qualitative Methods in Educational Research I",
         "course_description": "(same as LTC 8957 and ED_LPA 8957). This course provides a practical introduction to qualitative research and its applications in education and social sciences.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1188,7 +1188,7 @@
         "course_name": "Career Development Theory for Women",
         "course_description": "Consideration of the relevance of theories of career development for women, and their application to the counseling of women. Supervised clinical experience in the application of theories to counseling high school age women.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1196,8 +1196,8 @@
         "course_name": "Multicultural Issues in Counseling",
         "course_description": "This course covers the research and theories of counseling racial/ethnic minorities and gays, lesbians, and bisexuals in the U.S. Examination of personal values and education about the interrelationship between race, class, gender, and sexuality are accomplished via structured activities.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ESC_PS 8340",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ESC_PS 8340"
     },
     {
         "course_number": "ESC_PS 9010",
@@ -1212,7 +1212,7 @@
         "course_name": "Psychology of Crossing Cultural Borders",
         "course_description": "The primary purpose of the course is to promote the development of cross-cultural knowledge, awareness, and skills for applied psychologists. Students acquire knowledge of psychological processes associated with crossing cultural borders, and translate that knowledge into practical applications. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1332,7 +1332,7 @@
         "course_name": "College Student Development",
         "course_description": "Emphasis on college student development theory and its application in student affairs work.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1340,7 +1340,7 @@
         "course_name": "Student Affairs Administration",
         "course_description": "History, philosophy, theory, and issues pertinent to student affairs work.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1364,7 +1364,7 @@
         "course_name": "Scientific Fdns of Counseling Psych I: Prof Iss &",
         "course_description": "For first-year doctoral students in counseling psychology. This course focuses on the history of counseling psychology, in and scientific reasoning processes as they apply to both science and practice.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1388,7 +1388,7 @@
         "course_name": "Psychological Consultation: Schools",
         "course_description": "The individual psychological consultation process between the mental health professional and school personnel. Techniques, models, research roles, and responsibilities are discussed. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1396,7 +1396,7 @@
         "course_name": "Psychological Consultation: Organizations",
         "course_description": "This course provides an introduction to the theory and practical skills required to effectively consult at the organizational level in a variety of settings and contexts.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

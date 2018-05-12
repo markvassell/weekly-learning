@@ -4,7 +4,7 @@
         "course_name": "Elementary Latin I",
         "course_description": "Forms, grammar, syntax.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -76,8 +76,8 @@
         "course_name": "Topics in Latin",
         "course_description": "Topics course involving Latin texts.  May be repeated for credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: LATIN 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "LATIN 4300"
     },
     {
         "course_number": "LATIN 4510",
@@ -92,32 +92,32 @@
         "course_name": "Age of Cicero",
         "course_description": "Critical readings in and integrated analyses of the culture of the last decades of the Roman Republic.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: LATIN 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "LATIN 4300"
     },
     {
         "course_number": "LATIN 4530",
         "course_name": "Vergil",
         "course_description": "Readings, discussion, and literary analysis of Vergil Aeneid.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: LATIN 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "LATIN 4300"
     },
     {
         "course_number": "LATIN 4540",
         "course_name": "Augustan Literature",
         "course_description": "Critical readings in and integrated analyses of the culture of Augustan Rome.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: LATIN 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "LATIN 4300"
     },
     {
         "course_number": "LATIN 4550",
         "course_name": "Latin Epigraphy",
         "course_description": "Introduction to the study of Latin inscriptions and their contributions to ancient culture.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: LATIN 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "LATIN 4300"
     },
     {
         "course_number": "LATIN 4560",
@@ -140,24 +140,24 @@
         "course_name": "The Theodosian Age",
         "course_description": "A survey of major literary works of the late fourth and early fifth centuries. Readings from Augustine, Ambrose, Prudentius, Paulinus of Nola, Ammianus Marcellinus, Claudian.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: LATIN 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "LATIN 4300"
     },
     {
         "course_number": "LATIN 4590",
         "course_name": "Medieval Latin",
         "course_description": "Selected texts of Middle Ages and Renaissance. For students with primary interest in history, literature, philosophy, religion, Romance philology, or the classical tradition, experience with Latin sources in their field.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: LATIN 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "LATIN 4300"
     },
     {
         "course_number": "LATIN 4600",
         "course_name": "Survey of Latin Literature",
         "course_description": "Latin literature from origins to end of Roman Empire; emphasis on authors not covered in other courses, to provide general view of styles and genres.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: LATIN 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "LATIN 4300"
     },
     {
         "course_number": "LATIN 4960",
@@ -196,7 +196,7 @@
         "course_name": "Topics in Latin",
         "course_description": "Topics in Latin.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -300,7 +300,7 @@
         "course_name": "Latin Rough Guide",
         "course_description": "Intensive exploration of Latin literature from the Roman Republic through the Late Empire.  Emphasis upon texts as both literary and cultural artifacts whose interpretation requires familiarity with the historical and archaeological legacy of antiquity as well as modern exegetical strategies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -308,7 +308,7 @@
         "course_name": "Seminar in Roman Comedy",
         "course_description": "Seminar in Roman Comedy.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -316,7 +316,7 @@
         "course_name": "Seminar in Latin Lyric and Elegiac Poetry",
         "course_description": "Seminar in Latin Lyric and Elegiac Poetry",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Seminar in Neronian Literature",
         "course_description": "Seminar in Neronian Literature",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -332,7 +332,7 @@
         "course_name": "Seminar in Roman Historians",
         "course_description": "Seminar in Roman Historians.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -364,7 +364,7 @@
         "course_name": "Seminar in Special Fields",
         "course_description": "Seminar in special fields.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     }
 ]

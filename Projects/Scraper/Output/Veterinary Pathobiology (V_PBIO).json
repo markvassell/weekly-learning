@@ -52,7 +52,7 @@
         "course_name": "Veterinary Bacteriology II",
         "course_description": "Continuation of V_PBIO 5552. Instructional period 6.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2.5",
+        "credit_hours": "2.5",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Epidemiology and Biostatistics with Laboratory",
         "course_description": "(same as V_PBIO 8455). This course introduces students to methods of determining the influence of disease on populations and how this information is applied to individual animals. Biostatictics and evidence based medicine are also discussed in this course. The knowledge gained in this course is applied to reading professional literature during the course. Instructional period 4.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Veterinary Parasitology with Laboratory",
         "course_description": "(same as V_PBIO 8457). Parasites and parasitic diseases of ruminants, horses, swine, dogs, cats, poultry and other animals. Includes classification, morphology, and bionomiics of protozoa, helminths, and arthropods. Instructional period 6.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Veterinary Public Health",
         "course_description": "(same as V_PBIO 8458). In this course students are introduced to the wide range of veterinary involvement in maintaining and assuring human health, nationally and globally. Topics discussed include: agencies such as USDA, FDA, CDC, food safety and meat inspection, veterinary responsibility in identifying diseases, legal issues of drug use, and zoonotic diseases. Instructional period 7.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Veterinary Pathology with Laboratory",
         "course_description": "General Pathology. Tissue reactions to various disease agents in domestic animals. Instructional period 5.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -100,7 +100,7 @@
         "course_name": "Veterinary Systemic and Special Pathology with Laboratories",
         "course_description": "Special and systemic pathology. Tissue reactions to disease in special systems in domestic animals. Instructional period 6.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Veterinary Systemic and Special Pathology II with",
         "course_description": "Follows the general pathology and continues the systemic pathology taught in V_PBIO 5576. The course, consisting of daily lectures and weekly laboratories, covers disease, mainly in domestic animals, of the following systems or organs: cardiovascular, respiratory, lymphoid, cutaneous, mammary, ophthalmic, and otic. Instructional period 7.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -156,7 +156,7 @@
         "course_name": "Foundations in Veterinary Research and Discovery",
         "course_description": "This course will introduce veterinary students to concepts of research including hypothesis development, experimental design, data interpretation, grantsmanship, responsible conduct of research, biomedical research careers and presentation and publication methods.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -172,7 +172,7 @@
         "course_name": "Diagnostic Pathology and Special Species Medicine",
         "course_description": "Application of laboratory techniques used to diagnose disease by macroscopic, microscopic, biochemical, microbiologic, and toxicologic findings. Case method of teaching. Domestic avian species and laboratory animals included. Six times yearly.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 8",
+        "credit_hours": "8",
         "recommendation": "None Listed"
     },
     {
@@ -284,7 +284,7 @@
         "course_name": "Advanced Epidemiology",
         "course_description": "(same as F_C_MD 8421).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -292,7 +292,7 @@
         "course_name": "Comparative Pathology",
         "course_description": "(same as PTH_AS 8000). Biochemical and morphologic lesions related to the mechanism of disease expression in plants and animals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -316,7 +316,7 @@
         "course_name": "Veterinary Oncology",
         "course_description": "History and molecular biology of neoplasia; laboratory for discussion of practical aspects of diagnosis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -356,7 +356,7 @@
         "course_name": "Primatology",
         "course_description": "Disease and pathology of primates.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -372,7 +372,7 @@
         "course_name": "Advanced Veterinary Pathogenic Bacteriology",
         "course_description": "Study of pathogenic bacteria causing animal disease. Pathogenic mechanisms and host-parasite relationships are emphasized. Laboratory procedures for isolation and identification of pathogens are included.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -404,7 +404,7 @@
         "course_name": "Oncogenic Animal Viruses",
         "course_description": "Biology of RNA-and DNA-containing animal tumor viruses and their in vitro and in vivo interactions with host cells.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -428,7 +428,7 @@
         "course_name": "Introduction to Immunology",
         "course_description": "(same as V_PBIO 5511 and V_PBIO 5512). Fundaments of immunology as applied to domestic animals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -436,7 +436,7 @@
         "course_name": "Cell and Molecular Electron Microscopy",
         "course_description": "Lecture class that describes the use of electron microscopy (transmission and scanning) in biomedical research. Students receive hands-on experience by completing a laboratory project.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -444,7 +444,7 @@
         "course_name": "Domestic Animal Virology",
         "course_description": "(cross-leveled with V_PBIO 5554). Classification and properties of viruses. Considers the etiologic, pathologic and immunologic aspects of viral diseases of animals. Instructional periods 6.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2.5",
+        "credit_hours": "2.5",
         "recommendation": "None Listed"
     },
     {
@@ -468,7 +468,7 @@
         "course_name": "Veterinary Public Health",
         "course_description": "(same as V_PBIO 5558).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {

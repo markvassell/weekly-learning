@@ -12,7 +12,7 @@
         "course_name": "Foundations of Family Science",
         "course_description": "Introduction to family studies discipline and profession. Introduces historical changes in families, diversity by race, ethnicity, class and sexual orientation, and interaction of families with neighborhoods, schools, the workplace, and larger systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Intimate Relationships and Marriage",
         "course_description": "Examination of issues pertaining to intimate and marital relationships such as relationship foundation and dissolution processes, love, sex, behavioral scripts, and conflict. Diversity related to race, ethnicity, gender, and sexual orientation is explored.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Multicultural Study of Children and Families",
         "course_description": "Study of cultural variation in family life around the world and within America (e.g.: African-American, Hispanic American). Attention is paid to the external conditions that affect the internal workings of these families.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Principles of Human Development",
         "course_description": "Concepts and principles basic to an understanding of human development and learning throughout the life span.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Human Sexuality Across the Life Span",
         "course_description": "An introductory survey of human sexuality including gender, love and intimacy, sexual expression and variation, sexual orientation, contraception, pregnancy and birth, sexually transmitted infections, sexual coercion, and sex in society.  Sexuality within the context of intimate relationships across the life course will be emphasized.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -188,7 +188,7 @@
         "course_name": "Adulthood and Aging",
         "course_description": "Examination of biological, cognitive, psychological and social changes experienced across adulthood.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -204,7 +204,7 @@
         "course_name": "Infant-Toddler Practicum",
         "course_description": "Practical experience working with infants and toddlers, applying developmentally appropriate practice and theoretical perspectives. Emphasizes cognitive, social/emotional, creative and motor development; and staff and family relationships in child care settings. Graded on A-F basis only.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 6Prerequisites or Corequisites: H_D_FS 3050 or H_D_FS 3420 or instructor's consent",
+        "credit_hours": "6Prerequisites or Corequisites: H_D_FS 3050 or H_D_FS 3420 or instructor's consent",
         "recommendation": "None Listed"
     },
     {
@@ -244,7 +244,7 @@
         "course_name": "Preschool Practicum",
         "course_description": "Practical experience working with children ages 2.5-5 years of age, applying developmentally appropriate practice and theoretical perspectives. Emphasizes cognitive, social and emotional, creative, and motor development, and family and staff relationships in a child care setting.   Graded on A-F basis only.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 6Prerequisites or Corequisites: H_D_FS 3150 or H_D_FS 3420 or instructor's consent",
+        "credit_hours": "6Prerequisites or Corequisites: H_D_FS 3150 or H_D_FS 3420 or instructor's consent",
         "recommendation": "None Listed"
     },
     {
@@ -668,7 +668,7 @@
         "course_name": "Basic Grant Development and Management",
         "course_description": "This course introduces students to grant development and management.  This short-course is not intended to cover all aspects of grant development and management, but it will help students gain confidence in their grant development abilities and inspire them to learn more.   Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -676,7 +676,7 @@
         "course_name": "Adult Development",
         "course_description": "This course presents a life-span, multidisciplinary developmental framework that considers sociohistorical influences, individual differences, and concern for promoting optimal functioning.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -684,7 +684,7 @@
         "course_name": "Physical Health and Aging",
         "course_description": "This course identifies the basic physiologic changes during aging and their effects on health and disease.  The focus will be on successful aging with special emphasis on physical activity and nutrition.  Practical application to community settings is addressed.   Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -692,7 +692,7 @@
         "course_name": "Aging Policy",
         "course_description": "Policy development in the context of the economic status of the elderly populations.  Retirement planning and the retirement decision; Social Security and public transfer programs for the elderly; intrafamily transfers to/from the elderly; private pensions; financing medical care for the elderly; prospects and issues for the for the future.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -700,7 +700,7 @@
         "course_name": "Environments and Aging",
         "course_description": "Examination of attributes of physical environments that support special needs of older people and application of this knowledge to the design and management of housing, institutional settings, neighborhoods and communities.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -708,7 +708,7 @@
         "course_name": "Aging and the Family",
         "course_description": "Theories and research related to personal and family adjustments in later life affecting older persons and their inter-generational relationships.  Related issues including demographics are also examined through the use of current literature.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -716,7 +716,7 @@
         "course_name": "Mental Health and Aging",
         "course_description": "Student is introduced to the range of issues utilizing several theoretical perspectives and the systems framework.  Major mental, emotional, and psychiatric problems encountered in old age are examined, along with normal processes of aging individual's personality, mental and brain functions.   Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -724,7 +724,7 @@
         "course_name": "Women and Aging",
         "course_description": "Women and aging is the study of theory, research and application of issues related to women and the aging experience. Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -732,7 +732,7 @@
         "course_name": "Biological Principles of Aging",
         "course_description": "This course will give an overview of the normal aging process of the human body systems, environmental factors influencing normal aging, diseases and disorders associated with aging.  A special topics unit will include but is not limited to interviews and observations dealing with the aging process in humans.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -740,7 +740,7 @@
         "course_name": "Long-Term Care Administration",
         "course_description": "Provides information for persons interested in leadership role in long-term care, or for those considering careers intersecting with senior living organizations. Also considers long-term care options.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -804,7 +804,7 @@
         "course_name": "Resilience in Families",
         "course_description": "Exploration of the evolution of a resilience approach to the study of families and human development.  Using a lifespan approach, students will explore resilience across time as well as within special populations such as families experiencing crisis and trauma, culturally diverse families, and military families.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -812,7 +812,7 @@
         "course_name": "Stress and Resilience in Families",
         "course_description": "Introduction to the study of stressor events in families, such as poverty, violence within families, substance abuse, and health problems. Emphasis is on both prevention and coping.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -828,7 +828,7 @@
         "course_name": "Interpersonal Relationships",
         "course_description": "In-depth examination of interpersonal relationships, including theoretical perspectives, research methods, relationship forms, relationship processes, and how context affects relationships. Students will also be introduced to the field of close relationships.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -836,7 +836,7 @@
         "course_name": "Family Crisis Intervention",
         "course_description": "Individuals and families in crises are examined.  Focus is on grief and loss, substance abuse, family violence, and suicidal ideation.  Examination of evidence-based preventions and treatments and community resources for those affected by stress, trauma, and crises.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -844,7 +844,7 @@
         "course_name": "Family Resource Management",
         "course_description": "Survey course of personal finance and family resource management literature to provide an overview of how individual and family members develop and exercise their capacity to obtain and manage resources to meet life needs.  Resources include the self, other people, time, money, energy, material assets, space, and environment.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -860,7 +860,7 @@
         "course_name": "Physical Function and Older Adults",
         "course_description": "(same as F_C_MD 7750, ARCHST 7640, HMI 7750, NURSE 7750, P_HLTH 7750, and SOC_WK 7752). This course takes an interdisciplinary approach to understanding and improving the physical function and independence of older adults and explores approaches to alleviate disabling conditions that interfere with physical function and quality of life in old age.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -868,7 +868,7 @@
         "course_name": "Psychosocial Function and Older Adults",
         "course_description": "(same as ARCHST 7650, F_C_MD 7751, HMI 7751, NURSE 7751, P_HLTH 7751 and SOC_WK 7751).  This course takes an Interdisciplinary approach to understanding the psychosocial function of older adults and explores approaches to alleviate disabling conditions that interfere with psychosocial function and quality of life in old age.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -964,7 +964,7 @@
         "course_name": "Foundations and Principles of Family and Community Services",
         "course_description": "This course provides an introduction to the field of family studies and related professions that involve working with individuals and families in communities.  This course is designed to provide a foundation of knowledge that students will need in the Great Plains IDEA family and Community Services program.   This course is organized around theory, research, and practice of Family Studies.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1004,7 +1004,7 @@
         "course_name": "Gerontechnology",
         "course_description": "Population aging is combining with technological advancement to create and change the world of modern older people, their families, and their communities.  This course takes an interdisciplinary approach to the understanding of the biological, environmental, and social spheres where technology and gerontology meet.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1012,7 +1012,7 @@
         "course_name": "Creativity and Aging",
         "course_description": "What happens to creativity as a person ages?  This unique class will help students to understand developmental and pathological changes in the brain that can lead to changes in creative output over time.  Through hands-on experiences and direct association with older adults, students will grow an appreciation for creativity produced and inspired by older people.  This course is intended to provide experiences that will help the student to be able to create art programs for older adults.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1020,7 +1020,7 @@
         "course_name": "Management and Leadership",
         "course_description": "This course serves as an overview of management and leadership concepts related to the operational and administrative competencies necessary in effective community-based family and youth organizations and agencies.  It is designed to provide students with foundational skills and knowledge to manage day-to-day functions related to organizational systems such as human resource management, financial management, risk management, strategic planning, governance and advisory structures, and marketing.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1028,7 +1028,7 @@
         "course_name": "Youth Professionals as Consumers of Research",
         "course_description": "This course will help youth development professionals understand and evaluate the quality of research reports.  Students will learn the basics of quantitative and qualitative research approaches that will enable them to understand, evaluate, and critique research articles reported in newspaper, journals or other sources.    Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1036,7 +1036,7 @@
         "course_name": "Adolescents and their Families",
         "course_description": "This course explores adolescent development in the context of the family.  The bi-directional influences between adolescents and their families will be examined.  Implications for professionals working with youth and families will be explored and highlighted.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1044,7 +1044,7 @@
         "course_name": "Administration and Program Management",
         "course_description": "This course introduces students to the development, administration and management of youth-serving organizations.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1052,7 +1052,7 @@
         "course_name": "Federal and State Policies that Impact Youth Development",
         "course_description": "This course examines various federal and state policies that effect developmental opportunities for youth.  Course participants will also examine not only how policies are developed, but also why.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1060,7 +1060,7 @@
         "course_name": "Youth Cultures and the Cultures of Youth",
         "course_description": "This course examines the cultural contexts that affect youth from within and outside the family.  Students will study social, ethnic, and educational processes that affect youth, and they will examine how history has shaped the current cultural climate of the U.S.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1076,7 +1076,7 @@
         "course_name": "Community Youth Development",
         "course_description": "This course focuses on community youth development from a strength-based or developmental asset approach.  This approach encompasses both individual development and interrelationships with social environments.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1084,7 +1084,7 @@
         "course_name": "Youth Development",
         "course_description": "This course introduces the developmental period of adolescence.  Emphasis will be on developmental tasks of this life stage and influences of family and home, school, peers and other contextual forces.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1092,7 +1092,7 @@
         "course_name": "Perspectives in Gerontology",
         "course_description": "An overview of current aging issues including the prevailing focus of gerontology theory and research, critical social and political issues in aging, the interdisciplinary focus of gerontology, career opportunities, and aging in the future.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1100,7 +1100,7 @@
         "course_name": "Physical Health in Aging",
         "course_description": "This course identifies the basic physiologic changes during aging and their effects on health and disease.  The focus will be on successful aging with special emphasis on physical activity and nutrition.  Practical application to community settings is addressed.  Priority given to students in the Great Plains Idea Group master's and certificate program.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1108,7 +1108,7 @@
         "course_name": "Gerontology Research Methods and Program Evaluation",
         "course_description": "Overview of program evaluation, research methods and grant writing in gerontology.  Includes application of quantitative and qualitative methods in professional settings.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1132,7 +1132,7 @@
         "course_name": "Programs for Young Children",
         "course_description": "An examination of program models that serve as a framework for curriculum in programs for children birth through age 5.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1140,7 +1140,7 @@
         "course_name": "Cognitive Development",
         "course_description": "(same as PSYCH 8420). Study of the development of reasoning, perception and language.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1148,7 +1148,7 @@
         "course_name": "Temperament and Personality Development",
         "course_description": "(same as PSYCH 8430). Intended for graduate students in psychology and related fields.  This course is a survey of theory and research in the area of temperament and personality development, with emphasis on child development. Prerequisitse: instructor's consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1156,7 +1156,7 @@
         "course_name": "Social and Emotional Development",
         "course_description": "(same as PSYCH 8440). Seminar on emotional and social development in children, with focus on research and theory on the impact of various family, school, and societal factors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1164,7 +1164,7 @@
         "course_name": "Adolescence and Emerging Adulthood",
         "course_description": "Seminar on development during adolescence and emerging adulthood from biological, cognitive, psychsocial, and cultural perspectives, and with a focus on health-related attitudes and behaviors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1172,7 +1172,7 @@
         "course_name": "Life Course Perspective",
         "course_description": "Seminar on the life course perspective, an interdisciplinary approach to the study of lives over time and the interplay between human lives and social institutions. Deals with how individual lives are shaped by social change and social structure.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1180,7 +1180,7 @@
         "course_name": "Identity Development",
         "course_description": "Uses an Eriksonian framework to explore research regarding developmental tasks related to identity, such as attachment, self-esteem, moral behavior, achievement, and the formation of an abstract sense of self.  Also considers such issues as gender identity, ethnic identity, and sexual identity.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1196,7 +1196,7 @@
         "course_name": "Parenting Education",
         "course_description": "Study of theories, models, research and skills regarding parenting effectiveness and parent-child relations in the context of Western and Eastern cultures.  Included are comparisons of the relative strengths and weaknesses of various parenting approaches, historical perspective on parenthood and children, parenting roles, strategies for contemporary parenting, developmental interaction from infancy through adulthood and selected special concerns of parents.  A Bio-Ecological Systems approach will be utilized in this course.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1204,7 +1204,7 @@
         "course_name": "Lifespan Development",
         "course_description": "This course covers the human development including the cognitive, social-emotional, motor, language, and moral domains from both a lifespan and a bio-ecological perspective.  Course content focuses on the major theories of development as well as current research on the micro-macro interrelationship.  Students who complete this course will have a better understanding of individual human developmental processes and their relationship with context and within family and community matters.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1252,7 +1252,7 @@
         "course_name": "Poverty",
         "course_description": "Implications of poverty for child, adult, and family functioning.  Poverty-related policies and programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1324,7 +1324,7 @@
         "course_name": "Macro Social Theory",
         "course_description": "(same as SOC_WK 9400). An in-depth examination of human development and social environmental theories appropriate to social welfare practice in formal organizations, interorganizational combinations, communities, and larger political entities.  Students may not receive credit for both H_D_FS 9400 and SOC_WK 9400.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1356,7 +1356,7 @@
         "course_name": "Social Welfare Policy Seminar",
         "course_description": "(same as SOC_WK 9700) Critical examination of comparative models of social policy development; preparation of a professional social work policy analysis in the student's area of interest/specialization.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     }
 ]

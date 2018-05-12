@@ -12,15 +12,15 @@
         "course_name": "The Theatre in Society",
         "course_description": "Examines the form and meaning of theatre in civilizations of the West from the ancient Greeks to modern times.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Freshman or Sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Freshman or Sophomore standing"
     },
     {
         "course_number": "THEATR 1200",
         "course_name": "Voice and Articulation",
         "course_description": "Techniques for improving speaking voice; theories underlying techniques. Attention to student's articulation, pronunciation, voice quality, general expressiveness.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "World Theatre Workshop",
         "course_description": "(same as BL_STU 1250). Provides a diverse ensemble of student performers, writers, and technicians with an intensive immersion in the process of theatrical production through the public presentation of dramatic literature that focuses on global issues of ethnicity and culture.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Beginning Scenic Construction",
         "course_description": "This course examines, through theory and practice, the art and science of technical theatre. Students explore the methods, equipment, and materials used in executing scenery, properties, and lighting designs for the stage, and participate in the backstage operation of a theatrical production.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Beginning Costume Construction",
         "course_description": "This course examines, through theory and practice, the art and science of costume technology in the theatre. Students explore the methods, equipment, and materials used in executing costume designs for the stage, and participate in the backstage operation of a theatrical production.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Acting for Non-Majors",
         "course_description": "Basic theory and practice of acting for the non theatre major.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Stage Movement for the Actor",
         "course_description": "Basic work in the techniques that comprise movement training for the actor.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "African-American Theatre History",
         "course_description": "(same as BL_STU 1720). A historical and critical analysis of the evolution of African American cultural performance in the American theatre and entertainment industry.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "African-American Cinema",
         "course_description": "(same as BL_STU 2150). Study of the impact of cinema and the entertainment industry on the social perceptions of African-Americans and on African-American culture.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -100,7 +100,7 @@
         "course_name": "Introduction to Performance Studies",
         "course_description": "This course focuses on the writing of adaptations for the stage through performance.  Students develop skills in critical reading, writing, listening, speaking and analysis of performance as they study oral and literary texts, autobiography and narratives.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Stage Management",
         "course_description": "Study of the role of the theatre stage manager. Practice in becoming effective in planning and stage managing theatre productions. Graded on A/F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -140,15 +140,15 @@
         "course_name": "Introduction to Theatre Design",
         "course_description": "Design principles and elements as they relate to theatre performance. Use of drawing and creative 3-dimensional exercises to develop design concepts.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: to students interested in directing, playwriting, and design for the theatre",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "to students interested in directing, playwriting, and design for the theatre"
     },
     {
         "course_number": "THEATR 2710",
         "course_name": "Introduction to Theatre History",
         "course_description": "Survey of major periods emphasizing the produced play in its historical context.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -180,7 +180,7 @@
         "course_name": "Beginning Playwriting",
         "course_description": "(same as ENGLSH 2560). Study and practice of playwriting fundamentals; emphasizes the one-act play.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -212,15 +212,15 @@
         "course_name": "Performance of Literature",
         "course_description": "(same as ENGLSH 3570 and COMMUN 3570). Analysis and oral interpretation of literary works. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "sophomore standing"
     },
     {
         "course_number": "THEATR 3230",
         "course_name": "Vocal Performance Technique",
         "course_description": "This course develops the ability to use the voice as a creative and expressive instrument through a comprehensive study of speech and voice dynamics which include the exploration of proper breathing, relaxation, tonal placement, and non-regional articulation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -236,7 +236,7 @@
         "course_name": "Costume Crafts",
         "course_description": "To develop the skills and techniques needed in executing costume crafts, including millinery, corsetry, painting and dyeing, and embellishment.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -268,7 +268,7 @@
         "course_name": "Acting I",
         "course_description": "Basic theory, practice of acting, stage movement.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -276,15 +276,15 @@
         "course_name": "Acting II",
         "course_description": "Script analysis, character and role development in modern and contemporary non-realistic theatrical forms. Rehearsal and presentation of scenes, based on contemporary dramatic and performance theory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: THEATR 2800",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "THEATR 2800"
     },
     {
         "course_number": "THEATR 3530",
         "course_name": "Computer Graphics in Theatre Design",
         "course_description": "The use of graphics and CAD software to create theatre designs. The course will progress from 2D CAD drafting to 3D image rendering.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -332,23 +332,23 @@
         "course_name": "World Dramatic Literature",
         "course_description": "(same as ENGLSH 3170). Survey of world drama from Greeks to present, focusing on structure, theory and performance.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: THEATR 2710 and THEATR 2800",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "THEATR 2710 and THEATR 2800"
     },
     {
         "course_number": "THEATR 3700W",
         "course_name": "World Dramatic Literature - Writing Intensive",
         "course_description": "(same as ENGLSH 3170). Survey of world drama from Greeks to present, focusing on structure, theory and performance.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: THEATR 2710 and THEATR 2800",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "THEATR 2710 and THEATR 2800"
     },
     {
         "course_number": "THEATR 3750",
         "course_name": "New American Theatre",
         "course_description": "Survey of drama of the most recent decade as it documents contemporary mores and amplifies cultural themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -404,7 +404,7 @@
         "course_name": "Digital Media and Performance",
         "course_description": "(cross-leveled with THEATR 7280). This course introduces students to the history and practice of the combination of live actors and digital media within the context of theatre and performance. Students learn about developments in the history of this topic as well as significant individuals, groups of artists, and theorists who have contributed to the field. Theories of performance are utilized as a way to understand subjects such as the development of computers and the Internet, the impact of technology and social media on society, virtual reality, telematics, robotics, and video games. Students create their own performances that combine live performances with digital media elements, and learn basic approaches to using computer software that is employed in creating these types of performances.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -420,7 +420,7 @@
         "course_name": "Stage Lighting Design",
         "course_description": "Theory and practice of lighting for theatre production.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -444,7 +444,7 @@
         "course_name": "Introduction to Dramaturgy",
         "course_description": "The course focuses on the practice of dramaturgy and the various functions currently performed by the artist/scholar identified as \"dramaturg\" including research, dramatic criticism/interpretation, new play development, marketing and educational outreach, and textual adaptation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -452,15 +452,15 @@
         "course_name": "Studies in Theatre History",
         "course_description": "Advanced survey of major periods, movements. Repeatable to a maximum of 6 hours with instructor's consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Senior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Senior standing"
     },
     {
         "course_number": "THEATR 4720",
         "course_name": "American Musicals",
         "course_description": "(same as MUS_H_LI 4376). Historical survey of the development of the 20th-Century American Musical in Theatre and Film.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -476,32 +476,32 @@
         "course_name": "Studies in Dramatic Theory",
         "course_description": "Analysis of history, meaning and function of selected concepts of contemporary dramatic and performance theory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: senior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "senior standing"
     },
     {
         "course_number": "THEATR 4820",
         "course_name": "Studies in Dramatic Literature",
         "course_description": "(cross-leveled with THEATR 7820). Advanced survey of major movements, periods, writers. Repeatable to a maximum of 6 hours with instructor's consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Senior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Senior standing"
     },
     {
         "course_number": "THEATR 4820W",
         "course_name": "Studies in Dramatic Literature - Writing Intensive",
         "course_description": "Advanced survey of major movements, periods, writers. Repeatable to a maximum of 6 hours with instructor's consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Senior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Senior standing"
     },
     {
         "course_number": "THEATR 4830",
         "course_name": "Studies in Dramatic Criticism",
         "course_description": "Survey of methods of criticism of scripts and performances.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: senior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "senior standing"
     },
     {
         "course_number": "THEATR 4920",
@@ -524,7 +524,7 @@
         "course_name": "Adaptation of Literature for the Stage",
         "course_description": "(same as ENGLSH 4570; cross-leveled with THEATR 7930 and ENGLSH 7570). This upper-division course will explore adaptation principles and practices with a variety of forms of literature that were not originally written for the stage.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -532,7 +532,7 @@
         "course_name": "Adaptation of Literature for Film",
         "course_description": "(same as FILM_S 4935 and ENGLSH 4935; cross-leveled with THEATR 7935, ENGLSH 7580 and FILM_S 7935).  This upper-division course will explore adaptation principles and practices with a variety of forms for literature that were not originally written for film.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -596,7 +596,7 @@
         "course_name": "Digital Media and Performance",
         "course_description": "(cross-leveled with THEATR 4280).  This course introduces students to the history and practice of the combination of live actors and digital media within the context of theatre and performance. Students learn about developments in the history of this topic as well as significant individuals, groups of artists, and theorists who have contributed to the field. Theories of performance are utilized as a way to understand subjects such as the development of computers and the Internet, the impact of technology and social media on society, virtual reality, telematics, robotics, and video games. Students create their own performances that combine live performances with digital media elements, and learn basic approaches to using computer software that is employed in creating these types of performances.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -620,7 +620,7 @@
         "course_name": "Studies in Theatre History",
         "course_description": "Advanced survey of major periods, movements. Repeatable to a maximum of 6 hours with instructor's consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -652,7 +652,7 @@
         "course_name": "Studies in Dramatic Theory",
         "course_description": "Analysis of history, meaning and function of selected concepts of contemporary dramatic and performance theory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -660,7 +660,7 @@
         "course_name": "Studies in Dramatic Literature",
         "course_description": "Advanced survey of major movements, periods, writers. Repeatable to a maximum of 6 hours with instructor's consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -668,7 +668,7 @@
         "course_name": "Studies in Dramatic Criticism",
         "course_description": "Survey of methods of criticism of scripts and performances.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -692,7 +692,7 @@
         "course_name": "Adaptation of Literature for Film",
         "course_description": "(same as ENGLSH 7580 and FILM_S 7935; cross-leveled with THEATR 4935, FILM_S 4935 and ENGLSH 4935).  This upper-division course will explore adaptation principles and practices with a variety of forms of literature that were not originally written for film.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -700,7 +700,7 @@
         "course_name": "Advanced Screenwriting: Styles",
         "course_description": "(same as ENGLSH 7938; cross-leveled with THEATR 4938, ENGLSH 4938).  To develop advanced skills of screenwriting through a focus on a non-realistic dramatic writing technique in the development of a full-length screenplay. Areas of study will include techniques of magic realism, symbolism, expressionism, absurdism, surrealism/dada, mythic/fantasy, musicals, political docudrama, and science fiction.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -708,7 +708,7 @@
         "course_name": "Introduction to Dramaturgy",
         "course_description": "This course focuses on the practice of dramaturgy and the various functions currently performed by the artist/scholar identified as \"dramaturg\" including research, dramatic criticism/interpretation, new play development, marketing and educational outreach, and textual adaptation. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -740,7 +740,7 @@
         "course_name": "Theatre Scholarship",
         "course_description": "History, goals, and techniques of academic writing in theatre including research, types of studies, primary materials, interpretation, writing techniques, and publication.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -748,7 +748,7 @@
         "course_name": "Performance Ethnography",
         "course_description": "This graduate seminar will explore intersections of the fields of ethnography and performance: both studies of ethnographic research conducted within a performance paradigm and the performance of ethnographic research. The class will explore major critical and theoretical issues about ethnography and performance, including the conflation and differences between the forms of ethnographic texts and traditional performance scripts, questions about what constitutes performance ethnography as a genre, the construction and deconstruction of identities and communities inherent in performance ethnography, strategies for creating and critiquing the performance of ethnographic research, ethical questions related to representation and the performance of ethnographic research, writing performance ethnography, and the staging of texts based on ethnographic research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -764,7 +764,7 @@
         "course_name": "Backgrounds of Modern Theatre Practice",
         "course_description": "Survey of modern performance theory, aesthetics and practice. Emphasis on European theatre since 1875. May be repeated or credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -772,7 +772,7 @@
         "course_name": "Seminar in Theatre History",
         "course_description": "Selected problems in theatre history. May be repeated.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -780,7 +780,7 @@
         "course_name": "Graduate Seminar in Dramatic Literature",
         "course_description": "This is a course that explores the influence of major playwrights and playwriting in society--specific playwrights and their works are determined by the course professor.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -788,7 +788,7 @@
         "course_name": "Seminar in Dramatic Theory and Criticism",
         "course_description": "Selected topics in dramatic theory and criticism. May be repeated.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -804,7 +804,7 @@
         "course_name": "Graduate Seminar in Playwriting",
         "course_description": "(same as ENGLSH 8560). Seminar in theory, practice, and pedagogy of playwriting, students prepare a mid-term in playwriting theory, a full-length play, a research paper, and a syllabus and lesson plans for an undergraduate playwriting course.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

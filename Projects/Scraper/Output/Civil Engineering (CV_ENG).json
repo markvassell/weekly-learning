@@ -116,7 +116,7 @@
         "course_name": "Structural Steel Design",
         "course_description": "Basic principles of structural steel design. Design of beams, axially loaded members, columns, and bolted and welded connections.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: CV_ENG 3300 and CV_ENG 3600",
+        "credit_hours": "3Corequisites: CV_ENG 3300 and CV_ENG 3600",
         "recommendation": "None Listed"
     },
     {
@@ -284,7 +284,7 @@
         "course_name": "Transportation Geography",
         "course_description": "(same as GEOG 4850; cross-leveled with CV_ENG 7155; GEOG 7850). Introduction to fundamental concepts and modes of analysis in transportation geography.  Focus on descriptive, explanatory, as well as normative approaches.  Topics reviewed include spatial organization, transportation economics, spatial interaction, network analysis, location/allocation, and urban transportation planning.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -300,7 +300,7 @@
         "course_name": "Location Analysis/Site Selection",
         "course_description": "(same as GEOG 4740; cross-leveled with CV_ENG 7185; GEOG 7740). An overview of location analysis in regional planning and spatial decision support, this course focuses on the use of Geographic Information Science (GIS) and location analysis methods in addressing regional service needs.  Maybe be repeated for credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -332,7 +332,7 @@
         "course_name": "Hazardous Waste Management",
         "course_description": "(same as CH_ENG 4220; cross-leveled with CV_ENG 7220, CH_ENG 7220). Engineering principles involved in handling, collection, transportation, processing and disposal of hazardous wastes, waste minimization, legislation on hazardous wastes and groundwater contamination.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -372,7 +372,7 @@
         "course_name": "Environmental Regulatory Compliance",
         "course_description": "(cross-leveled with CV_ENG 4250). Systems of water law; provisions of major federal environmental laws and regulations; development of regulations at the federal, state, and local levels; regulatory frameworks; permits; and enforcement.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -380,7 +380,7 @@
         "course_name": "Environmental Public Policy",
         "course_description": "(cross-leveled with CV_ENG 7260). Engineering and economic aspects of environmental policy. Basic understanding of environmental statutes and case law.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -412,7 +412,7 @@
         "course_name": "Prestressed/Advanced Reinforced Concrete",
         "course_description": "Principles of prestressing. Constituent materials, loading and allowable stresses. Working and ultimate stress analysis and design. Shear and torsion. Deflections. Prestress losses. Continuous beams. Composite beams. Compression members. Footings.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: CV_ENG 3312",
+        "credit_hours": "3Prerequisites or Corequisites: CV_ENG 3312",
         "recommendation": "None Listed"
     },
     {
@@ -620,7 +620,7 @@
         "course_name": "Analysis of Civil Engineering Decisions",
         "course_description": "Formulates and analyzes probabilistic models of civil engineering systems and their environment. Elementary theory of decision making under uncertainty. Application to selected civil engineering problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -628,7 +628,7 @@
         "course_name": "Optimization of Civil Engineering Systems",
         "course_description": "Automated design techniques such as linear, nonlinear, and dynamic programming; gradient and random searching. Civil engineering applications emphasized throughout.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -652,7 +652,7 @@
         "course_name": "Quality Management in Civil Engineering",
         "course_description": "Quantitative and qualitative quality planning and analysis concepts, including statistical tools and total quality management techniques, control, measurement and assessment. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -732,7 +732,7 @@
         "course_name": "Urban Development and Planning",
         "course_description": "Introduction to planning processes; procedures and forces that shape urbanization.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -780,7 +780,7 @@
         "course_name": "Transportation Geography",
         "course_description": "(same as GEOG 7850; cross-leveled with CV_ENG 4155, GEOG 4850).  Introduction to fundamental concepts and modes of analysis in transportation geography.  Focus on descriptive, explanatory, as well as normative approaches.  Topics reviewed include spatial organization, transportation economics, spatial interaction, network analysis, location/allocation, and urban transportation planning.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -804,7 +804,7 @@
         "course_name": "Location Analysis/Site Selection",
         "course_description": "(same as GEOG 7740; cross-leveled with CV_ENG 4185, GEOG 4740). An overview of location analysis in regional planning and spatial decision support, this course focuses on the use of Geographic Information Science (GIS) and location analysis methods in addressing regional service needs. May be repeated for credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -812,7 +812,7 @@
         "course_name": "Infrastructure Project Development",
         "course_description": "(cross-leveled with CV_ENG 4190). Students will learn how the key elements of major civil engineering infrastructure projects fit together.  The course will focus on the horizontal integration of: financing - planning - environment - right of way - design - construction - operations - maintenance.  Engineering is important but so are a lot of other things.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -820,7 +820,7 @@
         "course_name": "Remote Sensing of the Environment",
         "course_description": "(cross-leveled with CV_ENG 4200). Principles, characteristics and applications of remote sensing in engineering, geosciences, agriculture and environmental projects. Topics: basic concepts, photographic, thermal multispectral and microwave systems, satellite remote sensing and digital image processing.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -828,7 +828,7 @@
         "course_name": "Solid Waste Management",
         "course_description": "(cross-leveled with CV_ENG 4210). Engineering principles involved in generation, handling, collection, transport, processing, and disposal of solid wastes, resource recovery and reuse, legislation on solid wastes and groundwater contamination problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -836,7 +836,7 @@
         "course_name": "Hazardous Waste Management",
         "course_description": "(same as CH_ENG 7220; cross-leveled with CV_ENG 4220, CH_ENG 4220). Engineering principles involved in handling, collection, transportation, processing and disposal of hazardous wastes, waste minimization, legislation on hazardous wastes and groundwater contamination.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -844,7 +844,7 @@
         "course_name": "Introduction to Water Quality",
         "course_description": "(cross-leveled with CV_ENG 4230). Methods for determining and characterizing water quality, effects of pollution on streams and lakes, and an introduction to engineered systems for the distribution, collection and treatment of water and wastewater..",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -868,7 +868,7 @@
         "course_name": "Environmental Chemistry for Engineers",
         "course_description": "(cross-leveled with CV_ENG 4245). This course will cover the fundamentals of environmental chemistry. Physical, equilibrium, organic and colloid chemistry topics will be presented from an environmental perspective with a focus on their relevant engineering applications. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -876,7 +876,7 @@
         "course_name": "Environmental Regulatory Compliance",
         "course_description": "(cross-leveled with CV_ENG 4250). Systems of water law; provisions of major federal environmental laws and regulations; development or regulations at the federal, state, and local levels; regulatory frameworks; permits; and enforcement.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -884,7 +884,7 @@
         "course_name": "Environmental Public Policy",
         "course_description": "(cross-leveled with CV_ENG 4260). Engineering and economic aspects of environmental policy. Basic understanding of environmental statutes and case law. Graded on A-F basis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -892,7 +892,7 @@
         "course_name": "Environmental Engineering Microbiology",
         "course_description": "(cross-leveled with CV_ENG 4270). Theory and application of fundamental principles of microbiology, ecology, and aquatic biology of the microorganisms of importance to sanitary engineers.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -900,7 +900,7 @@
         "course_name": "Wastewater Treatment and Process Design",
         "course_description": "(cross-leveled with CV_ENG 4290). Selection and use of wastewater and sludge treatment processes, disposal methods, leading to rational design of overall wastewater treatment systems.  Sustainable wastewater treatment including advanced processes in nutrient removal, anaerobic treatment for wastewater reuse. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -916,7 +916,7 @@
         "course_name": "Prestressed/Advanced Reinforced Concrete",
         "course_description": "(cross-leveled with CV_ENG 4302). Principles of prestressing. Constituent materials, loading and allowable stresses. Working and ultimate stress analysis and design. Shear and torsion. Deflections. Prestress losses. Continuous beams. Composite beams. Compression members. Footings.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: CV_ENG 3312",
+        "credit_hours": "3Corequisites: CV_ENG 3312",
         "recommendation": "None Listed"
     },
     {
@@ -932,7 +932,7 @@
         "course_name": "Energy Methods in Mechanics",
         "course_description": "(cross-leveled with CV_ENG 4320). Variational mechanics including practical examples.  Topics include calculus of variation of boundary value problems, energy methods such as Ritz and Galerkin methods, approximate solutions methods such as the finite element and finite difference, and eigenvalue problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -996,7 +996,7 @@
         "course_name": "Introduction to Construction Management",
         "course_description": "(cross-leveled with CV_ENG 4500). Structure of the construction industry; construction drawings and specifications; estimating and bidding; construction contracts, bonds and insurance; planning and scheduling of construction operations; project management; computer techniques.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1140,7 +1140,7 @@
         "course_name": "Advanced Intelligent Transportation Systems",
         "course_description": "This course is intended to be an introductory course in Intelligent Transportation Systems (ITS). This course includes the background of ITS, current implementations, sample deployments, and practical issues and implications.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1180,7 +1180,7 @@
         "course_name": "Transportation Networks",
         "course_description": "This course presents techniques used in equilibrium analysis of transportation networks.  The details of traffic assignment algorithms will be discussed along with theory and practical algorithms.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1188,7 +1188,7 @@
         "course_name": "Advanced Research Methods in Transportation Engineering",
         "course_description": "This course will cover advanced research methods used in transportation. A special focus will be on the state-of-art approaches in traffic engineering. Mathematical and analytical models will be reviewed in detail. This is a reading intensive course where students are expected to review research articles on various topics. The methods used in the articles and a critical review of the article findings will be discussed in an interactive manner in the class. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1228,7 +1228,7 @@
         "course_name": "Environmental Transport Phenomena",
         "course_description": "Fundamental processes that control the transport of constituents substances in fluids, and the implications of these processes for a variety of important applications in natural and engineered systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1244,7 +1244,7 @@
         "course_name": "Aquatic Chemistry",
         "course_description": "Principles of chemical thermodynamics and equilibrium applied to processes in natural water and water and wastewater treatment systems.  Emphasis on quantitative analyses of acid/base, complexation/dissociation, precipitation/dissolution, and reduction/oxidation reactions. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1252,7 +1252,7 @@
         "course_name": "Unit Process Laboratory",
         "course_description": "Studies chemical and physical relationships as applied to unit processes of water and wastewater.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1260,7 +1260,7 @@
         "course_name": "Physiochemical Treatment Processes",
         "course_description": "Fundamental principles, analysis and modeling of physical and chemical processes for water and wastewater treatment.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1268,7 +1268,7 @@
         "course_name": "Particles in the Environment",
         "course_description": "This course is an introduction to interfacial and colloid science, with an emphasis on aqueous systems of natural colloids and engineered nanomaterials. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1276,7 +1276,7 @@
         "course_name": "Biochemical Treatment Processes",
         "course_description": "Biochemical principles, kinetic models and energy considerations in the design of biological wastewater treatment processes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1292,7 +1292,7 @@
         "course_name": "Design of Water and Wastewater Treatment Facilities",
         "course_description": "Development of design criteria and their application to the design of water and wastewater treatment facilities.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1348,7 +1348,7 @@
         "course_name": "Advanced Structural Analysis",
         "course_description": "Current trends in structural analysis. Elastic analysis of curved beams, arches and suspensions. Finite element and nonlinear methods of analysis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1380,7 +1380,7 @@
         "course_name": "Structural Analysis",
         "course_description": "Classical and modern methods for elastic analysis. Influence line, Miller-Breslau principle. Introduction to force and displacement methods using matrix analysis. Application to continuous beams, grids, plane and space frames and trusses.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1388,7 +1388,7 @@
         "course_name": "Theory of Elasticity",
         "course_description": "(same as MAE 8330). Stress and strain at a point. General equations of elasticity. Plane stress, plain strain problems; torsion of prismatic bars. Energy methods.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1404,7 +1404,7 @@
         "course_name": "Theory of Plates and Shells",
         "course_description": "(same as MAE 8340). Rectangular and circular plates. Variational methods in the analysis of plates and shells. Plates of unusual shape. Shear deformation effects. Large deformation analysis. Analysis of cylindrical shells.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1420,7 +1420,7 @@
         "course_name": "Theory of Elastic Stability",
         "course_description": "(Same as MAE 8350). Buckling of Columns, frames, arches and other structural systems. Kinematic approach to stability. Large deflections. Energy approach to buckling. Plate and shell buckling. Inelastic buckling of columns. Creep buckling.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1484,7 +1484,7 @@
         "course_name": "Advanced Shear Strength of Soils",
         "course_description": "Theoretical soil mechanics as applied to solution of specific engineering problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1588,7 +1588,7 @@
         "course_name": "Construction Project Management",
         "course_description": "Cost analysis, estimating techniques. Time, cost, and quality control of construction projects. Recording/analyzing construction effort. Applications of crew balance, process charts, time-lapse motion pictures, operations research, and preplanning techniques to construction operations. Construction safety.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1652,7 +1652,7 @@
         "course_name": "Hydrodynamics",
         "course_description": "Special topics in potential theory and conformal mapping.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

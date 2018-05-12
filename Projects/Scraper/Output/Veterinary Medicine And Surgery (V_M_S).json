@@ -36,7 +36,7 @@
         "course_name": "Veterinary Radiology with Laboratory",
         "course_description": "Introduces through lectures and demonstrations the principles of radiographic examination and interpretation of disease processes of domestic animals. Instructional period 8.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Veterinary Anesthesiology with Laboratory",
         "course_description": "Basic principles of anesthesiology for any species of domestic and exotic animals. Instructional period 9.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Companion Animal Medicine with Laboratory",
         "course_description": "Covers basic principles of veterinary internal medicine and selected subdisciplines. Instructional period 9.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Small Animal Medicine",
         "course_description": "Didactic presentations regarding pathophysiology, diagnosis and therapeutic management of organ system diseases in small animals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2.5",
+        "credit_hours": "2.5",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Small Animal Surgery with Laboratory",
         "course_description": "Basic principles including suture materials, suture patterns,operative techniques, wound healing, and body system approach to soft tissue surgery conditions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Small Animal Surgery",
         "course_description": "Continuation of V_M_S 6060 lectures, focusing primarily on orthopedics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -100,7 +100,7 @@
         "course_name": "Food Animal Medicine and Surgery",
         "course_description": "Covers the important diseases of cattle, goats, sheep, camelids, and swine recognition, management and prevention of diseases are stressed.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2.5",
+        "credit_hours": "2.5",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Food Animal Medicine and Surgery",
         "course_description": "Continuation of V_M_S 6081. Covers the important diseases of cattle, goats, sheep, camelids, and swine recognition, management and prevention of diseases are stressed.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Theriogenology",
         "course_description": "Reproductive function, estrous cycle manipulation, and breeding of individual domestic animals and herds. Pathogenesis, diagnosis and management (medical and surgical) of common reproductive disorders.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -156,7 +156,7 @@
         "course_name": "Equine Medicine and Surgery",
         "course_description": "Covers the fundamentals of diseases of the equine species. Case Management approaches are utilized to provide examples of disease conditions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -172,7 +172,7 @@
         "course_name": "Food Animal Medicine and Surgery I",
         "course_description": "Clinical Rotation. Technical, diagnostic and therapeutic procedures common to the practice of large animal medicine and surgery. Experience in the operation of a large animal hospital and farm outpatient practice.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 6",
+        "credit_hours": "6",
         "recommendation": "None Listed"
     },
     {
@@ -204,7 +204,7 @@
         "course_name": "Equine Medicine and Surgery I",
         "course_description": "Clinical rotation. Technical, diagnostic and therapeutic procedures common to equine practice. Emphasis on fundamental principles.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 6",
+        "credit_hours": "6",
         "recommendation": "None Listed"
     },
     {
@@ -212,7 +212,7 @@
         "course_name": "Small Animal Surgery I",
         "course_description": "Diagnostic procedures and surgical techniques applicable to companion animal surgery. Practical experience in the operation of a small animal surgical practice. Six times per year.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 6",
+        "credit_hours": "6",
         "recommendation": "None Listed"
     },
     {
@@ -244,7 +244,7 @@
         "course_name": "Clinical Radiology I",
         "course_description": "Clinical rotation. Fundamentals of radiology: indications for use, techniques, pathophysiologic alterations, interpretation of results, patient aftercare, protective measures against radiation hazards.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -252,7 +252,7 @@
         "course_name": "Clinical Anesthesiology I",
         "course_description": "Clinical rotation. Fundamentals of anesthesiology: indications for use techniques, pathophysiologic alterations, and interpretations of results, patient aftercare.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -260,7 +260,7 @@
         "course_name": "Theriogenology I",
         "course_description": "Clinical rotation. Practical experience in reproductive techniques, obstetrics, breeding soundness and herd reproductive problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -268,7 +268,7 @@
         "course_name": "Clinical Ophthalmology I",
         "course_description": "Clinical rotation. Practical application in problem solving and medical and surgical management of eye conditions of domestic animals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -276,7 +276,7 @@
         "course_name": "Cardiology",
         "course_description": "Cardiology",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -284,7 +284,7 @@
         "course_name": "Small Animal Specialty Medicine I",
         "course_description": "Clinical rotation in small animal oncology. Taught in the clinical setting using animals presented to the VMTH for evaluation and treatment of oncologic diseases.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -484,7 +484,7 @@
         "course_name": "Equine Techniques Elective",
         "course_description": "This course provides an opportunity for equine oriented veterinary students wishing to enhance their understanding of the clinical techniques used in equine veterinary medicine and gain hands on practical experience in selected clinical techniques.  It is offered as a 2 credit, 2 week elective clinical rotation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -524,7 +524,7 @@
         "course_name": "Zoological Medicine",
         "course_description": "Interested students of Zoological Medicine would significantly broaden their understanding of this discipline and increase the likelihood they could enter zoological veterinary practice or a zoological veterinary medical residency.  Graded on A-F basis only",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -820,7 +820,7 @@
         "course_name": "Current Topics in Dairy Production Medicine",
         "course_description": "The course will focus on the presentation, evaluation and discussion of contemporary scientific peer-reviewed literature published in indexed journal related to current concepts on dairy production medicine. Participating students will be aimed to critically review current research publication with special emphasis on study design, hypothesis and objectives. Through the analysis of results and discussion, concepts of dairy production medicine will be imparted. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -884,7 +884,7 @@
         "course_name": "Clinical Veterinary Endocrinology",
         "course_description": "A 2-hour course for post-DMV graduate students. It will focus on clinically relevant physiology, pathophysiology, and diagnostic evaluation of hormone systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -908,7 +908,7 @@
         "course_name": "Advanced Veterinary Internal Medicine: Cardiovascular Medicine",
         "course_description": "Pathologic, pathophysiologic, hemodynamic and pharmacological mechanisms of important to the diagnosis, assessment, management and research of cardiovascular diseases of animals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -924,7 +924,7 @@
         "course_name": "Advanced Veterinary Internal Medicine: Food Animal Medicine",
         "course_description": "Current concepts in the pathophysiology, diagnosis and management of medical disorders, diseases of the limbs, and infectious diseases of cattle and food producing animals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -932,8 +932,8 @@
         "course_name": "Advanced Topics in Cancer Biology and Clinical Oncology",
         "course_description": "This course will provide students with a knowledge base in cancer cell biology that may be applied to the practice of clinical oncology. Monthly clinically-oriented seminars by invited speakers will be preceded by a weekly in-depth review of the basic science related to the seminar topic.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: MD or DVM",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "MD or DVM"
     },
     {
         "course_number": "V_M_S 8421",
@@ -948,7 +948,7 @@
         "course_name": "Comparative Arthrology",
         "course_description": "Lectures and discussion covering anatomy, physiology, biomechanics, pathophysiology, and clinical aspects of mammalian diarthrodial joints.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -972,7 +972,7 @@
         "course_name": "Research Methods and Data Analysis",
         "course_description": "A consideration of research methods, data analysis, and practical approaches to analyzing data sets derived from veterinary and biomedical studies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -988,7 +988,7 @@
         "course_name": "Veterinary Clinical Sciences: Clinical Immunology",
         "course_description": "Advanced concepts in veterinary immunology and immunopathology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {

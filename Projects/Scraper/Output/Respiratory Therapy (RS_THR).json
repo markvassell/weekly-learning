@@ -20,7 +20,7 @@
         "course_name": "Equipment and Techniques",
         "course_description": "History, organization of respiratory therapy.  Theory, application of gas laws.  Equipment for invasive and non-invasive pulmonary assessment, therapeutic aerosol and humidity, gas delivery, airway management.  Techniques for infection control, lung expansion, bronchial hygiene.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Clinical Practice I",
         "course_description": "To be taken concurrently with RS_THR 3220 for which it serves as an extension of the laboratory time and an opportunity for structured clinical experience exposures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Clinical Practice II",
         "course_description": "To be taken concurrently with  RS_THR 3420, for which it serves as an extension of the laboratory time, and an opportunity for structured clinical experience exposures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Clinical Practice III",
         "course_description": "Continuation of supervised clinical experience from  RS_THR 3942. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Respiratory Pathophysiology",
         "course_description": "Clinical pulmonary disease, organized around the gross structural components of the lung, airways, alveoli and pulmonary vasculature. Impact of disease on normal structure function; clinical, roentgenographic, and physiologic manifestations are described.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Pediatric Respiratory Care",
         "course_description": "Evaluation and management of pulmonary, medical and surgical pediatric conditions requiring respiratory care. Emphasis on pediatric resuscitation, pathophysiology, treatment and prevention of respiratory conditions, mechanical ventilation, lab interpretation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -132,7 +132,7 @@
         "course_name": "Organization and Administration",
         "course_description": "(same as RA_SCI 4440 and CPD 4440). Examines design and operation of allied health service departments and educational programs, including facilities, personnel procedures, record systems, ethics, medical-legal aspects, interdepartmental relations and curriculum development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -140,7 +140,7 @@
         "course_name": "Evidence-Based Medicine in Respiratory Care",
         "course_description": "This course is intended to facilitate the development of the student's ability to obtain and integrate patient assessment information and key findings and to formulate clinical decisions in respiratory therapy practice as well as use an evidence-based medicine approach to define respiratory clinical practice.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -148,7 +148,7 @@
         "course_name": "Evidence-Based Medicine in Respiratory Care - Writing Intensive",
         "course_description": "This course is intended to facilitate the development of the student's ability to obtain and integrate patient assessment information and key findings and to formulate clinical decisions in respiratory therapy practice as well as use an evidence-based medicine approach to define respiratory clinical practice.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -164,7 +164,7 @@
         "course_name": "Teaching Practicum",
         "course_description": "Structured and supervised experience identifying student characteristics, methods for teaching, improving assessment, current development and instructional design.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -172,7 +172,7 @@
         "course_name": "Advanced Mechanical Ventilation Theory",
         "course_description": "Exploration of advanced disease management via specific disease processes as well as concepts and modes of mechanical ventilation.  Emphasis will be placed on mode selection for various disease and how new modes of mechanical ventilation impact disease management.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -204,7 +204,7 @@
         "course_name": "Clinical Practice IV",
         "course_description": "Structured and supervised clinical experience and case conferences regarding bioterrorism response and emergency/disaster planning.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -220,7 +220,7 @@
         "course_name": "Clinical Practice V",
         "course_description": "An extension of the supervised practicum begun in RS_THR 4940. Emphasis in adult critical care and special procedures including brochoscopies, cardiac catherization and chest tube placement.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -228,7 +228,7 @@
         "course_name": "Clinical Practice VI",
         "course_description": "An extension of the supervised practicum begun in RS_THR 4940. Emphasis in perinatal and pediatric critical care including pediatric pulmonary function testing and airway management.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -244,7 +244,7 @@
         "course_name": "Clincal Practice VII",
         "course_description": "An extension of the supervised practicum begun in  RS_THR 4940. Emphasis in rehabilitation and home care, inservice education, and management. Students will participate in on-going research projects and community service activities.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -252,7 +252,7 @@
         "course_name": "Respiratory Pathophysiology",
         "course_description": "Clinical pulmonary disease, organized around the gross structural components of the lung, airways, alveoli and pulmonary vasculature. Impact of disease on normal structurefunction; clinical, roentgenographic, and physiologic manifestations are described.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {

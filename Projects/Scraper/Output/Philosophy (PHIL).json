@@ -4,7 +4,7 @@
         "course_name": "General Introduction to Philosophy",
         "course_description": "Introduction to traditional philosophical problems and methods of philosophical enquiry. Consideration given to different philosophical theories on the nature of reality, man, nature and God; knowledge and how it is acquired; values and social issues.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Introduction to Ethics",
         "course_description": "Introduction to different philosophical theories regarding when acts are morally right rather than wrong; when things are good rather than bad; nature of the \"good life\", nature of ethical reasoning and justification.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Introductory Bioethics",
         "course_description": "This course approaches moral problems in biomedical and scientific research from a philosophical perspective.  First, we'll familiarize ourselves with ethics and political philosophy.  Then we'll study the ethical issues that arise in connection with a series of issues, including research involving human and animal subjects, eugenics, the human genome project, cloning and stem cell research.  By thinking about these issues, we learn how to think critically about particular moral quandaries, as well as to uncover and examine some of our deepest moral commitments.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Logic and Reasoning",
         "course_description": "Methods of analyzing and evaluating arguments of all types. Uses both informal and formal techniques. Identifies informal fallacies and introduces elementary symbolic logic.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "The Philosophy of Film",
         "course_description": "(same as FILM_S 2010). Philosophical problems having to do with film.  Topic may include the nature of films, the differences between fiction and documentary film, ethical issues with film and filmmaking.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "The Meaning of Life",
         "course_description": "Does life have meaning, or is it essentially meaningless, absurd?  This course will examine some of answers philosophers have given to this and related questions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Philosophies of War and Peace",
         "course_description": "(same as PEA_ST 2410). Moral issues about the recourse to war by the nation and the individual's obligations to participate. The nature of peace, social and personal. Special attention to the Vietnam War and the nuclear age.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -132,7 +132,7 @@
         "course_name": "Philosophies of War and Peace - Writing Intensive",
         "course_description": "(same as PEA_ST 2410W). Moral issues about the recourse to war by the nation and the individual's obligations to participate. The nature of peace, social and personal. Special attention to the Vietnam War and the nuclear age.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -156,7 +156,7 @@
         "course_name": "Medical Ethics",
         "course_description": "Considers moral issues posed by developments in biological sciences and medical technology. Topics may include: genetic engineering, abortion and euthanasia, distribution of health care.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -508,7 +508,7 @@
         "course_name": "Advanced Logic",
         "course_description": "(same as LINGST 7110; cross-leveled with PHIL 4110, LINGST 4110). Presents the method of truth trees for sentence and predicate logic. Examines proofs concerning the decidability, soundness, and completeness of formal systems. Emphasizes the theory of formal systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -532,15 +532,15 @@
         "course_name": "Metaphysics",
         "course_description": "Metaphysics studies what there is and how things are, most generally speaking. Topics may include realism versus nominalism, substance and attribute, facts, modality, identity and causality.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Previous work in PHIL 1000, PHIL 3000 or PHIL 3200",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Previous work in PHIL 1000, PHIL 3000 or PHIL 3200"
     },
     {
         "course_number": "PHIL 7210",
         "course_name": "Philosophy of Mind",
         "course_description": "Considers theories and arguments in contemporary philosophy of mind, focusing on the nature of mental states, their relation to brain states and the plausibility of various materialist theories of the mind.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -548,7 +548,7 @@
         "course_name": "Philosophy of Religion",
         "course_description": "Considers basis for and nature of religious beliefs. Philosophical approaches to religion, cultural implications of religion, psychoanalysis and religion, mysticism and myth.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -556,15 +556,15 @@
         "course_name": "Epistemology",
         "course_description": "An examination of contemporary philosophical theories concerning the nature, sources and limits of knowledge and justified belief.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Previous work in PHIL 1000, PHIL 3000, or PHIL 3200",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Previous work in PHIL 1000, PHIL 3000, or PHIL 3200"
     },
     {
         "course_number": "PHIL 7400",
         "course_name": "Philosophy of Science",
         "course_description": "Why believe the scientific world-view? What, if anything, is the scientific method? Are today's theories really superior to the past theories? Examines contemporary philosophical answers to such questions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -572,7 +572,7 @@
         "course_name": "Philosophy of History",
         "course_description": "Readings from classic and contemporary philosophers of history. Problems about nature and limits of historical knowledge; relation between history and other disciplines; the existence, nature, and kinds of historical laws.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -580,7 +580,7 @@
         "course_name": "Philosophy of Biology",
         "course_description": "A survey of philosophical problems arising from consideration of evolutionary theory and the biological sciences. Topics may include reductionism, sociobiology, biological laws, and epistemic problems relating to evolutionary theory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -588,15 +588,15 @@
         "course_name": "Theories of Ethics",
         "course_description": "Normative and meta-ethical theories. Topics may include the rationality and objectivity of morality, the meaning of moral language, the differences between deontological, utilitarian and virtue theories.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: one course in Philosophy",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "one course in Philosophy"
     },
     {
         "course_number": "PHIL 7600",
         "course_name": "Political and Social Philosophy",
         "course_description": "(same as PEA_ST 4600). Contemporary and/or historical theories of justice and the state. Utilitarianism, Liberalism, Libertarianism, Marxism, Communitarianism and Feminism may be among the views covered.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -604,7 +604,7 @@
         "course_name": "Philosophy of Law",
         "course_description": "What is law? Are there pre- or trans-legal rights? Is punishment justifiable? How can judicial decisions be justified? What are the relations between law and morality?",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -612,7 +612,7 @@
         "course_name": "Marxism",
         "course_description": "A philosophical examination of (a) the notion of critique as seen in Marx's early and middle writings, and (b) specific topics by such authors as Lenin, Lukacs and Plekhanov.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -620,7 +620,7 @@
         "course_name": "Aesthetics",
         "course_description": "Typical components of art; theories of art as representation, form, expression; relation of art to value.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -628,7 +628,7 @@
         "course_name": "Asian Philosophy",
         "course_description": "(same as S_A_ST 4800). This course traces the origins of Indian and Chinese philosophical world views. Included are the major ideas in Hindu, Jaina, and Buddhist thought in India, and Taoism and Confucianism in China. Emphasis is placed on the diverse, assimilative, and pragmatic nature of Indian thought and its impact on contemporary Asian philosophy.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -636,7 +636,7 @@
         "course_name": "Philosophy of India",
         "course_description": "(same as S_A_ST 4810). General development of Indian philosophy.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -692,7 +692,7 @@
         "course_name": "Metaphysics: A Survey",
         "course_description": "A graduate-level survey of central issues in metaphysics.  May be repeated up to 6 hours of credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -700,7 +700,7 @@
         "course_name": "Philosophy of Mind",
         "course_description": "A graduate-level survey of central issues in the philosophy of mind.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -708,7 +708,7 @@
         "course_name": "Epistemology",
         "course_description": "A graduate-level survey of central issues is epistemology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -716,7 +716,7 @@
         "course_name": "Philosophy of Language: A Survey",
         "course_description": "A graduate-level survey of central issues in philosophy of language.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -972,7 +972,7 @@
         "course_name": "Philosophy of Biology",
         "course_description": "Philosophical problems relating to the life sciences, with attention given especially to explanation and reductionism in biology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

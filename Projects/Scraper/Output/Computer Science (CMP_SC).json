@@ -348,7 +348,7 @@
         "course_name": "Introduction to Computational Intelligence",
         "course_description": "(same as ECE 4870; cross-leveled with CMP_SC 7770, ECE 7870). Introduction to the concepts, models and algorithms for the development of intelligent systems from the standpoint of the computational paradigms of neural networks, fuzzy set theory and fuzzy logic, evolutionary computation and swarm optimization.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -636,7 +636,7 @@
         "course_name": "Interdisciplinary Introduction to Natural Language Processing",
         "course_description": "(same as LINGST 7740; cross-leveled with CMP_SC 4740; LINGST 4740). The goal of this course is to enable students to develop substantive NLP applications. Focus on current structural and statistical techniques for the parsing and interpretation of text.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -652,7 +652,7 @@
         "course_name": "Introduction to Computational Intelligence",
         "course_description": "(same as ECE 7870; cross-leveled with CMP_SC 4770, ECE 4870).   Introduction to the concepts, models and algorithms for the development of intelligent systems from the standpoint of the computational paradigms of neural networks, fuzzy set theory and fuzzy logic, evolutionary computation and swarm optimization.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

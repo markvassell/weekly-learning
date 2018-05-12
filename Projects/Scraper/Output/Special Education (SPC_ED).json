@@ -4,15 +4,15 @@
         "course_name": "Teaching the Exceptional Learner",
         "course_description": "Teaching the Exceptional Learner addresses topics in the foundations of pedagogy for students with disabilities in inclusive settings, including the roles and responsibilities of the general educator and related service personnel with respect to special education law and policy, behavior management, universal design for learning, and evidence-based practices.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Progression into Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Progression into Phase II"
     },
     {
         "course_number": "SPC_ED 4300",
         "course_name": "Introduction to Special Education",
         "course_description": "Introductory overview of the field of special education; historical developments, characteristics of special populations, and compliance with state and federal regulations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Literacy in Special Education",
         "course_description": "Addresses specific literacy needs of students who are at-risk or have special needs with a focus on assessment and instruction in general education classrooms.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: SPC_ED 4300",
+        "credit_hours": "3Prerequisites or Corequisites: SPC_ED 4300",
         "recommendation": "None Listed"
     },
     {
@@ -68,8 +68,8 @@
         "course_name": "Cross Categorical Special Education",
         "course_description": "Study of characteristics of students with cross categorical disabilities and other pertinent issues including inclusion, assessment, and evaluation practices.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "SPC_ED 4380",
@@ -100,7 +100,7 @@
         "course_name": "Topics in Special Education",
         "course_description": "In-depth study of certain developments, findings, trends and issues in one or more areas of special education.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -140,15 +140,15 @@
         "course_name": "Teaching the Exceptional Learner",
         "course_description": "Teaching the Exceptional Learner addresses topics in the foundations of pedagogy for students with disabilities in inclusive settings, including the roles and responsibilities of the general educator and related service personnel with respect to special education law and policy, behavior management, universal design for learning, and evidence-based practices.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Progression into Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Progression into Phase II"
     },
     {
         "course_number": "SPC_ED 7300",
         "course_name": "Introduction to Special Education",
         "course_description": "Introductory overview of the field of special education; historical developments, characteristics of special populations, and compliance with state and federal regulations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -188,7 +188,7 @@
         "course_name": "Literacy in Special Education",
         "course_description": "Addresses specific literacy needs of students who are at-risk or have special needs with a focus on assessment and instruction in general education classrooms.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: SPC_ED 4300",
+        "credit_hours": "3Prerequisites or Corequisites: SPC_ED 4300",
         "recommendation": "None Listed"
     },
     {
@@ -228,7 +228,7 @@
         "course_name": "Topics in Special Education",
         "course_description": "In-depth study of certain developments, findings, trends and issues in one or more areas of special education.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -236,7 +236,7 @@
         "course_name": "Cross-Categorical Special Education: Practicum I",
         "course_description": "Involvement in meaningful field-based activities that extend and/or apply content information from Special Education 4375.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: SPC_ED 4375, professional standing in Phase II",
+        "credit_hours": "3Prerequisites or Corequisites: SPC_ED 4375, professional standing in Phase II",
         "recommendation": "None Listed"
     },
     {
@@ -268,7 +268,7 @@
         "course_name": "Masters Thesis Research Hours",
         "course_description": "Restricted to students enrolled in the graduate program.  Graded S/U only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -276,7 +276,7 @@
         "course_name": "Using Assessment to Guide Instruction",
         "course_description": "This course is designed to present information on the evaluation of individual student skills and the effects of instruction on those skills.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -284,7 +284,7 @@
         "course_name": "School-Wide Positive Behavior Support",
         "course_description": "Overview of theory, research, and methods related to establishing a system of positive behavior support in schools.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -468,7 +468,7 @@
         "course_name": "Introduction and Methods of Early Intervention",
         "course_description": "This course will enhance individual knowledge and skills necessary to design, implement, and evaluate research-based strategies and practices in home and center-based programs for infants and toddlers with disabilities, consistent with the philosophical and legal requirements of IDEA Part C.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -476,7 +476,7 @@
         "course_name": "Assessment in Early Childhood Special Education",
         "course_description": "Procedures and instruments used in assessment of children with special needs, including screening, diagnosis, interpretation of diagnostic findings, and application to instructional plans.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -500,7 +500,7 @@
         "course_name": "Meeting the Needs of all Learners",
         "course_description": "The purpose of this course is to provide information on current research and methodology on teaching students who are struggling or who have disabilities. Open only to teaching fellows.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

@@ -4,7 +4,7 @@
         "course_name": "Elementary Spanish I",
         "course_description": "An introductory course for students who wish to begin their study of Spanish. It teaches the four skills - listening, speaking, reading, and writing. The class meets four days a week (with the exception of the online section, which taught completely online). Class time is used to integrate new structures and vocabulary into spoken and written language.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Spanish Civilization",
         "course_description": "Survey of Spanish history, arts and culture. Open to any student interested. No knowledge of Spanish required. May not be included in area of concentration in Spanish.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Latin American Civilization",
         "course_description": "Survey of Latin American history, arts and culture. Open to any student interested. No knowledge of Spanish required. May not be included in area of concentration in Spanish.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -276,16 +276,16 @@
         "course_name": "Stylistics",
         "course_description": "Advanced composition class.  Discussion of complex grammatical structures necessary for formal writing.  Examination of stylistic devices and structures beyond sentence level, in order to learn to organize discourse level production.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: SPAN 3420 and SPAN 3430",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "SPAN 3420 and SPAN 3430"
     },
     {
         "course_number": "SPAN 4130W",
         "course_name": "Stylistics - Writing Intensive",
         "course_description": "Advanced composition class.  Discussion of complex grammatical structures necessary for formal writing.  Examination of stylistic devices and structures beyond sentence level, in order to learn to organize discourse level production.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: SPAN 3420 and SPAN 3430",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "SPAN 3420 and SPAN 3430"
     },
     {
         "course_number": "SPAN 4410",
@@ -468,8 +468,8 @@
         "course_name": "Language and Society",
         "course_description": "(same as LINGST 4723). This class surveys linguistic and social issues pertaining to Spanish in the U.S. (past, present and future).  Topics include bilingualism, code switching (a.k.a. Spanglish), first language attrition, linguistic identity, and the role of Spanish in education, services and media.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: four 3000-level courses in Spanish",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "four 3000-level courses in Spanish"
     },
     {
         "course_number": "SPAN 4940",
@@ -500,7 +500,7 @@
         "course_name": "The Capstone Experience in Spanish",
         "course_description": "This course is required of all majors.  Topics vary but all courses synthesize and review essential components of the major: speaking, writing, reading in Spanish, and the ability to think critically and analytically.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -516,7 +516,7 @@
         "course_name": "Foreign Language Teaching Methodology",
         "course_description": "(same as FRENCH 7120). Theory and techniques of current foreign language methodology and their application in the classroom. Presentation of instructional projects, classroom observations, and strategies for classroom management. May not be used towards Arts and Science major.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -668,7 +668,7 @@
         "course_name": "Nobel Laureates in Spanish American Literature",
         "course_description": "Analyzes the creative expression of five Nobel laureates from Spanish America. Selected works of Gabriela Mistral, Pablo Neruda, Miguel Angel Asturias, Octavio Paz and Gabriel Garcia Marquez are read in relation to contemporary theory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -700,8 +700,8 @@
         "course_name": "Language and Society",
         "course_description": "This class surveys linguistic and social issues pertaining to Spanish in the US (past, present and future).  Topics include bilingualism, code switching (a.k.a. Spanglish), first language attrition, linguistic identity, and the role of Spanish in education, services and media.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: four 3000-level courses in Spanish",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "four 3000-level courses in Spanish"
     },
     {
         "course_number": "SPAN 7960",
@@ -716,7 +716,7 @@
         "course_name": "Special Themes in Spanish",
         "course_description": "Subject varies according to instructor.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -724,7 +724,7 @@
         "course_name": "The Capstone Experience in Spanish",
         "course_description": "Topics vary but all courses synthesize and review essential components of the major: speaking, writing, reading in Spanish, and the ability to think critically and analytically.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -764,7 +764,7 @@
         "course_name": "Bilingualism and Language Contact",
         "course_description": "(same as FRENCH 8120 and LINGST 8120). Global analysis of the study of Bilingualism from a combined sociocultural, sociolinguistic and psycholinguistic perspective based on current research and examination of various phenomena of language contact (taught in English).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -772,15 +772,15 @@
         "course_name": "Studies in Spanish Literature of the Medieval Period",
         "course_description": "Studies in Spanish Literature of the Medieval Period.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: SPAN 8460",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "SPAN 8460"
     },
     {
         "course_number": "SPAN 8415",
         "course_name": "Studies in Spanish Literature of the Renaissance",
         "course_description": "Studies in Spanish Literature of the Renaissance",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -788,7 +788,7 @@
         "course_name": "Studies in Spanish Literature in the Golden Age",
         "course_description": "Studies in Spanish Literature in the Golden Age",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -796,7 +796,7 @@
         "course_name": "Studies in Nineteenth-Century Spanish Literature",
         "course_description": "Studies in Nineteenth-Century Spanish Literature",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -804,7 +804,7 @@
         "course_name": "Studies in Twentieth-Century Spanish Literature",
         "course_description": "Studies in Twentieth-Century Spanish Literature",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -812,7 +812,7 @@
         "course_name": "Studies in Colonial Spanish American Literature",
         "course_description": "Analysis of seminal literary and \"\"Historical\"\" texts interpreting the Encounter, Conquest and Colonization of Spanish America.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -820,7 +820,7 @@
         "course_name": "Studies in Spanish-American Fiction",
         "course_description": "Studies in Spanish-American Fiction",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -828,7 +828,7 @@
         "course_name": "Studies in Latin American Literature",
         "course_description": "Studies in Latin American Literature",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

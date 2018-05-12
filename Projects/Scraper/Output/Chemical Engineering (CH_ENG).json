@@ -4,7 +4,7 @@
         "course_name": "Introduction to Chemical Engineering",
         "course_description": "Orientation course for freshmen-level students. Introduction to careers and opportunities in chemical engineering, basic engineering principles, simple calculations.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: MATH 1500, CHEM 1320",
+        "credit_hours": "2Prerequisites or Corequisites: MATH 1500, CHEM 1320",
         "recommendation": "None Listed"
     },
     {
@@ -12,7 +12,7 @@
         "course_name": "Introduction to Chemical Engineering - Honors",
         "course_description": "Orientation course for freshmen-level students. Introduction to careers and opportunities in chemical engineering, basic engineering principles, simple calculations.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: MATH 1500, CHEM 1320.  Honors eligibility required",
+        "credit_hours": "2Prerequisites or Corequisites: MATH 1500, CHEM 1320.  Honors eligibility required",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Chemistry and Chemical Technology I",
         "course_description": "Covers fundamental principals of chemistry, gases, engineering materials, electrochemistry, and applications with instruction including numerical modeling.  Graded on A/F basis only. May be repeated for credit.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: MATH 1500",
+        "credit_hours": "3Prerequisites or Corequisites: MATH 1500",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Mass and Energy Balance",
         "course_description": "Industrial stoichiometry, material and energy balances, thermophysics, thermochemistry; related topics.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: PHYSCS 2750, CHEM 2100",
+        "credit_hours": "3Prerequisites or Corequisites: PHYSCS 2750, CHEM 2100",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Engineering Process Computations and Laboratory",
         "course_description": "Introduction to the effective use of computer software with emphasis on chemical engineering applications, which include solutions for systems of algebraic equations using matrix methods;   solutions of ordinary differential equations and partial differential equations and visualization of those solutions; linear, multilinear, and nonlinear regression for data analysis; 2D and 3D plotting, symbolic calculations, process control simulations, and text processing.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: MATH 1700, CH_ENG 2225",
+        "credit_hours": "3Prerequisites or Corequisites: MATH 1700, CH_ENG 2225",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Chemical Engineering Laboratory I",
         "course_description": "Laboratory study of some principal unit operations of chemical engineering.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: CH_ENG 2226 and CH_ENG 3235",
+        "credit_hours": "3Prerequisites or Corequisites: CH_ENG 2226 and CH_ENG 3235",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Chemical Engineering Laboratory I - Writing Intensive",
         "course_description": "Laboratory study of some principal unit operations of chemical engineering.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: CH_ENG 2226 and CH_ENG 3235",
+        "credit_hours": "3Prerequisites or Corequisites: CH_ENG 2226 and CH_ENG 3235",
         "recommendation": "None Listed"
     },
     {
@@ -156,8 +156,8 @@
         "course_name": "Design of Experiments and Statistical Quality Control for Process Engineers",
         "course_description": "(same as BIOL_EN 4270; cross-leveled with CH_ENG 7270, BIOL_EN 7270).  A practical statistical tool box for experimenters:  process means, effects of variables, factorial experiments, and statistical quality control.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: experience with Excel or instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "experience with Excel or instructor's consent"
     },
     {
         "course_number": "CH_ENG 4285",
@@ -220,8 +220,8 @@
         "course_name": "Energy Technology and Sustainability",
         "course_description": "An introductory course on energy technology, resources, practices, and common calculations used for energy analysis. May be repeated for credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: at least one engineering thermodynamics course or a Physical Chemistry course or instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "at least one engineering thermodynamics course or a Physical Chemistry course or instructor's consent"
     },
     {
         "course_number": "CH_ENG 4319",
@@ -236,8 +236,8 @@
         "course_name": "Introduction to Ceramics",
         "course_description": "(cross-leveled with CH_ENG 7321). Introductory course in ceramics materials, crystal structure, processes and properties.  The course content and level of presentation would allow an entry level engineering to be conversant with the terminology and concepts of ceramic science and engineering.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Chemistry and Physics",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Chemistry and Physics"
     },
     {
         "course_number": "CH_ENG 4335",
@@ -332,7 +332,7 @@
         "course_name": "Hazardous Waste Management",
         "course_description": "(same as CV_ENG 7220; cross-leveled with CH_ENG 4220, CV_ENG 4220). Engineering principles involved in handling, collection transportation, processing and disposal of hazardous waste minimization, legislation on hazardous wastes and groundwater contamination.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -404,8 +404,8 @@
         "course_name": "Introduction to Ceramic Material",
         "course_description": "(cross-leveled with CH_ENG 4321). Introductory course in ceramics materials, crystal structure, processes and properties.  The course content and level of presentation would allow an entry-level engineer to be conversant with the terminology and concepts of ceramics science and engineering.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Chemistry and Physics",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Chemistry and Physics"
     },
     {
         "course_number": "CH_ENG 7335",
@@ -444,7 +444,7 @@
         "course_name": "Advanced Plasma Processing",
         "course_description": "Concepts and techniques in novel plasma processing: plasma characteristics, plasma sputtering, plasma enhanced chemical vapor deposition (PECVD), plasma etching, plasma treatment, plasma fabrication of nano-structured materials and diamondlike films, biomedical applications.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -468,7 +468,7 @@
         "course_name": "Advanced Ceramic Materials",
         "course_description": "(same as BIOL_EN 8230 and MAE 8230). To provide an advanced level understanding between processing, properties, and microstructure of ceramic materials.  Topics include crystallography, defect chemistry, transport properties, microstructure, and forming methods.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -508,7 +508,7 @@
         "course_name": "Membranes and Membrane Processes",
         "course_description": "Thermodynamics and mass transfer of membrane separation processes; Concentration-Driven Processes; Pressure-Driven Processes; Electromembrane Processes; Biological Membrane Processes; Membrane Polymers; Preparation of Membranes; Membrane Separation Application (potable and ultrapure water, effluent treatment, gas separations, electrochemistry, dialysis therapeutic, and other applications).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

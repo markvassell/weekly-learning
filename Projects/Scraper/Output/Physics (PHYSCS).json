@@ -12,7 +12,7 @@
         "course_name": "Concepts in Cosmology",
         "course_description": "Introduction to fundamental concepts of modern cosmology. Topics include Olbers' paradox, Hubble expansion, Big Bang, and the Cosmic Microwave Background Radiation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Concepts in Physics",
         "course_description": "Introduction to fundamental concepts of physics for non-science majors. Concepts include the conservation of energy, the second law of thermodynamics, and the special theory of relativity. Students learn to reason and apply these concepts through writing assignments.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Life and the Universe",
         "course_description": "This course explores the connection between our everyday existence and the underlying physics' processes.  Students will look at processes - essential to life - ranging from the very small (atomic level) to the very large (universe), and the many length scales in between (cellular level and human being level) as will as make connections between the laws of physics and the numbers that go into them and the prerequisites for the existence of life.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "The Beautiful Invisible: Exploring Physics, Fiction, and Reality",
         "course_description": "This course explores the conceptual structure of modern physics from a humanistic perspective. Rather than describing the natural world \"as it is\", physical science weaves some key observations in a convincing and memorable narrative. It is not within its power to explain reality, but it can make it understandable, sometimes even predictable. Due to the presence of internal and external constraints, physical theories are akin to myths, i.e., fiction created by many authors over an extended period of time. The mythical character of a theory does not diminish its scientific validity - quite the contrary. Convincing myths are not easily found and better observations demand better myths. The mythical content of the theory is not some extraneous content that we introduce for the sake of popularization, but an essential part of the science itself.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -140,7 +140,7 @@
         "course_name": "Undergraduate Seminar in Physics",
         "course_description": "Introduction to the Physics Department and presentation of topics of current interest in physics by faculty and students. Intended for physics majors at the freshman or sophomore level only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -580,7 +580,7 @@
         "course_name": "Topics in Astronomy and Astrophysics",
         "course_description": "Selected topics from solar system, stellar, galactic and extragalactic astronomy, and astrophysics.  May be repeated for credit.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -764,7 +764,7 @@
         "course_name": "College Science Teaching",
         "course_description": "(same as ASTRON 8310, BIO_SC 8724 and LTC 8724). Study of learner characteristics, teaching strategies, and research findings related to teaching science at the post-secondary level.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -796,7 +796,7 @@
         "course_name": "X-ray and Neutron Scattering Methods for Studying Surfaces/Interfaces of Nanocrystalline Materials",
         "course_description": "This course develops the conceptual foundation of neutron and x-ray scattering methods for probing the structure of epitaxial films, nanomaterials and their buried interfaces. A particular emphasis is given to the use of intense synchrotron x-ray radiation. Course graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

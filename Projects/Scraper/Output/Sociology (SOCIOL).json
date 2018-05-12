@@ -20,7 +20,7 @@
         "course_name": "Social Problems",
         "course_description": "Introduces a sociological perspective on what constitutes social problems and their impact on individuals and societies. Emphasizes critical thinking skills. Topics covered may include poverty, inequalities of gender, race, class, religion, education, and political power, the environment and global conflicts among others.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Population and Ecology",
         "course_description": "(same as RU_SOC 1120 and PEA_ST 1120). Changes in the structure and characteristics of population groups and their relationship to both human and non-human aspects of the biophysical environment.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "The Female Experience: Body, Identity, Culture",
         "course_description": "(same as WGST 1360). Study of the experience of being female in American culture. Course will focus on development of women's identities through such topics as: sexuality, reproduction, self-image, rape and health care.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Social Deviance",
         "course_description": "Survey of approaches to the study of behaviors commonly regarded as deviant such as crime, sexual abuse, substance abuse, mental illness, etc.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,23 +60,23 @@
         "course_name": "Critical Dialogues: Nonviolence in Peace/Democracy Movements",
         "course_description": "(same as PEA_ST 2182). History and theory of movements for peace, justice, and democracy. Development of violent and nonviolent tactics and factions in movements; relationship to state authority. Cases such as Gandhi's Independence, American Civil Rights, Arab Spring, and Occupy movements.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: PEA_ST 1050",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "PEA_ST 1050"
     },
     {
         "course_number": "SOCIOL 2182W",
         "course_name": "Critical Dialogues: Nonviolence in Peace/Democracy Movements - Writing Intensive",
         "course_description": "(same as PEA_ST 2182W). History and theory of movements for peace, justice, and democracy. Development of violent and nonviolent tactics and factions in movements; relationship to state authority. Cases such as Gandhi's Independence, American Civil Rights, Arab Spring, and Occupy movements.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: PEA_ST 1050",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "PEA_ST 1050"
     },
     {
         "course_number": "SOCIOL 2200",
         "course_name": "Social Inequalities",
         "course_description": "(same as BL_STU 2200). Survey of inequalities based upon criteria such as race, ethnicity, sex, age, religion and social class in contemporary societies. Focus on dynamics by which privilege and inequalities are structured.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "The Black Americans",
         "course_description": "(same as BL_STU 2210). Analysis of history of blacks in the United States. Assessment of contemporary black community in terms of its institutions, styles of life, patterns of work and intergroup relations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -100,7 +100,7 @@
         "course_name": "Youth, Islam, and Global Cultures",
         "course_description": "(same as PEA_ST 2255). Youth subcultures and the social issues and problems faced by youth, focusing on the Islamic world and Muslim immigrants, in the United States and elsewhere. Social and behavioral theories and concepts such as paths to modernization, Orientalism, post-colonialism, population movements, social construction, identity, and recognition will be illustrated.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Race, Democracy, and Violence in Cuba and Haiti",
         "course_description": "(same as PEA_ST 2280, GEOG 2280).  A sociological approach to understand race/ethnicity, identity, citizenship, human rights, violence, and political and economic systems in the Caribbean. Comparisons of the culture, politics, and historical trajectories of Cuba and Haiti using Post-Colonial and Feminist theories. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Race, Democracy, and Violence in Cuba and Haiti - Writing Intensive",
         "course_description": "(same as PEA_ST 2280, GEOG 2280).  A sociological approach to understand race/ethnicity, identity, citizenship, human rights, violence, and political and economic systems in the Caribbean. Comparisons of the culture, politics, and historical trajectories of Cuba and Haiti using Post-Colonial and Feminist theories. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Nuclear Weapons: Environmental, Health and Social Effects",
         "course_description": "(same as HLTH_SCI 2200 and PEA_ST 2200).  Environmental consequences of the nuclear arms race, \"regional\" nuclear war, and weapons testing for human health, agriculture, and society. Examining \"a world without nuclear weapons\"; political dialogue on proliferation; Iran, North Korea, and nuclear weapons conventions. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -132,7 +132,7 @@
         "course_name": "Nuclear Weapons: Environmental, Health and Social Effects - Writing Intensive",
         "course_description": "(same as HLTH_SCI 2200 and PEA_ST 2200).  Environmental consequences of the nuclear arms race, \"regional\" nuclear war, and weapons testing for human health, agriculture, and society. Examining \"a world without nuclear weapons\"; political dialogue on proliferation; Iran, North Korea, and nuclear weapons conventions. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -140,7 +140,7 @@
         "course_name": "Critical Dialogs: Global Environmental Policy Conflicts",
         "course_description": "(same as PEA_ST 2284). Climate change, water supplies, food, sustainability, industrialization, and chemical, oil, radioactive pollution.  Activity of transnational corporations, social harm, and formulation of international policies.  Analysis of alternatives using criteria of justice: distribution, recognition, participation, legality.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -148,7 +148,7 @@
         "course_name": "Large Corporations, Economic Crisis, Social Responsibility",
         "course_description": "(same as PEA_ST 2285). Institutional power of the corporate CEO; ethical regulatory restraint.  Historical contexts of economic crisis.  Theories of justice, alternative concepts of justice in popular culture.  Politics of policy issues in prosecution and criminalization of corporate behavior.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -156,7 +156,7 @@
         "course_name": "Technological Futures, National Security, and Civil Liberties",
         "course_description": "(same as PEA_ST 2286). Contemporary practices and future trends in data collection and mining by the NSA and by businesses. The interplay of government and corporate power, and possibilities of regulation and maintenance of privacy and civil liberties. The development of digital intellectual copyright and its consequences on patterns of dissemination of knowledge.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -164,7 +164,7 @@
         "course_name": "Technological Futures, National Security, and Civil Liberties - Writing Intensive",
         "course_description": "(same as PEA_ST 2286). Contemporary practices and future trends in data collection and mining by the NSA and by businesses. The interplay of government and corporate power, and possibilities of regulation and maintenance of privacy and civil liberties. The development of digital intellectual copyright and its consequences on patterns of dissemination of knowledge.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -172,7 +172,7 @@
         "course_name": "Self and Society",
         "course_description": "Analysis of the self in modern society.  Topics covered include social interaction, social perception, language and learning, the sociology of emotions and the social construction of identity.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -180,7 +180,7 @@
         "course_name": "Culture and Mass Media",
         "course_description": "Sociological study of modern folk, local, popular and mass cultural production and consumption; mass media, diffusion, change, differentiation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -196,7 +196,7 @@
         "course_name": "Urban Sociology",
         "course_description": "Urbanism as a world phenomenon; ecological, demographic characteristics of cities; organization of urban society including status systems, occupational structure, formal and informal associations, racial and cultural relations, forms of communication, housing, city planning.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -212,7 +212,7 @@
         "course_name": "Class, Status, and Power",
         "course_description": "Study of the structure of wealth, poverty, prestige, and power.  Concepts of social justice in political, economic and legal issues and policies.  Provides student engagement in research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -220,7 +220,7 @@
         "course_name": "Sociology of Globalization",
         "course_description": "Globalization's origin and dynamics; the social and political effects of globalization: countervailing forces to economic globalization, in particular reassertions of \"traditional\" identities, labor movements, new social movements, and the global democracy movement.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -228,7 +228,7 @@
         "course_name": "Education and Social Inequalities",
         "course_description": "Examination of the ways in which inequalities are constructed, reproduced, maintained or transformed by and within educational institutions. Particular attention will be given to inequalities based on gender, race, and social class.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -236,7 +236,7 @@
         "course_name": "Youth in Today's World",
         "course_description": "Study of what factors influence the development of youth in today's society. Examined are types of behavior such as mating, deviance and the role of schools, parents, TV and friendship groups.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -260,7 +260,7 @@
         "course_name": "Social Psychology",
         "course_description": "Survey of theories and research concerned with the ways in which individuals construct social situations and are affected by them. Topics covered include self-identities, social influence, personal relationships, prejudice and discrimination.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -268,7 +268,7 @@
         "course_name": "Social Psychology - Writing Intensive",
         "course_description": "Survey of theories and research concerned with the ways in which individuals construct social situations and are affected by them. Topics covered include self-identities, social influence, personal relationships, prejudice and discrimination.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -276,7 +276,7 @@
         "course_name": "Sociology of Gender",
         "course_description": "(same as WGST 3320). Study of the ways in which femininities and masculinities are constructed in American society with particular attention to gender ideologies and the gendered nature of the social structure.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -284,7 +284,7 @@
         "course_name": "Environmental Justice",
         "course_description": "(same as PEA_ST 3330). Environmental justice refers to the ways in which the \"cost and benefits\" of modern industrial society are distributed among social groups.  This course is concerned with justice, not as an abstract concept, and inequality not in terms of numbers in a bank account.  Social justice or inequality are lived, embodied experiences.  An individual's likelihood of experiencing environmental harm is related to intersecting gender, race and class formations, among other things.  Justice or inequality is not only embodied, it also happens in places--national and regional differences matter.  In this course we will look at some of the extensive literature documenting the ways in which communities of color and poor communities are subject to disproportionate environmental risks.  In addition, we will focus on gender as an important category in understanding environmental inequality.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -292,7 +292,7 @@
         "course_name": "Politics of the Media",
         "course_description": "(same as PEA_ST 3400). In this course we study critical thinking skills and use them to compare and contrast U.S. media coverage of current issues with media in other parts of the world. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -300,7 +300,7 @@
         "course_name": "Politics of the Media - Writing Intensive",
         "course_description": "(same as PEA_ST 3400). In this course we study critical thinking skills and use them to compare and contrast U.S. media coverage of current issues with media in other parts of the world. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -308,7 +308,7 @@
         "course_name": "The Family",
         "course_description": "Families, kin and households as interacting groups; roles, socialization, problems, structural change; family in relation to other social institutions; historical, cultural and class variations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -316,7 +316,7 @@
         "course_name": "The Sociology of Sport",
         "course_description": "The role of sport in modern society. Includes violence in sport; politics and economics of sport; male, female, and racial inequalities; and international comparisons of sport structures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Sociology of Health",
         "course_description": "A survey of sociological thinking and research on health, health problems, health occupations and health services. How these are shaped by the society. Problems faced by individuals and the system. Potential solutions to problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -332,7 +332,7 @@
         "course_name": "The Sociology of Religion",
         "course_description": "Sociology of religious experience, action, organization, movements and social change; contemporary trends, including mainline and new religions, civil religion, secularization.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -340,7 +340,7 @@
         "course_name": "Technology and Society",
         "course_description": "In the last few decades science and technology have permeated our lives as never before.  This has led to wide ranging intellectual debates and social movements in and around the issue of relationship between science, technology, and society.  This course, which is organized on a lecture-seminar format, will critically investigate different aspects of the relationship between science, technology, and society.   Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -348,7 +348,7 @@
         "course_name": "Technology and Society - Writing Intensive",
         "course_description": "In the last few decades science and technology have permeated our lives as never before.  This has led to wide ranging intellectual debates and social movements in and around the issue of relationship between science, technology, and society.  This course, which is organized on a lecture-seminar format, will critically investigate different aspects of the relationship between science, technology, and society.   Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -356,7 +356,7 @@
         "course_name": "Public Opinion and Communication",
         "course_description": "Nature of public opinion; processes of opinion formation; special publics, pressure groups; effects of communication through personal contacts and mass media; propaganda, censorship; opinion surveying.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -364,7 +364,7 @@
         "course_name": "Collective Behavior",
         "course_description": "(same as PEA_ST 3520). Analysis of crowd behavior and related phenomena: rumors, disasters, fashions. Social responses to unclear, dangerous or unjust conditions. The dynamics of conflict, consensus and change.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -372,7 +372,7 @@
         "course_name": "Collective Behavior - Writing Intensive",
         "course_description": "(same as PEA_ST 3520). Analysis of crowd behavior and related phenomena: rumors, disasters, fashions. Social responses to unclear, dangerous or unjust conditions. The dynamics of conflict, consensus and change.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -380,7 +380,7 @@
         "course_name": "New Media, Conflict and Control",
         "course_description": "(same as PEA_ST 3522). This course will explore the increasing role of new media tools in conflict and surveillance. Examples from recent conflicts will illustrate how citizens and regimes use new media to communicate, report, mobilize, monitor, and/or control. Students will utilize new media as they research instances of democracy and control.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -388,7 +388,7 @@
         "course_name": "Criminology",
         "course_description": "(same as PEA_ST 3600). Sociology of law; constitutional, psychological, sociological theories of criminal behavior; process of criminal justice; treatment of corrections; control of crime.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -396,7 +396,7 @@
         "course_name": "Institutions and Society",
         "course_description": "Institutions of societies with focus on institutional arrangements (economy, polity, media, education, religion); organizational structures; interorganizational networks; interrelations of institutional sectors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -420,7 +420,7 @@
         "course_name": "Topics in Sociology-Social Science",
         "course_description": "Organized study of selected topics. Particular topics may vary from semester to semester. May be repeated for credit with departmental consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -564,7 +564,7 @@
         "course_name": "Drugs and Society",
         "course_description": "Course will examine the social, political, and economic aspects of legal and illegal drug use in American society.  Issues include: theories of drug use, the social correlates of drug use, the war on drugs and policy alternatives, and the rise of the pharmaceuticals industry.  Graded on A/F basis only",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -572,8 +572,8 @@
         "course_name": "Sociology of Mental Health",
         "course_description": "Course examines the social aspects of mental health and illness.  Topics include: stress and mental health, medicalization of behavior, stigma and labeling, mental health care systems, social correlates of mental health (such as gender, childhood, work status, and social support).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: 1000 level sociology course or 1000 level Psychology course",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "1000 level sociology course or 1000 level Psychology course"
     },
     {
         "course_number": "SOCIOL 4940",
@@ -644,7 +644,7 @@
         "course_name": "Feminist Research and Criticism",
         "course_description": "(same as WGST 7110). Examination of both feminist critiques of traditional social research and recent, feminist-oriented research that attempts to answer these criticisms.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -660,7 +660,7 @@
         "course_name": "Social Inequalities",
         "course_description": "Examination of theories and research concerned with inequalities based on social class, gender, and race-ethnicity. M.A. core course for sociology students.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -684,7 +684,7 @@
         "course_name": "Women, Development and Globalization",
         "course_description": "(same as WGST 7230 and BL_STU 7230; cross-leveled with WGST 4230). Examines the history and structure of \"development\" discourse and practices. Stresses the interconnections and impact on women globally. Reviews women's strategies in defining and instituting programs to improve quality of life in communities.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -692,7 +692,7 @@
         "course_name": "Social Perspectives on Gender and Emotion",
         "course_description": "(same as WGST 7235, BL_STU 7235; cross-leveled with WGST 4235, SOCIOL 4235, BL_STU 4235).  Examines theories of affect and emotions, the social contexts and the implications for human development and behavior, with special emphasis on sex, gender, race, class and culture. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -740,7 +740,7 @@
         "course_name": "Self, Language, and Social Life",
         "course_description": "Examines the interplay between self, language, and social life. Particular attention is paid to how the everyday construction of inner lives relates to diverse social worlds. The effects of situational and institutional conditions as they shape identity and social interactions are important considerations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -748,7 +748,7 @@
         "course_name": "Environment and Society",
         "course_description": "(same as RU_SOC 7370). An interdisciplinary examination of domestic and international environmental issues focusing on social, cultural, and policy dimensions. Perspectives of the social sciences and humanities are included.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -756,7 +756,7 @@
         "course_name": "Seminar in Sociology of Work",
         "course_description": "Recent developments in the sociological study of occupations and professions. Surveys alternative theoretical perspectives and methodological approaches. Deals with rationalization, professionalization, alienation, class consciousness, self management.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -764,7 +764,7 @@
         "course_name": "Sociology of Education",
         "course_description": "(same as  ED_LPA 7458; cross-leveled with SOCIOL 4410). Contexts, structures and processes of schooling; effects on class, race, ethnicity and gender; social change, educational policy, and organizational dynamics; higher education and the economy.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -772,7 +772,7 @@
         "course_name": "Community Social Structure",
         "course_description": "(same as RU_SOC 7446). A comparative study of communities in different nations and in urban and rural areas. A primary focus of the course will be on social change in communities, in response to changing economic, political, social, cultural, and ecological factors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -780,7 +780,7 @@
         "course_name": "Sociology of Social Policy",
         "course_description": "Sociological theories and methodologies focused on social policy; policy as process; contextual and critical policy analyses; assessing policy effects and consequences.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -788,7 +788,7 @@
         "course_name": "Social Movements and Conflicts",
         "course_description": "Survey of approaches and research on social movements and social change. Historical and contemporary social movements in the U.S.; collective protest and violence; political revolutions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -796,7 +796,7 @@
         "course_name": "Political Sociology",
         "course_description": "(same as PEA_ST 7520). Social bases of power and politics, economic and political elites, the political economy of the advanced societies, sources of political conflict and change.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -804,7 +804,7 @@
         "course_name": "Gender and Human Rights in Cross Cultural Perspective",
         "course_description": "(same as PEA_ST 7550 and WGST 7550). Focuses on the global discourse on human rights and gender, emphasizing cross-cultural theories. Course includes the meaning of human rights, western and non-western perspectives, feminist contributions, important substantive debates, violations, policymaking and activism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -812,7 +812,7 @@
         "course_name": "Seminar in Culture and Mass Media",
         "course_description": "Sociological examination of culture and mass media, including institutional character, production and distribution, audience effects, relation of social structures. Current research, theories, methods.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -844,7 +844,7 @@
         "course_name": "Teaching Sociology",
         "course_description": "This graduate seminar will cover current issues in higher education, building a teaching portfolio, the daily work of teaching, and work/life balance in academia.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -852,7 +852,7 @@
         "course_name": "Critical Race Theory",
         "course_description": "Critical examination of key sociological theories of race, racialization, and racism in contemporary society.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -860,7 +860,7 @@
         "course_name": "Theoretical Thinking in Sociology",
         "course_description": "Close analysis of the texts of classical and contemporary social theory.  Key concepts will be elaborated in the context of intellectual history, and will be applied to deepening the theoretical significance of an empirical research question on the student's emerging agenda.  Required for all entering graduate students in Sociology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -876,7 +876,7 @@
         "course_name": "The Logic of Social Research",
         "course_description": "Meta-theoretical and conceptual issues at the core of design decision making, questionnaire construction, qualitative field techniques, interviewing, scaling, panel analysis, computer applications to qualitative data; experimental, survey and case study designs, ethics. Required for Ph.D. students.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -900,7 +900,7 @@
         "course_name": "Graduate Seminar in Urban Sociology",
         "course_description": "In this course we will survey the field of urban sociology.  Urban sociology is the study of human social relations in cities and urbanized communities.  We will consider urbanization in its preindustrial, industrial, and postindustrial forms in the U.S. and elsewhere.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -924,7 +924,7 @@
         "course_name": "Race, Ethnicity, and Transnational Inequalities",
         "course_description": "(same as BL_STU 8277).  This graduate seminar examines the global contest of our radicalized modern world system.  How do people develop and give meaning to race/ethnicity in different regions?  Focus on the construction of bodies Creole identities, gender, sexualities, citizenships and immigration.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -932,7 +932,7 @@
         "course_name": "Seminar on Sustainable Development",
         "course_description": "(same as RU_SOC 8287). An interdisciplinary examination of sustainable development focusing on social, economic, cultural and environmental dimensions of development.  International and domestic issues and approaches to sustainable development are included.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -948,7 +948,7 @@
         "course_name": "Social Processes of Information/Knowledge Utilization",
         "course_description": "(same as RU_SOC 8425). Factors conditioning communication and diffusion of ideas and practices; exercise of personal influence; role of change agents and agencies in the process of change.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -956,7 +956,7 @@
         "course_name": "Graduate Seminar in Medicine, Technology, and Globalization",
         "course_description": "In the last two hundred years medicine and technology have transformed our day-to-day living as never before. They have permeated our social and personal imagination, our epistemological bearing, disciplinary practices, and not to forget national and global agendas. A key aspect of such transformations, which we are going to investigate in this course, has been the intertwining of medicine and technology in a variety of ways, resulting in wide ranging impact - from the emergence of medical gaze, transformation of healthcare practices, to present day transnationalization and globalization of medical practices. This course would utilize recent theoretical developments to interrogate different interrelated facets of medicine, technology, and globalization.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -972,7 +972,7 @@
         "course_name": "Seminar on the Sociology of Health and Sickness",
         "course_description": "Topical seminar dealing with one of three subject areas: (1) Health problems, disease, illness, sickness; (2) Occupations, and Organizations in the health field, or (3) Comparative Health Care Systems. Course may be repeated for different topics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1020,7 +1020,7 @@
         "course_name": "Graduate Seminar in Environmental Discourses",
         "course_description": "This seminar explores human cultural interactions with nature: how we understand ourselves in relation to space, how we interact with and learn about nature, and how we use nature.  Readings will include exemplary texts from sociology, geography and anthropology, science studies and cultural studies. Graduate Standing required.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1036,7 +1036,7 @@
         "course_name": "Seminar in State and Economy",
         "course_description": "Analysis of public policy and economic change in contemporary political-economic systems; growth of welfare state, capitalist planning, state socialist economics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1068,7 +1068,7 @@
         "course_name": "Graduate Seminar in Body and Society",
         "course_description": "The course is organized around three major themes - body as a site of personal and political experience; the social body, emphasizing the relationship between society, culture, and individuals; and the body as a site and instrument of politics.  Readings assigned for the course are aimed at critical engagement with the \"body: within and across these themes.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1084,7 +1084,7 @@
         "course_name": "Seminar in Sociology of Gender",
         "course_description": "Analysis of recent research in which gender is a major focus. This research is chosen to exemplify a variety of theoretical perspectives, research strategies, and substantive topics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

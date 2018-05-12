@@ -4,7 +4,7 @@
         "course_name": "Introduction to Leisure Studies",
         "course_description": "History of recreation and leisure movement; theories and philosophies of play, recreation and leisure. Developmental stages of leisure services to contemporary status.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Introduction to Sport Management",
         "course_description": "This course will examine the meaning of sport management in terms of its history, scope, principles, issues and future trends.  In addition, this course examines the job responsibilities and competencies required of sport managers in a variety of sport organizations. Graded on A-F basis only.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: P_R_TR 1011",
+        "credit_hours": "3Prerequisites or Corequisites: P_R_TR 1011",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Research and Descriptive Statistics for Parks, Recreation and Tourism",
         "course_description": "An introduction to research methods and techniques and descriptive statistics and their application in the field of recreation and park administration. Math Reasoning Proficiency Course.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: P_R_TR 1011",
+        "credit_hours": "3Prerequisites or Corequisites: P_R_TR 1011",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Aquatics Science",
         "course_description": "A scientific perspective on water chemistry, preventive maintenance of aquatic facilities with an emphasis on the newest safety and engineering design information and construction techniques.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: P_R_TR 1011",
+        "credit_hours": "3Prerequisites or Corequisites: P_R_TR 1011",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Introduction to Planning and Evaluating Leisure Environments",
         "course_description": "Presentation of basic planning principles. Evaluation of existing areas and facilities based upon planning guidelines. Consideration of park plans, standards, terminology, map preparation and evaluation.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: P_R_TR 1011",
+        "credit_hours": "3Prerequisites or Corequisites: P_R_TR 1011",
         "recommendation": "None Listed"
     },
     {
@@ -148,7 +148,7 @@
         "course_name": "Leadership of Social Recreation",
         "course_description": "Study and practice in techniques of leading social activities suitable for various social settings. Offered periodically.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: P_R_TR 1011",
+        "credit_hours": "2Prerequisites or Corequisites: P_R_TR 1011",
         "recommendation": "None Listed"
     },
     {
@@ -156,7 +156,7 @@
         "course_name": "Organization and Conduct of Recreation Centers",
         "course_description": "Problems of operation, management of playgrounds, recreation centers.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: P_R_TR 1011",
+        "credit_hours": "2Prerequisites or Corequisites: P_R_TR 1011",
         "recommendation": "None Listed"
     },
     {
@@ -204,7 +204,7 @@
         "course_name": "Methods in Research and Evaluation",
         "course_description": "An overview of social research methods, including terms, human and scientific inquiry, ethical behavior, literature review, sampling questionnaire construction, types of data collection, statistical analysis, and reporting of results.  Graded on A-F basis only.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: P_R_TR 1011",
+        "credit_hours": "3Prerequisites or Corequisites: P_R_TR 1011",
         "recommendation": "None Listed"
     },
     {
@@ -444,7 +444,7 @@
         "course_name": "Administration of Leisure Services",
         "course_description": "(cross-leveled with P_R_TR 4208). Theoretical foundations of the organization and administration of leisure services in both community and institutional settings. Emphasis on the roles of the administrator.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -452,7 +452,7 @@
         "course_name": "Planning Recreation and Leisure Environments",
         "course_description": "Practical application of basic planning principles and design. Layout and design of various leisure-oriented areas and facilities. Site planning and analysis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -460,7 +460,7 @@
         "course_name": "Leisure and Aging",
         "course_description": "Basic understanding of problems/needs of later maturity in relation to recreation. Characteristics/capabilities of aged, program settings, financial support, planning guidelines emphasized. Objectives: provide fundamentals for recreation planning with aged individuals/groups. Offered periodically. .",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -468,7 +468,7 @@
         "course_name": "Administration of Outdoor Recreation - Education Programs",
         "course_description": "(cross-leveled with P_R_TR 4331). Philosophies, essential principles, methods, techniques, resources, administrative and program practices for outdoor recreation and education. Offered periodically.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -476,7 +476,7 @@
         "course_name": "Park Management",
         "course_description": "Basic principles, practices and problems involved in managing public park systems. Consideration given to local, district, county, state, federal and foreign park systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -484,7 +484,7 @@
         "course_name": "Advanced Recreation Land Management",
         "course_description": "(cross-leveled with P_R_TR 4340). Advanced study of problems facing forest recreation managers. Topics include rivers recreation, wilderness management and citizen participation in decision making. Offered periodically.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -492,7 +492,7 @@
         "course_name": "Private and Commercial Recreation Principles and Practice",
         "course_description": "Considers principles, practices, influences in public/ private leisure services; influence of tourism/travel on public/private recreation services.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -500,7 +500,7 @@
         "course_name": "Tourism Management",
         "course_description": "Introduction to the scope and scale of the tourism industry. Focus on the industry components, concepts, structures, relationships, and issues with regard to accommodation, transportation, travel, regional development, political system, and the economic, social and environmental effects of tourism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -524,7 +524,7 @@
         "course_name": "Foundations of Sport",
         "course_description": "This course focuses on the business side of sport management, primarily considering issues of marketing, sponsorship, and sales. In this, students will not only supplement knowledge of these concepts, but also be presented with actual models relevant to working in sales in the competitive sport environment. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -540,7 +540,7 @@
         "course_name": "Masters Level Graduate Seminar in Parks, Recreation and Tourism",
         "course_description": "In this course, students and faculty will discuss and critically analyze contemporary issues on social concerns relating to leisure services.  Graded on S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -548,7 +548,7 @@
         "course_name": "Sport and Leisure Economics",
         "course_description": "This course focuses on the business side of sport management, primarily considering issues of marketing, sponsorship, and sales. In this, students will not only supplement knowledge of these concepts, but also be presented with actual models relevant to working in sales in the competitive sport environment. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -572,7 +572,7 @@
         "course_name": "Constructs of Leisure",
         "course_description": "Review analysis and implications of fundamental psycho-social determinants of leisure behavior. Application theories of determinants to existing and proposed leisure service systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -596,7 +596,7 @@
         "course_name": "Leisure, Technology and Human Values",
         "course_description": "Study of the developmental patterns of leisure services in society with emphasis to the dynamics of technology and leisure on individual and social values.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -604,7 +604,7 @@
         "course_name": "Contemporary Issues in Therapeutic Recreation",
         "course_description": "The course will include new issues and ideas in the field of therapeutic recreation, such as registration, insurance, liability, licensure, assessment, etc., and how they relate to practitioners and services to clients.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -612,7 +612,7 @@
         "course_name": "Research Methods in Parks, Recreation and Tourism",
         "course_description": "Analysis of basic research methodology. Review and analysis of research work completed in recreation, park and leisure field.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -620,7 +620,7 @@
         "course_name": "Visitor Behavior and Policy",
         "course_description": "Course presents issues, concerns and policies dealing with multi-management/planning/operations of outdoor resource based recreation. Such issues as energy, economics, social/ political, pollution and user characteristics will be studied.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -628,7 +628,7 @@
         "course_name": "Philosophical Perspectives of Leisure",
         "course_description": "Study of the theoretical and philosophical perspective of leisure in society with emphasis on integration and development of the student's personal and professional viewpoint.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -636,7 +636,7 @@
         "course_name": "Administration in Leisure Service Delivery",
         "course_description": "Review, analysis and synthesis of administrative functions as related to public and private recreation and leisure service enterprises.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -644,7 +644,7 @@
         "course_name": "Financial Operations in Leisure Service Delivery",
         "course_description": "Review and critical analysis of financial functions, strategies and methodology as related to public and private recreation and leisure service enterprises.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

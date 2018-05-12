@@ -100,7 +100,7 @@
         "course_name": "Topics in Finance",
         "course_description": "Selected topics in finance, insurance or real estate. Offered on an experimental basis.  Some sections of this course may be offered A-F only or S/U only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Financial Modeling and Databases",
         "course_description": "Financial modeling and using online databases to retrieve data, data analysis, spreadsheet design, excel VBA programming, interpreting results. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -132,16 +132,16 @@
         "course_name": "Financial Ethics and Professional Standards",
         "course_description": "The course comprises an intensive study of the CFA Institute Code of Ethics and Standards of Professional Conduct and Global Investment Performance Standards. It also includes a review of corporate governance issues.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: FINANC 4010 or departmental consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "FINANC 4010 or departmental consent"
     },
     {
         "course_number": "FINANC 4500",
         "course_name": "Principles of Real Estate",
         "course_description": "Principle factors influencing land use, practices in real estate business.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: FINANC 3000",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "FINANC 3000"
     },
     {
         "course_number": "FINANC 4510",
@@ -180,7 +180,7 @@
         "course_name": "Introduction to Risk Management and Insurance",
         "course_description": "Basic principles of risk management and insurance focusing on operational risks faced by organizations. Covers terminology, sources, dimensions, characteristics, measurement, and assessment of risk along with design and implementation of techniques to mitigate and control risk.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: FINANC 2000 or FINANC 3000",
+        "credit_hours": "3Prerequisites or Corequisites: FINANC 2000 or FINANC 3000",
         "recommendation": "None Listed"
     },
     {
@@ -204,7 +204,7 @@
         "course_name": "Topics in International Finance",
         "course_description": "Available during study abroad session. Emphasis is on international corporate governance, foreign exchange risk management, international capital markets, balance of payments, international monetary system, and exchange rate determination. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -212,7 +212,7 @@
         "course_name": "International Finance",
         "course_description": "Application of domestic corporate finance to the international arena. Emphasis on international capital budgeting, working capital management, foreign exchange risk management, international capital markets, balance of payments, international monetary system, and exchange rate determination.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -636,7 +636,7 @@
         "course_name": "Seminar in Corporate Finance",
         "course_description": "Advanced theory, investigation of current research in financial management.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -668,7 +668,7 @@
         "course_name": "Seminar in Investment Analysis",
         "course_description": "Develops integrated theory and analytic techniques for evaluating investment potential of financial instruments. Emphasizes corporate securities. Selected cases and readings.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     }
 ]

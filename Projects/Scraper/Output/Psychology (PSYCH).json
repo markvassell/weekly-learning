@@ -4,7 +4,7 @@
         "course_name": "General Psychology",
         "course_description": "Survey of theories, principles, and methods in the study of human behavior.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Applied Psychology",
         "course_description": "Surveys wide range of applications of psychology. Topics include social issues (prejudice and violence), applications to fields such as business and law, applications for personal improvement (improving memory), and others (sports, health, environment).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -412,7 +412,7 @@
         "course_name": "Sleep and Sleep Disorders",
         "course_description": "This course provides a critical review of the current research on both normal sleep and sleep disorders.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -948,7 +948,7 @@
         "course_name": "Perception",
         "course_description": "(cross-leveled with PSYCH 4110). Data and contemporary theories of perception in all of the senses, with emphasis on visual and auditory perception.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1124,7 +1124,7 @@
         "course_name": "Social and Emotional Development",
         "course_description": "(same as H_D_FS 8440). There are two major objectives for this course.  The first is a \"content\" objective and involves familiarizing students with theory and research regarding social, emotional, and personality development in childhood and adolescence and also regarding the relationships in which such development takes place.  The second objective is a \"process\" objective and involves enhancing students skills at interpreting empirical research, identifying gaps in the literature, and identifying research strategies for addressing those gaps.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1204,7 +1204,7 @@
         "course_name": "Social and Behavioral Sciences in Public Health",
         "course_description": "(same as P_HLTH 8920). This course will take both a theoretical and a practical approach to understanding health-related behavior and the field of public health.  Students will gain an understanding of theory and empirical research in the social and behavioral sciences, as well as developing practical skills in critically evaluating research and in applying scientific evidence to address real world health concerns.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1292,7 +1292,7 @@
         "course_name": "Advanced Neural Systems",
         "course_description": "The course provides in-depth coverage of the neurophysiology, neuroanatomy, and function of the brain. Course lectures and discussions cover the brain and its systems in a \"bottom-up\" sequence starting with basic sensory pathways and concluding with higher cognitive functions. The course also includes hands-on laboratory sessions, which include dissection component. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1340,7 +1340,7 @@
         "course_name": "Positive Psychology",
         "course_description": "This seminar will discuss and critique modern research in positive psychology. Each chapter of the textbook provides overviews of positive psychology research topics at various levels of analysis, while providing suggestions for further research. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1564,7 +1564,7 @@
         "course_name": "Item Response Theory I",
         "course_description": "Introduction to item response theory, including classical test theory, popular item response models, model estimation, software considerations, and application. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: PSYCH 8710",
+        "credit_hours": "3Corequisites: PSYCH 8710",
         "recommendation": "None Listed"
     },
     {

@@ -4,7 +4,7 @@
         "course_name": "Introductory Meteorology",
         "course_description": "(same as GEOG 1050). Physical processes of atmosphere in relation to day-to-day changes in weather.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -260,7 +260,7 @@
         "course_name": "Remote Sensing for Meteorology and Natural Resources",
         "course_description": "(cross-leveled with ATM_SC 4510). Principles of remote sensing with emphasis on the properties of atmosphere and the earth's surface from airborne and satellite sensors. The techniques for using geosynchronous and orbiting satellite platforms for assessing weather and natural resource features. Graduate student credit is dependent upon completion of additional advanced research assignments.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Topics in Atmospheric Science",
         "course_description": "Development of the theory with its application for selected topics in atmospheric science.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

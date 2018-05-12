@@ -4,7 +4,7 @@
         "course_name": "Human Language",
         "course_description": "(same as ANTHRO 1060, C_S_D 1060, ENGLSH 1060).  General introduction to various aspects of linguistic study. Elementary analysis of language data, with some attention to application of linguistic study to other disciplines.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Anthropological Linguistics",
         "course_description": "(same as ANTHRO 2040). Language in relation to other aspects of human behavior. Introduction to description and analysis of the basic units of language. Emphasis on non-Indo-European and preliterate languages.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Languages of Africa",
         "course_description": "(same as BL_STU 2601 and ENGLSH 2601). Introduction to the diversity of the 2000+ African languages, including first-hand experience exploring a few in detail with native speakers.  Features of African languages are compared with others of the world.  Political and social aspects of language in Africa are discussed.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "American Phonetics",
         "course_description": "(same as C_S_D 3010). Analysis of production and acoustics of the sounds of speech with an emphasis on American English; practice in broad and narrow transcription using the International Phonetic Alphabet.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Anatomy and Physiology of the Speech Mechanism",
         "course_description": "(same as C_S_D 3210). Introduction to anatomical and functional aspects of the speech mechanism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Speech Acoustics",
         "course_description": "(same as C_S_D 3220).  An introduction to the acoustic aspects of speech as they relate to the respiratory, phonatory, resonatory, and articulatory systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -140,16 +140,16 @@
         "course_name": "Introduction to Old English",
         "course_description": "(same as ENGLSH 4200). A beginning study of the Old English or Anglo-Saxon language in its cultural context, with emphasis on gaining a reading knowledge.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior standing"
     },
     {
         "course_number": "LINGST 4400",
         "course_name": "Language and Culture",
         "course_description": "(same as ANTHRO 4400). Interrelations between language, thought, culture, and society; role of language in cognition; methods and concepts of linguistics in cultural analysis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ANTHRO 2040 or LINGST 2040",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ANTHRO 2040 or LINGST 2040"
     },
     {
         "course_number": "LINGST 4412",
@@ -164,7 +164,7 @@
         "course_name": "Language and Discourse",
         "course_description": "(same as COMMUN 4415). Analysis of the rules of social interaction and the functions of language in discourse.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -172,8 +172,8 @@
         "course_name": "Historical Linguistics",
         "course_description": "(same as ANTHRO 4420). Methods of tracing the history of languages by glottochronology, and by comparative and internal reconstructions; cultural and linguistic implications of such reconstructions and of areal linguistics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior/senior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior/senior standing"
     },
     {
         "course_number": "LINGST 4600",
@@ -188,7 +188,7 @@
         "course_name": "History of the English Language",
         "course_description": "(same as ENGLSH 4610). Historical changes in the grammar and pronunciation of the English language from Old English to the present. Introduction to Indo-European origins of English.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -196,8 +196,8 @@
         "course_name": "Regional and Social Dialects of American English",
         "course_description": "(same as ENGLSH 4620). The study of regional and social variation in pronunciation, vocabulary, and syntax of American English.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: LINGST 4600 and LINGST 4610 or equivalent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "LINGST 4600 and LINGST 4610 or equivalent"
     },
     {
         "course_number": "LINGST 4630",
@@ -220,7 +220,7 @@
         "course_name": "Principles of Teaching English as a Second Language",
         "course_description": "(same as LTC 4460). Linguistic and pedagogical principles of teaching English to speakers of other languages.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -252,24 +252,24 @@
         "course_name": "Structure of Modern Spanish",
         "course_description": "(same as SPAN 4721). Synchronic analysis of phonology morphology and syntax of spoken Spanish dialects.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: four 3000-level courses in Spanish",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "four 3000-level courses in Spanish"
     },
     {
         "course_number": "LINGST 4722",
         "course_name": "Spanish Across the Continents",
         "course_description": "(same as SPAN 4722).  This course focuses on the effects of migratory movements on language change, considering the Spanish spoken in Latin America, Puerto Rico, Spain and the USA.  The class sharpens awareness and recognition of the linguistic diversity of the Spanish-speaking regions of the world.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: four 3000-level courses in Spanish",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "four 3000-level courses in Spanish"
     },
     {
         "course_number": "LINGST 4723",
         "course_name": "Language and Society",
         "course_description": "(same as SPAN 4723). This class surveys linguistic and social issues pertaining to Spanish in the U.S. (past, present and future).  Topics include bilingualism, code switching (a.k.a. Spanglish), first language attrition, linguistic identity, and the role of Spanish in Education, services and media.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: four 3000-level courses in Spanish",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "four 3000-level courses in Spanish"
     },
     {
         "course_number": "LINGST 4730",
@@ -308,16 +308,16 @@
         "course_name": "Practical Phonetics for Fieldwork",
         "course_description": "(same as ANTHRO 4850). Self-paced course using computer and tape recorded lessons from world's languages. Teaches practical articulatory and transcription phonetics. Weekly meeting with instructor to monitor progress, resolve questions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior standing"
     },
     {
         "course_number": "LINGST 4860",
         "course_name": "Techniques in Linguistic Analysis",
         "course_description": "(same as ANTHRO 4860). Problems in analyzing data from various languages.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: introductory course in Linguistics",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "introductory course in Linguistics"
     },
     {
         "course_number": "LINGST 4870",
@@ -348,7 +348,7 @@
         "course_name": "Studies in Linguistics",
         "course_description": "Topic varies according to instructor.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -372,7 +372,7 @@
         "course_name": "Advanced Logic",
         "course_description": "(same as PHIL 7110; cross-leveled with LINGST 4110). Presents the method of truth trees for sentence and predicate logic. Examines proofs concerning the decidability, soundness, and completeness for formal systems. Emphasizes the theory of formal systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -380,7 +380,7 @@
         "course_name": "Introduction to Old English",
         "course_description": "(same as ENGLSH 7200). A beginning study of the Old English or Anglo-Saxon language in its cultural context, with emphasis on gaining a reading knowledge.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -396,7 +396,7 @@
         "course_name": "Gender, Language, and Communication",
         "course_description": "(same as COMMUN 7412 and ANTHRO 7412). Relationships among gender, language, nonverbal communication, and culture.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -404,7 +404,7 @@
         "course_name": "Language and Discourse",
         "course_description": "(same as COMMUN 7415). Analysis of the rules of social interaction and the functions of language in discourse.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -412,7 +412,7 @@
         "course_name": "Historical Linguistics",
         "course_description": "(same as ANTHRO 7420). Methods of tracing the history of languages by glottochronology, and by comparative and internal reconstructions; cultural and linguistic implications of such reconstructions and of areal linguistics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -420,7 +420,7 @@
         "course_name": "Structure of American English",
         "course_description": "(same as ENGLSH 7600). Introduction to English linguistics. Study of the grammar and pronunciation of contemporary English, with the major focus on syntax.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -428,7 +428,7 @@
         "course_name": "History of the English Language",
         "course_description": "(same as ENGLSH 7610). Historical changes in the grammar and pronunciation of the English language from Old English to the present. Introduction to Indo-European origins of English.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -468,7 +468,7 @@
         "course_name": "History of the French Language",
         "course_description": "(same as FRENCH 7710).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -484,7 +484,7 @@
         "course_name": "Structure of Modern French",
         "course_description": "(same as FRENCH 7720). An introductory presentation of the phonological and syntactic systems of contemporary standard French.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -492,7 +492,7 @@
         "course_name": "Structure of Modern Spanish",
         "course_description": "(same as SPAN 7721). Synchronic analysis of phonology morphology and syntax of spoken Spanish dialects.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -508,7 +508,7 @@
         "course_name": "Interdisciplinary Introduction to Natural Language Processing",
         "course_description": "(same as CMP_SC 7740; cross-leveled with LINGST 4740). The goal of this course is to enable students to develop substantive NLP applications. Focus on current structural and statistical techniques for the parsing and interpretation of text.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -532,7 +532,7 @@
         "course_name": "Practical Phonetics for Fieldwork",
         "course_description": "(same as ANTHRO 7850). Self-paced course using computer and tape recorded lessons from world's languages. Teaches practical articulatory and transcription phonetics. Weekly meeting with instructor to monitor progress, resolve questions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -572,7 +572,7 @@
         "course_name": "Speech Physiology",
         "course_description": "(same as C_S_D 8110). Analysis of physiological features associated with speech subsystems; theories of encoding with special emphasis on speech motor control mechanisms.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -580,7 +580,7 @@
         "course_name": "Bilingualism and Language Contact",
         "course_description": "(same as SPAN 8120 and FRENCH 8120). Global analysis of the study of Bilingualism from a combined sociocultural, sociolinguistic and psycholinguistic perspective based on current research and examination of various phenomena of language contact (taught in Eng.).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -588,7 +588,7 @@
         "course_name": "Seminar in Anthropological Linguistics",
         "course_description": "(same as ANTHRO 8487). Topics: Ethnolinguistics, linguistic prehistory, pidgin and Creole languages, linguistic theories and cultural and cultural analysis. French structural anthropology. May be repeated for 9 hours maximum.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -596,7 +596,7 @@
         "course_name": "Seminar in the English Language",
         "course_description": "(same as ENGLSH 8600). Descriptive and historical studies of the English language. Topics (e.g., The Germanic Origins, Modern Syntactic Analysis) announced at time of registration. May be repeated up to twelve hours with departmental approval.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -604,7 +604,7 @@
         "course_name": "History of the German Language",
         "course_description": "(same as GERMAN 8615).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -612,7 +612,7 @@
         "course_name": "Middle High German",
         "course_description": "(same as GERMAN 8625).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     }
 ]

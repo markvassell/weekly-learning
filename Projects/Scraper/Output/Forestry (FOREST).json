@@ -84,7 +84,7 @@
         "course_name": "Forest Fire Control and Use",
         "course_description": "Fundamentals of all phases of fire protection. Objectives and techniques in use of fire.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -92,23 +92,23 @@
         "course_name": "Forest Health and Protection",
         "course_description": "Fundamental concepts of forest pathology and forest entomology including emphasis on ecological principles and management strategies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: FOREST 2151",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "FOREST 2151"
     },
     {
         "course_number": "FOREST 3212W",
         "course_name": "Forest Health and Protection - Writing Intensive",
         "course_description": "Fundamental concepts of forest pathology and forest entomology including emphasis on ecological principles and management strategies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: FOREST 2151",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "FOREST 2151"
     },
     {
         "course_number": "FOREST 3217",
         "course_name": "Fire and Society",
         "course_description": "A study of the relationship between society (humans) and fire.  What kind of  role does fire play in day-to-day life? How has fire influenced our behavior since Day 1?  How do we view fire today?",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Wood Technology",
         "course_description": "Structure and identification of commercial woods. Relation of growth to physical and chemical properties of wood.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -148,7 +148,7 @@
         "course_name": "Topics in Forestry",
         "course_description": "Organized study of selected topics. Intended for upper-division students. Subjects and credit may vary from semester to semester.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -196,7 +196,7 @@
         "course_name": "Photogrammetry, Inventory and Models",
         "course_description": "Applied course in the area of aerial photogrammetry, forest inventory, and forest growth models for developing, maintaining, and utilizing these tools in a forest management.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -340,7 +340,7 @@
         "course_name": "Photogrammetry, Inventory and Models",
         "course_description": "Applied course in the area of aerial photogrammetry, forest inventory, and forest growth models for developing, maintaining, and utilizing these tools in a forest management.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -380,7 +380,7 @@
         "course_name": "Agroforestry I: Theory, Practice and Adoption",
         "course_description": "Understand biophysical, ecological social and economic features of temperate and tropical agroforestry. Covers the basics of design, planning and implementation of agroforestry practices.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -492,7 +492,7 @@
         "course_name": "Tree Growth-Quality Relationships",
         "course_description": "Response of tree growth (wood formation) to such environmental influences fertilization, moisture, nutrient supply, wounding pruning, etc.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -500,7 +500,7 @@
         "course_name": "Plant-Water Relations",
         "course_description": "Absorption, translocation, utilization and loss of water by plants . Biophysics of water movement in the soil-plant-atmosphere continuum. Effects of water deficits on physiological processes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -508,7 +508,7 @@
         "course_name": "Plant-Water Relations Laboratory",
         "course_description": "Introduction to techniques and instrumentation used in studies of plant-water relations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Corequisites: FOREST 8620",
+        "credit_hours": "2Corequisites: FOREST 8620",
         "recommendation": "None Listed"
     },
     {

@@ -12,7 +12,7 @@
         "course_name": "Introduction to Agricultural Systems Management",
         "course_description": "Introductory course that acquaints students with the general technical areas of Agricultural Systems Management. A systematic problem-solving approach is applied to problems derived from each of the technical areas within Agricultural Systems Management .",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Agricultural/Industrial Materials and Processes",
         "course_description": "Structure and properties of manufacturing materials; conditioning and machining materials; assembling processes; finishing processes; automation of manufacturing systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -284,7 +284,7 @@
         "course_name": "Topics in Agricultural Systems Management",
         "course_description": "Initial offering of a course in a specific subject matter area related to Agricultural Systems Management. The course is offered when proposed by a faculty member in that area of expertise.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -292,7 +292,7 @@
         "course_name": "Agricultural Safety and Health",
         "course_description": "(corss-leveled with AG_S_M 4020). Analysis, organization and implementation of agriculture safety and health programs. Physical and economic impacts of accidents, standards and liabilities. Role of man in the man-machine system.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -316,7 +316,7 @@
         "course_name": "Electricity: Wiring and Equipment",
         "course_description": "(cross-leveled with AG_S_M 4140). Home and agricultural electricity; emphasis on proper selection and use of electrical wiring materials and equipment. Basic electrical theory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -348,7 +348,7 @@
         "course_name": "Agricultural Mechanization Systems",
         "course_description": "Review of current literature. Case study of mechanization systems. Computer analysis of management alternatives.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -364,8 +364,8 @@
         "course_name": "Machinery Management Using Precision Agriculture Technology",
         "course_description": "(cross-leveled with AG_S_M 4365). This course focuses on agricultural equipment that is commonly used in conjunction with GPS technology. Planters, combines, fertilizer application equipment and sprayer application equipment are commonly equipped with GPS equipment to control and record operational parameters. These parameters focus around the equipments geographic location and can be recorded simultaneously with the volume of product applied and weather information (wind, temperature, humidity, etc.). GPS guidance is one of the main technologies to be studied throughout this course. The management of this equipment and the GPS technologies used to control and record this information is the focus of the course.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: AG_S_M 7360",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "AG_S_M 7360"
     },
     {
         "course_number": "AG_S_M 7366",
@@ -428,7 +428,7 @@
         "course_name": "Problems in Agricultural Systems Management",
         "course_description": "Supervised individual study at the graduate level.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -452,7 +452,7 @@
         "course_name": "Agricultural Mechanization Systems",
         "course_description": "Review of current literature. Case study of mechanization systems. Computer analysis of management alternatives.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

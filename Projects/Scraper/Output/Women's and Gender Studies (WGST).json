@@ -36,7 +36,7 @@
         "course_name": "Introduction to Women's and Gender Studies",
         "course_description": "Introduction to the basic issues of Western feminist thought through a study of classical and contemporary sources. Course will consider images, conditions, activities and visions of women as they vary historically and socially.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "The Female Experience: Body, Identity, and Culture",
         "course_description": "(same as SOCIOL 1360). Study of the experience of being female in American Culture. Course will focus on development of women's identities through such topics as: sexuality, reproduction, self-image, rape and health care.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,8 +52,8 @@
         "course_name": "The Black Woman in America",
         "course_description": "(same as BL_STU 1500). Review and critique of a variety of materials about Black women from slavery to the social and philosophical impact of the Black woman's struggle on all women.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "sophomore standing"
     },
     {
         "course_number": "WGST 2001",
@@ -124,7 +124,7 @@
         "course_name": "Perspectives on Empowerment",
         "course_description": "Women's Empowerment is a popular catch phrase in culture, politics and research. This course explores the meaning of empowerment, the ways empowerment is practiced in organizations and in the everyday lives of girls and women, and the challenges in empowering girls and women in contemporary society. May be repeated for credit with different semester themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -132,7 +132,7 @@
         "course_name": "Gender Perspectives: Issues in Public Health",
         "course_description": "Addresses issues of gender and public health in the US and abroad. Considers how race, class, gender, sexuality, and geopolitical context may impact health. May focus on specific health issues. May be repeated for credit with different semester themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -148,15 +148,15 @@
         "course_name": "Introduction to Women's Literature",
         "course_description": "(same as ENGLSH 2180). A study of traditional and non-traditional literature written by women from the perspective of feminist themes-love, power, work, family and other relations. No more than six hours may be taken in the Introduction to Women's Literature series.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ENGLSH 1000",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ENGLSH 1000"
     },
     {
         "course_number": "WGST 2186",
         "course_name": "Introduction to Women's Literature, Beginning to 1603",
         "course_description": "(same as ENGLSH 2186). See WGST 2180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -164,7 +164,7 @@
         "course_name": "Introduction to Women's Literature, 1603 to 1789",
         "course_description": "(same as ENGLSH 2187). See WGST 2180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -172,7 +172,7 @@
         "course_name": "Introduction to Women's Literature, 1789 to 1890",
         "course_description": "(same as ENGLSH 2188). See WGST 2180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -180,7 +180,7 @@
         "course_name": "Introduction to Women's Literature, 1890 to Present",
         "course_description": "(same as ENGLSH 2189). See WGST 2180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -196,7 +196,7 @@
         "course_name": "Perspectives on Gender, Race, Class and Sexuality in the Americas",
         "course_description": "Introduction to the formation of identities in the Americas. Some areas covered are immigration, transnational identity, pop culture, literary expression, body image, spirituality, racism/sexism, assimilation, acculturation, and activism. May be repeated for credit with different semester themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -204,7 +204,7 @@
         "course_name": "Perspectives on Gender, Race, Class and Sexuality in the Americas - Writing Intensive",
         "course_description": "Introduction to the formation of identities in the Americas. Some areas covered are immigration, transnational identity, pop culture, literary expression, body image, spirituality, racism/sexism, assimilation, acculturation, and activism. May be repeated for credit with different semester themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -212,7 +212,7 @@
         "course_name": "Perspectives on Mass Media: Constructions of Gender, Race and Sexuality",
         "course_description": "Examines constructions of gender, race, class and sexuality in the US media in the twentieth and twenty first centuries. Emphasis placed on media's coverage and uses of various socially constructed identities. May be repeated for credit with different semester themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -220,7 +220,7 @@
         "course_name": "Perspectives on Gender and Popular Culture",
         "course_description": "Explores issues in popular culture in the 20th and 21st centuries with respect to feminism, gender, sexuality, race, class, and ability.  Areas of study may include television, movies, music, advertisements, magazines, fiction, newspapers, the internet, and social media.  May be repeated for credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -228,7 +228,7 @@
         "course_name": "French and Francophone Women Writers",
         "course_description": "(same as FRENCH 2370).  This course will address issues of race, gender and class in selected works originally written by women of different historical periods and geographical areas.  (metropolitan France, French colonies, and territories such as the Caribbean).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -236,7 +236,7 @@
         "course_name": "Social History of U.S. Women",
         "course_description": "(same as HIST 2400). This course, the social history of US women, offers a general overview of US women, beginning with the colonial period up to the present day.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -244,7 +244,7 @@
         "course_name": "African American Women in History",
         "course_description": "(same as HIST 2410 and BL_STU 2410). Covers major issues affecting black women since their introduction into English-speaking North America to the present.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -308,7 +308,7 @@
         "course_name": "Sexuality and Gender Theory",
         "course_description": "(same as ENGLSH 3080). Examination of major theoretical approaches and debates in the study of gender and sexuality, with particular attention to the intersection of culture, representation, and identity. May be repeated to 6 hours with departments consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -316,7 +316,7 @@
         "course_name": "Themes in Gender and Work",
         "course_description": "This is an interdisciplinary course on gender and work. The course addresses topics such as contemporary and historical feminist debates about gender and work; problems of gender inequality at the workplace; historical context of contemporary patterns of gender inequality at work; and how gender intersects with race, class, sexuality and other social categories to shape people's work lives.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Historical Survey of Women Writers",
         "course_description": "(same as ENGLSH 3180). A study of writing by women from the Middle Ages to the present.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -332,7 +332,7 @@
         "course_name": "Historical Survey of Women Writers - Writing Intensive",
         "course_description": "(same as ENGLSH 3180). A study of writing by women from the Middle Ages to the present.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -356,23 +356,23 @@
         "course_name": "Nonprofit Work and the Pursuit of Social Justice",
         "course_description": "This course provides an overview of the work of nonprofit organizations.  It will be framed in a social justice paradigm and will explore women's role in nonprofit organizations, why women gravitate to nonprofits, and the implications of their work to achieve social justice.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior standing"
     },
     {
         "course_number": "WGST 3260",
         "course_name": "Themes in Gender, Law and Justice",
         "course_description": "Course addresses issues related to gender, law and the justice system in the U.S. and /or globally. Topics may include history of women's rights in the U.S.; contemporary issues in law and justice such as incarceration, human trafficking, and gay marriage; and the ways race, class, sexuality and citizenship shape experiences of justice.  May be repeated for credit with different semester themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior standing"
     },
     {
         "course_number": "WGST 3270",
         "course_name": "Themes in Masculinities",
         "course_description": "Explores how male experiences are shaped by gender expectations and social context, with emphasis on psychosocial challenges and privileges associated with negotiating masculine gender role expectations.  Evaluates the psychological impact of gender, especially in American popular culture, on diverse men and their families. Studies how gender interacts with other aspects of identity, such as race, religion, ethnicity, socioeconomic status, sexual orientation and non-conforming gender identity.  Course may be repeated for credit.  Recommended:  WGST 1120 and sophomore standing,",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -404,8 +404,8 @@
         "course_name": "Themes in Gender and Religion",
         "course_description": "Students acquire a basic knowledge and understanding of gender in religious communities including the construction of women's/men's religious identities, their gender relations, societal roles and status.  Themes may explore how the organizational structures of religion can be a vehicle of oppression and a place for justice and autonomy; may explore the representation and practices of specific religions; or may address the intersections of gender, class, race, geopolitics, and religion.  May be repeated for credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior standing"
     },
     {
         "course_number": "WGST 3430",
@@ -436,7 +436,7 @@
         "course_name": "Themes in Gender and Immigration",
         "course_description": "Explores current controversies in immigration in various locations. The course will cover a number of topics including nationalism and citizenship, national identity, identity and fluidity, social inequality and others. May be repeated for credit with different semester themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -452,8 +452,8 @@
         "course_name": "Themes in Feminism",
         "course_description": "Course may cover historical and contemporary understandings of feminism, feminist movements in the U.S. and globally, and key debates in feminism.  The specific topics will be announced at the time of registration.  May be repeated for credit with different semester themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior standing"
     },
     {
         "course_number": "WGST 3670",
@@ -476,7 +476,7 @@
         "course_name": "Themes in Gender and the Politics of Representation",
         "course_description": "Examines the gendered politics of representation by analyzing film, literature, popular media, and/or other popular cultural texts. May be repeated for credit with different semester themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -540,7 +540,7 @@
         "course_name": "Feminist Research and Criticism",
         "course_description": "(same as SOCIOL 4110) Examination of both feminist critique of traditional social research and recent, feminist-oriented research that attempts to answer these criticisms.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -556,7 +556,7 @@
         "course_name": "Major Women Writers",
         "course_description": "(same as ENGLSH 4180). Study of a limited number (1-3) of significant writers to be read intensively using contemporary feminist critical theory. Repeatable with department's consent maximum of six hours for WGST 4180 and WGST 4480.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -564,15 +564,15 @@
         "course_name": "Themes in Literature by Women",
         "course_description": "(same as ENGLSH 4181 and BL_STU 4181). Examines works by a number of women writers with particular attention to their sociopolitical context. May repeat to six hours with department's consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior standing"
     },
     {
         "course_number": "WGST 4186",
         "course_name": "Major Women Writers, Beginning to 1603",
         "course_description": "(same as ENGLSH 4186). See WGST 4180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -580,7 +580,7 @@
         "course_name": "Major Women Writers, 1603-1789",
         "course_description": "(same as ENGLSH 4187). See WGST 4180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -588,7 +588,7 @@
         "course_name": "Major Women Writers, 1789-1890",
         "course_description": "(same as ENGLSH 4188). See WGST 4180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -596,7 +596,7 @@
         "course_name": "Major Women Writers, 1789-1890 - Writing Intensive",
         "course_description": "(same as ENGLSH 4188). See WGST 4180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -604,7 +604,7 @@
         "course_name": "Major Women Writers, 1890-Present",
         "course_description": "(same as ENGLSH 4189). See WGST 4180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -628,7 +628,7 @@
         "course_name": "Adoption, Child Welfare and the Family, 1850-Present",
         "course_description": "(same as HIST 4310; cross-leveled with WGST 7310, HIST 7310). This interdisciplinary U.S. history course will address topics such as: changing legal and social meaning of adoption since 1850; historical connections between adoption and poverty, family, gender race, sexuality, class, fertility, identity; and more recent issues such as transnational adoption.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -644,7 +644,7 @@
         "course_name": "Anthropology of Gender",
         "course_description": "(same as ANTHRO 4370). The Anthropology of Gender introduces the student to the variation in the relationships between male and females; and between men, women, and other genders from around the world.  The different approaches to understanding and modeling gender are discussed, as are specific case-studies from many different cultures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -668,7 +668,7 @@
         "course_name": "Major African Diaspora Women Writers",
         "course_description": "(same as BL_STU 4480 and ENGLSH 4480). Study of selected Africana Diaspora women writers, focusing on texts originally in English. Repeatable with department's consent.  Maximum of 6 hours for WGST 4180 and WGST 4480.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -676,7 +676,7 @@
         "course_name": "Major African Diaspora Women Writers, 1603 to 1789",
         "course_description": "(same as BL_STU 4487, ENGLSH 4487). See WGST 4480 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -684,7 +684,7 @@
         "course_name": "Major African Diaspora Women Writers, 1789 to 1890",
         "course_description": "(same as BL_STU 4488, ENGLSH 4488). See WGST 4480 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -692,7 +692,7 @@
         "course_name": "Major African Diaspora Women Writers, 1890 to Present",
         "course_description": "(same as BL_STU 4489, ENGLSH 4489). See WGST 4480 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -716,7 +716,7 @@
         "course_name": "Studies in Women and Health",
         "course_description": "A survey of international and domestic women's health issues; considers historical antecedents and specific effects of socio-cultural variables and economic development on women's health in developing and developed nations. May be repeated for credit with different semester themes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -740,7 +740,7 @@
         "course_name": "Women and the Media",
         "course_description": "(same as JOURN 4716; cross-leveled with WGST 7716, JOURN 7716). Focus on portrayal of women in American mass media. Other goals: historical perspective on women as journalists; exposure to issues usually not covered by mass media; research and writing skills.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -764,15 +764,15 @@
         "course_name": "Women's Folklore and Feminist Theory",
         "course_description": "(same as ENGLSH 4780). Examines folklore and artistic expression of women in relations to feminist theory and in multicultural contexts. Includes verbal genres (narrative/song) as well as material genres (quilting/arts).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior standing"
     },
     {
         "course_number": "WGST 4873",
         "course_name": "Women's and Gender Studies Abroad - Behavioral Science",
         "course_description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies curriculum and extend a global perspective to their study and/or career development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -780,7 +780,7 @@
         "course_name": "Women's and Gender Studies Abroad - Social Science",
         "course_description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies curriculum and extend a global perspective to their study and/or career development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -788,7 +788,7 @@
         "course_name": "Women's and Gender Studies Abroad - Humanities",
         "course_description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies  curriculum and extend a global perspective to their study and/or career development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -868,7 +868,7 @@
         "course_name": "Studies in Feminist Thought",
         "course_description": "(same as BL_STU 7020; cross-leveled with WGST 4020). Examines recent problems and critical debates within feminist theory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -876,7 +876,7 @@
         "course_name": "Feminist Research and Criticism",
         "course_description": "(same as SOCIOL 7110).  Examination of both feminist critique of traditional social research and recent, feminist-oriented research that attempts to answer these criticisms.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -900,7 +900,7 @@
         "course_name": "Themes in Literature by Women",
         "course_description": "(same as ENGLSH 7181). Examines works by a number of women writers with particular attention to their sociopolitical context. May repeat to six hours with department's consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -908,7 +908,7 @@
         "course_name": "Major Women Writers, Beginning to 1603",
         "course_description": "(same as ENGLSH 7186). See WGST 7180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -916,7 +916,7 @@
         "course_name": "Major Women Writers, 1603-1789",
         "course_description": "(same as ENGLSH 7187). See WGST 7180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -924,7 +924,7 @@
         "course_name": "Major Women Writers, 1789-1890",
         "course_description": "(same as ENGLSH 7188). See WGST 7180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -932,7 +932,7 @@
         "course_name": "Major Women Writers, 1890-Present",
         "course_description": "(same as ENGLSH 7189). See WGST 7180 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -940,7 +940,7 @@
         "course_name": "Women, Development, and Globalization",
         "course_description": "(same as SOCIOL 7230). Examines the history and structure of \"development\" discourse and practices. Stresses the interconnections and impact on women globally. Reviews women's strategies in defining and instituting programs to improve quality of life in communities.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -948,7 +948,7 @@
         "course_name": "Social Perspectives on Gender and Emotion",
         "course_description": "(same as BL_STU 7235, SOCIOL 7235; cross-leveled with SOCIOL 4235, BL_STU 4235, WGST 4235). Examines theories of affect and emotions, the social contexts and the implications for human development and behavior, with special emphasis on sex, gender, race, class and culture. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -956,7 +956,7 @@
         "course_name": "Adoption, Child Welfare and the Family, 1850-present",
         "course_description": "(same as HIST 7310; cross-leveled with WGST 4310, HIST 4310). This interdisciplinary U.S. history course will address topics such as: changing legal and social meanings of adoption since 1850; historical connections between adoption and poverty, family, gender, race, sexuality, class, fertility, identity; and more recent issues such as transnational adoption.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -964,7 +964,7 @@
         "course_name": "Studies in Gender and the Environment",
         "course_description": "(cross-leveled with WGST 4350). Explores how gendered social relations affect the relationship between human beings, non-human nature, and the environment.  Also examines how historically, the human relationship with nature has been governed by a dualism of culture and nature that enables both an ideology of technical control and the objectification of the environment and people.  Draws from ecological feminism, the environmental justice movement, feminist science studies, materialist feminism, and feminist dystopian fiction.  May be repeated for credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -972,7 +972,7 @@
         "course_name": "Anthropology of Gender",
         "course_description": "(same as ANTHRO 7370)  The Anthropology of Gender Introduces the student to the variation in the relationships between males and females; and between men, women, and other genders from around the world.  The different approaches to understanding and modeling gender are discussed, as are specific case-studies from many different cultures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -980,7 +980,7 @@
         "course_name": "Contemporary Issues in Domestic Violence",
         "course_description": "(same as SOC_WK 7400; cross-leveled with WGST 4400, SOC_WK 4400).  Covers history of the domestic violence movement, intimate partner violence theories and data, legislative and organizational policy issues, and intervention models for practice with individuals who have experienced domestic violence including co-occurring issues such as trauma.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -988,7 +988,7 @@
         "course_name": "Studies in Gender, Culture, and Politics",
         "course_description": "Examines ethical issues, social policies and politics, and cultural practices affecting women in specific national and global contexts.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -996,7 +996,7 @@
         "course_name": "Major African Diaspora Women Writers",
         "course_description": "(same as BL_STU 7480 and ENGLSH 7480). Study of selected African Diaspora women writers, focusing on texts originally in English. Repeatable with department's consent. Maximum of 6 hours for WGST 7180 and WGST 7480.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1004,7 +1004,7 @@
         "course_name": "Major African Diaspora Women Writers, 1603 to 1789",
         "course_description": "(same as BL_STU 7487 and ENGLSH 7487). See WGST 7480 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1012,7 +1012,7 @@
         "course_name": "Major African Diaspora Women Writers, 1789 to 1890",
         "course_description": "(same as BL_STU 7488 and ENGLSH 7488). See WGST 7480 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1020,7 +1020,7 @@
         "course_name": "Major African Diaspora Women Writers, 1890 to Present",
         "course_description": "(same as BL_STU 7489 and ENGLSH 7489). See WGST 7480 for course description.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1028,7 +1028,7 @@
         "course_name": "Gender and Human Rights in Cross Cultural Perspective",
         "course_description": "(same as SOCIOL 7550 and PEA_ST 7550). Focuses on the global discourse on human rights and gender, emphasizing cross-cultural theories.  Course includes the meaning of human rights, western and nonwestern perspectives, feminist contributions, important substantive debates, violations, policymaking and activism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1036,7 +1036,7 @@
         "course_name": "Studies in Women and Health",
         "course_description": "A survey of international and domestic women's health issues; considers historical antecedents and specific effects of socio-cultural variables and economic development on women's health in developing and developed nations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1044,7 +1044,7 @@
         "course_name": "Studies in Gender and Performance",
         "course_description": "Examines the relationships among gender, race, class, and/or sexuality, and performance. Course materials may include theatre performance, visual art, literary texts, theoretical essays, films, and popular culture.  May be repeated for credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1052,7 +1052,7 @@
         "course_name": "European Women in the 20th Century",
         "course_description": "(same as HIST 7660). Examines the history of European women from World War I to the present. The course focuses on wars, migration, and the changing nature of family, work and community.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1068,7 +1068,7 @@
         "course_name": "Women, Religion and Culture",
         "course_description": "(same as REL_ST 7750). An advanced study of the role of women in religion, focusing on the methods of determining the significance of gender in religious life, sacred texts, symbols, rituals and/or beliefs. Traditions studied include Christianity, Islam, contemporary pagan communities, and Native American traditions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1076,7 +1076,7 @@
         "course_name": "Women's Folklore and Feminist Theory",
         "course_description": "(same as ENGLSH 7780). Examines folklore and artistic expression of women in relations to feminist theory and in multicultural contexts. Includes verbal genres (narrative/song) as well as material genres (quilting/arts).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1084,7 +1084,7 @@
         "course_name": "Women's and Gender Studies Abroad - Behavioral Science",
         "course_description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies curriculum and extend a global perspective to their study and/or career development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1092,7 +1092,7 @@
         "course_name": "Women's and Gender Studies Abroad-Social Science",
         "course_description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies curriculum and extend a global perspective to their study and/or career development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1100,7 +1100,7 @@
         "course_name": "Women's and Gender Studies Abroad - Humanities",
         "course_description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies curriculum and extend a global perspective to their study and/or career development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1140,7 +1140,7 @@
         "course_name": "Graduate Feminist Theory",
         "course_description": "This course will explore the texts and contexts of feminist theories including women of color socialist/Marxist feminism, queer theory, postmodern feminism, and feminist postcolonial theory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1148,7 +1148,7 @@
         "course_name": "Seminar: Problems and Issues in Feminist Scholarship",
         "course_description": "This course is a broad based exploration of a range of current feminist scholarship, both multidisciplinary and interdisciplinary. Issues of identity and difference, community and change are explored through the complicating lenses of race and sexuality.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1156,7 +1156,7 @@
         "course_name": "New Directions in Feminist Theory",
         "course_description": "Offers an in-depth exploration of a recent direction in feminist theory. Students will learn a specific feminist approach to scholarship. Theory explored will change based on the semester and professor teaching the course.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1164,7 +1164,7 @@
         "course_name": "Women Writers of the African Diaspora",
         "course_description": "Closely studies the works of women writers in the African Diaspora.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1172,7 +1172,7 @@
         "course_name": "Readings in Feminist and Gender Studies",
         "course_description": "Graduate-level exploration of concentrated readings that address gender, sexuality, and/or feminist theory within a specific disciplinary area.  May be repeated for credit",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1180,7 +1180,7 @@
         "course_name": "Africana Theory and Literature Criticism: Black Feminist/Womanist Thought",
         "course_description": "Modern and contemporary Africana Diaspora criticism and theory including the diverse approaches to literary and cultural studies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1188,7 +1188,7 @@
         "course_name": "Work and Family Seminar",
         "course_description": "(same as H_D_FS 8620).  Interaction of family life and income-producing work with attention to how these interconnections vary by social class, gender, race/ethnicity, and age.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1220,7 +1220,7 @@
         "course_name": "Race, Gender, Ethnicity in Higher Education",
         "course_description": "(same as ED_LPA 9440).  Historical relationships of race, gender, and ethnic issues in United States higher education. Issues include: theory and research of curriculum and teaching, diversity within the academy, and leadership, governance, and policy.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     }
 ]

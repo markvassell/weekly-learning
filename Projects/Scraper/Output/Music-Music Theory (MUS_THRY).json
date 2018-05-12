@@ -4,7 +4,7 @@
         "course_name": "Introduction to Computer Technology and Music",
         "course_description": "Introduces Finale, music engraving and playback software, and introduces sequencing and other software applications that may impact students while they are in school and as professional musicians.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Aural Training and Sight Singing I",
         "course_description": "Development of aural and sight singing skills.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: MUS_THRY 1220",
+        "credit_hours": "2Prerequisites or Corequisites: MUS_THRY 1220",
         "recommendation": "None Listed"
     },
     {
@@ -276,7 +276,7 @@
         "course_name": "Analysis of Musical Styles",
         "course_description": "Analytical study of specific rhythmic, melodic, harmonic, and structural factors which constitute the stylistic practices of a specific period or MUS_THRY 4221 or equivalent. May be repeated for credit with departmental consent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -300,7 +300,7 @@
         "course_name": "Advanced Orchestration II",
         "course_description": "(cross-leveled with MUS_THRY 7268). Survey of original works for orchestra.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -508,7 +508,7 @@
         "course_name": "Advanced Orchestration II",
         "course_description": "(cross-leveled with MUS_THRY 4268). Survey of original works for orchestra.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {

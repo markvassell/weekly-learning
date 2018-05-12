@@ -28,7 +28,7 @@
         "course_name": "Biomedical Terminology",
         "course_description": "Life science etymology (Greek for \"true meaning\", means the study of word dervation) taught by classroom presentation and discussion.  The course organization is based primarily on common themes of Greek and Latin terms along with historical reasons for current usage.  The application of these terms is for all biomedical sciences and life sciences.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Essentials of Animal Handling and Physical Restraint",
         "course_description": "Fundamentals of handling and physical restraint of domestic large and small animals, laboratory animals, and common non-domestic pets.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -52,8 +52,8 @@
         "course_name": "Companion Animals",
         "course_description": "(same as AN_SCI 2140). FCompanion animals form an important part of our society. They serve us, provide companionship and many become members of our families. This class focuses primarily on dogs, cats, and horses. Topics covered include: the pet industry, breeds, wellness, management, care, training, zoonotic diseases, evolution and domestication, toxicology, nutrition, reproduction, genetics, human animal interactions, companion animal enterprise, and biomedical research. Students may enroll in one of two sections: service learning section or traditional course section.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "sophomore standing"
     },
     {
         "course_number": "BIOMED 2210",
@@ -68,7 +68,7 @@
         "course_name": "Animal Sanitation and Disease Prevention",
         "course_description": "Preventative measures for diseases and parasites of farm animals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Domestic Animal Behavior",
         "course_description": "An examination of the effects of domestication on the behavior of companion and food animal species. Comparisons to similar animals in feral or wild conditions will be made. The causes, development and potential treatments of abnormal behavior will also be examined. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Biology of Healthy Living",
         "course_description": "(same as PH_THR 2420 and  NEP 2420). Biology of inactivity as a casual factor in chronic disease.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -156,8 +156,8 @@
         "course_name": "Animal Welfare and Ethics",
         "course_description": "An introductory examination of ethical issues related to animal welfare, including animal use for food, research, and companionship, plus contemporary issues affecting companion animals, farm animals, and horses.  Topics related to animal pain and legal status will also be discussed. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior standing"
     },
     {
         "course_number": "BIOMED 3310",

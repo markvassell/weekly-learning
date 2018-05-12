@@ -4,7 +4,7 @@
         "course_name": "Obstetrics/Gynecology Clerkship",
         "course_description": "Students rotate on the obstetric service, the gynecology service and the gynecologic oncology service, seeing a broad range of patients in both inpatient and outpatient settings. In addition, they attend lectures and interactive case presentations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 8",
+        "credit_hours": "8",
         "recommendation": "None Listed"
     },
     {
@@ -12,7 +12,7 @@
         "course_name": "Rural Obstetrics/Gynecology Clerkship",
         "course_description": "Rural Obstetrics/Gynecology Clerkship",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 8",
+        "credit_hours": "8",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "ABS OB/Gynecology Research",
         "course_description": "ABS OB/Gynecology Research",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "OB/GYN Clinical Reproductive Endocrinology",
         "course_description": "OB/GYN Clinical Reproductive Endocrinology",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "OB/GYN Reproductive Endocronology Research",
         "course_description": "OB/GYN Reproductive Endocronology Research",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Gynecologic Endoscopy - St. Luke's",
         "course_description": "Gynecologic Endoscopy - St. Luke's",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Clinical Reproductive Endocrinology and Infertility - St. Luke's",
         "course_description": "Clinical Reproductive Endocrinology and Infertility - St. Luke's",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -100,7 +100,7 @@
         "course_name": "OB/GYN Ultrasonography - St. Luke's",
         "course_description": "OB/GYN Ultrasonography - St. Luke's",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Maternal-Fetal Medicine and Ultrasound - St. Luke's",
         "course_description": "Maternal-Fetal Medicine and Ultrasound - St. Luke'",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Clinical GYN Oncology/Pathology - St. Luke's",
         "course_description": "Clinical GYN Oncology/Pathology - St. Luke's",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Obstetrics/Gynecology - St. Luke's",
         "course_description": "Obstetrics/Gynecology - St. Luke's",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -132,7 +132,7 @@
         "course_name": "Obstetrics/Gynecology-Moberly Regional",
         "course_description": "Obstetrics/Gynecology-Moberly Regional",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -140,7 +140,7 @@
         "course_name": "Obstetrics/Gynecology Offsite Advanced Elective",
         "course_description": "Obstetrics/Gynecology Offsite Advanced Elective",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -148,7 +148,7 @@
         "course_name": "OB/GYN - Rural",
         "course_description": "OB/GYN - Rural",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -180,7 +180,7 @@
         "course_name": "Obstetrical/Gynecological Outpatient",
         "course_description": "Obstetrical/Gynecological Outpatient",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -220,7 +220,7 @@
         "course_name": "Obstetrics/Gynecology Offsite Advanced Selective",
         "course_description": "Obstetrics/Gynecology Offsite Advanced Selective",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     }
 ]

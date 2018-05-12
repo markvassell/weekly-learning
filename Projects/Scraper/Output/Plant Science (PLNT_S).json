@@ -20,7 +20,7 @@
         "course_name": "World Food and You",
         "course_description": "(same as F_S 1020). Basic scientific principles involved in production agriculture, food processing, marketing and consumption. Evaluation and understanding of current agriculture issues that affect human foods and required nutrients.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Environmental Horticulture",
         "course_description": "Investigate interrelationships between plants and the environment.  Special emphasis placed on improving homeowners' environmental stewardship and their knowledge of sustainable practices.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,15 +60,15 @@
         "course_name": "Introduction to Soils",
         "course_description": "(same as SOIL 2100). Introduction to soil sciences with emphasis placed on physical, biological, and chemical properties and application to land use, plant growth and environmental problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: 3 hrs of Chemistry",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "3 hrs of Chemistry"
     },
     {
         "course_number": "PLNT_S 2110",
         "course_name": "Plants and their Cultivation",
         "course_description": "Principles of plant growth with emphasis on anatomy,  physiology, and response to environmental factors. Production and protection of economically important crop and horticulture species.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Plants for Interior Design",
         "course_description": "Identification, culture and uses of plants adaptable to or capable of becoming acclimated to interior environments.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Grapes and Wines of the World",
         "course_description": "(same as F_S 2195). Explores the world of wine through study of viticultural principles and practices, wine styles, classifying wine, the winemaking process and New World and Old World wine regions. Learn wine tasting skills and experience wines from around the world. World wine consumption, social and physical health benefits of moderate wine consumption.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -132,16 +132,16 @@
         "course_name": "Landscape Graphic Communication",
         "course_description": "Landscape design is a blend of art and science. This course is designed to help students expand their artistic skills, including graphic communications. Topics included to achieve this goal are drawing mediums and techniques, coloring mediums and techniques, symbol usage, and elevation drawings. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: ART_DRAW 1050",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "ART_DRAW 1050"
     },
     {
         "course_number": "PLNT_S 2250",
         "course_name": "Landscape Site Analysis",
         "course_description": "In order to effectively design what a site can become a landscape designer must first be able to accurately see what it is. This course presents a detailed look at obtaining, calculating, and manipulating a site's topography and features while offering a glimpse into the methods and means required for implementation of the final landscape design. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: MATH 1100 or equivalent",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "MATH 1100 or equivalent"
     },
     {
         "course_number": "PLNT_S 2254",
@@ -156,7 +156,7 @@
         "course_name": "Insects in the Environment",
         "course_description": "Ways in which insects are adapted for life in particular environments, basics of morphology, taxonomy; how important insect pests affect food and crop production, and principles of control.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -172,7 +172,7 @@
         "course_name": "Horticultural Drainage and Irrigation Systems",
         "course_description": "This course is designed to provide practical knowledge of drainage and irrigation systems for golf courses, sports fields, lawns, landscapes, greenhouses, nurseries and vineyards. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -276,8 +276,8 @@
         "course_name": "Landscape AutoCAD",
         "course_description": "AutoCAD is the most widely utilized computer aided drafting software program in the professional landscape design industry. This course will teach students how to utilize AutoCAD to transform their landscape design skills into a digital format and investigate the benefits of utilizing technology as a design tool. We will also explore other industry utilized software, and their functionality, with focus on landscape design and presentation. Additional software will include, but not be limited to, AutoDesk Revit; Adobe Photoshop; and Sketchup. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: PLNT_S 2250 and PLNT_S 2254",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "PLNT_S 2250 and PLNT_S 2254"
     },
     {
         "course_number": "PLNT_S 3260",
@@ -324,8 +324,8 @@
         "course_name": "Forest Pathology",
         "course_description": "Provides basic understanding of biotic and abiotic agents which cause forest diseases, and current approaches to disease control.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: 5 hours Biological Sciences or equivalent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "5 hours Biological Sciences or equivalent"
     },
     {
         "course_number": "PLNT_S 3510",
@@ -348,7 +348,7 @@
         "course_name": "Insect Diversity",
         "course_description": "(same as BIO_SC 3715). Laboratory exercises emphasizing external insect anatomy, classification, and identification (to family level).  Preparation of an insect collection is required.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: PLNT_S 3710 (or BIO_SC 3710)",
+        "credit_hours": "2Prerequisites or Corequisites: PLNT_S 3710 (or BIO_SC 3710)",
         "recommendation": "None Listed"
     },
     {
@@ -372,7 +372,7 @@
         "course_name": "Soil Fertility and Plant Nutrition Laboratory",
         "course_description": "(same as SOIL 4314; cross-leveled with PLNT_S 7314, SOIL 7314). The application of elementary analytical procedures to the evaluation of the nutrient status of soils and crop plants.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: SOIL 4313",
+        "credit_hours": "2Prerequisites or Corequisites: SOIL 4313",
         "recommendation": "None Listed"
     },
     {
@@ -428,8 +428,8 @@
         "course_name": "Nursery Crop Production and Management",
         "course_description": "Operations, methods used by wholesale, retail, landscape nurseries. Field problems, observational trips.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: PLNT_S 3230 and PLNT_S 3235",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "PLNT_S 3230 and PLNT_S 3235"
     },
     {
         "course_number": "PLNT_S 4355",
@@ -460,7 +460,7 @@
         "course_name": "Problems in Plant Science",
         "course_description": "Special problem in plant pathology designed for the minor program in Plant Pathology. Problems arranged on an individual student basis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -484,7 +484,7 @@
         "course_name": "Environmental Microbiology",
         "course_description": "Fundamental knowledge of selected microbial processes that are important in agriculture, environmental detoxification, and microbial biotechnology. Emphasis is on molecular, genetic and physiological aspects of nitrogen metabolism, bioconversions, antibiosis and biocontrol.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -644,7 +644,7 @@
         "course_name": "Principles of Viticulture and Winemaking",
         "course_description": "(same as F_S 7345; cross-leveled with PLNT_S 4345, F_S 4345). This course will cover the basics needed by viticulturists and winemakers to understand grape vine growth and vineyard considerations along with winemaking principles. Viticultural topics will include grapevine growth and development, vineyard design and development, cultivar selection, grapevine propagation, training systems, and harvest and pruning. Winemaking topics will include sensory analysis of grapes, chemical, microbiological and technological aspects of winemaking, and the analytical methods used for juice and wine analysis. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -780,7 +780,7 @@
         "course_name": "Professionalism and Ethics",
         "course_description": "Ethical issues in the conduct of scientific research including data integrity, plagiarism, and intellectual property.  Scientific writing, lab management, peer review and other professional skills for the life sciences. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -804,7 +804,7 @@
         "course_name": "Introduction to Plant Metabolism",
         "course_description": "(same as BIO_SC 8362 and BIOCHM 8362). This course is part of a series that aims to provide a solid conceptual foundation in interdisciplinary plant biology for graduate students with a research emphasis in plant biology.  This course examines the basic concepts and techniques used to understand plant metabolism.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -812,7 +812,7 @@
         "course_name": "Introduction to Molecular Cell Biology",
         "course_description": "(same as BIOCHM 8365 and BIO_SC 8365). This course is part of a series that aims to provide a solid conceptual foundation in interdisciplinary plant biology for graduate students with a research emphasis on plant biology.  This course examines the basic concepts and techniques used to understand molecular cell biology.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -844,7 +844,7 @@
         "course_name": "Introduction to Plant Stress Biology",
         "course_description": "(same as BIO_SC 8505) This course is part of a series that aims to provide a solid conceptual foundation to interdisciplinary plant biology for graduate students with a research emphasis in plant biology.  This course examines the basic concepts and techniques used to understand plant stress biology.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -860,7 +860,7 @@
         "course_name": "Ecological and Evolutionary Genomics",
         "course_description": "(same as BIO_SC 8650).  This course is designed to give a background in evolution and then explore an exciting new field:  Ecological and evolutionary genomics.  We will study genes that affect fitness and how whole genomes evolve.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {

@@ -4,16 +4,16 @@
         "course_name": "Introduction to Astronomy",
         "course_description": "Survey of methods of astronomy; description of the solar system, stellar astronomy, structure of the galaxy and the universe. Three hours of lecture and one hour of lab per week (scheduled by the instructor).  Satisfies physical science laboratory requirement.  Laboratory section: Survey of astronomical methods, instruments, observations and measurement techniques.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: MATH 1100 or MATH 1120 or equivalent",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "MATH 1100 or MATH 1120 or equivalent"
     },
     {
         "course_number": "ASTRON 1020",
         "course_name": "Introduction to Laboratory Astronomy",
         "course_description": "Laboratory supplement to Astronomy 1010. Satisfies physical science laboratory requirement. Survey of astronomical methods, instruments, observations and measurement techniques.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: MATH 1100 or MATH 1120",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "MATH 1100 or MATH 1120"
     },
     {
         "course_number": "ASTRON 3010",
@@ -148,7 +148,7 @@
         "course_name": "College Science Teaching",
         "course_description": "(same as PHYSCS 8310, BIO_SC 8724 and LTC 8724). Study of learner characteristics, teaching strategies, and research findings related to teaching science at the post-secondary level.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

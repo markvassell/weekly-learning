@@ -4,7 +4,7 @@
         "course_name": "Introductory Chemistry",
         "course_description": "Introductory course for students with no high school background in chemistry.  Covers fundamental principles of scientific measurement, stoichiometry, solutions, basic atomic structure, gases.  No credit if taken after CHEM 1100.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: MATH 1100 or MATH 1120",
+        "credit_hours": "2Prerequisites or Corequisites: MATH 1100 or MATH 1120",
         "recommendation": "None Listed"
     },
     {
@@ -12,7 +12,7 @@
         "course_name": "Atoms and Molecules with Lab",
         "course_description": "One-semester introduction for non-science majors to the basic concepts and important applications of chemistry. Satisfies A&S requirement for a laboratory science. No credit if taken after CHEM 1310.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,8 +92,8 @@
         "course_name": "Organic Laboratory I",
         "course_description": "Basic lab techniques, functional group manipulations, and short syntheses.  Pre-lab and post-lab writing assignments. 1 hour recitation,  3 hours lab per week.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: Concurrent enrollment in CHEM 2110 or CHEM 2030.  No credit for students who have previous organic laboratory credit",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "Concurrent enrollment in CHEM 2110 or CHEM 2030.  No credit for students who have previous organic laboratory credit"
     },
     {
         "course_number": "CHEM 2140",
@@ -172,7 +172,7 @@
         "course_name": "Physical Chemistry II",
         "course_description": "Continuation of  CHEM 3310. Lecture only. Covers wave mechanics, bonding, molecular spectroscopy and statistical mechanics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -436,7 +436,7 @@
         "course_name": "Physical Organic Chemistry I",
         "course_description": "Bonding theory, physical methods, absorption spectroscopy, conformational analysis, mechanism of reactions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -444,7 +444,7 @@
         "course_name": "Physical Organic Chemistry II",
         "course_description": "Case studies and methods for determining organic reaction mechanisms.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -476,7 +476,7 @@
         "course_name": "Analytical Measurement",
         "course_description": "Fundamental and applied aspects of scientific measurements. Topics include: Statistics, signal-to-noise, frequency analysis, sources of noise, digital and analog filtering, time vs. frequency domain measurements, Fourier transformation, sampling, convolution/deconvolution, autocorrelation and cross-correlation. Directed toward entering graduate students.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -484,7 +484,7 @@
         "course_name": "Separations and Chromatography",
         "course_description": "Classical and instrumental methods of separation: gas, paper, thin film, and column chromatography; ion exchange.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -492,7 +492,7 @@
         "course_name": "Mass Spectrometry",
         "course_description": "This course will cover various aspects of modern mass spectrometry.  Topics will include instrumentation, theory, uses and interfaces to mass spectrometry.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -500,7 +500,7 @@
         "course_name": "Analytical Spectroscopy",
         "course_description": "Selected topics dealing with recent advances in analytical chemistry.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -508,7 +508,7 @@
         "course_name": "Surface Analysis and Characterization",
         "course_description": "Covers various aspects of modern methods of surface analysis and characterization.  Topics include instrumentation, theory, and data reduction methods.  Major sections include electron spectroscopy, microscopy, and vibrational spectroscopy as applied to surfaces.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -516,7 +516,7 @@
         "course_name": "Fluorescence Spectroscopy",
         "course_description": "Advanced analytical chemistry course that explores the fundamental principles and uses of modern fluorescence spectroscopy in biology, materials science, chemistry, physics and engineering.  Special emphasis is placed on the methodologies used to obtain specific information about a particular chemical system.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -524,7 +524,7 @@
         "course_name": "Advanced Analytical Chemistry",
         "course_description": "Continuation of CHEM 8250.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -532,7 +532,7 @@
         "course_name": "Bioanalytical Chemistry",
         "course_description": "This course is aimed at introducing students to the instrumental and theoretical principles by which biological molecules are measured in vivo and in vitro.  The course explores how protein, DNA and metabolite structures and quantities are determined in the laboratory with an emphasis on understanding historical methods up through cutting edge approaches in each field.   The theory of measurement techniques, separation techniques and related instrumentation are explored in the context of understanding the chemical equilibria that govern each instance.   Students will leave this course with a broad understanding for how many biological molecules are measured and what the limitations of various techniques may be.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -540,7 +540,7 @@
         "course_name": "Nanochemistry",
         "course_description": "Covers various aspects of nanochemistry.  Topics include synthesis and characterization of nonmaterial, nanotoxicity, and catalysis.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -548,7 +548,7 @@
         "course_name": "Advanced Physical Chemistry",
         "course_description": "Advanced Physical Chemistry",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -596,7 +596,7 @@
         "course_name": "Inorganic Mechanisms",
         "course_description": "Experimental stoichiometry and rate law determination. Isotopic applications. Methods and results of fast reaction studies. Basic known inorganic mechanisms. Experimental methods of establishing mechanisms of reaction.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -604,7 +604,7 @@
         "course_name": "Chemistry of the Main Group Elements",
         "course_description": "Descriptive inorganic chemistry of the main group elements. Textbook material extensively supplemented with information from the current chemical literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -628,7 +628,7 @@
         "course_name": "Inorganic Structural Methods",
         "course_description": "Chemical bonding, application of group theory, spectroscopy; diffraction as applied to structure determination; structural implications of dipole moment and magnetic susceptibility measurements.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -636,7 +636,7 @@
         "course_name": "Organometallics",
         "course_description": "Condensations effected by organometallics; dissolving metal reductions; sandwich compounds and related organotransition metal derivatives.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -644,7 +644,7 @@
         "course_name": "Solid State Chemistry",
         "course_description": "An introduction to the unique aspects of extended solids.  Crystal symmetry, group theory and their applications to crystallography.  Bonding and electronic structure theories of metals and semiconductors.  Cooperative magnetism and superconductivity.  Defects and ionic conductivity.  Preparative methods in solid state chemistry.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -652,7 +652,7 @@
         "course_name": "Actinide Chemistry",
         "course_description": "The course covers the inorganic and organometallic chemistry of the actinides.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -660,7 +660,7 @@
         "course_name": "Chemistry of Nanomaterials",
         "course_description": "This course will cover several aspects of nanomaterials including synthesis and processing of small particles, as well as their characterization by crystallography, scanning tunneling microscopy magnetism, and other optical properties.  Also studied will be the application of quantum confinement to the electronic and optical properties of nanomaterials and the development of photonic materials.  The nanostructure of organic polymers, micelles, and the process of biomineralization to make organic-inorganic hybrid materials will also be discussed.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -668,7 +668,7 @@
         "course_name": "Radiochemistry and Detection with Lab",
         "course_description": "An introductory course in the applications of radionuclides in chemistry. Topics include radioactive decay, interactions of radiation with matter, radioactive tracers, and nuclear methods of analysis. Directed towards entering graduate students.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -700,7 +700,7 @@
         "course_name": "Biological Radiochemistry",
         "course_description": "Covers the interaction of radiation on biological material  The effects of radiation overdose is discussed along with the use of radiation in therapy.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

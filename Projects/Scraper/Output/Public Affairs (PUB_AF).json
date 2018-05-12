@@ -4,7 +4,7 @@
         "course_name": "Topics in Public Affairs",
         "course_description": "Selected topics in public affairs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -12,7 +12,7 @@
         "course_name": "Social Entrepreneurship",
         "course_description": "(cross-leveled with PUB_AF 7700). This course will help illustrate social entrepreneurship in a broad sense and understand how it differs from entrepreneurship as understood in the private sector, social innovation and social enterprise. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Scientific and Technological Aspects Terrorism and Counter Terrorism",
         "course_description": "(same as NU_ENG 7330). Terrorism has been a familiar tool of political conflict, and it has assumed greater importance during the past twenty years. This subject has been treated by political scientists in various forms, but the scientific and technological aspects of different forms of terrorism cannot be found in a single place. It is important for persons who propose counter measures to understand the basics of different types of terrorism such as for instance the nature of chemical agents, their properties such as toxicity, etc. in order to build better defense systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Social Entrepreneurship",
         "course_description": "(cross-leveled with PUB_AF 4700). This course will help illustrate social entrepreneurship in a broad sense and understand how it differs from entrepreneurship as understood in the private sector, social innovation and social enterprise. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Collaborative Governance",
         "course_description": "Political, economic, and social context of government and public service; examines theories and models of collaborative governance and implications for policy-making, public management, and public service delivery. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Organizational Dynamics and Leadership",
         "course_description": "Focuses on understanding human action in administrative situations and on developing personal capacities for effective action in varied and difficult organizational situations. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Public Policy Processes and Strategies",
         "course_description": "Processes through which public demands are generated, converted into public policy, and implemented.  Examines the intersection of politics, policy, and management as well as the diverse strategies and tools of public action.  Graded on A-F basis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -100,7 +100,7 @@
         "course_name": "Environmental Policy",
         "course_description": "This course is an introduction to U.S. environmental policy, focusing on important political institutions and political actors.  The course provides a survey of the primary laws, regulations, and policies that comprise pollution control and natural resource management policy.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Health Policy",
         "course_description": "(same as P_HLTH 8300). This seminar will examine the health care system in the United States, including government funded programs, regulation of costs, and policies promoting health behaviors.  the course will examine historical development, recent trends, and methods of health policy analysis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Education Governance, Finance and Policy",
         "course_description": "The course centers on public policy processes as applied to governance, finance and policy in public education.  The administrative, political and economic dimensions of policy reform are emphasized.  A special focus is placed on developing tools for analyzing and critiquing policy rational, design and implementation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Social Policy",
         "course_description": "This seminar will examine the nature and extent of poverty in the U.S., its causes and consequences, and the antipoverty effects of existing and proposed government programs and policies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -132,7 +132,7 @@
         "course_name": "Early Childhood Policy",
         "course_description": "This course provides an understanding of early childhood development issues and their impact on policy formation. Will study different family situations in the US and other countries (e.g. maternal employment and job policies, divorce, child abuse and neglect) that may be a concern for child policy makers and analysis.  In addition we are going to examine the effects of different early childhood programs in the US and other countries around the world.  Also, US federal regulations that have an impact on child policy, such as the National Health Policy and Welfare reform will be examined.  Will use both qualitative and quantitative criteria to analyze these policies.  This course is applied in focus, so by the and of the semester students should be able to understand policy analysis and the trade-offs of implementing policy choices, as well as being able to develop analytical skills for early childhood and family policies in their work.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -140,8 +140,8 @@
         "course_name": "Energy Economics",
         "course_description": "The course examines economic theory and empirical analyses of global energy supply and demand. It examines the role of non-renewable and renewable energy in the economy and trends in energy production and consumption. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Principles of Economics, Instructor's permission",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Principles of Economics, Instructor's permission"
     },
     {
         "course_number": "PUB_AF 8178",
@@ -156,7 +156,7 @@
         "course_name": "Research Methods and Inquiry in Public Affairs I",
         "course_description": "Introduction to research methods for graduate students in public affairs.  Topics include measurement, quantitative description, problem definition, the policy research process, and basic analytical tools commonly applied in public affairs. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -180,7 +180,7 @@
         "course_name": "Economic Analysis for Public Affairs",
         "course_description": "Application of tools of economic analysis to understand and interpret the behavior of government, consumers and producers. Sources of economic inefficiency, including market failures and limitations, and policy solutions. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -196,7 +196,7 @@
         "course_name": "Public Service and Democracy",
         "course_description": "This course examines some of the challenges of public service in a liberal democracy. It addresses basic questions about the design of institutions through which public power is exercised and about the ethical and administrative obligations of people who work within those institutions. The aim of the course is to provide students with tools for thinking about such questions, and practice addressing them.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -204,7 +204,7 @@
         "course_name": "MPA Capstone (Applied Project)",
         "course_description": "Application of concepts and methods of public affairs to actual policy or management problems.  Diagnosis of problem or decision situation, collection of relevant data, development of alternative solutions, recommendations of proposed course of action.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -212,7 +212,7 @@
         "course_name": "Public Affairs Internship",
         "course_description": "Gives students an opportunity to gain experience in government operations by providing supervised work with an agency at the local, state, or federal level of government or in nonprofit agencies. Graded on A-F basis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -228,7 +228,7 @@
         "course_name": "E-Democracy in Theory and Practice",
         "course_description": "Examines the theory and practice of electronic democracy. Uses case studies to assess how information and communication technology affects public involvement in public decisions. Major topics include the methods and tools used in current e-democracy projects as well as the philosophical political, practical and institutional issues faced. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -236,7 +236,7 @@
         "course_name": "Spatial Analysis for Public Affairs",
         "course_description": "Examines theoretical and empirical issues related to the spatial analysis of economic activity and local public issues. Major topics include the role of the public sector, the economics of public services, social accounting matrices, input-output analysis, econometric models of regional economies, and geographic information systems. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -244,7 +244,7 @@
         "course_name": "Informatics and Governance",
         "course_description": "Provides students with a non-technical introduction to the design, implementation and management of information systems for local and regional governance. Surveys key issues for information professionals, including policy planning, design, procurement, staffing, applications and public access and participation. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -252,7 +252,7 @@
         "course_name": "Regional and Economic Development Policy",
         "course_description": "Presents an overview of historical perspectives and current practice in regional development policy.  Explores various rationales for regional collaboration.  Topics include global and political context of development policy, theories of regional growth and development, regional governance, distribution of benefits and sustainable development.  Graded on A-F basis only",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -292,7 +292,7 @@
         "course_name": "Public Budgeting and Taxation",
         "course_description": "Intensive study of the institutions, processes, politics, and social and economic impact of public taxation and expenditures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -300,7 +300,7 @@
         "course_name": "Human Resources Management and Development in Public and Nonprofit Sector",
         "course_description": "Examines the political, economic, and legal context of the personnel function, as well as the technical aspects of the personnel administrator's job. Stresses the dynamics of bureaucratic organizations. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -308,7 +308,7 @@
         "course_name": "Strategic Management of Public Service Organizations",
         "course_description": "Presents the rationale for strategic planning, and techniques and processes to develop and implement strategic planning in the public sector. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -316,7 +316,7 @@
         "course_name": "Local Government Management",
         "course_description": "Organization and division of service responsibility within local governments. Problems of managing delivery of services with special emphasis upon program implementation, productivity, planning, responsiveness. Graded on A-F basis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Group Dynamics and Conflict Resolution",
         "course_description": "Focuses on the study of group psychology in the context of communities and organizations. It provides a specific examination of the emergence and resolution of conflict. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -332,7 +332,7 @@
         "course_name": "Organizational Analysis and Change",
         "course_description": "Investigates processes and methodologies of organizational diagnosis, intervention strategies, and the role of a change agent. Graded on A-F basis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -340,7 +340,7 @@
         "course_name": "Organizational Change in a Community and Global Context",
         "course_description": "Examines changing organizations in their task environments, which include communities and the global economy. The phenomenon of ambiguous boundaries between public and private as well as nonprofit sectors will be investigated as these profound changes impact organizational behavior. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -348,7 +348,7 @@
         "course_name": "The Nonprofit and Voluntary Sector",
         "course_description": "Provides an overview of the history, function, size, scope, development, and management of the nonprofit sector. Historical, political, economic, and social perspectives are used to examine the meaning of voluntarism, charity, philanthropy, and the nonprofit sector. Graded on A-F basis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -356,7 +356,7 @@
         "course_name": "Budgeting and Financial Management in the Nonprofit Sector",
         "course_description": "Nature and environment of public and nonprofit financial administration. Principles of accountability for management of public and nonprofit funds; management and investment of cash balances; special problems related to long- and short-term debt. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -364,7 +364,7 @@
         "course_name": "Grant Writing I",
         "course_description": "Provides students with knowledge regarding the process of seeking grant funding.  Students will work in small groups to complete a letter proposal.  They will experience the peer review process both as applicant and reviewer.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -396,7 +396,7 @@
         "course_name": "Policies and Institutions of the European Union",
         "course_description": "Policies and Institutions of the European Union",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -412,7 +412,7 @@
         "course_name": "Administrative Law",
         "course_description": "(same as LAW 5310). Principles, factors and statutory provisions which govern availability of relief (both judicial and administrative) to persons or entities aggrieved by the actions or inactions of governmental officials or agencies. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

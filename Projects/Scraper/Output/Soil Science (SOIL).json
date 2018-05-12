@@ -4,15 +4,15 @@
         "course_name": "Introduction to Soils",
         "course_description": "(same as PLNT_S 2100). Introduction to soil sciences with emphasis placed on physical, biological, and chemical properties and application to land use, plant growth and environmental problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: 3 hours of Chemistry",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "3 hours of Chemistry"
     },
     {
         "course_number": "SOIL 2106",
         "course_name": "Soil Science Laboratory",
         "course_description": "Laboratory application of fundamental soil science concepts.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Corequisites: SOIL 2100",
+        "credit_hours": "2Corequisites: SOIL 2100",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Environmental Soil Physics Laboratory",
         "course_description": "(same as ENV_SC 4306). Introduction to the methodology and equipment for measurement of soil physical properties and processes.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: SOIL 4305",
+        "credit_hours": "2Prerequisites or Corequisites: SOIL 4305",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Soil Fertility and Plant Nutrition Laboratory",
         "course_description": "(same as PLNT_S 4314). The application of elementary analytical procedures to the evaluation of the nutrient status of soils and crop plants.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: SOIL 4313",
+        "credit_hours": "2Prerequisites or Corequisites: SOIL 4313",
         "recommendation": "None Listed"
     },
     {
@@ -124,8 +124,8 @@
         "course_name": "Genesis of Soil Landscapes",
         "course_description": "The co-evolution of soil landscapes. The role of water in the accumulation of parent materials and development of soil horizons. Factors and processes of soil genesis. Distribution of soil in their natural settings.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: introductory soil science or introductory geology course",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "introductory soil science or introductory geology course"
     },
     {
         "course_number": "SOIL 4360",
@@ -180,7 +180,7 @@
         "course_name": "Environmental Soil Physics Laboratory",
         "course_description": "(same as ENV_SC 7306).  Introduction to the methodology and equipment for measurement of soil physical properties and properties and processes.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: SOIL 4305",
+        "credit_hours": "2Prerequisites or Corequisites: SOIL 4305",
         "recommendation": "None Listed"
     },
     {
@@ -212,7 +212,7 @@
         "course_name": "Soil Fertility and Plant Nutrition Laboratory",
         "course_description": "(same as PLNT_S 7314). The application of elementary analytical procedures to the evaluation of the nutrient status of soils and crop plants.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 2Prerequisites or Corequisites: SOIL 7313",
+        "credit_hours": "2Prerequisites or Corequisites: SOIL 7313",
         "recommendation": "None Listed"
     },
     {

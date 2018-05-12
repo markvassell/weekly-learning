@@ -12,7 +12,7 @@
         "course_name": "Toxins, The Good, The Bad, and the Beautiful",
         "course_description": "In this course, the students will explore toxins. We will discuss how toxins are formed, the \"value\" of the toxin to the organism that makes it, how the toxin is delivered, the effect of the toxin on the target animal and on humans. In addition, we will discuss how toxins have led to new therapies and drugs. We will also analyze some famous cases of apparent toxin poisoning. In all cases, the students will be urged to critically evaluate the data and the theories and encouraged to think of novel uses of toxins and of experiments that would provide important new information about the toxins and their effects.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Toxins, The Good, The Bad, and the Beautiful - Writing Intensive",
         "course_description": "In this course, the students will explore toxins. We will discuss how toxins are formed, the \"value\" of the toxin to the organism that makes it, how the toxin is delivered, the effect of the toxin on the target animal and on humans. In addition, we will discuss how toxins have led to new therapies and drugs. We will also analyze some famous cases of apparent toxin poisoning. In all cases, the students will be urged to critically evaluate the data and the theories and encouraged to think of novel uses of toxins and of experiments that would provide important new information about the toxins and their effects.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Bodily Fluids and Functions",
         "course_description": "In this course, the students will study body fluids. We will learn about how the fluids are formed and the functions of the fluids. We will also critically evaluation some theories about the formation and function of the fluids.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Bodily Fluids and Functions - Writing Intensive",
         "course_description": "In this course, the students will study body fluids. We will learn about how the fluids are formed and the functions of the fluids. We will also critically evaluation some theories about the formation and function of the fluids.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Fundamentals of Human Physiology",
         "course_description": "This course presents the basic concepts of physiology using a problem based approach.  The major organs systems are discussed with the relevance to everyday physiology as well as clinical and animal applications discussed.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Human Physiology Laboratory",
         "course_description": "This lab course will involve experiments to illustrate basic physiology concepts.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -76,8 +76,8 @@
         "course_name": "Introduction to Human Physiology",
         "course_description": "This is an online course that will introduce students to basic concepts in human physiology, with a focus on the integrated function of organ system in homeostasis/human health. The final section of the course will expose students to important issues in exercise physiology, specifically the impact of exercise on cardiovascular and metabolic functions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Cell Biology, Biochemistry",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Cell Biology, Biochemistry"
     },
     {
         "course_number": "MPP 4001",
@@ -116,16 +116,16 @@
         "course_name": "Medical Pharmacology",
         "course_description": "(cross-leveled with MPP 7424). Medical pharmacology teaches the science of drug actions in medicine today, and principles of pharmaco kinetics/dynamics.  Future health professionals will learn prescription judgment and quality/cost improvements for patient safety.  An online laboratory will teach drug database information technology.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 5Prerequisites or Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other collegesRecommended: nutrition or biochemistry courses are recommended but not required",
-        "recommendation": "None Listed"
+        "credit_hours": "5Prerequisites or Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other colleges",
+        "recommendation": "nutrition or biochemistry courses are recommended but not required"
     },
     {
         "course_number": "MPP 4204H",
         "course_name": "Medical Pharmacology-Honors",
         "course_description": "Medical pharmacology teaches the science of drug actions in medicine today, and principles of pharmaco kinetics/dynmics.  Future health professionals will learn prescription judgment and quality/cost improvements for patient safety.  An online laboratory will teach drug database information technology.  Prerequisties or",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other colleges; Honors eligibility requiredRecommended: nutrition or biochemistry courses are recommended but not required",
-        "recommendation": "None Listed"
+        "credit_hours": "5Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other colleges; Honors eligibility required",
+        "recommendation": "nutrition or biochemistry courses are recommended but not required"
     },
     {
         "course_number": "MPP 4310",
@@ -148,7 +148,7 @@
         "course_name": "Pharmacology",
         "course_description": "Pharmacology",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -188,8 +188,8 @@
         "course_name": "Pharmacology and Translational Medicine",
         "course_description": "(cross-leveled with MPP 4204). Pharmacology teaches the science of drug actions in medicine today and principles of pharmaco kinetics/dynamics.  Future medical researchers will learn molecular probes for medical research and translational science to improve health care.  An online laboratory will teach drug database information technology.  Graded on A-F basis only.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 5Prerequisites or Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other collegesRecommended: nutrition or biochemistry courses are recommended but not required",
-        "recommendation": "None Listed"
+        "credit_hours": "5Prerequisites or Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other colleges",
+        "recommendation": "nutrition or biochemistry courses are recommended but not required"
     },
     {
         "course_number": "MPP 7717",
@@ -220,8 +220,8 @@
         "course_name": "Regulatory Issues in Clinical Research and Clinical Trials",
         "course_description": "The goal of the course is to highlight key FDA regulatory issues for conducting human clinical trials and clinical research. For clinical trials, FDA has set up several compliance programs and guidance documents as a part of human subject protection (HSP)/ Bioresearch Monitoring (BIMO) initiatives. The aim of the program was to strengthen FDA oversight and protection of subjects in clinical trials and to preserve confidentiality of data. The HSP/BIMO initiative comprehends all FDA regulated clinical trials including human drugs and biological drug products, devices, foods, and veterinary medicine. The course is designed for students in medical professions, management, biomedical engineering, and related areas. Adequate knowledge regarding FDA guidance in conducting human clinical trials and clinical research will help professionals steer drug/device development and commercialization in their respective field. This course will be offered online only. An introduction to essential disciplines for conducting clinical trials and clinical research will be provided. The basics of good clinical practices (GCPs), biostatistics and clinical epidemiology in relation to clinical trials will be presented. Several relevant case studies for conducting clinical trials, both nationally and internationally, will be discussed. The importance of data collection and data management while conducting clinical trials will be explained. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Knowledge in biomedical sciences, clinical sciences",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Knowledge in biomedical sciences, clinical sciences"
     },
     {
         "course_number": "MPP 8050",
@@ -292,7 +292,7 @@
         "course_name": "Skills in Biomedical Research",
         "course_description": "This course focuses on introducing graduate students to the basics of biomedical research. Course objectives are to provide new graduate students with a basic understanding of laboratory safety issues and fundamental skills that are integral to research including principles of experimental design, theory and practical application of modern research techniques, written and oral communication of research information, and scientific record keeping standards. Graded on S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {

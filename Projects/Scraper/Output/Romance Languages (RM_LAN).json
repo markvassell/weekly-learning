@@ -12,8 +12,8 @@
         "course_name": "Introduction to Catalan Language and Culture",
         "course_description": "This is an introductory course to Catalan language and culture. Previous knowledge of another Romance language might be beneficial. Students will learn basic Catalan expressions, vocabulary and grammatical structures. Furthermore, students will begin to familiarize themselves with elements of Catalan culture.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Some knowledge of a Romance language desirable",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Some knowledge of a Romance language desirable"
     },
     {
         "course_number": "RM_LAN 2310",
@@ -76,7 +76,7 @@
         "course_name": "Literature of the African Diaspora",
         "course_description": "A study, in English translation, of writings by authors of African descent in the Americas.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -100,7 +100,7 @@
         "course_name": "Seminar in Literature and Languages of the African Diaspora",
         "course_description": "One of two courses devoted to the theory and practice of African diaspora literary criticism. Beginning with the United States, we address the issues of developing appropriate theoretical models for black literatures in the Americas.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     }
 ]

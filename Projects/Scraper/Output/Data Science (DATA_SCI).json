@@ -4,16 +4,16 @@
         "course_name": "Introduction to Data Science and Analytics",
         "course_description": "An introductory course in data science and analytics. The objective of the course is to give students a broad overview of the various aspects of data analytics such as accessing, cleansing, modeling, visualizing, and interpreting data. Students will perform hands-on learning of data analytic topics, using technologies such as Python, R, and open source analytic tools. Two Big Data cyberinfrastructure platforms will be introduced through case studies, allowing students to perform data analytical learning modules on modern cloud infrastructure and other relevant technologies. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Basic programming experience and Basic database experience",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Basic programming experience and Basic database experience"
     },
     {
         "course_number": "DATA_SCI 7601",
         "course_name": "Introduction to Data Science",
         "course_description": "This course is an introduction to the NGA Program of Study in Data Science (PSDS), the concentration areas, and the role of each concentration area in data science. Participants will learn how to receive, if desired, an accredited Graduate Certificate and/or a Master of Science degree in Data Science and Analytics from the University of Missouri. Participants will receive an introduction to software, tools, and resources to be utilized throughout the program. Participants will learn of systematic methodologies for data science projects and the data science pipeline through review of case studies. Graded on S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: Enrollment in NGA Training Program or instructor consent",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "Enrollment in NGA Training Program or instructor consent"
     },
     {
         "course_number": "DATA_SCI 7610",
@@ -36,8 +36,8 @@
         "course_name": "Introductory Probability and Statistics for Data Analytics",
         "course_description": "This course explores the use of inferential and predictive statistics for data modeling and analytics. Single­-variate and multivariate statistical concepts are discussed, as well as intermediate exposure to statistical modeling. Students learn to evaluate model effectiveness and conduct results ­driven model selection. Statistical and modeling techniques focus on high­ dimensional data analytics. Topics related to dimensionality reduction are also covered, such as principal component analysis and factor analysis. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: Enrollment in NGA Training Program or instructor consent",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "Enrollment in NGA Training Program or instructor consent"
     },
     {
         "course_number": "DATA_SCI 7640",
@@ -52,32 +52,32 @@
         "course_name": "Statistical and Mathematical Foundations for Data Analytics",
         "course_description": "An intermediate statistics class designed to build the mathematical foundation for students dealing with Big Data phenomena. Topics include discussions of probability, data sampling, data summarization, sampling distributions, statistical inference, statistical pattern analysis, hypothesis testing, regression, and nonparametric inference over multidimensional data collections. Students will engage in Big Data projects using various publicly available data sets and leveraging modern Data Science tools, techniques, and cyberinfrastructure. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Basic understanding of mathematical principles of vectors and matrices, and Basic course in probability and statistics",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Basic understanding of mathematical principles of vectors and matrices, and Basic course in probability and statistics"
     },
     {
         "course_number": "DATA_SCI 8612",
         "course_name": "Spatial and Geostatistical Analysis",
         "course_description": "This course will provide a practical overview of key issues encountered when working with and analyzing spatial data as well as an overview of major spatial analysis approaches. Discussions and laboratory work will focus on implementation, analysis, and interpretive issues given constraining factors that commonly arise in practice. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Enrollment in NGA Training Program or instructor consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Enrollment in NGA Training Program or instructor consent"
     },
     {
         "course_number": "DATA_SCI 8614",
         "course_name": "Data Analytics from Applied Machine Learning",
         "course_description": "This course leverages the foundations in statistics and modeling to teach applied concepts in machine learning. Participants will learn various classes of machine learning and modeling techniques, and gain an in-depth understanding how to select appropriate techniques for various data science tasks. Topics cover a spectrum from simple Bayesian modeling to more advanced algorithms such as support vector machines, decision trees/forests, and neural networks. Students learn to incorporate machine learning workflows into data-intensive analytical processes. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Enrollment in NGA Training Program or instructor consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Enrollment in NGA Training Program or instructor consent"
     },
     {
         "course_number": "DATA_SCI 8620",
         "course_name": "Database and Analytics",
         "course_description": "Covers the Fundamental concepts of current database systems and query methods with emphasis on relational model and non-relational techniques in Big Data environments. Topics include entity-relationship model, relational algebra, indexing, query optimization, normal forms, tuning, security, NoSQL, and data analytics skills in both relational and non-relational environments. Project work involves modern relational DBMS systems and NoSQL environments. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Basic understanding of mathematical principles of vectors and matrices, and Basic course in probability and statistics",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Basic understanding of mathematical principles of vectors and matrices, and Basic course in probability and statistics"
     },
     {
         "course_number": "DATA_SCI 8630",
@@ -92,8 +92,8 @@
         "course_name": "Cloud Computing for Data Analytics",
         "course_description": "This course introduces students to cluster and cloud computing big data ecosystems. Topics include a survey of cloud computing platforms, architectures, and use-cases. Students will examine scaling data science techniques and algorithms using a variety of cluster and cloud paradigms, such as those built atop Hadoop (Map-Reduce) concepts, and others. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Enrollment in NGA Training Program or instructor consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Enrollment in NGA Training Program or instructor consent"
     },
     {
         "course_number": "DATA_SCI 8640",
@@ -116,16 +116,16 @@
         "course_name": "Advanced Visualization and Communication I",
         "course_description": "Covers the Fundamental concepts of current visualization concepts and technologies, adding in Infographic and Interactive Visualization Design. Unlike many data visualization courses, this one focuses on principles of visualization design and the grammar of graphics as they can be applied to combining art and technology to tell data stories. These principles are then implemented in popular contemporary visualization technologies. Students will develop an advanced knowledge of the appropriate selection, modeling, and evaluation of data visualizations. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Enrollment in NGA Training Program or instructor consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Enrollment in NGA Training Program or instructor consent"
     },
     {
         "course_number": "DATA_SCI 8656",
         "course_name": "Advanced Visualization and Communication II",
         "course_description": "Covers the Fundamental concepts of current visualization concepts and technologies, adding in Infographic and Interactive Visualization Design. Unlike many data visualization courses, this one focuses on principles of visualization design and the grammar of graphics as they can be applied to combining art & technology to tell data stories. These principles are then implemented in popular contemporary visualization technologies. Students will develop an advanced knowledge of the appropriate selection, modeling, and evaluation of data visualizations. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Enrollment in NGA Training Program or instructor consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Enrollment in NGA Training Program or instructor consent"
     },
     {
         "course_number": "DATA_SCI 8660",

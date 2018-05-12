@@ -44,7 +44,7 @@
         "course_name": "Learning Strategies for College Students",
         "course_description": "Students' learning strategies are assessed, and their needs are given greatest emphasis. Learning through reading and listening are given major consideration as are the corollary skills of vocabulary expansion, studying and note taking.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "First Aid",
         "course_description": "Study of the theory and practice of first aid procedures. Certification available.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -100,7 +100,7 @@
         "course_name": "Scuba Theory",
         "course_description": "The curriculum of the class includes bio-physics, hydrostatic pressures, physiology, fundamentals of compressed gases, environmental conditions, mechanics, first aid as it relates to diving, and planning speciality dives such as decompression, night, cave, ice, salvage and wreck diving.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Inquiring into Schools, Community and Society I",
         "course_description": "This course focuses on schooling in American society, the school community, the school culture and students' lives and identities. Studied are the political, cultural, and economic conditions of the schools.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "School Health and Student Wellbeing",
         "course_description": "This course will explore and analyze the critical role schools and teachers play to address students' physical, social, and emotional wellbeing. Research indicates that a healthy school environment can improve both academic and social outcomes. Focus areas include school safety, nutrition policy and health education.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -228,24 +228,24 @@
         "course_name": "Emergent and Developing Literacy Early Childhood Field Experience",
         "course_description": "This field experience supports the LTC 4120 component of Phase II. Field experience expectations are delineated in the LTC 4120 course syllabi. Graded on a S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: LTC 4120 and LTC 4210Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3Corequisites: LTC 4120 and LTC 4210",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4130",
         "course_name": "Teaching and Learning Math, Science and Social Studies w/ Young Children",
         "course_description": "(cross-leveled with LTC 7130). Strategies for assessing and supporting young children's math, science and social studies learning. Includes strategies for home-school collaboration. Must take concurrently with K-3 field experience.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 9Corequisites: LTC 4134Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "9Corequisites: LTC 4134",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4134",
         "course_name": "Teaching & Learning Math, Sci & Soc Studies w/Young Children Field Experience",
         "course_description": "This field experience supports the LTC 4130 component of Phase II. Field experience expectations are delineated in the LTC 4130 course syllabi. Graded on a S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: LTC 4130Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3Corequisites: LTC 4130",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4140",
@@ -276,8 +276,8 @@
         "course_name": "Motor Development in Young Children",
         "course_description": "For Early Childhood majors. Study of young children's motor development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: Admission to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "Admission to Phase II"
     },
     {
         "course_number": "LTC 4170",
@@ -300,104 +300,104 @@
         "course_name": "Young Children's Emergent Language",
         "course_description": "For Early Childhood and Elementary Education majors. Study of young children's language development and implications for teachers.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Corequisites: LTC 4120, LTC 4124, and LTC 4210Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "2Corequisites: LTC 4120, LTC 4124, and LTC 4210",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4210",
         "course_name": "Children's Language and Literature",
         "course_description": "(cross-leveled with LTC 7210). For Early Childhood Education majors. Examines children's oral language development and surveys the field of children's literature for children ages birth to eight.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: LTC 4120 and LTC 4124Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3Corequisites: LTC 4120 and LTC 4124",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4211",
         "course_name": "Literacy Assessment and Development",
         "course_description": "Focus is on the development, assessment, and instruction of reading and writing motivations, skills, and strategies of diverse learners with emphasis on data interpretation and instruction.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4220",
         "course_name": "Emergent Literacy",
         "course_description": "Emergent reading. Instructional methods, diagnostic procedures, and materials appropriate for learners in elementary grades 1-3.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4221",
         "course_name": "Contexts and Methods for Elementary Reading Instruction",
         "course_description": "Students will closely explore the different contexts, methods, and materials for reading instruction in diverse settings. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4231",
         "course_name": "Contexts and Methods for Writing Instruction",
         "course_description": "This course explores contexts and methods for writing instruction, with a focus on writing development, writing across the content, and multimodel and multilingual composition. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4231W",
         "course_name": "Contexts and Methods for Writing Instruction - Writing Intensive",
         "course_description": "This course explores contexts and methods for writing instruction, with a focus on writing development, writing across the content, and multimodel and multilingual composition. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4240",
         "course_name": "Art for Children",
         "course_description": "This course focuses on appropriate teaching methods and strategies for teaching art (studio, art history, aesthetic, and criticism), artistic development of children, and curriculum, instructional, and organization strategies for the art classroom.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4241",
         "course_name": "Diverse Literature for Children and Youth",
         "course_description": "Reading and discussion of diverse literature within a wide variety of genres will allow students to explore issues of diversity as related to elementary instruction. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4241W",
         "course_name": "Diverse Literature for Children and Youth - Writing Intensive",
         "course_description": "Reading and discussion of diverse literature within a wide variety of genres will allow students to explore issues of diversity as related to elementary instruction. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4250",
         "course_name": "Music for Children",
         "course_description": "Preparation of early childhood and elementary education students with the skills, knowledge, and philosophical foundations necessary to integrate music into the early childhood and elementary curricula.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: MUSIC_NM 1608, MUSIC_NM 1612, MUSIC_NM 1618 or competency test; Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "MUSIC_NM 1608, MUSIC_NM 1612, MUSIC_NM 1618 or competency test; Admittance to Phase II"
     },
     {
         "course_number": "LTC 4260",
         "course_name": "Elementary Social Studies",
         "course_description": "To develop knowledge of social studies and the skills to teach social studies in the elementary school. The course is designed to provide the student with the skills to plan, implement, and evaluate both the teaching and learning processes for the elementary social studies classroom.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4280",
         "course_name": "Teaching Science in Elementary Schools",
         "course_description": "Concepts, materials, methods in the elementary school program.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4294",
@@ -412,24 +412,24 @@
         "course_name": "Learning and Teaching Number and Operation in the Elementary School",
         "course_description": "The purpose of this course is to (a) develop a deeper understanding of number and operation, (b) connect the mathematical knowledge of number as described in (a) to the learning and teaching of number in elementary school.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4310",
         "course_name": "Learning and Teaching Geometry in the Elementary School",
         "course_description": "The purpose of this course is to (a) develop a deeper understanding of geometry and measurement, (b) critically examine content and issues of the complexities in teaching and learning fundamental concepts of geometry and measurement in elementary schools.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4320",
         "course_name": "Middle School Social Studies I",
         "course_description": "Curriculum decision making, instructional planning, techniques and strategies, materials selection, approaches to assessment in middle level social studies, all based upon early adolescent growth and development principles.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4324",
@@ -476,8 +476,8 @@
         "course_name": "Middle School Science II",
         "course_description": "Concepts, materials, methods in the middle school program.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4354",
@@ -492,8 +492,8 @@
         "course_name": "Intro. Teaching Mathematics in Middle and Secondary Schools",
         "course_description": "Introduction to teaching mathematics including: professional mathematics teacher associations and journals, learning theories related to teaching mathematics, tools, and materials for teaching mathematics, curriculum and instructional strategies (middle and lower high school level), and techniques for assessing mathematical understanding.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4364",
@@ -532,8 +532,8 @@
         "course_name": "Teaching Middle School Language Arts I",
         "course_description": "Integrates an understanding of literacy (highlighting reading) with content area demands, literature and other media texts, evaluation and inquiry within a context of diversity.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4384",
@@ -548,16 +548,16 @@
         "course_name": "Teaching Middle and Secondary English/Language Arts II",
         "course_description": "Prepares prospective educators with the knowledge, skills, and strategies necessary for integrating and teaching the English/Language Arts, primarily focusing on the teaching of writing and critical thinking.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4390W",
         "course_name": "Teaching Middle and Secondary English/Language Arts II - Writing Intensive",
         "course_description": "Prepares prospective educators with the knowledge, skills, and strategies necessary for integrating and teaching the English/Language Arts, primarily focusing on the teaching of writing and critical thinking.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4394",
@@ -588,16 +588,16 @@
         "course_name": "Teaching, Engaging and Assessing Middle-Level Students",
         "course_description": "In this course students will learn about the specific and individual needs of middle-level students and develop the skills and understandings to meet these needs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4410W",
         "course_name": "Teaching, Engaging and Assessing Middle-Level Students - Writing Intensive",
         "course_description": "In this course students will learn about the specific and individual needs of middle-level students and develop the skills and understandings to meet these needs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4414",
@@ -612,8 +612,8 @@
         "course_name": "Adolescent Literacy",
         "course_description": "(cross-leveled with LTC 7420). Explores literacy implications of content areas. Topics include determining the difficulty of text, examining literature that supports content, creating alternative assessments, and evaluating reading/writing strategies as tools for learning. (Required of all students obtaining certification in middle school or concurrent certification in middle and secondary school area(s) except language arts.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4424",
@@ -636,8 +636,8 @@
         "course_name": "Teaching Secondary English/Language Arts I",
         "course_description": "Prepares prospective educators with the knowledge, skills, and strategies necessary for integrating and teaching the English/Language Arts, Primarily focusing on Young Adult Literature and critical thinking.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4474",
@@ -652,16 +652,16 @@
         "course_name": "Teaching Middle and Secondary English/Language Arts II",
         "course_description": "Prepares prospective educators with the knowledge and strategies necessary for integrating and teaching the English/Language Arts, primarily focusing on the teaching of writing and critical thinking.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4480W",
         "course_name": "Teaching Middle and Secondary English/Language Arts II - Writing Intensive",
         "course_description": "Prepares prospective educators with the knowledge and strategies necessary for integrating and teaching the English/Language Arts, primarily focusing on the teaching of writing and critical thinking.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4484",
@@ -692,7 +692,7 @@
         "course_name": "Emergent Language in Early Childhood",
         "course_description": "Study of language learning in young children; how meaning of the environment is gained through language; implications for teachers working with children from varying language-learning environments.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -700,24 +700,24 @@
         "course_name": "Assessment in Early Childhood Education",
         "course_description": "A study of formal and informal assessment instruments and procedures used to measure progress and determine developmentally appropriate curriculum for children in early childhood settings.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: H_D_FS 3420 or equivalent child development or child psychology course",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "H_D_FS 3420 or equivalent child development or child psychology course"
     },
     {
         "course_number": "LTC 4520",
         "course_name": "Literature in the Elementary School",
         "course_description": "Surveys the field of literature for children and adolescents, with emphasis on selected readings of various types of literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: junior standing or instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "junior standing or instructor's consent"
     },
     {
         "course_number": "LTC 4530",
         "course_name": "Introduction to Social Studies",
         "course_description": "Will introduce prospective teachers to the profession of social studies teaching; to the bases for making curriculum choices in social studies and the process of choosing content; and the process of planning curriculum and instruction in social studies classrooms.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4534",
@@ -740,8 +740,8 @@
         "course_name": "Reading and Writing in the Social Studies",
         "course_description": "(cross-leveled with LTC 7541). Focuses on the teaching of reading and writing strategies for social studies teachers. Students review literacy interventions related to reading and writing historical texts. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4544",
@@ -756,16 +756,16 @@
         "course_name": "Assessment in Social Studies",
         "course_description": "Will address the purposes and development of social studies assessment for all levels from classroom to national assessment.  Assessment will be used to reflect upon curriculum/instruction, make revisions and set goals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4550W",
         "course_name": "Assessment in Social Studies - Writing Intensive",
         "course_description": "Will address the purposes and development of social studies assessment for all levels from classroom to national assessment.  Assessment will be used to reflect upon curriculum/instruction, make revisions and set goals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4554",
@@ -780,8 +780,8 @@
         "course_name": "Reading and Writing in the Content Areas",
         "course_description": "(cross-leveled with LTC 7560). For secondary school teachers.  Specific ways teachers can help students improve reading and writing skills in content areas and ways they can be taught.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Phase II admittance",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Phase II admittance"
     },
     {
         "course_number": "LTC 4565",
@@ -796,7 +796,7 @@
         "course_name": "Organization of Public School Art",
         "course_description": "Purposes, practices of art experiences in elementary and secondary schools. Designed for teachers, supervisors, administrators.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -804,7 +804,7 @@
         "course_name": "Introduction to Teaching Mathematics in Middle and Secondary Schools",
         "course_description": "Introduction to teaching mathematics including: professional mathematics teacher associations and journals, learning theories related to teaching mathematics, tools, and materials for teaching mathematics, curriculum and instructional strategies (middle and lower high school level), and techniques for assessing mathematical understanding. Recommended: Admittance to Phase II",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -876,7 +876,7 @@
         "course_name": "Diagnosis and Remediation of Learning Problems in Math - Middle",
         "course_description": "The study of diagnostic and remedial instructional techniques for the teaching of mathematics. Emphasis is placed on alternative teaching methods and strategies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -884,7 +884,7 @@
         "course_name": "Teaching Techniques and Curriculum in Elementary School Math",
         "course_description": "The mathematics program in the elementary school from viewpoint of goals, content, techniques and evaluation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -892,7 +892,7 @@
         "course_name": "Information Literacy in Teaching and Learning",
         "course_description": "Discusses the nature, value, and power of information as product and process; organization, retrieval, and evaluation of information; explores the Internet and information superhighway; develops skills for resource based learning for classroom instruction; policy issues.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -900,7 +900,7 @@
         "course_name": "Health Education in the Elementary School",
         "course_description": "Defines teacher's role in school health program; investigates health needs of school children; focuses on teaching strategies, health resources and development of elementary school health education curricula and materials.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -956,7 +956,7 @@
         "course_name": "Education in Human Sexuality",
         "course_description": "The biological, psychosocial and educational aspects of human sexuality with special emphasis on instructional activities related to interpersonal communication, decision-making ability and clarification of values, course is designed for both teachers and health-care personnel.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -980,7 +980,7 @@
         "course_name": "Drug Education",
         "course_description": "The psychosocial, legal and pharmacological aspects of the recreational use of over-the-counter and street drugs are investigated with emphasis being placed on personal decision making, principles of school and community drug education, rehabilitation and community health services.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -988,7 +988,7 @@
         "course_name": "Teaching Legal Rights and Responsibilities of Citizenship",
         "course_description": "An introductory course for teachers and undergraduate students dealing with the teaching of the basic legal concepts which underlie effective citizenship.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -996,8 +996,8 @@
         "course_name": "Overview of Art Education",
         "course_description": "This is the first of a three course sequence and serves as the foundation for inquiries of methodological and philosophical approaches to the teaching of the visual arts at the elementary and secondary level.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Admittance to Phase II",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Admittance to Phase II"
     },
     {
         "course_number": "LTC 4734",
@@ -1060,8 +1060,8 @@
         "course_name": "Standardized Assessments",
         "course_description": "This non-credit course will provide resources to assist with standardized assessments required to become a Missouri certified teacher.  Graded on S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 0Recommended: Admittance to Phase III",
-        "recommendation": "None Listed"
+        "credit_hours": "0",
+        "recommendation": "Admittance to Phase III"
     },
     {
         "course_number": "LTC 4971",
@@ -1388,7 +1388,7 @@
         "course_name": "Emergent Language in Early Childhood",
         "course_description": "Study of language learning in young children; how meaning of the environment is gained through language; implications for teachers working with children from varying language-learning environments.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1396,7 +1396,7 @@
         "course_name": "Assessment in Early Childhood Education",
         "course_description": "A study of formal and informal assessment instruments and procedures used to measure progress and determine developmentally appropriate curriculum for children in early childhood settings.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1452,7 +1452,7 @@
         "course_name": "Organization of Public School Art",
         "course_description": "Purposes, practices of art experiences in elementary and secondary schools. Designed for teachers, supervisors, administrators.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -1500,7 +1500,7 @@
         "course_name": "Diagnosis and  Remediation of Learning Problems in Math-Middle",
         "course_description": "The study of diagnostic and remedial instructional techniques for the teaching of mathematics. Emphasis is placed on alternative teaching methods and strategies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1508,7 +1508,7 @@
         "course_name": "Teaching Techniques and Curriculum in Elementary School Math",
         "course_description": "The mathematics program in the elementary school from viewpoint of goals, content, techniques and evaluation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1516,7 +1516,7 @@
         "course_name": "Information Literacy in Teaching and Learning",
         "course_description": "Discusses the nature, value, and power of information as product and process; organization, retrieval, and evaluation of information; explores the Internet and information superhighway; develops skills for resource based learning for classroom instruction; policy issues.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1524,7 +1524,7 @@
         "course_name": "Health Education in the Elementary School",
         "course_description": "Defines teacher's role in school health program; investigates health needs of school children; focuses on teaching strategies, health resources and development of elementary school health education curricula and materials.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1572,7 +1572,7 @@
         "course_name": "Drug Education",
         "course_description": "The psychosocial, legal and pharmacological aspects of the recreational use of over-the-counter and street drugs are investigated with emphasis being placed on personal decision making, principles of school and community drug education, rehabilitation and community health services.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1580,7 +1580,7 @@
         "course_name": "Teaching Legal Rights and Responsibilities of Citizenship",
         "course_description": "An introductory course for teachers and undergraduate students dealing with the teaching of the basic legal concepts which underlie effective citizenship.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -1636,7 +1636,7 @@
         "course_name": "Tests and Measurements for Elementary and Secondary Schools",
         "course_description": "Educational tests, measurements from points of view of teachers, supervisors, administrators.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1644,7 +1644,7 @@
         "course_name": "Home-School Partnerships: Working with Families",
         "course_description": "Examination of theoretical and philosophical foundations of parent involvement, social and cultural influences on contemporary families, current research on parent involvement, and characteristics of effective home-school-community partnerships.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1692,7 +1692,7 @@
         "course_name": "The Teaching of Journalism",
         "course_description": "The course focuses on the learning and teaching of middle, secondary, and post-secondary journalism/mass media course. Major strands of study include the theory and practice of journalism instruction, curriculum, and assessment.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1700,7 +1700,7 @@
         "course_name": "Teaching Writing in Middle and Secondary Classroom",
         "course_description": "This course will encourage the student as a writer and as a teacher of writing, especially in the middle and high school setting.  We will explore various types of writing, with emphasis in English Education, including addressing national and state standards.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1708,7 +1708,7 @@
         "course_name": "Writing, Reading and Teaching Nonfiction",
         "course_description": "Students will get more than their feet wet as they read and write a variety of nonfiction texts, explore nonfiction's value and relationship to other genres, and investigate its potential for learning.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1716,7 +1716,7 @@
         "course_name": "Media Literacy",
         "course_description": "Teachers will learn how to incorporate visual images in the classroom while helping students \"read\" the images of our media-rich culture.  Teachers will pair media with literature; analyzed and evaluate different media; and design several assignments.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1724,7 +1724,7 @@
         "course_name": "Whole Language Curriculum",
         "course_description": "Whole Language Curriculum inquires into whole language theory, beliefs and practices. Students will explore and participate in classroom based inquiry projects, theme cycles, reflective practices, holistic assessment, and other learner-centered experiences such as literature study and writers workshop.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1732,7 +1732,7 @@
         "course_name": "Talk in the Curriculum",
         "course_description": "This survey of oracy examines talk's essential role in learning and the connections among language, power and cultural identity.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1740,7 +1740,7 @@
         "course_name": "Language Acquisition and Development",
         "course_description": "You will explore theories of language acquisition and development, and examine how language acquisition impacts reading and writing. Ideas for creating a language rich curriculum, second language learning, and cultural aspects of language will be addressed.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1748,7 +1748,7 @@
         "course_name": "Teaching Reading Through Literature Response",
         "course_description": "Teaching Reading Through Literature Response focuses on 1) reading as a personal and social process and 2) multiple responses to literature. Students will examine, use and critique; personalized reading, text sets (conceptually related materials), literature groups and other reading instruction experiences.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1764,23 +1764,23 @@
         "course_name": "Teaching Literature",
         "course_description": "This course involves exploration of theory, research, and practice in the teaching and learning of literature to students in Grades 9-12. It is intended for master's and doctoral students - experienced teachers enrolled in MU's English Education graduate program. This course addresses selected Common Core Standards, and focuses on an integrated approach to the teaching of literature and some nonfiction. Texts include novels, short stories, poems, literary nonfiction, and plays. The teaching of critical thinking, research skills, and technology are integrated into these experiences. This course promotes the use of various teaching and learning practices. The course is divided into the following major sections: 1) Introductions of Class Members; 2) Theories of Teaching Literature in the Classroom; and 3) Trying Out Theories on Selected Literature. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: This is a recommended course for early in a master's program",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "This is a recommended course for early in a master's program"
     },
     {
         "course_number": "LTC 8637",
         "course_name": "Teaching Communication",
         "course_description": "This course explores the theory, research, and practice in the teaching and learning of communication.   This course is intended for master's and doctoral students - experienced teachers enrolled in MU's English Education graduate program. This course addresses selected Common Core Standards, and focuses on the teaching of speaking, listening, and language, as they occur within the  best practices of English/Language Arts classrooms. The course involves variety of texts such as short stories, poems, literary nonfiction, and plays. The teaching of critical thinking, research skills, and technology are integrated into these experiences. This course encourages the use of various teaching and learning practices. The course is divided into the following major themes: 1) Introductions of Class Members; 2) Overview of Communication: Theory, Research, Practice; and 3) Teaching Communication in Context: Speaking, Listening, Reading, Writing.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: We recommended, but do not require, that you take this course early in your program",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "We recommended, but do not require, that you take this course early in your program"
     },
     {
         "course_number": "LTC 8640",
         "course_name": "Studies in English Education",
         "course_description": "Exploration of the theory, research, and application of topics in the teaching of English, such as Writing/Thinking, Media, Literature, Language, and Creative Nonfiction. Topics announced at time of registration. May repeat to twelve hours with department's approval.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1788,7 +1788,7 @@
         "course_name": "Foundations of English Education",
         "course_description": "This course focuses on foundational readings in the teaching and learning of English/Language Arts. The course requires intensive reading, writing, and discussion focusing on four subcategories of English Education: writing, literature, language and critical thinking. In addition, the course situates these topics within a historical perspective of the field. An additional focus of this course is on professional networking and development. It is expected that as students develop a greater understanding of the foundations of English Studies in Language Arts, they will see where their areas of expertise and knowledge join them to the profession as a leader. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1796,7 +1796,7 @@
         "course_name": "Teaching Writing and Reading in Content Areas",
         "course_description": "Theory and practice of teaching reading and writing.  Specific ways teachers can help students use writing to communicate about the course content, as well as to learn course concepts.  Class also focuses on how to teach reading in reading classes, how to help students improve reading skills in content areas, and how reading and writing skills can reinforce each other.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1804,7 +1804,7 @@
         "course_name": "Teaching ESL/EFL to Adult Learners",
         "course_description": "This course explores the characteristics of adult learners, theories of adult learning, and the contexts in which adults learn English as a second or foreign language. Students apply this knowledge in the design of language learning curricula and activities for adult learners. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1820,7 +1820,7 @@
         "course_name": "Second Language Acquisition",
         "course_description": "This course examines theories of how humans develop first and second languages in childhood and adulthood and how this knowledge can be used to educate language learners.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1828,7 +1828,7 @@
         "course_name": "Materials for and Assessment of English Language Learners",
         "course_description": "This course will examine the appropriate classroom materials, methods, reasons, and tools for the formal and informal assessment of English Language Learners.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1836,7 +1836,7 @@
         "course_name": "Language and Culture for Educators",
         "course_description": "This course will examine how to prepare educators to effectively educate students from a range of linguistic and cultural backgrounds by developing a broad understanding of the definition and nature of culture and appropriate teaching strategies and materials for diverse students.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1844,7 +1844,7 @@
         "course_name": "Linguistics for Educators",
         "course_description": "This course focuses on the form, meaning, and use of language in context and applying knowledge of linguistics to the teaching of English language learners.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1852,7 +1852,7 @@
         "course_name": "Methods of Teaching English Language Learners",
         "course_description": "This course will examine how to prepare teachers to develop the investigative, decision-making, and reflective teaching skills needed to work with English Language Learners.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1860,7 +1860,7 @@
         "course_name": "English to Speakers of Other Languages Practicum",
         "course_description": "This culminating course will allow students to apply the theory and practice of teaching English to non-native speakers in an educational setting.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1868,7 +1868,7 @@
         "course_name": "Working with English Language Learners with Special Needs",
         "course_description": "The course will assist educators with the decision to refer or not to refer an English language learner to special education services while helping identify the general framework for considering their special needs and preparing a comprehensive continuum of services. Course graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1876,7 +1876,7 @@
         "course_name": "Seminar: English: Its Grammar and Place in the World",
         "course_description": "The course will familiarize learners with the grammatical features of English that have contributed to the its global proliferation, explore the varieties of English used around the world, and delve into the concept of English as a global means of communication. Course graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1884,7 +1884,7 @@
         "course_name": "Education Toward Bi/Multilingualism: Theory, Policy, and Practice",
         "course_description": "(same as ED_LPA 8653). Overview of the theory, policy, and practice of using at least two languages in education to develop children's bi/multilingualism. Key topics include: (1) models of bilingual/multilingual education; (2) policy and politics of language education in the U.S. and international contexts; (3) psycholinguistic and sociocultural perspectives on bi/multilingual language development, as related to schooling; and (4) evaluation and assessment issues in bi/multilingual education.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1924,7 +1924,7 @@
         "course_name": "Foundations of Reading Instruction",
         "course_description": "This online course examines principles and practices of teaching reading to PK-12 students; the nature of reading and literacy learning, the foundations of reading acquisition and development; and reading instructional across grade levels. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1940,7 +1940,7 @@
         "course_name": "Making a Difference for the Struggling Reader",
         "course_description": "Will help explore ways to help readers who have been unable to achieve success in reading--will learn how to access and evaluate strategies students are currently using.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1948,7 +1948,7 @@
         "course_name": "Focus on Writing in the Classroom",
         "course_description": "The course focuses on theory, research and practices in teaching writing in the elementary classroom (K-6) while developing a critical understanding of process methods to teach writing.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1956,7 +1956,7 @@
         "course_name": "Celebrating Reading Through Good Books",
         "course_description": "Many people can read but do not. This course will explore ways to make reading a joyful, exciting experience. Assignments will include reading journal articles that will help students meet self determined goals. Sharing books will be an important part of this course.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1964,7 +1964,7 @@
         "course_name": "Integrating Literacy and Technology",
         "course_description": "This will be a seminar course in which the students explore definitions of literacy, theoretical frameworks of educational technology, and literature that investigates the effectiveness of integrating literacy and technology.  The students will also examine and evaluate a range of software used to integrate literacy and technology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1972,7 +1972,7 @@
         "course_name": "Literature Opportunities: Using Children's and Young Adult's Literature in the Classroom",
         "course_description": "This class examines genres in children's and young adult literature (grades 1-9). In-depth look at the work of children's authors and illustrators; explore issues of censorship, gender, and culture.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1980,7 +1980,7 @@
         "course_name": "Theory of Instructional Strategies",
         "course_description": "The course investigates instructional strategies in K-12 and higher education classrooms and the theories behind those strategies. Content includes large and small group strategies, inquiry-based learning, student-centered and direct instruction, and differentiated instruction.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1988,7 +1988,7 @@
         "course_name": "Literacy and the Internet (Grades K-12)",
         "course_description": "The internet offers a myriad of opportunities to engage K-12 students in meaningful, purpose-driven reading and writing. Students examine their own literacy programs, examine ways they can incorporate the internet, and create a classroom web site.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1996,7 +1996,7 @@
         "course_name": "Nature of Literacy in a Digital World",
         "course_description": "New literacies are required to successfully engage in professional, civic, and personal lives that are imbued with technology.  Students examine the literacy skills required to proficiently read and write with text messages, blogs, wikis, social networks, and virtual worlds.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2004,7 +2004,7 @@
         "course_name": "Nature of Science and Science Teaching",
         "course_description": "Examines philosophical, historical and sociological views of the nature of science and implications for science education policy and science instruction.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2012,7 +2012,7 @@
         "course_name": "Inquiry and the Science Curriculum",
         "course_description": "Examines inquiry as the foundation of the science curriculum. Includes study of exemplary programs and curriculum materials, and provides models for curriculum development in science education.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2076,7 +2076,7 @@
         "course_name": "College Science Teaching",
         "course_description": "(same as BIO_SC 8724, PHYSCS 8310 and ASTRON 8310). Study of learner characteristics, teaching strategies, and research findings related to teaching science at the post-secondary level.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2100,7 +2100,7 @@
         "course_name": "Survey of Art Education",
         "course_description": "Provides survey of the development of art education and problems in the field by means of a critical inquiry.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2108,7 +2108,7 @@
         "course_name": "Visual Literacy and Visual Culture",
         "course_description": "This course will investigate the intersection between art and language, exploring the connections between visual media and the written word-how these two areas inform and enrich each other.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2116,7 +2116,7 @@
         "course_name": "Curriculum in Art Education",
         "course_description": "Advanced study of art education curricula, with option for elementary or secondary emphasis. Study of exemplary art programs, standards of quality, curriculum models, curriculum design and construction, concomitant instructional methods and evaluation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2124,7 +2124,7 @@
         "course_name": "Visual Thinking Strategies I",
         "course_description": "This course will introduce regular classroom and art educators to Visual Thinking Strategies theory and methodology, building practical VTS facilitation skills through structured guidance and feedback as each participant implements VTS lessons within his/her own teaching context.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2140,7 +2140,7 @@
         "course_name": "Review of Research in Art Education",
         "course_description": "Studies appropriate research methodologies and reviews research and selected readings in art education.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2148,7 +2148,7 @@
         "course_name": "The Secondary School Curriculum",
         "course_description": "For secondary school principals, teachers, superintendents. Presents trends in curricular change, methods of curricular investigation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2156,7 +2156,7 @@
         "course_name": "Artistic Thinking: Multimedia Applications for Teaching Art",
         "course_description": "This course is designed to keep pace with contemporary trends in technology and digital media literacies. Students will deeply explore current applications and develop curriculum implementation strategies for K-12 instruction in visual arts classrooms.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2164,7 +2164,7 @@
         "course_name": "Illuminating Process and Product: Making Learning Visible",
         "course_description": "This course focuses on the evaluative processes that surround and are embedded in art education. Due to the subtle, nuanced, and product based nature of visual arts, evaluative practices should be studied, understood, and implemented in an effective and encouraging manner. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2172,7 +2172,7 @@
         "course_name": "The Art of Teacher Reflection",
         "course_description": "This course investigates reflective practices making deep inquiries into theoretical teaching practices. Students will examine their educational heritage, cultural beliefs and the implications these beliefs have on their current and future classrooms. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2196,7 +2196,7 @@
         "course_name": "Patterns for Instruction in Social Studies",
         "course_description": "Presents and evaluates strategies for planning, teaching, and evaluating social studies in elementary and secondary schools.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2204,7 +2204,7 @@
         "course_name": "Secondary Social Studies Curriculum",
         "course_description": "Examines current theory, trends and practices in secondary social studies curriculum with a practicum in curriculum development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2212,7 +2212,7 @@
         "course_name": "Inquiry into K-12 History and Social Science",
         "course_description": "this course is designed as a directed study on a topic in social studies content for the K-12 classroom.  The focus of the course is on what is taught in social studies.  Graded on A-F basis only",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2220,7 +2220,7 @@
         "course_name": "Issues in the Social Studies Classroom",
         "course_description": "This course is designed to provide an intensive study of current trends and significant issues in social studies that affect the social studies classroom.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2228,7 +2228,7 @@
         "course_name": "Elementary Social Studies Curriculum",
         "course_description": "An in-depth study of objectives, goals, patterns and practices in elementary social studies curriculum. Focus will be upon instructional strategies and materials and current trends influencing curriculum development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2244,7 +2244,7 @@
         "course_name": "Teaching, Learning & Research in Middle & Secondary School Math I",
         "course_description": "Course I for Post-Baccalaureate Majors seeking Middle and/or Secondary teacher certification. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2276,7 +2276,7 @@
         "course_name": "Contemporary Curriculum Issues in Mathematics Education",
         "course_description": "Mathematics curriculum is a concern to students, parents, school districts, business leaders, and government officials. This course examines current trends in mathematics curriculum from the perspective of mathematics educators, policymakers, and the public. Factors influencing changes in mathematics curriculum are examined. Graded on an A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -2292,7 +2292,7 @@
         "course_name": "Teaching and Learning Number/Operations Advanced",
         "course_description": "Course will develop understanding of learning and teaching pre-number concepts, counting and cardinality, numbers and operations in base ten. Emphasis will be given to how children think about and learn these concepts and how they fit into the elementary school curriculum. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: LTC 8881",
+        "credit_hours": "3Corequisites: LTC 8881",
         "recommendation": "None Listed"
     },
     {
@@ -2300,7 +2300,7 @@
         "course_name": "Teaching and Learning Rational Number Advanced",
         "course_description": "The course is designed to develop an understanding of the learning and teaching of rational numbers and the ratio and proportional relationships. Emphasis will be given to how children think about and learn these concepts and how they fit into the elementary school curriculum. Graded on A-F basis only. Corequisites: LTC 8882",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2308,7 +2308,7 @@
         "course_name": "Teaching and Learning Geometry and Measurement Advanced",
         "course_description": "This course is designed to develop and understanding of the teaching and learning of geometry and measurement. Emphasis will be given to how children think about and learn these concepts and how they fit into an elementary mathematics curriculum. Graded on an A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: LTC 8883",
+        "credit_hours": "3Corequisites: LTC 8883",
         "recommendation": "None Listed"
     },
     {
@@ -2316,7 +2316,7 @@
         "course_name": "Teaching and Learning Algebraic Reasoning Advanced",
         "course_description": "Course focuses on the content and complexities of teaching and assessing algebraic reasoning in grades 1-6. Includes examinations of representation, analysis of mathematical structures, patterns, functions, and the transition from arithmetic to algebra. Graded on A-F basis only. Corequisites: LTC 8884",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2332,7 +2332,7 @@
         "course_name": "Teaching Data Analysis and Mathematical Modeling",
         "course_description": "The course will develop understanding of data analysis and mathematical modeling. Emphasis will be given to how children think and learn about these concepts and how they fit into the elementary school curriculum. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2340,7 +2340,7 @@
         "course_name": "Foundations of Mathematics Leadership in Elem Schools",
         "course_description": "This course provides opportunities for participants to develop knowledge and understanding of leadership principles and the process of continuous improvement as it related to the roles and responsibilities of elementary mathematics specialists. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -2348,7 +2348,7 @@
         "course_name": "Mathematical Leadership for Elementary Schools Advanced",
         "course_description": "This advanced leadership course focuses on research and practice related to teamwork, interaction, communication, conflict resolution, and leadership in K-5 schools. Candidates will examine effective strategies for influencing and facilitating school/district improvement. Course graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2404,7 +2404,7 @@
         "course_name": "Contemporary Equity Issues in Mathematics Education",
         "course_description": "Certain student populations (e.g., socioeconomically disadvantaged, racial minorities, English Language Learners, students with disabilities) have been traditionally underserved by the U.S. mathematics education system. This course explores the fundamental issues underlying this situation and explores mathematics teaching techniques that can be used to make students' learning opportunities more equitable. Graded on an A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2420,7 +2420,7 @@
         "course_name": "Integrating Instruction in Science and Mathematics, Grades 5-12",
         "course_description": "This course is designed to help middle and secondary mathematics and science teachers enhance student understanding of mathematics and science through integration of the disciplines.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -2436,7 +2436,7 @@
         "course_name": "Secondary Mathematics from an Advanced Perspective",
         "course_description": "This course deepens understanding of the mathematics underlying the secondary school curriculum. It addresses high school content from the viewpoint of advanced mathematics. Connections are explored within high school content and between high school and college content. Content strands include analysis, algebra, and Euclidean and non-Euclidean geometry. Graded on an A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2556,7 +2556,7 @@
         "course_name": "Collaborative Inquiry Through Photovoice",
         "course_description": "Photovoice is a participatory action research method that invites participants to explore and document their lived experiences in order to spark dialogue with others to bring about change.  In this course, students experience the process of Photovoice in order to learn how to use this process in future research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2564,7 +2564,7 @@
         "course_name": "Qualitative Methods in Educational Research I",
         "course_description": "(same as ESC_PS 8957 and ED_LPA 8957). This course provides a practical introduction to qualitative research and its applications in education and social sciences.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2572,7 +2572,7 @@
         "course_name": "The Supervision of Student Teaching-Masters",
         "course_description": "Theory, knowledge and practices involved in supervision of student teaching and other professional lab experiences. Offers assistance in all major aspects of supervision of student teaching.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2620,7 +2620,7 @@
         "course_name": "Qualitative Methods in Educational Research II",
         "course_description": "(same as ED_LPA 9620 and ESC_PS 9620). This course constructs a conceptual and methodological bridge between the understandings of qualitative research developed in Qualitative Methods I and more advanced study of theories, designs, and methods. The focus is on theory, approaches to data analysis, and interpretation. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2636,7 +2636,7 @@
         "course_name": "The Supervision of Student Teaching-Doctoral",
         "course_description": "Theory, knowledge and practices involved in supervision of student teaching and other professional lab experiences. Offers assistance in all major aspects of supervision of student teaching.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     }
 ]

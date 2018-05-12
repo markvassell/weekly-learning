@@ -12,7 +12,7 @@
         "course_name": "Computing and Information Systems I",
         "course_description": "Provide students with a basic understanding of microcomputer usage, electronic communications, and use of the internet. Topics include operating systems, word processing, database management systems, spreadsheets, electronic mail, online library searches, and the World Wide Web.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Introduction to the Theory and Practice of Sustainable Agriculture",
         "course_description": "This experiential course provides an overview of the theoretical and practical principles of sustainable agriculture by exploring the holistic nature of sustainable agriculture, and analyzing agriculture systems based on their impact on the environment, economy and community.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,16 +108,16 @@
         "course_name": "Community Food Systems",
         "course_description": "Essential concepts in research, implementation and understanding of community food systems and macro-level global trends in food production and distribution will be discussed.  Students will examine the social, economic and health implications of conventional and alternative food systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: AFNR 2215",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "AFNR 2215"
     },
     {
         "course_number": "AFNR 3315",
         "course_name": "Advanced Practices in Sustainable Agriculture",
         "course_description": "Course furthers students' understanding of sustainable production systems with an emphasis on stewarding natural resources (soil, water, biodiversity and energy) while maintaining and economically profitable enterprise that provides for a good quality of life.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: AFNR 2215; SOIL 2100",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "AFNR 2215; SOIL 2100"
     },
     {
         "course_number": "AFNR 4001",

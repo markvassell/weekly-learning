@@ -20,8 +20,8 @@
         "course_name": "General Principles and Concepts of Biology",
         "course_description": "Emphasizes connections and applications to society and the human condition, science literacy, and critical thinking skills. A discussion of general principles and fundamental concepts of living things. This course is intended for non-science majors.   No more than 5 credits for BIO_SC 1010, BIO_SC 1020, and BIO_SC 1030.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: MATH 1100",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "MATH 1100"
     },
     {
         "course_number": "BIO_SC 1020",
@@ -36,15 +36,15 @@
         "course_name": "General Principles and Concepts of Biology with Laboratory",
         "course_description": "Survey of general principles and basic concepts of life science, emphasizing applications to society and the human condition. Lectures address science literacy and critical thinking and laboratory exercises use representative organisms to complement lecture topics.  This course is intended for non-science majors.  No more than 5 credits for BIO_SC 1010, BIO_SC 1020, and BIO_SC 1030.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5Recommended: MATH 1100 or concurrent enrollment",
-        "recommendation": "None Listed"
+        "credit_hours": "5",
+        "recommendation": "MATH 1100 or concurrent enrollment"
     },
     {
         "course_number": "BIO_SC 1060",
         "course_name": "Basic Environmental Studies",
         "course_description": "Considers the ecosystem, energy and biogeochemical cycles and population dynamics; relation of the environment to agriculture and technology, pollution, power and food production; politico-economic considerations; moral and ethical issues. For non-science majors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Introductory Zoology with Laboratory",
         "course_description": "(same as F_W 1100). Introduces important principles and concepts of zoology. Emphasizes cell biology; evolution; genetics; ecology; structure, function, development of the organism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "General Botany with Laboratory",
         "course_description": "Introduction to study of plants. Emphasis on structure, growth, physiology, genetics and reproduction of plants.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Evolution for Everyone",
         "course_description": "This course will explore the application of evolutionary theory to modern human affairs.  We will study the processes involved in evolution and investigate evolutionary interpretations of human social behavior (e.g., psychology, mate choice, economics, religion, and morality).   No credit if student has received credit for BIO_SC 2060 or BIO_SC 4600.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,8 +76,8 @@
         "course_name": "Introduction to Biological Systems with Laboratory",
         "course_description": "Basic concepts and principles of the structure and function of living systems, from cells to populations. Foundation course for science students intending to complete a 3-semester sequence that also includes genetics and cell biology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5Recommended: MATH 1100 or sufficient ALEKS score",
-        "recommendation": "None Listed"
+        "credit_hours": "5",
+        "recommendation": "MATH 1100 or sufficient ALEKS score"
     },
     {
         "course_number": "BIO_SC 1500H",
@@ -204,16 +204,16 @@
         "course_name": "Ornithology",
         "course_description": "(same as F_W 2600). Structure, identification, habits, importance of regional birds. Field work, lectures, lab.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: 5 hours of Biological Sciences",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "5 hours of Biological Sciences"
     },
     {
         "course_number": "BIO_SC 2700",
         "course_name": "Ichthyology",
         "course_description": "(same as F_W 2700). A broad introduction to the biology and ecology of fishes. Emphasis will be placed on understanding the adaptations fishes exhibit to aspects of their environment. Includes lab.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: 8 hours biology or equivalent",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "8 hours biology or equivalent"
     },
     {
         "course_number": "BIO_SC 2940",
@@ -284,7 +284,7 @@
         "course_name": "Genetics and Society",
         "course_description": "Introduction to genetics, emphasizing the impact of genetics on human society. Human evolution, molecular genetics, genetic engineering in medicine and agriculture. An intensive writing course.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -292,7 +292,7 @@
         "course_name": "Genetics and Society - Writing Intensive",
         "course_description": "Introduction to genetics, emphasizing the impact of genetics on human society. Human evolution, molecular genetics, genetic engineering in medicine and agriculture. An intensive writing course.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -316,15 +316,15 @@
         "course_name": "Plant Systematics",
         "course_description": "Principles of classification of plants; survey of diversity in flowering plant families; identification of local flora; use of keys. Includes lab.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: 8 hours of Biological Sciences",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "8 hours of Biological Sciences"
     },
     {
         "course_number": "BIO_SC 3250",
         "course_name": "Parasitology",
         "course_description": "(same as BIOMED 3250). Parasitism is considered as a fundamental type of interspecies interaction. Principles of parasitism as they apply to animals are presented with emphasis on parasite morphology, biology and host parasite relationships. Includes lab. Recommend: 8 hours of biology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -348,8 +348,8 @@
         "course_name": "Herpetology",
         "course_description": "The biology, ecology, taxonomy, and distribution of amphibians and reptiles. Some Saturday field trips.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: 8 hours Biological Sciences or equivalent",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "8 hours Biological Sciences or equivalent"
     },
     {
         "course_number": "BIO_SC 3400",
@@ -396,8 +396,8 @@
         "course_name": "Mammalogy",
         "course_description": "(same as F_W 3660). Taxonomy, distribution, structure, habits, importance of mammals; emphasizes those of central United States. Includes lab.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: Junior Standing or instructor's consent",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "Junior Standing or instructor's consent"
     },
     {
         "course_number": "BIO_SC 3700",
@@ -564,8 +564,8 @@
         "course_name": "Plant Population Biology",
         "course_description": "(cross-leveled with BIO_SC 7660). Covers the ecological and evolutionary processes that influence the distribution and abundance of plant species. Topics include evolution of life history schedules, gender evolution, population growth and demography, competition, herbivory, plant-pollinator interactions, clonal growth, and plant community structure. Includes lab.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: 2 courses in Biological Sciences",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "2 courses in Biological Sciences"
     },
     {
         "course_number": "BIO_SC 4670",
@@ -948,7 +948,7 @@
         "course_name": "Professional Survival Skills",
         "course_description": "Introduction to resources, facilities, and communication skills for professional careers in biological sciences. Topics include computer resources, accessing scientific literature, making slides and figures, grantsmanship, resume preparation, manuscript review, and research presentation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -1020,7 +1020,7 @@
         "course_name": "Fungal Genetics and Biology",
         "course_description": "Introduction to fungal research, with an emphasis on genetics, biochemistry, cell and molecular biology, and pathogenicity of fungi. Graded A-F only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1060,7 +1060,7 @@
         "course_name": "Introduction to Plant Metabolism",
         "course_description": "(same as PLNT_S 8362, BIOCHM 8362). This course is part of a series that aims to provide a solid conceptual foundation in interdisciplinary plant biology for graduate students with a research emphasis in plant biology.  This course examines the basic concepts and techniques used to understand plant metabolism.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -1068,7 +1068,7 @@
         "course_name": "Introduction to Molecular Cell Biology",
         "course_description": "(same as BIOCHM 8365, PLNT_S 8365). This course is part of a series that aims to provide a solid conceptual foundation in interdisciplinary plant biology for graduate students with a research emphasis on plant biology.  This course examines the basic concepts and techniques used to understand molecular cell biology.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -1076,7 +1076,7 @@
         "course_name": "Plant Developmental Biology",
         "course_description": "Critical discussions of recent publications in plant development, with particular focus on developmental genetics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1084,7 +1084,7 @@
         "course_name": "Integrative Neuroscience I",
         "course_description": "(same as NEUROSCI 8440).  Organization, development and function of the nervous system focusing on cellular and molecular processes.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1092,7 +1092,7 @@
         "course_name": "Integrative Neuroscience II",
         "course_description": "(same as NEUROSCI 8442).  Organization and function of the nervous system at the systems level to examine processes of behavior and cognition.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1108,7 +1108,7 @@
         "course_name": "Advanced Cancer Biology",
         "course_description": "A study of the molecular basis of cancer, including topics in tumor cell biology, interactions between cancer cells and normal cells, mechanisms of metastasis, and novel approaches to development of new chemotherapies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1116,7 +1116,7 @@
         "course_name": "Introduction to Plant Stress Biology",
         "course_description": "(same as PLNT_S 8505). This course is part of a series that aims to provide a solid conceptual foundation to interdisciplinary plant biology for graduate students with a research emphasis in plant biology.  This course examines the basic concepts and techniques used to understand plant stress biology.  Graded on A-F basis only",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -1124,7 +1124,7 @@
         "course_name": "Sensory Ecology",
         "course_description": "A study of information exchange and acquisition in organisms, with an emphasis on communication, orientation, and predator detection.  The course will also examine the effects of biotic and abiotic factors on sensory systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1140,7 +1140,7 @@
         "course_name": "Current Concepts in Conservation Biology",
         "course_description": "Survey of current concepts in conservation biology literature.  Discussions will provide students with an appreciation of the historical development of concepts, the interdisciplinary nature of conservation problems, and the research required for effective solutions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -1148,7 +1148,7 @@
         "course_name": "Phylogenetic Methods and Applications",
         "course_description": "A review of principles for constructing and testing phylogenies followed by a survey of methods for inferring ancestral characteristics and adaptive features in living species.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -1164,7 +1164,7 @@
         "course_name": "Ecological and Evolutionary Genomics",
         "course_description": "(same as PLNT_S 8650).  This course is designed to give a background in evolution and then explore an exciting new field:  Ecological and evolutionary genomics.  We will study genes that affect fitness and how whole genomes evolve.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -1188,7 +1188,7 @@
         "course_name": "College Science Teaching",
         "course_description": "(same as LTC 8724, PHYSCS 8310, ASTRON 8310). Study of learner characteristics, teaching strategies, and research findings related to teaching science at the post-secondary level.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

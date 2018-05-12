@@ -4,7 +4,7 @@
         "course_name": "Introduction to Agribusiness Management",
         "course_description": "Agribusiness and agricultural economics touches many parts of business, agriculture, the environment and other areas. This course is designed to help students successfully make the adjustment to college/MU, provide an overview of the Department of Agricultural and Applied Economics degree programs and, enhance professional and career development.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Applied Microeconomics",
         "course_description": "Introduction to the microeconomic principles and their application to decision-making in agribusinesses. Consumer decision analysis, producer goals and optimization and the market environment where they meet and trade. Applications to current issues.  Students who complete AG_EC 1041 may not have credit for ECONOM 1014.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Applied Macroeconomics",
         "course_description": "Introduction to macroeconomic principles and their application to agriculture-food sector and natural resource issues. Using macroeconomic principles in decision making and in evaluating national and regional economic problems and issues.  Students who complete AG_EC 1042 may not have credit for ECONOM 1015.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Applied Computer Applications",
         "course_description": "This course is an applied problem based learning opportunity for students to gain Excel spreadsheet related skills critical to careers in agriculture, food and natural resources. Students will learn intermediate and advanced spreadsheet skills essential for problem solving and decision making in these biologically influenced fields.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "For the Love of Food: Global Food System Debate",
         "course_description": "This course is designed to develop students' understanding of the food system from farm to plate and the consumer's role in the global food system. Gaining a knowledge base on food system dynamics will allow students to better understand the societal and policy making processes behind food production. Each week we will discuss key topics and issues facing the food system today. This class will help students develop critical thinking skills to address challenges in the global food system.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Introduction to Environmental Law",
         "course_description": "Environmental issues from a legal perspective, using current controversies from both the USA and other countries. Major environmental laws dealing with water, air, noise, endangered species, waste disposal, and land use.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -172,7 +172,7 @@
         "course_name": "Agribusiness and Biotechnology Law",
         "course_description": "Legal concepts applicable to agribusiness and biotech firms. To include contracts, torts, product liability, warranties, corporate farming laws, UCC, corporations/partnerships/limited liability companies, labor laws, patent copyrights/trademark laws, international and ethical perspectives.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -180,7 +180,7 @@
         "course_name": "Rural and Agricultural Law",
         "course_description": "Everyday practical legal problems facing rural residents, farmers, agribusiness, and local government. Laws include statutes, common law (cases), customs, and administrative regulations. Topics include corporate/contract farming, right-to-farm, leases, fence laws, estate planning and water rights.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -356,8 +356,8 @@
         "course_name": "Rural Real Estate Appraisal",
         "course_description": "(cross-leveled with AG_EC 7340). Principles, techniques, practices of rural real estate appraisal. Field trips.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: AG_EC 3260",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "AG_EC 3260"
     },
     {
         "course_number": "AG_EC 4356",
@@ -476,8 +476,8 @@
         "course_name": "Rural Real Estate Appraisal",
         "course_description": "(cross-leveled with AG_EC 4340). Principles, techniques, practices of rural real estate appraisal. Field trips.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: AG_EC 3260",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "AG_EC 3260"
     },
     {
         "course_number": "AG_EC 7356",
@@ -540,7 +540,7 @@
         "course_name": "Advanced Topics in Economics",
         "course_description": "Analyzes economic logic problems. Current agricultural economic problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -548,7 +548,7 @@
         "course_name": "Research Methodology",
         "course_description": "Students explore the roles of theory and methods in economics research, develop a program of research, and critique published research.  Students also study the scientific methods and the research process, including problem definition, research design, data collection and analysis, and generalization.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -564,7 +564,7 @@
         "course_name": "Economics of Institutions and Organizations",
         "course_description": "This course expands upon the fundamental principles of neo-classical economics by relaxing traditional behavioral and informational assumptions and by introducing the importance of transaction costs and institutions for economic analysis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -636,7 +636,7 @@
         "course_name": "Society and Ecosystems Research Seminar",
         "course_description": "(same as RU_SOC 8448 and NAT_R 8448). This seminar, capstone for the Graduate Certificate Program in Society and Ecosystems, exposes students to interdisciplinary research on interactions between social, economic and ecological systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -652,7 +652,7 @@
         "course_name": "Economics of Transaction and Contracting",
         "course_description": "This course focuses on the economic incentives underlying transaction relationships and develops and implements a framework for analyzing contract documents governing various kinds of transactions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -676,7 +676,7 @@
         "course_name": "Advanced Topics in Economics II",
         "course_description": "Analyzes economic logic problems. Current agricultural economic problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -748,7 +748,7 @@
         "course_name": "Econometrics I",
         "course_description": "Emphasis is given to special estimation problems which occur in integrating the theory with various types of economic data.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -756,7 +756,7 @@
         "course_name": "Econometrics II",
         "course_description": "(same as ECONOM 9476).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

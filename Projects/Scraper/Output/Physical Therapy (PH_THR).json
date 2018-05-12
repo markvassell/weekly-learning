@@ -12,7 +12,7 @@
         "course_name": "Biology of Healthy Living",
         "course_description": "(same as BIOMED 2420 and NEP 2420).  Biology of inactivity as a casual factor in chronic disease.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -20,8 +20,8 @@
         "course_name": "Musculoskeletal Anatomy and Injury",
         "course_description": "Study of human musculoskeletal anatomy, movement, common injury and physical therapy management. Graded on an A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: biology",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "biology"
     },
     {
         "course_number": "PH_THR 3022",
@@ -60,7 +60,7 @@
         "course_name": "Applied Neurophysiology for Allied Health Students",
         "course_description": "(same as OC_THR 4240; cross-leveled with PH_THR 7240, OC_THR 7240). Principles of basic neurophysiology, emphasizing correlation of structure and function of the nervous system.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Physical Agents",
         "course_description": "Biophysics, theory and technique concerning the use of physical agents as adjuncts to exercise programs. Includes thermal, electrical, light, hydrotherapy and mechanical agents.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -92,7 +92,7 @@
         "course_name": "Foundations of Therapeutic Exercise",
         "course_description": "Physiological basis of exercise throughout the lifespan with emphasis on the musculoskeletal, neuromuscular, cardiovascular/pulmonary and integumentary systems and the effects of injury and disease on these systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Evidence-Based Practice",
         "course_description": "Clinical research design and methods overview. Critical review of current and historically important professional literature. Effective writing related to clinically applicable research using computer and library resources. Identification of research questions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Applied Therapeutic Exercise",
         "course_description": "Application of therapeutic exercise with an emphasis on evidenced-based exercise prescription, modes and techniques of exercise typically seen in rehabilitation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -124,7 +124,7 @@
         "course_name": "Movement Theory and Application",
         "course_description": "Human sensorimotor development; motor learning; motor control theories; developmental and practical application to exercise; proprioceptive neuromuscular facilitation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -132,7 +132,7 @@
         "course_name": "Bridging the Clinical-Research Gap",
         "course_description": "This class focuses on theories of clinical decision making and Evidence-based Practice, their applications to the clinical setting and dissemination of such information to colleagues in professional forums.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -140,7 +140,7 @@
         "course_name": "Introduction to Orthopedic Physical Therapy with Laboratory",
         "course_description": "Physical therapy diagnosis, management, and prevention of disorders of the musculoskeletal system; basics of orthopedic manual therapy. Includes laboratory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -148,7 +148,7 @@
         "course_name": "Orthopedic Physical Therapy",
         "course_description": "Physical therapy diagnosis, management, and prevention of disorders of the musculoskeletal system; continuation of orthopedic manual therapy emphasizing the axial skeleton; traction; massage; taping; sport-specific injury rehabilitation; orthotics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -156,7 +156,7 @@
         "course_name": "Pediatric Physical Therapy",
         "course_description": "Physical therapy evaluation and treatment of children with movement dysfunction. Emphasis on therapeutic exercise.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -164,7 +164,7 @@
         "course_name": "Rehabilitation of the Neurologically Impaired Adult",
         "course_description": "Physical Therapy evaluation and treatment of adults who have incurred neurological deficits; emphasis on the restorative care of individuals following spinal cord injury, stroke, and traumatic head injury.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -196,7 +196,7 @@
         "course_name": "Clinical Evaluation and Procedures with Laboratory",
         "course_description": "Principles and procedures of basic evaluation methods and documentation: muscle strength, range of motion, muscle balance, posture, neurologic tests. Includes laboratory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -204,7 +204,7 @@
         "course_name": "Clinical Kinesiology with Laboratory",
         "course_description": "Advanced Kinesiology addressing functional mobility; specifics of normal human gait; pathokinetics of gait. Assistive devices; wheelchairs; orthoses and prostheses. Includes laboratory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -228,7 +228,7 @@
         "course_name": "Applied Neurophysiology for Allied Health Students",
         "course_description": "(same as OC_THR 7240; cross-leveled with OC_THR 4240, PH_THR 4240). Principles of basic neurophysiology, emphasizing correlation of structure and function of the nervous system.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -244,7 +244,7 @@
         "course_name": "Clinical Pathophysiology",
         "course_description": "(same as OC_THR 7270; cross-leveled with PH_THR 4270, OC_THR 4270)  Interdisciplinary and case-based examination of the pathophysiology, prevention and general health management of disease/injury across the lifespan encountered in occupational and physical therapy practice.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -252,7 +252,7 @@
         "course_name": "Physical Agents",
         "course_description": "Biophysics, theory and technique concerning the use of physical agents as adjuncts to exercise programs. Includes thermal, electrical, light, hydrotherapy and mechanical agents.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -260,7 +260,7 @@
         "course_name": "Foundations of Therapeutic Exercise",
         "course_description": "Physiologic basis of exercise throughout the lifespan with emphasis on the musculoskeletal, neuromuscular, cardiovascular/ pulmonary and integumentary systems and the effects of injury and disease on these systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -284,7 +284,7 @@
         "course_name": "Applied Therapeutic Exercise",
         "course_description": "Application of therapeutic exercise with an emphasis on evidenced-based exercise prescription, modes and techniques of exercise typically seen in rehabilitation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -300,7 +300,7 @@
         "course_name": "Bridging the Clinical-Research Gap",
         "course_description": "This class focuses on theories of clinical decision making and Evidence-based Practice, their applications to the clinical setting and dissemination of such information to colleagues in professional forums.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -308,7 +308,7 @@
         "course_name": "Introduction to Orthopedic Physical Therapy with Laboratory",
         "course_description": "Physical therapy diagnosis, management, and prevention of disorders of the musculoskeletal system; basics of orthopedic manual therapy. Includes laboratory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Pediatric Physical Therapy",
         "course_description": "Physical therapy evaluation and treatment of children with movement dysfunction. Emphasis on therapeutic exercise.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -332,7 +332,7 @@
         "course_name": "Rehabilitation of the Neurologically Impaired Adult",
         "course_description": "Physical Therapy evaluation and treatment of adults who have incurred neurological deficits; emphasis on the restorative care of individuals following spinal cord injury, stroke, and traumatic head injury.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -364,7 +364,7 @@
         "course_name": "Case Management I",
         "course_description": "Evaluation and team approach to physical therapy management in adult medical and surgical conditions: cardiopulmonary, rheumatic, oncologic, integumentary or wound care, including major burn injury. Psychosocial and ethical issues incorporated. Problem based; laboratory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -372,7 +372,7 @@
         "course_name": "Clinical Education II",
         "course_description": "Full time, supervised clinical experience addressing application of basic skills in patient evaluation and treatment, documentation and professional behaviors. Graded on S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -412,7 +412,7 @@
         "course_name": "Clinical Kinesiology with Laboratory",
         "course_description": "Advanced Kinesiology addressing functional mobility; specifics of normal human gait; pathokinetics of gait. Assistive devices; wheelchairs; orthoses and prostheses. Includes laboratory.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -460,7 +460,7 @@
         "course_name": "Professional Issues in the 21st Century",
         "course_description": "The physical therapist as health care professional, administrator, and educator; legal, ethical, and political issues. Service delivery management; delegation of care; rural vs. urban health care needs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

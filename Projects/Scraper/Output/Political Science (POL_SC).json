@@ -12,7 +12,7 @@
         "course_name": "American Government",
         "course_description": "Topics covered include Constitution, federalism, civil liberties, political attitudes, interest groups, political parties, nominations, elections, and campaigns, voting behavior, Congress, Presidency, bureaucracy, and judiciary. Meets state law requirement.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "International Relations",
         "course_description": "Contemporary international affairs including family of nations, control of national foreign policies, competition and cooperation in legal, political, economic, social fields.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "State Government",
         "course_description": "Government and politics at the state level, with emphasis on Missouri. Meets state law constitutional requirement.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "The Judicial Process",
         "course_description": "Analysis of roles played by American judges and courts in democratic policy formation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "American Constitutional Democracy",
         "course_description": "(same as HIST 2445) This course offers an introduction to American consitutional democracy. On the one hand, this course will strive to set the development of America's constitutional democracy into its historical context and to explain it in relation to larger social, political, military, and economic events. A second emphasis is on the nature and character of the American democratic system. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "The Intellectual World of the American Founders",
         "course_description": "This course demonstrates that truly understanding the American constitutional and democratic traditions begins with acknowledging and studying how, in framing the Constitution and in imagining the new nation, the Founders drew on the work and cobbled together the ideas of thinkers from multiple eras and continents and, moreover, thinkers of vastly different political ideologies and disciplinary expertise.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -132,7 +132,7 @@
         "course_name": "Politics and the Military",
         "course_description": "Comparative study of post-cold war civil-military relations; military as an interest group, change agent, policy instrument and competitor of civilian politicians.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -180,7 +180,7 @@
         "course_name": "Nation Building through a Barrel of a Gun",
         "course_description": "(same as MIL_SC 3164). This course was developed to provide students the opportunity to examine the dilemmas of military intervention, nation-building/peacekeeping operations and exit strategies.  This course is designed to challenge students to think critically and arrive at their own conclusions about the use of military power to settle differences between nations, and use of military forces to conduct nation building.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -188,7 +188,7 @@
         "course_name": "\"Chasing Ghost\", The History of Irregular Warfare",
         "course_description": "(same as MIL_SC 3165). This course explores the history of irregular warfare from the guerrilla perspective. The course examines the works of Mau Tse-Tung, Che Guevara, T.E. Lawrence and several other guerrilla leaders. You will analyze the evolution of irregular warfare through history and understand the complexities associated with the difficulties of countering and defeating irregular warfare. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -436,7 +436,7 @@
         "course_name": "Genocide, Terrorism and Civil War",
         "course_description": "This course explores the conditions that lead to the initiation, escalation and termination of civil wars as well as the causes and targets of terrorism and the effects of genocide.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -508,7 +508,7 @@
         "course_name": "Latin American Politics through Film",
         "course_description": "This course provides an introduction to Latin American politics using the medium of film to illustrate the complexities of political development, regime change, revolutionary movements, and problems facing new democracies such as crime, poverty, drugs, and democratic stability.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -628,7 +628,7 @@
         "course_name": "Comparative Political Behavior",
         "course_description": "Explores research questions related to cross-national differences and similarities in public opinion formation, political culture and values, voting behavior, and other forms of political participation. Violent forms of political participation are also considered. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -812,7 +812,7 @@
         "course_name": "Scope and Methods",
         "course_description": "Examines the major fields in the discipline, assumptions underlying empirical social science and theoretical issues in the study of politics. Primarily for doctoral candidates in political science.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -820,7 +820,7 @@
         "course_name": "Linear Models in Politics",
         "course_description": "Linear and non-linear multivariate estimation techniques with applications to political science research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -828,7 +828,7 @@
         "course_name": "Advanced Political Methodology",
         "course_description": "Analytic strategies and statistical models applicable to social science research. Emphasis on modeling political phenomena. Topics vary, include linear and nonlinear models, multidimensional scaling.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -836,7 +836,7 @@
         "course_name": "Introduction to Formal Political Theory",
         "course_description": "Formal and mathematical models of political institutions and behavior. Topics may include social choice, game theory, spatial models, coalition formation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -844,7 +844,7 @@
         "course_name": "Qualitative Research Methods in Political Science",
         "course_description": "Seminar on research design for qualitative research in political science.  Topics include case-study, archival, multi-method, and field research and other qualitative methods.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -868,7 +868,7 @@
         "course_name": "American Political Behavior",
         "course_description": "Critical examination of literature on political behavior in the United States. Topics include voting and elections, public opinion, parties and interest groups, political psychology, communication, elites, and collective action.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -876,7 +876,7 @@
         "course_name": "Voting and Elections",
         "course_description": "Research seminar on political participation, voter choice, campaigns, and elections, primarily in the United States. Covers theories, approaches and research on electoral behavior.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -884,7 +884,7 @@
         "course_name": "American Political Institutions",
         "course_description": "Critical examination of literature on political institutions in the United States. Topics include Congress, the Presidency, courts, the bureaucracy, political organizations, federalism, and institutional dynamics.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -892,7 +892,7 @@
         "course_name": "American State Politics",
         "course_description": "Research seminar on state government and politics in the U.S. Topics include state culture, mass politics, elections, state executives, legislatures, courts, and public policy.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -900,7 +900,7 @@
         "course_name": "Political Parties",
         "course_description": "Research seminar on the organization and activities of political parties, primarily in the United States. Attention to historical development, nature of party change, functions, elites, membership, political finance, and policy formulation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -908,7 +908,7 @@
         "course_name": "Interest Groups",
         "course_description": "Research seminar on nonpartisan organizations seeking to influence the public policy agenda. Includes problems of collective action, mobilization and organization of interest groups, strategies and tactics, lobbying, political movements, theories and research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -916,7 +916,7 @@
         "course_name": "Legislative Institutions",
         "course_description": "Research seminar on the U.S. Congress and legislative institutions generally. Topics include the legislative process, policy change, committees, political parties, leadership, representation, and relations with other branches of government.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -924,7 +924,7 @@
         "course_name": "Evolution of American Legislatures, 1619 to the Present",
         "course_description": "Examination of the organizational evolution of American legislatures from the colonial era to the present.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -932,7 +932,7 @@
         "course_name": "Research in American Politics",
         "course_description": "Directed research into one or more specific aspects of American Politics, behavior, and institutions.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -940,7 +940,7 @@
         "course_name": "Civil Rights and Civil Liberties",
         "course_description": "Research seminar on the U.S. Constitution, civil liberties, and civil rights. Topics include the First Amendment and freedom of expression and of belief, due process, the rights of the accused, privacy, equal protection, and constitutional interpretation.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -948,7 +948,7 @@
         "course_name": "Constitutional Law: Institutions and Powers",
         "course_description": "Research seminar on powers and constraints on government found in the U.S. Constitution. Topics include separation of powers, federalism, legislative and presidential power, the commerce clause, taxing and spending.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -956,7 +956,7 @@
         "course_name": "Public Law",
         "course_description": "Research seminar on the judicial process in the United States.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -964,7 +964,7 @@
         "course_name": "Racial and Ethnic Politics",
         "course_description": "Theories, institutional processes, and behaviors pertaining to social defined racial and ethnic groups. Topics include social dominance, representation, mobilization, public opinion, and the influence of racial and ethnic factors on the American political process.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -972,7 +972,7 @@
         "course_name": "Federalism and Intergovernmental Relations",
         "course_description": "Analyzes relationships among American governmental units emphasizing national-state relations and metropolitan area problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -980,7 +980,7 @@
         "course_name": "Public Policy",
         "course_description": "Covers the basic theory, approaches, problems and issues relating to the scope, development and implementation of public policy.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -988,7 +988,7 @@
         "course_name": "Administrative Politics",
         "course_description": "Critical examination of literature relating to selected topics in public bureaucracies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -996,7 +996,7 @@
         "course_name": "Research in Policy and Administration",
         "course_description": "Contemporary research in public policy, bureaucratic politics, public management and administration.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1004,7 +1004,7 @@
         "course_name": "Public Policy, Processes and Strategies",
         "course_description": "Provides an overview of the history, function, size, scope, development, and management of the nonprofit sector. Historical, political, economic, and social perspectives are used to examine the meaning of voluntarism, charity, philanthropy, and the nonprofit sector.  Graded on A-F basis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1012,7 +1012,7 @@
         "course_name": "Administration and Public Policy",
         "course_description": "Directed research in Public Administration or Public Policy. Inquire as to the emphasis for any given semester.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1020,7 +1020,7 @@
         "course_name": "Introduction to International Relations",
         "course_description": "Analysis, evaluation of some basic theories which attempt to explain international affairs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1028,7 +1028,7 @@
         "course_name": "Quantitative Approaches in International Relations",
         "course_description": "Research seminar emphasizing quantitative analysis of large data sets on international politics, especially international conflict. Topics include conflict escalation, correlates of war, deterrence, alliance behavior and the democratic peace.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1036,7 +1036,7 @@
         "course_name": "International Political Economy",
         "course_description": "Theories of political economy and current problems such as North-South relations, international trade, monetary relations, aid regimes, and international divisions of labor.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1044,7 +1044,7 @@
         "course_name": "Foreign Policy Analysis",
         "course_description": "Research seminar assessing foreign policy decisions and outcomes with particular attention given to decision-making. Both theoretical and empirical methods for testing foreign policy are considered.  Approaches include domestic politics, bureaucratic, and psychological models.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1052,7 +1052,7 @@
         "course_name": "International Conflict",
         "course_description": "This is an advanced seminar in international conflict. The range of material that might be included is vast, so an effort will be made to balance overall coverage with the need to look in more depth at some especially salient areas in the literature. The seminar unfolds in five parts.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1060,7 +1060,7 @@
         "course_name": "Coercive Diplomacy",
         "course_description": "Research seminar on how nations apply political and economic sanctions on other nations in order to compel or entice changes in foreign policy and/or government behavior.  How threats (short of conflict) and incentives govern international relations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1068,7 +1068,7 @@
         "course_name": "Theories of Civil War",
         "course_description": "Seminar on why groups may engage in violence against the state or other opposition groups.  Topics include causes of civil wars, terrorism as a strategy of violence and possible solutions including third part security, partition, intervention, power sharing and treaty design.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1076,7 +1076,7 @@
         "course_name": "Human Security",
         "course_description": "Seminar on cross-national civil, political, economic, social, and cultural rights.  The determinants of human security issues and the efficacy and dynamics of efforts from intergovernmental organizations, foreign aid, peacekeeping, interventions, and treaties on human rights.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1084,7 +1084,7 @@
         "course_name": "Selected Themes in International Relations",
         "course_description": "Graduate seminar in International Relatons. Variable content. May be repeated for credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1092,7 +1092,7 @@
         "course_name": "Strategic Studies",
         "course_description": "This graduate seminar analyzes important theories regarding strategic studies. The course explores topics such as war outcomes, military effectiveness, military history, military strategy, civil-military relations, counterinsurgency, military innovation, and air warfare. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1100,7 +1100,7 @@
         "course_name": "Introduction to Comparative Politics",
         "course_description": "Study of theories and approaches to comparative politics in Europe, Asia and/or Latin America.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1108,7 +1108,7 @@
         "course_name": "Latin American Politics",
         "course_description": "Research seminar on politics and government in Central and South America. Topics include modernization and dependency theories, civil-military relations, economics adjustment, democratic transitions, and area and country studies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1124,7 +1124,7 @@
         "course_name": "East Asian Politics",
         "course_description": "Intensive study of selected topics in the internal and external politics of China, Japan and Korea.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1140,7 +1140,7 @@
         "course_name": "African Politics",
         "course_description": "Research seminar on comparative African politics. Theory and research on sub-Saharan post-independence governance on the African continent.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1148,7 +1148,7 @@
         "course_name": "European Transitions",
         "course_description": "Research seminar comparing post-communist transitions with those from previous European transformations along economic, political, and social lines.  The course focuses on testing theories and on comparing transitional experiences in search of generalizable results.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1156,7 +1156,7 @@
         "course_name": "Politics of Development",
         "course_description": "Research seminar on the politics of development in the developing world. Examines the relationship between political and economic change in Africa, Asia and Latin America, as well as global patterns.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1164,7 +1164,7 @@
         "course_name": "Democracy and Dictatorship",
         "course_description": "Research seminar on comparative politics of authoritarian and democratic regimes.  Topics include characteristics and durability of authoritarianism, political institutions under autocracy, tactics of rule, state-society relations, transition and breakdown of regimes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1172,7 +1172,7 @@
         "course_name": "Democratization",
         "course_description": "Research seminar on the third wave of democratization. Classical and contemporary conceptions of democracy, measurement, theories, trends, and influences on democratization across the globe.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1180,7 +1180,7 @@
         "course_name": "Comparative Political Economy",
         "course_description": "Interdisciplinary, comparative analysis of political aspects of political economy, rural development, and related issues.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1188,7 +1188,7 @@
         "course_name": "Comparative Political Institutions",
         "course_description": "Research seminar on comparative political institutions. Debates in comparative politics on the influence of rules and institutions on political decisions in developed democracies. Topics include political parties, legislatures, governments, and electoral rules.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1196,7 +1196,7 @@
         "course_name": "Comparative Elections and Voting Behavior",
         "course_description": "This is a graduate level seminar in comparative political behavior. We will discuss a variety of topics dealing with comparative political behavior, such as the formation of partisan identification, public opinion formation, the decision to vote, organize and protest, and how foreign and domestic policy influence elections. The readings will introduce you to the various methodological techniques--including case studies, quantitative analysis, and agent-based modeling--used to test the empirical expectations of these theories. The goal of this course is to provide a solid foundation upon which you can build for comprehensive examinations. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1204,7 +1204,7 @@
         "course_name": "Comparative Political Parties",
         "course_description": "This course will analyze cross-national differences in the size and nature of party systems in established democracies.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1212,7 +1212,7 @@
         "course_name": "Seminar in Comparative Politics",
         "course_description": "Comparative study of selected aspects of political systems. Variable content. May be repeated for credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1228,7 +1228,7 @@
         "course_name": "Leadership in Civic Education",
         "course_description": "Intensive workshop for Missouri secondary social studies teachers. Includes instructional materials on U.S. and Missouri governments, lectures by leading scholars, breakout sessions, and interactions with government practitioners.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

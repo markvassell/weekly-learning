@@ -4,7 +4,7 @@
         "course_name": "Introduction to Electrical  and Computer Engineering",
         "course_description": "Introduction to the basic principles of electrical and computer engineering through hands-on activity.  Course includes fundaments of programming using Matlab, applied to electrical and computer engineering problems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Introduction to Logic Systems",
         "course_description": "Introduces basic tools, methods and procedures to design combinational and sequential digital circuits and systems.  Topics include number systems, Boolean algebra, logic minimization, circuit design, memory elements, and finite state machine design.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Electronic Circuits and Signals I",
         "course_description": "Electron Devices, modeling and applications to basic electronic circuits, including RC amplifiers and power supplies.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Corequisites: ECE 3810",
+        "credit_hours": "4Corequisites: ECE 3810",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Introduction to BioMEMS",
         "course_description": "(cross-leveled with ECE 7620). Study of BioMEMS devices and applications.  Topics cover BioMEMS including overview of microfabrication techniques, common bioMEMS material, microfluidic principles, microfluidic devices, drug delivery, biomedical microdevices for neural implants, patch-clamping and single cell based analysis systems, microelectroporation, DNA microarrays, Plymerase Chain Reaction and biopolymers, chemical and gas sensors and biosensors.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -404,7 +404,7 @@
         "course_name": "Introduction to Wireless Communication System",
         "course_description": "(cross-leveled with ECE 7730). Principles of wireless communication analysis and design. Digital communication basics, cellular radio, wireless PCS communications, multiple access techniques, channel coding and equalization, and standards of digital cellular/PCS systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -420,8 +420,8 @@
         "course_name": "Introduction to Computational Intelligence",
         "course_description": "(same as CMP_SC 4770; cross-leveled with ECE 7870, CMP_SC 7770).  Introduction to the concepts, models, and algorithms for the development of intelligent systems from the standpoint of the computational paradigms of neural networks, fuzzy set theory and fuzzy logic, evolutionary computation and swarm optimization.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: some exposure to rigorous axiomatic mathematical development of a topic (as can be found in most senior/graduate level math or statistics courses) is needed to appreciate some of the development of the theory.  Also, the ability to program (well) in some high level language is essential to perform the computer projects",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "some exposure to rigorous axiomatic mathematical development of a topic (as can be found in most senior/graduate level math or statistics courses) is needed to appreciate some of the development of the theory.  Also, the ability to program (well) in some high level language is essential to perform the computer projects"
     },
     {
         "course_number": "ECE 4880",
@@ -604,15 +604,15 @@
         "course_name": "Building Intelligent Robots",
         "course_description": "(same as CMP_SC 7730; cross-leveled with ECE 4340, CMP_SC 4730)  Covers the design and development of intelligent machines, emphasizing topics related to sensor-based control of mobile robots.  Includes mechanics and motor control, sensor characterization, reactive behaviors and control architectures.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: some programming experience",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "some programming experience"
     },
     {
         "course_number": "ECE 7350",
         "course_name": "Programmable Logic Controllers",
         "course_description": "(cross-leveled with ECE 4350). Hardware and software aspects of PLC's; computer/PLC Communications; developing ladder logic programs; interfacing I/O devices, including sensors, to the PLC; labeling and documentation; utilizing analog capabilities; applications; developing Supervisory Control and Data Acquisitions (SCADA) applications.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -716,7 +716,7 @@
         "course_name": "Introduction to BioMEMS",
         "course_description": "(cross-leveled ECE 4620). BioMEMS materials, fabrication techniques, micro-fluidic principles and devices, drug delivery, biomedical micro-devices for neural implants, patch clamping and single cell based systems, micro-electroporation, DNA microarrays, Plymerase Chain Reaction, chemical/gas/bio-sensors.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -796,7 +796,7 @@
         "course_name": "Introduction to Wireless Communication System",
         "course_description": "(cross-leveled with ECE 4730). Principles of wireless communication analysis and design. Digital communication basics, cellular radio, wireless PCS communications, multiple access techniques, channel coding and equalization, and standards of digital cellular/PCS systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -860,7 +860,7 @@
         "course_name": "Advanced Topics in Electrical and Computer Engineering",
         "course_description": "Advanced Topics in Electrical and Computer Engineering",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -876,7 +876,7 @@
         "course_name": "Superconductivity and its Applications",
         "course_description": "(same as NU_ENG 8450). Phenomenology and theory of superconductivity, cryogenic practice, metallurgy of superconducting elements, alloys and compounds. Present and prospective applications.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1060,7 +1060,7 @@
         "course_name": "Advanced Microelectromechanical Systems",
         "course_description": "MEMS development cycle, overview of microfabrication, microsystem modeling, mechanical analysis, thermal analysis, transduction mechanism, case studies; Micromirror, accelerometers, pressure sensors, force sensors, RF MEMS switches, Infrared sensors, and Microsystem packaging.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1076,7 +1076,7 @@
         "course_name": "Advanced Integrated Circuits",
         "course_description": "Fundamentals of advanced integrated circuit design; diffusion, ion implantation and epitaxy; MOS and bipolar techniques; survey of current LSI design, fabrication and testing.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1084,7 +1084,7 @@
         "course_name": "Solid State Theory I",
         "course_description": "Principles of quantum and wave mechanics as applied to solid state; Boltzman and Fermi statistics; energy band theory of crystals; electrons, holes in semiconductors. Current flow in P-N junctions, semiconductor devices.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1124,7 +1124,7 @@
         "course_name": "Microwave and RF Design of Wireless Systems",
         "course_description": "Introduces fundamentals of Microwave/RF design and analysis of modern wireless systems. Topics include the following: wireless system components, receiver design, performance issues, noise, distortion, measurement techniques and computer-aided design techniques.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1140,7 +1140,7 @@
         "course_name": "Fundamentals of Radar Signal Processing",
         "course_description": "Study of radar signal processing fundamentals.  Topics include radar systems, signal models, sampling and quantization of radar signals, radar waveforms, Doppler processing, detection fundamentals, radar imaging.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1156,7 +1156,7 @@
         "course_name": "Digital Signal Processing in Remote Sensing",
         "course_description": "Study of digital signal processing in remote sensing applications.  Investigation of digital signal processing methods for visible, near infrared, thermal infrared, and microwave wavelength sensors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1172,7 +1172,7 @@
         "course_name": "Advanced Mobile Communication Systems",
         "course_description": "Channel extimation and equalization, multi-user detection, diversity combining, multi-carrier and OFDM, Standards of 3G Wireless Communication Systems such as EDGE, CDMA 2000 and UMTS.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1188,7 +1188,7 @@
         "course_name": "Digital Processing of SAR Data",
         "course_description": "Study of digital processing of synthetic aperture radar (SAR) data.  Topics cover SAR data fundamentals including concepts, signal processing, pulse compression, signal properties, processing algorithms, and image processing.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1220,7 +1220,7 @@
         "course_name": "Visual Signal Processing and Communications",
         "course_description": "Threats visual digital signal processing and network communications covering both theory and application of coding, compression and communications via the web.  Covers such standards as JPEG, MPEG-2 and MPEG-4 as well as motion detection.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1228,7 +1228,7 @@
         "course_name": "Artificial Intelligence",
         "course_description": "Concepts, theories, and models pertaining to neural nets, pattern recognition, learning systems, and programmed problem solving.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1292,7 +1292,7 @@
         "course_name": "High Frequency Transmission and Radiation",
         "course_description": "Skin effect; theory of transmission lines, wave guides, resonators.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1300,7 +1300,7 @@
         "course_name": "Antennas",
         "course_description": "Point and aperture sources; simple antennas; antenna array; data-processing antennas; and other broadband and directive antennas.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1316,7 +1316,7 @@
         "course_name": "Advanced Topics in Electrical and Computer Engineering",
         "course_description": "Advanced Topics in Electrical and Computer Engineering",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

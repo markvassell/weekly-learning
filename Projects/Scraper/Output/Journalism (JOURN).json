@@ -4,7 +4,7 @@
         "course_name": "News Practicum",
         "course_description": "Instruction in fundamentals of newswriting for students entering the graduate program without an undergraduate degree in journalism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -12,7 +12,7 @@
         "course_name": "The News Media: Journalism and Advertising in a Democratic Society",
         "course_description": "This course surveys the fields of journalism and advertising and discusses their role in a democratic society.  Pre-Journalism and Journalism Majors cannot count this course towards the Bachelor of Journalism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -36,8 +36,8 @@
         "course_name": "Principles of American Journalism",
         "course_description": "Course designed to acquaint students with concepts and functions of journalism in American society. Stresses the basic issues and problems facing journalists and the mass media.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: For first-time college students a high school core GPA of 3.0 or higher and 15 college credits (dual, AP, IB or other). For current MU students a GPA of 2.75 and 15 college credits",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "For first-time college students a high school core GPA of 3.0 or higher and 15 college credits (dual, AP, IB or other). For current MU students a GPA of 2.75 and 15 college credits"
     },
     {
         "course_number": "JOURN 1940",
@@ -636,7 +636,7 @@
         "course_name": "Film Studies: The Intersections of Documentary Film and Journalism",
         "course_description": "(same as FILM_S 4370; cross-leveled with FILM_S 7370, JOURN 7370).  The popularity of documentary film in the past ten years has skyrocketed, and recent award-winning documentaries such as Inside Job (2010), Blackfish (2013), and The Invisible War (2012) are simultaneously entertaining audiences and investigating serious issues like the financial collapse, killer whale captivity, and sex crimes in the military--issues that in the past might have been covered exclusively by investigative journalism. What explains the public's growing fascination with documentary? How is documentary film reacting to recent transformations in the media landscape? Is it filling a critical need that journalism is no longer willing or able to meet? This course will explore the intersection of these two nonfiction storytelling forms - documentary film and journalism - and examine the role played by advocacy in both modes, as well as the cultural and ethical implications of the convergence between journalism and documentary film. In that it is centered on contemporary documentary film culture, the course also takes advantage of the True/ False Film Festival, and will be host to a conference during Week 6, featuring a number of major visiting filmmakers and film critics. Attendance at some sessions is required. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1196,7 +1196,7 @@
         "course_name": "Journalism and Conflict",
         "course_description": "(same as PEA_ST 4830). Introduction to the basic principles of conflict theory and negotiation, including the sources of conflict, why conflict escalates and what the conditions are for de-escalation, all with a special emphasis on the implications for the working journalist.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1444,7 +1444,7 @@
         "course_name": "Communications Law",
         "course_description": "Legal concepts, including prior restraint, libel, privacy, obscenity, contempt and access as they relate to print, broadcast, advertising and other areas.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1564,7 +1564,7 @@
         "course_name": "Area Seminar",
         "course_description": "Special lectures, readings, discussions relating to the urban journalism, state government reporting or local public affairs reporting programs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1572,7 +1572,7 @@
         "course_name": "Principles of Strategic Communication",
         "course_description": "(cross-leveled with JOURN 4200). Foundation course familiarizing students with an array of strategic communication tools and how they are used in the field.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1652,7 +1652,7 @@
         "course_name": "Strategic Design and Visuals I",
         "course_description": "Course gives students a foundation in visual communication in areas such as typography, balance, eye flow and layouts.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1836,7 +1836,7 @@
         "course_name": "The Intersections of Documentary Film and Journalism",
         "course_description": "(same as FILM_S 7370; cross-leveled with JOURN 4370). The popularity of documentary film in the past ten years has skyrocketed, and recent award-winning documentaries such as Inside Job (2010), Blackfish (2013), and The Invisible War (2012) are simultaneously entertaining audiences and investigating serious issues like the financial collapse, killer whale captivity, and sex crimes in the military-issues that in the past might have been covered exclusively by investigative journalism. What explains the public's growing fascination with documentary? How is documentary film reacting to recent transformations in the media landscape? Is it filling a critical need that journalism is no longer willing or able to meet?  This course will explore the intersection of these two nonfiction storytelling forms--documentary film and journalism--and examine the role played by advocacy in both modes, as well as the cultural and ethical implications of the convergence between journalism and documentary film.  In that it is centered on contemporary documentary film culture, the course also takes advantage of the True/ False Film Festival, and will be host to a conference during Week 6, featuring a number of major visiting filmmakers and film critics. Attendance at some sessions is required.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1844,8 +1844,8 @@
         "course_name": "Documentary Theory",
         "course_description": "(cross-leveled with JOURN 4371).  Documentary and other long-form story telling methods involve a complex series of decisions made in the creation of the work that determines its style, length, direction, point of view and more. These and a thousand other editing decisions are the difference between a successful project that touches its audience and one that falls short. The focus of this course is on the craft of editing, as seen in a variety of documentary and other works and explained through the decisions made in and out of the editing room that lead to the final product. The course will introduce important concepts of editing, the work of significant editors in both documentary and narrative fiction films, and seek to apply those techniques to the conceptualization of documentary work students will do as part of their degree. Students will understand the history of documentary editing as it evolved on its own and as influenced by narrative fiction films, the language of editing, the work of important editors and directors and how it influences today's aesthetic and how to apply what they have learned to their own documentary projects at an advanced level. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: JOURN 7564Recommended: JOURN 7370",
-        "recommendation": "None Listed"
+        "credit_hours": "3Corequisites: JOURN 7564",
+        "recommendation": "JOURN 7370"
     },
     {
         "course_number": "JOURN 7372",
@@ -1884,7 +1884,7 @@
         "course_name": "Digital News Editing",
         "course_description": "(cross-leveled with JOURN 4406).Real-world experience in digital editing and news decision-making coupled with newspaper production; emphasis on editing and headline writing across platforms, design for home page and mobile, social media, ethics and fundamentals of grammar. Lab work is hands-on experience at columbiamissourian.com and the Missourian newspaper.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1980,7 +1980,7 @@
         "course_name": "Computer-Assisted Reporting",
         "course_description": "How to negotiate for, transfer and process electronic information; the unique opportunities computers provide for analyzing information.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2084,7 +2084,7 @@
         "course_name": "Magazine Design",
         "course_description": "Introduction to typography of magazines from manuscript markup through layout to page proof. Extensions and limitations of typography are considered in light of current practice and economic possibilities.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2172,7 +2172,7 @@
         "course_name": "History of Photojournalism",
         "course_description": "Examination of the aesthetic and technological development of photography from its invention in 1839 to the present. Primary emphasis on the evolution and impact of the picture press and the documentary tradition in America, although international developments are studied as well.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2188,7 +2188,7 @@
         "course_name": "International News Media Systems",
         "course_description": "A comparative survey of current news media systems and how they affect the international flow of information. Newspapers, news agencies, broadcasting and satellite networks of the world are analyzed.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2196,7 +2196,7 @@
         "course_name": "International Journalism",
         "course_description": "An examination of the gathering, editing and dissemination of international news. The impact of social, economic, cultural and political structures on news media performance is evaluated.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2204,7 +2204,7 @@
         "course_name": "Media Forces Shaping the European Union",
         "course_description": "Seminar analyzes the role of media in shaping policies and actions of the European Union member nations and their people.  Open to graduate students regardless of major and to undergraduates with instructor's consent.  Course qualifies for EU Certificate Program.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2212,7 +2212,7 @@
         "course_name": "Global News Across Platforms",
         "course_description": "(cross-leveled with JOURN 4662). Online, radio, and print production for a converged media enterprise, Global Journalist. Students report, write, plan, edit, design, and produce a video and radio program and website on international news while working under weekly deadlines.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2236,7 +2236,7 @@
         "course_name": "Newspaper Management",
         "course_description": "Department-by-department organization, business practices, personnel, rate structures, equipment, production, laws and regulations of concern to newspaper management. Cases examine critical newspaper management issues.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2260,7 +2260,7 @@
         "course_name": "Internet Law",
         "course_description": "This course will focus on how to avoid legal pitfall while doing e-mail or e-commerce or browsing the Web and how to use the law to your benefit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2276,7 +2276,7 @@
         "course_name": "Journalism and Conflict",
         "course_description": "Introduction to the basic principles of conflict theory and negotiation, including the sources of conflict, why conflict escalates and what the conditions are for de-escalation, all with a special emphasis on the implications for the working journalist.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2292,7 +2292,7 @@
         "course_name": "Changing Media Business Models",
         "course_description": "Analysis of the economic changes in news media.  Explore concepts and theories of monetizing media.  Hands-on experience in creating innovations in media business models.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2460,7 +2460,7 @@
         "course_name": "Mass Media Seminar",
         "course_description": "Concepts, functions and major problems of print and electronic media in the United States. Two hours lecture and one hour of discussion lab each week.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2468,7 +2468,7 @@
         "course_name": "Seminar on Topics in Journalism",
         "course_description": "Problems, issues and approaches to research in selected topic areas. Specific content varies by needs of faculty and students and will be announced in advance.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2484,7 +2484,7 @@
         "course_name": "Qualitative Research Methods in Journalism",
         "course_description": "Course is designed to introduce graduate students to common qualitative approaches applicable to the study of journalism and mass communication. Students will learn a variety of approaches, practical methodologies and tools that will help them conduct research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2492,7 +2492,7 @@
         "course_name": "Advanced Qualitative Methods in Journalism",
         "course_description": "Designed to familiarize doctoral students with qualitative approaches applicable to the study of journalism and mass communication. Students will be introduced to a variety of philosophical and conceptual approaches as well as to practical tools-oriented methodologies in four major areas of qualitative research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2500,7 +2500,7 @@
         "course_name": "Advanced Quantitative Research Methods",
         "course_description": "Experimental design, factor analysis, semantic differential and Q methodology as tools for the researcher in journalism, communication.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2508,7 +2508,7 @@
         "course_name": "Strategic Communication Research II",
         "course_description": "Course reviews the latest principles of strategic communication with emphasis on the crucial role of research to develop informed strategy, monitor communication programs and evaluate overall campaign effectiveness.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2516,7 +2516,7 @@
         "course_name": "Principles and Tools in Strategic Communication Planning",
         "course_description": "Introduces the latest principles of strategic communication and the importance of strategic planning in many contemporary communication fields. A significant operational component in the course introduces skills such as budgeting, scheduling objective-setting, organizing personal time, and managing people.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2524,7 +2524,7 @@
         "course_name": "Philosophy of Journalism",
         "course_description": "Seminar deals with wide assortment of philosophical questions in journalism but concentrates on epistemology, political press theory and ethics. Such questions as \"objectivity\" in journalism, press responsibility, professionalism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2532,7 +2532,7 @@
         "course_name": "The Literature of Journalism",
         "course_description": "Reading of ten basic books about journalism. Several books are assigned to everyone; several are assigned on an individual basis, and several are electives. Oral reports, short papers, and class discussion.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2540,7 +2540,7 @@
         "course_name": "History of Mass Media",
         "course_description": "American mass media from colonial days to present in the context of social, economic and political change. History research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2548,7 +2548,7 @@
         "course_name": "Media Sociology",
         "course_description": "This course examines the relationship between media (and journalism in particular) and society by addressing the impact of society on media and the impact of media on society. It connects media actors, organizations, and institutions to important sociological concepts, such as socialization, social interaction, social roles, and social structures, concerns, such as power, ideology, autonomy, and identity, and debates, such as agency-structure, subjectivity-objectivity, and stability-change. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2556,7 +2556,7 @@
         "course_name": "Historical Methods",
         "course_description": "Graduate seminar in research methods and theoretical approaches used by media historians, including oral history, biography, quantitative and archival research.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2564,7 +2564,7 @@
         "course_name": "Seminar in Communications Law",
         "course_description": "A graduate-level survey of issues in media law, as well as an introduction to First Amendment theory and scholarship.  The course familiarizes students with fundamental concepts of mass media law through exposure to primary materials and provides students with the opportunity to analyze the issues discussed in class through individual research projects.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2572,7 +2572,7 @@
         "course_name": "Health News and Promotion",
         "course_description": "This is an advanced seminar that examines and critiques the literature on health communication in news about health and its impact and health promotion campaigns.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2588,7 +2588,7 @@
         "course_name": "Controls of Information",
         "course_description": "A detail of actions by government, largely the federal government, calculated to limit or alter the content of information in the United States.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2596,7 +2596,7 @@
         "course_name": "Case Studies in the Digital Globe",
         "course_description": "This course seeks to broaden students perspective about how digital technology affects the world around us.  Final course in the CDiG certificate.  Inter-departmental course.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2612,7 +2612,7 @@
         "course_name": "Theory of Mass Communication",
         "course_description": "Major communication theories and theorists. Interpersonal theories are included as they relate to mass communication.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2628,7 +2628,7 @@
         "course_name": "The Mass Media and the Presidency",
         "course_description": "This seminar examines that historical triad of the free expression clauses of the First Amendment, the presidency and the American mass media through readings, class assignments and a project.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2644,7 +2644,7 @@
         "course_name": "Media Ethics",
         "course_description": "An introduction to and application of ethical theory to their contemporary mass media.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2668,7 +2668,7 @@
         "course_name": "Photography in Society",
         "course_description": "Social and political dimensions of still photography with emphasis on critical thinking and analysis in visual communication.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2732,7 +2732,7 @@
         "course_name": "Area Seminar in Journalism",
         "course_description": "Seminar designed to accompany JOURN 8190, Area Problem. Through readings and discussions the master's student examines the special area related to the project.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2748,7 +2748,7 @@
         "course_name": "Doctoral Theory and Research I",
         "course_description": "First semester of a one-year course that covers theory and method in important topic areas. Each topic would be examined from several theoretical and methodological points of view. Required of doctoral students.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2756,7 +2756,7 @@
         "course_name": "Doctoral Theory and Research II",
         "course_description": "Continuation of JOURN 9000. Required of doctoral students.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2772,7 +2772,7 @@
         "course_name": "Doctoral Research Design",
         "course_description": "This course is designed to meet the University requirement for a first-year qualifying examination process for doctoral students, involve students in research early in their programs and encourage students to recruit members of their doctoral committees.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2780,7 +2780,7 @@
         "course_name": "Advanced Seminar, Theory of Communication",
         "course_description": "In-depth investigation of communication theory with emphasis on problems of theory building in communication.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -2788,7 +2788,7 @@
         "course_name": "Media and Politics",
         "course_description": "With a general premise that the mass media play a central role in American politics, this seminar seeks to answer how the class will examine various theoretical bases for that role and the ensuing political communications, the issues raised in covering American politics, and the types of effects both from politicians and from the mass media coverage on the American society.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2796,7 +2796,7 @@
         "course_name": "Risk Communication",
         "course_description": "Designed to acquaint students from a variety of disciplines and with a variety of career goals with the scholarship of risk communication.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -2804,7 +2804,7 @@
         "course_name": "Mass Communication and Cultural Theory",
         "course_description": "Explores the relationship between mass communication and the idea of culture as it emerges during the second half of the twentieth century in the United States.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

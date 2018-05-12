@@ -12,7 +12,7 @@
         "course_name": "Introduction to Digital Storytelling",
         "course_description": "(same as ENGLSH 1880; FILM_S 1880). Introduction to concepts and skills for Digital Storytelling, including media literacy and forms of narrative manifested historically and currently across a range of media. This course focuses on theories and concepts that support the critical analysis and creation of contemporary narrative in digital form with particular attention to audio, visual and written communication. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Topics in Digital Storytelling",
         "course_description": "Organized study of selected topics in Digital Storytelling. Subject may vary from semester to semester. May be repeated with consent of instructor. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Topics in Digital Storytelling",
         "course_description": "Organized study of selected topics in Digital Storytelling. Subject may vary from semester to semester. May be repeated with consent of instructor. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,24 +52,24 @@
         "course_name": "Digital Storytelling Animation Production I",
         "course_description": "(same as ENGLSH 2885). Introduction to all aspects of digital animation and elements of the 3D computer animation production pipeline, including story drafting and production planning, polygonal modeling and texturing, rigging, key framing, lighting, compositing rendered images, and editing into a short finished film. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ENGLSH 1000",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ENGLSH 1000"
     },
     {
         "course_number": "DST 3001",
         "course_name": "Topics in Digital Storytelling",
         "course_description": "Organized study of selected topics in Digital Storytelling. Subject may vary from semester to semester. May be repeated with consent of instructor. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Sophomore standing"
     },
     {
         "course_number": "DST 3005",
         "course_name": "Topics in Digital Storytelling",
         "course_description": "Organized study of selected topics in Digital Storytelling. Subject may vary from semester to semester. May be repeated with consent of instructor. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Sophomore standing"
     },
     {
         "course_number": "DST 3005H",
@@ -84,15 +84,15 @@
         "course_name": "Topics in Digital Storytelling",
         "course_description": "Organized study of selected topics in Digital Storytelling. Subject may vary from semester to semester. May be repeated with consent of instructor. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Sophomore standing"
     },
     {
         "course_number": "DST 3510",
         "course_name": "Think Global: Fundamentals of Globalization and Digital Technology",
         "course_description": "(same as GERMAN 3510, JOURN 3510, PEA_ST 2810, T_A_M 3010).  This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives. The course is open to students in any discipline. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -108,7 +108,7 @@
         "course_name": "Think Global: Fundamentals of Globalization and Digital Technology - Writing Intensive",
         "course_description": "(same as GERMAN 3510W, JOURN 3510W, PEA_ST 2810W, T_A_M 3010W).  This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives. The course is open to students in any discipline. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -132,16 +132,16 @@
         "course_name": "Writing and Theory for Digital Media",
         "course_description": "(same as ENGLSH 3880). Writing and Theory for Digital Media teaches the skills, methods and theoretical frameworks needed to write for new media. Students will study and practice writing for web-based and digital media platforms, including short-form modes such as Twitter and various social media sites; longer-form modes such as blogs, vlogs and podcasts; and the emerging possibilities of locative and interactive media. Assignments emphasize the professional and creative possibilities of new media production. In addition to the hands-on creation for audio, screen-based, networked, and hybrid forms of digital media, students will also read, discuss, and write about work by new media theorists. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Sophomore standing or above; ENGLSH 1000 and DST 1880",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Sophomore standing or above; ENGLSH 1000 and DST 1880"
     },
     {
         "course_number": "DST 3880W",
         "course_name": "Writing and Theory for Digital Media - Writing Intensive",
         "course_description": "(same as ENGLSH 3880). Writing and Theory for Digital Media teaches the skills, methods and theoretical frameworks needed to write for new media. Students will study and practice writing for web-based and digital media platforms, including short-form modes such as Twitter and various social media sites; longer-form modes such as blogs, vlogs and podcasts; and the emerging possibilities of locative and interactive media. Assignments emphasize the professional and creative possibilities of new media production. In addition to the hands-on creation for audio, screen-based, networked, and hybrid forms of digital media, students will also read, discuss, and write about work by new media theorists. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Sophomore standing or above; ENGLSH 1000 and DST 1880",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Sophomore standing or above; ENGLSH 1000 and DST 1880"
     },
     {
         "course_number": "DST 3885",
@@ -164,16 +164,16 @@
         "course_name": "Topics in Digital Storytelling",
         "course_description": "Advanced study of selected topics in Digital Storytelling. Subject may vary from semester to semester. May be repeated with consent of instructor. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Sophomore standing"
     },
     {
         "course_number": "DST 4005",
         "course_name": "Topics in Digital Storytelling",
         "course_description": "Advanced study of selected topics in Digital Storytelling. Subject may vary from semester to semester. May be repeated with consent of instructor. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Sophomore standing"
     },
     {
         "course_number": "DST 4805",
@@ -244,7 +244,7 @@
         "course_name": "Capstone Experience",
         "course_description": "For students in their senior year who have completed the core requirements for the Digital Storytelling program, this course focuses on advanced studies in the field and a major project involving the processes of selection, research, and production or writing leading to its completion. May include a professional component. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     }
 ]

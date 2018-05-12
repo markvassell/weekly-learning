@@ -12,7 +12,7 @@
         "course_name": "Ecology and Conservation of Natural Resources",
         "course_description": "Introduction to the principles of resource and conservation describing the foundation of the variety of natural resources and conservation practices used to protect and maintain these resources.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,8 +52,8 @@
         "course_name": "Issues in Natural Resources and the Environment",
         "course_description": "This course provides an introduction to ecological and environmental challenges in natural resource management in our rapidly changing world. Topical discussions will provide students with informed perspectives of several contemporary issues that affect the sustainability of our natural resources.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: This course is recommended as an introductory course for non-science majors",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "This course is recommended as an introductory course for non-science majors"
     },
     {
         "course_number": "NAT_R 3001",
@@ -68,15 +68,15 @@
         "course_name": "Natural Resource Biometrics",
         "course_description": "Sampling methods and analysis as applied to a variety of natural resources, including fisheries, range, recreation, forests, water and wildlife.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: a course in Statistics",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "a course in Statistics"
     },
     {
         "course_number": "NAT_R 3220",
         "course_name": "Public Relations for Natural Resource Managers",
         "course_description": "Introduction to the practical nature of public relations for those entering natural resources careers, emphasis on communication with target audiences through news media, publications and exhibits.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -188,7 +188,7 @@
         "course_name": "Foundations of Environmental Education",
         "course_description": "(cross-leveled with NAT_R 4024, ENV_SC 4024). This course provides a theoretical foundation to environmental education (EE). The purpose of this course is to develop the knowledge and skills for developing quality, age-appropriate EE for students in both formal and non-formal education setting. The emphasis is on EE curriculum materials, resources, and programs that can be used with students in settings at classrooms, nature centers, museums, and parks. This course involves training in the Missouri Department of Conservation Discover Nature School educational materials, and in observing and teaching EE lessons in a local nature center. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -284,7 +284,7 @@
         "course_name": "Society and Ecosystems Research Seminar",
         "course_description": "(same as AG_EC 8448 and RU_SOC 8448). This seminar, capstone for the Graduate Certificate Program in Society and Ecosystems, exposes students to interdisciplinary research on interactions between social, economic and ecological systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

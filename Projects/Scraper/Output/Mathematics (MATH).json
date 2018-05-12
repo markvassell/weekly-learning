@@ -4,7 +4,7 @@
         "course_name": "Intermediate Algebra",
         "course_description": "MATH _0110 is a preparatory course for college algebra that carries no credit towards any baccalaureate degree.  However, the grade received in MATH _0110 does count towards a student's overall GPA.  The course covers operations with real numbers, graphs of functions, domain and range of functions, linear equations and inequalities, quadratic equations; operations with polynomials, rational expressions, exponents and radicals; equations of lines.  Emphasis is also put on problem-solving.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -284,7 +284,7 @@
         "course_name": "History of Mathematics",
         "course_description": "This is a history course with mathematics as its subject. Includes topics in the history of mathematics from early civilizations onwards.  The growth of mathematics, both as an abstract discipline and as a subject which interacts with others and with practical concerns, is explored.  Prerequisites or Cirequisite:  MATH 2300 or MATH 2340.  Writing intensive sections require ENGLSH 1000.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -292,7 +292,7 @@
         "course_name": "History of Mathematics - Writing Intensive",
         "course_description": "This is a history course with mathematics as its subject. Includes topics in the history of mathematics from early civilizations onwards.  The growth of mathematics, both as an abstract discipline and as a subject which interacts with others and with practical concerns, is explored.  Prerequisites or Cirequisite:  MATH 2300 or MATH 2340.  Writing intensive sections require ENGLSH 1000.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -540,7 +540,7 @@
         "course_name": "Senior Seminar in Mathematics",
         "course_description": "Seminar with student presentations, written projects, and problem solving. May be used for the capstone requirement.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -620,7 +620,7 @@
         "course_name": "History of Mathematics",
         "course_description": "This is a history course with mathematics as its subject. Includes topics in the history of mathematics from early civilizations onwards.  The growth of mathematics, both as an abstract discipline and as a subject which interacts with others and with practical concerns, is explored.  Pre- or Co-requisite: MATH 2300 or MATH  2340 and graduate standing.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -884,7 +884,7 @@
         "course_name": "Problems in Mathematics",
         "course_description": "Problems in Mathematics",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -892,7 +892,7 @@
         "course_name": "Master's Thesis Research in Mathematics",
         "course_description": "Students will be required to complete an independent project. Topics are chosen in consultation with a faculty advisor and are subject to departmental consent.  Graded on S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -908,7 +908,7 @@
         "course_name": "Masters Project in Mathematics",
         "course_description": "Masters Project in Mathematics",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -916,7 +916,7 @@
         "course_name": "Topics in Functional Analysis",
         "course_description": "Topics in Functional Analysis",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -948,7 +948,7 @@
         "course_name": "Topics in Harmonic Analysis",
         "course_description": "Topics in Harmonic Analysis",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -956,7 +956,7 @@
         "course_name": "Topics in Mathematical Physics",
         "course_description": "Topics in Mathematical Physics",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1020,7 +1020,7 @@
         "course_name": "Advanced Ordinary Differential Equations II",
         "course_description": "Continuation of MATH 8440.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1108,7 +1108,7 @@
         "course_name": "Topology Seminar",
         "course_description": "Topology Seminar",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1116,7 +1116,7 @@
         "course_name": "Topics in Financial Mathematics and Insurance",
         "course_description": "Topics in Financial Mathematics and Insurance",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1220,7 +1220,7 @@
         "course_name": "Topics in Applied Mathematics",
         "course_description": "Selected topics in applied mathematics drawn from variety of areas: partial differential equations, tensor analysis, calculus of variations, asymptotic methods, integral equations, advanced theory of transforms and distributions, numerical analysis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1228,7 +1228,7 @@
         "course_name": "Numerical Mathematics Seminar",
         "course_description": "Numerical Mathematics Seminar",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1244,7 +1244,7 @@
         "course_name": "Algebra Seminar",
         "course_description": "Algebra Seminar",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1252,7 +1252,7 @@
         "course_name": "Functional Analysis Seminar",
         "course_description": "Functional Analysis Seminar",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1260,7 +1260,7 @@
         "course_name": "Harmonic Analysis Seminar",
         "course_description": "Harmonic Analysis Seminar",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1268,7 +1268,7 @@
         "course_name": "Mathematical Physics Seminar",
         "course_description": "Mathematical Physics Seminar",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1276,7 +1276,7 @@
         "course_name": "Topics in Topology",
         "course_description": "Advanced topics in topology or topological algebra.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1284,7 +1284,7 @@
         "course_name": "Geometry Seminar",
         "course_description": "Geometry Seminar",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1292,7 +1292,7 @@
         "course_name": "Financial Mathematics Seminar",
         "course_description": "Financial Mathematics Seminar",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1308,7 +1308,7 @@
         "course_name": "Applied Mathematics Seminar",
         "course_description": "Applied Mathematics Seminar",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1316,7 +1316,7 @@
         "course_name": "Analysis Seminar",
         "course_description": "Analysis Seminar",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     }
 ]

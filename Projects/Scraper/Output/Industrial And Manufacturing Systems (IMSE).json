@@ -20,7 +20,7 @@
         "course_name": "Undergraduate Seminar",
         "course_description": "Seminars are held monthly to provide a forum for departmental communication of upcoming opportunities (jobs, speakers, deadlines, etc.), speakers from industry to provide educational context, and student interaction. Required every semester of enrollment for graduation. Graded on S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 0",
+        "credit_hours": "0",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Fundamentals of Systems Design and Analysis",
         "course_description": "Develop an understanding of a systems approach to the design and operation of modern industrial organizations: systems structure and function, system specification, structured problem solving and system design methodology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -116,7 +116,7 @@
         "course_name": "Topics in Industrial and Manufacturing Systems Engineering",
         "course_description": "Current and new technical developments in industrial engineering.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -324,8 +324,8 @@
         "course_name": "Cognitive Ergonomics",
         "course_description": "(cross-leveled with IMSE 7810). This course will cover the study of empirical research in Cognitive ergonomics and Human-Computer Interaction (HCI). Students will learn cognitive information processing, mental workload, human reliability, and empirical methods in HCI research. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Junior or senior level undergraduate students",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Junior or senior level undergraduate students"
     },
     {
         "course_number": "IMSE 4910",
@@ -396,7 +396,7 @@
         "course_name": "Topics in Industrial and Manufacturing Systems Engineering",
         "course_description": "Current and new technical developments in industrial engineering.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -508,7 +508,7 @@
         "course_name": "Computer Aided Design and Manufacturing",
         "course_description": "(cross-leveled with IMSE 4550). Product realization process from design, process planning, to manufacturing. Includes CE, DFS/DFM, CAD, CAPP, CNC, and survey of manufacturing methods.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -516,7 +516,7 @@
         "course_name": "Introduction to Rapid Prototyping",
         "course_description": "(cross-leveled with IMSE 4560). Course covers all five MU systems: FDM, SLS, SLA, Polyjet, 3DP. Students will learn fundamental rapid prototyping and related concepts, and design and produce models from each system. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -524,7 +524,7 @@
         "course_name": "Computer Integrated Manufacturing Control",
         "course_description": "Implementation of computer integrated manufacturing (CIM) and automation at the shop floor level. Covers essential components of machine sensing and actuation (including programmable robots), information representation and processing, data communication and networking.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -548,7 +548,7 @@
         "course_name": "Entrepreneurial Innovation Management: Advanced Enterprise Conception",
         "course_description": "Develop a new business and technology plan (including marketing, finance, engineering, manufacturing, and production concepts) in this joint College of Engineering/College of Business course.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -564,7 +564,7 @@
         "course_name": "Entrepreneurial Innovation Management: Advanced Enterprise Operations",
         "course_description": "Perform the day-to-day operations for an enterprise by managing all business processes including finance, manufacturing, sales, and delivery.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -572,7 +572,7 @@
         "course_name": "Cognitive Ergonomics and Decision Making",
         "course_description": "(cross-leveled with IMSE 4810). This course will cover the study of empirical research in cognitive ergonomics and Human-Computer Interaction (HCI). Students will learn cognitive information processing, mental workload, human reliability, decision-making, and empirical methods in HCI research. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -580,7 +580,7 @@
         "course_name": "Advanced Topics in Industrial & Manufacturing Systems Engineering",
         "course_description": "Current and new technical developments in industrial engineering.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -588,7 +588,7 @@
         "course_name": "Advanced Manufacturing and Supply Systems",
         "course_description": "The design, regulation, and optimization of manufacturing and supply systems through systems analysis.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -612,7 +612,7 @@
         "course_name": "Industrial Engineering Graduate Seminar",
         "course_description": "Selected topics in industrial engineering; oral presentations and engineering reports. Graded on S/U basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 0",
+        "credit_hours": "0",
         "recommendation": "None Listed"
     },
     {
@@ -700,7 +700,7 @@
         "course_name": "Strategic Enterprise Management",
         "course_description": "Topics including enterprise strategies, process and content models, strategy implementation, value chain analysis, business processes, systems engineering approaches, business process reengineering, and dynamic systems modeling.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -708,7 +708,7 @@
         "course_name": "Human Factors",
         "course_description": "Human factors inputs, outputs and environment and their influence on design and evaluation of man and machine systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -716,7 +716,7 @@
         "course_name": "Health Care Systems Design and Analysis",
         "course_description": "Health care systems design principles and major problems, basic organization within health care system, alternative system design strategies, factors affecting design process success.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

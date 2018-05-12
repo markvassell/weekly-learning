@@ -4,7 +4,7 @@
         "course_name": "Elementary Japanese I",
         "course_description": "For beginners with no prior knowledge of Japanese.  Three hours of lecture instruction and three hours of practice/drill per week in small groups.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 6",
+        "credit_hours": "6",
         "recommendation": "None Listed"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Japanese Civilization I",
         "course_description": "Survey of Japanese culture and arts before 1868. May be taken independently of JAPNSE 2320. No knowledge of Japanese required. No foreign language credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Japanese Civilization II",
         "course_description": "Survey of Japanese culture and arts after 1868. May be taken independently of JAPNSE 2310. No knowledge of Japanese required. No foreign language credit.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,8 +60,8 @@
         "course_name": "The World of Japanese Business",
         "course_description": "Designed to assist the student to achieve successful business contacts with Japanese counterparts by understanding the characteristics of Japanese business in cultural, economical, and practical contexts and by learning useful Japanese terms and expressions in business.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "sophomore standing"
     },
     {
         "course_number": "JAPNSE 3085",
@@ -84,16 +84,16 @@
         "course_name": "Classical Japanese Literature (in translation)",
         "course_description": "This course studies Classical Japanese Literature preceded by a brief historical survey of Japanese literature. Analyzes such works as \"The Tale of Genji\",  \"Essays in Idleness\", \"The Pillow Book\",  \"Hojoki\" and NO drama. Readings and lectures in English.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "sophomore standing"
     },
     {
         "course_number": "JAPNSE 3360",
         "course_name": "Modern Japanese Literature (in Translation)",
         "course_description": "Surveys Japanese literature from 1868 to present. Analyzes works by such authors as Soseki, Tanizaki, Kawabata, Mishima, Oe, Murakami, and others. Readings and lectures in English.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: sophomore standing",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "sophomore standing"
     },
     {
         "course_number": "JAPNSE 3370",

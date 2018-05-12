@@ -4,7 +4,7 @@
         "course_name": "Elementary French I",
         "course_description": "An introductory course for students who wish to begin their study of French.  It teaches the four skills--listening, speaking, reading, and writing.  The class meets four days a week and one day in the lab.  Classtime is used to practice the structures and vocabulary.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Accelerated Beginning French",
         "course_description": "Course is designed for students who have taken more than two years of High School French.  It offers a reinforcement of the beginning concepts of the French language and the many cultures it encompasses.  Course allows students to further develop all language skills.  NO credit for both FRENCH 1200 and FRENCH 1250.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -428,7 +428,7 @@
         "course_name": "The Capstone Experience in French",
         "course_description": "This course is required of all majors. Topics vary but all courses synthesize and review essential components of the major: speaking, writing, reading in French, and the ability to think critically and analytically.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -468,7 +468,7 @@
         "course_name": "Foreign Language Teaching Methodology",
         "course_description": "(same as SPAN 7120). Theory and techniques of current foreign language methodology and their application in the classroom. Presentation of instructional projects, classroom observations, and strategies for classroom management.  May not be used toward Arts and Science major.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -580,7 +580,7 @@
         "course_name": "Blogging the World: The Web in Cultural Context",
         "course_description": "(same as RUSS 7820 and GERMAN 7820). Innovative interdisciplinary course addresses issues of access to international news and specific cultural context.  Working in cross-disciplinary teams, students in journalism, foreign language, international studies, political science and various other disciplines track cultural developments and information on non-US Web sites, blogs and digital social networks along with exploring various historical forms of communication that preceded the digital era of the Web.  Students analyze the potential and limitations/effects of blogs and the web in specific contemporary cultural contexts and as part of the broader historical evolution of the web.  The course is taught in English.  The goal of this course is two-fold:  students learn the particulars of web blogging, explore various features of the contemporary social network landscape while focusing on the concepts of culture, in particular the cultures of Europe and the US.  Questions asked are: what is culture?  What is common or popular right now in other cultures? And how do new social networks amplify or alter certain features or culture across national and international contexts?",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -596,7 +596,7 @@
         "course_name": "Special Themes in French",
         "course_description": "Subject varies according to instructor.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -604,7 +604,7 @@
         "course_name": "The Capstone Experience in French",
         "course_description": "This course is required of all majors. Topics vary but all courses synthesize and review essential components of the major: speaking, writing, reading in French, and the ability to think critically and analytically.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -644,7 +644,7 @@
         "course_name": "Bilingualism and Language Contact",
         "course_description": "(same as SPAN 8120 and LINGST 8120). Global analysis of the study of Bilingualism from a combined sociocultural, sociolinguistic and psycholinguistic perspective based on current research and examination of various phenomena of language contact (taught in English).",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -652,56 +652,56 @@
         "course_name": "Old French",
         "course_description": "Old French.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: FRENCH 4710 or FRENCH 7710 and some knowledge of Latin",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "FRENCH 4710 or FRENCH 7710 and some knowledge of Latin"
     },
     {
         "course_number": "FRENCH 8412",
         "course_name": "Studies in French Medieval Literature",
         "course_description": "Studies in French Medieval Literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: FRENCH 4410 or FRENCH 7710",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "FRENCH 4410 or FRENCH 7710"
     },
     {
         "course_number": "FRENCH 8416",
         "course_name": "Studies in the French Renaissance",
         "course_description": "Studies in the French Renaissance.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: FRENCH 4420 or FRENCH 7420",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "FRENCH 4420 or FRENCH 7420"
     },
     {
         "course_number": "FRENCH 8417",
         "course_name": "Studies in Seventeenth-Century French Literature",
         "course_description": "Studies in Seventeenth-Century French Literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: FRENCH 4430 or FRENCH 7430",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "FRENCH 4430 or FRENCH 7430"
     },
     {
         "course_number": "FRENCH 8418",
         "course_name": "Studies in Eighteenth-Century French Literature",
         "course_description": "Studies in Eighteenth-Century French Literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: FRENCH 4440 or FRENCH 7440",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "FRENCH 4440 or FRENCH 7440"
     },
     {
         "course_number": "FRENCH 8419",
         "course_name": "Studies in Nineteenth-Century French Literature",
         "course_description": "Studies in Nineteenth-Century French Literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: FRENCH 4450 or FRENCH 7450; or FRENCH 4490 or FRENCH 7490",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "FRENCH 4450 or FRENCH 7450; or FRENCH 4490 or FRENCH 7490"
     },
     {
         "course_number": "FRENCH 8420",
         "course_name": "Studies in Twentieth-Century French Literature",
         "course_description": "Studies in Twentieth-Century French Literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: FRENCH 4460 or FRENCH 7460, FRENCH 4470 or FRENCH 7470 or FRENCH 4480 or FRENCH 7480",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "FRENCH 4460 or FRENCH 7460, FRENCH 4470 or FRENCH 7470 or FRENCH 4480 or FRENCH 7480"
     },
     {
         "course_number": "FRENCH 9080",

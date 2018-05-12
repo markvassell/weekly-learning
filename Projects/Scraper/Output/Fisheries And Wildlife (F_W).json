@@ -12,7 +12,7 @@
         "course_name": "Introduction to Captive Wild Animal Management",
         "course_description": "(same as AN_SCI 1012). General introduction to housing, husbandry, behavior, genetics, nutrition, reproduction, animal health, and disease control of native and exotic species in zoological parks and other animal conservation facilities; emphasizes the role of captive animals in wildlife conservation.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Introductory Zoology with Laboratory",
         "course_description": "(same as BIO_SC 1100). Introduces important principles and concepts of zoology.  Emphasizes cell biology; evolution; genetics; ecology; structure, function, development of the organism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5",
+        "credit_hours": "5",
         "recommendation": "None Listed"
     },
     {
@@ -36,32 +36,32 @@
         "course_name": "Introduction to Genetics and Evolution for Conservation",
         "course_description": "Basic principles and processes of genetics and evolution and their importance for management and conservation. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: NAT_R 1070, BIO_SC 1500, CHEM 1310, and MATH 1100",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "NAT_R 1070, BIO_SC 1500, CHEM 1310, and MATH 1100"
     },
     {
         "course_number": "F_W 2600",
         "course_name": "Ornithology",
         "course_description": "(same as BIO_SC 2600). Structure, identification, habits, importance of regional birds. Field work, lectures, lab.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: 5 hours Biological Sciences",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "5 hours Biological Sciences"
     },
     {
         "course_number": "F_W 2700",
         "course_name": "Ichthyology",
         "course_description": "(same as BIO_SC 2700). A broad introduction to the biology and ecology of fishes. Emphasis will be placed on understanding the adaptations fishes exhibit to aspects of their environment.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: 8 hours Biological Sciences",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "8 hours Biological Sciences"
     },
     {
         "course_number": "F_W 2900",
         "course_name": "Principles of Wildlife Management",
         "course_description": "Expose students to the principles of wildlife management with emphasis on current issues faced by wildlife researchers and managers in the field.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: NAT_R 1070 and one other course in biological or environmental science; sophomore standing or higher",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "NAT_R 1070 and one other course in biological or environmental science; sophomore standing or higher"
     },
     {
         "course_number": "F_W 3002",
@@ -92,7 +92,7 @@
         "course_name": "Aquaculture",
         "course_description": "This course aims to develop an understanding of key aspects of the practice of fish culture, an awareness of aquatic species being cultured worldwide, and an appreciation of why aquaculture is expanding so rapidly on a global basis and the emerging environmental concerns associated with aquaculture growth.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -100,7 +100,7 @@
         "course_name": "Wildlife Damage Management",
         "course_description": "To explore wildlife damage conflicts involving human health and safety, agricultural resources, economics and natural resources.  The course studies damage caused by wildlife species and methods to alleviate damage.  Covers wildlife diseases, human dimensions and wildlife policies.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -116,8 +116,8 @@
         "course_name": "Water Quality and Natural Resource Management",
         "course_description": "Introduction to broad aspects of water quality science, management and policy.  Topics include aquatic ecology, eutrophication, lake and coastal management, water supply and treatment, watershed management with respect to agriculture and urban development, and toxicology.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: CHEM 1000 or CHEM 1320 and ENV SC 1100 or NAT_R 1070",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "CHEM 1000 or CHEM 1320 and ENV SC 1100 or NAT_R 1070"
     },
     {
         "course_number": "F_W 3500",
@@ -140,16 +140,16 @@
         "course_name": "Mammalogy",
         "course_description": "(same as BIO_SC 3660). Taxonomy, distribution, structure, habits, importance of mammals; emphasizes those of central United States.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: junior standing",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "junior standing"
     },
     {
         "course_number": "F_W 3700",
         "course_name": "Animal Behavior",
         "course_description": "Behavior allows animals to react promptly to environmental changes, and is how they interact with others and their surroundings.  Because behaving is central to an animal's life, knowing about behavior is fundamental to understanding animal ecology and to conservation efforts.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: F_W 1100",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "F_W 1100"
     },
     {
         "course_number": "F_W 3900",
@@ -196,32 +196,32 @@
         "course_name": "Human Dimensions of Fish and Wildlife Conservation",
         "course_description": "Overview of human dimensions approaches and methods as they are applied to issues in fish and wildlife conservation.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: One 3000-level or above professional Fisheries and Wildlife management or techniques course",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "One 3000-level or above professional Fisheries and Wildlife management or techniques course"
     },
     {
         "course_number": "F_W 4300",
         "course_name": "Fisheries Management",
         "course_description": "Introduction to the scientific principles and techniques of fishery management. Integrates ecological principles with social, economic and legal considerations.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: BIO_SC 3650 and STAT 2530",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "BIO_SC 3650 and STAT 2530"
     },
     {
         "course_number": "F_W 4400",
         "course_name": "Techniques for Fisheries Management and Conservation",
         "course_description": "Introduction to techniques (field and analytical/quantitative) used by fisheries and conservation biologists. Fosters understanding of techniques uses, advantages, limitations biases, and data interpretation. Extended weekly field outings require chest waders and life jackets. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: BIO_SC 3650 and STAT 2530 or NAT_R 3110 and F_W 2700 or F_W 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "BIO_SC 3650 and STAT 2530 or NAT_R 3110 and F_W 2700 or F_W 4300"
     },
     {
         "course_number": "F_W 4400W",
         "course_name": "Techniques for Fisheries Management and Conservation - Writing Intensive",
         "course_description": "Introduction to techniques (field and analytical/quantitative) used by fisheries and conservation biologists. Fosters understanding of techniques uses, advantages, limitations biases, and data interpretation. Extended weekly field outings require chest waders and life jackets. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: BIO_SC 3650 and STAT 2530 or NAT_R 3110 and F_W 2700 or F_W 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "BIO_SC 3650 and STAT 2530 or NAT_R 3110 and F_W 2700 or F_W 4300"
     },
     {
         "course_number": "F_W 4500",
@@ -260,16 +260,16 @@
         "course_name": "Wildlife Research and Management Evaluation Methods",
         "course_description": "Techniques for conducting wildlife research and evaluating wildlife management practices.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: BIO_SC 3650 or F_W 2900 or STAT",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "BIO_SC 3650 or F_W 2900 or STAT"
     },
     {
         "course_number": "F_W 4700W",
         "course_name": "Wildlife Research and Management Evaluation Methods - Writing Intensive",
         "course_description": "Techniques for conducting wildlife research and evaluating wildlife management practices.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4Recommended: BIO_SC 3650 or F_W 2900 or STAT",
-        "recommendation": "None Listed"
+        "credit_hours": "4",
+        "recommendation": "BIO_SC 3650 or F_W 2900 or STAT"
     },
     {
         "course_number": "F_W 4800",
@@ -348,7 +348,7 @@
         "course_name": "Urban Wildlife Conservation",
         "course_description": "Reviewing the theory and practice of applying ecological concepts to the management of wildlife species in urban areas.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: BIO SC 3650 or instructor's consent",
+        "credit_hours": "3Corequisites: BIO SC 3650 or instructor's consent",
         "recommendation": "None Listed"
     },
     {
@@ -388,7 +388,7 @@
         "course_name": "Ecosystem Management",
         "course_description": "Explores the development and implementation of large-scale approaches to restoring and maintaining ecosystems for sustainability.  Incorporates ecological, social-economic, and institutional factors that influence natural resource management agencies.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -516,7 +516,7 @@
         "course_name": "Stream Ecology",
         "course_description": "Ecological principles applied to flowing waters. Emphasis on ecological processes within algal, invertebrate and fish communities. The influence of geomorphic processes, hydrologic principles and physical-chemical factors on the biota.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {

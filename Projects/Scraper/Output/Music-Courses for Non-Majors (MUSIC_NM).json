@@ -28,7 +28,7 @@
         "course_name": "Fundamentals of Music I",
         "course_description": "Introduction to rhythmic, melodic, harmonic, and structural elements of music. Designed for non-music majors. No credit for music majors or minors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Masterpieces of Western Music",
         "course_description": "Introduction to the Western fine-art tradition through the study of representative masterworks, emphasis on developing listening skills; directed to non-majors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Jazz, Pop, and Rock",
         "course_description": "Historical introduction to jazz (to approximately 1970) and the American popular song, including rock and roll (to approximately 1980); directed to non-majors.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "History of Jazz",
         "course_description": "Historical survey of American jazz from its origin to the present. No credit for students who have taken MUSIC_NM 1311.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -76,7 +76,7 @@
         "course_name": "Introduction to World Music",
         "course_description": "Introduction to the musical traditions of selected non-Western societies; emphasis on developing listening skills; directed to non-majors, but music majors may enroll.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -84,7 +84,7 @@
         "course_name": "Orchestral Masterpieces",
         "course_description": "In-depth study of selected symphonic works of masters from Joseph Haydn to Aaron Copland.  Students develop critical listening skills to identify orchestral instruments and perceive the structure and character of selected orchestral works.  Directed to non-music majors.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -140,7 +140,7 @@
         "course_name": "Introduction to African-American Music",
         "course_description": "Introduction to the history and scholarship of African American music from eighteenth through twentieth centuries. Focus on African legacies and retentions, slave culture, the black church, minstrelsy, folk traditions, spirituals, ragtime, blues, jazz, soul, R&B, and hip hop.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -148,7 +148,7 @@
         "course_name": "Introduction to Soul and Country",
         "course_description": "(same as BL_STU 1335).  Examination of musical cultures signified by \"soul\" and \"country\".  Study of the evolution and aesthetics of these genres and how they deal with concepts like identity, class, race, and ethnicity; gender and sexuality; politics and patriotism.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -156,7 +156,7 @@
         "course_name": "Music of Love and Death",
         "course_description": "Exploration of musical expression surrounding love and death in specific works of diverse styles and sociological contexts.  Students will learn to listen to and appreciate music with informed ears and minds, develop strong perceptual skills, and cultivate a musical vocabulary.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -164,7 +164,7 @@
         "course_name": "Drama Through Western Music",
         "course_description": "Introduction to the musical culture of the theater through the ages by examining specific works of diverse styles and sociological contexts.  Students learn to listen to and appreciate music with informed ears and minds, develop perceptual skills, and cultivate musical vocabulary.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -220,7 +220,7 @@
         "course_name": "Basic Musicianship",
         "course_description": "Development of musicianship through music reading, playing, creating, and perceptive listening, including study of pitch, rhythm, structure, style, expressive and interpretive elements, and related vocabulary. No credit for music majors or minors or students who have completed MUSIC_NM 1211 or MUSIC_NM 1212.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -268,8 +268,8 @@
         "course_name": "History of the Classical Guitar",
         "course_description": "Historical development of the classical guitar and guitar music from 1400 to today.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2Recommended: Humanities credit for any and all non-music majors",
-        "recommendation": "None Listed"
+        "credit_hours": "2",
+        "recommendation": "Humanities credit for any and all non-music majors"
     },
     {
         "course_number": "MUSIC_NM 2445",

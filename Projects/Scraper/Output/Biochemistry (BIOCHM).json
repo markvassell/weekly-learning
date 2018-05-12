@@ -116,7 +116,7 @@
         "course_name": "Physical Chemistry of Biological Systems",
         "course_description": "To present fundamental principles of physical chemistry in the context of the structure and function of biological macromolecules.  Graded on A-F basis only.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: BIOCHM 4270",
+        "credit_hours": "3Prerequisites or Corequisites: BIOCHM 4270",
         "recommendation": "None Listed"
     },
     {
@@ -188,7 +188,7 @@
         "course_name": "Biochemistry Laboratory",
         "course_description": "(cross-leveled with BIOCHM 7274). Techniques course involving analytical experiments with carbohydrates, lipids, proteins, nucleic acids; use of instrumentation in biochemistry; purification and kinetics of enzymes.  One of two capstone courses required for biochemistry majors.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 5Prerequisites or Corequisites: BIOCHM 4272Corequisites: BIOCHM 4970",
+        "credit_hours": "5Prerequisites or Corequisites: BIOCHM 4272Corequisites: BIOCHM 4970",
         "recommendation": "None Listed"
     },
     {
@@ -196,7 +196,7 @@
         "course_name": "Biochemistry Laboratory - Writing Intensive",
         "course_description": "(cross-leveled with BIOCHM 7274). Techniques course involving analytical experiments with carbohydrates, lipids, proteins, nucleic acids; use of instrumentation in biochemistry; purification and kinetics of enzymes.  One of two capstone courses required for biochemistry majors.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 5Prerequisites or Corequisites: BIOCHM 4272Corequisites: BIOCHM 4970",
+        "credit_hours": "5Prerequisites or Corequisites: BIOCHM 4272Corequisites: BIOCHM 4970",
         "recommendation": "None Listed"
     },
     {
@@ -244,7 +244,7 @@
         "course_name": "Biochemistry Laboratory",
         "course_description": "Techniques course involving analytical experiments with carbohydrates, lipids, proteins, nucleic acids; use of instrumentation in biochemistry; radioisotope tracers in metabolism; isolation, purification and kinetics of enzymes.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 5Corequisites: concurrent enrollment in BIOCHM 7270",
+        "credit_hours": "5Corequisites: concurrent enrollment in BIOCHM 7270",
         "recommendation": "None Listed"
     },
     {
@@ -324,7 +324,7 @@
         "course_name": "Introduction to Plant Metabolism",
         "course_description": "(same as PLNT_S 8362 and BIO_SC 8362). This course is part of a series that aims to provide a solid conceptual foundation in interdisciplinary plant biology for graduate students with a research emphasis in plant biology.  This course examines the basic concepts and techniques used to understand plant metabolism.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -332,7 +332,7 @@
         "course_name": "Introduction to Molecular Cell Biology",
         "course_description": "(same as BIO_SC 8365 and PLNT_S 8365). This course is part of a series that aims to provide a solid conceptual foundation in interdisciplinary plant biology for graduate students with a research emphasis on plant biology.  This course examines the basic concepts and techniques used to understand molecular cell biology.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -364,8 +364,8 @@
         "course_name": "Signaling in Molecular Cell Biology",
         "course_description": "The objective of this course is to provide important foundations in cellular signaling in the context of biochemistry and cell biology for first and second year graduate students. The course focuses on cell-to-cell communication and intracellular signaling via different classes of cell surface receptors using specific receptor paradigms from human, other animals, plants, yeast and E.coli. Primary literature will be used for in-class discussions and homework assignments to highlight key experiments and introduce students to relevant experimental techniques. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: BIO_SC 2300, BIOCHM 4270",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "BIO_SC 2300, BIOCHM 4270"
     },
     {
         "course_number": "BIOCHM 8438",
@@ -420,7 +420,7 @@
         "course_name": "Molecular Biology I",
         "course_description": "(same as MICROB 9430). Detailed examination of current fundamental concepts of molecular genetics of bacteria, bacteriophages and yeast. Experimental approaches to analysis of the physical structures of genomic nucleic acids, the biochemistry and genetics of mutations, replication, gene transfer and gene expression will be examined in depth from reports in the current literature.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -428,7 +428,7 @@
         "course_name": "Molecular Biology II",
         "course_description": "(same as MICROB and BIO_SC 9432) Detailed experimental analysis of eukaryotic cellular and molecular biology relevant to cellular and viral gene expression, post-transcriptional and post-translational modifications and genome replication. Models for developmental genetic analysis and genetic determinants controlling developmental processes utilizing the current literature will be examined.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 4",
+        "credit_hours": "4",
         "recommendation": "None Listed"
     },
     {
@@ -452,7 +452,7 @@
         "course_name": "Molecular Biology of Plant Growth and Development",
         "course_description": "(same as BIO_SC 9468). Molecular biology of plant hormones, signal transduction, environmental signals.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -460,7 +460,7 @@
         "course_name": "Analytical Biochemistry--Chromatography",
         "course_description": "Principles, experimental design, capabilities, limitations, and applications of the general field of chromatography of biologically important molecules. Eight (2-hour) lectures, eight (4-hour) labs. Four weeks.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     },
     {
@@ -468,7 +468,7 @@
         "course_name": "Analytical Biochemistry--Mass Spectrometry",
         "course_description": "Instrumentation, fragmentation mechanisms, interpretation of spectra, combined gas chromatography--mass spectrometry. Eight (2-hour) lectures, eight (4-hour) labs.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 2",
+        "credit_hours": "2",
         "recommendation": "None Listed"
     }
 ]

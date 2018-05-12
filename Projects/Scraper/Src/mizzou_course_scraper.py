@@ -39,23 +39,23 @@ def clean_course_description(data):
             pre_req = pre_req.replace('Prerequisites: ', "")
             data = data[: data.find('Credit Hours:')]
 
-    edge_case1 = data.find('Credit Hours:')
+    edge_case1 = re.search('Hours: (.*)Recommended', data)
     edge_case2 = re.search('Prerequisites:(.*)Credit Hour', data)
     edge_case3 = re.search('Hour:(.*)Prerequisites', data)
 
-    if edge_case1 != -1:
-
-        hours = data[edge_case1:]
-        hours = hours.replace("Hour", "")
-
-        data = data[0:edge_case1]
+    if edge_case1 is not None:
+        hours = edge_case1.group(1)
+        check = data.find('Recommended:')
+        if check != -1:
+            recommendation = data[check+13:]
+            data = data[0:check]
 
     if edge_case2 is not None:
         pre_req = edge_case2.group(1)
-        hours = data.find('Credit Hour:')
+        check = data.find('Credit Hour:')
         # pre_req = "Prerequisites:" + pre_req
-        if hours != -1:
-            hours = data[hours:]
+        if check != -1:
+            hours = data[check:]
             hours = hours.replace('Credit Hour: ', '')
             stoping_point = data.find('Prerequisites:')
             data = data[0: stoping_point]
@@ -63,9 +63,9 @@ def clean_course_description(data):
     if edge_case3 is not None:
         hours = edge_case3.group(1)
         hours = hours.replace(" ", "")
-        pre_req = data.find('Prerequisites:')
-        if pre_req != -1:
-            pre_req = data[pre_req:]
+        check = data.find('Prerequisites:')
+        if check != -1:
+            pre_req = data[check:]
             pre_req = pre_req.replace("Prerequisites: ", "")
             # print(pre_req)
             data = data[: data.find('Credit Hour:')]
@@ -78,12 +78,19 @@ def clean_course_description(data):
         hours = hours.replace("Credit Hour: ", "")
         data = data[0:edge_case4]
         pre_req = "None Listed"
+
     if isinstance(pre_req, int) == False:
         edge_case5 = pre_req.find("Recommended: ")
 
         if edge_case5 != -1:
             recommendation = pre_req[edge_case5+13:]
             pre_req = pre_req[: edge_case5]
+    edge_case4 = data.find('Credit Hours:')
+    if edge_case4 != -1:
+        hours = data[edge_case4:]
+        hours = hours.replace("Credit Hours: ", "")
+
+        data = data[0:edge_case4]
 
     # print(data)
     # print(hours)

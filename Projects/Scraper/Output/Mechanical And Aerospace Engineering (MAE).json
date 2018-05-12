@@ -252,8 +252,8 @@
         "course_name": "Design of Thermal Systems - Writing Intensive",
         "course_description": "Thermal systems are simulated by mathematical models (often on a digital computer), followed by optimization. Supporting topics include: economics, heat transfer, thermodynamics, and optimization.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: MAE 4300",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "MAE 4300"
     },
     {
         "course_number": "MAE 4325",
@@ -276,7 +276,7 @@
         "course_name": "Industrial Energy Analysis",
         "course_description": "(cross-leveled with MAE 7355).  Energy use in industrial systems: furnaces, boilers, compressors, motors, lighting, etc.  Insulation in building envelopes.  Renewable energy sources.  Energy auditing and economic analysis.  Graded on A-F basis only.",
         "prerequisites": -1,
-        "credit_hours": "Credit s: 3Prerequisites or Corequisites: MAE 4300",
+        "credit_hours": "3Prerequisites or Corequisites: MAE 4300",
         "recommendation": "None Listed"
     },
     {
@@ -332,8 +332,8 @@
         "course_name": "Microfluidics",
         "course_description": "(cross-leveled with MAE 7460). This course focuses on liquid transport in micro/nano fluidic devices and related electrohydrodynamics. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: MAE 3400",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "MAE 3400"
     },
     {
         "course_number": "MAE 4500",
@@ -356,8 +356,8 @@
         "course_name": "Advanced Mechanics of Materials",
         "course_description": "(same as CV_ENG 4600; cross-leveled with MAE 7600 and CV_ENG 7600). Analysis of more complicated problems in stresses, strains.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: ENGINR 2200",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "ENGINR 2200"
     },
     {
         "course_number": "MAE 4620",
@@ -388,8 +388,8 @@
         "course_name": "Vibration Analysis",
         "course_description": "(same as CV_ENG 4660). Vibration theory and its application to mechanical systems. Topics include free and forced vibration analysis of single- and multi-degree of freedom systems.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: MAE 2600 and MATH 4100",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "MAE 2600 and MATH 4100"
     },
     {
         "course_number": "MAE 4670",
@@ -604,7 +604,7 @@
         "course_name": "Experimental Stress Analysis",
         "course_description": "(cross-leveled with MAE 7260).. The course introduces basic concepts of stress and strain using elasticity theory.  Single point and full-field experimental methods for stress and strain measurement, such as strain gages and photoelastcity, are discussed.  Application of experimental methods in transducer development and design of structures will be covered.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -652,7 +652,7 @@
         "course_name": "Nanoscale Energy Transport",
         "course_description": "(cross-leveled with MAE 4325).  This course examines non-equilibrium energy processes from the vantage point of fundamental energy carriers. Topics include foundational solid state physics, statistical energy carrier distributions, density of states, and dispersion relationships. Energy transport will be discussed in terms of kinetic theory, the Landauer Formalism, and the Boltzmann Transport Equation. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -684,7 +684,7 @@
         "course_name": "Industrial Energy Analysis",
         "course_description": "Energy use in industrial systems: furnaces, boilers, compressors, motors, lighting, etc.  Insulation in building envelopes.  Renewable energy sources.  Energy auditing and economic analysis.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Corequisites: MAE 4300 or instructor's consent",
+        "credit_hours": "3Corequisites: MAE 4300 or instructor's consent",
         "recommendation": "None Listed"
     },
     {
@@ -836,7 +836,7 @@
         "course_name": "Introduction to MEMS",
         "course_description": "The course will start with a survey of the widespread applications of MEMS sensors and actuators.  Micro fabrication methods used in conventional semiconductor industry will be introduced.  MEMS-specific processes will be emphasized. Fundamental principles in electric circuits and mechanics will be reviewed.  Special attention is on mechanical issues encountered in MEMS design and fabrication.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -876,7 +876,7 @@
         "course_name": "Classical Control",
         "course_description": "(same as ECE 7310, BIOL_EN 7310; cross-leveled with MAE 4750, ECE 4310, BIOL_EN 4310). Study of feedback control design based on classical continuous-time methods.  Topics include performance specifications, stability analysis, root locus compensator design, and frequency domain analysis and compensator design.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -908,7 +908,7 @@
         "course_name": "Advanced Topics in Mechanical and Aerospace Engineering",
         "course_description": "Advanced Topics in Mechanical and Aerospace Engineering.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -948,7 +948,7 @@
         "course_name": "Advanced Ceramic Materials",
         "course_description": "(same as CH_ENG 8230 and BIOL_EN 8230). To provide an advanced level understanding between processing, properties, and microstructure of ceramic materials.  Topics include crystallography, defect chemistry, transport properties, microstructure, and forming methods.  Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1036,7 +1036,7 @@
         "course_name": "Theory of Elasticity",
         "course_description": "(same as CV_ENG 8330). Stress and strain at a point. General equations of elasticity. Plane stress, plain strain problems; torsion of prismatic bars. Energy methods.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1052,7 +1052,7 @@
         "course_name": "Theory of Plates and Shells",
         "course_description": "(same as CV_ENG 8340). Rectangular and circular plates. Variational methods in the analysis of plates and shells. Plates of unusual shape. Shear deformation effects. Large deformation analysis. Analysis of cylindrical shells.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1060,7 +1060,7 @@
         "course_name": "Theory of Elastic Stability",
         "course_description": "(same as CV_ENG 8350). Buckling of Columns, frames, arches and other structural systems. Kinematic approach to stability. Large deflections. Energy approach to buckling. Plate and shell buckling. Inelastic buckling of columns. Creep buckling.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1116,7 +1116,7 @@
         "course_name": "Computational Heat Transfer and Fluid Dynamics",
         "course_description": "Introduction to numeric analysis techniques applied to heat transfer and fluid dynamics problems. Coverage will include, the development of discretiization equations for the control volume approach and solution strategies of those equations. Results from numeric simulations will be compared with close form analytic solutions and commercial numeric code output.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
@@ -1196,8 +1196,8 @@
         "course_name": "Advanced Hydraulic Control Systems",
         "course_description": "The course will focus on the study of hydraulic systems and the design and analysis of controls for these systems. Multivariable as well as single input single output techniques will be considered. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3Recommended: Undergraduate system dynamics and controls course, experience or coursework in basic hydraulic control systems such as MAE 4710 or MAE 7710",
-        "recommendation": "None Listed"
+        "credit_hours": "3",
+        "recommendation": "Undergraduate system dynamics and controls course, experience or coursework in basic hydraulic control systems such as MAE 4710 or MAE 7710"
     },
     {
         "course_number": "MAE 8740",
@@ -1220,7 +1220,7 @@
         "course_name": "Optimal Control",
         "course_description": "The course will study optimization under dynamic constraints and optimal control theory. Topics include calculus of variation, Pontryagin's minimum principle, dynamic programming, and linear quadratic optimal control. Graded on A-F basis only.",
         "prerequisites": "None Listed",
-        "credit_hours": "Credit s: 3",
+        "credit_hours": "3",
         "recommendation": "None Listed"
     },
     {
