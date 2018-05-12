@@ -1,0 +1,430 @@
+{
+    "department_name": "Medical Pharmacology and Physiology ",
+    "department_code": "MPP",
+    "courses": [
+        {
+            "course_number": "MPP 2010",
+            "course_name": "The Science of Sex, Drugs and Rock'n'Roll",
+            "course_description": "This course will examine the data and theories for how drugs affect the body, for the physiology of reproduction and, for how sound affects the body.  These topics will be used to motivate an understanding, and provide training in applying, the key scientific principles.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 2015",
+            "course_name": "Toxins, The Good, The Bad, and the Beautiful",
+            "course_description": "In this course, the students will explore toxins. We will discuss how toxins are formed, the \"value\" of the toxin to the organism that makes it, how the toxin is delivered, the effect of the toxin on the target animal and on humans. In addition, we will discuss how toxins have led to new therapies and drugs. We will also analyze some famous cases of apparent toxin poisoning. In all cases, the students will be urged to critically evaluate the data and the theories and encouraged to think of novel uses of toxins and of experiments that would provide important new information about the toxins and their effects.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 2015W",
+            "course_name": "Toxins, The Good, The Bad, and the Beautiful - Writing Intensive",
+            "course_description": "In this course, the students will explore toxins. We will discuss how toxins are formed, the \"value\" of the toxin to the organism that makes it, how the toxin is delivered, the effect of the toxin on the target animal and on humans. In addition, we will discuss how toxins have led to new therapies and drugs. We will also analyze some famous cases of apparent toxin poisoning. In all cases, the students will be urged to critically evaluate the data and the theories and encouraged to think of novel uses of toxins and of experiments that would provide important new information about the toxins and their effects.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 2020",
+            "course_name": "Bodily Fluids and Functions",
+            "course_description": "In this course, the students will study body fluids. We will learn about how the fluids are formed and the functions of the fluids. We will also critically evaluation some theories about the formation and function of the fluids.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 2020W",
+            "course_name": "Bodily Fluids and Functions - Writing Intensive",
+            "course_description": "In this course, the students will study body fluids. We will learn about how the fluids are formed and the functions of the fluids. We will also critically evaluation some theories about the formation and function of the fluids.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 3202",
+            "course_name": "Elements of Physiology",
+            "course_description": "Beginning course for sophomore and above designed to cover the basic functional aspects of major organ systems of the body.",
+            "prerequisites": "sophomore standing",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 3290",
+            "course_name": "Undergraduate Research",
+            "course_description": "Laboratory experience and opportunity to explore research in medical pharmacology and physiology.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 3333",
+            "course_name": "Fundamentals of Human Physiology",
+            "course_description": "This course presents the basic concepts of physiology using a problem based approach.  The major organs systems are discussed with the relevance to everyday physiology as well as clinical and animal applications discussed.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 3337",
+            "course_name": "Human Physiology Laboratory",
+            "course_description": "This lab course will involve experiments to illustrate basic physiology concepts.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 3500",
+            "course_name": "Introduction to Human Physiology",
+            "course_description": "This is an online course that will introduce students to basic concepts in human physiology, with a focus on the integrated function of organ system in homeostasis/human health. The final section of the course will expose students to important issues in exercise physiology, specifically the impact of exercise on cardiovascular and metabolic functions.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "Cell Biology, Biochemistry"
+        },
+        {
+            "course_number": "MPP 4001",
+            "course_name": "Undergraduate Topics in Medical Pharmacology and Physiology",
+            "course_description": "Selected topics not in regularly offered courses.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 4085",
+            "course_name": "Undergraduate Problems in Medical Pharmacology and Physiology",
+            "course_description": "This course is designed to provide well-qualified undergraduate students the opportunity to engage in advanced study in topics in pharmacology or physiology with individual faculty members. Topics will be drawn from recent primary literature. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 4085W",
+            "course_name": "Undergraduate Problems in Medical Pharmacology and Physiology - Writing Intensive",
+            "course_description": "This course is designed to provide well-qualified undergraduate students the opportunity to engage in advanced study in topics in pharmacology or physiology with individual faculty members. Topics will be drawn from recent primary literature. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 4202",
+            "course_name": "Medical Physiology",
+            "course_description": "Medical Physiology is intended for health scientists.  Fat, bone, digestion, nutrition, appetite and brain health will be emphasized for health reform and updates for nervous, muscle, heart, vasculature, liver, renal, lung and endocrine systems with analysis for preventative medicine.   May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "Nutrition or Biochemistry",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 4204",
+            "course_name": "Medical Pharmacology",
+            "course_description": "(cross-leveled with MPP 7424). Medical pharmacology teaches the science of drug actions in medicine today, and principles of pharmaco kinetics/dynamics.  Future health professionals will learn prescription judgment and quality/cost improvements for patient safety.  An online laboratory will teach drug database information technology.",
+            "prerequisites": -1,
+            "credit_hours": "5Prerequisites or Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other colleges",
+            "recommendation": "nutrition or biochemistry courses are recommended but not required"
+        },
+        {
+            "course_number": "MPP 4204H",
+            "course_name": "Medical Pharmacology-Honors",
+            "course_description": "Medical pharmacology teaches the science of drug actions in medicine today, and principles of pharmaco kinetics/dynmics.  Future health professionals will learn prescription judgment and quality/cost improvements for patient safety.  An online laboratory will teach drug database information technology.  Prerequisties or",
+            "prerequisites": "None Listed",
+            "credit_hours": "5Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other colleges; Honors eligibility required",
+            "recommendation": "nutrition or biochemistry courses are recommended but not required"
+        },
+        {
+            "course_number": "MPP 4310",
+            "course_name": "Mammalian Cell Function",
+            "course_description": "An overview of the structure and function of mammalian cells including topics in membrane physiology and transport, cell signaling, compartmentalization and metabolism, cell proliferation and differentiation and the structure and function of certain specialized cells (e.g. muscle cells, epithelial cells and neurons). Laboratory and/or discussion sessions will be included as part of the course with laboratory topics to be determined. We will devote approximately 75% of the lecture to generalized cell functions, and 25% to deal with topics concerning specialized cells. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent. For graduate credit, students will be required to participate in laboratory exercises",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 4417",
+            "course_name": "Diagrams, Figures and Graphs",
+            "course_description": "(cross-leveled with MPP 7717). In this course, we will examine what features optimize the drawing of diagrams, figures and graphs for communication to different audiences. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 6525",
+            "course_name": "Pharmacology",
+            "course_description": "Pharmacology",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 7300",
+            "course_name": "Physics in Cell and Developmental Biology",
+            "course_description": "(same as PHYSCS 7310 and BIO_SC 7310). Introduction to physical mechanisms and their modeling in cellular processes and development.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 7302",
+            "course_name": "Drug Discovery and Action",
+            "course_description": "This course is designed to provide the student with an in depth knowledge of specific aspects of cardiovascular physiology with major emphasis on cardiac structure and function. Topics are covered in 1, 3-4 hour session per week and are based on reading assignments from the literature. The following topics have been addressed in previous offerings but the specific topics may vary from year to year: Heart muscle structure related to function; Contractile proteins structures and function; Regulation of protein synthesis; Regulation of myocardial hypertrophy; Regulation of myocardial metabolism; Myocardial mechanics systolic and diastolic function; Mechanisms of length dependent contraction; Control of electrical-mechanical coupling processes; Mechanisms for adrenergic regulation of myocardial function.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 7310",
+            "course_name": "Mammalian Cell Function",
+            "course_description": "An integrated course covering the structure and function of mammalian cells as relevant to clinical translational research including topics in membrane physiology and transport, cell signaling, cell proliferation, differentiation, compartmentalization and metabolism.  Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3-5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 7422",
+            "course_name": "Medical Physiology",
+            "course_description": "Medical Physiology is intended for health scientist.  Fat, bone, digestion, nutrition, appetite and brain health will be emphasized for health reform and updates for nervous, muscle, heart, vasculature, liver, renal, lung and endocrine systems with analysis for preventive medicine.  May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "Nutrition or Biochemistry",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 7424",
+            "course_name": "Pharmacology and Translational Medicine",
+            "course_description": "(cross-leveled with MPP 4204). Pharmacology teaches the science of drug actions in medicine today and principles of pharmaco kinetics/dynamics.  Future medical researchers will learn molecular probes for medical research and translational science to improve health care.  An online laboratory will teach drug database information technology.  Graded on A-F basis only.",
+            "prerequisites": -1,
+            "credit_hours": "5Prerequisites or Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other colleges",
+            "recommendation": "nutrition or biochemistry courses are recommended but not required"
+        },
+        {
+            "course_number": "MPP 7717",
+            "course_name": "Diagrams, Figures, and Graphs",
+            "course_description": "(cross-leveled with MPP 4417). In this course, we will examine what features optimize the drawing of diagrams, figures and graphs for communication to different audiences. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8000",
+            "course_name": "Scientific Discovery Leading to Life Science Innovations",
+            "course_description": "(same as BIOL_EN 8000). This course explains the scientific discovery process from idea to product release, examining problem identification, need validation, and commercialization.  Clinical, business and engineering perspectives are examined to understand translating innovation into clinical practice. May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "must be enrolled in a graduate degree program",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8001",
+            "course_name": "Graduate Topics in Medical Pharmacology and Physiology",
+            "course_description": "",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8004",
+            "course_name": "Regulatory Issues in Clinical Research and Clinical Trials",
+            "course_description": "The goal of the course is to highlight key FDA regulatory issues for conducting human clinical trials and clinical research. For clinical trials, FDA has set up several compliance programs and guidance documents as a part of human subject protection (HSP)/ Bioresearch Monitoring (BIMO) initiatives. The aim of the program was to strengthen FDA oversight and protection of subjects in clinical trials and to preserve confidentiality of data. The HSP/BIMO initiative comprehends all FDA regulated clinical trials including human drugs and biological drug products, devices, foods, and veterinary medicine. The course is designed for students in medical professions, management, biomedical engineering, and related areas. Adequate knowledge regarding FDA guidance in conducting human clinical trials and clinical research will help professionals steer drug/device development and commercialization in their respective field. This course will be offered online only. An introduction to essential disciplines for conducting clinical trials and clinical research will be provided. The basics of good clinical practices (GCPs), biostatistics and clinical epidemiology in relation to clinical trials will be presented. Several relevant case studies for conducting clinical trials, both nationally and internationally, will be discussed. The importance of data collection and data management while conducting clinical trials will be explained. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "Knowledge in biomedical sciences, clinical sciences"
+        },
+        {
+            "course_number": "MPP 8050",
+            "course_name": "Non-Thesis Research in Medical Pharmacology and Physiology",
+            "course_description": "Opportunities for graduate research in physiology or pharmacology not leading to dissertation. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8085",
+            "course_name": "Graduate Problems in Medical Pharmacology and Physiology",
+            "course_description": "Guided study to strengthen knowledge in physiology and pharmacology. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8090",
+            "course_name": "Thesis Research in Medical Pharmacology and Physiology",
+            "course_description": "Research for Master's Students in physiology or pharmacology, leading to dissertation. Graded on a S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8410",
+            "course_name": "Neural Control",
+            "course_description": "An integrated course covering the physiology and pharmacology of the autonomic nervous system and the central nervous system. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8411",
+            "course_name": "Mammalian Pharmacology and Physiology",
+            "course_description": "An integrated course covering the basic concepts in physiology and pharmacology of the cardiovascular, gastrointestinal, endocrine, renal, and respiratory systems with an emphasis of applying the key concepts to clinically relevant examples. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8412",
+            "course_name": "Seminar in Medical Pharmacology and Physiology",
+            "course_description": "Instruction in critical evaluation, review, and summary of scientific data and practice in oral presentation of scientific research seminar. Taught in conjunction with weekly department seminar series.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8415",
+            "course_name": "Responsible Conduct of Research thru Engagement, Enactment and Empowerment NIH and other Federal Age",
+            "course_description": "The emphasis is on the scientific research ethics problems in interdisciplinary work. Student involvement can include designing mock misconduct trials or writing advocacy letters to change current policy.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8417",
+            "course_name": "Scientific Communication",
+            "course_description": "A course to foster and improve students ability to communicate orally and in writing. Student enrolled in the course will be expected to write a report and present a seminar on a topic related to one of the lab rotation projects to the mentor of the rotation and other interested faculty members and students. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 8420",
+            "course_name": "Skills in Biomedical Research",
+            "course_description": "This course focuses on introducing graduate students to the basics of biomedical research. Course objectives are to provide new graduate students with a basic understanding of laboratory safety issues and fundamental skills that are integral to research including principles of experimental design, theory and practical application of modern research techniques, written and oral communication of research information, and scientific record keeping standards. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9090",
+            "course_name": "Thesis Research in Medical Pharmacology and Physiology",
+            "course_description": "Research for PhD students in physiology or pharmacology, leading to dissertation. Graded on a S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9421",
+            "course_name": "Neural Pharmacology",
+            "course_description": "Biochemical and behavioral actions of drugs affecting the nervous system. Effects of drugs on synaptic mechanism including neurotransmitter metabolism and receptor interactions. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9422",
+            "course_name": "Medical Pharmacology and Physiology Journal Club",
+            "course_description": "On a weekly basis, individual students are assigned current high profile journal articles to present to their fellow students and faculty in a journal club setting.  Each student in the course is required to read the paper in advance and participate in discussions of the figures and general topics that is being presented.  Graded on S/U basis only.",
+            "prerequisites": "enrolled in MPP PhD graduate program",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9423",
+            "course_name": "Oncological Pharmacology",
+            "course_description": "An in-depth study of the causes and treatments of cancers including discussions of mutagenesis and carcinogenesis, principles of cancer chemotherapy and recent developments with targeted therapeutics. The basis for genetic differences in cancer drug responsiveness including genetics predisposition's to disease and drug toxicity (pharmacogenetics) and genetic polymorphism's associated with disease susceptibility, adverse drug responses and drug resistance (pharmacogenomics) will also be discussed.",
+            "prerequisites": "MPP 8411",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9425",
+            "course_name": "Receptor Pharmacology",
+            "course_description": "The goal of this course is to facilitate the student's efforts to obtain a solid working knowledge of receptor pharmacology, physiology and molecular biology that can be of benefit in the future. The course will explore a variety of receptor issues, primarily in a discussion format organized by the faculty members involved in the course. The course is divided into two related components. The first component will cover general principles of quantifying ligand - receptor interactions and subsequent responses, summarize some of the methods of receptor identification and characterization and evaluate the various schemes of receptor typing and subtyping. The second component will explore specific characteristics of receptors from some of the major receptor families with an emphasis on understanding mechanisms of receptor activation and regulation as well as exploring concepts about the structural basis for discrete receptor functions. A typical list of receptors to be covered in the course may include the tyrosine kinase recptors, G protein-coupled receptors, cytokine receptors, ligand activated transcription factors (nuclear receptors), adhesion receptors such as integrins, and ligand activated ion channels.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9426",
+            "course_name": "Transmembrane Signaling",
+            "course_description": "This course is for advanced level graduate students. The course is designed to develop state of the art knowledge and understanding of current research issues in the cell signaling. The major emphasis is on receptor and non-receptor mediated transmembrane signaling events underlying physiological and pharmacological responses of the cells. Students are also involved in class presentations, and the development and critical review of new research proposals, all focused on cellular signaling.",
+            "prerequisites": "basic courses in biochemistry and or cell and molecular biology or equivalent",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9427",
+            "course_name": "Drug Metabolism",
+            "course_description": "(same as V_BSCI 9427). The course is concerned with the absorption, distribution, metabolism and elimination of drugs using a comparative approach. The pharmacokinetic aspects of elimination are stressed.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9428",
+            "course_name": "Clinical Biodetection",
+            "course_description": "Interdisciplinary approach to clinical translational applications of physiology and pharmacology and related life, physical, chemical, and engineering sciences.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9429",
+            "course_name": "Principles and Frontiers of Molecular Pharmacology",
+            "course_description": "An in-depth examination of pharmacodynamics, structure-activity relationships, pharmacokinetics/drug metabolism, and toxicology, followed by a consideration of emerging concepts regarding membrane receptors and channels and their role in biology and medicine.",
+            "prerequisites": "Students must have completed a physiology, biochemistry or cell biology course",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9430",
+            "course_name": "Cardiovascular Physiology",
+            "course_description": "This course is designed to provide the student with an in depth knowledge of specific aspects of cardiovascular physiology with major emphasis on cardiac structure and function. Topics are covered in 1, 3-4 hour session per week and are based on reading assignments from the literature. The following topics have been addressed in previous offerings but the specific topics may vary from year to year: Heart muscle structure related to function; Contractile proteins structures and function; Regulation of protein synthesis; Regulation of myocardial hypertrophy; Regulation of myocardial metabolism; Myocardial mechanics systolic and diastolic function; Mechanisms of length dependent contraction; Control of electrical-mechanical coupling processes; Mechanisms for adrenergic regulation of myocardial function.",
+            "prerequisites": "MPP 4310 and MPP 8411 or the equivalent (e.g., UM first year medical school curriculum, V_BSCI 8421, or BIO_SC 3700 with supporting courses)",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9431",
+            "course_name": "Control of Energy Metabolism",
+            "course_description": "(same as V_BSCI 9431). This advanced elective is in a lecture/discussion format using primary literature to explore how cells organize and regulate metabolism to meet energy demands.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9432",
+            "course_name": "Mammalian Membrane Physiology",
+            "course_description": "This course is designed to stimulate active learning of the concepts of modern membrane physiology. Throughout the course, a balance will be maintained between examining classic papers in the field and current literature, including not only theories that have held up over time, but areas in which there is current dispute as the best model that describes the observations.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9434",
+            "course_name": "Microvascular Circulatory Function",
+            "course_description": "(same as V_BSCI 9425). An in-depth study of microcirculatory structure and function in various tissues with emphasis on recent developments in the understanding of the mechanisms involved in nutrient supply, edema formation, lymphatic function and fluid balance.",
+            "prerequisites": "V_BSCI 8420 and V_BSCI 8421 or equivalent and instructor's consent",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9435",
+            "course_name": "Skeletal Muscle",
+            "course_description": "(same as V_BSCI 9435). Skeletal muscle mechanics, contractions theories, tramsgenic models, development, gene expression regulation, adaptation to exercise, aging, metabolic functions, and inactivity induced chronic diseases.",
+            "prerequisites": "course director's consent required for enrollment",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9436",
+            "course_name": "Renal Physiology",
+            "course_description": "Mechanisms in mammalian renal physiology presented with particular emphasis on current techniques and concepts.",
+            "prerequisites": "V_BSCI 8420 and V_BSCI 8421 or equivalent and instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MPP 9437",
+            "course_name": "Neural Control of the Circulation",
+            "course_description": "(same as V_BSCI 9467). Course objectives include developing a general understanding of CNS mechanisms in the regulation of the cardiovascular system, including autonomic, neurohumoral and body fluid homeostatic mechanisms, gaining knowledge of the major advances and topics in the field and becoming familiar with some of the methods used to study CNS cardiovascular regulation. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

@@ -1,0 +1,470 @@
+{
+    "department_name": "Agricultural Systems Management ",
+    "department_code": "AG_S_M",
+    "courses": [
+        {
+            "course_number": "AG_S_M 1002",
+            "course_name": "Topics in Agricultural Systems Management-Biological/Physical/Math",
+            "course_description": "Current and new technical developments in agricultural systems management.",
+            "prerequisites": "Instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "6 hours in AG_S_M or instructor's consent"
+        },
+        {
+            "course_number": "AG_S_M 1020",
+            "course_name": "Introduction to Agricultural Systems Management",
+            "course_description": "Introductory course that acquaints students with the general technical areas of Agricultural Systems Management. A systematic problem-solving approach is applied to problems derived from each of the technical areas within Agricultural Systems Management .",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 1040",
+            "course_name": "Physical Principles for Agricultural Applications",
+            "course_description": "Introductory survey course to help students: formulate problems; understand units/accuracy; learn basic definitions; understand simple machines, power transmission, fluid statics, electricity, heat-flow, and temperature/moisture relationships.",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 1120",
+            "course_name": "Agricultural/Industrial Materials and Processes",
+            "course_description": "Structure and properties of manufacturing materials; conditioning and machining materials; assembling processes; finishing processes; automation of manufacturing systems.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 2002",
+            "course_name": "Topics in Agricultural Systems Management-Biological/Physical/Math",
+            "course_description": "Current and new technical developments in agricultural systems management.",
+            "prerequisites": "Instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "6 hours in AG_S_M or instructor's consent"
+        },
+        {
+            "course_number": "AG_S_M 2020",
+            "course_name": "Environmental Ethics in Agriculture",
+            "course_description": "Influence of agricultural technology and production practices on environmental quality. Stewardship concepts. Long-term vs. short-term consequences. Development of a scientifically sound ethic toward agricultural production.",
+            "prerequisites": "ENGLSH 1000",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 2199",
+            "course_name": "Seminar in Professional Development",
+            "course_description": "This course is taught once a year in the Spring semester. The course explores the concept of what it means to be a professional in the field of Agricultural Systems Management. The course includes aspects of what it means to be a professional, such as resume writing, interviewing, finding a job, and building one's career. A second major aspect of the course is to explore the field of Agricultural Systems Management to gain a better understanding of various potential career paths available to students in Agricultural Systems Management. Graded on A-F basis only.",
+            "prerequisites": "ASM Freshman or Sophomores or instructor consent",
+            "credit_hours": "1",
+            "recommendation": "AG_S_M 1020"
+        },
+        {
+            "course_number": "AG_S_M 2220",
+            "course_name": "Agricultural/Industrial Structures",
+            "course_description": "A building science course looking at construction materials, structural component selection, ventilation, moisture control and energy use.  Math reasoning proficiency course.",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "AG_S_M 1040"
+        },
+        {
+            "course_number": "AG_S_M 2320",
+            "course_name": "Internal Combustion Power",
+            "course_description": "Basic internal combustion engine principles, mechanisms, combustion cycles, fuels, fuel injection, electrical systems, engine testing.",
+            "prerequisites": "AG_S_M 1040",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 2340",
+            "course_name": "Pesticide Application Equipment",
+            "course_description": "Principles of pesticide application; sprayer hydraulics and spray atomization; calibration, mixing calculations and compatibility of tank mixes; personal and environmental protection; pesticide labels and regulations.  Students earn their private applicators license.",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "AS_S_M 1040"
+        },
+        {
+            "course_number": "AG_S_M 2345",
+            "course_name": "Chemical Application Systems",
+            "course_description": "Systems, components and operation practices used in the chemical application industry.  Liquid and granular application systems and respective components will be studied along with procedures for minimizing drift, system calibration, recommended maintenance, and off-season storage procedures.",
+            "prerequisites": "MATH 1100 or equivalent",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 2360",
+            "course_name": "Fluid Power",
+            "course_description": "Basic power hydraulic theory. Hydraulic systems, components and circuits.  Math reasoning proficiency course.",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 3350",
+            "course_name": "Problems in Agricultural Systems Management",
+            "course_description": "Supervised independent study at the undergraduate level.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4020",
+            "course_name": "Agricultural Safety and Health",
+            "course_description": "(cross-leveled with AG_S_M 7020). Analysis, organization and implementation of agriculture safety ). and health programs. Physical and economic impact of accidents, standards and liabilities. Role of man in the man-machine system.",
+            "prerequisites": "junior or senior standing or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4120",
+            "course_name": "Advanced Agricultural/Industrial Materials and Processes",
+            "course_description": "(cross-leveled with AG_S_M 7120). Primarily for students majoring in agricultural education. Applies shop principles to the design and construction of projects.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4140",
+            "course_name": "Electricity: Wiring and Equipment",
+            "course_description": "(cross-leveled with AG_S_M 7140).  Home and agricultural electricity; emphasis on proper selection and use of electrical wiring materials and equipment. Basic electrical theory.",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4145",
+            "course_name": "Sensors and Control Systems for Agri-Industries",
+            "course_description": "This course helps one understand sensors including performance, data acquisition systems and selection. In addition, introduction to programmable logic controllers, ladder-rung diagram programming, fluid flow rate, and associated analysis is discussed.",
+            "prerequisites": "AG_S_M 1040 and  AG_S_M 4140",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4150",
+            "course_name": "Biorenewable Systems Technology",
+            "course_description": "Converting biorenewable resources into bioenergy and biobased products.  Biorenewable concepts as they relate to drivers of change, feedstock production, processes, products, co-products, economics, transportation and logistics, and marketing.",
+            "prerequisites": "MATH 1100, CHEM 1100 and AG_EC 1041",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4220",
+            "course_name": "Material Handling and Conditioning",
+            "course_description": "(cross-leveled with AG_S_M 7220). Principles required for processing and handling food and feed materials; selection of machines; analysis and development of systems for processing and handling grain and bulk material.",
+            "prerequisites": "MATH 1100, AG_S_M 1040 and junior standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4225",
+            "course_name": "Preservation of Grain Quality",
+            "course_description": "Principles and management for grain quality preservation.  Grain drying and grain storage.  Psychrometrics.  Fan and airflow.  Grain handling methods and system planning.  Grain quality measurement and end-use value analysis.",
+            "prerequisites": "MATH 1100.  Recommended AG_S_M 1040 and AG_S_M 4220",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4320",
+            "course_name": "Agricultural Equipment and Machinery",
+            "course_description": "(cross-leveled with AG_S_M 7320). Operation of agricultural machinery. Selection and management of equipment.",
+            "prerequisites": "AG_S_M 1040",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4330",
+            "course_name": "Principles for Food Processing",
+            "course_description": "(same as F_S 4330; cross-leveled with AG_S_M 7330, F_S 7330). Introduction to basic engineering concepts used to process raw materials. Principle topics include energy and material balance, fluid flow, heat transfer, refrigeration and freezing, and preservation.",
+            "prerequisites": "MATH 1100, AG_S_M 1040 or PHYSCS 1210",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4350",
+            "course_name": "Problems in Agricultural Systems Management",
+            "course_description": "Supervised independent study at the undergraduate level.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4360",
+            "course_name": "Precision Agriculture Science and Technology",
+            "course_description": "(same as PLNT_S 4360, SOIL 4360; cross-leveled with AG_S_M 7360, PLNT_S 7360, SOIL 7360). Precision agriculture is an information-based approach to farming whereby variability is managed to optimize crop production and reduce environmental pollution. This course provides an overview of precision agriculture technologies (like GIS, GPS, remote sensing), mapping methods, and case studies illustrating decisions and management.",
+            "prerequisites": "PLNT_S 2100 or SOIL 2100, or PLNT_S 2110",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4365",
+            "course_name": "Machinery Management Using Precision Agriculture Technology",
+            "course_description": "(cross-leveled with AG_S_M 7365). Planters, combines, fertilizer application equipment, and sprayer management along with GPS technologies are the focus of the course. One will learn how to manage these tools efficiently and accurately. Valuable precision agriculture management skills emphasized.",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "AG_S_M 1040, and AG_S_M 4360"
+        },
+        {
+            "course_number": "AG_S_M 4366",
+            "course_name": "Data Management and Analysis Using Precision Agriculture Technology",
+            "course_description": "(cross-leveled with AG_S_M 7366). Course begins with a section on how to minimize errors while collecting spatial datasets. Datasets may include yield data, soil chemical and physical properties with real-time sensors, and soil nutrient data from grids or management zones. The course then continues with a section regarding data analytical techniques such as interpolation. The second half of the course will focus on writing prescriptions based on actual data obtained from industry leader experts. This portion of the course will integrate industry experts as well as hardware/software tools. Graded on A-F basis only.",
+            "prerequisites": "AG_S_M 4360 or PLNT_S 4360 or SOIL 4360 and AG_S_M 4365",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4368",
+            "course_name": "Profit Strategies Using Precision Agriculture Technology",
+            "course_description": "(cross-leveled with AG_S_M 7368). Course begins with section on how Precision Agriculture Technology can be used to benefit a farm's financial sustainability.  Discussion of various types of farm operations and currently available Precision Agriculture Technology that is already developed and in use will be examined. The course continues by considering cost factors that create barriers for farm operators to adopt Precision Agriculture.  The second half of the course will focus on developing a plan to implement various technologies into an existing farm operation and draft a business plan for cost, equipment, and transition the farm into using the following types of technologies, GPS, GIS, VRA, RS, RTK and other types of tracking and monitoring systems.  Graded on A-F basis only.",
+            "prerequisites": "AG_S_M 4360 or PLNT_S 4360 or SOIL 4360 or instructor consent, or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4370",
+            "course_name": "In-Service Course Agriculture System Management-Farm Power and Machinery",
+            "course_description": "A. Farm Power and Machinery B. Farm Buildings and Conveniences C. Soil and Water Management D. Rural Electrification and Processing E. Agricultural Construction and Maintenance Basic principles relating to agricultural systems management. Applies principles and subject matter in successful classroom presentation at the high school level.",
+            "prerequisites": "Instructor's consent",
+            "credit_hours": "1-8",
+            "recommendation": "10 credits from Agricultural System Management courses; a B.S. degree in Agriculture"
+        },
+        {
+            "course_number": "AG_S_M 4390",
+            "course_name": "Optimization and Management of Food and Agricultural Systems",
+            "course_description": "(same as F_S 4390, HSP_MGMT 4390; cross-leveled with AG_S_M 7390, F_S 7390, HSP_MNGMT 7390). This course is designed to introduce the student to the concept of layers and interacting systems within an operation and the analytical methods of modeling and simulation to make effective management decisions for optimal system design and function.   Recommended AG_S_M 1040",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4420",
+            "course_name": "Surface Water Management",
+            "course_description": "(corss-leveled with AG_S_M 7420). Topics include hydrology; soil erosion precautions; elementary surveying; selection and layout of ponds, terraces and water control structures.",
+            "prerequisites": "MATH 1100 or higher",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4440",
+            "course_name": "Water Quality and Pollution Control",
+            "course_description": "(cross-leveled with AG_S_M 7440). Applies scientific principles to a variety of water quality problems arising from activities associated with nonpoint pollution, agricultural chemicals, land disposal of wastes, on-site sewage disposal and individual drinking water systems.",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "AG_S_M 1040"
+        },
+        {
+            "course_number": "AG_S_M 4460",
+            "course_name": "Irrigation and Drainage",
+            "course_description": "(cross-leveled with AG_S_M 7460). Soil, water, plant relationships. Selection and layout of irrigation and drainage systems.   Recommended: AG_S_M 1040",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4940",
+            "course_name": "Agricultural Systems Management Internship",
+            "course_description": "Combines study, observation, and employment with industry or government agency in an area of Agricultural Systems Management.  A special problem / learning experience is selected by internship company representative, faculty problem advisor and student. Written and oral reports evaluated by faculty.",
+            "prerequisites": "Instructor's consent",
+            "credit_hours": "2-5",
+            "recommendation": "Sophomore standing and minor or major in Agricultural Systems Management"
+        },
+        {
+            "course_number": "AG_S_M 4970",
+            "course_name": "Agricultural Systems Management - Capstone",
+            "course_description": "Capstone course required of Agricultural Systems Management majors.  Team project involving extensive use of the students education, oral presentations and comprehensive written reports are required.  Class experiences include but may not be limited to system selection and comparison, replacement and operating cost calculations, life cycle costing, and business feasibility analysis.",
+            "prerequisites": "Senior Standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 4970W",
+            "course_name": "Agricultural Systems Management - Capstone - Writing Intensive",
+            "course_description": "Capstone course required of Agricultural Systems Management majors.  Team project involving extensive use of the students education, oral presentations and comprehensive written reports are required.  Class experiences include but may not be limited to system selection and comparison, replacement and operating cost calculations, life cycle costing, and business feasibility analysis.",
+            "prerequisites": "Senior Standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7001",
+            "course_name": "Topics in Agricultural Systems Management",
+            "course_description": "Initial offering of a course in a specific subject matter area related to Agricultural Systems Management. The course is offered when proposed by a faculty member in that area of expertise.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7020",
+            "course_name": "Agricultural Safety and Health",
+            "course_description": "(corss-leveled with AG_S_M 4020). Analysis, organization and implementation of agriculture safety and health programs. Physical and economic impacts of accidents, standards and liabilities. Role of man in the man-machine system.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7085",
+            "course_name": "Problems in Agricultural Systems Management",
+            "course_description": "Supervised individual study at the graduate level.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7120",
+            "course_name": "Advanced Agricultural/Industrial Materials and Processes",
+            "course_description": "(cross-leveled with AG_S_M 4120). Primarily for students majoring in agricultural education. Applies shop principles to the design and construction of projects.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7140",
+            "course_name": "Electricity: Wiring and Equipment",
+            "course_description": "(cross-leveled with AG_S_M 4140). Home and agricultural electricity; emphasis on proper selection and use of electrical wiring materials and equipment. Basic electrical theory.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7220",
+            "course_name": "Material Handling and Conditioning",
+            "course_description": "(cross-leveled with AG_S_M 4220). Principles required for processing and handling food and feed materials; selection of machines; analysis and development of systems for processing and handling grain and bulk materials.",
+            "prerequisites": "MATH 1100 and AG_S_M 1040",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7320",
+            "course_name": "Agricultural Equipment and Machinery",
+            "course_description": "(cross-leveled with AG_S_M 4320). Operation of agricultural machinery. Selection and management of equipment.",
+            "prerequisites": "AG_S_M 1040",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7330",
+            "course_name": "Principles for Food Processing",
+            "course_description": "(same as F_S 7330; cross-leveled with AG_S_M 4330, F_S 4330). Introduction to basic engineering concepts used to process raw materials. Principle topics include energy and material balance, fluid flow, heat transfer, refrigeration and freezing, and preservation.",
+            "prerequisites": "MATH 1100 and AG_S_M 1040 or PHYSCS 1210",
+            "credit_hours": "3PrerequisitesorCorequisites:Instructor'sconsent",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7340",
+            "course_name": "Agricultural Mechanization Systems",
+            "course_description": "Review of current literature. Case study of mechanization systems. Computer analysis of management alternatives.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7360",
+            "course_name": "Precision Agriculture Science and Technology",
+            "course_description": "(same as PLNT_S 7360 and SOIL 7360; cross-leveled with AG_S_M 4360, PLNT_S 7360, SOIL 7360). Precision agriculture is an information-based approach to farming whereby variability is managed to optimize crop production and reduce environmental pollution. This course provides an overview of precision agriculture technologies (like GIS, GPS, remote sensing), mapping methods, and case studies illustrating decisions and management.",
+            "prerequisites": "SOIL 2100, PLNT_S 2110 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7365",
+            "course_name": "Machinery Management Using Precision Agriculture Technology",
+            "course_description": "(cross-leveled with AG_S_M 4365). This course focuses on agricultural equipment that is commonly used in conjunction with GPS technology. Planters, combines, fertilizer application equipment and sprayer application equipment are commonly equipped with GPS equipment to control and record operational parameters. These parameters focus around the equipments geographic location and can be recorded simultaneously with the volume of product applied and weather information (wind, temperature, humidity, etc.). GPS guidance is one of the main technologies to be studied throughout this course. The management of this equipment and the GPS technologies used to control and record this information is the focus of the course.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "AG_S_M 7360"
+        },
+        {
+            "course_number": "AG_S_M 7366",
+            "course_name": "Data Management and Analysis Using Precision Agriculture Technology",
+            "course_description": "(cross-leveled with AG_S_M 4366). Course begins with a section on how to minimize errors while collecting spatial datasets. Datasets may include yield data, soil chemical and physical properties with real-time sensors, and soil nutrient data from grids or management zones. The course then continues with a section regarding data analytical techniques such as interpolation. The second half of the course will focus on writing prescriptions based on actual data obtained from industry leader experts. This portion of the course will integrate industry experts as well as hardware/software tools. Graded on A-F basis only.",
+            "prerequisites": "AG_S_M 7360, AG_S_M 7365, instructor consent, or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7368",
+            "course_name": "Profit Strategies Using Precision Agriculture Technology",
+            "course_description": "(cross-leveled with AG_S_M 4368). Course begins with section on how Precision Agriculture Technology can be used to benefit a farm's financial sustainability. Discussion of various types of farm operations and currently available Precision Agriculture Technology that is already developed and in use will be examined. The course continues by considering cost factors that create barriers for farm operators to adopt Precision Agriculture. The second half of the course will focus on developing a plan to implement various technologies into an existing farm operation and draft a business plan for cost, equipment, and transition the farm into using the following types of technologies, GPS, GIS, VRA, RS, RTK and other types of tracking and monitoring systems. Graded on A-F basis only.",
+            "prerequisites": "AG_S_M 4360 or PLNT_S 4360 or SOIL 4360 or instructor consent, or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7370",
+            "course_name": "In-Service Course Agriculture Systems Management-Farm Power and Machinery",
+            "course_description": "A. Farm Power and Machinery B. Farm Buildings and Conveniences C. Soil and Water Management D. Rural Electrification and Processing E. Agricultural Construction and Maintenance Basic principles relating to agricultural systems management. Applies principles and subject matter in successful classroom presentation at the high school level.",
+            "prerequisites": "10 credits from Agricultural Systems Management courses; a B.S. degree in Agriculture or instructor's consent",
+            "credit_hours": "1-8",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7390",
+            "course_name": "Optimization and Management of Food and Agriculture Systems",
+            "course_description": "(same as F_S 7390, HSP_MGMT 7390; cross-leveled with AG_S_M 4390, F_S 4390, HSP_MGMT 4390). This course is designed to introduce the student to the concept of layers and interacting systems within an operation and the analytical methods of modeling and simulation to make effective management decisions for optimal system design and function.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7420",
+            "course_name": "Surface Water Management",
+            "course_description": "(cross-leveled with AG _S_ M 4420). Topics include hydrology; soil erosion precautions; elementary surveying; selection and layout of ponds, terraces and water control structures.",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7440",
+            "course_name": "Water Quality and Pollution Control",
+            "course_description": "(cross-leveled with AG_S_M 4440). Applies scientific principles to a variety of water quality problems arising from activities associated with nonpoint pollution, agricultural chemicals, land disposal of wastes, on-site sewage disposal and individual drinking water systems.",
+            "prerequisites": "MATH 1100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 7460",
+            "course_name": "Irrigation and Drainage",
+            "course_description": "(cross-leveled with AG_S_M 4460). Soil, water, plant relationships. Selection and layout of irrigation and drainage systems.",
+            "prerequisites": "AG_S_M 4420 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 8085",
+            "course_name": "Problems in Agricultural Systems Management",
+            "course_description": "Supervised individual study at the graduate level.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 8090",
+            "course_name": "Thesis Research in Agricultural Systems Management",
+            "course_description": "Independent investigation to be presented as a thesis. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 8142",
+            "course_name": "Agricultural Energy Efficiency",
+            "course_description": "The study of the efficient use of energy concerning the planning, economics, and finance of efficient technology for livestock, crops, farm buildings including alternative energy resources, and associated environmental systems.",
+            "prerequisites": "AG_S_M 4140 or consent of instructor",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 8340",
+            "course_name": "Agricultural Mechanization Systems",
+            "course_description": "Review of current literature. Case study of mechanization systems. Computer analysis of management alternatives.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "AG_S_M 9090",
+            "course_name": "Thesis Research in Agricultural Systems Management",
+            "course_description": "Independent investigation to be presented as a thesis. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        }
+    ]
+}

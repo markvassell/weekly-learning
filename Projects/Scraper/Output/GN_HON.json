@@ -1,0 +1,382 @@
+{
+    "department_name": "Honors-General ",
+    "department_code": "GN_HON",
+    "courses": [
+        {
+            "course_number": "GN_HON 1010H",
+            "course_name": "Career Explorations",
+            "course_description": "Colloquia in which experts from both the University and the Columbia communities discuss their specialties and answer students' questions on the nature and current status of their disciplines. Open primarily to freshmen. Graded on an S/U basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 1030H",
+            "course_name": "Honors Discussion Groups",
+            "course_description": "Informal discussion between students and faculty on various academic topics. Graded S/U only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "1-2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 1050H",
+            "course_name": "Honors Seminar",
+            "course_description": "Freshman-sophomore seminar offering a small group opportunity to write about and discuss basic works chosen by instructor.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 1070H",
+            "course_name": "Honors Elective Colloquium",
+            "course_description": "",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 1080H",
+            "course_name": "Honors Internship",
+            "course_description": "Independent study under the supervision of a regular faculty member.",
+            "prerequisites": "written proposal with professor's approval submitted in advance to Director of the Honors College. Honors eligibility required",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2010H",
+            "course_name": "Honors Tutorial",
+            "course_description": "Small group of students (2-5) engage in collaborative work under faculty guidance.  The focus is determined in advance by a faculty member and shaped through discussion with the enrolled students. Course may be repeated for credit.  Honors eligibility required",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2015H",
+            "course_name": "Theory and Practice of Tutoring Writing Seminar",
+            "course_description": "(same as ENGLSH 2015H).  Addresses both the theory and practice of tutoring and the foundations of good writing.  This course also qualifies students for a part-time job working as Writing Lab/Online Writery tutors in future semesters.",
+            "prerequisites": "ENGLSH 1000; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2015HW",
+            "course_name": "Theory and Practice of Tutoring Writing Seminar - Honors/Writing Intensive",
+            "course_description": "(same as ENGLSH 2015H).  Addresses both the theory and practice of tutoring and the foundations of good writing.  This course also qualifies students for a part-time job working as Writing Lab/Online Writery tutors in future semesters.",
+            "prerequisites": "ENGLSH 1000; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2085H",
+            "course_name": "Honors Problems",
+            "course_description": "Independent study under the supervision of a regular faculty member.",
+            "prerequisites": "written proposal with professor's approval submitted in advance to Director of the Honors College. Honors eligibility required",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2111H",
+            "course_name": "The Ancient World",
+            "course_description": "The reading list is comprised of the great writers of classical Greece and Rome such as Homer, Sophocles, Plato, Aristotle, Virgil and Apuleius, and of the biblical period, the authors of the Book of Job and the Gospel of Mark.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2111HW",
+            "course_name": "The Ancient World - Honors/Writing Intensive",
+            "course_description": "The reading list is comprised of the great writers of classical Greece and Rome such as Homer, Sophocles, Plato, Aristotle, Virgil and Apuleius, and of the biblical period, the authors of the Book of Job and the Gospel of Mark.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2112H",
+            "course_name": "The Middle Ages and the Renaissance",
+            "course_description": "The literature, art and philosophy which reflect the interaction of biblical thought with the classical past, and ultimately an emerging humanism, form the contents of the second semester. Readings include selections from such central figures as Aquinas, Chaucer, Dante, and Shakespeare. Special lectures are presented on the art, architecture and music of these eras.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2112HW",
+            "course_name": "The Middle Ages and the Renaissance - Honors/Writing Intensive",
+            "course_description": "The literature, art and philosophy which reflect the interaction of biblical thought with the classical past, and ultimately an emerging humanism, form the contents of the second semester. Readings include selections from such central figures as Aquinas, Chaucer, Dante, and Shakespeare. Special lectures are presented on the art, architecture and music of these eras.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2113H",
+            "course_name": "The Early Modern World: The 17th-19th Centuries Enlightenment",
+            "course_description": "The third segment of the Sequence treats the cultural developments in the West from the Baroque to the Enlightenment through Romanticism. The works of Cervantes, Descartes, Milton, Voltaire, Kant, Austen, Goethe, and Dickinson are among those studied. The music and visual arts of these periods are also included.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2114H",
+            "course_name": "The Modern Era",
+            "course_description": "The final semester of the Humanities Sequence deals with the intellectual and cultural developments from the mid-nineteenth to the late twentieth century. Lectures and discussions will be held on the philosophy of Marx, Nietzsche, Sartre and Hannah Arendt; on the literary works of Dickens, Dostoevsky, James Joyce, Virginia Woolf, T.S. Eliot, and Toni Morrison. Special lectures are presented on the music of the period.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2114HW",
+            "course_name": "The Modern Era - Honors/Writing Intensive",
+            "course_description": "The final semester of the Humanities Sequence deals with the intellectual and cultural developments from the mid-nineteenth to the late twentieth century. Lectures and discussions will be held on the philosophy of Marx, Nietzsche, Sartre and Hannah Arendt; on the literary works of Dickens, Dostoevsky, James Joyce, Virginia Woolf, T.S. Eliot, and Toni Morrison. Special lectures are presented on the music of the period.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2120H",
+            "course_name": "Honors Humanities Colloquium",
+            "course_description": "",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2230H",
+            "course_name": "Honors Social Science Colloquium",
+            "course_description": "",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2230HW",
+            "course_name": "Honors Social Science Colloquium - Honors/Writing Intensive",
+            "course_description": "",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2243H",
+            "course_name": "Human Sciences Sequence I: Personal Identity",
+            "course_description": "This interdisciplinary course approached the perennial but fascinating question of how we define, develop, and present ourselves. It considers this question from a range of disciplinary, regional, and thematic perspectives.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2244H",
+            "course_name": "Social Relations",
+            "course_description": "This interdisciplinary course explores the construction of human identity as it related to social groups (these groups might include anything from the family to fan clubs, sports teams to college students).",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2245H",
+            "course_name": "Social Organization",
+            "course_description": "This course examines various forms of social organization from an interdisciplinary perspective. The course will examine small organizations (such as families and kin networks) that are grounded in face-to-face relationships and then consider the impact of large-scale organizations (such as markets and states). The class will also explore how these larger organizations can hold together in the absence of direct personal connections between members.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2246H",
+            "course_name": "Global Citizenship",
+            "course_description": "This course continues our introduction to the fundamental problems and concepts of social science by concentrating on today's emerging global society and the ways in which it shapes social identity. The course also aims at encouraging students to think of themselves as global citizens - people who possess a sense of their own role as citizens of the world.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2246HW",
+            "course_name": "Global Citizenship - Honors/Writing Intensive",
+            "course_description": "This course continues our introduction to the fundamental problems and concepts of social science by concentrating on today's emerging global society and the ways in which it shapes social identity. The course also aims at encouraging students to think of themselves as global citizens - people who possess a sense of their own role as citizens of the world.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2310H",
+            "course_name": "Honors Behavioral Science Colloquium",
+            "course_description": "",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2450H",
+            "course_name": "Honors Biological, Physical, Math (Computer Science) Science Colloquium",
+            "course_description": "Open to all honors-eligible students. These courses may be cross-listed with Biological, Physical or Mathematical Science Departments. Interdisciplinary or experimental courses are encouraged.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2461H",
+            "course_name": "Environment: From Molecules to the Cosmos",
+            "course_description": "Inquiry-based exploration of how the world was made, environments formed, life evolved, and how it works together to sustain life on Earth.  Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2462H",
+            "course_name": "Energy: From Particles to Civilizations",
+            "course_description": "Inquiry based exploration of energy, what it is, how it is used, and how it sustains our life on Earth.  Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 2950H",
+            "course_name": "Honors Preceptorship",
+            "course_description": "Active participation in a professor's research for up to six hours a week.",
+            "prerequisites": "written description of the work with professor's approval submitted in advance to Director of the Honors College.  Honors eligibility required",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3070H",
+            "course_name": "Honors Electives Colloquium",
+            "course_description": "",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3070HW",
+            "course_name": "Honors Electives Colloquium - Honors/Writing Intensive",
+            "course_description": "Honors Electives Colloquium - Honors/Writing Intensive.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3112H",
+            "course_name": "Interdisciplinary Topics in the Humanities: Aesthetics and Performance",
+            "course_description": "Aesthetics and Performance is the 2nd course offered in a four-semester, upper-level Humanities Series.  It takes an Interdisciplinary approach to a variety of topics relevant to such disciplines as Art History, Art, Theater, English, and Film Studies.  Students will be introduced to key figures, ideas, and texts in aesthetics and performance.  The course format will be a combination of guest lectures, small-group discussion, and when possible, team-teaching.  May be repeated for credit.",
+            "prerequisites": "junior or senior standing.  Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3113H",
+            "course_name": "Interdisciplinary Topics in the Humanities",
+            "course_description": "Big Ideas, Big Questions is the third course offered in a four-semester, upper-level Humanities Series.  It takes an interdisciplinary approach to concepts, theories, debates, and questions central to our understanding of the humanities.",
+            "prerequisites": "upper-level standing or permission of instructor; Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3120H",
+            "course_name": "Honors Humanities Colloquium",
+            "course_description": "",
+            "prerequisites": "junior standing. Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3120HW",
+            "course_name": "Honors Humanities Colloquium - Honors/Writing Intensive",
+            "course_description": "",
+            "prerequisites": "junior standing. Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3210H",
+            "course_name": "Honors Behavioral Colloquium",
+            "course_description": "",
+            "prerequisites": "junior standing. Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3210HW",
+            "course_name": "Honors Behavioral Colloquium - Honors/Writing Intensive",
+            "course_description": "",
+            "prerequisites": "junior standing. Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3230H",
+            "course_name": "Honors Social Science Colloquium",
+            "course_description": "",
+            "prerequisites": "junior standing required.  Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3230HW",
+            "course_name": "Honors Social Science Colloquium - Honors/Writing Intensive",
+            "course_description": "",
+            "prerequisites": "junior standing required.  Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3241H",
+            "course_name": "Human Nature",
+            "course_description": "(same as ANTHRO 3340H). We will investigate the topic of human nature, asking such questions as: What are we like? Why do we behave the way we do? Are we inherently selfish or social? Do we have a unitary \"self\" or are we made up of many (and sometimes contradictory) selves? Is there a single \"human\" nature or are there distinct \"male\" and \"female\" natures? Does human nature vary across cultures? Insights come from fields ranging from genetics to literature. The concept of \"human nature\" is fiercely contested and debated both within and between academic disciplines. We will be focusing on the scientific study of human nature, seeking naturalistic explanations by formulating and testing hypotheses. In particular, we will use evolutionary theory to unify explanations from disparate disciplines like biology, psychology, and anthropology. In each class, we will discuss one specific topic like sex or violence and seek to make sense of it from both the proximate level (what triggers the behavior and how does it develop?) and the ultimate level (why and how did our evolutionary history imbue us with this capacity?). Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3241HW",
+            "course_name": "Human Nature - Honors/Writing Intensive",
+            "course_description": "(same as ANTHRO 3340H). We will investigate the topic of human nature, asking such questions as: What are we like? Why do we behave the way we do? Are we inherently selfish or social? Do we have a unitary \"self\" or are we made up of many (and sometimes contradictory) selves? Is there a single \"human\" nature or are there distinct \"male\" and \"female\" natures? Does human nature vary across cultures? Insights come from fields ranging from genetics to literature. The concept of \"human nature\" is fiercely contested and debated both within and between academic disciplines. We will be focusing on the scientific study of human nature, seeking naturalistic explanations by formulating and testing hypotheses. In particular, we will use evolutionary theory to unify explanations from disparate disciplines like biology, psychology, and anthropology. In each class, we will discuss one specific topic like sex or violence and seek to make sense of it from both the proximate level (what triggers the behavior and how does it develop?) and the ultimate level (why and how did our evolutionary history imbue us with this capacity?). Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3242H",
+            "course_name": "Interdisciplinary Topics in the Human Sciences: The Nature of Humans",
+            "course_description": "This course investigates the dynamic qualities of human experience in psychological, social, and environmental context with a focus on contemporary global issues. Course topics vary by semester but will bridge the social and behavioral sciences to address an overarching question: What makes us human? We will explore the social and behavioral factors that shape our shared human condition as well as those that contribute to diversity in the human experience. We will then investigate the complexities of what it means to be human within the globally interconnected societies we live in today. How do we deal creatively with human diversity in addressing the global problems and uncertainties that confront us? What attitudes, practices, and projects might help us manage global uncertainties and opportunities more effectively? What is your role in the global community of the twenty-first century? In exploring these questions through intensive reading, writing, research, and discussion, this course will help you develop a global consciousness that is sensitive to the lived textures and realities of places and peoples around the world. This course satisfies three credit hours of general education requirements in the behavioral and social sciences and is part of the Honors College's Interdisciplinary Topics in the Human Sciences series. Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3242HW",
+            "course_name": "Interdisciplinary Topics in the Human Sciences: The Nature of Humans - Honors/Writing Intensive",
+            "course_description": "This course investigates the dynamic qualities of human experience in psychological, social, and environmental context with a focus on contemporary global issues. Course topics vary by semester but will bridge the social and behavioral sciences to address an overarching question: What makes us human? We will explore the social and behavioral factors that shape our shared human condition as well as those that contribute to diversity in the human experience. We will then investigate the complexities of what it means to be human within the globally interconnected societies we live in today. How do we deal creatively with human diversity in addressing the global problems and uncertainties that confront us? What attitudes, practices, and projects might help us manage global uncertainties and opportunities more effectively? What is your role in the global community of the twenty-first century? In exploring these questions through intensive reading, writing, research, and discussion, this course will help you develop a global consciousness that is sensitive to the lived textures and realities of places and peoples around the world. This course satisfies three credit hours of general education requirements in the behavioral and social sciences and is part of the Honors College's Interdisciplinary Topics in the Human Sciences series. Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 3450H",
+            "course_name": "Honors Biological, Physical, Math (Computer Sci.) Science Colloquium",
+            "course_description": "",
+            "prerequisites": "junior standing required.  Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 4070H",
+            "course_name": "Advanced Honors Elective Colloquium",
+            "course_description": "These courses may be cross-listed with courses in graduate or professional programs or one-of-a-kind courses which may have no other more appropriate academic home.  Interdisciplinary or experimental courses are encouraged.",
+            "prerequisites": "Restricted to juniors and seniors. Honors eligibility required",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 4070HW",
+            "course_name": "Advanced Honors Elective Colloquium - Writing Intensive",
+            "course_description": "These courses may be cross-listed with courses in graduate or professional programs or one-of-a-kind courses which may have no other more appropriate academic home.  Interdisciplinary or experimental courses are encouraged.",
+            "prerequisites": "Restricted to juniors and seniors. Honors eligibility required",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "GN_HON 4950H",
+            "course_name": "Honors Preceptorship",
+            "course_description": "Active participation in a professor's research for up to six hours a week.",
+            "prerequisites": "written description of the work with professor's approval submitted in advance to Director of the Honors College. Junior standing required.  Honors eligibility required",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

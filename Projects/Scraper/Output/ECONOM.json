@@ -1,0 +1,926 @@
+{
+    "department_name": "Economics ",
+    "department_code": "ECONOM",
+    "courses": [
+        {
+            "course_number": "ECONOM 1000",
+            "course_name": "General Economics",
+            "course_description": "One semester course covering similar material as covered in ECONOM 1014 and  ECONOM 1015.  Topics include opportunity costs, gains from trade, efficiency and markets, non-competitive markets, game theory, government spending and taxation, economic growth, monetary and fiscal policy, unemployment and inflation, exchange rates.  Includes applications for Journalism students.  Not open to students who have completed ECONOM 1014 or ECONOM 1024 and, ECONOM 1015 or AG_EC 1041 and AG_EC 1042.  Graded on A-F basis only.",
+            "prerequisites": "Open only to pre-Journalism and Journalism majors; departmental consent required",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 1014",
+            "course_name": "Principles of Microeconomics",
+            "course_description": "A basic examination of the economy at the individual consumer, firm and market level.  Simple economic models used to analyze the workings of the economy.  Topics include opportunity costs, gains from trade, efficiency and markets, non-competitive markets, game theory, the importance of free trade, the markets response to economic shocks and the effect of government intervention.  Not open to students who have completed ECONOM 1024, ECONOM 1051, or AG_EC 1041.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 1015",
+            "course_name": "Principles of Macroeconomics",
+            "course_description": "Macroeconomics generally refers to a collection of questions about how scarcity affects a collection of people interacting with one another.  In this course, our focus is on understanding how scarcity affects welfare of a nation.  Topics include Gross Domestic Product, government spending and taxation, economic growth, monetary and fiscal policy, unemployment and inflation, and exchange rates.  Not open to students who have completed ECONOM 1051 or AG_EC 1042.",
+            "prerequisites": "ECONOM 1014 or ECONOM 1024",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 1024",
+            "course_name": "Fundamentals of Microeconomics",
+            "course_description": "This course uses mathematical reasoning to provide an elementary quantitative introduction to fundamental concepts in microeconomics.  It uses college algebra and simple geometric concepts to describe the behavior of economic units, such as consumers, firms and resource owners, and to depict their interaction through production and exchange in perfect and imperfect markets.  Not open to students who have completed ECONOM 1014, ECONOM 1051, or AG_EC 1041. Math Reasoning Proficiency Course.",
+            "prerequisites": "MATH 1100 or MATH 1120 or equivalent with grade of C or better",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 1051H",
+            "course_name": "General Economics - Honors",
+            "course_description": "One semester course covering similar material as covered in ECONOM 1014 and ECONOM 1015.  Topics include opportunity costs, gains from trade, efficiency and markets, non-competitive markets, game theory, government spending and taxation, economic growth, monetary and fiscal policy, unemployment and inflation, exchange rates.  Not open to students who have completed ECONOM 1014 or ECONOM 1024 and ECONOM 1015. Math Reasoning Proficiency Course.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 2004",
+            "course_name": "Undergraduate Topics in Economics - Social Science",
+            "course_description": "Organized study of selected topics in Economics; applied or theoretical economics; covers subjects not included in regularly offered courses.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 3004",
+            "course_name": "Topics in Economics - Social Science",
+            "course_description": "Study in applied or theoretical economics; covers subjects not included in regularly offered courses.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 3224",
+            "course_name": "Introduction to International Economics",
+            "course_description": "A topical course which emphasizes the application of basic economic analysis to real and current international economic issues. Topics include free trade, protectionism, free trade areas, multilateral trade negotiations, trade and development, exchange rates, the International Monetary System, and economic integration.",
+            "prerequisites": "ECONOM 1014 or ECONOM 1024 or ECONOM 1051",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 3229",
+            "course_name": "Money, Banking and Financial Markets",
+            "course_description": "Operation of the U.S. financial and economic system. Covers interest rates, banking regulation, the money supply process and the conduct of the Federal Reserve, inflation and the macroeconomy, exchange rates and the international financial system, rational expectations, and efficient markets.",
+            "prerequisites": "(ECONOM 1014 or ECONOM 1024) and ECONOM 1015, or ECONOM 1051, or AG ECON 1041 with a minimum grade of C-",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 3229H",
+            "course_name": "Money, Banking and Financial Markets - Honors",
+            "course_description": "Operation of the U.S. financial and economic system. Covers interest rates, banking regulation, the money supply process and the conduct of the Federal Reserve, inflation and the macroeconomy, exchange rates and the international financial system, rational expectations, and efficient markets.",
+            "prerequisites": "ECONOM 1014 or ECONOM 1024 and ECONOM 1015, or ECONOM 1051. Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 3251",
+            "course_name": "Theory of the Firm",
+            "course_description": "Theory of rational behavior in consumption, production, and pricing decisions of households and firms.  Topics include the economics of the firm in the context of partial equilibria in product and factor markets under competition, monopoly, oligopoly and monopolistic competition as well as game theory. No credit for students who have completed ECONOM 4351.",
+            "prerequisites": "(ECONOM 1014 or ECONOM 1024 or ECONOM 1051) and MATH 1400, or equivalent.  Not open to economics majors",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 3271",
+            "course_name": "Introduction to Applied Econometric Practice",
+            "course_description": "Introduction to the use of regression analysis of economic data, including simple and multiple regression, dummy variables. Econometric problems considered include heteroscedasticity, autocorrelation, multicollinearity and simultaneous equation issues.",
+            "prerequisites": "ECONOM 1014 or ECONOM 1024 and ECONOM 1015, or ECONOM 1051H and STAT 2500",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 3323",
+            "course_name": "Capitalism, Democracy and Society",
+            "course_description": "This is a one-credit seminar course for students interested in careers involving social science research and analysis; topics covered will be a selection of classic and contemporary debates in the social sciences.",
+            "prerequisites": "ECONOM 1014 and ECONOM 1015, or ECONOM 1051",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 3940",
+            "course_name": "Internship",
+            "course_description": "Internship experience for students interested in economics. Supervised internship work with approval of Director of Undergraduate Studies and academic adviser. Graded on S/U basis only.",
+            "prerequisites": "ECONOM 1014 or ECONOM 1051",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 3950",
+            "course_name": "Practicum in Economics",
+            "course_description": "Practical experience in consulting, teaching or research guided by faculty advisor. Graded on S/U basis only.",
+            "prerequisites": "consent of Director of Undergraduate Studies and faculty advisor",
+            "credit_hours": "1-3",
+            "recommendation": "Grade of B or higher in ECONOM 4351 and ECONOM 4371"
+        },
+        {
+            "course_number": "ECONOM 4004",
+            "course_name": "Topics in Economics- Social Science",
+            "course_description": "Study in applied or theoretical economics; covers subjects not included in regularly offered courses.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4004W",
+            "course_name": "Topics in Economics- Social Science - Writing Intensive",
+            "course_description": "Study in applied or theoretical economics; covers subjects not included in regularly offered courses.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4311",
+            "course_name": "Labor Economics",
+            "course_description": "(cross-leveled with ECONOM 7311). Surveys theoretical explanations of wage and employment determination in contemporary labor markets.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4311W",
+            "course_name": "Labor Economics - Writing Intensive",
+            "course_description": "Surveys theoretical explanations of wage and employment determination in contemporary labor markets.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4315",
+            "course_name": "Public Economics",
+            "course_description": "(cross-leveled with ECONOM 4315). Analyzes economic effects of government expenditures, taxes and debt. Expenditure and taxation principles, tax reform, cost-benefit analysis, fiscal policy.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4315W",
+            "course_name": "Public Economics - Writing Intensive",
+            "course_description": "Analyzes economic effects of government expenditures, taxes and debt. Expenditure and taxation principles, tax reform, cost-benefit analysis, fiscal policy.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4320",
+            "course_name": "History of Economic Thought",
+            "course_description": "(cross-leveled with ECONOM 7320). Origins of modern economic thought in the context of social and intellectual environment of the time in which they originated, their contribution to their period and to modern thought.",
+            "prerequisites": "(ECONOM 1014 or ECONOM 1024) and ECONOM 1015, or ECONOM 1051",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4320W",
+            "course_name": "History of Economic Thought",
+            "course_description": "Origins of modern economic thought in the context of social and intellectual environment of the time in which they originated, their contribution to their period and to modern thought.",
+            "prerequisites": "(ECONOM 1014 or ECONOM 1024) and ECONOM 1015, or ECONOM 1051",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4322",
+            "course_name": "Economics of Regulation and Antitrust",
+            "course_description": "(cross-leveled with ECONOM 7322Economic issues concerning the role of government regulation. The course examines the rationale for and effects of regulatory policies in public utilities, transportation, and communications industries.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4325",
+            "course_name": "The International Monetary System",
+            "course_description": "(cross-leveled with ECONOM 7325). Study of macroeconomic and monetary relationships between the U.S. and the world. Topics include balance of payments, foreign exchange rates, history of the international monetary system.",
+            "prerequisites": "ECONOM 3229",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4326",
+            "course_name": "Economics of International Trade",
+            "course_description": "(cross-leveled with ECONOM 7326). The microeconomic theory of international trade. Topics include comparative advantage, the theory of commercial policy, economic integration, trade with less developed countries and the trade effects of economic growth.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4329",
+            "course_name": "The Banking System and the Money Market",
+            "course_description": "(cross-leveled with ECONOM 7329). Organization of the money market; credit control procedures and aims, effect of bank expansion and contraction on money market and national income deregulation.",
+            "prerequisites": "ECONOM 1015 or ECONOM 1051",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4329W",
+            "course_name": "The Banking System and the Money Market - Writing Intensive",
+            "course_description": "Organization of the money market; credit control procedures and aims, effect of bank expansion and contraction on money market and national income deregulation.",
+            "prerequisites": "ECONOM 1015 or ECONOM 1051",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4340",
+            "course_name": "Introduction to Game Theory",
+            "course_description": "(cross-leveled with ECONOM 7340). An introduction to the theory of games, viewed as a set of tools used widely in economics to study situations in which decision-makers (consumers, firms, governments, etc.) interact. The course introduces the basic theory, emphasizing the concepts and their economic applications.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4345",
+            "course_name": "Economics of Education",
+            "course_description": "(cross-leveled with ECONOM 7345). Economic theory is used to analyze the market for educational services and education policy. Topics include: human capital theory, cost and performance measures for public and private schools, market based approaches to school reform, school finance, higher education cost and access.",
+            "prerequisites": "(ECONOM 1014 or ECONOM 1024 or ECONOM 1051), and STAT 2500 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4345W",
+            "course_name": "Economics of Education - Writing Intensive",
+            "course_description": "Economic theory is used to analyze the market for educational services and education policy. Topics include: human capital theory, cost and performance measures for public and private schools, market based approaches to school reform, school finance, higher education cost and access.",
+            "prerequisites": "(ECONOM 1014 or ECONOM 1024 or ECONOM 1051), and STAT 2500 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4351",
+            "course_name": "Intermediate Microeconomics",
+            "course_description": "(cross-leveled with ECONOM 7351). Theory of rational behavior in consumption, production, and pricing decisions of households and firms. Partial equilibria in product and factor markets under competition, monopoly, oligopoly and monopolistic competition. A brief introduction to general equilibrium and welfare economics is provided. Calculus is employed. No credit for students who have completed ECONOM 3251.",
+            "prerequisites": "(ECONOM 1014 or ECONOM 1024 or ECONOM 1051) and MATH 1400 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4351H",
+            "course_name": "Intermediate Microeconomics - Honors",
+            "course_description": "Theory of rational behavior in consumption, production, and pricing decisions of households and firms. Partial equilibria in product and factor markets under competition, monopoly, oligopoly and monopolistic competition. A brief introduction to general equilibrium and welfare economics is provided. Calculus is employed. No credit for students who have completed ECONOM 3251.",
+            "prerequisites": "ECONOM 1014 or ECONOM 1024 or ECONOM 1051, and MATH 1400, or equivalent. Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4353",
+            "course_name": "Intermediate Macroeconomics",
+            "course_description": "(cross-leveled with ECONOM 7353). The study of the structure and performance of national economics.  Topics include: long-term economic growth, aggregate economic fluctuations, unemployment, and inflation; consequences for national economies of being part of the global economic system; government policies and macroeconomic performance.",
+            "prerequisites": "ECONOM 1015 or ECONOM 1051, and MATH 1400 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4355",
+            "course_name": "Industrial Organization and Competitive Strategy",
+            "course_description": "(cross-leveled with ECONOM 7355). Analyzes the structure of industry, its impact on the operations of the firm and significance for public policy.  The focus is on strategic interaction among firms with market power.  Topics include oligopoly, competition, collusion, price discrimination, product differentiation, advertising, entry and exit.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4355W",
+            "course_name": "Industrial Organization and Competitive Strategy - Writing Intensive",
+            "course_description": "Analyzes the structure of industry, its impact on the operations of the firm and significance for public policy.  The focus is on strategic interaction among firms with market power.  Topics include oligopoly, competition, collusion, price discrimination, product differentiation, advertising, entry and exit.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4357",
+            "course_name": "Health Economics",
+            "course_description": "(cross-leveled with ECONOM 4357, PUB_AF 4357). Analyzes the economics of health care in the United States with particular attention paid to the role of government.  It examines the demand for health care and the structure and consequences of public and private health insurance; the supply of health care, including professional training, licensure, specialization and compensation, hospital competition and finance, and the determinants and consequences of technical change in medicine and health care reform.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351 and STAT 2500, or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4357W",
+            "course_name": "Health Economics - Writing Intensive",
+            "course_description": "Analyzes the economics of health care in the United States with particular attention paid to the role of government.  It examines the demand for health care and the structure and consequences of public and private health insurance; the supply of health care, including professional training, licensure, specialization and compensation, hospital competition and finance, and the determinants and consequences of technical change in medicine and health care reform.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351 and STAT 2500, or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4360",
+            "course_name": "Economic Development",
+            "course_description": "(same as PEA_ST 4360; cross-leveled with ECONOM 7360). The study of less-developed countries including problems of measuring economic growth, analysis of sources of economic growth, causes of changes in economic and structure, development and trade policies. The consequences of goals and assumptions for development policy are analyzed.",
+            "prerequisites": "ECONOM 3229, and ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4361",
+            "course_name": "Comparative Economic Systems",
+            "course_description": "(cross-leveled with ECONOM 4361). Study of capitalism, market socialism, and central planning.",
+            "prerequisites": "ECONOM 3229, and ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4367",
+            "course_name": "Law and Economics",
+            "course_description": "(cross-leveled with ECONOM  7367l PUB_AF 7367). This course is a survey of economic analyses of American legal institutions.  Students will apply basic microeconomics, game theoretic and statistical concepts to the study of property, contracts, torts, the legal process, crime, and the judiciary.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351, and STAT 2500, or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4367W",
+            "course_name": "Law and Economics - Writing Intensive",
+            "course_description": "This course is a survey of economic analyses of American legal institutions.  Students will apply basic microeconomics, game theoretic and statistical concepts to the study of property, contracts, torts, the legal process, crime, and the judiciary.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351, and STAT 2500, or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4370",
+            "course_name": "Quantitative Economics",
+            "course_description": "(cross-leveled with ECONOM 7370). The aim of this course is to provide an introduction to the mathematical language of economic theory.  Topics include linear models, matrix algebra, rules of differentiation and comparative static analysis, optimization.",
+            "prerequisites": "MATH 1500 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4371",
+            "course_name": "Introductory Econometrics",
+            "course_description": "(cross-leveled with ECONOM 7371). Study methods for quantitative analysis of economic data. Estimation techniques, tests of significance, prediction and forecasting reviewed with respect to problems presented by economic data and information demands of economic decision models.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351, and STAT 2500, or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4384",
+            "course_name": "Structural Change in Economic History",
+            "course_description": "(cross-leveled with ECONOM 7384). Explores changes in the structure of the American economy from its earliest colonial beginnings. Structural change, an integral part of growth, is related to technical change, population growth and to the content and form of economic theory.",
+            "prerequisites": "ECONOM 1014 or ECONOM 1024 and ECONOM 1015, or ECONOM 1051",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4385",
+            "course_name": "Problems in Economics",
+            "course_description": "Development of a carefully considered research project under close supervision of a faculty member.  Credit arranged by instructor.",
+            "prerequisites": "ECONOM 4351, ECONOM 4371, and instructor's consent.  Not open to non-majors",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4775",
+            "course_name": "Dynamic Optimization and its Applications to the Natural Sciences and Economics",
+            "course_description": "(cross-leveled with ECONOM 7775). Development of Calculus of Variations and Optimal Control Theory. Applications. Extensions to stochastic and robust control.",
+            "prerequisites": "ECONOM 4370 or instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4940",
+            "course_name": "Internship in Economics",
+            "course_description": "Internship experience for Economics majors.  40 hours of supervised internship work with approval of Director of Undergraduate Studies and academic advisor.  Graded on S/U basis only.",
+            "prerequisites": "C or higher in ECONOM 4351 and ECONOM 4371; Declared economics majors who have a minimum overall CUM  GPA of 2.75 and have junior or senior standing",
+            "credit_hours": "1-3",
+            "recommendation": "Students must have completed at least 15 credit hours at MU"
+        },
+        {
+            "course_number": "ECONOM 4965",
+            "course_name": "Independent Study in Economics",
+            "course_description": "Individual work, with conferences adjusted to needs of student.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4970",
+            "course_name": "Senior Seminar in Economics",
+            "course_description": "Seminar for graduating seniors who are majoring in economics. Multiple writing assignments will emphasize synthesis of theoretical, empirical, and institutional economics. Not open to non-majors.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4971",
+            "course_name": "Supplemental Senior Seminar in Economics",
+            "course_description": "Content description is the same as ECONOM 4970.  Required for Economics honors students and double majors in Economics who take a capstone course in another major.  No credit for students who have completed ECONOM 4970.  Not open to non-majors. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 4995",
+            "course_name": "Honors Thesis",
+            "course_description": "Not open to non-majors.  Capstone course required for Economics honors students.",
+            "prerequisites": "ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7001",
+            "course_name": "Topics in Economics - General",
+            "course_description": "Study in applied or theoretical economics.  Subjects and earnable credit may vary from semester to semester.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7085",
+            "course_name": "Problems in Economics",
+            "course_description": "Individual study in Economics.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7311",
+            "course_name": "Labor Economics",
+            "course_description": "(cross-leveled with ECONOM 4311).  Surveys theoretical explanations of wage and employment determination in contemporary labor markets.",
+            "prerequisites": "ECONOM 3251 or ECONOM 7351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7315",
+            "course_name": "Public Economics",
+            "course_description": "(cross-leveled with ECONOM 4315). Analyzes economic effects of government expenditures, taxes and debt. Expenditure and taxation principles, tax reform, cost-benefit analysis, fiscal policy.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7320",
+            "course_name": "History of Economic Thought",
+            "course_description": "(cross-leveled with ECONOM 4320). Origins of modern economic thought in the context of social and intellectual environment of the time in which they originated, their contribution to their period and to modern thought.",
+            "prerequisites": "ECONOM 1014 or ECONOM 1024 and ECONOM 1015 or ECONOM 1051H",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7322",
+            "course_name": "Economics of Regulation and Antitrust",
+            "course_description": "(cross-leveled with ECONOM 4322). Economic issues concerning the role of government regulation. The course examines the rationale for and effects of regulatory policies in public utilities, transportation, and communications industries.",
+            "prerequisites": "ECONOM 3251 or ECONOM 7351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7325",
+            "course_name": "The International Monetary System",
+            "course_description": "(cross-leveled with ECONOM 4325). Study of macroeconomic and monetary relationships between the US and the world. Topics include balance of payments, foreign exchange rates, history of the international monetary system.",
+            "prerequisites": "ECONOM 3229",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7326",
+            "course_name": "Economics of International Trade",
+            "course_description": "(cross-leveled with ECONOM 4326). The microeconomic theory of international trade. Topics include comparative advantage, the theory of commercial policy, economic integration, trade with LDC's and the trade effects of economic growth.",
+            "prerequisites": "ECONOM 7351 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7329",
+            "course_name": "The Banking System and the Money Market",
+            "course_description": "(cross-leveled with ECONOM 4329) Organization of the money market; credit control procedures and aims, effect of bank expansion and contraction on money market and national income deregulation.",
+            "prerequisites": "ECONOM 1015 or ECONOM 1051",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7332",
+            "course_name": "Microeconomics for Managers",
+            "course_description": "(cross-leveled with ECONOM 4332). Microeconomic concepts presented at the intermediate level, graphic treatment with limited calculus, managerial issues presented at the MBA level.  (Not open to economics majors).",
+            "prerequisites": "ECONOM 1014 or ECONOM 1024, MATH 1300; permission required for MBA program",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7340",
+            "course_name": "Introduction to Game Theory",
+            "course_description": "(cross-leveled with ECONOM 4340). An introduction to the theory of games, viewed as a set of tools used widely in economics to study situations in which decision-makers (consumers, firms, governments, etc.) interact. The course introduces the basic theory, emphasizing the concepts and their economic applications.",
+            "prerequisites": "ECONOM 3251 or ECONOM 7351 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7345",
+            "course_name": "Economics of Education",
+            "course_description": "(cross-leveled with ECONOM 4345). Economic theory is used to analyze the market for educational services and education policy. Topics include: human capital theory, cost and performance measures for public and private schools, market based approaches to school reform, school finance, higher education cost and access.",
+            "prerequisites": "ECONOM 1014 or ECONOM 1024, or ECONOM 1051H and ECONOM 4371 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7351",
+            "course_name": "Intermediate Microeconomics",
+            "course_description": "(cross-leveled with ECONOM 4351). Theory of rational behavior in consumption, production, and pricing decisions of households and firms. Partial equilibria in product and factor markets under competition, monopoly, oligopoly and monopolistic competition. A brief introduction to general equilibrium and welfare economics is provided. Calculus is employed. No credit for students who have completed 3251.",
+            "prerequisites": "(ECONOM 1014 or ECONOM 1024 or ECONOM 1051) and MATH 1400 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7353",
+            "course_name": "Intermediate Macroeconomics",
+            "course_description": "(cross-leveled with ECONOM 4353). The study of the structure and performance of national economics. Topics include: long-term economic growth, aggregate economic fluctuations, unemployment, and inflation; consequences for national economies of being part of the global economic system; government policies and macroeconomic performance.",
+            "prerequisites": "ECONOM 1015 or ECONOM 1051 and MATH 1400 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7355",
+            "course_name": "Industrial Organization and Competitive Strategy",
+            "course_description": "(cross-leveled with ECONOM 4355). Analyzes the structure of industry, its impact on the operations of the firm and significance for public policy. The focus is on strategic interaction among firms with market power.  Topics include oligopoly, competition, collusion, price discrimination, product differentiation, advertising, entry and exit.",
+            "prerequisites": "ECONOM 3251 or ECONOM 7351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7357",
+            "course_name": "Health Economics",
+            "course_description": "(same as PUB_AF 7357; cross-leveled with ECONOM 4357). Analyzes the economics of health care in the United States with particular attention paid to the role of government.  It examines the demand for health care and the structure and consequences of public and private health insurance; the supply of health care, including professional training, licensure, specialization and compensation, hospital competition and finance, and the determinants and consequences of technical change in medicine: and examination of recent proposals and initiatives for health care reform.",
+            "prerequisites": "STAT 2500 and ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7360",
+            "course_name": "Economic Development",
+            "course_description": "(cross-leveled with ECONOM 4360, PEA_ST 4360). The study of less-developed countries including problems of measuring economic growth, analysis of sources of economic growth, causes of changes in economic and structure, development and trade policies. The consequences of goals and assumptions for development policy are analyzed.",
+            "prerequisites": "ECONOM 3229 and ECONOM 3251 or ECONOM 4351.; graduate standing required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7361",
+            "course_name": "Comparative Economic Systems",
+            "course_description": "(cross-leveled with ECONOM 4361). Study of capitalism, market socialism, and central planning.",
+            "prerequisites": "ECONOM 3229 and ECONOM 3251 or ECONOM 4351",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7367",
+            "course_name": "Law and Economics",
+            "course_description": "(same as PUB_AF 7367; cross-leveled with ECONOM 4367). This course is a survey of economic analyses of American legal institutions.  Students will apply basic microeconomic, game theoretic and statistical concepts to the study of property, contracts, torts, the legal process, crime and the judiciary.",
+            "prerequisites": "[ECONOM 4351 or ECONOM 3251, and STAT 2500, or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7370",
+            "course_name": "Quantitative Economics",
+            "course_description": "(cross-leveled with ECONOM 4370). The aim of this course is to provide an introduction to the mathematical language of economic theory.  Topics include linear models, matrix algebra, rules of differentiation and comparative static analysis, optimization.",
+            "prerequisites": "MATH 1500 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7371",
+            "course_name": "Introductory Econometrics",
+            "course_description": "(cross-leveled with ECONOM 4371). Study methods for quantitative analysis of economic data. Estimating techniques, tests of significance, prediction and forecasting reviewed with respect to problems presented by economic data and information demands of economic decision models.",
+            "prerequisites": "ECONOM 3251 or ECONOM 4351 and STAT 2500 and MATH 1320 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7384",
+            "course_name": "Structural Change in Economic History",
+            "course_description": "(cross-leveled with ECONOM 4384). Explores changes in the structure of the American economy from its earliest colonial beginnings. Structural change, an integral part of growth, is related to technical change, population growth and to the content and form of economic theory.",
+            "prerequisites": "ECONOM 1014 or ECONOM 1024 and ECONOM 1015, or ECONOM 1051H or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 7775",
+            "course_name": "Dynamic Optimization and its Applications to the Natural Sciences and Economics",
+            "course_description": "(cross-leveled with ECONOM 4775). Development of Calculus of Variations and Optimal Control Theory. Applications. Extensions to stochastic and robust control.",
+            "prerequisites": "ECONOM 7370 or instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8001",
+            "course_name": "Topics in Economics- General",
+            "course_description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8085",
+            "course_name": "Problems in Economics",
+            "course_description": "Graduate students may select topics for study and investigation subject to approval by supervising faculty.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8090",
+            "course_name": "Research in Economics",
+            "course_description": "Thesis research for M.A. degree. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8340",
+            "course_name": "Game Theory",
+            "course_description": "Game theory is the study of strategic behavior by agents who perceive themselves as \"large\" relative to the market and who therefore consider the effect of their behavior on others. This course examines the rigorous theory of strategic interaction of rational agents. May be repeated for credit.",
+            "prerequisites": "ECONOM 4351 or equivalent; MATH 1320 or equivalent. . Graded on A-F basis only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8370",
+            "course_name": "Mathematics for Economics",
+            "course_description": "The aim of this course is to cover essential mathematics used in economics. Topics include introductory linear algebra, multivariate calculus, comparative statics analysis, unconstrained optimization, and equality constrained optimization. May be repeated for credit.",
+            "prerequisites": "ECONOM 4351 or equivalent; MATH 1320 or equivalent. Graded on A-F basis only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8413",
+            "course_name": "Research Workshop I",
+            "course_description": "Required course for economics MA students.  Combines instruction, student presentations, and seminar participation to introduce research methods and practice. A major research paper are required.",
+            "prerequisites": "ECONOM 8451, ECONOM 8453, and ECONOM 8472 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8451",
+            "course_name": "Microeconomic Theory",
+            "course_description": "MA-level course in microeconomic theory.  The course relies extensively on calculus to survey theories of:  rational behavior in consumption, production, and pricing decisions of households and firms; partial equilibria in product and factor markets under competition, monopoly, oligopoly and monopolistic competition; and general equilibrium and welfare.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8453",
+            "course_name": "Macroeconomic Theory",
+            "course_description": "Basic models in macroeconomics will be covered with emphasis on assumptions and on how hypotheses can be tested.  Course is an introductory survey for students intending to develop ability for research in macroeconomics.",
+            "prerequisites": "ECONOM 4353 or equivalent; at least concurrent enrollment in ECONOM 8451.  Instructor's consent required for non graduate level students",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8470",
+            "course_name": "Dynamic Optimization",
+            "course_description": "Topics to be covered include calculus of variations, optimal control theory, dynamic programming in discrete time variables, and economic modeling. The Euless Equation, the Transversally Condition and the Bellman Equation will also be covered.",
+            "prerequisites": "ECONOM 7370",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8472",
+            "course_name": "Econometric Methods I",
+            "course_description": "Familiarizes students with fundamental techniques found and used in applied economic research. Topics include: ordinary least squares, generalized least square, instrumental variables, maximum likelihood estimation, and generalized methods of moments.",
+            "prerequisites": "STAT 7710 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 8473",
+            "course_name": "Applied Econometrics",
+            "course_description": "Topics include: nonlinear least squares, numerical optimization, maximum likelihood and basic panel data and time series methods.  Graded on A-F basis only.",
+            "prerequisites": "ECONOM 7371 and MATH 7140 or equivalent, or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9001",
+            "course_name": "Topics in Economics",
+            "course_description": "Selected current topics in economics.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9085",
+            "course_name": "Problems in Economics",
+            "course_description": "Graduate students may select topics for study and investigation subject to approval by supervising faculty.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9090",
+            "course_name": "Research in Economics",
+            "course_description": "Thesis research for Ph.D. degree. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9411",
+            "course_name": "Advanced Labor Economics I",
+            "course_description": "Analysis of the determination of wages and employment and the relation of trade unionism to the economy.",
+            "prerequisites": "ECONOM 9452 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9412",
+            "course_name": "Advanced Labor Economics II",
+            "course_description": "Applications of contemporary analytical techniques to labor market topics chosen by the instructor.",
+            "prerequisites": "ECONOM 9411 and ECONOM 9452 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9413",
+            "course_name": "Research Workshop II",
+            "course_description": "Introduces doctoral students to practices of preparing scholarly economic research by moving through the process of selecting a topic, identifying relevant literature, and communicating results.  Graded on A-F basis only.",
+            "prerequisites": "ECONOM 9452, ECONOM 9454 and ECONOM 9474; PhD standing",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9415",
+            "course_name": "Advanced Public Economics I",
+            "course_description": "Tax incidence and optimal taxation in static economies and issues of taxation in dynamic economies.",
+            "prerequisites": "ECONOM 9452 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9416",
+            "course_name": "Advanced Public Economics II",
+            "course_description": "Macroeconomic issues of government finance. Theoretical and empirical analysis of Ricardian equivalence.",
+            "prerequisites": "ECONOM 9452 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9426",
+            "course_name": "International Trade",
+            "course_description": "Pure theory of international trade and commercial policy.",
+            "prerequisites": "ECONOM 9452 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9427",
+            "course_name": "Topics in International Trade",
+            "course_description": "The course will cover recent research in International Trade and important issues related to the impact of trade on economic growth and development.  Topics include the relationship between trade and growth, the impact of international trade on firms, households and economic growth.  Graded on A-F basis only.",
+            "prerequisites": "ECONOM 9452 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9430",
+            "course_name": "Advanced Money and Banking",
+            "course_description": "The working and structure of institutional arrangements, welfare aspects of structural policies, operation of money and credit markets, and behavior of returns on assets.",
+            "prerequisites": "ECONOM 9452 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9431",
+            "course_name": "Central Banking Policies",
+            "course_description": "Examines central banking procedures, policies and the role they play in maintaining economic stability. Special attention to connection of Federal Reserve System with money and capital markets.",
+            "prerequisites": "ECONOM 9452 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9446",
+            "course_name": "Advanced Empirical Methods",
+            "course_description": "Empirical and modeling techniques for evaluation of microeconomic policy questions.",
+            "prerequisites": "ECONOM 8451, ECONOM 8472",
+            "credit_hours": "3",
+            "recommendation": "Concurrent enrollment in ECONOM 8473 or ECONOM 9473"
+        },
+        {
+            "course_number": "ECONOM 9447",
+            "course_name": "Topics in Microeconomic Policy Analysis",
+            "course_description": "(same as PUB_AF 9447). Applies the methods and techniques of microeconomics and to specific timely policy questions.  Taught by applied-microeconomics faculty and focuses on current topics in labor economics, public economics, the economics of education, health economics, and other applied areas of microeconomics.",
+            "prerequisites": "ECONOM 8451, ECONOM 8472, ECONOM 9446",
+            "credit_hours": "3",
+            "recommendation": "Concurrent enrollment in ECONOM 8473 or ECONOM 9473"
+        },
+        {
+            "course_number": "ECONOM 9451",
+            "course_name": "Advanced Microeconomic Theory I",
+            "course_description": "The theory of rational behavior and partial equilibrium in markets.  Topics include consumer behavior, theory of the firm, decisions making under uncertainty, perfect competition, monopoly and monopsony, and imperfect competition.  Graded on A/F basis only.",
+            "prerequisites": "ECONOM 9451 or instructor's consent; PhD standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9452",
+            "course_name": "Advanced Microeconomic Theory II",
+            "course_description": "Survey of equilibrium theory and market failures in economics. Topics include the structure and modeling of games, and cooperative and non-cooperative equilibrium concepts.",
+            "prerequisites": "ECONOM 9451 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9453",
+            "course_name": "Advanced Macroeconomic Theory I",
+            "course_description": "Aggregate models of life-cycle microfoundations, of macroeconomics fluctuations and growth.  Graded on A-F basis only.",
+            "prerequisites": "departmental consent; PhD standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9454",
+            "course_name": "Advanced Macroeconomic Theory II",
+            "course_description": "Analyzes topics in income analysis, including capital theory and economic dynamics.",
+            "prerequisites": "ECONOM 9453 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9455",
+            "course_name": "Monopoly and Competition",
+            "course_description": "A survey of the theoretical and empirical literature on the organization of industries. Includes study of monopolized markets, competitive markets, and strategic interaction among firms in imperfectly competitive markets. Both the rationale and practice of anti-trust policy are studied.",
+            "prerequisites": "ECONOM 9452 and ECONOM 9471 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9457",
+            "course_name": "Computational Economics",
+            "course_description": "Covers numerical and computational methods to solve economic models at the research frontier. Emphasis is on practical applications to prepare students for independent research. Graded on A-F basis only.",
+            "prerequisites": "ECONOM 8451 and ECONOM 8453 and ECONOM 8472",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9460",
+            "course_name": "Development Economics",
+            "course_description": "Theories of economic development critically examined. Sources and consequences of growth processes analyzed in context of economic theory and historical occurrence.",
+            "prerequisites": "ECONOM 8451 and ECONOM 8472",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9471",
+            "course_name": "Advanced Game Theory",
+            "course_description": "Presents core concepts in game theory and illustrates their uses with a range of applications.",
+            "prerequisites": "ECONOM 9452 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9472",
+            "course_name": "Econometric Theory I",
+            "course_description": "Analysis of linear regression models from an advanced statistical perspective.",
+            "prerequisites": "Department consent required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9473",
+            "course_name": "Econometric Theory II",
+            "course_description": "Analysis of nonlinear regression models and other essential econometric tools not covered in ECONOM 9472 from an advanced statistical perspective.",
+            "prerequisites": "ECONOM 9472 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9474",
+            "course_name": "Advanced Topics in Econometrics I",
+            "course_description": "Equips students with some essential tools for conducting publishable econometric research. Topics at the discretion of the instructor - typically time series analysis.  Graded on A-F basis only.",
+            "prerequisites": "ECONOM 9473 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9476",
+            "course_name": "Advanced Topics in Econometrics II",
+            "course_description": "Equips students with some essential tools for conducting publishable econometric research.  Topics at the discretion of the instructor - typically microeconometrics.",
+            "prerequisites": "ECONOM 9473 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9477",
+            "course_name": "Advanced Topics in Econometrics III",
+            "course_description": "Equips students with some essential tools for conducting publishable econometric research. Topics at the discretion of the instructor - typically the second semester of a two-semester time series sequence beginning with ECONOM 9474 or a two-semester microeconometrics sequence beginning with ECONOM 9476.",
+            "prerequisites": "ECONOM 9473 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9480",
+            "course_name": "Independent Readings for Ph.D. Comprehensive Examinations",
+            "course_description": "Independent Readings for Ph.D. Comprehensive Exam.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ECONOM 9484",
+            "course_name": "Economic History",
+            "course_description": "Techniques of the new economic history are explored in the context of European economic development.",
+            "prerequisites": "ECONOM 8451",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

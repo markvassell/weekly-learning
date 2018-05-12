@@ -1,0 +1,214 @@
+{
+    "department_name": "Health Sciences ",
+    "department_code": "HLTH_SCI",
+    "courses": [
+        {
+            "course_number": "HLTH_SCI 1000",
+            "course_name": "Introduction to the Health Professions",
+            "course_description": "Overview of clinical/non-clinical health careers; aptitudes/abilities needed for each; the history, current and future state of health care in the U.S: introduction to diverse populations and patient/family issues; Assists with career planning/selection of appropriate majors.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 2100",
+            "course_name": "Health Sciences Seminar",
+            "course_description": "Professional Development course for Health Science Majors.  Topics include resume development/ revision , interviewing skills, applying to graduate/professional programs and/or jobs, professional communication, etc. Graded on S/U basis only.",
+            "prerequisites": "sophomore standing required; restricted to Health Science majors only",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 2200",
+            "course_name": "Nuclear Weapons: Environmental, Health and Social Effects",
+            "course_description": "(same as SOCIOL 2281 and  PEA_ST 2200).  Environmental consequences of the nuclear arms race, \"regional\" nuclear war, and weapons testing for human health, agriculture, and society. Examining \"a world without nuclear weapons\"; political dialogue on proliferation; Iran, North Korea, and nuclear weapons conventions. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 2200W",
+            "course_name": "Nuclear Weapons: Environmental, Health and Social Effects - Writing Intensive",
+            "course_description": "(same as SOCIOL 2281 and  PEA_ST 2200).  Environmental consequences of the nuclear arms race, \"regional\" nuclear war, and weapons testing for human health, agriculture, and society. Examining \"a world without nuclear weapons\"; political dialogue on proliferation; Iran, North Korea, and nuclear weapons conventions. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 3300",
+            "course_name": "Public Health Principles, Practice, and Education",
+            "course_description": "Public Health is the science and practice of protecting and improving the health of communities through education, promotion of healthy lifestyles, and research for disease and injury prevention. This course focuses on the basic structures of the Public Health system in the U.S. and provides an introduction to the factors that influence and shape that system. Among others, factors include socioeconomic, financing, politics and global issues. Students in this course will be challenged to consider the complex web of factors affecting the health of communities. The course will explore: health needs assessments, examining relationships among behavioral, environmental and genetic factors that enhance or compromise health, examining factors that influence the learning process, and examining factors that enhance or compromise the process of health education. Graded on an A-F basis only.",
+            "prerequisites": "Restricted to Health Sciences Majors during pre-registration",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 3300H",
+            "course_name": "Public Health Principles, Practice, & Education - Honors",
+            "course_description": "Public Health is the science and practice of protecting and improving the health of communities through education, promotion of healthy lifestyles, and research for disease and injury prevention. This course focuses on the basic structures of the Public Health system in the U.S. and provides an introduction to the factors that influence and shape that system. Among others, factors include socioeconomic, financing, politics and global issues. Students in this course will be challenged to consider the complex web of factors affecting the health of communities. The course will explore: health needs assessments, examining relationships among behavioral, environmental and genetic factors that enhance or compromise health, examining factors that influence the learning process, and examining factors that enhance or compromise the process of health education. Graded on an A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 3300W",
+            "course_name": "Public Health Principles and Practice - Writing Intensive",
+            "course_description": "Public Health is the science and practice of protecting and improving the health of communities through education, promotion of healthy lifestyles, and research for disease and injury prevention. This course focuses on the basic structures of the Public Health system in the U.S. and provides an introduction to the factors that influence and shape that system. Among others, factors include socioeconomic, financing, politics and global issues. Students in this course will be challenged to consider the complex web of factors affecting the health of communities. The course will explore: health needs assessments, examining relationships among behavioral, environmental and genetic factors that enhance or compromise health, examining factors that influence the learning process, and examining factors that enhance or compromise the process of health education. Graded on an A-F basis only.",
+            "prerequisites": "Restricted to Health Sciences Majors during pre-registration",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 3310",
+            "course_name": "Social and Behavioral Health Theory and Practice",
+            "course_description": "Social and Behavioral Health (SBH) is the core discipline of public health that focuses on the factors that influence individuals' and communities health actions and decisions. This course will take both a theoretical and a practical approach to understanding SBH. Students will gain an understanding of theory and develop practical skills to apply theories to real world health issues. Readings, assignments, and discussions will focus largely on ways to understand and change health behaviors and various individual, relational, community, and social-level influences on health. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Health Sciences Majors during pre-registration. Sophomore standing required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 3400",
+            "course_name": "Global Public Health and Health Care Systems",
+            "course_description": "(same as PEA_ST 3401). An introduction to public health in a global context, with an emphasis on understanding how disparities in socioeconomic status, differences in political and national health care systems and the work of international organizations impact health in communities around the world.  Graded on A-F basis only.",
+            "prerequisites": "Restricted to Health Sciences Majors during preregistration",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 3500",
+            "course_name": "Mental Health",
+            "course_description": "This course provides a look at mental health problems with regard to influences, etiology, diagnosis, and treatment. Students learn theories of mental health, diagnostic criteria, treatment modalities, and community issues concerning the mental health system. Graded on A-F basis only.",
+            "prerequisites": "HLTH_SCI 2100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 3600",
+            "course_name": "Health Promotion Programs I: Assessment and Planning",
+            "course_description": "Health promotion planning is the development and implementation of a well-researched and tailored intervention to increase the health status of an individual and population. This course will provide a comprehensive introduction to health promotion planning and assessment by integrating a solid theoretical foundation of the discipline with hands-on experience in assessing needs, assets and capacity for health education, health education and project planning, funding, intervention development, implementation of health education projects, and evaluation. Special attention placed on implementing health education and promotion programs that are tailored to the particular population in need as well as specialized for the appropriate setting be it school, work, health care clinic, or the community.  Graded on A-F basis only.",
+            "prerequisites": "Restricted to Health Science majors during pre-registration",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 3610",
+            "course_name": "Health Promotion Programs II: Implementation, Evaluation, and Communication",
+            "course_description": "This course builds on topics covered in Health Promotion Programs I: Assessment and Planning. It will provide a comprehensive introduction to the implementation, evaluation and communication required for successful health promotion programs by integrating a solid theoretical foundation of the discipline with hands-on experience in the implementation of health promotion program, developing an evaluation and communication strategies for successful health education and health promotion programs in a variety of community-based settings. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Health Sciences Majors onlyCorequisites: HLTH_SCI 3600",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 3900",
+            "course_name": "Introduction to The Research Process and Evidence Base",
+            "course_description": "This course provides an introduction to the basic quantitative and qualitative research techniques used in public health, health education and promotion, and the health professions. Conducting research, making medical decisions based on research findings, and using and interpreting research and evidence in practice settings all represent potential outcomes for students selecting a career in public health or the health professions. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Health Sciences Majors with junior or senior standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 3900W",
+            "course_name": "Introduction to The Research Process and Evidence Base - Writing Intensive",
+            "course_description": "This course provides an introduction to the basic quantitative and qualitative research techniques used in public health, health education and promotion, and the health professions. Conducting research, making medical decisions based on research findings, and using and interpreting research and evidence in practice settings all represent potential outcomes for students selecting a career in public health or the health professions. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Health Sciences Majors with junior or senior standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4001",
+            "course_name": "Topics in Health Science",
+            "course_description": "Organized study of selected topics. Subjects will vary from semester to semester.",
+            "prerequisites": "Restricted to Health Sciences Majors during preregistration",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4300",
+            "course_name": "Health Care in the United States",
+            "course_description": "Overview of financing, structure, and outcomes in the U.S. health care system. Contemporary health care issues, policy, and politics will be addressed. Graded on A-F basis only.",
+            "prerequisites": "sophomore standing; Restricted to Health Sciences Majors during pre-registration",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4300H",
+            "course_name": "Health Care in the United States - Honors",
+            "course_description": "Overview of financing, structure, and outcomes in the U.S. health care system. Contemporary health care issues, policy, and politics will be addressed. Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4400",
+            "course_name": "Culture and Health Literacy for the Health Professions",
+            "course_description": "This course will explore differences and attitudes towards the health care industry across various social, cultural and ability groups.  This exploration will result in more culturally competent health professionals by promoting self-awareness and challenging the existing assumptions and biases of the health care system.",
+            "prerequisites": "junior or senior standing or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4410",
+            "course_name": "Humanism and Health Literacy",
+            "course_description": "This class will teach how the humanities can help students become better heath professionals.  Topics include: spirituality and health; non-medical factors that impact health; representation of disability in art history; and literature and health.  Graded on A-F basis only.",
+            "prerequisites": "Restricted to Health Sciences Majors during pre-registration",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4420",
+            "course_name": "Health Literacy and Behavioral Compliance",
+            "course_description": "Students will learn about the behavioral, psychological, and cognitive factors that impact health literacy and the ability to follow healthcare recommendations.",
+            "prerequisites": "Restricted to Health Sciences Majors during pre-registration",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4480",
+            "course_name": "Clinical Ethics",
+            "course_description": "Exploration of bioethics issues in health care with emphasis on issues related to patient choice and provider responsibility.  Topics include philosophical theories, principles and models for ethical and lawful decision making in healthcare.",
+            "prerequisites": "junior or senior standing; Restricted to Health Science majors only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4480W",
+            "course_name": "Clinical Ethics - Writing Intensive",
+            "course_description": "Exploration of bioethics issues in health care with emphasis on issues related to patient choice and provider responsibility.  Topics include philosophical theories, principles and models for ethical and lawful decision making in healthcare.",
+            "prerequisites": "junior or senior standing; Restricted to Health Science majors only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4500",
+            "course_name": "Health Care Management",
+            "course_description": "Examines various management concepts as they relate to the unique environment of health care.  Concepts include planning, decision making, budgeting, staffing, organizing, and motivating for working with individuals or teams.   Graded on A-F basis only.",
+            "prerequisites": "HLTH_SCI 2100; junior standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4510",
+            "course_name": "Essential Tools for the Health Care Leader: A Problem-Based Approach",
+            "course_description": "This course is designed to increase students' ability to evaluate, synthesize, and perform tasks in the areas of business intelligence, business analysis, performance and process improvement, data management and mining, information security and privacy, and project management. Graded A-F basis only.",
+            "prerequisites": "Junior standing or above; HLTH_SCI 2100. Restricted to Health Sciences Majors Only",
+            "credit_hours": "3",
+            "recommendation": "Access to and experience using Microsoft Excel 2010"
+        },
+        {
+            "course_number": "HLTH_SCI 4975",
+            "course_name": "Internship in Health Sciences",
+            "course_description": "Focuses on knowledge, skills and attitudes that enhance personal effectiveness and professional success.  Opportunities to research selected career paths and related topics in health sciences and participate in directed service learning projects or internships in selected emphasis area.  Graded on A-F basis only.",
+            "prerequisites": "HLTH_SCI 2100",
+            "credit_hours": "1-6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "HLTH_SCI 4985",
+            "course_name": "Healthcare Organization and Leadership",
+            "course_description": "(same as CDS 4985). In this course, students will explore leadership principles as they relate to the student's focus area, combining previous expertise in the field with an interdisciplinary perspective within the healthcare community.  Graded on A-F basis only.",
+            "prerequisites": "HLTH_SCI 2100; senior standing required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

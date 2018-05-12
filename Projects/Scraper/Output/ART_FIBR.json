@@ -1,0 +1,62 @@
+{
+    "department_name": "Art-Fibers ",
+    "department_code": "ART_FIBR",
+    "courses": [
+        {
+            "course_number": "ART_FIBR 2300",
+            "course_name": "Beginning Fibers",
+            "course_description": "Exploration of various fiber and media including papermaking, weaving, surface design and sculptural techniques. Expendable materials fee required.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ART_FIBR 3300",
+            "course_name": "Intermediate Fibers",
+            "course_description": "Continuation of ART_FIBR 2300 with emphasis on utilizing acquired technical processes in loom and off weaving, paper making and surface design and a means of developing visual statements. Expendable materials fee required.",
+            "prerequisites": "ART_FIBR 2300",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ART_FIBR 4300",
+            "course_name": "Advanced Fibers",
+            "course_description": "Exploration of aesthetic concepts, development of personal style and instruction in advanced fiber techniques within medium selected by student. Expendable materials fee required. May repeat to 15 hours maximum.",
+            "prerequisites": "ART_FIBR 3300 or approved equivalents",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ART_FIBR 4385",
+            "course_name": "Problems in Fibers",
+            "course_description": "Problems in Fibers.",
+            "prerequisites": "departmental consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ART_FIBR 7300",
+            "course_name": "Graduate Fibers",
+            "course_description": "Advanced technical and aesthetic study in medium of choice with emphasis on development of the individual student's ideas and goals. Expendable materials fee required.  May repeat to 15 hours maximum.",
+            "prerequisites": "ART_FIBR 4300",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ART_FIBR 7385",
+            "course_name": "Problems in Fibers",
+            "course_description": "Graduate level work in fibers.",
+            "prerequisites": "ART_FIBR 7300 and departmental consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ART_FIBR 8300",
+            "course_name": "Graduate Fibers II",
+            "course_description": "Continuation of ART_FIBR 7300. Repeatable to 15 hours.",
+            "prerequisites": "ART_FIBR 7300 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

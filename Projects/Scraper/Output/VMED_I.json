@@ -1,0 +1,22 @@
+{
+    "department_name": "Veterinary Medicine - Interdisciplinary ",
+    "department_code": "VMED_I",
+    "courses": [
+        {
+            "course_number": "VMED_I 5120",
+            "course_name": "Full-Time Enrollment",
+            "course_description": "Full-Time Enrollment",
+            "prerequisites": "None Listed",
+            "credit_hours": "16-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "VMED_I 5190",
+            "course_name": "Full-Time Enrollment",
+            "course_description": "Full-Time Enrollment",
+            "prerequisites": "None Listed",
+            "credit_hours": "16-99",
+            "recommendation": "None Listed"
+        }
+    ]
+}

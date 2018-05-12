@@ -1,0 +1,1086 @@
+{
+    "department_name": "Computer Science ",
+    "department_code": "CMP_SC",
+    "courses": [
+        {
+            "course_number": "CMP_SC 1000",
+            "course_name": "Introduction to Computer Science",
+            "course_description": "This course introduces the Computer Science field, including the history of computers, career opportunities, and ethical/social issues.  There will be lectures given by MU Computer Science faculty to discuss exciting fields as well as career advisement given by Computer Science industry representatives.  ",
+            "prerequisites": " Restricted to freshman/sophomore students who are BS Computer Science, BS Information Technology and Undeclared Engineering or Pre-Engineering may enroll in the class without permission",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 1001",
+            "course_name": "Topics in Computer Science",
+            "course_description": "Topic and credit may vary from semester to semester. May be repeated upon consent of department.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 1050",
+            "course_name": "Algorithm Design and Programming I",
+            "course_description": "This course provides experience in developing algorithms, designing, implementing programs. Topics include syntax/semantics, flow control, loops, recursion, I/O, arrays, strings and pointers.",
+            "prerequisites": "C- or higher in MATH 1100 or MATH 1160 or MATH 1500.  May be restricted to Engineering majors only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 2001",
+            "course_name": "Topics in Computer Science",
+            "course_description": "Topic and credit may vary from semester to semester. May be repeated upon consent of department.",
+            "prerequisites": "departmental consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 2050",
+            "course_name": "Algorithm Design and Programming II",
+            "course_description": "A study of fundamental techniques and algorithms for representing and manipulating data structures. Topics include data abstraction, recursion, stacks, queues, linked lists, trees, efficient methods of sorting and searching, and Big-O analysis.",
+            "prerequisites": "C- or higher in CMP_SC 1050. May be restricted to Engineering majors only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 2111",
+            "course_name": "Production Languages",
+            "course_description": "The study of the syntax, semantics, and applications of one programming language suitable for large scale scientific or commercial projects, such as FORTRAN, COBOL, PL/1, C, or ADA. May be taken more than once for credit.",
+            "prerequisites": "C- or higher in CMP_SC 2050",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 2270",
+            "course_name": "Introduction to Digital Logic",
+            "course_description": "Basic tools, methods and procedures to design combinational and sequential digital circuits and systems, including number systems, boolean algebra, logic minimization, adder design, memory elements, and finite state machine design.",
+            "prerequisites": "C- or higher in CMP_SC 1050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 2830",
+            "course_name": "Introduction to the Internet, WWW and Multimedia Systems",
+            "course_description": "This course will attempt to provide a comprehensive understanding of the evolution, the technologies, and the tools of the Internet. In particular, issues pertaining to the World Wide Web and Multimedia (HTML, CGI, Web based applications) will be discussed in detail.",
+            "prerequisites": "C- or higher in CMP_SC 2050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 3001",
+            "course_name": "Topics in Computer Science",
+            "course_description": "Current and new technical developments in computer science.  May be repeated for 6 hours credit.",
+            "prerequisites": "departmental consent. For juniors and seniors",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 3050",
+            "course_name": "Advanced Algorithm Design",
+            "course_description": "This class surveys fundamental algorithms and data structures that have wide practical applicability, including search trees and graph algorithms.  Emphasis is placed on techniques for efficient implementation and good software development methodologies.",
+            "prerequisites": "CMP_SC 2050 with a C or higher",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 3280",
+            "course_name": "Computer Organization and Assembly Language",
+            "course_description": "Introduces computer architectures, programming concepts including parameter passing, I/O, interrupt handling, DMA, memory systems, cache, and virtual memory. Graded of A-F basis only.",
+            "prerequisites": "C- or higher in CMP_SC 2270 or ECE 1210",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 3330",
+            "course_name": "Object Oriented Programming",
+            "course_description": "This course focuses on object-oriented programming concepts:  abstraction, polymorphism, encapsulation, inheritance, interfaces, abstract classes, files, streams, and object serialization.  Topics such as GUI and event-driven programming are also tackled.",
+            "prerequisites": "CMP_SC 2050 with a C or higher grade",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 3380",
+            "course_name": "Database Applications and Information Systems",
+            "course_description": "Covers fundamental topics of database management systems (DBMS) and database-enabled applications.  Topics include a brief history of secondary storage and databases, data modeling, introductory SQL, an overview of current database trends, and current popular database systems. Graded on A-F basis only.",
+            "prerequisites": "C- or higher in CMP_SC 2050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 3530",
+            "course_name": "UNIX Operating System",
+            "course_description": "Introduction to the UNIX operating system and its interfaces including the file system, shell, editors, pipes and filters, input/output system, shell programming, program development including C, and document preparation.",
+            "prerequisites": "C- or higher in CMP_SC 2050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 3940",
+            "course_name": "Internship in Computer Science",
+            "course_description": "Computer-related experience in business or industry jointly supervised by faculty and computer professionals. Students should apply one semester in advance for consent of the supervising professor. Graded on a S/U basis only.",
+            "prerequisites": "CMP_SC 2050",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4001",
+            "course_name": "Topics in Computer Science",
+            "course_description": "Topic and credit may vary from semester to semester. May be repeated upon consent of department.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4050",
+            "course_name": "Design and Analysis of Algorithms I",
+            "course_description": "(cross-leveled with CMP_SC 7050). This course reviews and extends earlier work with linked structures, sorting and searching algorithms, and recursion. Graph algorithms, string matching, combinatorial search, geometrical algorithms and related topics are also studied.",
+            "prerequisites": "C- or higher in CMP_SC 3050 and MATH 2320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4060",
+            "course_name": "String Algorithms",
+            "course_description": "(cross-leveled with CMP_SC 7060). This course provides an introduction to algorithms that efficiently compute patterns in strings.  Topics covered include basic properties of strings, data structures for processing strings, string decomposition, exact and approximate string matching algorithms.",
+            "prerequisites": "C- or higher in CMP_SC 4050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4070",
+            "course_name": "Numerical Methods for Science and Engineering",
+            "course_description": "(cross-leveled with CMP_SC 7070). Introduces basic numerical methods widely used by computer scientists/engineers.  Students will use the MATLAB platform to computationally solve problems, such as finding roots of nonlinear equations, solving systems of equations, fitting curves, solving ODEs, finding eigenvalues, etc. Graded on A-F basis only.",
+            "prerequisites": "C- or higher in CMP_SC 2050 and junior standing or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4080",
+            "course_name": "Parallel Programming for High Performance Computing",
+            "course_description": "(cross-leveled with CMP_SC 7080) This course will provide in-depth treatment of the evolution high performance computing architectures and parallel programming techniques for those architectures. We will cover topics such as: multi-process and multi-threaded programming; multi-node system architectures (clusters, grids, and clouds) and distributed programming; and general purpose GPU programming. To reinforce lecture topics, programming projects will be completed using multi-process and multi-threaded techniques for modern multicore, multiprocessor workstations; parallel and distributed programming techniques for modern multi-node systems; and general purpose GPU programming. Parallel algorithms will be investigated, selected, and then developed for various scientific data processing problems. Programming projects will be completed using C and C++ APIs and language extensions, e.g. threads (pthreads, Boost/C++), TBB, CILK, OpenMP, OpenMPI, CUDA and OpenCL.",
+            "prerequisites": "C- or higher in CMP_SC 3280 or ECE 3210 and C- or higher in CMP_SC 3050 or ECE 3220",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4085",
+            "course_name": "Problems in Computer Science",
+            "course_description": "Independent investigation or project in Computer Science. May be repeated to up 6 hours.",
+            "prerequisites": "senior standing in Computer Science",
+            "credit_hours": "1-6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4270",
+            "course_name": "Computer Architecture I",
+            "course_description": "(cross-leveled with CMP_SC 7270). Architectural features of high-performance computer systems including hierarchical and virtual memory, pipelining, vector processing and an introduction to multiple-processor systems.",
+            "prerequisites": "C- or higher in CMP_SC 2270 and CMP_SC 2050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4280",
+            "course_name": "Network Systems Architecture",
+            "course_description": "(same as ECE 4280; cross-leveled with CMP_SC 7280, ECE 7280). The course covers network systems (interconnects and switch fabrics, network considerations) and relevant networking applications at the network, transport and application layer.",
+            "prerequisites": "C- or higher in CMP_SC 2050 or ECE 3220 and C- or higher in CMP_SC 3280 or ECE 3210",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4320",
+            "course_name": "Software Engineering I",
+            "course_description": "(cross-leveled with CMP_SC 7320). Overview of software life cycle, including topics in systems analysis and requirements specification, design, implementation testing and maintenance.  Uses modeling techniques, project management, peer review, quality assurance, and system acquisition.",
+            "prerequisites": "C- or higher in CMP_SC 3380",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4320W",
+            "course_name": "Software Engineering I - Writing Intensive",
+            "course_description": "(cross-leveled with CMP_SC 7320). Overview of software life cycle, including topics in systems analysis and requirements specification, design, implementation testing and maintenance.  Uses modeling techniques, project management, peer review, quality assurance, and system acquisition.",
+            "prerequisites": "CMP_SC 3380",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4330",
+            "course_name": "Object Oriented Design I",
+            "course_description": "(cross-leveled with CMP_SC 7330). Building on a prior knowledge of program design and data structures, this course covers object-oriented design, including classes, objects, inheritance, polymorphism, and information hiding. Students will apply techniques using a modern object-oriented implementation language.",
+            "prerequisites": "C- or higher in CMP_SC 3330",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4350",
+            "course_name": "Big Data Analytics",
+            "course_description": "(cross-leveled with CMP_SC 7350). Big Data Analytics represents a new era of computing, where data in any format maybe processed and exploited to extract insights for industries and organizations to make informed decisions, whether that data is in-place, in-motion or at-rest, in large volume, structured or unstructured. More and more companies are embracing open source Big Data technologies, such as Hadoop and extending it into an enterprise ready Big Data Platform. This course will cover advanced analytics technologies and techniques that enable industries to extract insights from data with sophistication, speed and accuracy. You will learn practical industry best practices to bridge the gap between classroom learning and real world; and have access to cloud services for labs/projects.",
+            "prerequisites": "C- or higher in CMP_SC 3330 and CMP_SC 3380",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4380",
+            "course_name": "Database Management Systems I",
+            "course_description": "(cross-leveled with CMP_SC 7380). Fundamental concepts of current database systems with emphasis on the relational model. Topics include entity-relationship model, relational algebra, query by example, indexing, query optimization, normal forms, crash recovery, web-based database access, and case studies. Project work involves a modern DBMS, such as Oracle, using SQL.",
+            "prerequisites": "C- or higher in CMP_SC 3380",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4410",
+            "course_name": "Theory of Computation I",
+            "course_description": "(cross-leveled with CMP_SC 7410). An introductory study of computation and formal languages by means of automata and related grammars. The theory and applications of finite automata, regular expressions, context free grammars, pushdown automata and Turing machines are examined. May not be counted toward Computer Science MS/PHD.",
+            "prerequisites": "C- or higher in MATH 2320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4430",
+            "course_name": "Compilers I",
+            "course_description": "(cross-leveled with CMP_SC 7430). Introduction to the translation of programming languages by means of interpreters and compilers. Lexical analysis, syntax specification, parsing, error-recovery, syntax-directed translation, semantic analysis, symbol tables for block structured languages, and run-time storage organization. May not be counted toward Computer Science MS/PHD.",
+            "prerequisites": "C- or higher in MATH 2320, CMP_SC 3280 and CMP_SC 4450",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4440",
+            "course_name": "Malware Analysis and Defense",
+            "course_description": "(cross-leveled with CMP_SC 7440). Malicious software or \"malware\" is a security threat.  This course teaches students to understand the nature and types of viruses and how they are threats; teaches techniques used to prevent, detect, repair and defend against viruses and worms; teaches program binary examination tools to detect malicious code; and teaches ethical issues surrounding computer security violations.",
+            "prerequisites": "C- or higher in CMP_SC 3280 or ECE 3210",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4450",
+            "course_name": "Principles of Programming Languages",
+            "course_description": "(cross-leveled with CMP_SC 7450). An introduction to the structure, design and implementation of programming languages. Topics include syntax, semantics, data types, control structures, parameter passing, run-time structures, and functional and logic programming.  May not be counted toward Computer Science MS/PHD.",
+            "prerequisites": "C- or higher in CMP_SC 2050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4460",
+            "course_name": "Introduction to Cryptography",
+            "course_description": "(cross-leveled with CMP_SC 7460). Cryptography is an important technique used to achieve security goals in an untrusted and possibly adversarial environment. The goals of this course are: (1) to provide students with a solid background with basic cryptographic techniques and their applications, (2) to impart knowledge of standard cryptographic algorithms and (3) to foster understanding of the correct use of cryptographic techniques.",
+            "prerequisites": "C- or higher in CMP_SC 3050 and MATH 2320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4520",
+            "course_name": "Operating Systems I",
+            "course_description": "(cross-leveled with CMP_SC 7520). Basic concepts, theories and implementation of modern operating systems including process and memory management, synchronization, CPU and disk scheduling, file systems, I/O systems, security and protection, and distributed operating systems.",
+            "prerequisites": "C- or higher in CMP_SC 3050 and MATH 1700",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4530",
+            "course_name": "Cloud Computing",
+            "course_description": "(cross-leveled with CMP_SC 7530). This course covers principles that integrate computing theories and information technologies with the design, programming and application of distributed systems. The course topics will familiarize students with distributed system models and enabling technologies; virtual machines and virtualization of clusters, networks and data centers; cloud platform architecture with security over virtualized data centers; service- oriented architectures for distributed computing; and cloud programming and software environments. Additionally, students will learn how to conduct some parallel and distributed programming and performance evaluation experiments on applications within available cloud platforms. Finally we will survey research literature and latest technology trends that are shaping the future of high performance, distributed and cloud computing.",
+            "prerequisites": "C- or higher in CMP_SC 3330 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4610",
+            "course_name": "Computer Graphics I",
+            "course_description": "(cross-leveled with CMP_SC 7610).Basic concepts and techniques of interactive computer graphics including hardware, software, data structures, mathematical manipulation of graphical objects, the user interface, and fundamental implementation algorithms.",
+            "prerequisites": "C- or higher in CMP_SC 3050 and MATH 1500 or C- or higher in CMP_SC 3050 and MATH 1300 and MATH 1400",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4620",
+            "course_name": "Physically Based Modeling and Animation",
+            "course_description": "(cross-leveled with CMP_SC 7620). This course introduces students to physically based modeling and animation methodology for computer graphics and related fields such as computer vision, visualization, biomedical imaging and virtual reality.  We will explore current research issues and will cover associated computational methods for simulating various visually interesting physical phenomena. This course should be appropriate for graduate students in all areas as well as advanced undergraduate students.",
+            "prerequisites": "C- or higher in CMP_SC 4610",
+            "credit_hours": "3",
+            "recommendation": "Good knowledge of C or C++ programming, no physics background necessary"
+        },
+        {
+            "course_number": "CMP_SC 4650",
+            "course_name": "Digital Image Processing",
+            "course_description": "(same as ECE 4655; cross-leveled with CMP_SC 7650, ECE 7655). Fundamentals of digital image processing hardware and software including digital image acquisition, image display, image enhancement, image transforms and segmentation.",
+            "prerequisites": "C- or higher in CMP_SC 2050 and STAT 4710 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4670",
+            "course_name": "Digital Image Compression",
+            "course_description": "(same as ECE 4675; cross-leveled with ECE 7675, CMP_SC 7670).  Covers digital image formation, information theory concepts, and fundamental lossless and lossy image compression techniques including bit plane encoding, predictive coding, transform coding, block truncation coding, vector quantization, subband coding and hierarchical coding.",
+            "prerequisites": "C- or higher in CMP_SC 2050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4720",
+            "course_name": "Introduction to Machine Learning and Pattern Recognition",
+            "course_description": "(same as ECE 4720; cross-leveled with ECE 7720, CMP_SC 7720) This course provides foundations and methods in machine learning and pattern recognition that address the problem of programming computers to optimize performance by learning from example data or expert knowledge. Graded on A-F basis only.",
+            "prerequisites": "C- or higher in CMP_SC 2050 and STAT 4710 or instructor consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4730",
+            "course_name": "Building Intelligent Robots",
+            "course_description": "(same as ECE 4340; cross-leveled with CMP_SC 7340, ECE 7340). Covers the design and development of intelligent machines, emphasizing topics related to sensor-based control of mobile robots.  Includes mechanics and motor control, sensor characterization, reactive behaviors and control architectures.",
+            "prerequisites": "junior standing",
+            "credit_hours": "4",
+            "recommendation": "programming experience in one of the following programming languages - Basic, C, C++, or Java"
+        },
+        {
+            "course_number": "CMP_SC 4740",
+            "course_name": "Interdisciplinary Introduction to NLP",
+            "course_description": "(same as LINGST 4740; cross-leveled with CMP_SC 7740; LINGST 7740). The goal of this course is to enable students to develop substantive NLP applications.  Focus on current structural and statistical techniques for the parsing and interpretation of texts.",
+            "prerequisites": "senior standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4750",
+            "course_name": "Artificial Intelligence I",
+            "course_description": "(cross-leveled with CMP_SC 7750). Introduction to the concepts and theories of intelligent systems. Various approaches to creating intelligent systems, including symbolic and computational approaches, insight into the philosophical debates important to understanding AI.",
+            "prerequisites": "C- or higher in CMP_SC 3050 and junior standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4770",
+            "course_name": "Introduction to Computational Intelligence",
+            "course_description": "(same as ECE 4870; cross-leveled with CMP_SC 7770, ECE 7870). Introduction to the concepts, models and algorithms for the development of intelligent systems from the standpoint of the computational paradigms of neural networks, fuzzy set theory and fuzzy logic, evolutionary computation and swarm optimization.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4830",
+            "course_name": "Science and Engineering of the World Wide Web",
+            "course_description": "(cross-leveled with CMP_SC 7830). This course will study the science and engineering of the World Wide Web. We will study the languages, protocols, services and tools that enable the web. Emphasis will be placed on basics and technologies.",
+            "prerequisites": "C- or higher in CMP_SC 2830",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4850",
+            "course_name": "Computer Networks I",
+            "course_description": "(cross-leveled with CMP_SC 7850). Introduction to concepts and terminology of data communications and computer networking. Basic protocols and standards, applications of networking, routing algorithms, congestion avoidance, long-haul and local networks.",
+            "prerequisites": "C- or higher in CMP_SC 2270 or ECE 1210 and C- or higher in MATH 2320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4860",
+            "course_name": "Network Security",
+            "course_description": "(cross-leveled with CMP_SC 7860)., Principles and practice of cryptography, network security, and computer system security.  It includes symmetric and asymmetric cryptography, authentication, security applications such as secure email, IP security, Web security, and system security issues such as intruders, viruses, worms, Trojan horses, and firewalls.  Graded on A-F basis only.",
+            "prerequisites": "C- or higher in CMP_SC 4850",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4870",
+            "course_name": "Wireless and Mobile Networks",
+            "course_description": "(cross-leveled with CMP_SC 7870). Concepts and techniques in wireless and mobile networks: cellular concepts, wireless physical layer, wireless MAC protocol, mobility management, power management, wireless network security, wireless telecommunication system, wireless LAN, wireless ad hoc networking, wireless personal area network.  Graded on A-F basis only.",
+            "prerequisites": "C- or higher in CMP_SC 4850",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4970",
+            "course_name": "Senior Capstone Design I",
+            "course_description": "Communication skills, and prototyping.  Covers professional ethics, intellectual property/patenting, knowledge of engineering literature, safety, economic and environmental impact of technology.  Essays, oral and written reports.",
+            "prerequisites": "C- or higher in CMP_SC 4320 and senior standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4970W",
+            "course_name": "Senior Capstone Design I - Writing Intensive",
+            "course_description": "Communication skills, and prototyping.  Covers professional ethics, intellectual property/patenting, knowledge of engineering literature, safety, economic and environmental impact of technology.  Essays, oral and written reports.",
+            "prerequisites": "C- or higher in CMP_SC 4320 and senior standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4980",
+            "course_name": "Senior Capstone Design II",
+            "course_description": "Course entails completion of CMP_SC 4970 design project.  Design prototyping, testing, evaluation, presentation, and preparation of documentation.",
+            "prerequisites": "C- or higher in CMP_SC 4970",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4990",
+            "course_name": "Undergraduate Research in Computer Science",
+            "course_description": "Independent investigation or project in Computer Science.  May be repeated to 6 hours.",
+            "prerequisites": "senior standing in Computer Science",
+            "credit_hours": "0-6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 4995",
+            "course_name": "Undergraduate Research in Computer Science - Honors",
+            "course_description": "Independent investigation to be presented as an undergraduate honors thesis.",
+            "prerequisites": "honors student in Computer Science",
+            "credit_hours": "1-6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7001",
+            "course_name": "Topics in Computer Science",
+            "course_description": "Topic and credit may vary from semester to semester. May be repeated upon consent of department.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7010",
+            "course_name": "Computational Methods in Bioinformatics",
+            "course_description": "(same as INFOINST 7010)  Introduces the fundamental concepts and basic computational techniques for mainstream bioinformatics problems.  Emphasis will be placed on the computational aspect of bioinformatics, including formulation of a biological problem in a computable problem, design of scoring functions and algorithms, confidence assessment of prediction results and software development.",
+            "prerequisites": "CMP_SC 4050 and STAT 4710",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7050",
+            "course_name": "Design and Analysis of Algorithms I",
+            "course_description": "(cross-leveled with CMP_SC 4050). This course reviews and extends earlier work with linked structures, sorting and searching algorithms, and recursion.  Graph algorithms, string matching, combinatorial search, geometrical algorithms and related topics are also studied. Cannot be counted toward CS MS/PHD.",
+            "prerequisites": "CMP_SC 3050 and MATH 2320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7060",
+            "course_name": "String Algorithms",
+            "course_description": "(cross-leveled with CMP_SC 4060). This course provides an introduction to algorithms that efficiently compute patterns in strings.  Topics covered include basic properties of strings, data structures for processing strings, string decomposition, exact and approximate string matching algorithms.",
+            "prerequisites": "CMP_SC 4050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7070",
+            "course_name": "Numerical Methods for Science and Engineering",
+            "course_description": "(cross-leveled with CMP_SC 4070). Introduces basic numerical methods widely used by computer scientists/engineers.  Students will use the MATLAB platform to computationally solve problems, such as finding roots of nonlinear equations, solving systems of equations, fitting curves, solving ODEs, finding eigenvalues, etc.  Graded on A-F basis only.",
+            "prerequisites": "CMP_SC 2050 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7080",
+            "course_name": "Parallel Programming for High Performance Computing",
+            "course_description": "(cross-leveled with CMP_SC 4080). This course will provide in-depth treatment of the evolution high performance computing architectures and parallel programming techniques for those architectures. We will cover topics such as: multi-process and multi-threaded programming; multi-node system architectures (clusters, grids, and clouds) and distributed programming; and general purpose GPU programming. To reinforce lecture topics, programming projects will be completed using multi-process and multi-threaded techniques for modern multicore, multiprocessor workstations; parallel and distributed programming techniques for modern multi-node systems; and general purpose GPU programming. Parallel algorithms will be investigated, selected, and then developed for various scientific data processing problems. Programming projects will be completed using C and C++ APIs and language extensions, e.g. threads (pthreads, Boost/C++), TBB, CILK, OpenMP, OpenMPI, CUDA and OpenCL.",
+            "prerequisites": "CMP_SC 3280 or ECE 3210 and CMP_SC 3050 or ECE 3220",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7087",
+            "course_name": "Seminar in Computer Science",
+            "course_description": "Reviews of recent investigations, projects of major importance.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7270",
+            "course_name": "Computer Architecture I",
+            "course_description": "(cross-leveled with CMP_SC 4270). Architectural features of high-performance computer systems including hierarchical and virtual memory, pipelining, vector processing and an introduction to multiple-processor systems.",
+            "prerequisites": "CMP_SC 2270 and CMP_SC 2050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7280",
+            "course_name": "Network Systems Architecture",
+            "course_description": "(same as ECE 7280; Cross-leveled with CMP_SC 4280). The course covers network systems (interconnects and switch fabrics, network considerations) and relevant networking applications at the network, transport and application layer.",
+            "prerequisites": "CMP_SC 2050 or ECE 3200 and CMP_SC 3280 or ECE 3210",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7320",
+            "course_name": "Software Engineering I",
+            "course_description": "(cross-leveled with CMP_SC 4320). Overview of software life cycle, including topics in systems analysis and requirements specification, design, implementation testing and maintenance.  Uses modeling techniques, project management, peer review, quality assurance, and system acquisition.   May not be counted toward CS MS/PHD.",
+            "prerequisites": "CMP_SC  3380",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7330",
+            "course_name": "Object Oriented Design I",
+            "course_description": "(cross-leveled with CMP_SC 4330). Building on a prior knowledge of program design and data structures, this course covers object-oriented design, including classes, objects, inheritance, polymorphism, and information hiding. Students will apply techniques using a modern object-oriented implementation language.",
+            "prerequisites": "CMP_SC 3330",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7350",
+            "course_name": "Big Data Analytics",
+            "course_description": "(cross-leveled with CMP_SC 4350). Big Data Analytics represents a new era of computing, where data in any format maybe processed and exploited to extract insights for industries and organizations to make informed decisions, whether that data is in-place, in-motion or at-rest, in large volume, structured or unstructured. More and more companies are embracing open source Big Data technologies, such as Hadoop and extending it into an enterprise ready Big Data Platform. This course will cover advanced analytics technologies and techniques that enable industries to extract insights from data with sophistication, speed and accuracy. You will learn practical industry best practices to bridge the gap between classroom learning and real world; and have access to cloud services for labs/projects.",
+            "prerequisites": "CMP_SC 3330 and CMP_SC 3380",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7380",
+            "course_name": "Database Management Systems I",
+            "course_description": "(cross-leveled with CMP_SC 4380). Fundamental concepts of current database systems with emphasis on the relational model. Topics include entity-relationship model, relational algebra, query by example, indexing, query optimization, normal forms, crash recovery, web-based database access, and case studies. Project work involves a modern DBMS, such as Oracle, using SQL.",
+            "prerequisites": "CMP_SC 2050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7410",
+            "course_name": "Theory of Computation I",
+            "course_description": "(cross-leveled with CMP_SC 4410).  An introductory study of computation and formal languages by means of automata and related grammars. The theory and applications of finite automata, regular expressions, context free grammars, pushdown automata and Turing machines are examined. May not be counted toward CS MS/PHD.",
+            "prerequisites": "MATH 2320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7430",
+            "course_name": "Compilers I",
+            "course_description": "(cross-leveled with CMP_SC 4430). Introduction to the translation of programming languages by means of interpreters and compilers. Lexical analysis, syntax specification, parsing, error-recovery, syntax-directed translation, semantic analysis, symbol tables for blockstructured languages, and run-time storage organization. May not be counted toward CS MS/PHD.",
+            "prerequisites": "MATH 2320 and CMP_SC 3280 and CMP_SC 4450",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7440",
+            "course_name": "Malware Analysis and Defense",
+            "course_description": "(cross-leveled with CMP_SC 4440). Malicious software or \"malware\" is a security threat. This course teaches students to understand the nature and types of viruses and how they are threats; teaches techniques used to prevent, detect, repair and defend against viruses and worms; teaches program binary examination tools to detect malicious code; and ethical issues surround computer security violations.",
+            "prerequisites": "CMP_SC 3280, ECE 3210 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7450",
+            "course_name": "Principles of Programming Languages",
+            "course_description": "(cross-leveled with CMP_SC 4450). An introduction to the structure, design and implementation of programming languages. Topics include syntax, semantics, data types, control structures, parameter passing, run-time structures, and functional and logic programming.  May not be counted toward CS MS/PHD.",
+            "prerequisites": "CMP_SC 2050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7460",
+            "course_name": "Introduction to Cryptography",
+            "course_description": "(cross-leveled with CMP_SC 4460). Cryptography is an important technique used to achieve security goals in an untrusted and (possibly) adversarial environment. The goals of this course are: (1) to provide students with a solid back- ground with basic cryptographic techniques and their applications, (2) impart knowledge of standard cryptographic algorithms and (3) foster understanding of the correct use of cryptographic techniques.",
+            "prerequisites": "CMP_SC 3050 and MATH 2320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7520",
+            "course_name": "Operating Systems I",
+            "course_description": "(cross-leveled with CMP_SC 4520). Basic concepts, theories and implementation of modern operating systems including process and memory management, synchronization, CPU and disk scheduling, file systems, I/O systems, security and protection, and distributed operating systems. Cannot be counted toward CS MS/PHD.",
+            "prerequisites": "CMP_SC 3050 and MATH 1700",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7530",
+            "course_name": "Cloud Computing",
+            "course_description": "(cross-leveled with CMP_SC 4530). This course covers principles that integrate computing theories and information technologies with the design, programming and application of distributed systems. The course topics will familiarize students with distributed system models and enabling technologies; virtual machines and virtualization of clusters, networks and data centers; cloud platform architecture with security over virtualized data centers; service- oriented architectures for distributed computing; and cloud programming and software environments. Additionally, students will learn how to conduct some parallel and distributed programming and performance evaluation experiments on applications within available cloud platforms. Finally we will survey research literature and latest technology trends that are shaping the future of high performance, distributed and cloud computing.",
+            "prerequisites": "CMP_SC 3330 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7610",
+            "course_name": "Computer Graphics I",
+            "course_description": "(cross-leveled with CMP_SC 4610). Basic concepts and techniques of interactive computer graphics including hardware, software, data structures, mathematical manipulation of graphical objects, the user interface, and fundamental implementation algorithms.",
+            "prerequisites": "CMP_SC 3050 and either MATH 1500 or MATH 1300 and MATH 1400",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7620",
+            "course_name": "Physically Based Modeling and Animation",
+            "course_description": "(cross-leveled with CMP_SC 4620). Introduces fundamental algorithms and techniques including interpolation, quaternions, rigid body dynamics, kinematics, particle systems, free form and dynamic deformations, spring and damper systems and computational natural phenomena simulation.",
+            "prerequisites": "CMP_SC 4610 or CMP_SC 7610",
+            "credit_hours": "3",
+            "recommendation": "Good knowledge of C or C++ programming, no physics background necessary"
+        },
+        {
+            "course_number": "CMP_SC 7650",
+            "course_name": "Digital Image Processing",
+            "course_description": "(same as ECE 7655; cross-leveled with CMP_SC 4650, ECE 4655). Fundamentals of digital image processing hardware and software including digital image acquisition, image display, image enhancement, image transforms and segmentation.",
+            "prerequisites": "CMP_SC 2050, STAT 7710 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7670",
+            "course_name": "Digital Image Compression",
+            "course_description": "(same as ECE 7675; cross-leveled with CMP_SC 4670, ECE 4675). Covers digital image formation, information theory concepts, and fundamental lossless and lossy image compression techniques including bit plane encoding, predictive coding, transform coding, block truncation coding, vector quantization, subband coding and hierarchical coding.",
+            "prerequisites": "CMP_SC 2050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7720",
+            "course_name": "Introduction to Machine Learning and Pattern Recognition",
+            "course_description": "(same as ECE 7720; cross-level CMP 4720, ECE 4720). This course provides foundation knowledge and methods in machine learning and pattern recognition that address the problem of programming computers to optimize performance by learning from example data or expert knowledge.  Graded on A-F basis only.",
+            "prerequisites": "CMP_SC 2050 and STAT 4710 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7730",
+            "course_name": "Building Intelligent Robots",
+            "course_description": "(same as ECE 7340; cross-leveled with CMP_SC 4730, ECE 4730).  Covers the design and development of intelligent machines, emphasizing topics related to sensor-based control of mobile robots.  Includes mechanics and motor control, sensor characterization, reactive behaviors and control architectures.  ",
+            "prerequisites": " programing experience in one of the following programming languages: Basic, C, C++, or Java.",
+            "credit_hours": ": 4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7740",
+            "course_name": "Interdisciplinary Introduction to Natural Language Processing",
+            "course_description": "(same as LINGST 7740; cross-leveled with CMP_SC 4740; LINGST 4740). The goal of this course is to enable students to develop substantive NLP applications. Focus on current structural and statistical techniques for the parsing and interpretation of text.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7750",
+            "course_name": "Artificial Intelligence I",
+            "course_description": "(cross-leveled with CMP_SC 4750). Introduction to the concepts and theories of intelligent  systems. Various approaches to creating intelligent systems, including symbolic and computational approaches, insight into the philosophical debates important to understanding AI.",
+            "prerequisites": "CMP_SC 3050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7770",
+            "course_name": "Introduction to Computational Intelligence",
+            "course_description": "(same as ECE 7870; cross-leveled with CMP_SC 4770, ECE 4870).   Introduction to the concepts, models and algorithms for the development of intelligent systems from the standpoint of the computational paradigms of neural networks, fuzzy set theory and fuzzy logic, evolutionary computation and swarm optimization.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7830",
+            "course_name": "Science and Engineering of the World Wide Web",
+            "course_description": "(cross-leveled with CMP_SC 4830). This course will study the science and engineering of the World Wide Web. We will study the languages, protocols, services and tools that enable the web. Emphasis will be placed on basics and technologies.",
+            "prerequisites": "CMP_SC 3330 and CMP_SC 2830",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7850",
+            "course_name": "Computer Networks I",
+            "course_description": "(cross-leveled with CMP_SC 4850). Introduction to concepts and terminology of data communications and computer networking. Basic protocols and standards, applications of networking, routing algorithms, congestion avoidance, long-haul and local networks.",
+            "prerequisites": "CMP_SC 2270 or ECE 1210 and MATH 2320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7860",
+            "course_name": "Network Security",
+            "course_description": "Principles and practice of cryptography, network security, and computer system security.  It includes symmetric and asymmetric cryptography, authentication, security applications such as secure email, IP security, Web security, and system security issues such as intruders, viruses, worms, Trojan horses, and firewalls.",
+            "prerequisites": "CMP_SC 7850 or CMP_SC 4850",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 7870",
+            "course_name": "Wireless and Mobile Networks",
+            "course_description": "(cross-leveled with CMP_SC 4870). Concepts and techniques in wireless and mobile networks: cellular concepts, wireless physical layer, wireless MAC protocol, mobility management, power management, wireless network security, wireless telecommunication system, wireless LAN, wireless ad hoc networking, wireless personal area network.  ",
+            "prerequisites": "  CMP_SC 7850 or CMP_SC 4850",
+            "credit_hours": ": 3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8001",
+            "course_name": "Advanced Topics in Computer Science",
+            "course_description": "Topic may vary from semester to semester. May be repeated upon consent of department.",
+            "prerequisites": "varies by topic",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8050",
+            "course_name": "Design and Analysis of Algorithms II",
+            "course_description": "Techniques for the design and analysis of correct, efficient algorithms. Topics include graph, geometric, and algebraic/ numeric algorithms, NP-completeness, and parallel algorithms.",
+            "prerequisites": "CMP_SC 4050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8060",
+            "course_name": "Survey of Advanced Algorithm Techniques",
+            "course_description": "This class provides a survey of important algorithmic techniques, some of which are emerging right now, and show that they are much easier to understand than they first appear.  The class will create a renewed appreciation for what makes Computer Science such a fun/interesting discipline.",
+            "prerequisites": "CMP_SC 4050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8070",
+            "course_name": "Computational Optimization Methods",
+            "course_description": "The course covers typical computational optimization methods widely used in many computing domains, such as data mining, machine learning and bioinformatics. The theoretical foundation of each optimization method is rigorously studied, followed by typical real-world applications. An active, problem-solving based teaching/learning format will be applied to help students develop various skills including research, teaching, reading, communication, algorithms, programming, team work, collaboration, leadership, planning, project management, and presentation.",
+            "prerequisites": "CMP_SC 7050 or instructor's approval",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8085",
+            "course_name": "Problems in Computer Science",
+            "course_description": "Independent study project work with a professor in computer science.",
+            "prerequisites": "instructor consent",
+            "credit_hours": "1-4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8090",
+            "course_name": "Computational Geometry",
+            "course_description": "Studies fundamental geometric problems within the framework of analysis of algorithms: convex hull algorithms in the plane and in general dimension, Voronoi diagram construction and applications to the solution of proximity problems, intersection problems, and geometric searching problems.",
+            "prerequisites": "CMP_SC 4050 and MATH 2300, or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8110",
+            "course_name": "Problem Solving in Bioinformatics",
+            "course_description": "(same as INFOINST 8010).  The course covers a variety of bioinformatics research topics such as biological sequence comparison, protein structure prediction, protein and gene function prediction, and inference and modeling of biological networks. Graded on A-F basis only.",
+            "prerequisites": "INFOINST 7010 or CMP_SC 7010",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8120",
+            "course_name": "Structural Bioinformatics of Proteins, Complexes, System",
+            "course_description": "(same as INFOINST 8210). Main course objective is to provide an introduction to the state-of-the-art methods in structural bioinformatics. The course will cover the methods that are applied to a wide range of biomolecular objects from protein domains and small proteins to large biological systems. Graded on A-F basis only.",
+            "prerequisites": "INFOINST 7010 or CMP_SC 7010",
+            "credit_hours": "3",
+            "recommendation": "CMP_SC 4050 or CMP_SC 7050"
+        },
+        {
+            "course_number": "CMP_SC 8130",
+            "course_name": "Computational Genomics",
+            "course_description": "(same as INFOINST 8310). This course introduces computational concepts and methods of genomics to students. The course covers genome structure, database, sequencing, assembly, annotation, gene and RNA finding, motif and repeats identification, single nucleotide polymorphism, and epigenomics.  Graded on A-F basis only.",
+            "prerequisites": "INFOINST 7010 or CMP_SC 7010",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8150",
+            "course_name": "Integrative Methods in Bioinformatics",
+            "course_description": "(same as INFOINST 8150), Introduces the most popular experimental methods from the point of view of the information sources that can be used.  Students will use data obtained directly from biological experiments and learn how to suggest new experiments to improve results.  Graded on A-F basis only.",
+            "prerequisites": "INFOINST 7010 or CMP_SC 7010",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8160",
+            "course_name": "Content Management in Biomedical Informatics",
+            "course_description": "(same as INFOINST 8860). This course introduces theory and techniques for content extraction, indexing, and retrieval of biomedical media databases.  Topics include biomedical media databases, feature extraction methods, advanced database indexing structures, query methods, and result visualization.  Graded on A-F basis only.",
+            "prerequisites": "CMP_SC 7380, INFOINST 7010",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8170",
+            "course_name": "Computational Modeling of Molecular Structures",
+            "course_description": "This course uses a problem solving paradigm to investigate common principles, data structures, algorithms, challenges, and solutions in computationally modeling (constructing) 3D structures of proteins, RNAs, chromosomes, and genomes.",
+            "prerequisites": "CMP_SC 7010",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8180",
+            "course_name": "Machine Learning Methods for Biomedical Informatics",
+            "course_description": "(same as INFOINST 8880). Teaches statistical machine learning methods and applications in biomedical informatics.  Covers theories of advanced statistical machine learning methods and how to develop machine learning methods to solve biomedical problems.  Graded on A-F basis only.",
+            "prerequisites": "CMP_SC 7050 and INFOINST 7010 or CMP_SC 7010 or CMP_SC 7005",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8190",
+            "course_name": "Computational Systems Biology",
+            "course_description": "(same as INFOINST 8390). This course covers current theories and methods in the modeling and analysis of high-throughput experiments such as microarrays, proteomics, and metabolomics.  Topics include the inference of causal relations from experimental data and reverse engineering of cellular systems.  Graded on A-F basis only.",
+            "prerequisites": "INFOINST 7010 or CMP_SC 7010; INFOINST 8010",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8270",
+            "course_name": "Computer Architecture II",
+            "course_description": "Study of array processors, multiprocessors, multicomputers, and networked computing systems. Topics include architectures, interconnection networks, communication mechanisms, distributed memories and security. Introduction to parallel algorithm design.",
+            "prerequisites": "CMP_SC 4210 or ECE 4270",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8320",
+            "course_name": "Software Engineering II",
+            "course_description": "Further discussion of software development methodology.",
+            "prerequisites": "CMP_SC 4320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8330",
+            "course_name": "Object Oriented Design II",
+            "course_description": "Software system design using classes and their properties of abstraction, inheritance, dynamic binding, and polymorphism. Focus on object-oriented design of systems such as windows, graphics systems, and operating system.",
+            "prerequisites": "CMP_SC 4330",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8370",
+            "course_name": "Data Mining and Knowledge Discovery",
+            "course_description": "Course topics include an introduction to fundamental concepts, data mining techniques from machine learning and pattern recognition areas, association rules, web mining, spatial mining, temporal mining, multimedia/multimodal database mining, and database mining, and geospatial information mining.",
+            "prerequisites": "CMP_SC 7380",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8380",
+            "course_name": "Database Management Systems II",
+            "course_description": "Further study in the theory, design, organization and implementation of databases and database management systems. Topics include: high-dimensional database indexing, content-based retrieval from image and video databases, object-relational databases, object-oriented databases, and data mining.",
+            "prerequisites": "CMP_SC 7380",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8390",
+            "course_name": "Information Indexing and Retrieval",
+            "course_description": "Theory and techniques for the modeling, indexing, and retrieval of text-based and multimedia databases. Topics include introduction to different information retrieval models, retrieval evaluation, query languages, query operations, and indexing/searching methods.",
+            "prerequisites": "CMP_SC 2050 and CMP_SC 2110",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8410",
+            "course_name": "Theory of Computation II",
+            "course_description": "An advanced study of computational and formal languages by means of automata and related grammars. Turing machines, decidability, computability, computational complexity, language translation, and recent trends in automata theory.",
+            "prerequisites": "CMP_SC 7410",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8430",
+            "course_name": "Compilers II",
+            "course_description": "Further study of the compilation process. Compiler generation tools, parsing methods, code generation, data-flow analysis, code optimization, error handling, discussion of programming language features and their relationship to the compilation process.",
+            "prerequisites": "CMP_SC 7430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8440",
+            "course_name": "Information Security: A Language-Based Approach",
+            "course_description": "This course focuses on language-based techniques for information flow security. Students will gain a solid background in information security, be encouraged to do further research and be exposed to important/promising trends in state-of-the-art computer security. ",
+            "prerequisites": " CMP_SC 4450 or CMP_SC 7450",
+            "credit_hours": ": 3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8450",
+            "course_name": "Formal Engineering Methods for Software and Security",
+            "course_description": "Designing scalable exhaustive methods to ensure reliability of computer systems is an important challenge in computer science as even simple errors can have serious socio-economic-political consequences. This challenge is the focus of the field of automated verification techniques which draws techniques from complexity theory, automata theory, programming languages and logic, and provides tools to ensure that the computer systems are reliable. Computer-assisted techniques for verifying hardware implementations are regularly employed in the industry, and are also being increasingly adopted in the software industry as the costs of software bugs and security flaws escalate. The goals of this course are: (1) to provide students with a solid back- ground in the fundamental techniques used in this field, (2) to encourage further research in software and security verification, and (3) to introduce students to important upcoming trends in verifying security protocols. The students will get theoretical background as well as learn to use some standard tools in this field. Students will also explore topics of particular interest to them through the performance of a significant semester project.",
+            "prerequisites": "CMP_SC 4450 or CMP_SC 7450 or CMP_SC 4430 or CMP_SC 7430 or instructor's consent. A reasonable level of mathematical maturity and significant programming experience is expected",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8520",
+            "course_name": "Operating Systems II",
+            "course_description": "Discusses concurrent processes, distributed/network operating systems; models of processor scheduling, memory management and resource allocation, performance measurement, evaluation and simulation methodology; queuing models; security and reliability.",
+            "prerequisites": "CMP_SC 4520",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8610",
+            "course_name": "Computer Graphics II",
+            "course_description": "Further study of computer graphics, focused on 3-D graphics, transformations, geometric and surface modeling, color models, visible surface determination, lighting and shading, standard graphics software (Phigs/OpenGL). Selected current topics in graphics such as visualization, animation and realism.",
+            "prerequisites": "CMP_SC 7610",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8620",
+            "course_name": "Physically Based Modeling and Animation II",
+            "course_description": "This course introduces students to physical based modeling and animation methodology for computer graphics and related fields such as computer vision, visualization, biomedical imaging and virtual reality.  We will explore current research issues and will cover associated computational methods for simulating various visually interesting physical phenomena.  This course should be appropriate for graduate students in all areas as well as advanced undergraduate students.",
+            "prerequisites": "CMP_SC 4610 or  CMP_SC 7610",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8630",
+            "course_name": "Data Visualization",
+            "course_description": "Data visualization broadly covers transforming multidimensional and timevarying datasets to dynamic visual representations and encodings that facilitate exploratory data mining, knowledge discovery, improved understanding, summarization, structural modeling, collaboration and decision making using interactive methods.",
+            "prerequisites": "CMP_SC 4610 or CMP_SC 7610 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8650",
+            "course_name": "Advanced Image Processing",
+            "course_description": "(same as ECE 8855). This course covers advanced topics in image understanding including multispectral multimodal imaging, motion estimation, texture analysis, geometric level set methods.",
+            "prerequisites": "CMP_SC 4650 or CMP_SC 7650 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8660",
+            "course_name": "Multimedia Security",
+            "course_description": "This course offers a comprehensive coverage of the theoretical foundation of multimedia security technologies, including encryption, authentication, digital watermarking, key management, copy control, fingerprinting/tracing, digital media forensics, and biometrics, provides an in-depth study of the state-of-the-art digital rights management systems and the underlying security technologies.  Graded on A-F basis only.",
+            "prerequisites": "CMP_SC 4670 or CMP_SC 4650; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8670",
+            "course_name": "Multimedia Communication",
+            "course_description": "Topics covered may include multimedia networking and network technologies as pertaining to multimedia communications; multimedia applications such as video conferencing, video-on-demand broadcasting, and web-based distance learning; wireless video and future generation wireless video communication systems.",
+            "prerequisites": "CMP_SC 4670 and CMP_SC 4850 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8680",
+            "course_name": "3-D Computer Vision",
+            "course_description": "This course introduces students to a central problem in computer vision - how to recover 3-D structure and motion from a collection of 2-D images, using techniques drawn mainly from linear algebra and matrix theory. The main focus is on developing a unified framework for studying the geometry of multiple images of a 3-D scene and reconstructing geometric models from those images. The course also covers relevant aspects of image formation, basic image processing, and feature extraction.",
+            "prerequisites": "CMP_SC 4650 or CMP_SC 7650",
+            "credit_hours": "3",
+            "recommendation": "Good knowledge of C or C++ programming, linear algebra and data structures"
+        },
+        {
+            "course_number": "CMP_SC 8690",
+            "course_name": "Computer Vision",
+            "course_description": "(same as ECE 8690). This course introduces students to the fundamental problems of computer vision, the main concepts and the techniques used to solve such problems.  It will enable graduate and advanced undergraduate students to solve complex problems and make sense of the literature in the area. Graded on A-F basis only.",
+            "prerequisites": "ECE 4655 or ECE 7655 or CMP_SC 4650 or CMP_SC 7650 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8725",
+            "course_name": "Supervised Learning",
+            "course_description": "(same as ECE 8725). This course introduces the theories and applications of advanced supervised machine learning methods.  It covers hidden Markov model and expectation maximization (EM) algorithms, probabilistic graphical models, non-linear support vector machine and kernel methods.  The course emphasizes both the theoretical underpinnings of the advanced supervised learning methods and their applications in the real world.  Graded on A-F basis only.",
+            "prerequisites": "CMP_SC 4720 or CMP_SC 7720 or ECE 4720 or ECE 7720 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8735",
+            "course_name": "Unsupervised Learning",
+            "course_description": "(same as ECE 8735).  Theoretical and practical aspects of unsupervised learning including topics of expectation maximization (EM), mixture decomposition, clustering algorithms, cluster visualization, and cluster validity.  Graded on A-F basis only.",
+            "prerequisites": "CMP_SC 4720 or CMP_SC 7720 or ECE 4720 or ECE 7720 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8740",
+            "course_name": "Advanced Natural Language Processing",
+            "course_description": "What do Google, the New York Times, Facebook, Cerner, and other big companies know that you don't? Natural language processing. This course considers open and compelling problems in contemporary research in the processing and analysis of text, focusing on both the underlying theory and its practical application. The goal is to help students understand the nature of these problems, the current approaches to them, the strengths and weaknesses of those approaches, and other possible ways forward.",
+            "prerequisites": "CMP_SC 4740 or CMP_SC 7740",
+            "credit_hours": "3",
+            "recommendation": "CMP_SC 2050; students should be facile in programming at least one high-level language. Good knowledge of univariate, parametric statistics"
+        },
+        {
+            "course_number": "CMP_SC 8750",
+            "course_name": "Artificial Intelligence II",
+            "course_description": "Further discussion of theories and techniques of artificial intelligence. Investigating state-of-the-art systems with capabilities to perceive, reason, learn and react intelligently to their environment.",
+            "prerequisites": "CMP_SC 4750 or CMP_SC 7750 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8760",
+            "course_name": "Pattern Recognition",
+            "course_description": "(same as ECE 8820). Decision functions, crisp and fuzzy clustering methods, statistical pattern recognition methods, Bayesian classifiers, error probabilities, estimation of density functions, perceptrons, least-mean-square algorithms, feature selection, dimensionality reduction and syntactic pattern recognition.",
+            "prerequisites": "CMP_SC 4050, STAT 4710",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8770",
+            "course_name": "Neural Networks",
+            "course_description": "(same as ECE 8890). The course will consider computing systems based on neural networks and learning models along with implementations and applications of such systems.",
+            "prerequisites": "CMP_SC 4870 or CMP_SC 7870 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8780",
+            "course_name": "Advanced Topics in Computational Intelligence",
+            "course_description": "(same as ECE 8875). This course is a continuation of ECE 7870/CMP_SC 7770 Introduction to Computational Intelligence in the concepts, models, and algorithms for the development of intelligent systems from the standpoint of the computational paradigms of neural networks, fuzzy set theory and fuzzy logic, evolutionary computation, and swarm intelligence. Advanced topics in these areas will be discussed with a focus on applications of these technologies.",
+            "prerequisites": "ECE 4870 or ECE 7870 or CMP_SC 4770 or CMP_SC 7770",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8790",
+            "course_name": "Filtering, Tracking and Data Fusion",
+            "course_description": "This course will cover theory and applications of rigorous and efficient techniques for determining the state of an observed system from a series of imperfect observations or measurements. Specific topics to be covered include semidefinite matrix theory, the Kalman filter, the Unscented Transform, Covariance Intersection and related techniques.  Applications of these techniques include head and hand tracking in virtual reality systems, robotics, and distributed information fusion.",
+            "prerequisites": "CMP_SC 2050, MATH 2300 or Linear Algebra or Matrix Theory",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8850",
+            "course_name": "Computer Networks II",
+            "course_description": "In-depth analysis and evaluation of computer networking architectures, protocols and algorithms, network security, distributed database and computational networks, routing and congestion control, domains and internetworking.",
+            "prerequisites": "CMP_SC 7850",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8860",
+            "course_name": "Parallel and Distributed Processing",
+            "course_description": "This course covers basic issues of parallel and distributed processing, including parallel and distributed architectures and models, parallel programming, and parallel algorithms and applications.",
+            "prerequisites": "CMP_SC 4050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8870",
+            "course_name": "Modeling and Management of Uncertainty",
+            "course_description": "(same as ECE 8870).  Theoretical and practical issues in the modeling and management of uncertainty.  Topics include probabilistic uncertainty, belief theory and fuzzy set theory. Applications to computer vision, pattern recognition and expert systems. Graded on A-F basis only.",
+            "prerequisites": "ECE 4870 or ECE 7870 or CMP_SC 4770 or CMP_SC 7770 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8880",
+            "course_name": "Wireless Embedded Systems",
+            "course_description": "This course introduces wireless embedded systems and focuses on the nature of computation and communication needed to design large-scale, distributed, and wirelessly connected embedded systems.  We will study emerging technology and standards by reading papers and doing projects on real systems.",
+            "prerequisites": "CMP_SC 4050 and CMP_SC 4850 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8980",
+            "course_name": "Research Masters Project in Computer Science",
+            "course_description": "Investigation and research of a topic, not leading to a thesis. Graded on S/U basis only.",
+            "prerequisites": "departmental consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 8990",
+            "course_name": "Research-Masters Thesis Computer Science",
+            "course_description": "Graded on S/U basis only.",
+            "prerequisites": "advisor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 9001",
+            "course_name": "Advanced Topics in Computer Science - PhD",
+            "course_description": "New and current technical developments in computer science. For PhD students.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CMP_SC 9990",
+            "course_name": "Research-Doctoral Dissertation Computer Science",
+            "course_description": "Graded on S/U basis only.",
+            "prerequisites": "advisor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "department_name": "Classics ",
+    "department_code": "CLASS",
+    "courses": [
+        {
+            "course_number": "CLASS 4100",
+            "course_name": "History of the Greek and Latin Languages",
+            "course_description": "(same as LINGST 4130; cross-leveled with CLASS 7100, LINGST 7130). Evolution of classical languages and their relationship to each other.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "GREEK 4300 and LATIN 4300"
+        },
+        {
+            "course_number": "CLASS 4205",
+            "course_name": "Topics in Classical Studies",
+            "course_description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.  Departmental consent for repetition.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99Recommended: GREEK 2000 and LATIN 2000",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 4300",
+            "course_name": "Introduction to Text Criticism and Paleography",
+            "course_description": "(cross-leveled with CLASS 7300). Latin and/or Greek textual criticism and paleography, using manuscript facsimiles at the University library.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "GREEK 2000 and LATIN 2000"
+        },
+        {
+            "course_number": "CLASS 4400",
+            "course_name": "Ancient Pastoral",
+            "course_description": "(cross-leveled with CLASS 7400). Reading and interpretation of pastoral poetry and prose in Greek and Latin; emphasis on Theocritus, Virgil, and Longus.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "GREEK 4300 and LATIN 4300"
+        },
+        {
+            "course_number": "CLASS 4700",
+            "course_name": "Advanced Study in the Teaching of the Classics",
+            "course_description": "",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 4960",
+            "course_name": "Special Readings in Classical Studies",
+            "course_description": "Readings in authors and texts not covered in other courses.",
+            "prerequisites": "departmental consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 4970",
+            "course_name": "Capstone in Classical Languages",
+            "course_description": "Culminating course in the study of Greek and Roman literature and Classical culture.  Required for Greek, Latin, and Classical Languages majors in first term of senior year.",
+            "prerequisites": "Instructor consent",
+            "credit_hours": "3",
+            "recommendation": "for double-majors"
+        },
+        {
+            "course_number": "CLASS 4970H",
+            "course_name": "Capstone in Classical Languages",
+            "course_description": "Culminating course in the study of Greek and Roman literature and Classical culture.  Required for Greek, Latin, and Classical Languages majors in first term of senior year.  Recommended for double-majors.",
+            "prerequisites": "instructor's consent.  Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 4995H",
+            "course_name": "Honors Proseminar in Classical Studies",
+            "course_description": "Limited to Honors undergraduates. To be taken in senior year. Integrated exploration of classical civilization. May repeat to 6 hours maximum.",
+            "prerequisites": "onors eligibility required",
+            "credit_hours": "3-6",
+            "recommendation": "Senior standing"
+        },
+        {
+            "course_number": "CLASS 7000",
+            "course_name": "Introduction to Graduate Study in Classics",
+            "course_description": "Required of all first-year graduate students.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 7100",
+            "course_name": "History of the Greek and Latin Languages",
+            "course_description": "(same as LINGST 7130; cross-levelled with CLASS 4100, LINGST 4130). Evolution of classical languages and their relationship to each other.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 7205",
+            "course_name": "Topics in Classical Studies",
+            "course_description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Departmental consent for repetition.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 7300",
+            "course_name": "Introduction to Text Criticism and Paleography",
+            "course_description": "(cross-leveled with CLASS 4300). Latin and/or Greek textual criticism and paleography, using manuscript facsimiles at the University library.",
+            "prerequisites": "2 years of Classical Languages or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 7400",
+            "course_name": "Ancient Pastoral",
+            "course_description": "(cross-leveled with CLASS 4400). Reading and interpretation of pastoral poetry and prose in Greek and Latin; emphasis on Theocritus, Virgil, and Longus.",
+            "prerequisites": "2 years each of Greek and Latin",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 7700",
+            "course_name": "Advanced Study in the Teaching of the Classics",
+            "course_description": "",
+            "prerequisites": "classroom teaching experience or chairman's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 7960",
+            "course_name": "Special Readings in Classical Studies",
+            "course_description": "Readings in authors and texts not covered in other courses.",
+            "prerequisites": "graduate standing and classics/classical humanities; departmental consent; Greek--two years classical Greek or equivalent; Latin--two years Classical Latin or equivalent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 8085",
+            "course_name": "Directed Readings in Classics",
+            "course_description": "For graduate students to undertake special projects for graduate credit under the supervision of faculty.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 8090",
+            "course_name": "Masters Research and Thesis in Classics",
+            "course_description": "For graduate students studying for the MA and working on a thesis to receive credit for work directly related to the thesis.  Graded S/U only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 8440",
+            "course_name": "Ancient/Medieval Topography",
+            "course_description": "(same as AR_H_A 8440). Descriptive and historical analysis of selected city or site. Subject varies.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 9090",
+            "course_name": "PhD Research and Thesis",
+            "course_description": "Individual research in preparation for writing thesis and/or dissertation. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-8",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 9187",
+            "course_name": "Seminar in Classical Mythology",
+            "course_description": "Intensive study of classical mythology in origin, development, meaning and influence.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 9287",
+            "course_name": "Seminar in the Hellenistic Age",
+            "course_description": "Seminar in the Hellenistic Age",
+            "prerequisites": "None Listed",
+            "credit_hours": "3-6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 9387",
+            "course_name": "Seminar in Ancient Rhetoric and Oratory",
+            "course_description": "Seminar in Ancient Rhetoric and Oratory",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 9487",
+            "course_name": "Seminar in Ancient Literary Criticism",
+            "course_description": "Principles and theories of ancient Greek and Latin literary criticism, as developed in significant works on the subject.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 9587",
+            "course_name": "Greco-Roman Didactic",
+            "course_description": "Critical and comparative study of Greek and Latin didactic poetry with emphasis on major authors from Hesiod through the Augustan Age.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3-6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 9687",
+            "course_name": "Seminar in Greco-Roman Religion",
+            "course_description": "Seminar in Greco-Roman Religion",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 9787",
+            "course_name": "Seminar in Greco-Roman Satire and Social Criticism",
+            "course_description": "Seminar in Greco-Roman Satire and Social Criticism",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CLASS 9887",
+            "course_name": "Seminar in the Age of the Antonines",
+            "course_description": "Seminar in the Age of the Antonines",
+            "prerequisites": "None Listed",
+            "credit_hours": "3-6",
+            "recommendation": "None Listed"
+        }
+    ]
+}

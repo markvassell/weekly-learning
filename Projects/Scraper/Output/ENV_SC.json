@@ -1,0 +1,334 @@
+{
+    "department_name": "Environmental Science ",
+    "department_code": "ENV_SC",
+    "courses": [
+        {
+            "course_number": "ENV_SC 1001",
+            "course_name": "Topics in Environmental Science - General",
+            "course_description": "Organized study of selected topics in environmental science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 1100",
+            "course_name": "Introduction to Environmental Science",
+            "course_description": "This class provides an opportunity to develop an understanding of environment, physical and social causes of environmental problems, their impacts, and strategies to manage these issues.",
+            "prerequisites": "Enrollment restricted to College of Agriculture, Food and Natural Resources undergraduates and students minoring in Environmental Science",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 2001",
+            "course_name": "Topics in Environmental Science - General",
+            "course_description": "Organized study of selected topics in environmental science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 2002",
+            "course_name": "Topics in Environmental Science- Biological/Physical/Mathematical",
+            "course_description": "Organized study of selected topics. Subjects and credit may vary from semester to semester.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 3001",
+            "course_name": "Topics in Environmental Science - General",
+            "course_description": "Organized study of selected topics in environmental science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 3085",
+            "course_name": "Problems in Environmental Science",
+            "course_description": "Special individualized projects or readings in environmental science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 3250",
+            "course_name": "Pollutant Fate and Transport",
+            "course_description": "(same as CV_ENG 3250).  Introduction to concepts governing pollutant fate and transport in the environment, including pollutant interactions within and migration through environmental systems, as well as analytical techniques and tools necessary to quantify conditions and movement.",
+            "prerequisites": "ENV_SC 1100 or SOIL 2100 or CV_ENG 3200; and CHEM 1320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 3290",
+            "course_name": "Soils and the Environment",
+            "course_description": "(same as SOIL 3290). Addresses the role of soils and soil properties on environmental pollution and management. Emphasis will be placed on carbon, nitrogen, phosphorus, and sulfur transformations and transport in natural and disturbed ecosystems and soil management practices and technology to prevent or remediate environmental pollution.",
+            "prerequisites": "SOIL 2100, ENGLSH 1000.  Recommended 3 hours of CHEM courses",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 3290W",
+            "course_name": "Soils and the Environment - Writing Intensive",
+            "course_description": "(same as SOIL 3290). Addresses the role of soils and soil properties on environmental pollution and management. Emphasis will be placed on carbon, nitrogen, phosphorus, and sulfur transformations and transport in natural and disturbed ecosystems and soil management practices and technology to prevent or remediate environmental pollution.",
+            "prerequisites": "SOIL 2100, ENGLSH 1000.  Recommended 3 hours of CHEM courses",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 3330",
+            "course_name": "Environmental Land Use Management",
+            "course_description": "An introduction to environmentally sustainable use and management of land.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 3500",
+            "course_name": "Pollutant Fate and Transport",
+            "course_description": "This course introduces students to concepts governing pollutant fate and transport in the environment, and it provides students with the quantitative tools necessary to estimate the fate and transport of pollutants in the environment.",
+            "prerequisites": "ENV_SC 1100 or SOIL 2100, and CHEM 1320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 4001",
+            "course_name": "Topics in Environmental Science - General",
+            "course_description": "Organized study of selected topics in environmental science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 4024",
+            "course_name": "Foundations of Environmental Education",
+            "course_description": "(same as NAT_R 4024; cross-leveled with NAT_R 7024)This course provides a theoretical foundation to environmental education (EE). The purpose of this course is to develop the knowledge and skills for developing quality, age-appropriate EE for students in both formal and non-formal education setting. The emphasis is on EE curriculum materials, resources, and programs that can be used with students in settings at classrooms, nature centers, museums, and parks. This course involves training in the Missouri Department of Conservation Discover Nature School educational materials, and in observing and teaching EE lessons in a local nature center. Graded on A-F basis only.",
+            "prerequisites": "BIO_SC 1010 or ENV_SC 1100 or NAT_R 1060 or NAT_R 1070 or NAT_R 2160 or Instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 4085",
+            "course_name": "Problems in Environmental Science",
+            "course_description": "Special individualized research projects or readings in environmental science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 4305",
+            "course_name": "Environmental Soil Physics",
+            "course_description": "(same as SOIL 4305). Study of soil physical properties and processes important in solving environmental problems. Topics include soil solids, water content and energy, and transport of water, solutes, gas and heat.",
+            "prerequisites": "SOIL 2100",
+            "credit_hours": "3",
+            "recommendation": "PHYSCS 1210 or equivalent"
+        },
+        {
+            "course_number": "ENV_SC 4306",
+            "course_name": "Environmental Soil Physics Laboratory",
+            "course_description": "(same as SOIL 4306).  Introduction to the methodology and equipment for measurement of soil physical properties and processes.",
+            "prerequisites": -1,
+            "credit_hours": "2Prerequisites or Corequisites: ENV_SC 4305",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 4312",
+            "course_name": "Environmental Soil Microbiology",
+            "course_description": "(same as SOIL 4312). Microbiology/ecology of life in the soil ecosystem. Emphasis is placed on the role of microbes in nutrient cycling, microbial pesticide/xenobiotic transformation bioremediation, etc.",
+            "prerequisites": "SOIL 2100",
+            "credit_hours": "3",
+            "recommendation": "general microbiology"
+        },
+        {
+            "course_number": "ENV_SC 4318",
+            "course_name": "Environmental Soil Chemistry",
+            "course_description": "(same as SOIL 4318 and GEOL 4318). Study of chemical constituents and processes occurring in soils.  Topics include soil minerals and weathering processes, organic matter, solution chemistry, oxidation-reduction reactions and adsorption processes.",
+            "prerequisites": "SOIL 2100 or GEOL 2400, CHEM 1320 and CHEM 1330; junior standing or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 4320",
+            "course_name": "Hydrologic and Water Quality Modeling",
+            "course_description": "(same as NAT_R 4320). Introduction to models for simulating hydrologic and water quality processes. Emphasis is placed on watersheds to provide experience with the use of simulation models for natural resource decision making.",
+            "prerequisites": "ENV_SC 1100 or SOIL 2100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 4396",
+            "course_name": "Agroforestry for Watershed Restoration",
+            "course_description": "Agroforestry for watershed restoration will focus on integrated approaches for improved water quality, soil health, and economic benefits.  Students will learn principles and practices, critical analysis and application of agroforesty practices to improve overall environmental quality. May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "FOREST 4385 or FOREST 7385",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 4940",
+            "course_name": "Environmental Science Internship",
+            "course_description": "Supervised professional experience with an approved public or private organization.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 4950",
+            "course_name": "Undergraduate Research in Environmental Science",
+            "course_description": "Research apprenticeship with a faculty mentor. Students are expected to develop initial concept for the research, design experiments, collect data, and analyze data with faculty input, oversight, and guidance. ",
+            "prerequisites": " ENV_SC 1100, STAT 2530",
+            "credit_hours": "1-4Recommended: 9 hours of Environmental Science with at least 3 hours above the 3000-level",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 7001",
+            "course_name": "Topics in Environmental Science",
+            "course_description": "Organized study of selected topics in environmental science. Intended for graduate students.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 7085",
+            "course_name": "Problems in Environmental Science",
+            "course_description": "Special individualized non-thesis research projects or readings in environmental science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 7305",
+            "course_name": "Environmental Soil Physics",
+            "course_description": "(same as SOIL 7305). Study of soil physical properties and processes important in solving environmental problems. Topics include soil solids, water content and energy, and transport of water, solutes, gas and heat.",
+            "prerequisites": "SOIL 2100, PHYSCS 1210 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 7306",
+            "course_name": "Environmental Soil Physics Laboratory",
+            "course_description": "(same as SOIL 7306). Introduction to the methodology and equipment for measurement of soil physical properties and properties and processes. Prerequisites or Corerquisites:  SOIL 4305.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 7312",
+            "course_name": "Environmental Soil Microbiology",
+            "course_description": "(same as SOIL 7312). Microbiology/ecology of life in the soil ecosystem. Emphasis is placed on the role of microbes in nutrient cycling, microbial pesticide/xenobiotic degradation and bioremediateion, soil quality and pathogen regulation in the environment.  Nitrogen fixation, mycorrhizal processes are discussed.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 7318",
+            "course_name": "Environmental Soil Chemistry",
+            "course_description": "(same as SOIL 7318 and GEOL 7318). Study of chemical constituents and processes occurring in soils.  Topics include soil minerals, and weathering processes, organic matter, solution chemistry, oxidation-reduction reactions and adsorption processes.",
+            "prerequisites": "SOIL 2100 or GEOL 2400, CHEM 1320 and CHEM 1330",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 7320",
+            "course_name": "Hydrologic and Water Quality Modeling",
+            "course_description": "(same as NAT_R 7320).  Introduction to models for simulating hydrologic and water quality processes.  Emphasis is placed on watersheds to provide experience with the use of simulation models for natural resource decision making.",
+            "prerequisites": "ENV_SC 1100 or SOIL 2100 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 7396",
+            "course_name": "Agroforestry for Watershed Restoration",
+            "course_description": "Agroforestry for watershed restoration will focus on integrated approaches for improved water quality, soil health, and economic benefits.  Students will learn principles and practices, critical analysis and application of agroforesty practices to improve overall environmental quality.  May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "FOREST 4385 or FOREST 7385 or permission of instructor",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 8001",
+            "course_name": "Topics in Environmental Science",
+            "course_description": "Organized study of selected topics in environmental science. Intended for graduate students.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 8085",
+            "course_name": "Problems in Environmental Science",
+            "course_description": "Special individualized non-thesis research projects or readings in environmental science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 8090",
+            "course_name": "Masters Research in Environmental Science",
+            "course_description": "Original investigations in environmental science for presentation in a thesis.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-10",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 8400",
+            "course_name": "Solute Transport in the Vadose Zone",
+            "course_description": "(same as SOIL 8400). Transport of water and solutes in geomedia with emphasis on development of the equations of flow.  Evaluation of analytical and numeral solutions to equations describing transport phenomena.",
+            "prerequisites": "ENV_SC 7305 or SOIL 7305",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 8500",
+            "course_name": "Chemistry of the Vadose Zone",
+            "course_description": "(same as SOIL 8500). Chemical reactions occurring in geomedia with emphasis on understanding molecular scale processes occurring at the solid-water interface, aqueous geochemistry, and soil organic matter.",
+            "prerequisites": "SOIL 7318 or GEOL 7300 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 9001",
+            "course_name": "Topics in Environmental Science",
+            "course_description": "Organized study of selected topics in environmental science. Intended for graduate students.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 9085",
+            "course_name": "Problems in Environmental Science",
+            "course_description": "Special individualized non-thesis research projects or readings in environmental science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 9087",
+            "course_name": "Seminar in Environmental Science",
+            "course_description": "In-depth development of advanced aspects of environmental science through reviews of results of research in progress and current scientific publications.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 9090",
+            "course_name": "Doctoral Research in Environmental Science",
+            "course_description": "Original investigations in environmental science for presentation in a dissertation.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-10",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 9407",
+            "course_name": "Advanced Environmental Soil Physics",
+            "course_description": "(same as SOIL 9407). Transport of mass and energy through soil with emphasis on development of the equations of flow. Evaluation of analytical and numerical solutions to differential equations describing transport phenomena.",
+            "prerequisites": "SOIL 7305, MATH 4100 or MATH 7100, or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ENV_SC 9418",
+            "course_name": "Advanced Environmental Soil Chemistry",
+            "course_description": "(same as SOIL 9418). Linking molecular-scale solution-phase and surface reactions with macroscopic chemical processes.  Fundamentals of aqueous surface and colloid chemistry will be discussed.",
+            "prerequisites": "SOIL 7318 or GEOL 7300, and CHEM 3300",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

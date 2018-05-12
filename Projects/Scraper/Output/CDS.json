@@ -1,0 +1,254 @@
+{
+    "department_name": "Clinical & Diagnostic Sciences ",
+    "department_code": "CDS",
+    "courses": [
+        {
+            "course_number": "CDS 2190",
+            "course_name": "Medical Terminology",
+            "course_description": "Medical terminology based on a word building system. This course is intended for students majoring in health professions, nursing and other helping professions, pre-med and biology.",
+            "prerequisites": "sophomore standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 3200",
+            "course_name": "Essentials of Pathology",
+            "course_description": "Provides basic foundation for understanding etiology of disease with emphasis on systemic pathology for non-medical students.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "general biology and one course in either physiology or anatomy"
+        },
+        {
+            "course_number": "CDS 3460",
+            "course_name": "Cardiovascular and Pulmonary Diagnostic Applications I",
+            "course_description": "(same as RA_SCI 3460). Interdisciplinary small group, case-based study of common cardiovascular, pulmonary and other diseases.  Pathophysiology, diagnosis and treatment from the perspective of allied health professionals.  Emphasis on critical thinking, teamwork skills.",
+            "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 3460W",
+            "course_name": "Cardiovascular and Pulmonary Diagnostic Applications I - Writing Intensive",
+            "course_description": "(same as RA_SCI 3460). Interdisciplinary small group, case-based study of common cardiovascular, pulmonary and other diseases.  Pathophysiology, diagnosis and treatment from the perspective of allied health professionals.  Emphasis on critical thinking, teamwork skills.",
+            "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4001",
+            "course_name": "Topics in Clinical and Diagnostic Science",
+            "course_description": "Organized study of selected topics in Clinical & Diagnostic Sciences. Topics may vary. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4085",
+            "course_name": "Problems in Clinical and Diagnostic Sciences",
+            "course_description": "Supervised investigation in an aspect of Clinical and Diagnostic Sciences usually culminating in a written report.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4328",
+            "course_name": "Radiation Safety and Biology",
+            "course_description": "Regulations and procedures for safe uses of radiation to heighten student understanding of radiation physics, radiation biology, and radiation safety. Graded on A-F basis only.",
+            "prerequisites": "Junior standing",
+            "credit_hours": "4",
+            "recommendation": "One course in Biological Sciences and Physics/Chemistry"
+        },
+        {
+            "course_number": "CDS 4440",
+            "course_name": "Organization and Administration",
+            "course_description": "(same as RA_SCI 4440 and RS_THR 4440). Examines design and operation of allied health service departments and educational programs, including facilities, personnel procedures, record systems, ethics, medical-legal aspects, interdepartmental relations and curriculum development.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4460",
+            "course_name": "Cardiovascular and Pulmonary Diagnostic Applications II",
+            "course_description": "Interdisciplinary study of cardiac dysrhythmias, MI, stroke.  Application of current American Heart Association Advanced Cardiac Life Support (AHA ACLS) algorithms.  Successful completion of this course fulfills AHA ACLS Provider requirements.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4480",
+            "course_name": "Clinical Ethics",
+            "course_description": "Exploration of bioethics issues in health care with emphasis on issues related to patient choice and provider responsibility.  Topics include philosophical theories, principles and models for ethical and lawful decision making in healthcare.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4480W",
+            "course_name": "Clinical Ethics - Writing Intensive",
+            "course_description": "Exploration of bioethics issues in health care with emphasis on issues related to patient choice and provider responsibility.  Topics include philosophical theories, principles and models for ethical and lawful decision making in healthcare.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4500",
+            "course_name": "Emergency and Disaster Management in Healthcare",
+            "course_description": "This course will provide the student with an orientation the principles of disaster management in the community (both state and federal levels) and the acute care facility. Topics include biological agents, allocation of resources and ethical considerations.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4840",
+            "course_name": "Asthma Education",
+            "course_description": "This course will provide the student with a multi-faceted approach to caring for the patient with asthma. Topics include pathophysiology, pharmacology, patient/family education, patient assessment and management. Assists students to take the Asthma Educator Credentialing Exam. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4955",
+            "course_name": "Introduction to Research",
+            "course_description": "(same as RS_THR 4955). An interdisciplinary course designed to promote undergraduate allied health research. Includes identifying and designing research problems through formulating relevant questions, learning to systematically search for answers, and methods for searching the literature.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4955W",
+            "course_name": "Introduction to Research - Writing Intensive",
+            "course_description": "(same as RS_THR 4955). An interdisciplinary course designed to promote undergraduate allied health research. Includes identifying and designing research problems through formulating relevant questions, learning to systematically search for answers, and methods for searching the literature.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4985",
+            "course_name": "Healthcare Organization and Leadership",
+            "course_description": "(same as HLTH_SCI 4985). In this course, students will explore leadership principles as they relate to the student's focus area, combining previous expertise in the field with an interdisciplinary perspective within the healthcare community.  Graded on A-F basis only.",
+            "prerequisites": "HLTH_SC 2100; Senior standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 4985W",
+            "course_name": "Healthcare Organization and Leadership - Writing Intensive",
+            "course_description": "In this course, students will explore leadership principles as they relate to the student's focus area, combining previous expertise in the field with an interdisciplinary perspective within the healthcare community.  Graded on A-F basis only.",
+            "prerequisites": "Senior standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 7025",
+            "course_name": "CDS Electronic Communication and Informatics",
+            "course_description": "The course presents an overview of healthcare informatics pertaining to all clinical and diagnostic sciences (CDS) constituent programs and of medical informatics. The course introduces all possible electronic communication avenues and methods used in clinical and diagnostic sciences. It provides a comprehensive introduction to the applications of information systems in a range of healthcare environments including clinical and diagnostic sciences education, clinical research, and diverse clinical settings where students will be employed upon graduation. It includes extensive readings and critical discussions of relevant professional research literature. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 7027",
+            "course_name": "Techniques for Teaching CDS Courses Traditionally or Online",
+            "course_description": "Clinical and Diagnostic Sciences (CDS) is a new model that integrates multiple dissimilar programs in the allied health and medical fields. This course is designed to prepare CDS professionals to design, organize, conduct and evaluate professional educational offerings, including pre-professional didactic and clinical coursework, in-service trainings, and continuing professional education sessions conducted through traditional and/or online formats. The course will guide the student in developing critical thinking and problem solving strategies necessary in the clinical, therapeutic and diagnostic imaging modalities, as well as the relationship between theoretical and practical aspects of teaching techniques specific to CDS. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 7110",
+            "course_name": "Management Approaches in CDS",
+            "course_description": "Clinical and Diagnostic Sciences (CDS) is a multiple discipline program in allied health sciences and medical fields. This course is designed to prepare CDS professionals to effectively explore the variety of styles and effective approaches of management. The course will guide the student in developing critical thinking and problem solving strategies necessary in the clear understanding of the strategic avenues required by the appropriate management methods that lead to a harmonic decorum of integration between multiple programs and departments in CDS. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 7112",
+            "course_name": "Leadership Styles in CDS",
+            "course_description": "The course is designed to prepare clinical and diagnostic sciences (CDS) professionals from various integrated programs of CDS fields to understand and apply effective leadership styles and methods in order to be efficient, dynamic, and successful leader. The course will guide the students in developing critical thinking and problem solving strategies necessary to expand their strategic leadership knowledge and skills to function in diverse environments of the CDS fields as integrated units or separately. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 7113",
+            "course_name": "Practical Multidiscipline Laboratory Organization in CDS",
+            "course_description": "The course is designed to prepare clinical and diagnostic sciences (CDS) professionals from various integrated programs of CDS fields to understand and effectively apply practical organizational skills when dealing with multidisciplinary clinical laboratory settings. The course will guide the students to explore all available practical methods in order to construct an efficient, dynamic, and flowchart accessible laboratory within the CDS department and the fields. The outcome of this course will augment the student's abilities to develop critical thinking and problem solving strategies necessary to function in diverse laboratory environments within the CDS integrated fields. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 7114",
+            "course_name": "Organizational Design and Dynamics in CDS",
+            "course_description": "The course is designed to prepare clinical and diagnostic sciences (CDS) professionals from various integrated programs of CDS fields to understand and conceptualize the most appropriate model of structure design of an organization as part of the CDS constituent fields and holistically integrated CDS organization as a whole. Students will learn and be instructed to understand the dynamics that occur within the CDS organizational design. The course will guide the students as they explore various examples available for designs of a CDS organization. The outcome of this course will enhance the student's abilities to develop critical thinking and problem solving strategies necessary to function in diverse clinical and diagnostic environments within the CDS integrated fields. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 7116",
+            "course_name": "Administration of Educational Programs in CDS",
+            "course_description": "Clinical and Diagnostic Sciences (CDS) is a new model that integrates multiple dissimilar programs in the allied health and medical fields. This course is designed to prepare CDS professionals to effectively administer and articulate with educational programs. The course will guide the student in developing critical thinking and problem solving strategies necessary to implement strategic plans, institute clinical affiliation agreements, establish thoughtful and consistent policies and procedures, evaluate student selection criteria and pursue accreditation for education programs in CDS. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 7118",
+            "course_name": "Telecommunication and Reporting in CDS",
+            "course_description": "Clinical and Diagnostic Sciences (CDS) is a new model that integrates multiple dissimilar programs in the allied health and medical fields. This course will introduce and prepare CDS professionals to telecommunication avenues of interacting, transmitting, and mobilizing the data and pertinent information to the countless outlets of information distribution areas. The course will provide the professional student with the tools and means to understand how to report all the relevant data and information essential to the process to interact and disseminate significant events and results used within the CDS constituent programs. The course will guide the student in developing critical thinking and problem solving strategies necessary in the clinical, therapeutic, and diagnostic imaging modalities in the process of telecommunication skills and reporting methods among all the CDS fields. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 7840",
+            "course_name": "Asthma Education",
+            "course_description": "This course will provide the student with a multi-faceted approach to caring for the patient with asthma. Topics include pathophysiology, pharmacology, patient/family education, patient assessment and management. Assists students to take the Asthma Educator Credentialing Exam.  Graded on A-F basis only.",
+            "prerequisites": "instructor's consent required",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 8001",
+            "course_name": "Topics in Clinical and Diagnostic Sciences",
+            "course_description": "This course is designed to explore, through selected themes assigned by the instructor, advanced clinical and diagnostic sciences (CDS) topics in psychosocial, professional, educational, and technical areas. The organized study of a specific CDS topic will be conducted in a holistic manner. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 8050",
+            "course_name": "Research in Clinical and Diagnostic Sciences",
+            "course_description": "This course is designed for the clinical and diagnostic sciences (CDS) programs' graduates and health science degree holders who wish to explore advanced opportunities in CDS through a research component and scientific investigations. It will allow the students to formulate appropriate reasons for pursuing a specific area of interest. The course will provide knowledge about research methodology in CDS, the operation of, and how to conduct a research in a CDS department and in a clinical setting. It will guide the student to develop appropriate research qualities associated with the CDS constituent programs. The course guides the students in developing independent study and scientific investigation skills. The course does not lead to a thesis or dissertation. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 8085",
+            "course_name": "Problems in Clinical and Diagnostic Sciences",
+            "course_description": "Clinical and Diagnostic Sciences (CDS) field is still an emerging profession in the medical field. This course is designed to provide a broad overview of multiple \"problems\" faced by CDS in the health care context. Through a variety of themes exploring theoretical and clinical aspects of the constituent professions, the course will guide the student in developing critical thinking and problem solving strategies necessary in the analysis of the controversial aspects of a chosen subject. Issues will include, but not limited to the role and function of CDS in health care in general and clinical and diagnostic imaging in special, the relationship between theoretical and practical aspects of the imaging modality and clinical aspects (fast pace of advancing technology versus slow pace of clinical application, education, literature of specialty, etc.), ethical and legal issues in the CDS constituent professions, problems faced by a clinical and diagnostic educational program, CDS graduates' role in diagnosis, education, management, and CDS clinical applications. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 8090",
+            "course_name": "Research in Clinical and Diagnostic Sciences",
+            "course_description": "This course is designed for the clinical and diagnostic sciences (CDS) constituents programs and health science graduates who wish to explore through the methods of scientific research any area of interest in CDS fields. It leads to a thesis or dissertation. Graded on A-F basis only.",
+            "prerequisites": "Program and instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "CDS 8920",
+            "course_name": "Applied Research Methodologies in Clinical and Diagnostic Sciences",
+            "course_description": "Practical research application of clinical and diagnostic sciences (CDS) in a real time clinical environment: exploring the various methods of applied clinical research and how they relate to decision making, patient handling, technical applications, instrumentation and image processing. Graded on A-F basis only.",
+            "prerequisites": "BHS degree in CDS and or allied health professions, and Program and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

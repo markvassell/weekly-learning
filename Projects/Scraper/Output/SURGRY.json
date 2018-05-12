@@ -1,0 +1,358 @@
+{
+    "department_name": "Surgery ",
+    "department_code": "SURGRY",
+    "courses": [
+        {
+            "course_number": "SURGRY 6006",
+            "course_name": "Surgery Clerkship",
+            "course_description": "Emphasis is placed on the diagnosis and treatment of disorders requiring surgical intervention. Each student has a faculty mentor-advisor, attends faculty discussion sessions that cover objectives in the required textbooks and takes call under the supervision of surgical residents. Students are assigned patients from all surgical specialties, participate in preoperative examinations and evaluations, assist during surgical procedures and follow the postoperative management process.",
+            "prerequisites": "None Listed",
+            "credit_hours": "8",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6016",
+            "course_name": "Rural Surgery Clerkship",
+            "course_description": "Rural Surgery Clerkship",
+            "prerequisites": "None Listed",
+            "credit_hours": "8",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6026",
+            "course_name": "Springfield Surgery Clerkship",
+            "course_description": "Emphasis is placed on the diagnosis and treatment of disorders requiring surgical intervention. Students are assigned patients from all surgical specialties, participate in preoperative examinations and evaluations, assist during surgical procedures and follow the postoperative management process.",
+            "prerequisites": "successful completion of the first two years of medical school",
+            "credit_hours": "8",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6039",
+            "course_name": "SCC Vascular Surgery Selective",
+            "course_description": "The 4th year vascular surgery student will function similar to a \"junior house officer\" and be actively involved in the diagnosis and management of vascular disorders. They will work in the clinics, participate in ward rounds, teaching conferences, and will be a full member of the vascular team in and out of the operating room.",
+            "prerequisites": "Fourth Year Medical Student. Successful completion of 5 of the 7 core clerkships. One of the 5 must be the Surgery Clerkship. SURGRY 6006, 6016, 6026, or 6106",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6106",
+            "course_name": "Remediation Surgery Clerkship",
+            "course_description": "Enrolled students are those who received an unsatisfactory grade in a Surgery Clerkship at any Mizzou Med location or site. This course gives the student an opportunity to rectify their deficiency.",
+            "prerequisites": "SURGRY 6006 Surgery Clerkship, received unsatisfactory grade",
+            "credit_hours": "8",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6383",
+            "course_name": "ABS Surgery Research",
+            "course_description": "ABS Surgery Research",
+            "prerequisites": "None Listed",
+            "credit_hours": "5-10",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6385",
+            "course_name": "ABS Surgery Research and Review",
+            "course_description": "ABS Surgery Research and Review",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6655",
+            "course_name": "Surgical Off-Site Elective",
+            "course_description": "Surgical Off-Site Elective",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6658",
+            "course_name": "Burn Unit",
+            "course_description": "Burn Unit",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6661",
+            "course_name": "Surgery Research Elective",
+            "course_description": "Surgery Research Elective",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6671",
+            "course_name": "Oncology Multidisciplinary",
+            "course_description": "Oncology Multidisciplinary",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6672",
+            "course_name": "Neuro-Oncology/Radiosurgery",
+            "course_description": "Neuro-Oncology/Radiosurgery",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6686",
+            "course_name": "Neurosurgery B",
+            "course_description": "Neurosurgery B",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6687",
+            "course_name": "Advanced Neurosurgery",
+            "course_description": "Advanced Neurosurgery",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6688",
+            "course_name": "Orthopaedic Surgery Reserach Elective",
+            "course_description": "Student will identify interest in surgical clinical research and other topical areas of orthopaedic surgery.  The research will define concepts relevant to the practice of orthopaedic surgery.  The student will engage in self-directed learning and evaluation of new information.",
+            "prerequisites": "SURGRY 6006; level M4",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6759",
+            "course_name": "General Surgery Externship - Rural",
+            "course_description": "General Surgery Externship - Rural",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6770",
+            "course_name": "Surgery Rural Elective",
+            "course_description": "The 4th year surgery student will function as a surgical extern and be integrated into the pre-operative, operative, and post-operative care of surgical patients.  The student will function as surgical extern with close supervision and one-on-one instruction.",
+            "prerequisites": "SURGRY 6002 and SURGRY 6006",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6774",
+            "course_name": "Otolaryngology - Rural",
+            "course_description": "Otolaryngology - Rural",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6780",
+            "course_name": "Urology - Rural",
+            "course_description": "Urology - Rural",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6781",
+            "course_name": "Orthopaedic Surgery A - Rural",
+            "course_description": "Orthopaedic Surgery A - Rural",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6860",
+            "course_name": "EMERGENCY MEDICINE",
+            "course_description": "EMERGENCY MEDICINE",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6926",
+            "course_name": "Ambulatory Otolaryngology",
+            "course_description": "The student will recognize all subspecialty areas included on this rotation: facial trauma, otology/neurotology, head and neck surgical oncology, facial plastic surgery, sinus surgery, pediatric ENT, laryngology and allergy. The student will be exposed to a broad spectrum of patients (adult and pediatric) in both procedural and clinical settings. Students will demonstrate improved technical skills during the 2 week rotation.",
+            "prerequisites": "successful completion of the first two years of medical school",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6938",
+            "course_name": "SCC Urology Two Week Elective",
+            "course_description": "Students will work under the supervision of a faculty preceptor at the Springfield Clinical Campus. Students will see patients in the outpatient clinic and/or inpatient hospital setting, perform a history and physical exam, and develop a patient-centered assessment and plan. They will discuss their findings, assessment and plan with the faculty preceptor and see the patient together. The student will complete oral patient presentations and document patient encounters in the medical record as directed by the faculty preceptor. Students will gain significant exposure to the Urologic operating room environment and procedural treatments, including open, laparoscopic, robotic, and endoscopic procedures.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6944",
+            "course_name": "SCC Vascular Surgery 2-week",
+            "course_description": "This course is intended as an introduction to the specialty of vascular surgery. The vascular surgery student will be actively involved in the diagnosis and management of vascular disorders. They will work in the clinics, participate in ward rounds, teaching conferences, and will be a full member of the vascular team in and out of the operating room.",
+            "prerequisites": "Successful completion of the Surgery Clerkship",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6955",
+            "course_name": "Ambulatory ENT/Urology",
+            "course_description": "Goals/Objectives:  This elective will offer students an exposure to ambulatory care in urology and otolaryngology. Students will see a broad range of patients and numerous outpatient procedures. Students will have close supervision during this experience. Both services have a combined outpatient population of 24,000 visits per year. Students will be exposed to numerous situations they would face in a primary care office. Clinic is offered five days per week by each service. Observation in the O.R. is available and attendance at teaching conferences is required.  There will be a written exam given at the completion of the 2 weeks of ENT.",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6957",
+            "course_name": "Cardiothoracic Surgery",
+            "course_description": "Cardiothoracic Surgery",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6958",
+            "course_name": "Surgical off-Site Selective",
+            "course_description": "Surgical off-Site Selective",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6959",
+            "course_name": "General Surgery Externship",
+            "course_description": "Goals/Objectives:    1.   Provide the student with ability to function as a first year general surgery house officer with close supervision and one-on-one instruction.     2.  Become familiar with pre-operative, operative, and post-operative care of general surgical patients.     3.  Become familiar with the graded responsibility structure necessary to ethically conduct post-graduate surgical residency training.      4.  Develop bedside patient care skills.     5.  Develop reading and clinical research skills necessary for contemporary surgical care.",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6971",
+            "course_name": "Surgical Critical Care",
+            "course_description": "The Surgical Critical Care student will acquire a broad exposure to assessment and management of critically ill and injured patients. The student will participate in daily rounds and patient care with the Surgical Critical Care service. Students will become an active member of the multidisciplinary ICU team and remain under the close supervision of Acute Care Surgery Faculty and Residents. Participation with the members of the multidisciplinary critical care team creates an excellent practical learning environment, while didactic conferences/case presentations compliment the experience.",
+            "prerequisites": "Surgery Clerkship",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6972",
+            "course_name": "Surgical Oncology",
+            "course_description": "Surgical Oncology",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6973",
+            "course_name": "Head and Neck Surgical Oncology",
+            "course_description": "Head and Neck Surgical Oncology",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6974",
+            "course_name": "Otolaryngology",
+            "course_description": "Goals/Objectives:  The Otolaryngology student rotation offers learning through participation in daily care of patients, case discussion in conferences, and didactic conferences.  All subspecialty areas are included on this rotation, including facial trauma, otology, neurotology, head and neck surgical oncology, facial reconstruction, sinus surgery, pediatric ENT and allergy.  Significant outpatient experience is provided and the extent of operating room participation to the student's needs and preferences.  The student sees a full spectrum of patients (adult and pediatric) at the University and the VA.  The student sees and learns about a variety of outpatient problems during the outpatient segment of this rotation.  A wide variety of surgical procedures are observed in the operating room.  The residents and faculty encourage an individually tailored learning experience for the student.  Supplemental texts and other teaching aids are encouraged.  Clinical research projects are available for interested and committed students.",
+            "prerequisites": "Surgery Clerkship",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6975",
+            "course_name": "Pediatric Surgery",
+            "course_description": "Goals/Objectives:  To gain a working knowledge of a) diagnosis, b)preoperative care, c) surgery, and d) postoperative care of the  1) congenital  2) traumatic 3) oncologic and  4) common surgical conditions affecting infants and children.   This rotation is designed for the student planning a career that includes the care of infants and children.   CURRICULUM:  Attendance on daily rounds and participation in pediatric surgery clinic are mandatory. The student should also be present in radiology for all inpatient and outpatient contrast studies on surgical patients and consults.  Operating room exposure can be individualized; the student is expected to be present, but not necessarily scrubbed, for the key portion of each case.   Pediatric Surgical texts can be found in the Medical Library under RD 137, in the Pediatric or Surgery libraries, in the bookstore. Rowe - Essentials of Pediatric Surgery, Holder - Pediatric Surgery, Welch - Pediatric Surgery (4th ed.), Coran - Surgery of the Neonate.",
+            "prerequisites": "Surgery Clerkship",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6976",
+            "course_name": "Plastic Surgery",
+            "course_description": "Goals/Objectives:  The plastic surgery student rotation is considered \"hands on\" experience for the student rotating in the division of plastic surgery. This is a busy rotation with good opportunity for clinical exposure. The patient population includes all subspecialty areas of plastic surgery including hand and microsurgery, head and neck cancer surgery, congenital deformities, burns, facial trauma, and major reconstruction, as well as cosmetic surgery. On this rotation, the student is expected to have an in-depth opportunity to learn, practice, and hone surgical suturing techniques and to first or second assist on many major surgical procedures. The graphic specialty of plastic surgery is best appreciated by participation and observation and there will be ample opportunity for this.    In addition to the ward and major operating room duties, the student will obtain ambulatory patient care exposure by participating in the clinics, in the evaluation of new patients, and the after care of surgery patients. In addition, a significant percentage of the surgery is done as an outpatient and the student should have the opportunity to gain appreciation of the nuances of surgery done in the ambulatory environment. Incumbent to these considerations are exposure and appreciation of cost containment in plastic surgical procedures.",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6977",
+            "course_name": "Acute Care Surgery",
+            "course_description": "Students will participate in patient care, gather pertinent patient data, and develop plans of care for the patients on the surgery service. Case presentations will be given to the surgical team each day. Night and weekend call should be expected.",
+            "prerequisites": "Surgery and Internal Medicine Clerkship",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6979",
+            "course_name": "Vascular Surgery",
+            "course_description": "Vascular Surgery",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6980",
+            "course_name": "Urology",
+            "course_description": "The goal of the rotation is to provide a comprehensive urologic experience for those students who may be interested in Urology as a career as well as those students who simply want a more in-depth experience before pursuing another specialty.  At the conclusion of the rotation, the student will be able to competently manage common urologic conditions such as hematuria, incontinence, and erectile dysfunction and recognize those patients who need referral to a specialist.  To accomplish this, emphasis is placed on the management of both outpatients and inpatients.  Active participation in the operating room is expected and the student will assist in a wide variety of urologic procedures.  Students will also participate in outpatient procedures such as cystoscopy and vasectomy.  Basically, the student will function as an extern on the University Urologic Service with appropriate patient care responsibilities.",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6981",
+            "course_name": "Orthopaedic Surgery Sub-Internship",
+            "course_description": "Goals/Objectives:  Rotation for students actively interested (more aggressive) students in orthopaedics as a career. Emphasis will be placed on surgical indications, operative technique and post-operative care of orthopaedic patients. The student will be assigned by Ortho faculty to two different orthopaedic teams (sports medicine, foot and ankle, total joint, general, pediatrics, trauma, and hand) for two weeks at a time.   Each student would be given an extensive reading schedule, a list of topics to be covered, given a written or oral examination including both services emphasized at the end of block.  Brief oral presentation, to the residency or service on which they are working, on orthopaedic subject of choice pertaining to Ortho service/residency assigned.       CURRICULUM: The student will spend two weeks on two different university teams during this rotation. The student will be expected to participate in all aspects of the orthopaedics services they are assigned. This will include outpatient clinics, elective and emergent OR time, routine day-to-day care of patients on the orthopaedic service, and consultations. The student will take four nights of call with the Ortho residents assigned to service.  The student will be evaluated by the attending and residents on the two services to which they have been assigned.",
+            "prerequisites": "Surgery Clerkship",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6982",
+            "course_name": "Introdution to Orthopaedic Surgery",
+            "course_description": "Goals/Objectives:  Rotations for students interested in a career in primary care.  The student will learn physical diagnosis and outpatient as well as surgical treatment of common orthopedic conditions.  Each student will be given a list of topics that will be covered, a reading list to which the student would be obligated to read and given a short written and/or oral examination of the musculoskeletal system emphasized.  Brief oral presentation, to the residency or service on which they are working, on an orthopedic subject of choice pertaining to Ortho sevice/residency assigned.  The student will be assigned for the four weeks by Ortho Faculty to a preceptor from one of the following areas: sports medicine, foot and ankle, total joint, general, pediatrics, trauma or hand.    CURRICULUM:  The student on this rotation will be expected to learn to diagnose and manage commonly seen orthopedic conditions in the assigned orthopedic area.  The student will participate in outpatient clinics, OR cases, rounds and conferences.  The student will take two call nights with the Ortho Resident assigned to service.  Basic techniques of splinting and cast application will be learned by sessions with the orthopedic cast technician.",
+            "prerequisites": "Surgery Clerkship",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6983",
+            "course_name": "Advanced Orthopaedic Surgery",
+            "course_description": "Advanced Orthopaedic Surgery",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6985",
+            "course_name": "Neurosurgery A",
+            "course_description": "Goals/Objectives:  This course will provide the conscientious student an opportunity to acquire the following:   1. The ability to perform comprehensive neurological evaluation of the patient including both history taking and physical examination. This will entail a review of basic neuroanatomy and neurophysiology and a correlation of that information with the requirements of clinical medicine.   2.  A basic understanding of neurosurgical diseases and their evaluation and management. Of particular importance will be the emphasis placed upon the initial evaluation of patients with central and peripheral nervous system trauma and neoplasms, cerebrovascular disease, congenital diseases of the nervous system, pain problems, diseases of the spine and lumbar discs.   CURRICULUM:  In order to direct the objectives of this course, students will be exposed to the following:   1.  Individualized teaching sessions with the faculty.   2.  Combined conferences with neurology, neuroradiology and neuropathology.   3.  Outpatient clinics at the UMHSC and EFCC (Ellis Fischel).   4.  The inpatient services of neurosurgery at UMHSC.   5.  The operating room at UMHSC.  Evaluations:  The progress of the student will be evaluated through personal interaction with the faculty and residents and through an oral examination at the end of the course.",
+            "prerequisites": "Surgery Clerkship",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6986",
+            "course_name": "Bariatric Surgery",
+            "course_description": "Bariatric Surgery",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6988",
+            "course_name": "Critical Care Neurosurgery",
+            "course_description": "Goals/Objectives:  The student will gain experience with the clinical evaluation of patients with critical care neurosurgical problems such as head trauma, subarachnoid hemorrhage, and spinal cord injury. The student will perform neurologic assessments, evaluate laboratory data and participate in the decision making on patients with these disorders.   CURRICULUM:  1.  Daily inpatient rounds in the MNICU, SICU and CCU on the neurosurgical patients.   2.  Individualized teaching with faculty.   3.  Conferences: Neurosurgery Grand Rounds, Neuro-radiology, Neuro-pathology, Neuroscience.  Evaluations:  By interactions with faculty and residents and oral examination at the end of the rotation.",
+            "prerequisites": "Surgery Clerkship",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SURGRY 6989",
+            "course_name": "Pediatric Neurosurgery",
+            "course_description": "Goals/Objectives:  To provide interested students the opportunity to acquire exposure and knowledge in the field of pediatric neurosurgery. This elective will allow the student to learn about clinical entities such as craniofacial anomalies, hydrocephalus, neuroendoscopy, congenital and central nervous system anomalies, and trauma of the CNS. The student becomes part of a team and closely interacts with the attending physician, neurosurgery residents, and clinical nurse specialist.   CURRICULUM:  1.  Daily inpatient rounds.   2.  Individualized teaching with faculty.   3.  Clinics: Chiari and Pediatric Neurosurgery.   4.  Conferences: Neurosurgery Grand Rounds, Neuro-radiology, Neuro-pathology, Neuroscience. ",
+            "prerequisites": "  Surgery Clerkship",
+            "credit_hours": ": 5",
+            "recommendation": "None Listed"
+        }
+    ]
+}

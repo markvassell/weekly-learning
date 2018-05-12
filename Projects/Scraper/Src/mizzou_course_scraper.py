@@ -100,21 +100,38 @@ def clean_course_description(data):
 
 
 if __name__ == "__main__":
-    all_data = []
     class_list = []
     all_offerings = urlopen('http://catalog.missouri.edu/courseofferings/')
     all_data = bS(all_offerings, 'html.parser')
 
     link_container = all_data.find('div', {'id': 'co_departments'})
-
     department_links = link_container.find_all('a', href=True)
-    print(department_links)
+    #print(department_links)
+    all_data = {}
     for link in department_links:
+
         page = urlopen("http://catalog.missouri.edu/"+link['href'])
 
         page_data = bS(page, 'html.parser')
 
         department_name = get_department_name(page_data)
+        print(department_name)
+        department_info = department_name.split('(')
+        if len(department_info) == 2:
+            department_name = department_info[0]
+            department_code = department_info[1].replace(')', '')
+        else:
+            department_name = department_info[0]
+            department_code = department_info[2].replace(')', '')
+
+
+        #print(department_name)
+        #print(department_code)
+
+        all_data.update({
+                        'department_name' : department_name,
+                        'department_code' : department_code
+        })
 
         # class_list.append('department_name: ' + department_name)
 
@@ -141,8 +158,10 @@ if __name__ == "__main__":
                     "recommendation": class_description[3]
                 }
             )
-
-        with open("../Output/"+department_name+".json", "w+") as outfile:
-            outfile.write(json.dumps(class_list, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))
+        all_data.update({"courses" : class_list})
+        with open("../Output/"+department_code+".json", "w+") as outfile:
+            outfile.write(json.dumps(all_data, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))
 
         class_list = []
+        all_data = {}
+        #print(json.dumps(all_data, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))

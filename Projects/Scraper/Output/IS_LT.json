@@ -1,0 +1,798 @@
+{
+    "department_name": "Information Science And Learning Technologies ",
+    "department_code": "IS_LT",
+    "courses": [
+        {
+            "course_number": "IS_LT 1111",
+            "course_name": "Information Use and Student Success",
+            "course_description": "In this course, students will learn to frame meaningful questions, gain knowledge and skills to succeed academically, understand the structure and content of information resources, evaluate information, and use information resources as genuine learning tools.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 1111H",
+            "course_name": "Information Use and Student Success - Honors",
+            "course_description": "In this course, students will learn to frame meaningful questions, gain knowledge and skills to succeed academically, understand the structure and content of information resources, evaluate information, and use information resources as genuine learning tools.  Honors eligibility required",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4310",
+            "course_name": "Seminar in Information Science and Learning Technologies",
+            "course_description": "Discussion and critical study of current developments in the field of information science and learning technologies.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4356",
+            "course_name": "Interactive Web Design with JavaScript",
+            "course_description": "(cross-leveled with IS_LT 7356). The purpose of this course is to provide students with opportunities to explore, use, and synthesize various JavaScript frameworks, user interface and visualization libraries, and plugins while creating interactive user experiences with html5, JavaScript animation, and mobile platforms. The course will cover topics like interactive photo galleries, mobile Web design, animation, user interactivity, jQuery, and development environments.",
+            "prerequisites": "IS_LT 4370",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4360",
+            "course_name": "Introduction to Web Development",
+            "course_description": "Basic web design and HTML. Covers file transfer and UNIX/LINUX servers management. Develops understanding of web graphic formats. Emphasizes user interface, navigation, and instructional design in building web sites. Online. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4361",
+            "course_name": "Introduction to Digital Media",
+            "course_description": "(cross-leveled with IS_LT 7361). Hands-on approach to multimedia production techniques. Develops understanding of technical and conceptual tools for the basics of digital media, video editing, still image and audio file manipulation. Students create web portfolio to present their digital products. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4364",
+            "course_name": "Flash Authoring",
+            "course_description": "Teaches skills required to plan, develop and evaluate a multimedia project using digital authoring software. Emphasizes instructional design and user interface issues. Course is production-based. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4370",
+            "course_name": "Intermediate Web Development",
+            "course_description": "(cross-leveled with IS_LT 7370). Development of design and web authoring skills. Topics include CSS, HTML, web interactivity through the use of JavaScript, Dreamweaver and usability practices. Upon completion, students will be ready to create high-impact and highly functional web pages.",
+            "prerequisites": "IS_LT 4360 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4371",
+            "course_name": "Exploring Sakai",
+            "course_description": "(cross-leveled with IS_LT 7371).  This course will prepare students to work within the Sakai Learning Management System (LMS) to set up and manage an online course. Students in this course will investigate and manipulate components of Sakai from an instructor's perspective. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4372",
+            "course_name": "Exploring Blackboard",
+            "course_description": "(cross-leveled with IS_LT 7372). This course will prepare students to work within the Blackboard (BB) Learning Management System (LMS) to set up and manage an online course. Students in the course will investigate and manipulate components of Blackboard from an instructor's perspective. Graded on A-F basis.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4373",
+            "course_name": "Exploring Moodle",
+            "course_description": "(cross-leveled with IS_LT 7373).  This course will prepare students to work within the Moodle Learning Management System (LMS) to set up and manage an online course. Students in the course will investigate and manipulate components of Moodle from an instructor's perspective. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4374",
+            "course_name": "Exploring Canvas",
+            "course_description": "(cross-leveled with IS_LT 7374). This course will prepare students to work within the Canvas Learning Management System (LMS) to set up and manage an online course. Students will investigate and manipulate components of Canvas from an instructor's perspective. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4375",
+            "course_name": "Mobile Web App Development",
+            "course_description": "(cross-leveled with IS_LT 7375). The purpose of this course is to provide students with knowledge necessary to create a mobile app with basic functions using HTML 5, JavaScript, and CSS3. Through this course, students will obtain knowledge of mobile web app development including both design and development phases. Upon the completion of this course, students will produce a mobile web app that can be operated via a mobile device. Graded on A-F basis only.     Recommended: Students must be able to hand code: html, Styling and positioning web pages using CSS & JavaScript, and JavaScript basic functions.",
+            "prerequisites": "IS_LT 4370 or permission of instructor",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4384",
+            "course_name": "Designing Games for Learning",
+            "course_description": "(cross-leveled with IS_LT 7384). Learn why games can be useful in learning and how to design them. Play some exemplary games that will help you understand the mechanics of game design and work incrementally towards designing and developing your own educational game prototype via game modifications (\"mods\"), engaging in gaming communities, evaluating existing games, building learning plans using games and learning the basics of a simple gaming shell language. Graded on A-F basis only.",
+            "prerequisites": "Junior or senior standing required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 4467",
+            "course_name": "Technology to Enhance Learning",
+            "course_description": "This course is designed for undergraduates in the teacher education program. Emphasis is placed on strategies for integrating technology into the teaching and learning process, with a focus on enhancing how students think rather than what they think. Special attention given to supporting higher order thinking and problem solving with technology. Graded on A-F basis only.",
+            "prerequisites": "Consent required (students must be admitted to College of Education's Teacher Education program)",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7301",
+            "course_name": "Introduction to Information Technology",
+            "course_description": "The nature of information and information transfer in the institutional setting; covers the culture of information in society, standards for information processing and transfer, and networking in communications perspectives of information providing agencies.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7302",
+            "course_name": "Organization of Information",
+            "course_description": "An overview of the research that addresses information-seeking behavior and the history, background, and development of catalogs and indexes.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7305",
+            "course_name": "Foundations of Library and Information Science",
+            "course_description": "An introduction to the background, contexts, organizations, issues, ethics, values, and terms of information science, the information professions, and the library as an idea, space, institution, and repository of the cultural record.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7310",
+            "course_name": "Seminar in Information Science and Learning Technology",
+            "course_description": "Discussion and critical study of current developments in the field of information science and learning technologies.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7312",
+            "course_name": "Principles of Cataloging and Classification",
+            "course_description": "Theory and practice of cataloging and classification of library materials using current standards and tools.  Principles, developments, and trends in cataloging and access to library data.",
+            "prerequisites": "IS_LT 7305",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7313",
+            "course_name": "Collection and Access Management",
+            "course_description": "Selection of materials for libraries and information agencies, policies for collection management, freedom and diversity of information, access to information and evaluation of collections and access.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7314",
+            "course_name": "Reference Sources and Services",
+            "course_description": "General reference sources with emphasis on print sources. principles, developments and trends in reference services and reference service organization.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7315",
+            "course_name": "Management of Information Agencies",
+            "course_description": "Concepts of management applied to libraries and information systems; management tools, programming, models and simulation in an environment of an information producing or disseminating agency.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7320",
+            "course_name": "Emerging Technologies in Libraries",
+            "course_description": "Critically examines web technologies, devices, and methods used to access collections and services, promote social interaction, and facilitate communication. Focuses on new and emerging software, resources, and communication methods including their discovery and implementation. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7334",
+            "course_name": "Library Information Systems",
+            "course_description": "Focuses on the automated library systems marketplace. Covers integrated online library systems from the systems, functional and user perspective. Includes management approaches for procurement and operation of such systems.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7356",
+            "course_name": "Interactive Web Design with JavaScript",
+            "course_description": "(cross-leveled with IS_LT 4356). The purpose of this course is to provide students with opportunities to explore, use, and synthesize various JavaScript frameworks, user interface and visualization libraries, and plugins while creating interactive user experiences with html5, JavaScript animation, and mobile platforms. The course will cover topics like interactive photo galleries, mobile Web design, animation, user interactivity, jQuery, and development environments.",
+            "prerequisites": "IS_LT 4370 or IS_LT 7370",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7357",
+            "course_name": "Web Application Development I",
+            "course_description": "Students learn to develop Web applications to support online learning and collaboration using ASP.Net, PHP, or Java.  In this course students will learn fundamental Web programming principles and develop web applications.  Specific concepts taught in this course include: reading and writing files to a server, interacting with users through web forms, storing and retrieving data in relational databases (MS SQL, MySQL, or Oracle), objected-oriented programming, and web application security.",
+            "prerequisites": "Intermediate Web Development",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7358",
+            "course_name": "Web Application Development II",
+            "course_description": "Building on Web Application Development I, this course covers advanced Web programming techniques and focuses on developing Web-based learning applications.  With intensive programming, students will analyze and learn how the applications in existing learning environments operate and interact, and then develop learning applications of their own.  Specific concepts covered in this course include task analysis, algorithms, APIs, user rights and permissions, data integrity, flexible design, code documentation, Web Services, Web for mobile handheld devices or Ajax.",
+            "prerequisites": "Web Application Development I",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7360",
+            "course_name": "Introduction to Web Development",
+            "course_description": "Basic web design and HTML. Covers file transfer and UNIX/LINUX servers management. Develops understanding of web graphic formats. Emphasizes user interface, navigation, and instructional design in building web sites. Online. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7361",
+            "course_name": "Introduction to Digital Media",
+            "course_description": "(cross-leveled with IS_LT 4361). Hands-on approach to multimedia production techniques. Develops understanding of technical and conceptual tools for the basics of digital media, video editing, still image and audio file manipulation. Students create web portfolio to present their digital products.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7364",
+            "course_name": "Flash Authoring",
+            "course_description": "Plan, develop, and evaluate a multimedia project using digital authoring software (Macromedia Flash).  Emphasizes scripting and user interface issues for web-based animations.  Course is production-based. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7366",
+            "course_name": "Technology Leadership in Schools",
+            "course_description": "Develop skills, knowledge, and values needed to provide leadership in schools. Analyzes characteristics of effective leaders, focusing on staff development. Explores technology and school reform, technology integration, and current issues. Online. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7368",
+            "course_name": "Technology Across the Curriculum",
+            "course_description": "The emphasis in this course is on using technologies to enhance and support student collaboration and learning in K-23 classrooms.",
+            "prerequisites": "admission to the Teaching Fellowship Program",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7370",
+            "course_name": "Intermediate Web Development",
+            "course_description": "(cross-leveled with IS_LT 4370). Development of design and web authoring skills. Topics include CSS, HTML, web interactivity through the use of JavaScript, Dreamweaver and usability practices. Upon completion, students will be ready to create high-impact and highly functional web pages.",
+            "prerequisites": "IS_LT 7360 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7371",
+            "course_name": "Exploring Sakai",
+            "course_description": "(cross-leveled with IS_LT 4371). This course will prepare you to work within the Sakai Learning Management System (LMS) to set up and manage an online course.  As a student in this course you will investigate and manipulate components of Sakai from an instructor's perspective.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7372",
+            "course_name": "Exploring Blackboard",
+            "course_description": "(cross-leveled with IS_LT 4372). This course will prepare you to work within the Blackboard Learning Management System (LMS) to set up and manage on online course.  As a student in the course, you will investigate and manipulate components of Blackboard from an instructor's perspective.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7373",
+            "course_name": "Exploring Moodle",
+            "course_description": "(cross-leveled with IS_LT 4373). This course will prepare you to work within the Moodle Learning Management System (LMS) to set up and manage an online course.  As a student in this course, you will investigate and manipulate components of Moodle from an instructor's perspective.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7374",
+            "course_name": "Exploring Canvas",
+            "course_description": "(cross-leveled with IS_LT 4374). This course will prepare students to work within the Canvas Learning Management System (LMS) to set up and manage an online course. Students will investigate and manipulate components of Canvas from an instructor's perspective. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7375",
+            "course_name": "Mobile Web App Development",
+            "course_description": "(cross-leveled with IS_LT 4375). The purpose of this course is to provide students with knowledge necessary to create a mobile app with basic functions using HTML 5, JavaScript, and CSS3. Through this course, students will obtain knowledge of mobile web app development including both design and development phases. Upon the completion of this course, students will produce a mobile web app that can be operated via a mobile device. Graded on A-F basis only.     Recommended: Students must be able to hand code: html, Styling and positioning web pages using CSS & JavaScript, and JavaScript basic functions.",
+            "prerequisites": "IS_LT 4370 or IS_LT 7370 or permission of instructor",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7378",
+            "course_name": "Electronic Portfolio Development",
+            "course_description": "This course provides an overview of electronic portfolio development. Students will select, categorize and document their accomplishments in the Technology in Schools emphasis area for review and assessment. Students will demonstrate mastery of the ISTE Standards and commitment to ongoing learning. Web development skills are required.",
+            "prerequisites": "Restricted to students admitted into the Technology in Schools emphasis",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7380",
+            "course_name": "School Library Practicum",
+            "course_description": "Directed, project-based experience in school libraries.",
+            "prerequisites": "admission to MA, initial certification or 24 completed LIS credit hours taken at MU; instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7381",
+            "course_name": "Practicum in Information Agencies",
+            "course_description": "Provides a supervised work experience for master's degree students in a public, academic, or special library. Graded on S/U basis only.",
+            "prerequisites": "IS_LT 7301, IS_LT 7302 or IS_LT 7312, IS_LT 7314, IS_LT 7315",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7383",
+            "course_name": "Rapid Development Tools for Online Learning",
+            "course_description": "Students will apply principles of rapid development and use rapid development tools to create a prototype of an e-learning module that uses technology features that can enhance learning (e.g. learner interactions). Specific competencies include: Storyboard and \"rapidly\" develop an e-learning module using software designed to support this process; Use software tools that develop specific elements of e-learning (e.g. video, animation, gaming), and incorporate those elements into an e-learning module; Evaluate rapidly developed e-learning products; Compare and contrast features of rapid development software packages. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 7384",
+            "course_name": "Designing Games for Learning",
+            "course_description": "(cross-leveled with IS_LT 4384). Learn why games can be useful in learning and how to design them.  Play some exemplary games that will help you understand the mechanics of game design and work incrementally towards designing and developing your own educational game prototype via game modifications (\"mods\"), engaging in gaming communities, evaluating existing games, building learning plans using games and learning the basics of a simple gaming shell language.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9085",
+            "course_name": "Problems in Information Science and Learning Technology",
+            "course_description": "Independent, directed study on a topic in the areas of information science and learning technologies.",
+            "prerequisites": "departmental consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9090",
+            "course_name": "Research in Information Science and Learning Technologies",
+            "course_description": "Dissertation research. Graded on S/U basis only.",
+            "prerequisites": "Doctoral Committee Chair's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9407",
+            "course_name": "Intellectual Freedom and Its Discontents",
+            "course_description": "The course examines principles and contradictions of intellectual freedom and their relation to librarianship. The nature of free speech, the First Amendment, sources of censorship, and professional disputes about intellectual freedom practice in libraries will be important topics.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9408",
+            "course_name": "Information Policy",
+            "course_description": "Examination of the roles of private and public sectors in information policy formation. Includes consideration of social, economic, political and technological issues.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9409",
+            "course_name": "Seminar in Digital Libraries",
+            "course_description": "This course is a project-based learning environment that combines Instructor-prepared content, group-based student projects, and threaded asynchronous discussions on selected topics relating to the design, development, and implementation of practical digital libraries. Research directives within the broad domain of digital library development are also covered.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9410",
+            "course_name": "Seminar in Information Science and Learning Technology",
+            "course_description": "Discussion and critical study of current developments in information science and learning technologies.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9411",
+            "course_name": "Doctoral Seminar in Information Science and Learning Technologies",
+            "course_description": "Discussion and critical study of current developments in information science and learning technologies. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9412",
+            "course_name": "Information Storage and Retrieval",
+            "course_description": "Introduces students to concepts and terminology associated with the storage and retrieval of bibliographic information. Emphasizes design of applied database management systems.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9413",
+            "course_name": "Electronic Resource Management",
+            "course_description": "This course explores electronic resources (primarily subscription journals and databases) in terms of products, pricing, in-house management of resources, both technical and organizational, licensing, configuring databases and organizing websites for the end user, statistical reporting, and future trends.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9417",
+            "course_name": "Technology Action Research",
+            "course_description": "Study of concepts associated with action research; and the processes and procedures for conducting action research.  Culminating project is the development of an action research project.",
+            "prerequisites": "12 credit hours completed prior to enrolling",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9419",
+            "course_name": "American Library History",
+            "course_description": "Students in this course will learn about the history of libraries in America, reading about and analyzing the political, cultural, and social roles of particular libraries and the library as in institution. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9420",
+            "course_name": "Scholarly Communication",
+            "course_description": "Exploration of the production and communication of information and knowledge in the disciplines.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9421",
+            "course_name": "Usability of Information Systems and Services",
+            "course_description": "Introduction to concepts and methods of usability testing and research and user-centered design strategy. Course takes a process approach to define target audiences and usability problems, create and administer investigative procedures, analyze results, and report findings effectively. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9423",
+            "course_name": "Ethics, Data, and Information",
+            "course_description": "Critical inquiry into perennial and emerging issues in the ethics of data and information.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9427",
+            "course_name": "Social Constructs of Information",
+            "course_description": "This course focuses on information as it is used, and defined, by society. The primary lens, or theoretical background, used in this investigation is the notion of \"cultural hegemony,\" proposed by Antonio Gramsci. We will study the complex relationship between information and society, looking at how each is a reflection and shaper of the other. The relationship of libraries and other information agencies to the state, and the role of information professionals in the political and cultural spheres are central themes in the course. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9428",
+            "course_name": "History of Books and Media",
+            "course_description": "Examines the history and philosophy of books and media from the beginnings of writing to the Internet, emphasizing the effects of changes in communication and information technologies. The focus is on the social, cultural, intellectual, scientific, and religious impacts of shifts in the media for preserving and transmitting information. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9429",
+            "course_name": "Metadata",
+            "course_description": "Explores principles, standards, and schema for metadata in diverse online environments to facilitate information retrieval and use. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9431",
+            "course_name": "Children's Library Materials",
+            "course_description": "Evaluation and selection of materials for children birth-age 13 (Grade 6).  Early literacy, emergent readers, reader response theory; social, cultural contexts of readers and reading, trends in publishing.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9432",
+            "course_name": "Online Searching",
+            "course_description": "Search strategies and techniques for commercial online databases.  The course first covers the basic concepts of online information retrieval and then focuses on selection and online searching in the most prominent social science, science, humanities, and numerical databases.",
+            "prerequisites": "IS_LT 4301 or IS_LT 7301 and IS_LT 4314 OR IS_LT 7314",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9433",
+            "course_name": "Youth Services in Libraries",
+            "course_description": "Examines physical, mental, and emotional development of youth birth through high school.  Emphasis on community analysis, outreach services, program design and techniques.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9434",
+            "course_name": "Teen Library Materials",
+            "course_description": "Evaluation, selection of print, alternate formats for teens, 13-18 (Grades 7-12).  Personal, social, popular culture contexts of teen readers and texts; emphasizes reader response; challenges common assumptions about teens and reading.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9435",
+            "course_name": "Adult Services in Libraries",
+            "course_description": "Library services to adults, including special populations. Emphasis on information needs of adults, organization and management of adult services.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9437",
+            "course_name": "Reader Advisory Services",
+            "course_description": "Examination of value and role of leisure reading and leisure reading materials.  Coverage of reader advisory techniques, support processes, and resources for providing reader advisory services to various audiences.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9438",
+            "course_name": "Marketing and Libraries",
+            "course_description": "This course provides an introduction to marketing - concepts, planning, strategies and evaluation - as related to libraries and information agencies. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9439",
+            "course_name": "Digital Humanities and Information",
+            "course_description": "This course on history, philosophy, and methods in the emerging field of 'digital humanities' focuses on topics at the nexus of information, the humanities disciplines, technology, and culture, as well as the contexts of the academy, libraries/archives, museums, and media. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9440",
+            "course_name": "Learning with Web-based Technologies",
+            "course_description": "Explores the potential of the Internet to support inquiry-based learning through collaborative activities, research, and authoring/publishing. Investigates goals and methods of online learning. Examines learning theories and models of teaching/learning in relation to selected Internet activities for K-12, undergraduate students and learners in other fields outside education (e.g., work placed learning, non-formal learning).",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9443",
+            "course_name": "The Academic Library",
+            "course_description": "Development, objectives, organization and structure, nature of the collections and responsibility for their development, philosophy of library services, measurement and standards of library effectiveness.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9444",
+            "course_name": "The Public Library",
+            "course_description": "An overview of public library history, missions, and societal roles.  Includes public library funding, organization, and management.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9445",
+            "course_name": "Special Libraries and Information Centers",
+            "course_description": "Goals of special librarianship including information provision, management styles. Library functions as performed in special libraries. Contributions of special libraries, such as information analysis centers, information brokering, and accountability for and evaluation of services.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9446",
+            "course_name": "International and Comparative Librarianship",
+            "course_description": "International libraries, intercultural information concerns, how information agencies differ between nations and global information issues. Course presents various countries, their information infrastructures and the influence of information and communication technologies.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9447",
+            "course_name": "Human Centered Design",
+            "course_description": "This course provides an overview to the Human Computer Interaction (HCI) field while focusing on the use and adaptation of existing HCI theories and research to a range of interface design problems. The course points the way to acquiring continuing information on the field and also provides groundwork for understanding future applied research papers in the field. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9449",
+            "course_name": "Services for Business Communities and Entrepreneurs",
+            "course_description": "The course covers the introduction to and application of basic concepts of business information in academic, public and special library environments, and the information searching techniques used for specific business information needs (finding company information, industry information, investment information, statistical information, marketing information, etc.) Course includes service to entrepreneurs. Content covers company, investment, industry, statistical and marketing information and includes use of GIS systems.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9450",
+            "course_name": "Introduction to Research in Library and Information Science",
+            "course_description": "Examination of the nature, utility, and methodologies of research in the profession.  Emphasis is on understanding and evaluating potential and actual research.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9452",
+            "course_name": "Information Literacy and Instruction",
+            "course_description": "This course is designed to prepare Library Science students/Information professionals for the variety of teaching situations they will encounter in library and information agency settings. Students will consider learning theory applicable to library instruction, learning styles, teaching methods, and appropriate evaluation of library instruction. Students will also learn strategies for incorporating library instruction into the institutional curriculum.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9453",
+            "course_name": "Planning and Evaluation of Information Services",
+            "course_description": "The course focuses on the complexity of the planning process in libraries and other information agencies, including the influence of external environments (upper administrations, user communities, information producers) on planning.  Internal elements of the organization (staffing, services, finances) are discussed, as are external elements (requirements of a parent organization, legal constraints, etc.).  The role of evaluation of personnel, budgets, facilities, access to information, and services is integrated into the process of providing service.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9454",
+            "course_name": "Copyright in Libraries",
+            "course_description": "An introductory and practical course covering the foundations of copyright, fair use, e-reserves, related laws including DMCA and TEACH and managing copyright in the public and school environments.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9455",
+            "course_name": "Formative and Summative Evaluation",
+            "course_description": "Study of the process of gathering data and making judgments about the effectiveness of instructional programs that uses technology.  Covers techniques of a formative evaluation process to revise instruction.  Culminating project is planning and conducting a portion of a summative evaluation of instructional program.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9456",
+            "course_name": "Designing Computer Support for Collaborative Learning",
+            "course_description": "Students will examine the theoretical bases for using collaboration and social interaction as methods for learning, and learn key methods and approaches for designing computer supported collaborative learning.  Graded A-F only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9457",
+            "course_name": "Designing Computer Support for Cooperative Work",
+            "course_description": "Study of the tools and methods of groupware and communities of practice, including their psychological, social and organizational effects.  Students focus on designing and developing improved tools and methods.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9458",
+            "course_name": "Technology and Assessment",
+            "course_description": "Learn how to assess specific types of knowledge, using technology to enhance the process. Topics include use of tools/strategies for data collection to guide instructional decision-making and investigating technologies to improve assessment of student learning.  Emphasis on aligning learning objectives, activities, and assessments and developing performance assessments to measure higher-order thinking. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9461",
+            "course_name": "Interaction Design",
+            "course_description": "Students will learn the basic concepts of interaction design, then focus on usability engineering and prototyping principles to support the design process for learning and performance based technologies.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9466",
+            "course_name": "Learning Analytics",
+            "course_description": "Learning Analytics (LAK) addresses the questions of how people learn together and how computers can participate with and augment that learning. LAK researchers address the socio-technical aspects of how technology mediates learning practices. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9467",
+            "course_name": "Technology to Enhance Learning",
+            "course_description": "Strategies for integrating technology into the teaching and learning process, with a focus on enhancing how students think rather than what they think.  Special attention given to supporting higher order thinking and problem solving with technology.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9468",
+            "course_name": "Learning and Task Analysis",
+            "course_description": "Multiple methods for conducting task analysis for learning to identify learning processes, learning topics, and learning experiences, including procedural, prerequisites, cognitive simulations, case libraries, environmental analysis, and decision making.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9469",
+            "course_name": "Designing Electronic Performance Support Systems",
+            "course_description": "Performance support systems (PSS) are technology systems that support human activity within the complexities of organizational requirements and processes.  Students build competency for designing PSS.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9471",
+            "course_name": "Instructional Systems Design",
+            "course_description": "Develop knowledge and skills related to the systematic design of instruction. Learn to analyze, design, develop, implement, and evaluate learning systems and instruction.  Identify appropriate technologies to support learning and explore alternative models of instructional design.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "course in Curriculum or Instruction"
+        },
+        {
+            "course_number": "IS_LT 9472",
+            "course_name": "Designing and Modeling Systems",
+            "course_description": "Examination of living systems, general systems theory, and the art and practice of the learning organization.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9473",
+            "course_name": "Project Management",
+            "course_description": "This course introduces the learner to the necessary and practical project management concepts and skills that lead to reductions in project cycle time while maintaining control over budget, resources, risk, and delivered value. This course proposes to integrate practical project management skills within the project management lifecycle (i.e., initiating, planning, executing, controlling, and closing).",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9474",
+            "course_name": "Front End Analysis of Systems",
+            "course_description": "Develop skills for systematically analyzing learning, or other types of systems, that need to be improved. Develop data collection instruments (e.g. surveys, observation protocols, interviews); analyze secondary data; analyze tasks or activities in the system, and interpret data to make recommendations for system improvement. Skills will be learned by doing and applying to real systems that need improvement.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9475",
+            "course_name": "Diffusion of Educational Innovations",
+            "course_description": "In-depth analysis of innovation development and adoption processes in educational organizations, including schools, universities, and training centers.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9478",
+            "course_name": "Designing Problem-Based Learning Environments",
+            "course_description": "Based on theories of situated learning, constructivism, everyday cognition, case-based reasoning, and activity theory, students will design and develop a learning environment that engages learners in constructive learning and problem solving with emphasis on assessing higher-order learning.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9480",
+            "course_name": "Internship in Information Science and Learning Technologies",
+            "course_description": "Provides internship experience under supervision in advanced levels of practical experience in Information Science and Learning Technology Research and Teaching. Graded on S/U basis only.",
+            "prerequisites": "School director's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9483",
+            "course_name": "Capstone: Online Educator Emphasis Area",
+            "course_description": "Culminating course for Online Educator emphasis area in Information Science and Learning Technologies  graduate degree. Design/develop/evaluate an online course or rework existing course. Analyze evaluation data from two external reviewers (novice/expert). Write paper describing results and modifications. To be taken during last semester of student's program. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9484",
+            "course_name": "Teaching Online Courses",
+            "course_description": "Learn to be an effective online instructor! Examine issues in teaching and learning online; instructor and student roles; instructional strategies for supporting diverse learners; methods of student assessment; online communication; classroom management; characteristics of online learning management systems. Projects put you in the role of instructor to practice what you learn.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "IS_LT 9485",
+            "course_name": "Designing Online Learning",
+            "course_description": "Online learning is everywhere! This online course will teach you how to leverage existing software tools to design and develop online learning activities in multiple domains that are grounded in sound learning principles. Course will focus on developing online learning for meaningful learning outcomes such as problem solving, building communities, and developing collaboration skills.",
+            "prerequisites": "Instructor consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "department_name": "Nuclear Medicine ",
+    "department_code": "NUCMED",
+    "courses": [
+        {
+            "course_number": "NUCMED 1000",
+            "course_name": "Orientation to Nuclear Medicine",
+            "course_description": "An overview using a series of short rotations through local nuclear medicine departments and a self-directed review of a current text.  Clinical rotations for this course are arranged on an individual basis.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 3255",
+            "course_name": "Orientation to Clinical Practice",
+            "course_description": "This course provides an introductory experience to clinical practice. Must be accepted into Nuclear Medicine Program. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Nuclear Medicine students, junior standing required",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 3256",
+            "course_name": "Clinical Nuclear Medicine I",
+            "course_description": "Introductory clinical course for senior level students. Introduces instrumentation, administration, procedures, and laboratory techniques. Includes supervised clinical participation.",
+            "prerequisites": "NUCMED 3263 and restricted to Nuclear Medicine students only",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 3263",
+            "course_name": "Morphological Correlations in Nuclear Medicine I",
+            "course_description": "Anatomy, physiology, and pathology of the human body as assessed using medicine techniques.  The first of two courses that address current clinical applications of nuclear medicine.",
+            "prerequisites": "NU_ENG 4303; restricted to Nuclear Medicine students only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 3328",
+            "course_name": "Introductory Radiation Biology",
+            "course_description": "(same as BIO_SC 4328, NU_ENG 4328, V_M_S 7328). Concepts of ionizing radiations, their actions on matter through effects on simple chemical systems, biological molecules, cell, organisms, man.",
+            "prerequisites": "junior standing",
+            "credit_hours": "3",
+            "recommendation": "Sciences/Engineering; one course in Biological Sciences and  Physics/Chemistry; or instructor's consent"
+        },
+        {
+            "course_number": "NUCMED 4085",
+            "course_name": "Problems in Nuclear Medicine",
+            "course_description": "Supervised investigation in an aspect of nuclear medicine technology, usually culminating in a written report.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 4232",
+            "course_name": "Clinical In Vitro",
+            "course_description": "Detailed review of current regulations and procedures governing the use of open sources of radioactivity in a nuclear medicine setting.",
+            "prerequisites": "Restricted to Nuclear Medicine students",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 4268",
+            "course_name": "Clinical Nuclear Medicine II",
+            "course_description": "Continuation of clinical series taught in conjunction with NUCMED 3256 and NUCMED 4232. Addresses advanced therapeutic and diagnostic procedures, computer applications, and quality assurance procedures.",
+            "prerequisites": "NUCMED 3256. Restricted to Nuclear Medicine students only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 4268W",
+            "course_name": "Clinical Nuclear Medicine II - Writing Intensive",
+            "course_description": "Continuation of clinical series taught in conjunction with NUCMED 3256 and NUCMED 4232. Addresses advanced therapeutic and diagnostic procedures, computer applications, and quality assurance procedures.",
+            "prerequisites": "NUCMED 3256. Restricted to Nuclear Medicine students only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 4269",
+            "course_name": "Clinical Nuclear Medicine III",
+            "course_description": "Final course in clinical series. Seminar discussion of the areas of professional ethics, current medical-legal considerations, and future nuclear medicine applications.",
+            "prerequisites": "NUCMED 3256. Restricted to Nuclear Medicine students only",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 4299",
+            "course_name": "Morphological Correlations in Nuclear Medicine II",
+            "course_description": "Anatomy, physiology, and pathology of the human body as assessed using nuclear medicine techniques.  The second of two courses that address current clinical applications of nuclear medicine.",
+            "prerequisites": "NUCMED 3263, restricted to Nuclear Medicine students",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 4327",
+            "course_name": "Nuclear Medicine Instrumentation",
+            "course_description": "Radionuclide imaging systems and the use of computers. Topics include Anger camera systems, emission tomography, ultrasound, nuclear magnetic resonance, and bone absorptionmetry.",
+            "prerequisites": "PHYSCS 1220 and MATH 1400, restricted to Nuclear Medicine students",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 4329",
+            "course_name": "Radiopharmaceuticals in Nuclear Medicine",
+            "course_description": "Introduces concepts of radiopharmacy, generator systems, labeling of materials, quality control procedures and FDA regulations concerning radiopharmaceuticals.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "CHEM 1320"
+        },
+        {
+            "course_number": "NUCMED 4330",
+            "course_name": "PET in Nuclear Medicine",
+            "course_description": "Overview of special isotope production techniques for positron emitting agents; instrumentation concerns beyond standard Anger imaging; and image critique and analysis with morphologic correlation.  May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 1210 and NUCMED 4327 or instructor's consent.  Restricted to Nuclear Medicine students only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 4940",
+            "course_name": "Clinical In Vivo I",
+            "course_description": "Practical experience in the clinical setting with imaging procedures performed in nuclear medicine.",
+            "prerequisites": "Restricted to Nuclear Medicine students",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 4941",
+            "course_name": "Clinical In Vivo II",
+            "course_description": "Practical experience in clinical setting with advanced imaging techniques and instrument quality control.",
+            "prerequisites": "NUCMED 4940. Restricted to undergraduate Nuclear Medicine students",
+            "credit_hours": "7",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 7085",
+            "course_name": "Problems in Nuclear Medicine",
+            "course_description": "Supervised investigation in an aspect of nuclear medicine technology, usually culminating in a written report.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 7329",
+            "course_name": "Radiopharmaceuticals in Nuclear Medicine",
+            "course_description": "Introduces concepts of radiopharmacy, generator systems, labeling of materials, quality control procedures and FDA regulations concerning radiopharmaceuticals.",
+            "prerequisites": "CHEM 1320 and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "NUCMED 7330",
+            "course_name": "PET in Nuclear Medicine",
+            "course_description": "Overview of special isotope production in techniques for positron emitting agents; instrumentation concerns beyond standard Anger imaging; and image critique and analysis with morphologic correlation.  May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 1210 and NUCMED 4327 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

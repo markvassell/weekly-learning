@@ -1,0 +1,694 @@
+{
+    "department_name": "Medicine-Interdisciplinary ",
+    "department_code": "MED_ID",
+    "courses": [
+        {
+            "course_number": "MED_ID 5041",
+            "course_name": "Structure and Function of the Human Body I",
+            "course_description": "Biochemical principles, cell biology, human development, histology and gross anatomy with clinical correlates utilizing patient examples and non-invasive techniques.",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5042",
+            "course_name": "Interviewing",
+            "course_description": "Development of skills needed to obtain a history of the patient's present illness, past medical history and other pertinent background information. Vitally important to medical practice, these skills are role modeled, practiced and evaluate with detailed feedback. Additional emphasis is placed on the doctor-patient relationship, ethics and the role of the physician as a therapeutic agent.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5043",
+            "course_name": "Structure and Function of the Human Body II",
+            "course_description": "Study of the structure and function of the body's metabolic, nervous and muscular systems.",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5044",
+            "course_name": "Physical Examination",
+            "course_description": "Introduction to the doctor-patient relationship and systematic physical examination of the patient. Certification in basic life support is also included.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5045",
+            "course_name": "Structure and Function of the Human Body III",
+            "course_description": "Study of the structure and function of the body's cardiovascular, gastrointestinal, and urinary systems.",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5046",
+            "course_name": "Psychosocial Aspects of Medicine",
+            "course_description": "A brief study of the history of medicine and the impact of key events on current medical practice. Study of the biophychosocial model, biomedical ethics and specific psychosocial problems encountered by physicians such as compliance, problems based in human sexuality, substance abuse and death and dying.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5047",
+            "course_name": "Structure and Functions of the Human Body IV",
+            "course_description": "Study of the structure and function of the endocrine, reproductive, vascular systems. The classification of pathogenic and non-pathogenic organisms, mechanisms of infection, the immune response and the interaction between pharmacologic agents and exogenous organisms.",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5048",
+            "course_name": "Clinical Epidemiology and Preventive Medicine",
+            "course_description": "Application of clinical epidemiology to understanding measurement of population characteristics and to the critical analysis of the literature through analysis of study designs and interpretation of the results and causal relationships. Study of prevention, screening and health maintenance as important aspects of health care.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5051",
+            "course_name": "Ambulatory Clinical Experience I",
+            "course_description": "Ambulatory Clinical Experience I",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5052",
+            "course_name": "Ambulatory Clinical Experience II",
+            "course_description": "Ambulatory Clinical Experience II",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5053",
+            "course_name": "Ambulatory Clinical Experience III",
+            "course_description": "Ambulatory Clinical Experience III",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5054",
+            "course_name": "Ambulatory Clinical Experience IV",
+            "course_description": "Ambulatory Clinical Experience IV",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5180",
+            "course_name": "FULL-TIME ENROLLMENT FOR POST-SOPHOMORE FELLOWS",
+            "course_description": "FULL-TIME ENROLLMENT FOR POST-SOPHOMORE FELLOWS",
+            "prerequisites": "None Listed",
+            "credit_hours": "18",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5201",
+            "course_name": "Summer Clinical Practicum Family Medicine",
+            "course_description": "Summer Clinical Practicum Family Medicine",
+            "prerequisites": "None Listed",
+            "credit_hours": "0",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5205",
+            "course_name": "Individualized Study",
+            "course_description": "Individualized Study",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5207",
+            "course_name": "Summer Clinical Practicum Internal Medicine",
+            "course_description": "Summer Clinical Practicum Internal Medicine. 4 week course. Zero credit hours, 4 FA hours.",
+            "prerequisites": "None Listed",
+            "credit_hours": "0",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5209",
+            "course_name": "Summer Clinical Fellowship",
+            "course_description": "Summer Clinical Fellowship",
+            "prerequisites": "None Listed",
+            "credit_hours": "0",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5213",
+            "course_name": "Leadership Practicum",
+            "course_description": "Leadership Practicum",
+            "prerequisites": "None Listed",
+            "credit_hours": "0",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5215",
+            "course_name": "Summer Clinical Practicum - Medical Education",
+            "course_description": "Summer Clinical Practicum - Medical Education- Zero billing hours and 4 FA hours",
+            "prerequisites": "None Listed",
+            "credit_hours": "0",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5217",
+            "course_name": "Summer Clinical Practicum - Rural Track",
+            "course_description": "This represents non-credit clinical and research experiences that medical students may take during the summer following their first (M1) year of medical school. 8 weeks. Zero Credit.",
+            "prerequisites": "None Listed",
+            "credit_hours": "0",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5253",
+            "course_name": "Post-Sophomore Fellowship",
+            "course_description": "Post-Sophomore Fellowship",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5341",
+            "course_name": "Structure/Function Human Body I - Remediation",
+            "course_description": "Structure/Function Human Body I - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5342",
+            "course_name": "Interviewing - Remediation",
+            "course_description": "Interviewing - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5343",
+            "course_name": "Structure/Function Human Body II - Remediation",
+            "course_description": "Structure/Function Human Body II - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5344",
+            "course_name": "Physical Exam - Remediation",
+            "course_description": "Physical Exam - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5345",
+            "course_name": "Structure/Function Human Body III",
+            "course_description": "Structure/Function Human Body III",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5346",
+            "course_name": "Psychosocial Aspects Med - Remediation",
+            "course_description": "Psychosocial Aspects Med - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5347",
+            "course_name": "Structure/Function Human Body IV - Remediation",
+            "course_description": "Structure/Function Human Body IV - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5348",
+            "course_name": "Clinical Epidemology and Preventive Medicine - Remediation",
+            "course_description": "Clinical Epidemology and Preventive Medicine - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5351",
+            "course_name": "Ambulatory Clinical Experience I- Remediation",
+            "course_description": "Ambulatory Clinical Experience I- Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5352",
+            "course_name": "Ambulatory Clinical Experience II- Remediation",
+            "course_description": "Ambulatory Clinical Experience II- Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5353",
+            "course_name": "Ambulatory Clinical Experience III-Remediation",
+            "course_description": "Ambulatory Clinical Experience III-Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5354",
+            "course_name": "Ambulatory Clinical Experience IV- Remediation",
+            "course_description": "Ambulatory Clinical Experience IV- Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5551",
+            "course_name": "Pathophysiology I",
+            "course_description": "Pathophysiologic mechanisms of cell injury, inflammation and repair, hemodynamic disturbances, genetic disorders, autoimmune response, immune deficiency and hypersensitivity reactions.",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5552",
+            "course_name": "Diagnostic Tests and Medical Decisions",
+            "course_description": "Assessment of the appropriate use and interpretation of common diagnostic tests and their contribution to medical decisions and the care of patients. Includes emphasis on the review of systems, interactive hypothesis testing, differential diagnosis probability, sensitivity and specificity, and cost benefit and cost effectiveness analysis.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5553",
+            "course_name": "Pathophysiology II",
+            "course_description": "Pathophysiologic mechanisms of cardiovascular disease, diseases of the respiratory system, disorders of the blood, and nutritional diseases.",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5554",
+            "course_name": "Psychopathology and Behavioral Medicine",
+            "course_description": "Presentation and discussion of the U.S. health care system and health care reform, financing and resource allocation, and the impact of change on individuals, communities, employers and the government. Included are analyses of the ethical and legal implications of health care and health care reform.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5555",
+            "course_name": "Pathophysiology III",
+            "course_description": "Pathophysiologic mechanisms of the digestive, endocrine and urogenital systems.",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5556",
+            "course_name": "Clinical Practicum",
+            "course_description": "A continuation of Block 6 objectives and a clinical practicum and review comprise this block.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5557",
+            "course_name": "Pathophysiology IV",
+            "course_description": "Pathophysiology of infectious diseases, reproductive disorders, musculoskeletal and soft tissues diseases, diseases affecting the nervous system and skin diseases.",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5558",
+            "course_name": "Physician as a Person",
+            "course_description": "Exploration of the physician as a person, the balance between professional and personal demands, family life, membership in a community, the stresses and rewards of the medical profession, professional ethics and the doctor-patient relationship. A four week clinical review completes this block.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5561",
+            "course_name": "Advanced Physical Diagnosis I",
+            "course_description": "Advanced Physical Diagnosis I",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5562",
+            "course_name": "Advanced Physical Diagnosis II",
+            "course_description": "Advanced Physical Diagnosis II",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5563",
+            "course_name": "Advanced Physical Diagnosis III",
+            "course_description": "Advanced Physical Diagnosis III",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5564",
+            "course_name": "Advanced Physical Diagnosis IV",
+            "course_description": "Advanced Physical Diagnosis IV",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5570",
+            "course_name": "Advanced Clinical Skill Practicum",
+            "course_description": "This course is designed for MD/PhD students and other medical students away on research or post-sophomore fellowship leave.  Approval to enroll must be obtained from the Director of the MD/PhD program or the Faculty Director of Clinical curriculum.  Graded on S/U basis only.",
+            "prerequisites": "Advanced Physical Diagnosis; must have satisfactorily completed the second year of medical school",
+            "credit_hours": "0",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5751",
+            "course_name": "Pathophysiology I - Remediation",
+            "course_description": "Pathophysiology I - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5752",
+            "course_name": "Diagnosis Test/Med Decision - Remediation",
+            "course_description": "Diagnosis Test/Med Decision - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5753",
+            "course_name": "Pathophysiology II - Remediation",
+            "course_description": "Pathophysiology II - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5754",
+            "course_name": "Psychopathology/Behavioral Med - Remediation",
+            "course_description": "Psychopathology/Behavioral Med - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5755",
+            "course_name": "Pathophysiology III - Remediation",
+            "course_description": "Pathophysiology III - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5756",
+            "course_name": "Clinical Practicum - Remediation",
+            "course_description": "Clinical Practicum - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5757",
+            "course_name": "Pathophysiology IV - Remediation",
+            "course_description": "Pathophysiology IV - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5758",
+            "course_name": "Physician as a Person - Remediation",
+            "course_description": "Physician as a Person - Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5761",
+            "course_name": "Advanced Physical Diagnosis I- Remediation",
+            "course_description": "Advanced Physical Diagnosis I- Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5762",
+            "course_name": "Advanced Physical Diagnosis II- Remediation",
+            "course_description": "Advanced Physical Diagnosis II- Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5763",
+            "course_name": "Advanced Physical Diagnosis III- Remediation",
+            "course_description": "Advanced Physical Diagnosis III- Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5764",
+            "course_name": "Advanced Physical Diagnosis IV- Remediation",
+            "course_description": "Advanced Physical Diagnosis IV- Remediation",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5850",
+            "course_name": "Contemplating Medicine, Patients, Self and Society",
+            "course_description": "The purpose of the longitudinal COMPASS course is to foster the development of patient-centered physicians in relation to patients, self and society. This is accomplished through an innovative longitudinal small group experience using a variety of learning methods including group discussion, reflective writing, storytelling, reading and case problem solving. The small group membership includes students from each of the 4 medical school classes and 2 faculty Guides. Curricular themes and small group session titles for the 4 year course recur on a two year cycle. The content and focus of each session is unique. Students in the first, second and third years of medical school will receive a final course grade (satisfactory or unsatisfactory) at the end of their M4 year. The final course grade will reflect the student's performance in the small group sessions and performance on the capstone assignment.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 5950",
+            "course_name": "Remediation of MED_ID 5850",
+            "course_description": "Medical Students who receive an unsatisfactory grade in MED_ID 5850 Contemplating Medicine, Patients, Self and Society will enroll for this course in order to remediate their grade.",
+            "prerequisites": "MED_ID 5850",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6030",
+            "course_name": "SCC Advanced Biomedical Sciences Elective",
+            "course_description": "Students will work under the supervision of an MU faculty member at MU's Springfield Clinical Campus in a pre-approved learning experience. Activities that fulfill this requirement may include, but are not limited to: Anatomy dissection at Missouri State University (MSU), research project at a Springfield based clinical location or lab (Cox, Mercy, MSU), PBL case writing, and cross cultural medicine (global health study abroad). ABS elective content and requirements will be similar to those offered at MU's Columbia Clinical Campus.",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6031",
+            "course_name": "SCC Advanced Clinical Selective",
+            "course_description": "Students will work under the supervision of a faculty preceptor at the Springfield Clinical Campus. Students will see patients in the outpatient clinic and/or inpatient hospital setting, perform a history and exam, and develop a patient-centered assessment and plan. They will then discuss their findings, assessment and plan with the faculty preceptor and go see the patient together. The student will complete oral patient presentations and document patient encounters in the medical record as directed by the faculty preceptor. Students will enhance their knowledge, skills, and attitudes about patient-centered care through active participation in direct patient care activities while under the supervision of a faculty preceptor. Students will integrate previously acquired knowledge and concepts and apply them to the care and management of patients.",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6032",
+            "course_name": "SCC General Elective",
+            "course_description": "Students will work under the supervision of a faculty preceptor at the Springfield Clinical Campus. Students will see patients in the outpatient clinic and/or inpatient hospital setting, perform a history and exam, and develop a patient-centered assessment and plan. They will then discuss their findings, assessment and plan with the faculty preceptor and go see the patient together. The student will complete oral patient presentations and document patient encounters in the medical record as directed by the faculty preceptor. Students will enhance their knowledge, skills, and attitudes about patient-centered care through active participation in direct patient care activities while under the supervision of a faculty preceptor. Students will integrate previously acquired knowledge and concepts and apply them to the care and management of patients.",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6100",
+            "course_name": "Advanced Elective",
+            "course_description": "Advanced Elective - 0 Credit",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6200",
+            "course_name": "ABS Advanced Basic Science",
+            "course_description": "ABS Advanced Basic Science",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6235",
+            "course_name": "ABS DERMATOLOGY RSCH&REV",
+            "course_description": "ABS Dermatology Research and Review",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6243",
+            "course_name": "ABS EMERGENCY MED RSCH",
+            "course_description": "ABS Emergency Medicine Research",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6244",
+            "course_name": "ABS Quality Improvement and Patient Safety Elective",
+            "course_description": "The 4th year student will work with leaders in the Office of Clinical Effectiveness to identify an improvement project to be conducted during the elective.  Students will have self-paced readings/didactic expectations, and will be expected to review and report on medical literature relevant to the care process(es) targeted for improvement.  To complete their project, the student will present the improvement work to patient safety and quality improvement leaders, as well as stakeholders in the care process(es) identified for improvement efforts.",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6390",
+            "course_name": "ABS Individualized Study in Medicine-M1",
+            "course_description": "Goals/Objectives:  Participate in PBL as a tutor under the guidance of an experienced faculty tutor.  Review the literature appropriate to each case.  Update one PBL case that is used in the course of the block OR update a problem solving exam OR write a new problem solving exam.  Students must submit the case or exam electronically to the course coordinator.    Evaluation:   Student's performance as tutor will be evaluated by the supervising faculty member and the tutor group members.    Notes:  During a four-week block, the fourth year student will tutor an M-1 PBL group (Monday, Wednesday, & Friday mornings) under the supervision of a senior faculty member.      Contact course coordinator for case update details.  Submission date for case update is set two weeks after the tutoring session ends.     The student will attend all tutor preparation meetings and prepare for PBL through reading, self-directed study and discussions with faculty.    Complete student mid-block and end-of-block evaluation as directed.",
+            "prerequisites": "M4s registering for PBL tutoring must be in good standing and not on probation.  M4s must not have come before the CSP for an automatic vote for dismissal",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6391",
+            "course_name": "ABS Individualized Study in Medicine-M2",
+            "course_description": "ABS Individualized Study in Medicine-M2",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6393",
+            "course_name": "ABS Interdisciplinary Research",
+            "course_description": "ABS Interdisciplinary Research",
+            "prerequisites": "None Listed",
+            "credit_hours": "5-10",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6394",
+            "course_name": "ABS Cross-Cultural Medicine",
+            "course_description": "ABS Cross-Cultural Medicine",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6395",
+            "course_name": "ABS Interdisciplinary Research and Review",
+            "course_description": "ABS Interdisciplinary Research and Review",
+            "prerequisites": "None Listed",
+            "credit_hours": "5-10",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6396",
+            "course_name": "ABS Medical Practice Organization",
+            "course_description": "ABS Medical Practice Organization",
+            "prerequisites": "None Listed",
+            "credit_hours": "5-10",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6397",
+            "course_name": "ABS Academic Tutoring for M1/M2 Students",
+            "course_description": "ABS Academic Tutoring for M1/M2 Students",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6398",
+            "course_name": "ABS County Public Health",
+            "course_description": "ABS County Public Health",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6399",
+            "course_name": "ABS Case Writing",
+            "course_description": "ABS Case Writing",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6690",
+            "course_name": "Elective Individual Study in Medicine - M1",
+            "course_description": "Elective Individual Study in Medicine - M1",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6691",
+            "course_name": "Elective Individual Study in Medicine - M2",
+            "course_description": "Goals/Objectives:  Participate in PBL as a tutor under the guidance of an experienced faculty tutor.    Evaluations:  the student's performance as tutor will be evaluated by the supervising faculty member and the tutor group members.    Notes:  During the four-week block, the fourth year student will tutor a M-2 PBL group (Tuesday and Thursday afternoons) under the supervision of a senior faculty member.",
+            "prerequisites": "M4s registering for PBL tutoring must be in good standing and not on probation.  M4s must not have come before the CSP for an automatic vote for dismissal",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6692",
+            "course_name": "Case/Exam Writing Elective",
+            "course_description": "The fourth year medical student will work as part of a team in order to develop learning materials for the first and second year students. Students will work closely with faculty advisors and clinical mentors to develop educationally sound learning materials. Under the guidance of faculty preceptors, medical students will author one original PBL case including a comprehensive tutor guide and multiple choice examination questions covering the case objectives, AND one original Clinical Reasoning Exam including an annotated key.",
+            "prerequisites": "fourth year medical student in good standing",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6693",
+            "course_name": "Simulation Preparation for Internship",
+            "course_description": "This course is meant to increase the medical students' knowledge and skillsbase in preparation for the first year of internship.  In order to accomplish this, the students will be exposed to a variety situations common to first year residents through activities created with simulation.  Throughout the course, students will demonstrate how to provide effective and efficient patient-centered care, while improving their communication skills and professionalism with patients and other healthcare providers.  Students will understand the role of simulation in medical education and develop skills in debriefing of scenarios throughout the course.  At the end of the course, students will be expected to complete a simulation capstone project.   ",
+            "prerequisites": "  Class level: 4th year medical student.  Approval by Simulation Director and Completion of all Core Clerkship Requirements.",
+            "credit_hours": ": 5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6890",
+            "course_name": "Computer Applications in Medicine",
+            "course_description": "Computer Applications in Medicine",
+            "prerequisites": "None Listed",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6924",
+            "course_name": "Rural Track Clinical Elective",
+            "course_description": "Students will enhance their knowledge, skills, and attitudes about patient-centered care through active participation in direct patient care activities while under the supervision of a faculty preceptor. Students will integrate previously acquired knowledge and concepts and apply them to the care and management of patients.",
+            "prerequisites": "successful completion of the first two years of medical school",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6925",
+            "course_name": "Springfield Clinical Campus Elective",
+            "course_description": "Students will work under the supervision of a faculty preceptor at the Springfield Clinical Campus. Students will see patients in the outpatient clinic and/or inpatient hospital setting, perform a history and exam, and develop a patient-centered assessment and plan. They will then discuss their findings, assessment and plan with the faculty preceptor and go see the patient together. The student will complete oral patient presentations and document patient encounters in the medical record as directed by the faculty preceptor.",
+            "prerequisites": "successful completion of the first two years of medical school",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6933",
+            "course_name": "Joint Commission Tracers: Assessing Quality Patient Care Using Joint Commission Criteria",
+            "course_description": "Quality patient care is the core of the academic medical center's mission, accomplished through exemplary education, research, and clinical care. In order to assure that patients receive quality care, the Center for Medicare and Medicaid Services (CMS) requires that health care organizations demonstrate quality through a process of accreditation, which has been delegated to The Joint Commission (TJC), an independent, non-for-profit organization. TJC promotes the continuous improvement of health care by evaluating organizations and \"inspiring them to excel in providing safe and effective care of the highest quality and value.\" Failure of a health system to meet TJC requirements can result in loss of an organization's ability to participate in Medicare/Medicaid programs, which has a crippling effect on delivering patient care. Tracers are the tool TJC utilizes to evaluate the quality of patient care in an organization.  During the two-week course, the student will:  1) attend tracer orientation. 2) conduct ten tracers ( approximately 1 hour each) in inpatient and invasive procedure areas. 3) conduct a literature search on tracers and quality care, and prepare 3 to 4 page synthesis. 4) complete a pre- and post- survey on the tracer process. 5) complete a one-page written reflection of the student's tracer experience at the end of each week.",
+            "prerequisites": "successful completion of the first two years of medical school",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MED_ID 6934",
+            "course_name": "Sexual and Gender Minority Health Issues Across the Lifecourse",
+            "course_description": "The purpose of this course is to increase student's familiarity with sexual and gender minority health issues likely to be seen in practice. Integral to the course structure is improved cultural competency in not only appropriate language and terms used within the community but also a sense of the social-cultural issues each generation has faced growing up in America.",
+            "prerequisites": "successful completion of the first two years of medical school",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        }
+    ]
+}

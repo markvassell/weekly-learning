@@ -1,0 +1,470 @@
+{
+    "department_name": "Atmospheric Science ",
+    "department_code": "ATM_SC",
+    "courses": [
+        {
+            "course_number": "ATM_SC 1050",
+            "course_name": "Introductory Meteorology",
+            "course_description": "(same as GEOG 1050). Physical processes of atmosphere in relation to day-to-day changes in weather.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 2100",
+            "course_name": "Introduction to Atmospheric Science",
+            "course_description": "Physical process of the atmospheric and climate system will be related to day-to-day weather changes. Students will be introduced to the laws of motion and thermodynamics that govern motions in geophysical fluid. Graded on A-F basis only.",
+            "prerequisites": "MATH 1160 or concurrent enrollment in MATH 1500",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 2150",
+            "course_name": "Natural Hazards",
+            "course_description": "A survey of natural hazards, including severe thunderstorms, tornadoes, flooding, tropical storms, ocean movements, earthquakes, tsunamis, volcanoes, asteroids, solar weather, managing risk and human impacts.  Graded on A-F basis only.",
+            "prerequisites": "ATM_SC 1050 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 2720",
+            "course_name": "Weather Briefing",
+            "course_description": "Student participation in daily discussions of current weather patterns and forecasts and their applications to weather sensitive activities including aviation, agriculture and industry.",
+            "prerequisites": "ATM_SC 1050",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 2792",
+            "course_name": "Weather Communication",
+            "course_description": "Methods of surface and upper air weather observation.  How such data are distributed to users in the meteorological community is also addressed.",
+            "prerequisites": "ATM_SC 1050; sophomore standing",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 3000",
+            "course_name": "Independent Study in Atmospheric Science",
+            "course_description": "Independent study of a topic dealing with meteorological theory or application of meteorological science to the solution of relevant problem.",
+            "prerequisites": "ATM_SC 1050",
+            "credit_hours": "1-3",
+            "recommendation": "Upper level standing"
+        },
+        {
+            "course_number": "ATM_SC 3600",
+            "course_name": "Climates of the World",
+            "course_description": "(same as GEOG 3600). A study of the world distribution of climates based on \"cause and effect\" relationships. Special attention is given to the impacts of climate on humanity.",
+            "prerequisites": "ATM_SC 1050 or graduate standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4001",
+            "course_name": "Topics in Atmospheric Science",
+            "course_description": "Development of theory and applications for selected topics in atmospheric science.",
+            "prerequisites": "junior standing and instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4110",
+            "course_name": "Broadcast Meteorology I",
+            "course_description": "An introduction to broadcast meteorology including the business of media, use of meteorological data to produce a forecast, and television and radio presentation skills.  Graded on A-F basis only.",
+            "prerequisites": "ATM_SC 1110, ATM_SC 2720, or equivalentsCorequisites: ATM_SC 4710.  Restricted to Atmospheric Science majors or instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4310",
+            "course_name": "Atmospheric Thermodynamics",
+            "course_description": "(cross-leveled with ATM_SC 7310). Thermodynamics of dry and moist air, atmospheric hydrostatics, convection, and development of the fundamental equations of geophysical fluid dynamics.",
+            "prerequisites": "ATM_SC 1050, MATH 1700 (C or better), and one physics course",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4320",
+            "course_name": "Atmospheric Dynamics",
+            "course_description": "(cross-leveled with ATM_SC 7320). Dynamics and kinematics of atmospheric flow. Manipulation of fundamental equations, numerical modeling of atmosphere.",
+            "prerequisites": "ATM_SC 4310 or ATM_SC 7310",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4350",
+            "course_name": "Mesoscale Meteorology and Dynamics",
+            "course_description": "(cross-leveled with ATM_SC 7350). Survey of mesoscale phenomena, observing systems, analysis techniques, and modeling. Topics include fronts, jet streaks, gravity waves, organized convection, tornadoes, and severe local storm forecasting and structure.",
+            "prerequisites": "ATM_SC 4720 or ATM_SC 7720 and MATH 2300",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4400",
+            "course_name": "Micrometeorology",
+            "course_description": "(cross-leveled with ATM_SC 7400). Study of transport processes in the surface boundary layer. Important applications in pollution will be discussed.",
+            "prerequisites": "ATM_SC 4310 or PHYSCS 2760, MATH 2300",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4500",
+            "course_name": "Advanced Meteorological Observation and Instrumentation",
+            "course_description": "Automated weather observation and instrumentation used in networks of remote automated weather stations. Emphasis on electronic instrumentation, datalogger programming, data collection and data management, generating dynamic reports on the World Wide Web. May be repeated for credit.",
+            "prerequisites": "ATM_SC 1050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4510",
+            "course_name": "Remote Sensing for Meteorology and Natural Resources",
+            "course_description": "(cross-leveled with ATM_SC 7510). Principles of remote sensing with emphasis on the properties of atmosphere and the earth's surface from airborne and satellite sensors. The techniques for using geosynchronous and orbiting satellite platforms for assessing weather and natural resource features.",
+            "prerequisites": "ATM_SC 1110, MATH 1500, junior standing or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4520",
+            "course_name": "Environmental Biophysics",
+            "course_description": "(same as GEOG 4520; cross-leveled with ATM_SC 7520, GEOG 7520). Students will learn techniques and principles used to describe the microenvironment of living organisms and use quantitative expressions to estimate missing values, and mass transfer laws to estimate flux of energy, water and gas.",
+            "prerequisites": "College Physics and Calculus I",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4550",
+            "course_name": "Atmospheric Physics",
+            "course_description": "(cross-leveled with ATM_SC 7550). Physics of atmospheric nucleation-condensation, cloud droplet and precipitation formation, associated electrical phenomena, radiation transfer and remote sensing.   Recommended:  1 year of college Physics",
+            "prerequisites": "MATH 1700",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4590",
+            "course_name": "Radar Meteorology",
+            "course_description": "(cross-leveled with ATM_SC 7590). Course concerns the theory and application of radar in meteorology.   May be repeated for credit.",
+            "prerequisites": "ATM_SC 1110, MATH 1700, PHYSCS 2750",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4650",
+            "course_name": "Long-Range Forecasting",
+            "course_description": "(cross-leveled with ATM_SC 7650). Physical-dynamical principles of long-range forecasting from a month to a year. Empirical and numerical approaches in forecast practice.",
+            "prerequisites": "ATM_SC 4050 or ATM_SC 7050 or ATM_SC 3600",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4710",
+            "course_name": "Synoptic Meteorology I",
+            "course_description": "(cross-leveled with ATM_SC 7710). Meteorological Data. Basic techniques for surface and upper air analysis, using selected examples of weather patterns.",
+            "prerequisites": "ATM_SC 1050, MATH 1700 (C or better)",
+            "credit_hours": "4",
+            "recommendation": "one physics course"
+        },
+        {
+            "course_number": "ATM_SC 4720",
+            "course_name": "Synoptic Meteorology II",
+            "course_description": "(cross-leveled with ATM_SC 7720). Graphical analysis and interpretation of physical, kinematical and dynamical properties of the atmosphere. Analysis techniques applicable to atmospheric research.",
+            "prerequisites": "ATM_SC 4710 or ATM_SC 7710",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4720W",
+            "course_name": "Synoptic Meteorology II - Writing Intensive",
+            "course_description": "(cross-leveled with ATM_SC 7720). Graphical analysis and interpretation of physical, kinematical and dynamical properties of the atmosphere. Analysis techniques applicable to atmospheric research.",
+            "prerequisites": "ATM_SC 4710 or ATM_SC 7710",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4730",
+            "course_name": "Advanced Forecasting Laboratory",
+            "course_description": "Advanced principles of weather forecasting will be addressed via online electronic modules and weekly laboratory exercises.  Graded on A-F basis only.",
+            "prerequisites": "ATM_SC 4720",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 4800",
+            "course_name": "Numerical Methods in Atmospheric Science and Natural Resources",
+            "course_description": "(cross-leveled with ATM_SC 7800). Examines numerical methods used in solving differential equations, filtering data sets, and Fourier decomposition of discrete data sets.",
+            "prerequisites": "senior standing",
+            "credit_hours": "3",
+            "recommendation": "Math through Calculus III"
+        },
+        {
+            "course_number": "ATM_SC 4949",
+            "course_name": "Internship in Meteorology",
+            "course_description": "Practical professional work experience with professional or scientific meteorologists in off-campus work environment. Graded on S/U basis only.",
+            "prerequisites": "junior standing",
+            "credit_hours": "1-6",
+            "recommendation": "Math through Calculus III"
+        },
+        {
+            "course_number": "ATM_SC 4950",
+            "course_name": "Undergraduate Research in Atmospheric Science",
+            "course_description": "Research apprenticeship with a faculty mentor. Students are expected to develop initial concept for the research, design experiments, collect data, and analyze data with faculty input, oversight, and guidance.",
+            "prerequisites": "STAT 1400, MATH 1500",
+            "credit_hours": "1-4",
+            "recommendation": "10 hours of Atmospheric Science courses"
+        },
+        {
+            "course_number": "ATM_SC 4990",
+            "course_name": "Daily Analysis and Forecast Interpretation",
+            "course_description": "A Capstone experience. In depth daily analysis and interpretation by students of the current and forecast states of the atmosphere. Discussions of implications to specific weather sensitive activities.",
+            "prerequisites": "senior standing and Atmospheric Science major",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7001",
+            "course_name": "Topics in Atmospheric Science",
+            "course_description": "Development of theory and applications for selected topics in atmospheric science.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7310",
+            "course_name": "Atmospheric Thermodynamics",
+            "course_description": "(cross-leveled with ATM_SC 4310). Thermodynamics of dry and moist air, atmospheric hydrostatics, convection, and development of the fundamental equations of geophysical fluid dynamics.",
+            "prerequisites": "ATM_SC 1050, MATH 1700 (C or better), and one physics course",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7320",
+            "course_name": "Atmospheric Dynamics",
+            "course_description": "(cross-leveled with ATM_SC 4320). Dynamics and kinematics of atmospheric flow. Manipulation of fundamental equations, numerical modeling of atmosphere.",
+            "prerequisites": "ATM_SC 4310 or ATM_SC 7310",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7350",
+            "course_name": "Mesoscale Meteorology and Dynamics",
+            "course_description": "(cross-leveled with ATM_SC 4350). Survey of mesoscale phenomena, observing systems, analysis techniques, and modeling. Topics include fronts, jet streaks, gravity waves, organized convection, tornadoes, and severe local storm forecasting and structure.",
+            "prerequisites": "ATM_SC 4720 or ATM_SC 7720 and MATH 2300",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7400",
+            "course_name": "Micrometeorology",
+            "course_description": "(cross-leveled with ATM_SC 4400). Study of transport processes in the surface boundary layer. Important applications in pollution will be discussed.",
+            "prerequisites": "ATM_SC 4050 or ATM_SC 7050",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7510",
+            "course_name": "Remote Sensing for Meteorology and Natural Resources",
+            "course_description": "(cross-leveled with ATM_SC 4510). Principles of remote sensing with emphasis on the properties of atmosphere and the earth's surface from airborne and satellite sensors. The techniques for using geosynchronous and orbiting satellite platforms for assessing weather and natural resource features. Graduate student credit is dependent upon completion of additional advanced research assignments.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7520",
+            "course_name": "Environmental Biophysics",
+            "course_description": "(same as GEOG 7520; cross-leveled with ATM_SC 4520, GEOG 4520). Students will learn techniques and principles used to describe the microenvironment of living organisms and use quantitative expressions to estimate missing values, and mass transfer laws to estimate flux of energy, water, and gas.",
+            "prerequisites": "college physics, calculus I",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7550",
+            "course_name": "Atmospheric Physics",
+            "course_description": "(cross-leveled with ATM_SC 4550). Physics of atmospheric nucleation-condensation, cloud droplet and precipitation formation, associated electrical phenomena, radiation transfer and remote sensing.",
+            "prerequisites": "1 year of college Physics and MATH 1700",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7590",
+            "course_name": "Radar Meteorology",
+            "course_description": "(cross-leveled with ATM_SC 4590). Course concerns the theory and application of radar in meteorology.  Graduate students will be required to conduct an independent research project using radar, in addition to the undergraduate requirements for the class. May be repeated for credit.",
+            "prerequisites": "MATH 1700, PHYSCS 2760",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7650",
+            "course_name": "Long-Range Forecasting",
+            "course_description": "(cross-leveled with ATM_SC 4650). Physical-dynamical principles of long-range forecasting from a month to a year. Empirical and numerical approaches in forecast practice.",
+            "prerequisites": "ATM_SC 4050 or ATM_SC 7050 or ATM_SC 3600",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7710",
+            "course_name": "Synoptic Meteorology I",
+            "course_description": "(cross-leveled with ATM_SC 4710). Meteorological Data. Basic techniques for surface and upper air analysis, using selected examples of weather patterns.",
+            "prerequisites": "ATM_SC 1050, MATH 1700 (C or better)",
+            "credit_hours": "4PrerequisitesorCorequisites:onephysicscourse",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7720",
+            "course_name": "Synoptic Meteorology II",
+            "course_description": "(cross-leveled with ATM_SC 4720). Graphical analysis and interpretation of physical, kinematical and dynamical properties of the atmosphere. Analysis techniques applicable to atmospheric research.",
+            "prerequisites": "ATM_SC 4710 or ATM_SC 7710",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 7800",
+            "course_name": "Numerical Methods in Atmospheric Science and Natural Resources",
+            "course_description": "(cross-leveled with ATM_SC 4800). Examines numerical methods used in solving differential equations, filtering data sets, and Fourier decomposition of discrete data sets.",
+            "prerequisites": "Math through Calculus III",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 8001",
+            "course_name": "Topics in Atmospheric Science",
+            "course_description": "Development of the theory with its application for selected topics in atmospheric science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 8085",
+            "course_name": "Problems in Atmospheric Science",
+            "course_description": "Independent study by graduate students in atmospheric science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 8090",
+            "course_name": "Masters Research in Atmospheric Science",
+            "course_description": "Original investigation in atmospheric science in support of a master's thesis.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 8400",
+            "course_name": "Atmospheric General Circulation",
+            "course_description": "Comprehensive review of dynamical theories of general circulation with intensive discussion of current problems.",
+            "prerequisites": "ATM_SC 4320 or ATM_SC 7320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 8450",
+            "course_name": "Tropical Meteorology",
+            "course_description": "Study of the synoptic and dynamic character of the atmosphere in the tropical regions, including an examination of the general circulation and tropical storms.",
+            "prerequisites": "ATM_SC 4710 or ATM_SC 7710, ATM_SC 4720 or ATM_SC 7720 and MATH 2300; instructor's consent.  Graded on A-F basis only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 8500",
+            "course_name": "Radiation in the Atmosphere",
+            "course_description": "Physics of solar and infrared radiative transfer in the atmosphere, including energy conversion effects, atmospheric optics, and photochemical processes.",
+            "prerequisites": "one year College Physics and MATH 1700",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 8550",
+            "course_name": "Nowcasting",
+            "course_description": "Students will learn the science of nowcasting through the study of the various methods used and apply their knowledge in the design of the elements of a nowcast system and practical nowcasting exercises.",
+            "prerequisites": "ATM_SC 8500, instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 8600",
+            "course_name": "Advanced Climate Dynamics",
+            "course_description": "Study of global climate; application of large scale atmospheric dynamics; conservation of various forms of energy, climatic evaluation, large scale climatic modification.",
+            "prerequisites": "ATM_SC 4320 or ATM_SC 7320 and ATM_SC 8400 or ATM_SC 3600",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 9001",
+            "course_name": "Topics in Atmospheric Science",
+            "course_description": "Development of the theory with its application for selected topics in atmospheric science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 9085",
+            "course_name": "Problems in Atmospheric Science",
+            "course_description": "Independent study by graduate students in atmospheric science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 9087",
+            "course_name": "Seminar in Atmospheric Science",
+            "course_description": "Seminar in Atmospheric Science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 9090",
+            "course_name": "Doctoral Research in Atmospheric Science",
+            "course_description": "Original investigation in atmospheric science in support of a doctoral dissertation.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 9300",
+            "course_name": "Introduction to Chaos Theory",
+            "course_description": "Atmospheric predictability and related topics are examined as they relate to governing equations of motion and their non-linear solutions.",
+            "prerequisites": "ATM_SC 4320 or ATM_SC 7320, MATH 4100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 9350",
+            "course_name": "Advanced Dynamic Meteorology",
+            "course_description": "Application of perturbation dynamics, advanced dynamics, and numerical methods to study of atmospheric circulations.",
+            "prerequisites": "ATM_SC 4320 or ATM_SC 7320",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 9590",
+            "course_name": "Advanced Applications of Weather Radar",
+            "course_description": "This course will investigate quantitative uses of weather radar data that go beyond standard reflectivity and velocity image interpretation, particularly those that use new techniques such as dual-polarization. Students will develop methods to analyze and display meteorological radar data. Graded on A-F basis only.",
+            "prerequisites": "Instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "MATH 1700, PHYSCS 2760, INFOTC 1040 or equivalent, ATM_SC 4590"
+        },
+        {
+            "course_number": "ATM_SC 9700",
+            "course_name": "Advanced Synoptic Meteorology",
+            "course_description": "Detailed examination of vertical motions, their forcing, and how each is diagnosed (quasigeostrophic theory, the Trenberth approximation, Q-vectors). Current issues in synoptic meteorology and operational forecasting are discussed.",
+            "prerequisites": "ATM_SC 4720 or ATM_SC 7720",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 9712",
+            "course_name": "Convection and Lightning",
+            "course_description": "Cumulus convection and cloud physics topics that will facilitate a deeper understanding of cloud electrification and lightning production are studied.  Graded on A-F basis only.",
+            "prerequisites": "ATM_SC 4710 or ATM_SC 7710, ATM_SC 4720 or ATM_SC 7720, MATH 2300; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATM_SC 9800",
+            "course_name": "Numerical Weather Prediction",
+            "course_description": "Examination of finite difference and objective analysis techniques, basic physical concepts, and parameterization of physical processes.  Experience with a range of models (1-D cloud to operational PE models) stressed.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

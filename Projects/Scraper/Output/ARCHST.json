@@ -1,0 +1,934 @@
+{
+    "department_name": "Architectural Studies ",
+    "department_code": "ARCHST",
+    "courses": [
+        {
+            "course_number": "ARCHST 1005",
+            "course_name": "Topics in Architectural Studies - Humanities",
+            "course_description": "Organized study of selected topics in architectural studies. Particular topic and earnable credit may vary by semester. May be repeated for credit up to 6 credit hours.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 1100",
+            "course_name": "Visual Design",
+            "course_description": "Design study as an introduction to basic design and visual composition with application to creating two- and three-dimensional abstract and /or functional design work. Studio exercises expressed through drawings and abstract models, using various media.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 1200",
+            "course_name": "Architectural Drafting and Working Drawings",
+            "course_description": "Beginning drafting including equipment and materials; lettering; floor plans, sections, elevations; orthographic and axonometric drawings; working drawings; and details.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 1600",
+            "course_name": "Fundamentals of Environmental Design",
+            "course_description": "Survey of the architectural environment emphasizing design fundamentals such as use, aesthetics, stability of structures and human relationships with places and time.",
+            "prerequisites": "ENGLSH 1000",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 1600W",
+            "course_name": "Fundamentals of Environmental Design - Writing Intensive",
+            "course_description": "Survey of the architectural environment emphasizing design fundamentals such as use, aesthetics, stability of structures and human relationships with places and time.",
+            "prerequisites": "ENGLSH 1000",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2005",
+            "course_name": "Topics in Architectural Studies - Humanities",
+            "course_description": "Organized study of selected topics in architectural studies. Particular topic and earnable credit may very by semester. May be repeated for credit up to 6 credit hours.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2085",
+            "course_name": "Problems in Architectural Studies",
+            "course_description": "Supervised independent work.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2100",
+            "course_name": "Understanding Architecture and the American City",
+            "course_description": "Multifaceted introduction to the architectural and social roots of urban form in the U. S.: historic precedents from around the world; growth, decline and revival of cities; rise of suburbia; tradition and transformation in campus communities; continuing housing challenges; sustainable design and the future of urbanism. Explores a diverse range of opportunities to improve communities available to professionals and general public.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2210",
+            "course_name": "Understanding Visualization for Animated Films",
+            "course_description": "Provides a critical overview of design and visualization techniques in animated film making. Emphasizes the role of built environment and spatial design features.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2220",
+            "course_name": "Introduction to CAD",
+            "course_description": "Introduction to computer-aided drafting and design with AutoCad software. Emphasis will be placed on development of skills and problem solving related to the professions of environmental and interior design.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "ARCHST 1200"
+        },
+        {
+            "course_number": "ARCHST 2230",
+            "course_name": "Design Communication I",
+            "course_description": "Beginning studio course in techniques and conventions of graphic communication as an aid in the design process for interior designers.",
+            "prerequisites": "ARCHST 2811",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2310",
+            "course_name": "Building Systems",
+            "course_description": "Integrated building systems: structure, construction, technology, comfort; including voice-data communication, safety, floor, wall, ceiling, mechanical, electrical, and plumbing systems; and project estimating.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2315",
+            "course_name": "Introduction to Building Systems Laboratory",
+            "course_description": "Building system renovations, materials, processes, finishes, and applications testing: furniture design, fabrication, finishing, lighting, concrete and masonry, wood and steel light framing construction, and mock-up fabrication and testing. All equipment training and safety is covered in this introductory course.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2316",
+            "course_name": "Advanced Building Systems Lab",
+            "course_description": "Advanced exposure to building system renovations, materials, processes, finishes, and applications testing: furniture design, fabrication, finishing, lighting, concrete and masonry, wood and steel light framing construction, and mock-up fabrication and testing. Graded on A-F basis only.",
+            "prerequisites": "ARCHST 2315",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2323",
+            "course_name": "Sustainable Building Design Fundamentals",
+            "course_description": "Environmental concerns addressed by green building design practices for consumers and owners of homes and businesses. Overview of how green buildings improve prospects for ecology, economy, social equity, and human health. Hands-on lab experiments reference national performance standards for decision making in sustainable building projects. Emphasis on energy and water use, sustainable sites, environmentally friendly building products, indoor air quality, and design for sustainable behaviors.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2620",
+            "course_name": "People, Places and Design",
+            "course_description": "Understanding human behavior and interaction with environments; the influence of architectural design on built places. Practical application for design.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 2811",
+            "course_name": "Studio I",
+            "course_description": "Application of basic design and composition to built form. Studio exercises in two and three dimensions using various media relating to usable spaces. Formation of design concept, development of form and space, and application in built environment.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 3100",
+            "course_name": "Color and Light",
+            "course_description": "The theory, application, and specification of color and light for interior and architectural design.  Includes assigned lab exercises for color and light portfolio.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 3182",
+            "course_name": "Studio II",
+            "course_description": "Application of basic design principles to built forms and functional spaces. Identification and manipulation of elements of design, understanding spatial relationships between human body and spatial enclosures related to built forms. Spatial organization and familiarity with role of immediate context.",
+            "prerequisites": "ARCHST 2811",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 3230",
+            "course_name": "Advanced Design Communication Using BIM",
+            "course_description": "Advanced course in techniques and conventions of computer aided design (CAD) and Building Information Modeling (BIM) for contemporary design process.",
+            "prerequisites": "ARCHST 2230",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 3371",
+            "course_name": "Design Resource Management",
+            "course_description": "Field experience (5 hours per week) in organization and management of resources used by interior designers, including references, product information, and samples of materials and finishes.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 3600",
+            "course_name": "Environmental Analysis",
+            "course_description": "Discover through analytical methods of primary organizational factors which operate in a building and reveal the preoccupations of designer.  Analytical approach investigates design principles by means of dissection.",
+            "prerequisites": "ARCHST 2811",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 3600W",
+            "course_name": "Environmental Analysis - Writing Intensive",
+            "course_description": "Discover through analytical methods of primary organizational factors which operate in a building and reveal the preoccupations of designer.  Analytical approach investigates design principles by means of dissection.",
+            "prerequisites": "ARCHST 2811",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 3860",
+            "course_name": "Human Factors Programming",
+            "course_description": "Design Programming for Human Factors using a Case Study.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "ARCHST 1600"
+        },
+        {
+            "course_number": "ARCHST 3860W",
+            "course_name": "Human Factors Programming - Writing Intensive",
+            "course_description": "Design Programming for Human Factors using a Case Study.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "ARCHST 1600"
+        },
+        {
+            "course_number": "ARCHST 4001",
+            "course_name": "Topics in Architectural Studies",
+            "course_description": "Selected current topics in field of interest.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4085",
+            "course_name": "Problems in Architectural Studies",
+            "course_description": "Supervised independent work.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4230",
+            "course_name": "Computer Graphic Application for Design I",
+            "course_description": "Applications of computer graphics for design and art; includes visualization, animation and creative development. May repeat up to 12 credit hours maximum.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "junior standing"
+        },
+        {
+            "course_number": "ARCHST 4320",
+            "course_name": "Materials, Methods and Products",
+            "course_description": "Inherent qualities of materials used in the design of interior environments. Manufacturing, application, and installation methods. Focus on environmentally sensitive materials.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "ARCHST 2310"
+        },
+        {
+            "course_number": "ARCHST 4323",
+            "course_name": "Sustainable Technologies and Systems",
+            "course_description": "An in-depth study of ecologically-sensitive and energy-efficient strategies used in building and interiors.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4333",
+            "course_name": "Compliance and Specifications",
+            "course_description": "Application of laws, codes, regulations, standards in specifying for life safety, barrier-free and universal design, lighting, human factors, and contract documents.",
+            "prerequisites": "ARCHST 2220 and ARCHST 2811",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4355",
+            "course_name": "Recent Trends in Digital Media I",
+            "course_description": "Recent Trends in Digital Media I",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4411",
+            "course_name": "Study Abroad in Architectural History",
+            "course_description": "Discovery of historic architecture through on-site tour of timeless cities and places.  May be repeated for credit.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4420",
+            "course_name": "History of the Designed Environment after 1750",
+            "course_description": "An in-depth study of the designed environment, including housing, interiors, and furniture of the major historical periods from the Industrial Revolution to today.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4430",
+            "course_name": "Guiding Design with Historic Preservation",
+            "course_description": "(cross-leveled with ARCHST 7430). Approaches to historic preservation; historic roots of architecture and interiors; regulations and design guidelines governing intervention; assessing significance of historic properties.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "American History or Government, or Art History"
+        },
+        {
+            "course_number": "ARCHST 4435",
+            "course_name": "History of the Designed Environment to 1750",
+            "course_description": "An in-depth study of the designed environment including interiors, architecture, art, and the decorative arts within the major historical periods and cultural context from prehistory to the Industrial Revolution.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4440",
+            "course_name": "Design Precedents: Architecture, Interiors and Furniture since the Industrial Revolution",
+            "course_description": "(cross-leveled with ARCHST 7440). Analysis of historical exemplars of architecture, interiors and furniture design offering strategies for approaching contemporary design problems.  Covers design precedents from industrial revolution to contemporary design.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4550",
+            "course_name": "Visual Presentation for Design",
+            "course_description": "Emphasizes principles and techniques for effective visual design presentation.  Focuses on concepts of design, layout, storytelling, critiques, and hands on exercise.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4555",
+            "course_name": "Recent Trends",
+            "course_description": "Upper-division students seeking additional knowledge in specific subject matter areas including digital media software.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4630",
+            "course_name": "Shaping Human Settlements",
+            "course_description": "Review classic designs and designers, key concepts and enduring issues of community design within the overall framework of environmental design.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4660",
+            "course_name": "Housing Concepts and Issues",
+            "course_description": "Evaluate housing policies, regulations, codes, programs; global and ecological perspectives of environment and behavior; historic preservation; financial issues; trends and projections.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4700",
+            "course_name": "Place-Making in Community Design",
+            "course_description": "Ideologies, case studies and participatory methods on place-making in community design.  Use processes to design a place-making scheme in actual community project.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4710",
+            "course_name": "Design Business Practices",
+            "course_description": "Analysis of the basic professional, human, and business skills necessary for the successful design practice.",
+            "prerequisites": "ARCHST 4814 or ARCHST 4824",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4760",
+            "course_name": "Healthcare Facilities Design",
+            "course_description": "(cross-leveled with ARCHST 7760). Health care facilities design and planning course provides an in-depth investigation of best practice examples. Design and research methods include evidence-based design, simulation, and space syntax analysis leading to high-performance healthcare design.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "senior standing"
+        },
+        {
+            "course_number": "ARCHST 4813",
+            "course_name": "Interiors Studio III",
+            "course_description": "Spatial morphology, organization pattern, construction methods, materials, systems, and processes and integration with total design processes. Space planning and spatial manipulation in response to social, environmental, functional, and aesthetics specific to interiors.",
+            "prerequisites": "ARCHST 3182",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4814",
+            "course_name": "Interiors Studio IV",
+            "course_description": "Continuation of ARCHST 4813. Manipulation of form and space responding to programmatic functions and activities, and constraints imposed by structure, building materials, spatial enclosure, and related factors. Projects may involve designing single-function space to multiple-function layered spaces--both vertically and horizontally.",
+            "prerequisites": "ARCHST 4813",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4815",
+            "course_name": "Construction Documents and Building Information Modeling Studio",
+            "course_description": "Studio of how materials, systems, and assemblies reinforce and extend intentions of designers. Course teaches strategies and techniques for integration and coordination of the building components and details in construction documents and building information modeling.",
+            "prerequisites": -1,
+            "credit_hours": "4Prerequisites or Corequisites: ARCHST 4814 or ARCHST 4824",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4823",
+            "course_name": "Architectural Studio III",
+            "course_description": "Continuation of  ARCHST 3182.  Spatial morphology, organization pattern, construction methods, materials, systems, and processes and integration with total design process.  Space planning and spatial manipulation in response to social, environmental, functional, and aesthetics specifics to architecture.",
+            "prerequisites": "ARCHST 3182",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4824",
+            "course_name": "Architectural Studio IV",
+            "course_description": "Continuation of  ARCHST 4823.  Manipulation of form and space responding to programmatic functions and activities, and constraints imposed by structure, building materials, spatial enclosure, and related factors.  Projects may involve designing single-function space to multiple-function layered spaces - both vertically and horizontally.",
+            "prerequisites": "ARCHST 4823",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4860",
+            "course_name": "Programming for Thesis Design Studio",
+            "course_description": "Develop written comprehensive program for thesis design studio project. Supervised by student-selected committee -- one departmental thesis advisor and at least one additional faculty member.",
+            "prerequisites": "ARCHST 3860 and ARCHST 4814 or ARCHST 4824",
+            "credit_hours": "0-1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4940",
+            "course_name": "Internship in Environmental Design",
+            "course_description": "Field experience in design under professional and educational supervision.  Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4960",
+            "course_name": "Readings in Architectural Studio",
+            "course_description": "Readings in recent research materials.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 4961",
+            "course_name": "Design Research and Service Design",
+            "course_description": "(cross-leveled with ARCHST 7961). Provides an overview of applied research methods for design and development of products, services and environments.  Introduces human-centered approach to design research and Communication of research findings to informed design concepts.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "senior standing"
+        },
+        {
+            "course_number": "ARCHST 4962",
+            "course_name": "Information Visualization and Visual Analytics",
+            "course_description": "(cross-leveled with ARCHST 7962). Foundation for information visualization and deals with external representation and interactive manipulation of information, data or artifacts using digital tools to enhance communication, analytical reasoning and decision-making.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "senior standing"
+        },
+        {
+            "course_number": "ARCHST 4963",
+            "course_name": "Human Factors Research for Design",
+            "course_description": "(cross-leveled with ARCHST 7963). Investigate effect of people's physical psychological, social functions in environments of differing scales.  Use research techniques of photo-interviewers, mapping, and user analysis to develop an appropriate program for redesign.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "ARCHST 3860"
+        },
+        {
+            "course_number": "ARCHST 4964",
+            "course_name": "Design Thinking and Creative Process",
+            "course_description": "(cross-leveled with ARCHST 7964). Analysis of how designers think, solve design problems, and engage in the creative process.  Includes design methods, design cognition computations, and design protocol studies.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "ARCHST 4813 or ARCHST 4823"
+        },
+        {
+            "course_number": "ARCHST 4990",
+            "course_name": "Thesis Design Studio",
+            "course_description": "Capstone experience on a single comprehensive project. Objective is to enable synthesis of previous course work by addressing a design problem defined in  ARCHST 4860.",
+            "prerequisites": "ARCHST 4860, ARCHST 4814 or ARCHST 4824",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7001",
+            "course_name": "Topics in Environmental Design",
+            "course_description": "Selected current topics in field of interest.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7085",
+            "course_name": "Problems in Environmental Design",
+            "course_description": "Supervised independent work.",
+            "prerequisites": "3000-level course in field of problem  and instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7100",
+            "course_name": "Allied Architecture and Urban Design",
+            "course_description": "Overview of the built environment in relation to architecture and allied design.  Emphasis on architecture, interior, landscape and urban design studies.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7230",
+            "course_name": "Computer Graphic Application for Design I",
+            "course_description": "Applications of computer graphics for design and art; includes visualization, animation and creative development. May repeat up to 12 credit hours maximum.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7232",
+            "course_name": "Graduate Design Communication I",
+            "course_description": "Studio course in techniques and conventions of graphic communication as an aid in the design process of built forms.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7310",
+            "course_name": "Graduate Building Systems",
+            "course_description": "Integrated building systems; structure construction, technology, comfort; including voice-communications, safety, floor, wall, ceiling, mechanical, electrical, and plumbing systems, project estimating and management.",
+            "prerequisites": "MATH 1100 or MATH 1120",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7315",
+            "course_name": "Graduate Systems Laboratory",
+            "course_description": "Experimental learning setting involving building construction systems, renovation, materials and finishes testing and experimentation. Focus on hands-on opportunities investigating building technology properties in detail. Laboratory 3 hrs/week.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-9",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7320",
+            "course_name": "Materials, Methods and Products",
+            "course_description": "Inherent qualities of materials used in the design of interior environments. Manufacturing, application, and installation methods. Focus on environmentally sensitive materials.",
+            "prerequisites": "MATH 1100 or MATH 1120",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7323",
+            "course_name": "Sustainable Technologies and Systems",
+            "course_description": "An in-depth study of ecologically-sensitive and energy-efficient strategies used in buildings and interiors.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7325",
+            "course_name": "Energy-Efficient Building Design",
+            "course_description": "This course is a broad study of energy use and energy-efficient strategies for buildings.  The course will cover the fundamentals of climate-based design, energy-efficient heating/cooling/daylighting strategies, alternative energy systems applicable to buildings, energy auditing/modeling/verification, applicable building energy codes, and high performance building technologies. Recommended for graduate students with undergraduate degrees and experience in engineering, architecture, and/or building science.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7333",
+            "course_name": "Compliance and Specifications",
+            "course_description": "Application of laws, codes, regulations, standards in specifying for life safety, barrier-free and universal design, lighting, human factors, and contract documents.",
+            "prerequisites": "T_A_M 2100 and MATH 1100 or MATH 1120",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7355",
+            "course_name": "Recent Trends in Digital Media I",
+            "course_description": "Recent Trends in Digital Media I",
+            "prerequisites": "None Listed",
+            "credit_hours": "2-4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7410",
+            "course_name": "History of the Designed Environment to 1750",
+            "course_description": "An in-depth study of the designed environment including housing interiors, and furniture of the major historical periods from prehistory to the Industrial Revolution.",
+            "prerequisites": "AR_H_A 1110 and AR_H_A 1120",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7411",
+            "course_name": "Study Abroad in Architectural History",
+            "course_description": "Discovery of historic architecture through on-site tour of timeless cities and places.  May be repeated for credit.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7420",
+            "course_name": "History of the Designed Environment after 1750",
+            "course_description": "An in-depth study of the designed environment, including housing, interiors, and furniture of the major historical periods from the Industrial Revolution to today.",
+            "prerequisites": "AR_H_A 1110 or AR_H_A 1120",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7430",
+            "course_name": "Guiding Design with Historic Preservation",
+            "course_description": "(cross-leveled with ARCHST 4430). Approaches to historic preservation; historic roots of architecture and interiors; regulations and design guidelines governing intervention; assessing significance of historic properties.",
+            "prerequisites": "American History or Government or Art History or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7440",
+            "course_name": "Design Precedents: Architecture, Interiors and Furniture since the Industrial Revolution",
+            "course_description": "(cross-leveled with ARCHST 4440). Analysis of historical exemplars of architecture, interiors and furniture design offering strategies for approaching contemporary design problems.  Covers design precedents from industrial revolution to contemporary design.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7550",
+            "course_name": "Visual Presentation for Design",
+            "course_description": "Emphasizes principles and techniques for effective visual design presentation.  Focuses on concepts of design, layout storytelling, critiques and hands on exercises.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7555",
+            "course_name": "Recent Trends in Environmental Design",
+            "course_description": "Upper-division students seeking additional knowledge in specific subject matter areas including digital media software.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7620",
+            "course_name": "Environment and Behavior",
+            "course_description": "Evaluate relationships between human behavior and environmental design. Survey of environment and behavior theoretical foundations examining how these concepts translate into a more responsive theory of design.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7630",
+            "course_name": "Shaping Human Settlements",
+            "course_description": "Review classic designs and designers, key concepts and enduring issues of community design within the overall framework of environmental design.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7640",
+            "course_name": "Physical Function and Older Adults",
+            "course_description": "(same as F_C_MD 7750, HMI 7750, H_D_FS 7750, NURSE 7750, P_HLTH 7750, and SOC_WK 7752).  This course takes an interdisciplinary approach to understanding and improving the physical function and independence of older adults and explores approaches to alleviate disabling conditions that interfere with physical function and quality of life in old age.   Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7650",
+            "course_name": "Psychosocial Function and Older Adults",
+            "course_description": "(same as F_C_MD 7751,HMI 7751, H_D_FS 7751, NURSE 7751, P_HLTH 7751 and SOC_WK 7751).  This course takes an Interdisciplinary approach to understanding the psychosocial function of older adults and explores approaches to alleviate disabling conditions that interfere with psychosocial function and quality of life in old age.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7660",
+            "course_name": "Housing Concepts and Issues",
+            "course_description": "Evaluate housing policies, regulations, codes, programs; global and ecological perspectives of environment and behavior; historic preservation; financial issues; trends and projections.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-12",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7700",
+            "course_name": "Place-Making in Community Design",
+            "course_description": "Ideologies, case studies and participatory methods on place-making in community design.  Use processes to design a place-making scheme in actual community project.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7710",
+            "course_name": "Design Business Practices",
+            "course_description": "Analysis of the basic professional, human, and business skills necessary for the successful design practice. Prerequisites or Corequisites of Studio IV and anticipated graduation during final academic year.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7760",
+            "course_name": "Healthcare Facilities Design",
+            "course_description": "(cross-leveled with ARCHST 4760). Health care facilities design and planning course provides an in-depth investigation of best practice examples. Design and research methods include evidence-based design, simulation, and space syntax analysis leading to high-performance healthcare design. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7815",
+            "course_name": "Studio V",
+            "course_description": "A continuation of previous studio with emphasis on digital media.",
+            "prerequisites": "None Listed",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7840",
+            "course_name": "Graduate Design Studio",
+            "course_description": "Advanced graduate level design experience emphasizing project complexity, design skill refinement, and optional development of thesis project strategies.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7940",
+            "course_name": "Internship in Environmental Design",
+            "course_description": "Field experience in design under professional and educational supervision.  Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7960",
+            "course_name": "Readings in Environmental Design",
+            "course_description": "Readings in recent research materials.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7961",
+            "course_name": "Design Research and Service Design",
+            "course_description": "(cross-leveled with ARCHST 4961). Provides an overview of applied research methods for design and development of products, services and environments. Introduces human-centered approach to design research and communication of research findings to inform design concepts.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7962",
+            "course_name": "Information Visualization and Visual Analytics",
+            "course_description": "(cross-leveled with ARCHST 4962). Foundation for information visualization and deals with external representation and interactive manipulation of information, data or artifacts using digital tools to enhance communication, analytical reasoning and decision-making.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7963",
+            "course_name": "Human Factors Research for Design",
+            "course_description": "(cross-leveled with ARCHST 4963). Investigate effect of people's physical psychological, social functions in environments of differing scales.  Use research techniques of photo-interviewers, mapping, and user analysis to develop an appropriate program for redesign.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 7964",
+            "course_name": "Design Thinking and Creative Process",
+            "course_description": "(cross-leveled with ARCHST 4964). Analysis of how designers think, solve design problems, and engage in the creative process. Includes design methods, design cognition and computations, and design protocol studies.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8001",
+            "course_name": "Topics in Environmental Design",
+            "course_description": "Selected current topics in field of interest.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8050",
+            "course_name": "Research Methods in Environmental Design",
+            "course_description": "A comparative study of quantitative and qualitative methods in environmental design with emphasis on research results and analyses. Lectures and seminar discussions.",
+            "prerequisites": "12 hours advanced design",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8085",
+            "course_name": "Problems in Environmental Design",
+            "course_description": "",
+            "prerequisites": "4000-level course in field of problem and instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8090",
+            "course_name": "Master's Research in Environmental Design",
+            "course_description": "Independent research leading to a creative project.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8230",
+            "course_name": "Computer Graphic Application for Design II",
+            "course_description": "Creative computer graphic modeling, rendering and animation projects related to the academic background and interests of individual students. May be repeated to 6 hours maximum.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8233",
+            "course_name": "Graduate Design Communication II",
+            "course_description": "Advanced studio in techniques and conventions of graphic communication as aides in the design process.",
+            "prerequisites": "ARCHST 7232 or advisor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8600",
+            "course_name": "Graduate Environmental Analysis",
+            "course_description": "Analysis of design principles and organizational factors operating in a building by means of dissection. Volumetric disposition, circulation pattern, axes, structural system, materials, purpose, and symbolism.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8630",
+            "course_name": "Philosophy of Environmental Design Research",
+            "course_description": "Formal environmental design theory concerning historical precedents, current aesthetic trends, and design processes. Assignments investigate philosophical influences, architectonic vocabularies, and communication of idea and artifact. May be repeated up to 12 credit hours.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8633",
+            "course_name": "Theoretical Perspectives of Design Computing",
+            "course_description": "Key theoretical ideas underlying the relationship between design and computing. Main research topics relevant to current discourse in design computing.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8650",
+            "course_name": "Theories in Architectural and Interior Design",
+            "course_description": "Architectural and interior design theory is explored as a field of inquiry.  Students become familiar with a theoretical framework that is sensitive to the play between the principles of a building (what it is as a design) and the circumstances of a building (what it becomes to be).",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8820",
+            "course_name": "Graduate Digital Design Studio",
+            "course_description": "Graduate level design experience emphasizing project complexity, design skill refinement, and use of digital media for design representation.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8830",
+            "course_name": "Digital Design Studio II",
+            "course_description": "Advanced graduate level design experience emphasizing design, documentation, and representation using digital media. Optional development of graduate thesis project may be scheduled in this studio.",
+            "prerequisites": "None Listed",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8840",
+            "course_name": "Graduate Design Studio",
+            "course_description": "Advanced graduate level design experience emphasizing project complexity, design skill refinement, and optional development of thesis project strategies.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8850",
+            "course_name": "Seminar in Environmental Design",
+            "course_description": "Reports, discussion of recent work in area of concentration.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8887",
+            "course_name": "Environment and Behavior II",
+            "course_description": "Synthesis of environment and behavior themes in design research and application to professional practice. Research on socio-behavioral phenomena, user groups, places. Emphasis on integrated interactive character of elements.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8950",
+            "course_name": "Qualitative Research Methods",
+            "course_description": "Explores qualitative research methods as foundation for subsequent study. Focuses on qualitative research of the built environment.  Course may be repeated for credit.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8960",
+            "course_name": "Readings in Environmental Design",
+            "course_description": "Readings in recent research materials.",
+            "prerequisites": "ARCHST 4960 or ARCHST 7960",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 8990",
+            "course_name": "Thesis Project Proposal",
+            "course_description": "The formal opportunity to express the intent and scope of the thesis project.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 9001",
+            "course_name": "Topics in Environmental Design",
+            "course_description": "Selected current topics in field of interest.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 9085",
+            "course_name": "Problems in Environmental Design",
+            "course_description": "",
+            "prerequisites": "4000-level course in field of problem and instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 9090",
+            "course_name": "Doctoral Research in Environmental Design",
+            "course_description": "Independent research leading to thesis or dissertation. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 9555",
+            "course_name": "Recent Trends in Environmental Design",
+            "course_description": "For students seeking additional knowledge and understanding in specific subject matter areas.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 9990",
+            "course_name": "Dissertation Proposal",
+            "course_description": "A formal dissertation proposal is written and presented to the dissertation committee for approval.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-9",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ARCHST 9995",
+            "course_name": "Pilot Project for Dissertation",
+            "course_description": "Working with advisor, student proposes, conducts, and reports the findings from a pilot study germane to the dissertation topic in preparation for the dissertation research.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        }
+    ]
+}

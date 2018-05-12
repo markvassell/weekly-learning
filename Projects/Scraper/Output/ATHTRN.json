@@ -1,0 +1,190 @@
+{
+    "department_name": "Athletic Training ",
+    "department_code": "ATHTRN",
+    "courses": [
+        {
+            "course_number": "ATHTRN 1100",
+            "course_name": "Athletic Training Skills I",
+            "course_description": "Introduction to athletic training skills. Clinical observation hours required. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Pre-Athletic Training majors only",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 1200",
+            "course_name": "Athletic Training Skills II",
+            "course_description": "Continuation of athletic training skills. Graded on A-F basis only.",
+            "prerequisites": "Pre-Athletic Training majors; Completion of ATHTRN 1100 with minimum grade of B-",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 2001",
+            "course_name": "Topics in Athletic Training",
+            "course_description": "Organized study of selected topics in Athletic Training. Subjects and earnable credit may vary from semester to semester.",
+            "prerequisites": "Instructor's consent",
+            "credit_hours": "1-15",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 2100",
+            "course_name": "Principles and Fundamentals of Athletic Training",
+            "course_description": "Introduces students to the common principles and fundamentals associated with the profession of athletic training.  Graded on A-F basis only.",
+            "prerequisites": "Restricted to Pre-Athletic Training majors",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 2150",
+            "course_name": "Athletic Training Practicum I",
+            "course_description": "The first in a sequence of practical/clinical experiences under the direct supervision of a Preceptor. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; ATHTRN 1100, ATHTRN 1200, and ATHTRN 2100",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 2250",
+            "course_name": "Athletic Training Practicum II",
+            "course_description": "The second in a sequence of practical/clinical experiences under the direct supervision of a Preceptor. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 2150 with minimum grade of B-",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 2500",
+            "course_name": "Elementary Human Anatomy",
+            "course_description": "Analysis of the structure and function of cells, tissue, and organ systems. Emphasis is placed on the muscular, skeletal, and nervous systems as they relate to human movement. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Pre-Athletic Training majors only",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 2550",
+            "course_name": "Examination of Cadaveric Human Anatomy",
+            "course_description": "Study of the human body utilizing cadaver specimens. Special emphasis will be placed upon the skeletal, muscular and nervous systems. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 2500 with a minimum grade of C",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 2600",
+            "course_name": "Human Physiology",
+            "course_description": "Investigation into the structure, function, physiology, and biochemistry of the cardiovascular, lymphatic, respiratory, digestive, urinary, endocrine, and reproductive systems. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors only; Completion of ATHTRN 2500 with a minimum grade of C",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 3100",
+            "course_name": "Mental Health in Athletic Training",
+            "course_description": "Study of psychosocial strategies, mental health referral policies and clinical application to athletic training. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; PSYCH 1000",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 3150",
+            "course_name": "Athletic Training Practicum III",
+            "course_description": "The third in a sequence of practical/clinical experiences under the direct supervision of a Preceptor. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors only; Completion of ATHTRN 2250 with a minimum grade of B-",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 3200",
+            "course_name": "Therapeutic Modalities",
+            "course_description": "Study of therapeutic modalities utilized in the treatment and rehabilitation of athletic injuries. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 2250 with a minimum grade of B-",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 3250",
+            "course_name": "Athletic Training Practicum IV",
+            "course_description": "The fourth in a sequence of practical/clinical experiences under the direct supervision of a Preceptor. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 3150 with a minimum grade of B-",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 3300",
+            "course_name": "Injury Assessment I",
+            "course_description": "A systematic approach to injury evaluation of the lower extremity and spine. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 2100 with a minimum grade of B- and ATHTRN 2500 and ATHTRN 2550 with a minimum grade of C",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 3400",
+            "course_name": "Injury Assessment II",
+            "course_description": "A systematic approach to injury evaluation of the upper extremity, spine and head.  Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 3300 with a minimum grade of B-",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 3500",
+            "course_name": "Rehabilitation of Athletic Injuries",
+            "course_description": "Study of rehabilitation principles and techniques used to return active individuals to their sport/activity. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 3200 with a minimum grade of B-",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 3600",
+            "course_name": "Administration of Athletic Training",
+            "course_description": "Examines the organizational and administrative aspects of Athletic Training. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 3800",
+            "course_name": "General Medical Conditions",
+            "course_description": "Examination of illness and disease found within the athletic population. Course graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors only, Completion of ATHTRN 3150 with a minimum grade of B-",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 4150",
+            "course_name": "Athletic Training Practicum V",
+            "course_description": "The fifth in a sequence of practical/clinical experiences under the direct supervision of a Preceptor. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 3250 with a minimum grade of B-",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 4250",
+            "course_name": "Athletic Training Practicum VI",
+            "course_description": "The sixth in a sequence of practical/clinical experiences under the direct supervision of a Preceptor. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 4150 with a minimum grade of B-",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 4500",
+            "course_name": "Nutrition for Athletic Performance and Rehabilitation",
+            "course_description": "Nutritional study examining how nutrition impacts sports performance.  Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; PH_THR 4420",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 4970",
+            "course_name": "Seminar in Athletic Training",
+            "course_description": "Capstone senior athletic training course. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 3250 with a minimum grade of B-",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ATHTRN 4970W",
+            "course_name": "Seminar in Athletic Training - Writing Intensive",
+            "course_description": "Capstone senior athletic training course. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Athletic Training majors; Completion of ATHTRN 3250 with a minimum grade of B-",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

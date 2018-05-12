@@ -1,0 +1,14 @@
+{
+    "department_name": "General Human Environmental Sciences ",
+    "department_code": "GN_HES",
+    "courses": [
+        {
+            "course_number": "GN_HES 1100",
+            "course_name": "Introduction to Human Environmental Sciences",
+            "course_description": "Introduction to Human Environmental Sciences",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        }
+    ]
+}

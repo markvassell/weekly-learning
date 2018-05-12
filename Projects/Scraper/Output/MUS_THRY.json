@@ -1,0 +1,550 @@
+{
+    "department_name": "Music-Music Theory ",
+    "department_code": "MUS_THRY",
+    "courses": [
+        {
+            "course_number": "MUS_THRY 1210",
+            "course_name": "Introduction to Computer Technology and Music",
+            "course_description": "Introduces Finale, music engraving and playback software, and introduces sequencing and other software applications that may impact students while they are in school and as professional musicians.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 1213",
+            "course_name": "Introduction to Music Theory",
+            "course_description": "Introduction to music notation and to rhythmic, melodic, harmonic, and structural elements of music.  Emphasis on written skills, but ear training, sight singing, and keyboard components included as well.   Graded on A/F basis only.",
+            "prerequisites": "consent required.  Placement by exam",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 1220",
+            "course_name": "Syntax, Structure and Style of Music I",
+            "course_description": "Review of fundamentals. Study of rhythm, melody, harmonic, structure and stylistic characteristics of various periods. Application through original composition projects. ",
+            "prerequisites": " none for Music majors; others: instructor's consent.",
+            "credit_hours": ": 2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 1221",
+            "course_name": "Syntax, Structure and Style of Music II",
+            "course_description": "Continuation of MUS_THRY 1220. Study of smaller forms and introduction to chromatic harmony.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 1220",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 1230",
+            "course_name": "Aural Training and Sight Singing I",
+            "course_description": "Development of aural and sight singing skills.",
+            "prerequisites": -1,
+            "credit_hours": "2Prerequisites or Corequisites: MUS_THRY 1220",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 1231",
+            "course_name": "Aural Training and Sight Singing II",
+            "course_description": "Continuation of MUS_THRY 1230.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 1230",
+            "credit_hours": "2PrerequisitesorCorequisites:MUS_THRY 1221",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 2215",
+            "course_name": "Composition I",
+            "course_description": "Fundamentals of composition and writing in small forms.",
+            "prerequisites": "grade of B- or better in  MUS_THRY 1220, MUS_THRY 1221, MUS_THRY 1230, MUS_THRY 1231, and instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 2216",
+            "course_name": "Composition II",
+            "course_description": "Continuation of MUS_THRY 2215.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2215",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 2220",
+            "course_name": "Syntax, Structure and Style of Music III",
+            "course_description": "Chromatic harmony, variation techniques and contrapuntal genres. Study of traditional forms in instrumental, vocal and choral compositions. Applications through original composition projects.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 1221",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 2221",
+            "course_name": "Syntax, Structure and Style of Music IV",
+            "course_description": "Continued study of chromatic harmony and compositions in larger forms. Application through original composition projects.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2220",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 2230",
+            "course_name": "Aural Training and Sight Singing III",
+            "course_description": "Continuation of MUS_THRY 1231. Further development of aural and sight singing skills with an emphasis on chromatic harmony and decorative pitches. Introduction of structural perception.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 1231 and MUS_THRY 2220 or MUS_THRY 2220 concurrently",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 2231",
+            "course_name": "Aural Training and Sight Singing IV",
+            "course_description": "Continuation MUS_THRY 2230.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2230",
+            "credit_hours": "2PrerequisitesorCorequisites:MUS_THRY 2221",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 3215",
+            "course_name": "Composition III",
+            "course_description": "Further development of creative writing in traditional forms.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2216",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 3216",
+            "course_name": "Composition IV",
+            "course_description": "Continuation of MUS_THRY 3215.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 3215",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4210",
+            "course_name": "Jazz Harmony and Arranging I",
+            "course_description": "(cross-leveled with MUS_THRY 7210). Study of basic melodic and harmonic materials commonly used in jazz.  Application through arranging projects for small jazz groups.",
+            "prerequisites": "MUSIC_NM 1211 or MUS_THRY 1220; instructor's consent required",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4211",
+            "course_name": "Jazz Harmony and Arranging II",
+            "course_description": "(cross-leveled with MUS_THRY 7211). Continuation of MUS_THRY 4210.  Study of advanced melodic and harmonic materials commonly used in jazz.  Application through arranging projects for small and large jazz groups.",
+            "prerequisites": "MUS_THRY 4210; instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4212",
+            "course_name": "Jazz Theory I",
+            "course_description": "Comprehensive study of the grammar and syntax of jazz harmony.",
+            "prerequisites": "Grade of C- or better in MUSIC_NM 1211 or MUS_THRY 1220",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4213",
+            "course_name": "Jazz Theory 2",
+            "course_description": "Continuation of MUS_THRY 4212.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 4212",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4215",
+            "course_name": "Composition V",
+            "course_description": "Writing of works in larger forms for a solo instrument or chamber ensemble.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 3216",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4216",
+            "course_name": "Composition VI",
+            "course_description": "Continuation of MUS_THRY 4215. May be repeated for additional credit.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 4215",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4220",
+            "course_name": "20th Century Composition Techniques",
+            "course_description": "(cross-leveled with MUS_THRY 7220). The study and application of analytical procedures to 20th century music literature. Special readings; individual projects.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4221",
+            "course_name": "Analysis of Music",
+            "course_description": "An analytical study of rhythmic, melodic, harmonic and structural aspects of 18th-, 19th- and 20th-century music.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221 or equivalent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4222",
+            "course_name": "Computer Technology and Music",
+            "course_description": "The introduction of music software for educational and professional use. Music notation software will be learned. Sequencing software will be studied in depth. Hands-on experience with Macintosh computers, multi-timbral synthesizers and various CD-ROMS.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 4220",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4223",
+            "course_name": "Eighteenth-Century Counterpoint",
+            "course_description": "(cross-leveled with MUS_THRY 7223). Study of contrapuntal procedures and representative works of the eighteenth century. Emphasis on compositions and style of Johann Sebastian Bach. Original composition projects: canon, invention, and fugue.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4225",
+            "course_name": "Sixteenth-Century Counterpoint",
+            "course_description": "(cross-leveled with MUS_THRY 7225). Analysis of contrapuntal procedures and representative compositions of 16th century. Emphasis on styles of Palestrina, Lassus and Victoria. Stylistic writing in two, three or more voices.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4227",
+            "course_name": "Orchestration",
+            "course_description": "(cross-leveled with MUS_THRY 7227). Study of orchestral instruments and the process of scoring for various orchestral combinations.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4229",
+            "course_name": "Band Arranging",
+            "course_description": "Transcription, scoring of solo and ensemble literature for band instrument combinations of varying sizes up to and including concert band.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4230",
+            "course_name": "Choral Arranging",
+            "course_description": "Transcription and arrangement of music suitable for performance by various vocal ensembles.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4231",
+            "course_name": "Schenkerian Analysis",
+            "course_description": "Techniques of musical analysis developed by Heinrich Schenker.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4232",
+            "course_name": "Rhythmic Analysis of Tonal Music",
+            "course_description": "Introduction to rhythmic analysis, including context of current thinking, basic concepts, various approaches, selected topics, performance issues, and particular problems.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4233",
+            "course_name": "Acoustics of Music",
+            "course_description": "(cross-leveled with MUS_THRY 7233). The study of tuning systems and the properties, production and reception of musical sound.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4241",
+            "course_name": "Advanced Schenkerian Analysis",
+            "course_description": "(cross-leveled with MUS_THRY 7241). Continuation of MUS_THRY 4231, with a focus on the analysis of complete works, including larger forms.",
+            "prerequisites": "Grade of C-minus or better in MUS_THRY 4231, or equivalent at another institution",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4245",
+            "course_name": "Introduction to Electronic Music",
+            "course_description": "Techniques used in the creation of music with tape recorders, voltage-controlled synthesizers and electronics.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 4220",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4247",
+            "course_name": "Introduction to Digital Synthesis",
+            "course_description": "Introduction to the techniques of digital synthesis, including the study of programming, and Musical Instrument Digital Interfacing.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4250",
+            "course_name": "Analysis of Musical Styles",
+            "course_description": "Analytical study of specific rhythmic, melodic, harmonic, and structural factors which constitute the stylistic practices of a specific period or MUS_THRY 4221 or equivalent. May be repeated for credit with departmental consent.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4252",
+            "course_name": "Keyboard Harmony and Score Reading",
+            "course_description": "Study of idiomatic chord progressions and harmonization strategies at the keyboard, including figured bass, score reading, and score playing.  Skills are reinforce by analysis, both at sight and prepared.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4267",
+            "course_name": "Advanced Orchestration I",
+            "course_description": "(cross-leveled with MUS_THRY 7267). Transcription for full orchestra of large works from different style periods.  Scoring of original works for orchestra. Seminar, private lessons.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 4227",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4268",
+            "course_name": "Advanced Orchestration II",
+            "course_description": "(cross-leveled with MUS_THRY 7268). Survey of original works for orchestra.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4271",
+            "course_name": "Pedagogy of Music Theory I",
+            "course_description": "Techniques and materials for teaching basic music theory courses for high schools and colleges.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4272",
+            "course_name": "Pedagogy of Music Theory II",
+            "course_description": "Techniques and materials for advanced college courses in music theory.",
+            "prerequisites": "Grade of C- or better in  MUS_THRY 4271",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4284",
+            "course_name": "Contemporary Analytical Techniques",
+            "course_description": "Study and application of various analytical systems for 20th century compositions. Analysis of music employing contemporary theories.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 4299",
+            "course_name": "Graduate Theory Review",
+            "course_description": "Review of music theory for graduate students in music.  Does not fulfill graduate degree requirements. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7210",
+            "course_name": "Advanced Jazz Harmony and Arranging I",
+            "course_description": "(cross-leveled with MUS_THRY 4210). Study of basic melodic and harmonic materials commonly used in jazz.  Application through arranging projects for small jazz groups.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7211",
+            "course_name": "Advanced Jazz Harmony and Arranging II",
+            "course_description": "(cross-leveled with MUS_THRY 4211). Continuation of MUS_THRY 7210.  Study of advanced melodic and harmonic materials commonly used in jazz.  Application through arranging projects for small and large groups.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7215",
+            "course_name": "Composition I",
+            "course_description": "Fundamentals of Composition: Writing in small forms. For non-composition graduate students in music.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7216",
+            "course_name": "Composition II",
+            "course_description": "Continuation of MUS_THRY 7215.",
+            "prerequisites": "MUS_THRY 7215",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7220",
+            "course_name": "20th Century Composition Techniques",
+            "course_description": "(cross-leveled with MUS_THRY 4220). Graduate review in the study and application of analytical procedures to 20th century music literature. Special readings; individual projects.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7221",
+            "course_name": "Analysis of Music",
+            "course_description": "Graduate review in the analytical study of rhythmic, melodic, harmonic and structural aspects of 18th-, 19th- and 20th-century music.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7222",
+            "course_name": "Computer Technology and Music",
+            "course_description": "Graduate-level introduction of music software for educational and professional use. Music notation software will be learned.  Sequencing software will be studied in depth. Hands-on experience with Macintosh computers, multiptimbral synthesizers and various CD-ROMS.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7223",
+            "course_name": "Eighteenth-Century Counterpoint",
+            "course_description": "(cross-leveled with MUS_THRY 4223). Advanced study of contrapuntal procedures and representative works of the eighteenth century. Emphasis on compositions and style of Johann Sebastian Bach. Original composition projects: canon, invention, and fugue. ",
+            "prerequisites": " instructor's consent",
+            "credit_hours": ": 3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7225",
+            "course_name": "Sixteenth-Century Counterpoint",
+            "course_description": "(cross-leveled with MUS_THRY 4225). Advanced analysis of contrapuntal procedures and representative compositions of 16th century. Emphasis on styles of Palestrina, Lassus and Victoria. Stylistic writing in two, three or more voices.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7227",
+            "course_name": "Advanced Orchestration",
+            "course_description": "(cross-leveled with MUS_THRY 4227). Study of orchestral instruments and the process of scoring for various orchestral combinations.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7229",
+            "course_name": "Band Arranging",
+            "course_description": "Advanced transcription, scoring of solo and ensemble literature for band instrument combinations of varying sizes up to and including concert band.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7230",
+            "course_name": "Choral Arranging",
+            "course_description": "Advanced transcription and arrangement of music suitable for performance by various vocal ensembles.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7231",
+            "course_name": "Schenkerian Analysis",
+            "course_description": "Advanced techniques of musical analysis developed by Heinrich Schenker.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7232",
+            "course_name": "Rhythmic Analysis of Tonal Music",
+            "course_description": "Advanced study of rhythmic analysis, including context of current thinking, basic concepts, various approaches, selected topics, performance issues, and particular problems.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7233",
+            "course_name": "Acoustics of Music",
+            "course_description": "(cross-leveled with MUS_THRY 4233). Advanced study of tuning systems and the properties, production and reception of musical sound.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7241",
+            "course_name": "Advanced Schenkerian Analysis",
+            "course_description": "(cross-leveled with MUS_THRY 4241). Continuation of MUS_THRY 7231, with a focus on the analysis of complete works, including larger forms.",
+            "prerequisites": "Grade of C-minus or better in MUS_THRY 4231 or MUS_THRY 7231, or equivalent at another institution",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7245",
+            "course_name": "Introduction to Electronic Music",
+            "course_description": "Advanced techniques used in the creation of music with tape recorders, voltage-controlled synthesizers and electronics.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7247",
+            "course_name": "Introduction to Digital Synthesis",
+            "course_description": "Graduate-level introduction to the techniques of digital synthesis, including the study of programming, and Musical Instrument Digital Interfacing.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7250",
+            "course_name": "Analysis of Musical Styles",
+            "course_description": "Advanced analytical study of specific rhythmic, melodic, harmonic, and structural factors which constitute the stylistic practices of a specific period or composer. May be repeated for credit with departmental consent.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7252",
+            "course_name": "Keyboard Harmony and Score Reading",
+            "course_description": "Study of idiomatic chord progressions and harmonization strategies at the keyboard, including figured bass, score reading, and score playing.  Skills are reinforce by analysis, both at sight and prepared.",
+            "prerequisites": "demonstrable keyboard proficiency at level of Bach invention; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7267",
+            "course_name": "Advanced Orchestration I",
+            "course_description": "(cross-leveled with MUS_THRY 4267). Advanced transcription for full orchestra of large works from different style periods.  Scoring of original works for orchestra. Seminar, private lessons.",
+            "prerequisites": "MUS_THRY 7227 or instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7268",
+            "course_name": "Advanced Orchestration II",
+            "course_description": "(cross-leveled with MUS_THRY 4268). Survey of original works for orchestra.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7271",
+            "course_name": "Pedagogy of Music Theory I",
+            "course_description": "Advanced techniques and materials for teaching basic music theory courses for high schools and colleges.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7272",
+            "course_name": "Pedagogy of Music Theory II",
+            "course_description": "Advance techniques and materials for advanced college courses in music theory.",
+            "prerequisites": "MUS_THRY 7271",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 7284",
+            "course_name": "Contemporary Analytical Techniques",
+            "course_description": "Advanced study and application of various analytical systems for 20th century compositions. Analysis of music employing contemporary theories.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MUS_THRY 8215",
+            "course_name": "Composition VII",
+            "course_description": "Intensive work in larger forms. Seminar, private lessons. May be repeated for credit with departmental consent.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        }
+    ]
+}

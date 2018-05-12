@@ -1,0 +1,470 @@
+{
+    "department_name": "Diagnostic Medical Ultrasound ",
+    "department_code": "DMU",
+    "courses": [
+        {
+            "course_number": "DMU 1000",
+            "course_name": "Introduction to Diagnostic Medical Ultrasound",
+            "course_description": "Introduction to the profession of diagnostic medical ultrasound. Imaging characteristics, educational requirements, professional trends. Observation opportunities. Graded on S/U basis only.",
+            "prerequisites": "Departmental consent required",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4001",
+            "course_name": "Topics in Diagnostic Medical Ultrasound",
+            "course_description": "Organized study of selected topics in medical ultrasound. Topics may vary.  May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "restricted to Diagnostic Medical Ultrasound undergraduate students; program director's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4001W",
+            "course_name": "Topics in Diagnostic Medical Ultrasound - Writing Intensive",
+            "course_description": "Organized study of selected topics in medical ultrasound. Topics may vary.  May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "restricted to Diagnostic Medical Ultrasound undergraduate students; program director's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4085",
+            "course_name": "Problems in Diagnostic Medical Ultrasound",
+            "course_description": "Independent study leading to a special project or paper. May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "restricted to Diagnostic Medical Ultrasound undergraduate students only; program director's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4085W",
+            "course_name": "Problems in Diagnostic Medical Ultrasound - Writing Intensive",
+            "course_description": "Independent study leading to a special project or paper. May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "restricted to Diagnostic Medical Ultrasound undergraduate students only; program director's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4200",
+            "course_name": "Principles of Diagnostic Medical Ultrasound",
+            "course_description": "Principles and history of ultrasound, ultrasound equipment, sonographic techniques, aspects of patient care.",
+            "prerequisites": "departmental consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4234",
+            "course_name": "Clinical Pathophysiology",
+            "course_description": "(cross-leveled with DMU 7234). Abnormal function of organ systems in the presence of disease; clinical manifestations and medical management.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4234W",
+            "course_name": "Clinical Pathophysiology - Writing Intensive",
+            "course_description": "Abnormal function of organ systems in the presence of disease; clinical manifestations and medical management.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4309",
+            "course_name": "Normal Ultrasound Clinical",
+            "course_description": "(cross-leveled with DMU 7309). Integration of ultrasound instrumentation and clinical practice in a laboratory setting. Interaction between the sonographer, equipment and patient.",
+            "prerequisites": "DMU 4312 and instructor's consent",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4311",
+            "course_name": "Pathological Images of Ultrasound",
+            "course_description": "(cross-leveled with DMU 7311). Disease presentation in ultrasound imaging. Practical aspects of ultrasound scanning techniques in pathology.",
+            "prerequisites": "DMU 4200, DMU 4312 and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4312",
+            "course_name": "Sectional Anatomy",
+            "course_description": "(same as RA_SCI 4110; cross-leveled with DMU 7312, RA_SCI 7110). A study of human anatomy using the sectional approach; anatomical structures will be related to modern medical imaging techniques. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Diagnostic Medical Ultrasound students",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4313",
+            "course_name": "Ultrasound Physics",
+            "course_description": "(cross-leveled with DMU 7313), Principles of diagnostic ultrasound physics. Sound wave characteristics, tissue interaction, power intensity, and Doppler physics.",
+            "prerequisites": "MATH 1100, CHEM 1100 or CHEM 1320, PHYSCS 1210, and departmental consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4314",
+            "course_name": "Abdominal Ultrasound",
+            "course_description": "(cross-leveled with DMU 7314). Differentiation between normal and pathological ultrasound studies of the abdomen. Differential diagnosis of pathological states.",
+            "prerequisites": "DMU 4312, DMU 4309 and DMU 4311; instructor's consent",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4315",
+            "course_name": "Ultrasound Instrumentation",
+            "course_description": "(cross-leveled with DMU 7315). Integration of ultrasound physics and instrumentation components in a laboratory setting. Practice in modes of operation and safety.",
+            "prerequisites": "DMU 4200; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4318",
+            "course_name": "Gynecology Ultrasound",
+            "course_description": "(cross-leveled with DMU 7318). Study of normal and abnormal gynecological ultrasound anatomy. Distinction between normal and pathological states and ultrasound differential diagnosis.",
+            "prerequisites": "DMU 4312, DMU 4309 and DMU 4311",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4320",
+            "course_name": "Obstetrics Ultrasound",
+            "course_description": "(cross-leveled with DMU 7320). Study of normal and abnormal obstetrical ultrasound anatomy. Distinction between normal and pathological OB ultrasound studies with emphasis on differential diagnosis.",
+            "prerequisites": "DMU 4312, DMU 4309 and DMU 4311; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4322",
+            "course_name": "Superficial Organs Ultrasound",
+            "course_description": "(cross-leveled with DMU 7322). Ultrasound evaluation and diagnosis of normal and abnormal superficial organs; thyroid gland, testes, breasts, soft tissues and musculoskeletal.",
+            "prerequisites": "DMU 4312, DMU 4309 and DMU 4311; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4325",
+            "course_name": "Ultrasound Clinical Pharmacology and Contrast Agents",
+            "course_description": "(cross-leveled with DMU 7325). Study of the biophysical, biochemical and complete action of ultrasound contrast agents and other drugs used in Diagnostic Medical Ultrasound and their pharmacodynamics.",
+            "prerequisites": "Restricted to Diagnostic Medical Ultrasound",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4326",
+            "course_name": "Vascular Ultrasound Physics, Instrumentation and Hemodynamics",
+            "course_description": "(cross-leveled with DMU 7326). Study of vascular principles and fundamentals including physics and instrumentation. Emphasis on ultrasound wave characteristics, Doppler principles, tissue interaction and hemodynamics.",
+            "prerequisites": "DMU 4313 and DMU 4315; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4330",
+            "course_name": "Vascular Ultrasound Lab",
+            "course_description": "(cross-leveled with DMU 7330). Vascular ultrasound scanning techniques, protocols, measurements, film/video critique, and Plethysmography in a clinical lab setting.",
+            "prerequisites": "DMU 4312, and DMU 4326; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4332",
+            "course_name": "Vascular Ultrasound",
+            "course_description": "(cross-leveled with DMU 7332). Vascular ultrasound for normal and pathological processes: study of disease, correlation of patients' clinical data and ultrasound findings used in differential diagnosis.",
+            "prerequisites": "DMU 4312, DMU 4311, DMU 4322, and DMU 4326",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4338",
+            "course_name": "Cardiac Ultrasound, Principles and Hemodynamics",
+            "course_description": "(cross-leveled with DMU 7338). Study of cardiac ultrasound fundamentals including: wave characteristics, principles of 2-D/3-D/4-D imaging, M-mode, and Doppler, cardiac anatomy and physiology, embryology, evaluation methods and hemodynamics.  Graded on A-F basis only.",
+            "prerequisites": "DMU 4313 and DMU 4315; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4342",
+            "course_name": "Adult Cardiac Ultrasound",
+            "course_description": "(cross-leveled with DMU 7342). Provides principles of diagnostic adult cardiac ultrasound in relation to pathology, further presenting the practical aspects of scanning techniques, exam critique, patient care in relation to cardiac US exams. Graded on A-F basis only.",
+            "prerequisites": "DMU 4313, DMU 4315 and DMU 4338; instructor's consent",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4941",
+            "course_name": "Ultrasound Clinical I",
+            "course_description": "(cross-leveled with DMU 7941). Application of medical ultrasound in supervised clinical settings. Decisions regarding diagnosis, patient handling and imaging.",
+            "prerequisites": "DMU 4312, DMU 4309 and DMU 4311",
+            "credit_hours": "7",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4943",
+            "course_name": "Ultrasound Clinical III",
+            "course_description": "(cross-leveled with DMU 7943). Final clinical application of general medical ultrasound practicum in supervised clinical settings. Further enhancement of practice, decision making, patient handling, image processing and case studies.",
+            "prerequisites": "DMU 4993 and instructor's consent",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4944",
+            "course_name": "Vascular Ultrasound Clinical IV",
+            "course_description": "(cross-leveled with DMU 7944). Application of diagnostic vascular ultrasound in supervised clinical settings: practice, decision making, patient handling and image processing.",
+            "prerequisites": "DMU 4326 and instructor's consent",
+            "credit_hours": "7",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4945",
+            "course_name": "Cardiac Ultrasound Clinical V",
+            "course_description": "(cross-leveled with DMU 7945). Application of ultrasonography in real clinical settings for learning, practicing and decision making regarding, patient handling and imaging process with students supervised in a clinical setting. Graded on A-F basis only.",
+            "prerequisites": "DMU 4313, DMU 4315, and DMU 4944.  Instructor and Departmental permission required",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4946",
+            "course_name": "Cardiac Ultrasound Clinical VI",
+            "course_description": "(cross-leveled with DMU 7946). Further application of ultrasonography for continuation of learning, practicing and decision making, patient handling and imaging process with students supervised in a clinical setting. Graded on A-F basis only.",
+            "prerequisites": "DMU 4313, DMU 4315, DMU 4338 and DMU 4945.  Instructor and Departmental permission required",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 4993",
+            "course_name": "Ultrasound Clinical II",
+            "course_description": "(cross-leveled with DMU 7993). Application of medical ultrasound in supervised clinical settings with practice and decision making related to ultrasound diagnosis, patient handling and image processing.",
+            "prerequisites": "DMU 4941; instructor's consent",
+            "credit_hours": "8",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7200",
+            "course_name": "Diagnostic Medical Ultrasound Principles and Patient Care",
+            "course_description": "Introduction diagnostic medical ultrasound principles including history, development, ultrasound physics - equipment fundamentals.  Provides introduction to concepts of sonographic techniques, positioning, image critique, aspects of patient care and professional organizations. Graded on A-F basis only.",
+            "prerequisites": "DMU 1000. Restricted to Graduate Diagnostic Medical Ultrasound students",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7234",
+            "course_name": "Clinical Pathophysiology",
+            "course_description": "(cross-leveled with DMU 4234). Abnormal function of organ systems in the presence of disease; clinical manifestations and medical management.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7309",
+            "course_name": "Normal Ultrasound Clinical",
+            "course_description": "(cross-leveled with DMU 4309). Integration of ultrasound instrumentation and clinical practice in a laboratory setting. Interaction between the sonographer, equipment and patient.",
+            "prerequisites": "DMU 7312, DMU 7313 and DMU 7315",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7311",
+            "course_name": "Pathological Images Ultrasound",
+            "course_description": "(cross-leveled with DMU 4311), Disease presentation in ultrasound imaging. Practical aspects of ultrasound scanning techniques in pathology.",
+            "prerequisites": "DMU 4200, DMU 7312 and DMU 7315; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7312",
+            "course_name": "Sectional Anatomy",
+            "course_description": "(same as RA_SCI 7110; cross-leveled with DMU 4312, RA_SCI 4110). A study of human anatomy using the sectional approach; anatomical structures will be related to modern medical imaging techniques. Graded on A-F basis only.",
+            "prerequisites": "Restricted to Graduate Diagnostic Medical Ultrasound students",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7313",
+            "course_name": "Ultrasound Physics",
+            "course_description": "(cross-leveled with DMU 4313). Principles of diagnostic ultrasound physics. Sound wave characteristics, tissue interaction, power intensity, and Doppler physics.",
+            "prerequisites": "MATH 1100, CHEM 1100 or CHEM 1320, PHYSCS 1210, and departmental consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7314",
+            "course_name": "Abdominal Ultrasound",
+            "course_description": "(cross-leveled with DMU 4314). Differentiation between normal and pathological ultrasound studies of the abdomen. Differential diagnosis of pathological states.",
+            "prerequisites": "DMU 7312, DMU 7309 and DMU 7311; instructor's consent",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7315",
+            "course_name": "Ultrasound Instrumentation",
+            "course_description": "(cross-leveled with DMU 4315). Integration of ultrasound physics and instrumentation components in a laboratory setting. Practice in modes of operation and safety.",
+            "prerequisites": "DMU 4200; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7318",
+            "course_name": "Gynecology Ultrasound",
+            "course_description": "(cross-leveled with DMU 4318). Study of normal and abnormal gynecological ultrasound anatomy. Distinction between normal and pathological states and ultrasound differential diagnosis.",
+            "prerequisites": "DMU 7312, DMU 7309 and DMU 7311",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7320",
+            "course_name": "Obstetrics Ultrasound",
+            "course_description": "(cross-leveled with DMU 4320). Study of normal and abnormal obstetrical ultrasound anatomy. Distinction between normal and pathological OB ultrasound studies with emphasis on differential diagnosis.",
+            "prerequisites": "DMU 7312, DMU 7309 and DMU 7311; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7322",
+            "course_name": "Superficial Organs Ultrasound",
+            "course_description": "(cross-leveled with DMU 4322). Ultrasound evaluation and diagnosis of normal and abnormal superficial organs; thyroid gland, testes, breasts, soft tissues and musculoskeletal.",
+            "prerequisites": "DMU 7312, DMU 7309 and DMU 7311",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7325",
+            "course_name": "Ultrasound Clinical Pharmacology and Contrast Agents",
+            "course_description": "(cross-leveled with DMU 4325). Study of the biophysical, biochemical and complete action of ultrasound contrast agents and other drugs used in DMU and their pharmacodynamics.",
+            "prerequisites": "Restricted to Graduate Diagnostic Medical Ultrasound majors",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7326",
+            "course_name": "Vascular Ultrasound Physics, Instrumentation and Hemodynamics",
+            "course_description": "(cross-leveled with DMU 4326). Study of vascular principles and fundamentals including physics and instrumentation. Emphasis on ultrasound wave characteristics, Doppler principles, tissue interaction and hemodynamics.",
+            "prerequisites": "DMU 7313 and DMU 7315; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7330",
+            "course_name": "Vascular Ultrasound Lab",
+            "course_description": "(cross-leveled with DMU 4330). Vascular ultrasound scanning techniques, protocols, measurements, film/video critique, and Plethysmography in a clinical lab setting.",
+            "prerequisites": "DMU 7312, and DMU 7326; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7332",
+            "course_name": "Vascular Ultrasound",
+            "course_description": "(cross-leveled with DMU 4332). Vascular ultrasound for normal and pathological processes: study of disease, correlation of patients' clinical data and ultrasound findings used in differential diagnosis.",
+            "prerequisites": "DMU 7312, DMU 7311, DMU 7322, and DMU 7326 or instructor's consent",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7338",
+            "course_name": "Cardiac Ultrasound, Principles and Hemodynamics",
+            "course_description": "(cross-leveled with DMU 4338). Study of cardiac ultrasound fundamentals including: wave characteristics, principles of 2-D/3-D/4-D imaging, M-mode, and Doppler, cardiac anatomy and physiology, embryology, evaluation methods and hemodynamics. Graded on A-F basis only.",
+            "prerequisites": "DMU 7313, DMU 7315",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7342",
+            "course_name": "Adult Cardiac Ultrasound",
+            "course_description": "(cross-leveled with DMU 4342). Study of adult cardiac ultrasound for normal and pathological processes. Differential diagnosis of cardiac disease through correlation of patients' clinical data and ultrasound findings.",
+            "prerequisites": "DMU 7312, DMU 7313 and DMU 7315 and instructor's consent",
+            "credit_hours": "5",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7941",
+            "course_name": "Ultrasound Clinical I",
+            "course_description": "(cross-leveled with DMU 4941). Application of medical ultrasound in supervised clinical settings. Decisions regarding diagnosis, patient handling and imaging.",
+            "prerequisites": "DMU 7312, DMU 7309 and DMU 7311",
+            "credit_hours": "7",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7943",
+            "course_name": "Ultrasound Clinical III",
+            "course_description": "(cross-leveled with DMU 4943). Final clinical application of general medical ultrasound practicum in supervised clinical settings. Further enhancement of practice, decision making, patient handling, image processing and case studies.",
+            "prerequisites": "DMU 7993 and instructor's consent; Restricted to DMU students only",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7944",
+            "course_name": "Vascular Ultrasound Clinical IV",
+            "course_description": "(cross-leveled with DMU 4944). Application of diagnostic vascular ultrasound in supervised clinical settings: practice, decision making, patient handling and image processing.",
+            "prerequisites": "DMU 7326 and instructor's consent",
+            "credit_hours": "7",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7945",
+            "course_name": "Cardiac Ultrasound Clinical V",
+            "course_description": "(cross-leveled with DMU 4945). Application of diagnostic cardiac ultrasound in supervised clinical settings: practice and decision making regarding echocardiography, patient handling and image processing.",
+            "prerequisites": "DMU 7313 and DMU 7315",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7946",
+            "course_name": "Cardiac Ultrasound Clinical VI",
+            "course_description": "(cross-leveled with DMU 4946). Further enhancement of diagnostic cardiac ultrasound in supervised clinical settings: practice and decision making regarding echocardiography, patient handling and image processing.",
+            "prerequisites": "DMU 7945",
+            "credit_hours": "6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 7993",
+            "course_name": "Ultrasound Clinical II",
+            "course_description": "(cross-leveled with DMU 4993). Application of medical ultrasound in supervised clinical settings with practice and decision making related to ultrasound diagnosis, patient handling and image processing.",
+            "prerequisites": "DMU 7941. Restricted to Graduate Diagnostic Medical Ultrasound students",
+            "credit_hours": "8",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 8001",
+            "course_name": "Topics in Diagnostic Medical Ultrasound",
+            "course_description": "Organized study of selected topics. Topic may vary.",
+            "prerequisites": "restricted to students enrolled in the Diagnostic Medical Ultrasound program only",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 8050",
+            "course_name": "Research in Diagnostic Medical Ultrasound",
+            "course_description": "Research not leading to a thesis or dissertation. Graded on an A-F basis only.",
+            "prerequisites": "restricted to students enrolled in the Diagnostic Medical Ultrasound program only",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 8085",
+            "course_name": "Problems in Diagnostic Medical Ultrasound",
+            "course_description": "Independent study of a special project involving clinical applications or research. Topic may vary.",
+            "prerequisites": "restricted to students enrolled in the Diagnostic Medical Ultrasound program only",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 8090",
+            "course_name": "Research in Diagnostic Medical Ultrasound",
+            "course_description": "Research leading to a thesis or dissertation. Graded on an S/U basis only.",
+            "prerequisites": "restricted to students enrolled in the Diagnostic Medical Ultrasound program only",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 8346",
+            "course_name": "Pediatric Cardiac Ultrasound",
+            "course_description": "Study of pediatric cardiac ultrasound for normal and pathological processes. Differential diagnosis of cardiac disease through correlation of patients' clinical data and ultrasound findings.",
+            "prerequisites": "DMU 7342 and instructor's consent",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "DMU 8947",
+            "course_name": "Applied Clinical Research & Practicum",
+            "course_description": "Clinical research application of cardiovascular & general ultrasound in clinical environment: clinical research, practicum, decision making, patient handling, and image processing.  Graded on A-F basis only.",
+            "prerequisites": "DMU 7944, DMU 7946, instructor's consent",
+            "credit_hours": "5-8",
+            "recommendation": "None Listed"
+        }
+    ]
+}

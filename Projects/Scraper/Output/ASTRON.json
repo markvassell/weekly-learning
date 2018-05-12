@@ -1,0 +1,166 @@
+{
+    "department_name": "Astronomy ",
+    "department_code": "ASTRON",
+    "courses": [
+        {
+            "course_number": "ASTRON 1010",
+            "course_name": "Introduction to Astronomy",
+            "course_description": "Survey of methods of astronomy; description of the solar system, stellar astronomy, structure of the galaxy and the universe. Three hours of lecture and one hour of lab per week (scheduled by the instructor).  Satisfies physical science laboratory requirement.  Laboratory section: Survey of astronomical methods, instruments, observations and measurement techniques.",
+            "prerequisites": "None Listed",
+            "credit_hours": "4",
+            "recommendation": "MATH 1100 or MATH 1120 or equivalent"
+        },
+        {
+            "course_number": "ASTRON 1020",
+            "course_name": "Introduction to Laboratory Astronomy",
+            "course_description": "Laboratory supplement to Astronomy 1010. Satisfies physical science laboratory requirement. Survey of astronomical methods, instruments, observations and measurement techniques.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "MATH 1100 or MATH 1120"
+        },
+        {
+            "course_number": "ASTRON 3010",
+            "course_name": "Introduction to Modern Astrophysics",
+            "course_description": "(same as PHYSCS 3010). Elements of stellar, and galactic astrophysics. Interpretation of observations and physical conditions of various astronomical objects including stars, gaseous nubulea and, galaxies.",
+            "prerequisites": "PHYSCS 2760",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 4020",
+            "course_name": "Astrophysical Techniques",
+            "course_description": "(same as PHYSCS 4020; cross-leveled with ASTRON 7020, PHYSCS 7020). Elements of modern astronomical instruments, observations and analysis, with the emphasis in the optical regime. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 2760",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 4180",
+            "course_name": "Solar System Science",
+            "course_description": "(same as PHYSCS 4180, GEOL 4180; cross-leveled with ASTRON 7180, PHYSCS 7180, GEOL 7180).  Investigates physical states, interior structures and comparative geology of solar systems bodies:  planets, moons, asteroids, comets, sun. Solar system formation and evolution.",
+            "prerequisites": "PHYSCS 2760 or PHYSCS 1220 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "MATH 1700"
+        },
+        {
+            "course_number": "ASTRON 4250",
+            "course_name": "Stellar Astrophysics",
+            "course_description": "(same as PHYSCS 4250). Basic astrophysics of stable and unusual stars, stellar systems. Investigates stellar dimensions, radiation, spectra, energy, evolution, populations; interstellar medium, stellar motions and aggregation.",
+            "prerequisites": "PHYSCS 3150 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 4350",
+            "course_name": "Galactic Astronomy",
+            "course_description": "(same as PHYSCS 4350). Observational properties of normal galaxies and clusters of galaxies, Seyfert and emission-line structure and dynamics of galaxies; interacting galaxies, quasi-steller objects. Introduction to cosmology.",
+            "prerequisites": "PHYSCS 3010 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "PHYSCS 4140"
+        },
+        {
+            "course_number": "ASTRON 4360",
+            "course_name": "Extragalactic Astronomy",
+            "course_description": "(same as PHYSCS 4360; cross-leveled with ASTRON 7360).  This course introduces students to the most basic knowledge of extragalactic astronomy, starting from Milky Way and extending to the most distant universe.  Topics covered will include galaxy morphology and classification, groups and clusters of galaxies, active galactic nuclei, and galaxy formation and evolution.",
+            "prerequisites": "PHYSCS 2760",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 4460",
+            "course_name": "Interstellar Medium",
+            "course_description": "(same as PHYSCS 4460). The course discusses observational properties and physical and chemical processes occurring in the interstellar medium.  Topics include interstellar diffuse and molecular clouds, HII regions, dust grains, interstellar chemistry, star formation, supernova remnants, and interstellar shock waves.",
+            "prerequisites": "PHYSCS 2760",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 4550",
+            "course_name": "Cosmochemistry",
+            "course_description": "(same as PHYSCS 4550; cross-leveled with ASTRON 7550, PHYSICS 7550).  Cosmic dust, stardust, spectra, energy, interstellar medium, meteorites, astromineralogy.",
+            "prerequisites": "PHYSCS 2760 or PHYSCS 1220 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 4950",
+            "course_name": "Undergraduate Research in Astronomy",
+            "course_description": "Special studies in astronomy; covers subjects not included in courses regularly offered.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 4960",
+            "course_name": "Senior Thesis in Astronomy",
+            "course_description": "Special studies for senior undergraduate students in astronomy. The course requires an oral or poster presentations, or faculty-guided writing of a senior thesis involving independent research. Departmental consent required for repetition.  Enrollment limited to students who have completed 3 credit hours of ASTRON 4950 or PHYSCS 4950.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 7020",
+            "course_name": "Astrophysical Techniques",
+            "course_description": "(same as PHYSCS 7020; cross-leveled with ASTRON 4020, PHYSCS 4020). Elements of modern astronomical instruments, observations and analysis, with the emphasis in the optical regime. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 2760",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 7180",
+            "course_name": "Solar System Science",
+            "course_description": "(same as PHYSCS 7180, GEOL 7180; cross-leveled with ASTRON 4180, PHYSCS 4180, GEOL 4180).  Investigates physical states, interior structures and comparative geology of solar systems bodies:  planets, moons, asteroids, comets, sun. Solar system formation and evolution.",
+            "prerequisites": "PHYSCS 1220 or PHYSCS 2760 or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 7360",
+            "course_name": "Extragalactic Astronomy",
+            "course_description": "(same as PHYSCS 7360; cross-leveled with ASTRON 4360, PHYSICS 4360). This course introduces students to the most basic knowledge of extragalactic astronomy, starting from Milky Way and extending to the most distant universe.  Topics covered will include galaxy morphology and classification, groups and clusters of galaxies, active galactic nuclei, and galaxy formation and evolution.",
+            "prerequisites": "PHYSCS 2760",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 7550",
+            "course_name": "Cosmochemistry",
+            "course_description": "(same as PHYSCS 7550; cross-leveled with ASTRON 4550, PHYSCS 4550).  Chemistry of cosmic dust and molecules.",
+            "prerequisites": "PHYSCS 2760 or PHYSCS 1220; instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 7750",
+            "course_name": "Interstellar Medium",
+            "course_description": "(same as PHYSCS 7750; cross-leveled with ASTRON 4750, PHYSCS 4750). The course discusses observational properties and physical and chemical processes occurring in the interstellar medium.  Topics include interstellar diffuse and molecular clouds, HII regions, dust grains, interstellar chemistry, star formation, supernova remnants, and interstellar shock waves.",
+            "prerequisites": "PHYSCS 1220 or PHYSCS 2760",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 8301",
+            "course_name": "Topics in Astronomy and Astrophysics",
+            "course_description": "(same as PHYSCS 8301). Selected topics from solar system, stellar galactic and extragalactic astronomy and astrophysics. May be repeated to a maximum of 6 hours.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 8310",
+            "course_name": "College Science Teaching",
+            "course_description": "(same as PHYSCS 8310, BIO_SC 8724 and LTC 8724). Study of learner characteristics, teaching strategies, and research findings related to teaching science at the post-secondary level.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "ASTRON 8550",
+            "course_name": "Stellar Structure and Evolution",
+            "course_description": "(same as PHYSCS 8550). Reviews of atomic and molecular spectra. Investigates quantum radiation law, emission and absorption processes, radiation transfer theory, continuous and discrete line spectra of stars, stellar composition.",
+            "prerequisites": "ASTRON 4250, PHYSCS 4800, or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        }
+    ]
+}

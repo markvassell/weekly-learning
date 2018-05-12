@@ -1,0 +1,862 @@
+{
+    "department_name": "Spanish ",
+    "department_code": "SPAN",
+    "courses": [
+        {
+            "course_number": "SPAN 1100",
+            "course_name": "Elementary Spanish I",
+            "course_description": "An introductory course for students who wish to begin their study of Spanish. It teaches the four skills - listening, speaking, reading, and writing. The class meets four days a week (with the exception of the online section, which taught completely online). Class time is used to integrate new structures and vocabulary into spoken and written language.",
+            "prerequisites": "None Listed",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 1100H",
+            "course_name": "Elementary Spanish I - Honors",
+            "course_description": "This designated honors section of Elementary Spanish will challenge students to explore more deeply the currently existing thematic units of the SPAN 1100 curriculum.  Students will participate in group discussions, creative projects, independent study and use of authentic written and aural material from primary sources.  Honors Spanish 1100 will integrate cultural events outside the classroom such as movies, guest lectures, art exhibits, seminars or concerts as available.  Once a semester, Honors Spanish 1100 will meets with Honors SPAN 1200H and SPAN 2100H as a cohort group for further intellectual exchange and enrichment.  Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 1200",
+            "course_name": "Elementary Spanish II",
+            "course_description": "The second course of the beginning sequence in the continuation of SPAN 1100.  It places equal emphasis on the four skills; listening, speaking, reading, and writing.  Students who have prior knowledge of Spanish are encouraged to take this course.  NO credit for both SPAN 1200 and SPAN 1250.",
+            "prerequisites": "Grade of C or better in SPAN 1100 or equivalent",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 1200H",
+            "course_name": "Elementary Spanish II - Honors",
+            "course_description": "This course, designed for students who have taken SPAN 1100 or an equivalent course and enrolled in the Honors College, offers an introduction to the Spanish language and the many cultures in encompasses.  Your course work will allow you to develop all four language skills: reading, speaking, listening and writing along with the cultural background necessary to help you to communicate effectively in Spanish.  With the honors designation section, the course will allow students to access greater challenges in the existing thematic units in the curriculum through group discussion, creative projects and authentic situations.  Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2001",
+            "course_name": "Undergraduate Topics in Spanish-General",
+            "course_description": "Organized study of selected topics. Subjects may vary from semester to semester. May be repeated with departmental consent.",
+            "prerequisites": "SPAN 1200 with a grade of C or better",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2005",
+            "course_name": "Undergraduate Topics in Spanish-Humanities/Fine Arts",
+            "course_description": "Organized study of selected topics. Subjects may vary from semester to semester. May be repeated with departmental consent.",
+            "prerequisites": "SPAN 1200 with a grade of C or better",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2005H",
+            "course_name": "Undergraduate Topics in Spanish-Humanities/Fine Arts - Honors",
+            "course_description": "Organized study of selected topics. Subjects may vary from semester to semester. May be repeated with departmental consent.",
+            "prerequisites": "SPAN 1200 with a grade of C or better.  Honors eligibility required",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2100",
+            "course_name": "Elementary Spanish III",
+            "course_description": "A multi-skill course following SPAN 1200, centering on cultural/ literary readings, and including a grammar review, practice in the spoken language, as well as some practice in written expression.",
+            "prerequisites": "grade of C or better in SPAN 1200 or SPAN 1250, or their equivalent courses",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2100H",
+            "course_name": "Elementary Spanish III - Honors",
+            "course_description": "A multi-skill course following SPAN 1200, centering on cultural/literary readings, and including a grammar review, practice in the spoken language, as well as some practice in written expression.  The course seeks to improve student's fluency in Spanish and to expose them to the many cultures it encompasses.  This course will integrate cultural events outside the classroom as well such as movies, guest lectures, art exhibits, seminars or concerts as available.  Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2160",
+            "course_name": "Intermediate Spanish Composition and Conversation",
+            "course_description": "First course following required elementary sequence.  Designed specifically to correct any remaining weaknesses in gross writing skills and to develop further conversational ability with equal emphasis on both of these aspects.  Classwork involves written compositions and oral presentations.",
+            "prerequisites": "SPAN 2100 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2160H",
+            "course_name": "Intermediate Spanish Composition and Conversation - Honors",
+            "course_description": "First course following required elementary sequence.  Designed specifically to correct any remaining weaknesses in gross writing skills and to develop further conversational ability with equal emphasis on both of these aspects.  Classwork involves written compositions and oral presentations.",
+            "prerequisites": "SPAN 2100 or equivalent.  Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2310",
+            "course_name": "Spanish Civilization",
+            "course_description": "Survey of Spanish history, arts and culture. Open to any student interested. No knowledge of Spanish required. May not be included in area of concentration in Spanish.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2320",
+            "course_name": "Literature of Spanish Civil War",
+            "course_description": "(same as PEA_ST 2320). Study of the Spanish Civil War: History, Politics, Literature.  May not be included in the area of concentration in Spanish.",
+            "prerequisites": "sophomore standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2330",
+            "course_name": "Latin American Civilization",
+            "course_description": "Survey of Latin American history, arts and culture. Open to any student interested. No knowledge of Spanish required. May not be included in area of concentration in Spanish.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 2340",
+            "course_name": "Hispanic Minority Literature",
+            "course_description": "This course studies the literature of Hispanic minorities in the United States: Chicanos (Mexican American), Mainland Puerto Ricans, and Cuban exile writers. It explores the question of minority versus majority literatures and the creation of a Hispanic minority discourse. No knowledge of Spanish required.",
+            "prerequisites": "ENGLSH 1000",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3001",
+            "course_name": "Topics in Spanish-General",
+            "course_description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
+            "prerequisites": "sophomore standing",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3004",
+            "course_name": "Topics in Spanish-Social Science",
+            "course_description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
+            "prerequisites": "sophomore standing",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3005",
+            "course_name": "Topics in Spanish-Humanities/Fine Arts",
+            "course_description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
+            "prerequisites": "sophomore standing",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3150",
+            "course_name": "Advanced Spanish Conversation",
+            "course_description": "Course puts into practice the linguistic skills learned at intermediate levels.  It develops and increases the capacity for comprehension and oral expression in the language.  Focus is on practice of certain syntactic structures and idiomatic expressions, and on acquisition of new vocabulary.",
+            "prerequisites": "SPAN 2160 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3150H",
+            "course_name": "Advanced Spanish Conversation",
+            "course_description": "Course puts into practice the linguistic skills learned at intermediate levels.  It develops and increases the capacity for comprehension and oral expression in the language.  Focus is on practice of certain syntactic structures and idiomatic expressions, and on acquisition of new vocabulary.",
+            "prerequisites": "SPAN 2160 or equivalent. Honors Eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3160",
+            "course_name": "Advanced Spanish Composition",
+            "course_description": "Course emphasizes writing at an advanced level, with a certain degree of sophistication about varied subjects and using different techniques of composition.  Classwork consists mainly of the discussion of both the ideas and techniques used in different textual forms.",
+            "prerequisites": "SPAN 2160 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3170",
+            "course_name": "Conversational Spanish Practice",
+            "course_description": "Study Abroad Conversational Spanish course for students who have already completed SPAN 3150, but want more practice.  Does not count for majors/minors.  Graded on A-F basis only.",
+            "prerequisites": "SPAN 3150 and instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3280",
+            "course_name": "Commercial Spanish",
+            "course_description": "Business terminology and forms. Translate and compose business letters and documents for advertising and promotion, trade and commerce, imports and exports, money and banking.",
+            "prerequisites": "SPAN 2160 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3400",
+            "course_name": "Mexican Culture and Civilization",
+            "course_description": "Study of Mexican culture and civilization through field trips, excursions and selected readings in Mexican history and literature. No knowledge of Spanish required. Open only to participants in UMC's study programs in Mexico.",
+            "prerequisites": "sophomore standing or instructor's consent",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3420",
+            "course_name": "Introduction to Hispanic Literature I",
+            "course_description": "Selected prose fiction and nonfiction prose of Spain and Spanish America.",
+            "prerequisites": "SPAN 3160 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3420W",
+            "course_name": "Introduction to Hispanic Literature I - Writing Intensive",
+            "course_description": "Selected prose fiction and nonfiction prose of Spain and Spanish America.",
+            "prerequisites": "SPAN 3160 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3430",
+            "course_name": "Introduction to Hispanic Literature II",
+            "course_description": "Selected plays and poetry of Spain and Spanish America.",
+            "prerequisites": "SPAN 3160 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3430H",
+            "course_name": "Introduction to Hispanic Literature II - Honors",
+            "course_description": "Selected plays and poetry of Spain and Spanish America.",
+            "prerequisites": "SPAN 3160 or equivalent.  Honors eligibility required",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3430W",
+            "course_name": "Introduction to Hispanic Literature II - Writing Intensive",
+            "course_description": "Selected plays and poetry of Spain and Spanish America.",
+            "prerequisites": "SPAN 3160 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3710",
+            "course_name": "Survey of Minority and Creole Languages of the U.S. and the Caribbean",
+            "course_description": "(same as FRENCH 3710 and LINGST 3710). Analysis of the state of the minority languages of the U.S. and the Creole languages of the Caribbean with particular attention to the social status of these languages and speakers' attitudes toward them in the context of ethnic, culture and national identity (taught in Eng.).",
+            "prerequisites": "sophomore standing",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3721",
+            "course_name": "Spanish Phonetics",
+            "course_description": "(same as LINGST 3721). Introductory course to the study of Spanish phonological, phonetic and spelling systems, practice of pronunciation, phonetic transcriptions, and introduction to the variation of Spanish pronunciation in the Hispanic world.  The course is conducted in Spanish.",
+            "prerequisites": "SPAN 2160 or equivalent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 3885",
+            "course_name": "Twenty-First Century South American Cinema",
+            "course_description": "(same as FILM_S 3885, PORT 3885). Broad overview of the major national cinemas of the 21st century in South America. Approximately 14 feature films screened from Argentina, Brazil, Chile and other nations of the region. Instructor provides a thematic framework for films within the context of film theory, Latin American cinematic history and cultural studies. Course taught in English. Graded on A-F basis only.",
+            "prerequisites": "ENGLSH 1000 or ENGLSH 1000H",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4070",
+            "course_name": "Intensive Beginning Spanish",
+            "course_description": "Designed for rapid acquisition of a reading knowledge of Spanish. Cannot be taken to fulfill undergraduate language requirement.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4120",
+            "course_name": "Foreign Language Teaching Methodology",
+            "course_description": "(same as FRENCH 4120). Theory and techniques of current foreign language methodology and their application in the classroom. Presentation of instructional projects, classroom observations, and strategies for classroom management. May not be used towards Arts and Science major.",
+            "prerequisites": "departmental consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4130",
+            "course_name": "Stylistics",
+            "course_description": "Advanced composition class.  Discussion of complex grammatical structures necessary for formal writing.  Examination of stylistic devices and structures beyond sentence level, in order to learn to organize discourse level production.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "SPAN 3420 and SPAN 3430"
+        },
+        {
+            "course_number": "SPAN 4130W",
+            "course_name": "Stylistics - Writing Intensive",
+            "course_description": "Advanced composition class.  Discussion of complex grammatical structures necessary for formal writing.  Examination of stylistic devices and structures beyond sentence level, in order to learn to organize discourse level production.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "SPAN 3420 and SPAN 3430"
+        },
+        {
+            "course_number": "SPAN 4410",
+            "course_name": "Spanish Medieval Literature",
+            "course_description": "The principal periods, schools, and genres of Spanish medieval literature are surveyed through representative masterworks. Lectures and periodic student reports help relate works read to the rest of contemporary Spanish and European literature.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4420",
+            "course_name": "Golden Age Poetry",
+            "course_description": "Poetry of the principal Spanish poets of the 16th and 17th centuries and of literary criticism devoted to it.  Special emphasis is placed on the works of Garcilaso de la Vega, Fray Luis de Leon, among others.  Short papers and explications are generally required.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4421",
+            "course_name": "Renaissance and Golden Age Prose",
+            "course_description": "Representative prose works from various genres are read as well as literary criticism devoted to them.  Among the authors studied are Fernando de Rojas, Jorje Montemayor, Miguel de Cervantes, Francisco de Quevedo, and Maria de Zayas.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4422",
+            "course_name": "Spanish Theatre in the Golden Age",
+            "course_description": "Dramatists to be studied include Lope de Vega, Calderon, Ruiz de Alarcon, Tirso de Molina, Guillen de Castro, Velez de Guevara, and some of Cervantes' theatre.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4423",
+            "course_name": "Don Quijote",
+            "course_description": "In this course students read the two parts of Don Quijote in the original Spanish.  Analysis and class discussion highlight elements of literary interest.  Neo-positivist methodology, factual background, formalist considerations and psychoanalytic approaches are used in this course.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4441",
+            "course_name": "Twentieth-Century Spanish Novel",
+            "course_description": "(cross-leveled with SPAN 7441). Reading and critical analysis of representative novels written in Spain from early century to the post-Franco period.  The objectives of the course are to develop critical skills in dealing with these fictional works and to understand the major trends of the contemporary Spanish novel.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4442",
+            "course_name": "Advanced Contemporary Culture of Spain",
+            "course_description": "(cross-leveled with SPAN 7442). Study of Spanish culture and civilization through field trips, excursions, and selected readings in history, literature, and contemporary print media.",
+            "prerequisites": "SPAN 3150, SPAN 3160, SPAN 3721 or equivalent. Open only to participants in the UMC's summer study in Spain",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4450",
+            "course_name": "Hispanic Literature of Resistance",
+            "course_description": "A study of the literature of commitment in the Hispanic world: literature in its historical and political contexts that makes a conscious effort to change social conditions.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4460",
+            "course_name": "Advanced Contemporary Culture of Spanish America",
+            "course_description": "(cross-leveled with SPAN 7460). A study of Spanish-American culture and civilization through selected readings in history and literature, and the use of visual media. Graded on A-F basis only.",
+            "prerequisites": "SPAN 3150 and SPAN 3160",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4461",
+            "course_name": "Advanced Spanish Civilization",
+            "course_description": "(cross-leveled with SPAN 7461). A survey of Spanish culture and Spanish history from the Middle Ages to the present with special emphasis on contemporary culture. Students will be provided with knowledge of chronology, geography and contemporary issues from readings of journals, novels and Internet news.",
+            "prerequisites": "SPAN 3150 and SPAN 3160",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4470",
+            "course_name": "Survey of Spanish American Literature I",
+            "course_description": "This is an introductory course in Spanish American literature. The reading material in prose and verse is studied in chronological order from the early 16th to the early 20th century.  Readings include selections from 22 major Spanish American authors.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4471",
+            "course_name": "Survey of Spanish American Literature II",
+            "course_description": "Survey of contemporary Latin American literature from approximately 1910 to the present.  Close analysis and reading of representative major texts of Latin American literature.  Students read complete selections and short excerpts from a standard anthology, and three complete novels.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4480",
+            "course_name": "Mexican Literature",
+            "course_description": "Analysis of selected poetry, prose, and drama of contemporary Mexico.  Course examines the writings of major and minor figures from several critical perspectives.  Works by Agustin, Aviles, Fabila, Carballido, Castellanos, Fuentes, Paz, and others are read.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4490",
+            "course_name": "Hispanic Oral Traditions",
+            "course_description": "This course proposes to examine the Hispanic Oral Tradition through a study of romances and related genres, the corrido, decima and folktale.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4520",
+            "course_name": "Modernista and Contemporary Poetry",
+            "course_description": "Careful study and analysis of selected poems by major figures in Hispanic poetry.  The period covered includes the modernist movement to the present.  Particular attention is given to the following figures: Ruben Dario, Octavio Paz, Pablo Neruda, and Nicolas Guillen.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4530",
+            "course_name": "The Spanish American Theatre",
+            "course_description": "Intended as an overview of a vital genre in contemporary Spanish American studies, this survey introduces dramatists whose works are the focus of increasing attention from international specialists.  The works of Emilio Carballido, Egon Wolff, Griselda Gambaro and Osvald Dragun, among others are discussed.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4540",
+            "course_name": "Afro-Hispanic Literature",
+            "course_description": "A study of prose, poetry, and drama, in Spanish, written by authors of African descent in the Americas.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4550",
+            "course_name": "Nobel Laureates in Spanish American Literature",
+            "course_description": "Analyzes the creative expression of five Nobel laureates from Spanish America. Selected works of Gabriela Mistral, Pablo Neruda, Miguel Angel Asturias, Octavio Paz and Gabriel Garcia Marquez are read in relation to contemporary theory.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4711",
+            "course_name": "History of the Spanish Language",
+            "course_description": "(same as LINGST 4711). Diachronic analysis of phonological, morphological, and syntactical systems of Spanish, from Vulgar Latin to contemporary dialects.",
+            "prerequisites": "Completion with a passing grade of any Linguistics course at the 3000 level or above or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "SPAN 3420 and SPAN 3430"
+        },
+        {
+            "course_number": "SPAN 4721",
+            "course_name": "Structure of Modern Spanish",
+            "course_description": "(same as LINGST 4721). Synchronic analysis of phonology, morphology and syntax of spoken Spanish dialects.",
+            "prerequisites": "four 3000-level courses in Spanish",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4722",
+            "course_name": "Spanish Across the Continents",
+            "course_description": "(same as LINGST 4722).  This course focuses on the effects of migratory movements on language change, considering the Spanish spoken in Latin America, Puerto Rico, Spain and the USA.  The class sharpens awareness and recognition of the linguistic diversity of the Spanish-speaking regions of the world.  Graded on A-F basis only.",
+            "prerequisites": "four 3000-level courses in Spanish",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4722W",
+            "course_name": "Spanish Across the Continents - Writing Intensive",
+            "course_description": "(same as LINGST 4722).  This course focuses on the effects of migratory movements on language change, considering the Spanish spoken in Latin America, Puerto Rico, Spain and the USA.  The class sharpens awareness and recognition of the linguistic diversity of the Spanish-speaking regions of the world.  Graded on A-F basis only.",
+            "prerequisites": "four 3000-level courses in Spanish",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4723",
+            "course_name": "Language and Society",
+            "course_description": "(same as LINGST 4723). This class surveys linguistic and social issues pertaining to Spanish in the U.S. (past, present and future).  Topics include bilingualism, code switching (a.k.a. Spanglish), first language attrition, linguistic identity, and the role of Spanish in education, services and media.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "four 3000-level courses in Spanish"
+        },
+        {
+            "course_number": "SPAN 4940",
+            "course_name": "Service Learning in Spanish",
+            "course_description": "(same as RM_LAN 4940). Course offers our majors and advanced minors the opportunity to use their language skills in real-life community settings. Does not meet Art  and Science general education requirements. May be repeated once for credit. Graded on S/U basis only.",
+            "prerequisites": "junior or senior standing and departmental consent",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4960",
+            "course_name": "Special Readings in Spanish",
+            "course_description": "Independent study through readings, conferences, reports.",
+            "prerequisites": "SPAN 3420 and SPAN 3430 and departmental consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4980",
+            "course_name": "Special Themes in Spanish",
+            "course_description": "Subject varies according to instructor.  May be repeated for credit.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 4993",
+            "course_name": "The Capstone Experience in Spanish",
+            "course_description": "This course is required of all majors.  Topics vary but all courses synthesize and review essential components of the major: speaking, writing, reading in Spanish, and the ability to think critically and analytically.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7004",
+            "course_name": "Topics in Spanish-Social Science",
+            "course_description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7120",
+            "course_name": "Foreign Language Teaching Methodology",
+            "course_description": "(same as FRENCH 7120). Theory and techniques of current foreign language methodology and their application in the classroom. Presentation of instructional projects, classroom observations, and strategies for classroom management. May not be used towards Arts and Science major.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7130",
+            "course_name": "Stylistics",
+            "course_description": "Advanced composition class.  Discussion of complex grammatical structures necessary for formal writing.  Examination of stylistic devices and structures beyond sentence level, in order to learn to organize discourse level production.",
+            "prerequisites": "SPAN 3160",
+            "credit_hours": "3",
+            "recommendation": "SPAN 3420 and SPAN 3430"
+        },
+        {
+            "course_number": "SPAN 7410",
+            "course_name": "Spanish Medieval Literature",
+            "course_description": "The principal periods, schools, and genres of Spanish medieval literature are surveyed through representative masterworks. Lectures and periodic student reports help relate works read to the rest of contemporary Spanish and European literature.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7420",
+            "course_name": "Golden Age Poetry",
+            "course_description": "Poetry of the principal Spanish poets of the 16th and 17th centuries and of literary criticism devoted to it.  Special emphasis is placed on the works of Garcilaso de la Vega, Fray Luis de Leon, among others.  Short papers and explications are generally required.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7421",
+            "course_name": "Renaissance and Golden Age Prose",
+            "course_description": "Representative prose works from various genres are read as well as literary criticism devoted to them.  Among the authors studied are Fernando de Rojas, Jorje Montemayor, Miguel de Cervantes, Francisco de Quevedo, and Maria de Zayas.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7422",
+            "course_name": "Spanish Theatre in the Golden Age",
+            "course_description": "Dramatists to be studied include Lope de Vega, Calderon, Ruiz de Alarcon, Tirso de Molina, Guillen de Castro, Velez de Guevara, and some of Cervantes' theatre.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7423",
+            "course_name": "Don Quijote",
+            "course_description": "In this course students read the two parts of Don Quijote in the original Spanish.  Analysis and class discussion highlight elements of literary interest.  Neo-positivist methodology, factual background, formalist considerations and psychoanalytic approaches are used in this course.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7441",
+            "course_name": "Twentieth-Century Spanish Novel",
+            "course_description": "(cross-leveled with SPAN 4441). Reading and critical analysis of representative novels written in Spain from early century to the post-Franco period.  The objectives of the course are to develop critical skills in dealing with these fictional works and to understand the major trends of the contemporary Spanish novel.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7442",
+            "course_name": "Advanced Contemporary Culture of Spain",
+            "course_description": "(cross-leveled with SPAN 4442). Study of Spanish culture and civilization through field trips, excursions, and selected readings in history, literature, and contemporary print media.",
+            "prerequisites": "SPAN 3150, SPAN 3160, SPAN 3721 or equivalent. Open only to participants in the UMC's summer study in Spain",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7450",
+            "course_name": "Hispanic Literature of Resistance",
+            "course_description": "A study of the literature of commitment in the Hispanic world: literature in its historical and political contexts that makes a conscious effort to change social conditions.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7460",
+            "course_name": "Advanced Contemporary Culture of Spanish America",
+            "course_description": "(cross-leveled with SPAN 4460). A study of Spanish-American culture and civilization through selected readings in history and literature, and the use of visual media. Graded on A-F basis only.",
+            "prerequisites": "SPAN 3150 and SPAN 3160",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7461",
+            "course_name": "Advanced Spanish Civilization",
+            "course_description": "(cross-leveled with SPAN 4461). A survey of Spanish culture and Spanish history from the Middle Ages to the present with special emphasis on contemporary culture. Students will be provided with knowledge of chronology, geography and contemporary issues from readings of journals, novels and Internet news.",
+            "prerequisites": "SPAN 3150 and SPAN 3160",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7470",
+            "course_name": "Survey of Spanish American Literature I",
+            "course_description": "This is a course in Spanish American literature. The reading material in prose and verse is studied in chronological order from the early 16th to the early 20th century.  Readings include selections from 22 major Spanish American authors.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7471",
+            "course_name": "Survey of Spanish American Literature II",
+            "course_description": "Survey of contemporary Latin American literature from approximately 1910 to the present.  Close analysis and reading of representative major texts of Latin American literature.  Students read complete selections and short excerpts from a standard anthology, and three complete novels.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7480",
+            "course_name": "Mexican Literature",
+            "course_description": "Analysis of selected poetry, prose, and drama of contemporary Mexico.  Course examines the writings of major and minor figures from several critical perspectives.  Works by Agustin, Aviles, Fabila, Carballido, Castellanos, Fuentes, Paz, and others are read.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7490",
+            "course_name": "Hispanic Oral Traditions",
+            "course_description": "This course proposes to examine the Hispanic Oral Tradition through a study of romances and related genres, the corrido, decima and folktale.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7520",
+            "course_name": "Modernista and Contemporary Poetry",
+            "course_description": "Careful study and analysis of selected poems by major figures in Hispanic poetry.  The period covered includes the modernist movement to the present.  Particular attention is given to the following figures: Ruben Dario, Octavio Paz, Pablo Neruda, and Nicolas Guillen.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7530",
+            "course_name": "The Spanish American Theatre",
+            "course_description": "Intended as an overview of a vital genre in contemporary Spanish American studies, this survey introduces dramatists whose works are the focus of increasing attention from international specialists.  The works of Emilio Carballido, Egon Wolff, Griselda Gambaro and Osvald Dragun, among others are discussed.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7540",
+            "course_name": "Afro-Hispanic Literature",
+            "course_description": "A study of prose, poetry, and drama, in Spanish, written by authors of African descent in the Americas.",
+            "prerequisites": "SPAN 3420 and SPAN 3430",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7550",
+            "course_name": "Nobel Laureates in Spanish American Literature",
+            "course_description": "Analyzes the creative expression of five Nobel laureates from Spanish America. Selected works of Gabriela Mistral, Pablo Neruda, Miguel Angel Asturias, Octavio Paz and Gabriel Garcia Marquez are read in relation to contemporary theory.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7711",
+            "course_name": "History of the Spanish Language",
+            "course_description": "(same as LINGST 7711). Diachronic analysis of phonology, morphology, and syntax from Vulgar Latin to modern period.",
+            "prerequisites": "Completion with a passing grade of any Linguistics course at the 3000 level or above or instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7721",
+            "course_name": "Structure of Modern Spanish",
+            "course_description": "(same as LINGST 7721). Synchronic analysis of phonology, morphology and syntax of spoken Spanish dialects.",
+            "prerequisites": "four 3000-level courses in Spanish",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7722",
+            "course_name": "Spanish Across the Continents",
+            "course_description": "(same as LINGST 4722).  This course focuses on the effects of migratory movements on language change, considering the Spanish spoken in Latin America, Puerto Rico, Spain and the USA.  The class sharpens awareness and recognition of the linguistic diversity of the Spanish-speaking regions of the world.   Graded on A-F basis only.",
+            "prerequisites": "four 3000-level courses in Spanish",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7723",
+            "course_name": "Language and Society",
+            "course_description": "This class surveys linguistic and social issues pertaining to Spanish in the US (past, present and future).  Topics include bilingualism, code switching (a.k.a. Spanglish), first language attrition, linguistic identity, and the role of Spanish in education, services and media.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "four 3000-level courses in Spanish"
+        },
+        {
+            "course_number": "SPAN 7960",
+            "course_name": "Special Readings in Spanish",
+            "course_description": "Independent study through readings, conferences, reports.",
+            "prerequisites": "departmental consent",
+            "credit_hours": "1-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7980",
+            "course_name": "Special Themes in Spanish",
+            "course_description": "Subject varies according to instructor.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 7993",
+            "course_name": "The Capstone Experience in Spanish",
+            "course_description": "Topics vary but all courses synthesize and review essential components of the major: speaking, writing, reading in Spanish, and the ability to think critically and analytically.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8080",
+            "course_name": "Readings in Spanish",
+            "course_description": "Independent readings in preparation for MA or MALT comprehensive examination in Spanish.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8085",
+            "course_name": "Problems in Spanish",
+            "course_description": "Problems in Spanish.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8087",
+            "course_name": "Seminar in Spanish",
+            "course_description": "Subject varies according to instructor.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2-3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8090",
+            "course_name": "Research in Spanish",
+            "course_description": "Leads to preparation of MA or MALT thesis.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8120",
+            "course_name": "Bilingualism and Language Contact",
+            "course_description": "(same as FRENCH 8120 and LINGST 8120). Global analysis of the study of Bilingualism from a combined sociocultural, sociolinguistic and psycholinguistic perspective based on current research and examination of various phenomena of language contact (taught in English).",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8412",
+            "course_name": "Studies in Spanish Literature of the Medieval Period",
+            "course_description": "Studies in Spanish Literature of the Medieval Period.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "SPAN 8460"
+        },
+        {
+            "course_number": "SPAN 8415",
+            "course_name": "Studies in Spanish Literature of the Renaissance",
+            "course_description": "Studies in Spanish Literature of the Renaissance",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8416",
+            "course_name": "Studies in Spanish Literature in the Golden Age",
+            "course_description": "Studies in Spanish Literature in the Golden Age",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8419",
+            "course_name": "Studies in Nineteenth-Century Spanish Literature",
+            "course_description": "Studies in Nineteenth-Century Spanish Literature",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8420",
+            "course_name": "Studies in Twentieth-Century Spanish Literature",
+            "course_description": "Studies in Twentieth-Century Spanish Literature",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8427",
+            "course_name": "Studies in Colonial Spanish American Literature",
+            "course_description": "Analysis of seminal literary and \"\"Historical\"\" texts interpreting the Encounter, Conquest and Colonization of Spanish America.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8431",
+            "course_name": "Studies in Spanish-American Fiction",
+            "course_description": "Studies in Spanish-American Fiction",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8433",
+            "course_name": "Studies in Latin American Literature",
+            "course_description": "Studies in Latin American Literature",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 8460",
+            "course_name": "Old Spanish--Phonology, Morphology and Syntax",
+            "course_description": "",
+            "prerequisites": "knowledge of Latin, to be demonstrated by passing departmental written examination or by completing LATIN 7110 with grade of B or better",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 9080",
+            "course_name": "Readings in Spanish",
+            "course_description": "Independent readings in preparation for Ph.D. comprehensive examination in Spanish.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3-6",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "SPAN 9090",
+            "course_name": "Research in Spanish",
+            "course_description": "Leads to preparation of PhD dissertation in Spanish. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        }
+    ]
+}

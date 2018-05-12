@@ -1,0 +1,214 @@
+{
+    "department_name": "Microbiology ",
+    "department_code": "MICROB",
+    "courses": [
+        {
+            "course_number": "MICROB 2800",
+            "course_name": "Microbiology for Nursing and Health Professions",
+            "course_description": "This course will provide basic principles for understanding microbial growth, function, and control.  This includes a survey of microbial cellular structure/functions, immunology concepts, epidemiology, specimen handling, and causes of microbial disease (bacterial, viral, and parasitic).  Material is presented in lecture and corresponding laboratory exercises that will allow students to explore the microbial world around them.",
+            "prerequisites": "The overall content is \"restricted to Freshman and sophomore Nursing and Health Related Professional students only\".  Other inquires contact department",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 3200",
+            "course_name": "Medical Microbiology and Immunology",
+            "course_description": "Focus on medically important viruses, bacteria, fungi and parasites with emphasis on their disease causing potential and mechanisms. Introduction to cells and molecules of the immune system with emphasis on their role in fighting infectious diseases. Discussion of treatment and prevention strategies. Lecture material will be reinforced with laboratory demonstrations and hands-on exercises. The course is intended for preprofessional students.",
+            "prerequisites": "None Listed",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 3800",
+            "course_name": "Case-Based Microbiology: Assembling Systemic Health Connections",
+            "course_description": "Detailed infectious diseases across organ systems. The biological characteristics and pathologic mechanisms of infectious diseases caused by bacteria, viruses, fungi and parasites are explored in a case-based learning. Student-driven learning objectives for each case (to include microbiology, anatomy, physiology, pharmacology, technology and clinical LO's each case) help groups connect scientific information across disciplines.",
+            "prerequisites": "Instructor's consent",
+            "credit_hours": "3",
+            "recommendation": "MICROB 2800 or MICROB 3200, MPP 3202, and  PTH _AS 2201"
+        },
+        {
+            "course_number": "MICROB 4300",
+            "course_name": "Bacterial Pathogenesis",
+            "course_description": "(cross-leveled with MICROB 7404). This team taught course covers the biology and virulence mechanisms of bacterial pathogens, with emphasis on those causing human and zoonotic diseases.  Topics covered include bacterial structure, genetics, physiology, and metabolism; antibiotic resistance; host-pathogen interactions; microbiomes and emerging pathogens.",
+            "prerequisites": "MICROB 3200 or equivalent. Consent from Course Director is required to insure academic readiness",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 4303",
+            "course_name": "Fundamental Virology",
+            "course_description": "Classification of viruses, life cycles, genome organization and expression, host-virus interactions, oncogenes and cellular transformation, viral pathogenesis, viral gene therapy approaches, strategies for anti viral therapy.",
+            "prerequisites": "undergraduates require instructor's consent.  This course will include evaluation of current literature and require paper presentations",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 4304",
+            "course_name": "Immunology",
+            "course_description": "This is a comprehensive team-taught, basic immunology course covering cells and organs of the immune system, lymphocyte development, innate immunity, antibody production, antibody-antigen presentation, CD4+ and CD8+ T lymphocyte responses, cytokines, autoimmunity and immunodeficiency among other immunologically relevant topics.  Completion of a biochemistry, genetics, or molecular biology course would be helpful.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "MICROB 3200 or BIOCHM 4270"
+        },
+        {
+            "course_number": "MICROB 4305H",
+            "course_name": "Honors Bacterial Pathogenesis",
+            "course_description": "This team taught course covers the biology and virulence mechanisms of bacterial pathogens, with emphasis on those causing human and zoonotic diseases.  Topics covered include bacterial structure, genetics, physiology, and metabolism; antibiotic resistance; host-pathogen interactions; microbiomes and emerging pathogens.",
+            "prerequisites": "MICROB 3200 or equivalent; Honors eligibility required.  Consent from Course Director required to insure academic readiness",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 6291",
+            "course_name": "ABS Microbiology Mechanism of Disease",
+            "course_description": "ABS Microbiology Mechanism of Disease",
+            "prerequisites": "None Listed",
+            "credit_hours": "5-10",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 6293",
+            "course_name": "ABS Microbiology Research",
+            "course_description": "ABS Microbiology Research",
+            "prerequisites": "None Listed",
+            "credit_hours": "5-10",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 6295",
+            "course_name": "ABS Microbiology Research and Review",
+            "course_description": "ABS Microbiology Research and Review",
+            "prerequisites": "None Listed",
+            "credit_hours": "5-10",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 7101",
+            "course_name": "Structure and Synthesis of Macro Molecules",
+            "course_description": "This multiple-instructor course is designed to provide students with a detailed understanding of the structure, function, and biophysical properties of bio-molecules.  Principles and techniques of molecular biology related to the study of recombinant DNA and genetic analysis, protein structure, function and basic immunological principles will be covered.  Admission is dependent on approval by course director.",
+            "prerequisites": "consent required",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 7303",
+            "course_name": "Fundamental Virology",
+            "course_description": "Classification of viruses, life cycles, genome organization and expression, host-virus interactions, oncogenes and cellular transformation, viral pathogenesis, viral gene therapy approaches, strategies for anti viral therapy.",
+            "prerequisites": "Undergraduates require instructor's consent.  This course will include evaluation of current literature and require paper presentations",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 7304",
+            "course_name": "Immunology",
+            "course_description": "Covers innate immunity, antibodies, antigens, MHC, antigen presentation, lymphocyte development, antigen specific receptors, lymphocyte activation and differentiation, immune effector mechanisms, hypersensitivities, tolerance, autoimmunity, immunodeciencies.",
+            "prerequisites": "None Listed",
+            "credit_hours": "2",
+            "recommendation": "MICROB 3200 or BIOCHM 4270 or BIOCHM 4272 or instructor's consent"
+        },
+        {
+            "course_number": "MICROB 7404",
+            "course_name": "Foundations in Bacteriology and Pathogenesis",
+            "course_description": "This team taught course covers the biology and virulence mechanisms of bacterial pathogens, with emphasis on those causing human and zoonotic disease.  Topics covered include bacterial structure, genetics, physiology, and metabolism; antibiotic resistance; host-pathogen interactions; microbiomes and emerging pathogens.",
+            "prerequisites": "None Listed",
+            "credit_hours": "3",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 8050",
+            "course_name": "Graduate Student Survival Skills",
+            "course_description": "This course is an introduction to inform new graduate students about the Microbiology program and provide them with the knowledge to access resources and information needed for a successful transition into their course work and research. The course will also focus on guidelines in selecting mentors and their relationships, time management, good notebook practices, presentation and posters, comprehensive exams, and computer skills needed.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 9001",
+            "course_name": "Topics in Microbiology",
+            "course_description": "Current topics, highly specialized topics taught infrequently, or courses taught by visiting professors.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 9085",
+            "course_name": "Problems in Microbiology",
+            "course_description": "Students assigned individual problems in microbiology for library or lab investigation. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 9087",
+            "course_name": "Seminar in Microbiology",
+            "course_description": "Presentation and critical discussion of student and faculty research, current literature, and guest lectures on subjects in various areas of microbiology.   Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 9090",
+            "course_name": "Research in Microbiology",
+            "course_description": "Original investigations in various areas of microbiology related to bacteria, fungi, rickettsia, viruses, and animal parasites, or immunology relating to antigens and antibodies of infectious and noninfectious nature designed for graduate thesis research. Graded on a S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "1-99",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 9403",
+            "course_name": "Advanced Medical Microbiology",
+            "course_description": "Similar to MICROB 4300 but treats medical microbiology and immunology in a more advanced manner. Methods of preparation and instruction stressed. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "credit_hours": "2",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 9404",
+            "course_name": "Advanced Bacterial Pathogenesis",
+            "course_description": "Literature based lectures and discussions covering current issues in bacterial pathogenesis. Focus is on understanding host-pathogen interactions that lead to disease. Topics include bacterial toxins and secreted virulence factors, intracellular bacterial growth and survival, host cell death and inflammatory pathways. Course will focus on a few model pathogens and discuss the molecular mechanisms of the pathogen and host that contribute to virulence. Graded on A-F basis only.",
+            "prerequisites": "MICROB 7404",
+            "credit_hours": "4",
+            "recommendation": "MICROB 4304 or MICROB 7304"
+        },
+        {
+            "course_number": "MICROB 9407",
+            "course_name": "Advanced Immunology",
+            "course_description": "Literature based lectures and discussions covering current issues in molecular and cellular immunology.  Topics include innate immunity; lymphocyte development; inflammation; tolerance, infection, and autoimmunity; mucosal immunity; asthma and allergy and tumor immunology.",
+            "prerequisites": "MICROB 4304 or MICROB 7304, or instructor's consent",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 9411",
+            "course_name": "Responsible Conduct of Research",
+            "course_description": "Ethical, legal and sociological ramifications of research including data management, authorship, human and animal use, conflict of interest and misconduct. Round table discussions and interactive forums. Grading based on participation in discussions and assignments. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "credit_hours": "1",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 9430",
+            "course_name": "Molecular Biology I",
+            "course_description": "(same as BIOCHM 9430). Detailed examination of current fundamental concepts of molecular genetics of bacteria, bacteriophages and yeast. Experimental approaches to analysis of the physical structures of genomic nucleic acids, the biochemistry and genetics of mutations, replications, gene transfer and gene expression will be examined in depth from reports in the current literature.",
+            "prerequisites": "Biochemistry, genetics",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 9432",
+            "course_name": "Molecular Biology II",
+            "course_description": "(same as BIOCHM 9432 and BIO_SC 9432). Detailed experimental analysis of eukaryotic cellular and molecular biology relevant to cellular and viral gene expression, post-transcriptional and post-translational modifications and genome replication. Models for developmental genetic analysis and genetic determinants controlling developmental processes utilizing the current literature will be examined.",
+            "prerequisites": "MICROB 9430",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        },
+        {
+            "course_number": "MICROB 9449",
+            "course_name": "Infection and Immunity",
+            "course_description": "Writing, discussion, literature driven course, covering topics that focus on the interface between infectious diseases, cancer and the immune system.   May be repeated for credit.  Graded A-F basis only.",
+            "prerequisites": "2nd year Graduate student with bacteriology, virology, microbial pathogenesis and immunology background only. 1st year graduate students require instructor approval",
+            "credit_hours": "4",
+            "recommendation": "None Listed"
+        }
+    ]
+}
