@@ -78,7 +78,7 @@
             "name": "Environmental Soil Physics Laboratory",
             "number": "4306",
             "description": "(same as ENV_SC 4306). Introduction to the methodology and equipment for measurement of soil physical properties and processes.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: SOIL 4305",
             "recommendation": "None Listed"
         },
@@ -110,7 +110,7 @@
             "name": "Soil Fertility and Plant Nutrition Laboratory",
             "number": "4314",
             "description": "(same as PLNT_S 4314). The application of elementary analytical procedures to the evaluation of the nutrient status of soils and crop plants.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: SOIL 4313",
             "recommendation": "None Listed"
         },
@@ -182,7 +182,7 @@
             "name": "Environmental Soil Physics Laboratory",
             "number": "7306",
             "description": "(same as ENV_SC 7306).  Introduction to the methodology and equipment for measurement of soil physical properties and properties and processes.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: SOIL 4305",
             "recommendation": "None Listed"
         },
@@ -214,7 +214,7 @@
             "name": "Soil Fertility and Plant Nutrition Laboratory",
             "number": "7314",
             "description": "(same as PLNT_S 7314). The application of elementary analytical procedures to the evaluation of the nutrient status of soils and crop plants.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: SOIL 7313",
             "recommendation": "None Listed"
         },

@@ -278,7 +278,7 @@
             "name": "Industrial Energy Analysis",
             "number": "4350",
             "description": "(cross-leveled with MAE 7355).  Energy use in industrial systems: furnaces, boilers, compressors, motors, lighting, etc.  Insulation in building envelopes.  Renewable energy sources.  Energy auditing and economic analysis.  Graded on A-F basis only.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: MAE 4300",
             "recommendation": "None Listed"
         },
@@ -622,7 +622,7 @@
             "name": "Introduction to Finite Element Methods",
             "number": "7280",
             "description": "(cross-leveled with MAE 4280). The application of matrix operations, energy concepts and structural mechanics to the development of the finite element method. Application of finite element method to beams, frames and trusses.   ",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "None Listed"
         },

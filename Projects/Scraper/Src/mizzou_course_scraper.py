@@ -92,12 +92,38 @@ def clean_course_description(data):
 
         data = data[0:edge_case4]
 
+    if hours == -1:
+        hours = 'None Listed'
+    if pre_req == -1:
+        pre_req = 'None Listed'
 
+    if recommendation == -1:
+        recommendation= 'None Listed'
 
     return data, hours, pre_req, recommendation
 
 
 if __name__ == "__main__":
+    departments_list = ['ACCTCY', 'AERO', 'AG_EC', 'AG_ED_LD', 'AG_S_M', 'AFNR', 'ANESTH', 'AN_SCI', 'ANTHRO', 'ARABIC',
+                        'ARCHST', 'AR_H_A', 'ART_CERM', 'ART_DRAW', 'ART_FIBR', 'ART_GNRL', 'ART_GRDN', 'ART_PNT',
+                        'ART_PHOT', 'ART_PRNT', 'ART_SCUL', 'ASTRON', 'ATHTRN', 'ATM_SC', 'BIOCHM', 'BIOL_EN', 'BIO_SC',
+                        'BIOMED', 'BL_STU', 'BUS_AD', 'CH_ENG', 'CHEM', 'CH_HTH', 'CHINSE', 'CV_ENG', 'CL_HUM', 'CLASS',
+                        'CDS', 'CL_L_S', 'COMMUN', 'C_S_D', 'CMP_SC', 'DATA_SCI', 'DERM', 'DMU', 'DST', 'ECONOM',
+                        'EDUC_H', 'ED_LPA', 'ESC_PS', 'ECE', 'EMR_ME', 'ENGINR', 'ENGLSH', 'ELSP', 'ENV_SC', 'ENV_ST',
+                        'F_C_MD', 'FILM_S', 'FINANC', 'F_W', 'F_S', 'FOREST', 'FRENCH', 'GN_HES', 'G_STDY', 'GEOG',
+                        'GEOL', 'GERMAN', 'GRAD', 'IEPG', 'GREEK', 'HMI', 'HTH_PR', 'HLTHPSYC', 'HLTH_SCI', 'HEBREW',
+                        'HIST', 'GN_HON', 'HSP_MGMT', 'H_D_FS', 'IMSE', 'IS_LT', 'INFOTC', 'NEUROSCI', 'INTDSC',
+                        'IN_MED', 'INTL_S', 'ITAL', 'JAPNSE', 'JOURN', 'KOREAN', 'LAB_AN', 'LATIN', 'LAW', 'LTC',
+                        'LTC_V', 'LINGST', 'IEPL', 'MANGMT', 'MRKTNG', 'MATH', 'MAE', 'MPP', 'MED_ID', 'MDVL_REN',
+                        'MICROB', 'MIL_SC', 'INFOINST', 'MUS_APMS', 'MUSIC_NM', 'MUS_ENS', 'MUS_GENL', 'MUS_I_VR',
+                        'MUS_I_VT', 'MUS_EDUC', 'MUS_H_LI', 'MUS_THRY', 'NAT_R', 'NAVY', 'NEUROL', 'NU_ENG', 'NUCMED',
+                        'NURSE', 'NUTRIT', 'NEP', 'OB_GYN', 'OC_THR', 'OPHTH', 'P_R_TR', 'PTH_AS', 'PEA_ST', 'FINPLN',
+                        'PHIL', 'PM_REH', 'PH_THR', 'PHYSCS', 'PLNT_S', 'POL_SC', 'PORT', 'PSCHTY', 'PSYCH', 'PUB_AF',
+                        'P_HLTH', 'RA_SCI', 'RADIOL', 'IEPR', 'REL_ST', 'RS_THR', 'RM_LAN', 'RU_SOC', 'RUSS',
+                        'SCI_AG_J', 'SRV_LRN', 'SOC_WK', 'SOCIOL', 'SOIL', 'S_A_ST', 'SPAN', 'SPC_ED', 'IEPS', 'STAT',
+                        'SSC', 'SURGRY', 'T_A_M', 'THEATR', 'V_BSCI', 'VMED_I', 'V_M_S', 'V_PBIO', 'WGST', 'IEPW'
+                        ]
+
 
     all_offerings = urlopen('http://catalog.missouri.edu/courseofferings/')
     all_data = bS(all_offerings, 'html.parser')
@@ -145,8 +171,14 @@ if __name__ == "__main__":
             class_name[0] = number
 
 
+            connections = []
+
             class_description = info.find('p', {'class': 'courseblockdesc'}).text
             class_description = clean_course_description(class_description)
+
+    
+            #print(connections)
+
             class_list.append(
                 {
                     "name": class_name[1],
@@ -164,3 +196,4 @@ if __name__ == "__main__":
 
         class_list = []
         department_complete_data = {}
+

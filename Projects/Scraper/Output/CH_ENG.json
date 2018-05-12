@@ -6,7 +6,7 @@
             "name": "Introduction to Chemical Engineering",
             "number": "1000",
             "description": "Orientation course for freshmen-level students. Introduction to careers and opportunities in chemical engineering, basic engineering principles, simple calculations.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: MATH 1500, CHEM 1320",
             "recommendation": "None Listed"
         },
@@ -14,7 +14,7 @@
             "name": "Introduction to Chemical Engineering - Honors",
             "number": "1000H",
             "description": "Orientation course for freshmen-level students. Introduction to careers and opportunities in chemical engineering, basic engineering principles, simple calculations.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: MATH 1500, CHEM 1320.  Honors eligibility required",
             "recommendation": "None Listed"
         },
@@ -22,7 +22,7 @@
             "name": "Chemistry and Chemical Technology I",
             "number": "1320",
             "description": "Covers fundamental principals of chemistry, gases, engineering materials, electrochemistry, and applications with instruction including numerical modeling.  Graded on A/F basis only. May be repeated for credit.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: MATH 1500",
             "recommendation": "None Listed"
         },
@@ -54,7 +54,7 @@
             "name": "Mass and Energy Balance",
             "number": "2225",
             "description": "Industrial stoichiometry, material and energy balances, thermophysics, thermochemistry; related topics.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: PHYSCS 2750, CHEM 2100",
             "recommendation": "None Listed"
         },
@@ -62,7 +62,7 @@
             "name": "Engineering Process Computations and Laboratory",
             "number": "2226",
             "description": "Introduction to the effective use of computer software with emphasis on chemical engineering applications, which include solutions for systems of algebraic equations using matrix methods;   solutions of ordinary differential equations and partial differential equations and visualization of those solutions; linear, multilinear, and nonlinear regression for data analysis; 2D and 3D plotting, symbolic calculations, process control simulations, and text processing.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: MATH 1700, CH_ENG 2225",
             "recommendation": "None Listed"
         },
@@ -86,7 +86,7 @@
             "name": "Chemical Engineering Laboratory I",
             "number": "3243",
             "description": "Laboratory study of some principal unit operations of chemical engineering.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: CH_ENG 2226 and CH_ENG 3235",
             "recommendation": "None Listed"
         },
@@ -94,7 +94,7 @@
             "name": "Chemical Engineering Laboratory I - Writing Intensive",
             "number": "3243W",
             "description": "Laboratory study of some principal unit operations of chemical engineering.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: CH_ENG 2226 and CH_ENG 3235",
             "recommendation": "None Listed"
         },

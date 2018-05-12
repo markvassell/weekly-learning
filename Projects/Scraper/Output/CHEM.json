@@ -6,7 +6,7 @@
             "name": "Introductory Chemistry",
             "number": "1000",
             "description": "Introductory course for students with no high school background in chemistry.  Covers fundamental principles of scientific measurement, stoichiometry, solutions, basic atomic structure, gases.  No credit if taken after CHEM 1100.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: MATH 1100 or MATH 1120",
             "recommendation": "None Listed"
         },

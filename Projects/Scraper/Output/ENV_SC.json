@@ -126,7 +126,7 @@
             "name": "Environmental Soil Physics Laboratory",
             "number": "4306",
             "description": "(same as SOIL 4306).  Introduction to the methodology and equipment for measurement of soil physical properties and processes.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: ENV_SC 4305",
             "recommendation": "None Listed"
         },

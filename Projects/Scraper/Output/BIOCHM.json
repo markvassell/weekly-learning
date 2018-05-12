@@ -118,7 +118,7 @@
             "name": "Physical Chemistry of Biological Systems",
             "number": "4300",
             "description": "To present fundamental principles of physical chemistry in the context of the structure and function of biological macromolecules.  Graded on A-F basis only.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: BIOCHM 4270",
             "recommendation": "None Listed"
         },
@@ -190,7 +190,7 @@
             "name": "Biochemistry Laboratory",
             "number": "4974",
             "description": "(cross-leveled with BIOCHM 7274). Techniques course involving analytical experiments with carbohydrates, lipids, proteins, nucleic acids; use of instrumentation in biochemistry; purification and kinetics of enzymes.  One of two capstone courses required for biochemistry majors.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "5Prerequisites or Corequisites: BIOCHM 4272Corequisites: BIOCHM 4970",
             "recommendation": "None Listed"
         },
@@ -198,7 +198,7 @@
             "name": "Biochemistry Laboratory - Writing Intensive",
             "number": "4974W",
             "description": "(cross-leveled with BIOCHM 7274). Techniques course involving analytical experiments with carbohydrates, lipids, proteins, nucleic acids; use of instrumentation in biochemistry; purification and kinetics of enzymes.  One of two capstone courses required for biochemistry majors.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "5Prerequisites or Corequisites: BIOCHM 4272Corequisites: BIOCHM 4970",
             "recommendation": "None Listed"
         },

@@ -350,7 +350,7 @@
             "name": "Insect Diversity",
             "number": "3715",
             "description": "(same as BIO_SC 3715). Laboratory exercises emphasizing external insect anatomy, classification, and identification (to family level).  Preparation of an insect collection is required.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: PLNT_S 3710 (or BIO_SC 3710)",
             "recommendation": "None Listed"
         },
@@ -374,7 +374,7 @@
             "name": "Soil Fertility and Plant Nutrition Laboratory",
             "number": "4314",
             "description": "(same as SOIL 4314; cross-leveled with PLNT_S 7314, SOIL 7314). The application of elementary analytical procedures to the evaluation of the nutrient status of soils and crop plants.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: SOIL 4313",
             "recommendation": "None Listed"
         },

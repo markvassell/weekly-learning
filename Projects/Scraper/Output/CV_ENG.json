@@ -110,7 +110,7 @@
             "name": "Reinforced Concrete Design",
             "number": "3312",
             "description": "Basic principles of reinforced concrete design. Design of beams for flexture and shear; design of short and slender columns. ",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "None Listed"
         },
@@ -134,7 +134,7 @@
             "name": "Civil Engineering Materials",
             "number": "3600",
             "description": "Introduces composition, structure, properties, behavior, and selection of civil engineering materials. ",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "4",
             "recommendation": "None Listed"
         },
@@ -414,7 +414,7 @@
             "name": "Prestressed/Advanced Reinforced Concrete",
             "number": "4302",
             "description": "Principles of prestressing. Constituent materials, loading and allowable stresses. Working and ultimate stress analysis and design. Shear and torsion. Deflections. Prestress losses. Continuous beams. Composite beams. Compression members. Footings.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: CV_ENG 3312",
             "recommendation": "None Listed"
         },

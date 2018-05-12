@@ -230,7 +230,7 @@
             "name": "Food Microbiology Laboratory",
             "number": "4375",
             "description": "(cross-leveled with F_S 7375). Examination of foods for microorganisms and characterization of major species.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: F_S 4370",
             "recommendation": "None Listed"
         },

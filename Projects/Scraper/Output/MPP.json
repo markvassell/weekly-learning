@@ -118,7 +118,7 @@
             "name": "Medical Pharmacology",
             "number": "4204",
             "description": "(cross-leveled with MPP 7424). Medical pharmacology teaches the science of drug actions in medicine today, and principles of pharmaco kinetics/dynamics.  Future health professionals will learn prescription judgment and quality/cost improvements for patient safety.  An online laboratory will teach drug database information technology.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "5Prerequisites or Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other colleges",
             "recommendation": "nutrition or biochemistry courses are recommended but not required"
         },
@@ -190,7 +190,7 @@
             "name": "Pharmacology and Translational Medicine",
             "number": "7424",
             "description": "(cross-leveled with MPP 4204). Pharmacology teaches the science of drug actions in medicine today and principles of pharmaco kinetics/dynamics.  Future medical researchers will learn molecular probes for medical research and translational science to improve health care.  An online laboratory will teach drug database information technology.  Graded on A-F basis only.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "5Prerequisites or Corequisites: BIO_SC 3700 or MPP 3202 or MPP 4202 or equivalent physiology course from other colleges",
             "recommendation": "nutrition or biochemistry courses are recommended but not required"
         },

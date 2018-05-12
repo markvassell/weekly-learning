@@ -270,7 +270,7 @@
             "name": "Modern Manufacturing",
             "number": "4310",
             "description": "Contemporary qualitative and quantitative analysis of automation systems for production and inventory; robotics, digital data matrix and Q/R coding, PLC overview; uncertainty, risk, and policy considerations; analysis of networks; management problems in application.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: MANGMT 4010",
             "recommendation": "None Listed"
         },

@@ -326,7 +326,7 @@
             "name": "Physiology of Reproduction",
             "number": "4314",
             "description": "(cross-leveled with AN_SCI 7314). Principles of animal reproduction with emphasis on endocrine control of reproductive processes.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: AN_SCI 3254",
             "recommendation": "None Listed"
         },

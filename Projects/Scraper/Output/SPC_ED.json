@@ -54,7 +54,7 @@
             "name": "Literacy in Special Education",
             "number": "4370",
             "description": "Addresses specific literacy needs of students who are at-risk or have special needs with a focus on assessment and instruction in general education classrooms.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: SPC_ED 4300",
             "recommendation": "None Listed"
         },
@@ -190,7 +190,7 @@
             "name": "Literacy in Special Education",
             "number": "7370",
             "description": "Addresses specific literacy needs of students who are at-risk or have special needs with a focus on assessment and instruction in general education classrooms.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: SPC_ED 4300",
             "recommendation": "None Listed"
         },
@@ -238,7 +238,7 @@
             "name": "Cross-Categorical Special Education: Practicum I",
             "number": "7940",
             "description": "Involvement in meaningful field-based activities that extend and/or apply content information from Special Education 4375.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: SPC_ED 4375, professional standing in Phase II",
             "recommendation": "None Listed"
         },

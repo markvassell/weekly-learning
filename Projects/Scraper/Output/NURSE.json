@@ -94,7 +94,7 @@
             "name": "Role Transitions",
             "number": "3180",
             "description": "Explores returning-to-school issues important to adult learners. Links previous basic nursing courses with baccalaureate courses and begins building new knowledge on prior nursing education.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 3080",
             "recommendation": "None Listed"
         },
@@ -118,7 +118,7 @@
             "name": "Foundations of Nursing: Physical Assessment and the Nursing Process",
             "number": "3270",
             "description": "NURSE 3270 provides knowledge and skills in physical assessment and the application of the Nursing Process.  Clinical application of foundational knowledge determines the health status of individuals.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "5Prerequisites or Corequisites: For Clinical BSN, students must have completed NURSE 2000 and NURSE 2100 and be concurrently enrolled in NURSE 3170, NURSE  3200, NURSE 3300; for Clinical BSN Accelerated students must have completed NURSE 3200 or NURSE 3260 and be concurrently enrolled  NURSE 3170 and NURSE 3100 or NURSE 3300",
             "recommendation": "None Listed"
         },
@@ -190,7 +190,7 @@
             "name": "Nursing Ethics and Law",
             "number": "4200",
             "description": "This course examines and explores legal and ethical principles and applications as they pertain to clinical nursing practice and healthcare. The information in this course is applied in concurrent and subsequent program courses and provides a foundation for ethical and legal professional nursing practice.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 3270 or NURSE 3080",
             "recommendation": "None Listed"
         },
@@ -222,7 +222,7 @@
             "name": "Nursing Issues/Leadership and Management",
             "number": "4300",
             "description": "Examines leadership and organizational theories in relation to resource management and effective delivery of nursing to sets of clients. Analyzes societal/political issues and trends related to nursing and contemporary health care.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: NURSE 3670 or NURSE 3180",
             "recommendation": "None Listed"
         },
@@ -294,7 +294,7 @@
             "name": "Nursing Theory and Research",
             "number": "4950",
             "description": "Addresses nursing research as means of acquiring and refining knowledge. Research utilization to impact nursing addressed. Examines development and utilization of nursing theory, primarily Self-Care Deficit Nursing Theory.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 3080",
             "recommendation": "None Listed"
         },
@@ -302,7 +302,7 @@
             "name": "Nursing Theory and Research - Writing Intensive",
             "number": "4950W",
             "description": "Addresses nursing research as means of acquiring and refining knowledge. Research utilization to impact nursing addressed. Examines development and utilization of nursing theory, primarily Self-Care Deficit Nursing Theory.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 3080",
             "recommendation": "None Listed"
         },
@@ -542,7 +542,7 @@
             "name": "Concepts for Specialization in Public Health Nursing",
             "number": "8110",
             "description": "Key concepts fundamental to specialization in public health nursing, including core public health functions. Emphasis upon integrating public health science, nursing theory, and methodological/leadership skills.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 7100",
             "recommendation": "None Listed"
         },
@@ -878,7 +878,7 @@
             "name": "Leadership and Transformational Role Institute",
             "number": "9087",
             "description": "Synthesis of advanced nursing practice knowledge and leadership skills.  Prepares DNP graduate to implement an advanced nursing practice role that will result in practice and/or policy change at the local, state, or national levels.   May be repeated for credit.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: NURSE 9080 and NURSE 9070",
             "recommendation": "None Listed"
         },
@@ -982,7 +982,7 @@
             "name": "Theories and Interventions in Health Behavior Science",
             "number": "9460",
             "description": "Focuses on health behavior science theories, linking theories to measurement, and designing health behavior interventions.  Graded on A-F basis only.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 9100, NURSE 9120 or faculty consent",
             "recommendation": "None Listed"
         },
@@ -990,7 +990,7 @@
             "name": "Technology Evaluation in Health Care Systems Research",
             "number": "9470",
             "description": "(same as HMI 9440). Examines technology applications and evaluation methods used to determine outcomes, efficiencies, effectiveness, satisfaction, and cost of using technology. ",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "None Listed"
         },

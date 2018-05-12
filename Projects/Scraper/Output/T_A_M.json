@@ -46,7 +46,7 @@
             "name": "Apparel Production",
             "number": "2280",
             "description": "Introduction to sewn products industry applications in which students assemble sample garments and products on industrial equipment. Order of operations is emphasized and industry specific software is introduced. Graded on A-F basis only.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "4Prerequisites or Corequisites: T_A_M 1200 and T_A_M 2200",
             "recommendation": "None Listed"
         },
@@ -78,7 +78,7 @@
             "name": "Apparel and Textile Presentation Techniques",
             "number": "2480",
             "description": "Apparel and textile presentation processes. Introduction to a range of traditional and innovative presentation techniques using various media. Graded on A-F basis only.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: T_A_M 2280",
             "recommendation": "None Listed"
         },
@@ -118,7 +118,7 @@
             "name": "Digital Textile and Apparel Applications",
             "number": "2580",
             "description": "Use of computer aided design technology to create designs for textiles and apparel. Includes portfolio development. Graded on A-F basis only.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: C- or above in T_A_M 2480 or instructor's consent",
             "recommendation": "None Listed"
         },
@@ -350,7 +350,7 @@
             "name": "Apparel Production Management",
             "number": "4980",
             "description": "Integration of consumer, trend and aesthetic research to develop and produce a competitive apparel product line using a multifunctional team approach. Graded on A-F basis only.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "4Prerequisites or Corequisites: T_A_M 3480 or T_A_M 4480",
             "recommendation": "None Listed"
         },
@@ -358,7 +358,7 @@
             "name": "Retail Marketing and Merchandising",
             "number": "4990",
             "description": "(cross-leveled with T_A_M 7990). Analytical management techniques appropriate for evaluation of retailing productivity. Emphasis on the use of these techniques and others in the development of a comprehensive retail marketing strategy.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: T_A_M 2300, ACCTCY 2036 or ACCTCY 2026 or ACCTCY 2010, MRKTNG 3000",
             "recommendation": "None Listed"
         },
@@ -430,7 +430,7 @@
             "name": "Softgoods Product Development",
             "number": "7980",
             "description": "Integration of consumer, trend and aesthetic research to develop and produce a competitive apparel product line using a multi-functional team approach.",
-            "prerequisites": -1,
+            "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: T_A_M 3480 or T_A_M 4480",
             "recommendation": "None Listed"
         },
