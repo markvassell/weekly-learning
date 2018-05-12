@@ -2,13 +2,14 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup as bS
 import json
 import re
+
+
 def get_department_name(html):
     holder = html.find('div', {'id': 'content'})
     return holder.find('h1').text
 
 
 def clean_course_description(data):
-    return_data = []
     data = data.replace("\n", "")
     pre_req = "None Listed"
     hours = "None Listed"
@@ -21,39 +22,35 @@ def clean_course_description(data):
         hours = data.find('Credit Hours:')
         # pre_req = "Prerequisites:"+ pre_req
         if hours != -1:
-            hours = data[hours :]
+            hours = data[hours:]
             hours = hours.replace("Credit Hours", "")
             stoping_point = data.find('Prerequisites:')
-            data = data[0 : stoping_point]
-
-
+            data = data[0:stoping_point]
 
     if result2 is not None:
         hours = result2.group(1)
         hours = hours.replace(" ", "")
         pre_req = data.find('Prerequisites:')
         if pre_req != -1:
-            pre_req = data[pre_req :]
+            pre_req = data[pre_req:]
             pre_req = pre_req.replace('Prerequisites: ', "")
-            #print(pre_req)
             data = data[: data.find('Credit Hours:')]
-
 
     edge_case1 = data.find('Credit Hours:')
     edge_case2 = re.search('Prerequisites:(.*)Credit Hour', data)
     edge_case3 = re.search('Hour:(.*)Prerequisites', data)
 
-    if  edge_case1 != -1:
-        hours = data[edge_case1 :]
+    if edge_case1 != -1:
+
+        hours = data[edge_case1:]
         hours = hours.replace("Hour", "")
 
-        data = data[0 : edge_case1]
-
+        data = data[0:edge_case1]
 
     if edge_case2 is not None:
         pre_req = edge_case2.group(1)
         hours = data.find('Credit Hour:')
-        #pre_req = "Prerequisites:" + pre_req
+        # pre_req = "Prerequisites:" + pre_req
         if hours != -1:
             hours = data[hours:]
             hours = hours.replace('Credit Hour: ', '')
@@ -66,7 +63,7 @@ def clean_course_description(data):
         pre_req = data.find('Prerequisites:')
         if pre_req != -1:
             pre_req = data[pre_req:]
-            pre_req = pre_req.replace("Prerequisites: ","")
+            pre_req = pre_req.replace("Prerequisites: ", "")
             # print(pre_req)
             data = data[: data.find('Credit Hour:')]
         else:
@@ -74,23 +71,23 @@ def clean_course_description(data):
 
     edge_case4 = data.find('Credit Hour:')
     if edge_case4 != -1:
-        hours = data[edge_case4 :]
+        hours = data[edge_case4:]
         hours = hours.replace("Credit Hour: ", "")
-        data = data[0 : edge_case4]
+        data = data[0:edge_case4]
         pre_req = "None Listed"
-
 
     edge_case5 = pre_req.find("Recommended: ")
 
     if edge_case5 != -1:
-        recommendation = pre_req[edge_case5+13 :]
+        recommendation = pre_req[edge_case5+13:]
         pre_req = pre_req[: edge_case5]
 
-    #print(data)
-    #print(hours)
-    #print(pre_req)
+    # print(data)
+    # print(hours)
+    # print(pre_req)
 
     return data, hours, pre_req, recommendation
+
 
 if __name__ == "__main__":
     all_data = []
@@ -130,4 +127,3 @@ if __name__ == "__main__":
 
     with open("../Output/"+department_name+".json", "w+") as outfile:
         outfile.write(json.dumps(class_list, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))
-
