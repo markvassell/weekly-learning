@@ -8,7 +8,8 @@
             "description": "An introduction to Earth Science.  Topics include:  evidence for continental drift and plate tectonics, causes and prediction of natural hazards, the scale of geological time.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Principles of Geology with Laboratory",
@@ -16,7 +17,8 @@
             "description": "Three lectures, 2-hours lab. Earth processes and products and their impact on human needs and the environment. One field trip. For the Mizzou Online sections, there will not be required lectures, lab, and field trip.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Principles of Geology with Laboratory - Honors",
@@ -24,7 +26,8 @@
             "description": "Three lectures, 2-hours lab. Earth processes and products and their impact on human needs and the environment. One field trip.",
             "prerequisites": "Honors eligibility required",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physical Geology for Scientists and Engineers",
@@ -32,7 +35,8 @@
             "description": "Introduction to physical geology and basic earth processes with a focus on applications and societal relevance. In addition to basic geologic processes, basic physical principles will illustrate the interactions between geology and engineering",
             "prerequisites": "None Listed",
             "hours": "4Corequisites: MATH 1500",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Geology with Laboratory",
@@ -40,7 +44,8 @@
             "description": "The interaction between geologic processes and human society. Topics include mineral, water, and energy resources, volcanic hazards, earthquakes, landslides, floods, coastal erosion, pollution problems and environmental management.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The World's Oceans",
@@ -48,7 +53,8 @@
             "description": "An interdisciplinary introduction to oceanography.  Topics include: geologic evolution of ocean basins, properties of seawater, ocean circulation (waves, tides, and currents), marine ecosystems, instability of beaches and coastlines, coastal development and engineering.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Themes in Geology",
@@ -56,7 +62,8 @@
             "description": "5-week course organized around a central theme or topic, up to 3 different sections can be taken for credit.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Independent Study in Geology",
@@ -64,23 +71,30 @@
             "description": "Directed Library research in geological topics, under the supervision of faculty sponsor. May be repeated for a maximum of 3 hours credit.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Soil Science with Laboratory",
             "number": "2110",
             "description": "(same as SOIL 2110). Introduction to Soil Science with emphasis placed on physical, biological, and chemical properties and applications to land use, plant growth, and environmental problems with laboratory application of these concepts.",
-            "prerequisites": "CHEM 1320",
+            "prerequisites": "CHEM 1320",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320"
+            ]
         },
         {
             "name": "Faults and Earthquakes: Past, Present, and Future",
             "number": "2120H",
             "description": "Seminar in science and societal ramifications of earthquakes. Geologic background includes causes, behavior, and distribution of faults. Student-led discussions cover historical disasters, economic, political, psychological, and cultural perspectives.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "Honors eligibility"
+            "recommendation": "Honors eligibility",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "The Age of the Dinosaurs",
@@ -88,7 +102,8 @@
             "description": "Study of the evolution of dinosaurs during the Mesozoic Era. New information on dinosaur life habits, food resources, dispersal by plate tectonics, and theories of extinction will be covered.",
             "prerequisites": "1000-level science course",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Volcanoes and the Human Environment - Honors",
@@ -96,23 +111,30 @@
             "description": "<p>(same as  GN_HON 2450H). This course gives students an understanding of how volcanoes work, how they are studied, and how they have impacted human cultures.  Students will gain appreciation of volcanology as a broad scientific discipline within geology and the role that science plays in public policy.  Graded on A/F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Honors eligibility required"
+            "recommendation": "Honors eligibility required",
+            "connections": "None Listed"
         },
         {
             "name": "Oceanography",
             "number": "2200",
             "description": "Topics include: history and methods of marine research, properties of seawater, ocean circulation, biological productivity and zonation, origin and classification of marine sediments, character of major coastal and open-ocean environments, economic resources and environmental hazards.  Math Reasoning Proficiency Course.",
-            "prerequisites": "MATH 1100 or equivalent",
+            "prerequisites": "MATH 1100 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100"
+            ]
         },
         {
             "name": "Honors Seminar: Headline Topics in the Geological Science",
             "number": "2220H",
             "description": "Seminar organized around a central theme that is the focus of intense ongoing research and public debate.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "Honors eligibility"
+            "recommendation": "Honors eligibility",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Earth Systems and Global Change",
@@ -120,55 +142,87 @@
             "description": "Study of the earth as a whole, taking into account the many interwoven components of the geosphere, hydrosphere, atmosphere and biosphere.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "1000-level Science course"
+            "recommendation": "1000-level Science course",
+            "connections": "None Listed"
         },
         {
             "name": "Historical Geology",
             "number": "2350",
             "description": "Summary of principles and techniques used in reconstructing Earth's history. Survey of major events that have affected Earth and its inhabitants. Review of geologic history of North America.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200 and ENGLSH 1000",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200 and ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000",
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200"
+            ]
         },
         {
             "name": "Historical Geology Laboratory",
             "number": "2360",
             "description": "A laboratory course designed to improve understanding of Earth History by examination of maps and mineral, rock, sediment and fossil samples.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200Corequisites: GEOL 2350",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200Corequisites: GEOL 2350",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200",
+                "GEOL 2350"
+            ]
         },
         {
             "name": "Surficial Earth Processes and Products with Laboratory",
             "number": "2400",
             "description": "Semiquantitative analysis of geologic processes that shape the earth's surface. Includes topics in sedimentation and geomorphology.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200, and MATH 1100",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200, and MATH 1100",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200",
+                "MATH 1100"
+            ]
         },
         {
             "name": "Global Water Cycle",
             "number": "2450",
             "description": "Study of environmental geochemical factors controlling the composition of natural waters, and sources of water's constituents (natural or human-produced).  Math Reasoning Proficiency Course.",
-            "prerequisites": "MATH 1100",
+            "prerequisites": "MATH 1100",
             "hours": "3",
-            "recommendation": "1000-level science course"
+            "recommendation": "1000-level science course",
+            "connections": [
+                "MATH 1100"
+            ]
         },
         {
             "name": "Regional Geology Field Trip",
             "number": "2500",
             "description": "Field based study of a particular geologic region, including classroom preparation prior to the field trip. The trip will last 7-10 days, either during Spring Break or immediately after finals week.  May be repeated for credit.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200"
+            ]
         },
         {
             "name": "Mineral and Energy Resources of the Earth",
             "number": "2600",
             "description": "This course examines the geology of Earth's major mineral and energy resources--their origin, distribution, and characteristics--and societal implications of their use and abundance.  Major topics: fossil fuels, nuclear energy, base & precious metals, non-metallic minerals, water.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200"
+            ]
         },
         {
             "name": "Problems in Geological Sciences",
@@ -176,15 +230,21 @@
             "description": "Problems in Geological Sciences.",
             "prerequisites": "instructor's consent",
             "hours": "1-5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Geology of Missouri",
             "number": "3110",
             "description": "The physical, historical, and environmental geology of Missouri are described, discussed and interpreted.",
-            "prerequisites": "ENGLSH 1000 and either GEOL 1100 or  GEOL 1200",
+            "prerequisites": "ENGLSH 1000 and either GEOL 1100 or  GEOL 1200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000",
+                "GEOL 1100",
+                "GEOL 1200"
+            ]
         },
         {
             "name": "Geology of Missouri Laboratory",
@@ -192,15 +252,21 @@
             "description": "A field based and laboratory based course that uses standard geological techniques to interpret the rock record of Boone County and Missouri.",
             "prerequisites": "None Listed",
             "hours": "1Corequisites: GEOL 3110",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Rocks and Rock-Forming Minerals: Identification, Occurrence and Origin",
             "number": "3200",
             "description": "Introduction to the classification, occurrence, and origin of rocks and rock-forming minerals.",
-            "prerequisites": "GEOL 1100 or GEOL 1200 and CHEM 1310",
+            "prerequisites": "GEOL 1100 or GEOL 1200 and CHEM 1310",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1310",
+                "GEOL 1100",
+                "GEOL 1200"
+            ]
         },
         {
             "name": "Rocks and Rock-Forming Minerals Laboratory",
@@ -208,7 +274,8 @@
             "description": "Identification of rock-forming minerals and rocks in hand specimen by their physical properties.",
             "prerequisites": "None Listed",
             "hours": "1Corequisites: GEOL 3200",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Mineralogy",
@@ -216,39 +283,63 @@
             "description": "Introduction to crystallography, crystal chemistry and crystal structures. Systematic study of mineral groups. Includes identification of minerals by physical, chemical and optical properties.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Geochemistry",
             "number": "3300",
             "description": "Fundamentals of chemistry as applied to geology.  Includes phase diagrams, thermodynamics, redox chemistry, aqueous chemistry, stable and radiogentic isotopes.  Computer-based homework problems (satisfies computing requirement for Geology majors).",
-            "prerequisites": "MATH 1400 or MATH 1500, and GEOL 1100 or GEOL 1150 or GEOL 1200",
+            "prerequisites": "MATH 1400 or MATH 1500, and GEOL 1100 or GEOL 1150 or GEOL 1200",
             "hours": "3PrerequisitesorCorequisites:CHEM 1330",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200",
+                "MATH 1400",
+                "MATH 1500"
+            ]
         },
         {
             "name": "Introduction to Paleontology with Laboratory",
             "number": "3550",
             "description": "Study of the morphology, paleontology, patterns of evolution, and causes of extinction in geologically important groups of invertebrate and vertebrate fossils. Lab concentrates on identification of biostratigraphically important fossils (mostly invertebrates). Several half-day field trips.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200"
+            ]
         },
         {
             "name": "Structural Geology",
             "number": "3650",
             "description": "The mechanical behavior of earth materials. Analysis of the geometry and mechanics of faults, fractures, and folds. Laboratory includes problems on stresses and strains associated with deformation, geometric analysis of deformation structures, and interpretation of geologic maps.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200 and MATH 1140 or MATH 1160 or MATH 1500",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200 and MATH 1140 or MATH 1160 or MATH 1500",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200",
+                "MATH 1140",
+                "MATH 1160",
+                "MATH 1500"
+            ]
         },
         {
             "name": "Sedimentology and Stratigraphy with Lab",
             "number": "3800",
             "description": "Mechanics of sediment transport by fluid flow and gravity flow, origins of stratification and sedimentary structures, facies characteristics depositional environments.",
-            "prerequisites": "GEOL 3250",
+            "prerequisites": "GEOL 3250",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3250"
+            ]
         },
         {
             "name": "Topics in Geological Sciences-Biological/Physical/Mathematics",
@@ -256,15 +347,25 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary. May be repeated with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Groundwater Hydrology",
             "number": "4100",
             "description": "(cross-leveled with GEOL 7100). Analysis of groundwater occurrence, flow, recovery, and solute transport within shallow levels of the Earth's crust.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200, and PHYSCS 1210 or PHYSCS 2750, and MATH 1400 or MATH 1500",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200, and PHYSCS 1210 or PHYSCS 2750, and MATH 1400 or MATH 1500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200",
+                "MATH 1400",
+                "MATH 1500",
+                "PHYSCS 1210",
+                "PHYSCS 2750"
+            ]
         },
         {
             "name": "Karst Hydrology",
@@ -272,79 +373,118 @@
             "description": "The hydrology of karst terrains is taught from the perspective of integrated drainage basins.  Discussion addresses the origin and hydrogeology of karst aquifers and the biology of the animals that live in karstic aquifers.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Engineering Geology",
             "number": "4120",
             "description": "(cross-leveled with GEOL 7120). Fundamentals of earth materials and geological processes and their applications in engineering works and environmental sciences. Includes properties of minerals and rocks, rock and soil mechanics, surficial geological processes, and practice of engineering.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200, and MATH 1500, or instructor's consent",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200, and MATH 1500, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200",
+                "MATH 1500"
+            ]
         },
         {
             "name": "Groundwater Modeling",
             "number": "4130",
             "description": "Use of leading groundwater flow and contamination modeling software.  Theory of groundwater flow, solute transport, and selected numerical solution techniques.  Applications to water resource, environmental, and geological problems.",
-            "prerequisites": "GEOL 4100 or equivalent",
+            "prerequisites": "GEOL 4100 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 4100"
+            ]
         },
         {
             "name": "Solar System Science",
             "number": "4180",
             "description": "(same as PHYSCS 4180 and ASTRON 4180).  Investigates physical states, interior structures and comparative geology of solar systems bodies:  planets, moons, asteroids, comets, sun. Solar system formation and evolution.",
-            "prerequisites": "MATH 1700 and PHYSCS 1220 or PHYSCS 2760 or instructor's consent",
+            "prerequisites": "MATH 1700 and PHYSCS 1220 or PHYSCS 2760 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1700",
+                "PHYSCS 1220",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Economic Geology with Laboratory",
             "number": "4200",
             "description": "Geochemistry of ore deposits. Introduction to types of mineral deposits, genesis of ore, and current areas of research. Laboratory emphasizes hand-specimen and polished-section studies of a wide variety of ore deposit types.",
-            "prerequisites": "GEOL 4900",
+            "prerequisites": "GEOL 4900",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 4900"
+            ]
         },
         {
             "name": "Marine Geology",
             "number": "4210",
             "description": "Comprehensive examination of the geology of the oceans. Topics includes techniques of data collection and interpretation, physical oceanography, origin of marine sediments, marine tectonics, and ocean history.",
-            "prerequisites": "GEOL 3800, CHEM 1330 and PHYSCS 1220",
+            "prerequisites": "GEOL 3800, CHEM 1330 and PHYSCS 1220",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1330",
+                "GEOL 3800",
+                "PHYSCS 1220"
+            ]
         },
         {
             "name": "Introduction to Low-Temperature Geochemistry",
             "number": "4300",
             "description": "Introduction to the chemical alteration of rock-forming minerals in weathering environments and to factors controlling the chemical composition of subsurface water.",
-            "prerequisites": "GEOL 3300 or instructor's consent",
+            "prerequisites": "GEOL 3300 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3300"
+            ]
         },
         {
             "name": "Environmental Soil Chemistry",
             "number": "4318",
             "description": "(same as SOIL 4318 and ENV_SC 4318). Study of chemical constituents and processes occurring in soils. Topics include soil minerals and weathering processes, organic matter, solution chemistry, oxidation-reduction reactions and adsorption processes.",
-            "prerequisites": "SOIL 2100 or GEOL 2400, CHEM 1320 and CHEM 1330.  Junior standing or instructor's consent",
+            "prerequisites": "SOIL 2100 or GEOL 2400, CHEM 1320 and CHEM 1330.  Junior standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "CHEM 1330",
+                "GEOL 2400",
+                "SOIL 2100"
+            ]
         },
         {
             "name": "Patterns and Processes in the Fossil Record",
             "number": "4350",
             "description": "(cross-leveled with GEOL 7350). The purposes of this course are to 1) analyze patterns in the history of life and 2) to recognize the biased processes that led to its preservation. We will accomplish these goals by examining two disparate fossil preservation pathways: 1) Konservat lagerstätten: fossil deposits that are notorious for the exceptional and rare preservation of soft tissues and 2) Konzentrat lagerstätten: fossil deposits that are exceptional for the enormous amount of fossilized skeletal material they contain. Through careful examination of both the rare and the hyper-abundant, we can address the fundamental question of paleobiology: how literally can the fossil record be read as the history of life? Graded on A-F basis only.",
-            "prerequisites": "GEOL 2350, GEOL 2360",
+            "prerequisites": "GEOL 2350, GEOL 2360",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 2350",
+                "GEOL 2360"
+            ]
         },
         {
             "name": "Geomicrobiology and Microbial Biogeochemistry",
             "number": "4400",
             "description": "Roles of microbes in a variety of geological settings through time. Microbial roles in degradation of organic pollutants and transformation of toxic metals and radionuclides in contaminated environments.",
-            "prerequisites": "GEOL 3300 or instructor's consent",
+            "prerequisites": "GEOL 3300 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3300"
+            ]
         },
         {
             "name": "Organic Geochemistry",
@@ -352,55 +492,82 @@
             "description": "Topics include chemistry of petroleum-forming reactions and their kinetic parameters; use of organic-chemical criteria in source-rock evaluation; carbon isotope fractionation in organic precursors of biological molecules; early history of earth's atmosphere.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Plate Tectonics",
             "number": "4650",
             "description": "Formation, evolution, and structure of the earth. Rules, causes, and implications of plate tectonics with emphasis on present-day features.",
-            "prerequisites": "GEOL 3250 or GEOL 3650 or instructor's consent",
+            "prerequisites": "GEOL 3250 or GEOL 3650 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3250",
+                "GEOL 3650"
+            ]
         },
         {
             "name": "Plate Tectonics - Writing Intensive",
             "number": "4650W",
             "description": "Formation, evolution, and structure of the earth. Rules, causes, and implications of plate tectonics with emphasis on present-day features.",
-            "prerequisites": "GEOL 3250 or GEOL 3650 or instructor's consent",
+            "prerequisites": "GEOL 3250 or GEOL 3650 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3250",
+                "GEOL 3650"
+            ]
         },
         {
             "name": "Neotectonics and Earthquake Geology",
             "number": "4680",
             "description": "(cross-leveled with GEOL 7680). Introduction to techniques and concepts of active crustal deformation from the geological and geodetic perspectives.  Topics include tectonic geomorphology, paleoseismology, Quaternary dating, tectonic geodesy, numerical models of faults, and earthquake hazard assessment.",
-            "prerequisites": "GEOL 3650 or GEOL 4650",
+            "prerequisites": "GEOL 3650 or GEOL 4650",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3650",
+                "GEOL 4650"
+            ]
         },
         {
             "name": "Theoretical Geochemistry",
             "number": "4700",
             "description": "Introduction to theoretical concepts in low and high temperature geochemistry. Topics include thermodynamics of fluids, gases and solids in geological materials, phase diagrams, equilibrium constants, electrolyte theory, oxidation-reduction reactions.",
-            "prerequisites": "GEOL 3250, CHEM 1330 and MATH 1700",
+            "prerequisites": "GEOL 3250, CHEM 1330 and MATH 1700",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1330",
+                "GEOL 3250",
+                "MATH 1700"
+            ]
         },
         {
             "name": "Introduction to Geophysics",
             "number": "4800",
             "description": "(cross-leveled with GEOL 7800). Introduction to the fundamentals of geophysical methods and their applications in geology, environmental studies, and exploration. Topics include seismic, gravity, magnetic, and electric methods.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200 and MATH 1700 or instructor's consent",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200 and MATH 1700 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200",
+                "MATH 1700"
+            ]
         },
         {
             "name": "Igneous and Metamorphic Petrology with Laboratory",
             "number": "4900",
             "description": "Introduction to igneous and metamorphic rock associations and rock-forming processes. Emphasis on understanding the evolution of the Earth in view of igneous and metamorphic rock petrogenesis.",
-            "prerequisites": "GEOL 3250",
+            "prerequisites": "GEOL 3250",
             "hours": "4",
-            "recommendation": "GEOL 3300"
+            "recommendation": "GEOL 3300",
+            "connections": [
+                "GEOL 3250"
+            ]
         },
         {
             "name": "Senior Thesis",
@@ -408,7 +575,8 @@
             "description": "Research conducted in an area of the Geological Sciences under the auspices of a member of the faculty. Under normal circumstances, this research should be completed over two semesters. May be repeated for a maximum of 3 hours credit.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Communicating in the Earth Sciences",
@@ -416,7 +584,8 @@
             "description": "Synthesis of Geology curriculum through study of classic Earth Science papers.  Emphasizes critical analysis of scientific papers, data interpretation, science writing and oral presentations.  Satisfies Capstone for BA in Environmental Geology.",
             "prerequisites": "instructors consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Capstone in Environmental Geology",
@@ -424,7 +593,8 @@
             "description": "Readings and discussions in selected areas of environmental geology.  Subject depends on instructor.  3 credit hour Capstone must be completed unless student completes a Senior Thesis.  In that case, Capstone + Senior Thesis credit hours must equal 3.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Geology Field Camp",
@@ -432,7 +602,8 @@
             "description": "Field study of sedimentary, igneous and metamorphic rocks. Facies analysis of sedimentary rocks, mapping of folded and faulted sedimentary strata and fabric analysis of an igneous-metamorphic terrane. Excursion to Yellowstone and Grand Teton National Parks.",
             "prerequisites": "None Listed",
             "hours": "6",
-            "recommendation": "GEOL 2350, GEOL 3650, and  GEOL 3800"
+            "recommendation": "GEOL 2350, GEOL 3650, and  GEOL 3800",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Geological Sciences-Biological/Physical/Mathematics",
@@ -440,7 +611,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary. May be repeated with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Geological Sciences",
@@ -448,15 +620,25 @@
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "1-8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Groundwater Hydrology",
             "number": "7100",
             "description": "(cross-leveled with GEOL 4100). Analysis of groundwater occurrence, flow, recovery, and solute transport within shallow levels of the Earth's crust.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200, and PHYSCS 1210 or PHYSCS 2750, and MATH 1400 or MATH 1500",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200, and PHYSCS 1210 or PHYSCS 2750, and MATH 1400 or MATH 1500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200",
+                "MATH 1400",
+                "MATH 1500",
+                "PHYSCS 1210",
+                "PHYSCS 2750"
+            ]
         },
         {
             "name": "Karst Hydrology",
@@ -464,63 +646,95 @@
             "description": "Study of the mechanisms of groundwater flow in Karst terrains. Emphasizing several scales including that of a conduit, a catchment, and regional framework.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Engineering Geology",
             "number": "7120",
             "description": "(cross-leveled with GEOL 4120). Fundamentals of earth materials and geological processes and their applications in engineering works and environmental sciences. Includes properties of minerals and rocks, rock and soil mechanics, surficial geological processes, and practice of engineering.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200 and MATH 1500, or instructor's consent",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200 and MATH 1500, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200",
+                "MATH 1500"
+            ]
         },
         {
             "name": "Groundwater Modeling",
             "number": "7130",
             "description": "Use of leading groundwater flow and contamination modeling software.  Theory of groundwater flow, solute transport, and selected numerical solution techniques.  Applications to water resource, environmental, and geological problems.",
-            "prerequisites": "GEOL 4100 or equivalent",
+            "prerequisites": "GEOL 4100 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 4100"
+            ]
         },
         {
             "name": "Solar System Science",
             "number": "7180",
             "description": "(same as PHYSCS 7180 and ASTRON 7180).  Investigates physical states, interior structures and comparative geology of solar systems bodies:  planets, moons, asteroids, comets, sun. Solar system formation and evolution.",
-            "prerequisites": "MATH 1700 and PHYSCS 1220 or PHYSCS 2760 or instructor's consent",
+            "prerequisites": "MATH 1700 and PHYSCS 1220 or PHYSCS 2760 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1700",
+                "PHYSCS 1220",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Economic Geology with Laboratory",
             "number": "7200",
             "description": "Geochemistry of ore deposits. Introduction to types of mineral deposits, genesis of ore, and current areas of research. Laboratory emphasizes hand-specimen and polished-section studies of a wide variety of ore deposit types.",
-            "prerequisites": "GEOL 4900",
+            "prerequisites": "GEOL 4900",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 4900"
+            ]
         },
         {
             "name": "Marine Geology",
             "number": "7210",
             "description": "Comprehensive examination of the geology of the oceans. Topics includes techniques of data collection and interpretation, physical oceanography, origin of marine sediments, marine tectonics, and ocean history.",
-            "prerequisites": "GEOL 3800 CHEM 1330 and PHYSCS 1220",
+            "prerequisites": "GEOL 3800 CHEM 1330 and PHYSCS 1220",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1330",
+                "GEOL 3800",
+                "PHYSCS 1220"
+            ]
         },
         {
             "name": "Introduction to Low-Temperature Geochemistry",
             "number": "7300",
             "description": "Introduction to the chemical alteration of rock-forming minerals in weathering environments and to factors controlling the chemical composition of subsurface water.",
-            "prerequisites": "GEOL 3300 or instructor's consent",
+            "prerequisites": "GEOL 3300 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3300"
+            ]
         },
         {
             "name": "Environmental Soil Chemistry",
             "number": "7318",
             "description": "(same as SOIL 7318 and ENV_SC 7318). Study of chemical constituents and processes occurring in soils.  Topics include soil minerals, and weathering processes organic matter, solution chemistry, oxidation-reduction reactions and adsorption processes.",
-            "prerequisites": "SOIL 2100 or GEOL 2400, CHEM 1320 and CHEM 1330 or instructor's consent",
+            "prerequisites": "SOIL 2100 or GEOL 2400, CHEM 1320 and CHEM 1330 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "CHEM 1330",
+                "GEOL 2400",
+                "SOIL 2100"
+            ]
         },
         {
             "name": "Patterns and Processes in the Fossil Record",
@@ -528,15 +742,19 @@
             "description": "(cross-leveled with GEOL 4350). The purposes of this course are to 1) analyze patterns in the history of life and 2) to recognize the biased processes that led to its preservation.  We will accomplish these goals by examining two disparate fossil preservation pathways: 1) Konservat lagerstätten: fossil deposits that are notorious for the exceptional and rare preservation of soft tissues and 2) Konzentrat lagerstätten: fossil deposits that are exceptional for the enormous amount of fossilized skeletal material they contain.  Through careful examination of both the rare and hyper-abundant we can address the fundamental question of paleobiology: how literally can the fossil record be read as the history of life?  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Geomicrobiology and Microbial Biogeochemistry",
             "number": "7400",
             "description": "Roles of microbes in a variety of geological settings through time. Microbial roles in degradation of organic pollutants and transformation of toxic metals and radionuclides in contaminated environments.",
-            "prerequisites": "GEOL 3300 or instructor's consent",
+            "prerequisites": "GEOL 3300 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3300"
+            ]
         },
         {
             "name": "Organic Geochemistry",
@@ -544,31 +762,45 @@
             "description": "Topics include chemistry of petroleum-forming reactions and their kinetic parameters; use of organic-chemical criteria in source-rock evaluation; carbon isotope fractionation in organic precursors of biological molecules; early history of earth's atmosphere.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Plate Tectonics",
             "number": "7650",
             "description": "(cross-leveled with GEOL 4650). Formation, evolution, and structure of the earth. Rules, causes, and implications of plate tectonics with emphasis on present-day features.",
-            "prerequisites": "GEOL 3250,  GEOL 3650 or instructor's consent",
+            "prerequisites": "GEOL 3250,  GEOL 3650 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3250",
+                "GEOL 3650"
+            ]
         },
         {
             "name": "Neotectonics and Earthquake Geology",
             "number": "7680",
             "description": "(cross-leveled with GEOL 4680). Introduction to techniques and concepts of active crustal deformation from the geological and geodetic perspectives. Topics include tectonic geomorphology, paleseismology, Quarternary dating, tectonic geodesy, numerical models of faults, and earthquake hazard assessment.",
-            "prerequisites": "GEOL 3650 or GEOL 4650",
+            "prerequisites": "GEOL 3650 or GEOL 4650",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3650",
+                "GEOL 4650"
+            ]
         },
         {
             "name": "Theoretical Geochemistry",
             "number": "7700",
             "description": "Introduction to theoretical concepts in low and high temperature geochemistry. Topics include thermodynamics of fluids, gases and solids in geological materials, phase diagrams, equilibrium constants, electrolyte theory, oxidation-reduction reactions.",
-            "prerequisites": "GEOL 3250, CHEM 1330 and MATH 1700",
+            "prerequisites": "GEOL 3250, CHEM 1330 and MATH 1700",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1330",
+                "GEOL 3250",
+                "MATH 1700"
+            ]
         },
         {
             "name": "Microanalysis for Geological Sciences",
@@ -576,15 +808,22 @@
             "description": "(cross-leveled with GEOL 4750). This course is intended to provide a working knowledge of electron and X-ray microbeam analytical instruments - both in principle and in practice. Lectures will focus on the physics of how these instruments collect data, and how these data can be interpreted. In addition, students will gain hands-on experience with operating these instruments, specifically on their own samples, as well as preparing their samples for microanalysis and interpreting/manipulating the resulting data. Graded on A-F basis only.",
             "prerequisites": "Instructor's consent (Instrument time is limited; graduate students who will use the instruments in their research will have priority)",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Geophysics",
             "number": "7800",
             "description": "(cross-leveled with GEOL 4800). Introduction to the fundamentals of geophysical methods and their applications in geology, environmental studies, and exploration. Topics include seismic, gravity, magnetic, and electric methods.",
-            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200 and MATH 1700 or instructor's consent",
+            "prerequisites": "GEOL 1100 or GEOL 1150 or GEOL 1200 and MATH 1700 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 1100",
+                "GEOL 1150",
+                "GEOL 1200",
+                "MATH 1700"
+            ]
         },
         {
             "name": "Research in Geological Sciences-Masters",
@@ -592,15 +831,21 @@
             "description": "Does not lead to dissertation.",
             "prerequisites": "None Listed",
             "hours": "1-8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Investigation of Earth Materials",
             "number": "7991",
             "description": "Hands-on experience in all facets of quantitative field and laboratory analyses of near-surface earth materials.",
-            "prerequisites": "GEOL 2350, GEOL 4100, and  GEOL 3800",
+            "prerequisites": "GEOL 2350, GEOL 4100, and  GEOL 3800",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 2350",
+                "GEOL 4100",
+                "GEOL 3800"
+            ]
         },
         {
             "name": "Topics in Geological Sciences",
@@ -608,7 +853,8 @@
             "description": "Organized study of selected topics.  May be repeated with departmental consent.",
             "prerequisites": "PhD standing, instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Geological Sciences-Masters Non-Thesis",
@@ -616,7 +862,8 @@
             "description": "Research leading to a non-thesis Masters project.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Geological Sciences",
@@ -624,7 +871,8 @@
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "1-8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Geological Sciences-Masters Thesis",
@@ -632,47 +880,66 @@
             "description": "Preparation of dissertation. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Continental Tectonics",
             "number": "8100",
             "description": "The structural, metamorphic, and igneous evolution of mountain belts and continental rifts with emphasis on convergent margin settings and terrane accretion processes and products. Case studies are considered from the Precambrian to the recent.",
-            "prerequisites": "GEOL 3650 and GEOL 4900",
+            "prerequisites": "GEOL 3650 and GEOL 4900",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3650",
+                "GEOL 4900"
+            ]
         },
         {
             "name": "Metamorphic Petrology",
             "number": "8140",
             "description": "Petrography and petrology of metamorphic rocks. Emphasis on textures, mineral assemblages, and mineral chemistry in order to determine the physico-chemical condition of metamorphism.",
-            "prerequisites": "GEOL 3250 and  GEOL 4900",
+            "prerequisites": "GEOL 3250 and  GEOL 4900",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3250",
+                "GEOL 4900"
+            ]
         },
         {
             "name": "Earthquake Seismology",
             "number": "8150",
             "description": "Theory and techniques used in analyzing earthquake seismograms and seismicity data. Ray theory and phase identification for the whole earth. Epicenter determination. Frequency-magnitude relationships. Earthquake source mechanisms and parameters.",
-            "prerequisites": "GEOL 8320",
+            "prerequisites": "GEOL 8320",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 8320"
+            ]
         },
         {
             "name": "Igneous Petrology",
             "number": "8160",
             "description": "Studies of the origin and evolution of magmas with use of phase equilibria, physical properties, and kinetics.",
-            "prerequisites": "GEOL 3250 and  GEOL 4900",
+            "prerequisites": "GEOL 3250 and  GEOL 4900",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3250",
+                "GEOL 4900"
+            ]
         },
         {
             "name": "Radiogenic Isotope Geochemistry",
             "number": "8170",
             "description": "Studies of the application of trace element and radiogenic isotope systematics to petrogenesis of rocks.",
-            "prerequisites": "GEOL 4900",
+            "prerequisites": "GEOL 4900",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 4900"
+            ]
         },
         {
             "name": "Advanced Paleontology",
@@ -680,39 +947,56 @@
             "description": "Principles of taxonomy, biostratigraphy, functional morphology and paleoecology are illustrated by individual projects that combine field collecting, laboratory examination and literature research.",
             "prerequisites": "GEOL 4550",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 4550"
+            ]
         },
         {
             "name": "Advanced Structural Geology",
             "number": "8200",
             "description": "Advanced analysis of deformation structures in rocks. Theory and techniques of stress and strain analysis and their application to the mechanics of formation of faults, folds, shear zones, and rock fabric. Techniques of multideformation structural analysis.",
-            "prerequisites": "GEOL 3650",
+            "prerequisites": "GEOL 3650",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3650"
+            ]
         },
         {
             "name": "Advanced Aqueous Geochemistry",
             "number": "8210",
             "description": "Study of mineral-water interface geochemistry. Course will cover dissolution and precipitation kinetics, sorption reactions, and current theories.",
-            "prerequisites": "GEOL 4300 or GEOL 7300 or instructor's consent",
+            "prerequisites": "GEOL 4300 or GEOL 7300 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 4300",
+                "GEOL 7300"
+            ]
         },
         {
             "name": "Groundwater and Subsurface Geomicrobiology",
             "number": "8230",
             "description": "Distribution of microorganisms in subsurface environments and the effects of microbial activity on groundwater chemistry. In situ bioremediation of contaminated aquifers by subsurface microorganisms.",
-            "prerequisites": "GEOL 4400",
+            "prerequisites": "GEOL 4400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 4400"
+            ]
         },
         {
             "name": "Hydrolgeologic Processes",
             "number": "8240",
             "description": "Quantitative analysis of role of groundwater in major geologic processes.  Theory review of fluid flow, heat transport, reactive solute transport in porous media.  Applications to sedimentary diagenesis, hydrothermal ore deposits, petroleum migration, earthquakes, magmatism, metamorphism.",
-            "prerequisites": "GEOL 4100 or GEOL 7100 or equivalent",
+            "prerequisites": "GEOL 4100 or GEOL 7100 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 4100",
+                "GEOL 7100"
+            ]
         },
         {
             "name": "Precambrian History",
@@ -720,15 +1004,21 @@
             "description": "Coupled evolution of the biosphere, lithosphere, hydrosphere, and atmosphere over the span of Precambrian history. Topics will be discussed largely in the context of biological evolutionary events and the fossil record, as well as with a focus on geochemical records.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Seismology",
             "number": "8320",
             "description": "Principles of wave propagation in layered elastic media. Applications of digital signal processing to seismological problems. Emphasis on theoretical basis behind modern analysis techniques.",
-            "prerequisites": "PHYSCS 2760, MATH 4500 and CMP_SC 1050",
+            "prerequisites": "PHYSCS 2760, MATH 4500 and CMP_SC 1050",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CMP_SC 1050",
+                "MATH 4500",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Marine Chemistry",
@@ -736,31 +1026,45 @@
             "description": "Survey of biogeochemical processes in shallow and deep marine settings. Topics include sediment diagenesis, geochemical tracers, nutrient patterns and pathways, global biogeochemical cycles, paleoceanographic proxy records, and integrated paleoenvironmental reconstructions of ancient marine sequences.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ancient Greenhouse Climate",
             "number": "8400",
             "description": "Will explore a wide range of data concerning greenhouse climates and different techniques used in paleoclimatology. Graded on A/F basis only.",
-            "prerequisites": "GEOL 3800, GEOL 3500 and  GEOL 4300",
+            "prerequisites": "GEOL 3800, GEOL 3500 and  GEOL 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3800",
+                "GEOL 3500",
+                "GEOL 4300"
+            ]
         },
         {
             "name": "Tectonics and Sedimentation",
             "number": "8450",
             "description": "Global survey of modern and ancient convergent plate boundaries with an emphasis on sedimentary facies and structural styles.",
-            "prerequisites": "GEOL 3650,  GEOL 3800 and instructor's consent",
+            "prerequisites": "GEOL 3650,  GEOL 3800 and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 3650",
+                "GEOL 3800"
+            ]
         },
         {
             "name": "Geodynamics",
             "number": "8510",
             "description": "This course is designed to cover the fundamentals of the quantitative aspects of Plate Tectonics.  The study of these subjects s generally referred to as Geodynamics or Geodynamic Theory.  This theory revolutionized the earth sciences and the way people think of earth processes.  By definition Geodynamics is an interdisciplinary paradigm therefore it is necessary to cover a wide range of topics from heat transfer to gravity.  This course will overlap with subjects covered in both Plate Tectonics and Geophysics but we will emphasize the quantitative aspects of this theory in this course.",
-            "prerequisites": "MATH 1700, PHYSCS 2760",
+            "prerequisites": "MATH 1700, PHYSCS 2760",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1700",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Stable Isotope Geochemistry",
@@ -768,7 +1072,8 @@
             "description": "Mechanisms and fundamental concepts of fractionation of light stable isotopes in nature. Emphasizes application of hydrogen, carbon, oxygen and sulfur isotopes to igneous, metamorphic and sedimentary rocks, metallic ore deposits, and to natural waters.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Quaternary Environments",
@@ -776,31 +1081,47 @@
             "description": "Study of the Earth's most recent glacial/interglacial cycles.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Thermal Processes in the Solid Earth",
             "number": "8650",
             "description": "Principles of heat transfer in solid earth by conduction, advection and convection. Basic analytic and numerical solutions. Application in Earth's dynamic system, environmental sciences, and geological problems.",
-            "prerequisites": "MATH 1700, PHYSCS 1220 or  PHYSCS 2750",
+            "prerequisites": "MATH 1700, PHYSCS 1220 or  PHYSCS 2750",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1700",
+                "PHYSCS 1220",
+                "PHYSCS 2750"
+            ]
         },
         {
             "name": "Silicate Glasses, Liquids and Magmas",
             "number": "8750",
             "description": "Theory of silicate liquid viscosity, heat capacity and configurational entropy, emphasizing the role of volatile components.  Applications to magma rheology and eruptive behavior.  Lab instruction in viscometry techniques.",
-            "prerequisites": "GEOL 4900 and  GEOL 4700, or instructor's consent",
+            "prerequisites": "GEOL 4900 and  GEOL 4700, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOL 4900",
+                "GEOL 4700"
+            ]
         },
         {
             "name": "Applied Numerical Analysis",
             "number": "8800",
             "description": "A study of applied mathematical analysis of spatial and temporal data as applied in the geosciences.",
-            "prerequisites": "MATH 1700 or MATH 2300, PHYSCS 1220 or PHYSCS 2760",
+            "prerequisites": "MATH 1700 or MATH 2300, PHYSCS 1220 or PHYSCS 2760",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1700",
+                "MATH 2300",
+                "PHYSCS 1220",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Research",
@@ -808,7 +1129,8 @@
             "description": "Does not lead to dissertation.",
             "prerequisites": "None Listed",
             "hours": "1-8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Geological Sciences-Doctoral Dissertation",
@@ -816,7 +1138,8 @@
             "description": "Preparation of dissertation. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

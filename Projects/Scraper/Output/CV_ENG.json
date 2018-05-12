@@ -8,7 +8,8 @@
             "description": "Introduces various aspects of Civil Engineering practice. May be repeated one time for credit.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Experimental Course",
@@ -16,7 +17,8 @@
             "description": "For freshman-level students. Content and number of credit hours to be listed in Schedule of Courses.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Experimental Course",
@@ -24,15 +26,19 @@
             "description": "For sophomore-level students. Content and number of credit hours to be listed in Schedule of Courses.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Dynamics",
             "number": "2080",
             "description": "Basic fundamentals of particle and rigid body dynamics; energy and momentum methods.",
-            "prerequisites": "ENGINR 1200",
+            "prerequisites": "ENGINR 1200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1200"
+            ]
         },
         {
             "name": "Fundamental Topics in Civil Engineering",
@@ -40,23 +46,31 @@
             "description": "Special engineering topics for undergraduate students.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Decision Methods for Civil Engineering Design",
             "number": "3010",
             "description": "Essential features of civil engineering including the design process, design teams, experimental and computational tools, engineering economy, communication skills, and ethical considerations.",
-            "prerequisites": "grade of C- or better in ENGLSH 1000",
+            "prerequisites": "grade of C- or better in ENGLSH 1000",
             "hours": "3PrerequisitesorCorequisites:ENGINR 1200",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Decision Methods for Civil Engineering Design - Writing Intensive",
             "number": "3010W",
             "description": "Essential features of civil engineering including the design process, design teams, experimental and computational tools, engineering economy, communication skills, and ethical considerations.",
-            "prerequisites": "grade of C- or better in ENGLSH 1000Corequisites: ENGINR 1200",
+            "prerequisites": "grade of C- or better in ENGLSH 1000Corequisites: ENGINR 1200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1200",
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Introduction to Geographic Information Systems GIS",
@@ -64,47 +78,68 @@
             "description": "(same as GEOG 3040)  Introduces theory, concepts and techniques related to the creation, manipulation, processing, and basic analysis of spatial data using GIS.  Data management, current data models, GIS applications and course topics are reinforced through hands-on computer laboratory exercises.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Transportation Engineering",
             "number": "3100",
             "description": "Covers fundamentals of transportation engineering including geometric design, traffic engineering, pavements, and planning.",
-            "prerequisites": "grade of C- or better in ENGINR 1100",
+            "prerequisites": "grade of C- or better in ENGINR 1100",
             "hours": "4PrerequisitesorCorequisites:CV_ENG 3010",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1100"
+            ]
         },
         {
             "name": "Fundamentals of Environmental Engineering",
             "number": "3200",
             "description": "Fundamentals of water quality engineering and water resources, water and wastewater treatment, solid and hazardous and radioactive waste management, air pollution, environmental regulation, and environmental ethics.",
-            "prerequisites": "grade of C- or better in CHEM 1320 or equivalent",
+            "prerequisites": "grade of C- or better in CHEM 1320 or equivalent",
             "hours": "4PrerequisitesorCorequisites:CV_ENG 3010",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320"
+            ]
         },
         {
             "name": "Pollutant Fate and Transport",
             "number": "3250",
             "description": "(same as ENV_SC 3250). Introduction to concepts governing pollutant fate and transport in the environment, including pollutant interactions within and migration through environmental systems, as will as analytical techniques and tools necessary to quantify conditions and movement.",
-            "prerequisites": "ENV_SC 1100 or SOIL 2100 or CV_ENG 3200; and CHEM 1320; or instructor's permission",
+            "prerequisites": "ENV_SC 1100 or SOIL 2100 or CV_ENG 3200; and CHEM 1320; or instructor's permission",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "CV_ENG 3200",
+                "ENV_SC 1100",
+                "SOIL 2100"
+            ]
         },
         {
             "name": "Structural Analysis I",
             "number": "3300",
             "description": "Analysis of statically determinate beams, frames; shear and moment diagrams; influence line diagrams; beam deflections. Analysis of statically indeterminate structures; moment distribution; energy methods. Introduction to matrix analysis.",
-            "prerequisites": "grade of C- or better in ENGINR 1200 and ENGINR 2200",
+            "prerequisites": "grade of C- or better in ENGINR 1200 and ENGINR 2200",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1200",
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Structural Analysis I - Honors",
             "number": "3300H",
             "description": "Analysis of statically determinate beams, frames; shear and moment diagrams; influence line diagrams; beam deflections. Analysis of statically indeterminate structures; moment distribution; energy methods. Introduction to matrix analysis.",
-            "prerequisites": "grade of C- or better in ENGINR 1200 and ENGINR 2200. Honors Eligibility required",
+            "prerequisites": "grade of C- or better in ENGINR 1200 and ENGINR 2200. Honors Eligibility required",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1200",
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Reinforced Concrete Design",
@@ -112,7 +147,8 @@
             "description": "Basic principles of reinforced concrete design. Design of beams for flexture and shear; design of short and slender columns. ",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Structural Steel Design",
@@ -120,15 +156,20 @@
             "description": "Basic principles of structural steel design. Design of beams, axially loaded members, columns, and bolted and welded connections.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: CV_ENG 3300 and CV_ENG 3600",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Geotechnical Engineering",
             "number": "3400",
             "description": "Detailed study of physical and mechanical properties of soil governing its behavior as an engineering material.",
-            "prerequisites": "grade of C- or better in ENGINR 2200 and GEOL 1150",
+            "prerequisites": "grade of C- or better in ENGINR 2200 and GEOL 1150",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200",
+                "GEOL 1150"
+            ]
         },
         {
             "name": "Civil Engineering Materials",
@@ -136,23 +177,32 @@
             "description": "Introduces composition, structure, properties, behavior, and selection of civil engineering materials. ",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fluid Mechanics",
             "number": "3700",
             "description": "Statics and dynamics of fluids, principles of continuity, momentum and energy, pipe flow.",
-            "prerequisites": "grade of C- or better PHYSCS 2750",
+            "prerequisites": "grade of C- or better PHYSCS 2750",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2750"
+            ]
         },
         {
             "name": "Hydrology",
             "number": "3702",
             "description": "Fundamental concepts of hydrology in engineering; quantitative estimation of stream-flow magnitude and frequency; and open channel flow considerations from stream-flow. Fluid Mechanics lab with lab reports.",
-            "prerequisites": "grade of C- or better MATH 2300 and CV_ENG 3200 and CV_ENG 3700",
+            "prerequisites": "grade of C- or better MATH 2300 and CV_ENG 3200 and CV_ENG 3700",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3200",
+                "CV_ENG 3700",
+                "MATH 2300"
+            ]
         },
         {
             "name": "Topics in Civil Engineering",
@@ -160,31 +210,41 @@
             "description": "Study of current and new technical developments in civil engineering.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Digital Computer Applications in Engineering",
             "number": "4006",
             "description": "(cross-leveled with CV_ENG 7006). Use of digital computer for solution of engineering problems involving roots of equations, simultaneous equations, curve fitting, integration, differentiation, and differential equations.  ",
-            "prerequisites": "  MATH 2300",
+            "prerequisites": "  MATH 2300",
             "hours": ": 3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 2300"
+            ]
         },
         {
             "name": "Risk and Reliability for Civil Engineers",
             "number": "4008",
             "description": "(cross-leveled with CV_ENG 7008). This course focuses on how to use probability and statistics to quantify uncertainties and consider risks when making civil engineering decisions and designing civil engineering systems.",
-            "prerequisites": "grade of C- or better in CV_ENG 3010 or other introductory probability/statistics course",
+            "prerequisites": "grade of C- or better in CV_ENG 3010 or other introductory probability/statistics course",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3010"
+            ]
         },
         {
             "name": "Advanced Surveying",
             "number": "4080",
             "description": "(cross-leveled with CV_ENG 7080). Celestial observations for determination of position; state coordinate systems, precise surveys, introduction to geodetic surveys, principles of photogrammetry. Theory of optical surveying instruments.",
-            "prerequisites": "MATH 1500",
+            "prerequisites": "MATH 1500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1500"
+            ]
         },
         {
             "name": "Problems in Civil and Environmental Engineering",
@@ -192,95 +252,129 @@
             "description": "Directed investigation of civil engineering.",
             "prerequisites": "instructor's consent",
             "hours": "2-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Traffic Engineering",
             "number": "4100",
             "description": "(cross-leveled with CV_ENG 7100). Characteristics and studies associated with highway traffic. Capacity analysis and evaluation of freeways, rural highways, and urban streets. Traffic signal control and coordination.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Infrastructure Management",
             "number": "4102",
             "description": "(cross-leveled with CV_ENG 7102). Civil infrastructure condition assessment, performance modeling, deterioration processes and models, maintenance and rehabilitation strategies, management techniques, data analysis, management systems, financing, case studies, emerging technologies.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Planning and Geometric Design of Highways",
             "number": "4103",
             "description": "(cross-leveled with CV_ENG 7103). Techniques of highway planning in rural and urban areas. Design of the visible elements of highways.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Pavement Materials and Design",
             "number": "4104",
             "description": "(cross-leveled with CV_ENG 7104). Properties of materials used in roads, airports and other pavement construction. Design methods for rigid and flexible pavements.",
-            "prerequisites": "grade of C- or better in ENGINR 2200",
+            "prerequisites": "grade of C- or better in ENGINR 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Intelligent Transportation Systems",
             "number": "4106",
             "description": "(cross-leveled with CV_ENG 7106). This is an introductory course in Intelligent Transportation Systems (ITS).  Topics include the theory of transportation networks and systems optimization, current implementations of ITS, and practical issues and implications of ITS.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Bicycle and Pedestrian Transportation",
             "number": "4108",
             "description": "(cross-leveled with CV_ENG 7108). This course teaches how to integrate pedestrian and bicyclist accommodations into the planning and design of transportation facilities.  Topics include bicyclist safety, accommodation at intersections, traffic calming techniques and facility design.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Transportation Simulation",
             "number": "4110",
             "description": "(cross-leveled with CV_ENG 7110). Theory and application of simulation in transportation engineering.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Airport Engineering",
             "number": "4120",
             "description": "(cross-lveled with CV_ENG 7120). Airport systems planning, design, and management.",
-            "prerequisites": "grade of C- or better in CV_ENG 3010",
+            "prerequisites": "grade of C- or better in CV_ENG 3010",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3010"
+            ]
         },
         {
             "name": "Transportation Legal Issues",
             "number": "4125",
             "description": "(cross-leveled with CV_ENG 7125). This course discusses some of the legal issues that transportation engineers encounter throughout the course of their careers.",
-            "prerequisites": "CV_ENG 3010",
+            "prerequisites": "CV_ENG 3010",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3010"
+            ]
         },
         {
             "name": "Transportation Safety",
             "number": "4130",
             "description": "(cross-leveled with CV_ENG 7130This course is an introduction to transportation safety.  The focus will be on surface transportation.  The student is expected to analyze safety data and to devise engineering solutions to safety problems.",
-            "prerequisites": "CV_ENG 3010",
+            "prerequisites": "CV_ENG 3010",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3010"
+            ]
         },
         {
             "name": "Civil and Environmental Engineering Legal Issues",
             "number": "4145",
             "description": "(cross-leveled with CV_ENG 7145). Discussion of legal issues facing civil engineers including right of way, risk and liability, environment, financing public works, contracting and ethics.",
-            "prerequisites": "CV_ENG 3010",
+            "prerequisites": "CV_ENG 3010",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3010"
+            ]
         },
         {
             "name": "Transportation Geography",
@@ -288,7 +382,8 @@
             "description": "(same as GEOG 4850; cross-leveled with CV_ENG 7155; GEOG 7850). Introduction to fundamental concepts and modes of analysis in transportation geography.  Focus on descriptive, explanatory, as well as normative approaches.  Topics reviewed include spatial organization, transportation economics, spatial interaction, network analysis, location/allocation, and urban transportation planning.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Geospatial Science in National Security",
@@ -296,7 +391,8 @@
             "description": "(Same as GEOG 4130; cross-leveled with CV_ENG 4175, GEOG 7130). This course explores the critical contribution of the geospatial sciences in the collection processing, visualization and analysis of geospatial information related to national security.  May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Location Analysis/Site Selection",
@@ -304,7 +400,8 @@
             "description": "(same as GEOG 4740; cross-leveled with CV_ENG 7185; GEOG 7740). An overview of location analysis in regional planning and spatial decision support, this course focuses on the use of Geographic Information Science (GIS) and location analysis methods in addressing regional service needs.  Maybe be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Infrastructure Project Development",
@@ -312,7 +409,8 @@
             "description": "(cross-leveled with CV_ENG 7190). Students will learn how the key elements of major civil engineering infrastructure projects fit together.  The course will focus on the horizontal integration of: financing - planning - environment - right of way - design - construction - operations - maintenance.  Engineering is important but so are a lot of other things. Graded on A-F basis only. ",
             "prerequisites": "  junior standing",
             "hours": ": 3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Remote Sensing of the Environment",
@@ -320,7 +418,8 @@
             "description": "(cross-leveled with CV _ENG 7200). Principles, characteristics and applications of remote sensing in engineering, geosciences, agriculture and environmental projects. Topics: basic concepts, photographic, thermal multispectral and microwave systems, satellite remote sensing and digital image processing.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Solid Waste Management",
@@ -328,7 +427,8 @@
             "description": "(cross-leveled with CV_ENG 7210). Engineering principles involved in generation, handling, collection, transport, processing, and disposal of solid wastes, resource recovery and reuse, legislation on solid wastes and groundwater contamination problems.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Hazardous Waste Management",
@@ -336,7 +436,8 @@
             "description": "(same as CH_ENG 4220; cross-leveled with CV_ENG 7220, CH_ENG 7220). Engineering principles involved in handling, collection, transportation, processing and disposal of hazardous wastes, waste minimization, legislation on hazardous wastes and groundwater contamination.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Water Quality",
@@ -344,31 +445,43 @@
             "description": "(cross-leveled with CV_ENG 7230). Methods for determining and characterizing water quality, effects of pollution on streams and lakes, and an introduction to engineered systems for the distribution, collection and treatment of water and wastewater.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Water and Wastewater Treatment Facilities",
             "number": "4232",
             "description": "(cross-leveled with CV_ENG 7232). Physical, chemical, and biochemical processes for treating drinking water supplies and wastewaters (domestic and industrial), with emphasis on planning and design of such facilities.",
-            "prerequisites": "CV_ENG 4230 or CV_ENG 7230 or instructor's consent",
+            "prerequisites": "CV_ENG 4230 or CV_ENG 7230 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4230",
+                "CV_ENG 7230"
+            ]
         },
         {
             "name": "Water Quality Analysis",
             "number": "4240",
             "description": "(cross-leveled with CV_ENG 7240). Chemical, physical and biological methods for analysis of streams, lakes, wastewaters and water supplies and their use in water quality management.",
-            "prerequisites": "grade of C- or better in CV_ENG 4230 or instructor's consent",
+            "prerequisites": "grade of C- or better in CV_ENG 4230 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4230"
+            ]
         },
         {
             "name": "Environmental Chemistry for Engineers",
             "number": "4245",
             "description": "(cross-leveled with CV_ENG 7245). This course will cover the fundamentals of environmental chemistry. Physical, equilibrium, organic and colloid chemistry topics will be presented from an environmental perspective with a focus on their relevant engineering applications.",
-            "prerequisites": "CHEM 1320 or CV_ENG 3200",
+            "prerequisites": "CHEM 1320 or CV_ENG 3200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "CV_ENG 3200"
+            ]
         },
         {
             "name": "Environmental Regulatory Compliance",
@@ -376,7 +489,8 @@
             "description": "(cross-leveled with CV_ENG 4250). Systems of water law; provisions of major federal environmental laws and regulations; development of regulations at the federal, state, and local levels; regulatory frameworks; permits; and enforcement.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Public Policy",
@@ -384,7 +498,8 @@
             "description": "(cross-leveled with CV_ENG 7260). Engineering and economic aspects of environmental policy. Basic understanding of environmental statutes and case law.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Engineering Microbiology",
@@ -392,23 +507,30 @@
             "description": "(cross-leveled with CV_ENG 7270). Theory and application of fundamental principles of microbiology, ecology, and aquatic biology of the microorganisms of importance to sanitary engineers.",
             "prerequisites": "senior standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Wastewater Treatment and Process Design",
             "number": "4290",
             "description": "(cross-leveled with CV_ENG 7290). Selection and use of wastewater and sludge treatment processes, disposal methods, sustainable wastewater treatment including anaerobic treatment of wastewater reuse.",
-            "prerequisites": "grade of C- or better in CV_ENG 3200.  Instructor's consent required",
+            "prerequisites": "grade of C- or better in CV_ENG 3200.  Instructor's consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3200"
+            ]
         },
         {
             "name": "Advanced Structural Steel Design",
             "number": "4300",
             "description": "(cross-leveled with CV_ENG 7300). Design of steel structures and bridges. Topics include composite beams, plate girder design, and moment resistant connections.",
-            "prerequisites": "grade of C- or better in CV_ENG 3313",
+            "prerequisites": "grade of C- or better in CV_ENG 3313",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3313"
+            ]
         },
         {
             "name": "Prestressed/Advanced Reinforced Concrete",
@@ -416,15 +538,19 @@
             "description": "Principles of prestressing. Constituent materials, loading and allowable stresses. Working and ultimate stress analysis and design. Shear and torsion. Deflections. Prestress losses. Continuous beams. Composite beams. Compression members. Footings.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: CV_ENG 3312",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Structural Design and Analysis",
             "number": "4310",
             "description": "(cross-leveled with CV_ENG 4310). Design and analysis of building frames and bridges in steel and concrete using case studies. Economic selection of structural type and material. Basic methods of analysis for statically indeterminate structures.",
-            "prerequisites": "grade of C- or better in CV_ENG 4300",
+            "prerequisites": "grade of C- or better in CV_ENG 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4300"
+            ]
         },
         {
             "name": "Energy Methods in Mechanics",
@@ -432,39 +558,54 @@
             "description": "(cross-leveled with CV_ENG 7320). Variational mechanics including practical examples.  Topics include calculus of variation of boundary value problems, energy methods such as Ritz and Galerkin methods, approximate solutions methods such as the finite element and finite difference, and eigenvalue problems.",
             "prerequisites": "senior or graduate standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Structural System Design",
             "number": "4330",
             "description": "(cross-leveled with CV_ENG 7330). Design of buildings in steel and reinforced concrete, including estimation of loads and design of gravity and lateral force resisting systems.",
-            "prerequisites": "grade of C- or better in CV_ENG 3312 and CV_ENG 3313",
+            "prerequisites": "grade of C- or better in CV_ENG 3312 and CV_ENG 3313",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3312",
+                "CV_ENG 3313"
+            ]
         },
         {
             "name": "Matrix Methods of Structural Analysis",
             "number": "4350",
             "description": "(cross-leveled with CV_ENG 7350). An introduction to the fundamentals of stiffness and flexibility methods for analysis of truss and frame structures. Application of the STRUDL and NASTRAN programs to three dimensional structures.",
-            "prerequisites": "senior standing; grade of C- or better in CV_ENG 3300",
+            "prerequisites": "senior standing; grade of C- or better in CV_ENG 3300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3300"
+            ]
         },
         {
             "name": "Bridge Engineering",
             "number": "4360",
             "description": "(cross-leveled with CV_ENG 7360). Review of Highway Bridge Analysis and Design Fundamentals.  Study of Influence Line Diagrams and Shear and Moment Envelopes.  Design of Medium- and Short-Span Girder Bridges based on AASHTO LRFD specs.",
-            "prerequisites": "grade of C- or better in CV_ENG 3312 and CV_ENG 3313",
+            "prerequisites": "grade of C- or better in CV_ENG 3312 and CV_ENG 3313",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3312",
+                "CV_ENG 3313"
+            ]
         },
         {
             "name": "Geotechnical Earthquake Engineering",
             "number": "4404",
             "description": "(cross-leveled with CV_ENG 7404). This course provides an introduction to geotechnical aspects of earthquake engineering.  Topics include: basic seismology, seismic hazard analysis, dynamic soil properties, site response analysis and soil liquefaction.",
-            "prerequisites": "grade of C- or better in CV_ENG 3400 or instructor's consent",
+            "prerequisites": "grade of C- or better in CV_ENG 3400 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Geotechnics of Landfill Design",
@@ -472,23 +613,30 @@
             "description": "(cross-leveled with CV_ENG 7406). This course will focus on geotechnical and construction aspects in the analysis, design and construction of waste containment facilities (landfills) including expansions of existing facilities.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Foundation Engineering",
             "number": "4410",
             "description": "(cross-leveled with CV_ENG 7410). Subsurface exploration. Design of basic foundation structures, shallow foundations, retaining walls, deep foundations.",
-            "prerequisites": "grade of C- or better in CV_ENG 3400",
+            "prerequisites": "grade of C- or better in CV_ENG 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Applied Geotechnical Engineering",
             "number": "4412",
             "description": "(cross-leveled with CV_ENG 7412). Study of concepts, theories, and design procedures for modern earthwork engineering including: compaction and densification of soils and soil improvement, seepage and drainage, slope stability and performance, and earth retaining structures.",
-            "prerequisites": "grade of C- or better in CV_ENG 3400",
+            "prerequisites": "grade of C- or better in CV_ENG 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Introduction to Construction Management",
@@ -496,79 +644,112 @@
             "description": "(cross-leveled with CV_ENG 7500). Structure of the construction industry; construction drawings and specifications; estimating and bidding; construction contracts, bonds and insurance; planning and scheduling of construction operations; project management; computer techniques.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Mechanics of Materials",
             "number": "4600",
             "description": "(same as MAE 4600; cross-leveled with CV_ENG 7600 and MAE 7600). Analysis of more complicated problems in stresses, strains.",
-            "prerequisites": "grade of C- or better in ENGINR 2200",
+            "prerequisites": "grade of C- or better in ENGINR 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Sensors and Experimental Stress Analysis",
             "number": "4610",
             "description": "(cross-leveled with CV_ENG 7610). Sensors and instrumentation for stress analysis, mechanical measurement and health monitoring of civil structures.  Application and design of data acquisition systems, basic digital signal processing.  Electronics and instrumentation circuits.",
-            "prerequisites": "grade of C- or better in ENGINR 2200 and PHYSCS 2760",
+            "prerequisites": "grade of C- or better in ENGINR 2200 and PHYSCS 2760",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Vibration Analysis",
             "number": "4660",
             "description": "(same as MAE 4660; crossleveled with CV_ENG 7660, MAE 7660). Vibration theory with application to mechanical systems.",
-            "prerequisites": "grade of C- or better in CV_ENG 2080 and MATH 4100",
+            "prerequisites": "grade of C- or better in CV_ENG 2080 and MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 2080",
+                "MATH 4100"
+            ]
         },
         {
             "name": "Introduction to Structural Dynamics",
             "number": "4692",
             "description": "Theory of structural response to dynamic loads.  Computation of dynamic response of structures to dynamic loads like blast and earthquake.  Modal analysis and single degree of freedom methods will be covered.",
-            "prerequisites": "grade of C- or better in CV_ENG 3300",
+            "prerequisites": "grade of C- or better in CV_ENG 3300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3300"
+            ]
         },
         {
             "name": "Hydraulics of Open Channels",
             "number": "4700",
             "description": "(cross-leveled with CV_ENG 7700). Gradually varied flow and theory of the hydraulic jump. Slowly varied flow involving storage; rating curves.",
-            "prerequisites": "grade of C- or better in CV_ENG 3700",
+            "prerequisites": "grade of C- or better in CV_ENG 3700",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700"
+            ]
         },
         {
             "name": "Applied Hydrology",
             "number": "4703",
             "description": "(cross-leveled with CV_ENG 7703). Modern methods of applied hydrologic analysis and synthesis of hydrologic records.",
-            "prerequisites": "grade of C- or better in CV_ENG 3700 and CV_ENG 3702 or instructor's consent",
+            "prerequisites": "grade of C- or better in CV_ENG 3700 and CV_ENG 3702 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700",
+                "CV_ENG 3702"
+            ]
         },
         {
             "name": "Soil and Water Conservation Engineering",
             "number": "4710",
             "description": "(same as BIOL_EN 4150; cross-leveled with CV_ENG 7710, BIOL_EN 7150). Urban and rural run-off and erosion analysis.  Design and layout of erosion control structures.",
-            "prerequisites": "BIOL_EN 2180 or CV_ENG 3200",
+            "prerequisites": "BIOL_EN 2180 or CV_ENG 3200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOL_EN 2180",
+                "CV_ENG 3200"
+            ]
         },
         {
             "name": "Watershed Modeling Using GIS",
             "number": "4720",
             "description": "(same as BIOL_EN 4350). Watershed evaluation using AVSWAT for hydrology, sediment yield, water quality; includes USLE, MUSLE, WEPP, Procedures for model calibration/sensitivity data analysis.",
-            "prerequisites": "BIOL_EN 2180 or CV_ENG 3200",
+            "prerequisites": "BIOL_EN 2180 or CV_ENG 3200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOL_EN 2180",
+                "CV_ENG 3200"
+            ]
         },
         {
             "name": "Hydraulic Design",
             "number": "4730",
             "description": "(cross-leveled with CV_ENG 7730). Design of hydraulic infrastructure utilizing principles of both pressure conduits and open channels. Hand calculations and use of commercial design software for water distribution (quantity and quality), stormwater collection and sanitary sewer systems, and detention basins. Graded on A-F basis only.",
-            "prerequisites": "CV_ENG 3700 or equivalent",
+            "prerequisites": "CV_ENG 3700 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700"
+            ]
         },
         {
             "name": "Analysis of Water-Resource Systems",
@@ -576,7 +757,8 @@
             "description": "(cross-leveled with CV_ENG 7792). Applies hydrology, hydraulic and sanitary engineering, and economics to water-resource design problems considering man and his environment. Uses methods of systems analysis.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Civil Engineering Systems Design",
@@ -584,7 +766,8 @@
             "description": "Design of civil engineering systems.",
             "prerequisites": "senior standing in Civil Engineering at the University of Missouri-Columbia or written consent of Chairman",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Civil Engineering Systems Design - Writing Intensive",
@@ -592,7 +775,8 @@
             "description": "Design of civil engineering systems.",
             "prerequisites": "senior standing in Civil Engineering at the University of Missouri-Columbia or written consent of Chairman",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Research in Civil and Environmental Engineering",
@@ -600,7 +784,8 @@
             "description": "Independent investigation or project in Civil Engineering. May be repeated to 6 hours. Enrollment limited to seniors in Civil and Environmental Engineering.",
             "prerequisites": "instructor's consent",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Civil & Environmental Engineering-Undergraduate Honors",
@@ -608,7 +793,8 @@
             "description": "Independent project, supervised by the honors advisor, to be presented as a formal written report.",
             "prerequisites": "Civil Engineering students only",
             "hours": "1-3",
-            "recommendation": "participation in the Civil and Environmental Engineering Departmental Honors Program"
+            "recommendation": "participation in the Civil and Environmental Engineering Departmental Honors Program",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Civil Engineering",
@@ -616,7 +802,8 @@
             "description": "Study of current and new technical developments in civil engineering.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Analysis of Civil Engineering Decisions",
@@ -624,7 +811,8 @@
             "description": "Formulates and analyzes probabilistic models of civil engineering systems and their environment. Elementary theory of decision making under uncertainty. Application to selected civil engineering problems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Optimization of Civil Engineering Systems",
@@ -632,23 +820,31 @@
             "description": "Automated design techniques such as linear, nonlinear, and dynamic programming; gradient and random searching. Civil engineering applications emphasized throughout.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Engineering Administration",
             "number": "7004",
             "description": "Cash flow analysis, financial analysis, managerial accounting and cost control, budgeting, organizational structure and behavior.",
-            "prerequisites": "MATH 1300 or MATH 1500, or instructor's consent",
+            "prerequisites": "MATH 1300 or MATH 1500, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1300",
+                "MATH 1500"
+            ]
         },
         {
             "name": "Digital Computer Applications in Engineering",
             "number": "7006",
             "description": "(cross-leveled with CV_ENG 4006). Use of digital computer for solution of engineering problems involving roots of equations, simultaneous equations, curve fitting, integration, differentiation, and differential equations.",
-            "prerequisites": "MATH 2300",
+            "prerequisites": "MATH 2300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 2300"
+            ]
         },
         {
             "name": "Quality Management in Civil Engineering",
@@ -656,23 +852,31 @@
             "description": "Quantitative and qualitative quality planning and analysis concepts, including statistical tools and total quality management techniques, control, measurement and assessment. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Risk and Reliability for Civil Engineers",
             "number": "7008",
             "description": "(cross-leveled with CV_ENG 4008). This course focuses on how to use probability and statistics to quantify uncertainties and consider risks when making civil engineering decisions and designing civil engineering systems.",
-            "prerequisites": "grade of C- or better in CV_ENG 3010 or other introductory probability/statistics course",
+            "prerequisites": "grade of C- or better in CV_ENG 3010 or other introductory probability/statistics course",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3010"
+            ]
         },
         {
             "name": "Advanced Surveying",
             "number": "7080",
             "description": "(cross-leveled with CV_ENG 4080). Celestial observations for determination of position; state coordinate systems, precise surveys, introduction to geodetic surveys, principles of photogrammetry. Theory of optical surveying instruments.",
-            "prerequisites": "CV_ENG 2090 and MATH 1500",
+            "prerequisites": "CV_ENG 2090 and MATH 1500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 2090",
+                "MATH 1500"
+            ]
         },
         {
             "name": "Property Boundary Location",
@@ -680,55 +884,77 @@
             "description": "Principles of real property ownership, deeds, property boundary surveying, legal principles of original and retracement surveys Missouri statutes and regulations affecting surveying, GLO corner restoration and re-establishment.",
             "prerequisites": "ENGINR 1500 and CV_ENG 2090",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 2090",
+                "ENGINR 1500"
+            ]
         },
         {
             "name": "Traffic Engineering",
             "number": "7100",
             "description": "(cross-leveled with CV_ENG 4100). Characteristics and studies associated with highway traffic. Capacity analysis and evaluation of freeways, rural highways, and urban streets. Traffic signal control and coordination.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Infrastructure Management",
             "number": "7102",
             "description": "(cross-leveled with CV_ENG 4102). Civil infrastructure condition assessment, performance modeling, deterioration processes and models, maintenance and rehabilitation strategies, management techniques, data analysis, management systems, financing, case studies, emerging technologies.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Planning and Geometric Design of Highways",
             "number": "7103",
             "description": "(cross-leveled with CV_ENG 4103). Techniques of highway planning in rural and urban areas. Design of the visible elements of highways.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Pavement Materials and Design",
             "number": "7104",
             "description": "(cross-leveled with CV_ENG 4104). Properties of materials used in roads, airports and other pavement construction. Design methods for rigid and flexible pavements.",
-            "prerequisites": "grade of C- or better in ENGINR 2200",
+            "prerequisites": "grade of C- or better in ENGINR 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Intelligent Transportation Systems",
             "number": "7106",
             "description": "(cross-leveled with CV_ENG 4106). This is an introductory course in Intelligent Transportation Systems (ITS).  Topics include the theory of transportation networks and systems optimization, current implementations of ITS, and its practical issues and implications of ITS.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Bicycle and Pedestrian Transportation",
             "number": "7108",
             "description": "(cross-leveled with CV_ENG 4108). This course teaches how to integrate pedestrian and bicyclists accommodations into the planning and design of transportation facilities.  Topics include, including pedestrian and bicyclist safety, accommodation at intersections, traffic calming techniques and facility design.",
-            "prerequisites": "grade of C- or better in CV_ENG 3100",
+            "prerequisites": "grade of C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Urban Development and Planning",
@@ -736,47 +962,63 @@
             "description": "Introduction to planning processes; procedures and forces that shape urbanization.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Transportation Simulation",
             "number": "7110",
             "description": "(cross-leveled with CV_ENG 7110). Theory and application of simulation in transportation engineering.",
-            "prerequisites": "C- or better in CV_ENG 3100",
+            "prerequisites": "C- or better in CV_ENG 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Airport Engineering",
             "number": "7120",
             "description": "(cross-leveled with CV_ENG 4120). Airport systems planning, design, and management.",
-            "prerequisites": "C- or better in CV_ENG 3010",
+            "prerequisites": "C- or better in CV_ENG 3010",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3010"
+            ]
         },
         {
             "name": "Transportation Legal Issues",
             "number": "7125",
             "description": "(cross-leveled with CV_ENG 4125). This course discusses some of the legal issues that transportation engineers encounter throughout the course of their careers.",
-            "prerequisites": "CV_ENG 3010",
+            "prerequisites": "CV_ENG 3010",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3010"
+            ]
         },
         {
             "name": "Transportation Safety",
             "number": "7130",
             "description": "(cross-leveled with CV_ENG 4130). This course is an introduction to transportation safety.  The focus will be on surface transportation.  The student is expected to analyze safety data and to devise engineering solutions to safety problems.",
-            "prerequisites": "CV_ENG 3010",
+            "prerequisites": "CV_ENG 3010",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3010"
+            ]
         },
         {
             "name": "Civil and Environmental Engineering Legal Issues",
             "number": "7145",
             "description": "(cross-leveled with CV_ENG 4125). Discussion of legal issues facing civil engineers including right of way, risk and liability, environment, financing public works, contracting and ethics.",
-            "prerequisites": "CV_ENG 3010",
+            "prerequisites": "CV_ENG 3010",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3010"
+            ]
         },
         {
             "name": "Transportation Geography",
@@ -784,7 +1026,8 @@
             "description": "(same as GEOG 7850; cross-leveled with CV_ENG 4155, GEOG 4850).  Introduction to fundamental concepts and modes of analysis in transportation geography.  Focus on descriptive, explanatory, as well as normative approaches.  Topics reviewed include spatial organization, transportation economics, spatial interaction, network analysis, location/allocation, and urban transportation planning.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Geographic Information Systems I",
@@ -792,7 +1035,10 @@
             "description": "Introduces concepts of computer analysis of geographic data and emphasizes the techniques for handling geographic data. Application of computer-based GIS systems in coursework.",
             "prerequisites": "instructor's consent; GEOG 2840",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOG 2840"
+            ]
         },
         {
             "name": "The Geospatial Sciences in National Security",
@@ -800,7 +1046,8 @@
             "description": "(Same as GEOG 7130; cross-leveled with CV_ENG 4175, GEOG 4130). This course explores the critical contribution of the geospatial sciences in the collection, processing, visualization and analysis of geospatial information related to national security.  May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Location Analysis/Site Selection",
@@ -808,7 +1055,8 @@
             "description": "(same as GEOG 7740; cross-leveled with CV_ENG 4185, GEOG 4740). An overview of location analysis in regional planning and spatial decision support, this course focuses on the use of Geographic Information Science (GIS) and location analysis methods in addressing regional service needs. May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Infrastructure Project Development",
@@ -816,7 +1064,8 @@
             "description": "(cross-leveled with CV_ENG 4190). Students will learn how the key elements of major civil engineering infrastructure projects fit together.  The course will focus on the horizontal integration of: financing - planning - environment - right of way - design - construction - operations - maintenance.  Engineering is important but so are a lot of other things.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Remote Sensing of the Environment",
@@ -824,7 +1073,8 @@
             "description": "(cross-leveled with CV_ENG 4200). Principles, characteristics and applications of remote sensing in engineering, geosciences, agriculture and environmental projects. Topics: basic concepts, photographic, thermal multispectral and microwave systems, satellite remote sensing and digital image processing.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Solid Waste Management",
@@ -832,7 +1082,8 @@
             "description": "(cross-leveled with CV_ENG 4210). Engineering principles involved in generation, handling, collection, transport, processing, and disposal of solid wastes, resource recovery and reuse, legislation on solid wastes and groundwater contamination problems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Hazardous Waste Management",
@@ -840,7 +1091,8 @@
             "description": "(same as CH_ENG 7220; cross-leveled with CV_ENG 4220, CH_ENG 4220). Engineering principles involved in handling, collection, transportation, processing and disposal of hazardous wastes, waste minimization, legislation on hazardous wastes and groundwater contamination.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Water Quality",
@@ -848,23 +1100,31 @@
             "description": "(cross-leveled with CV_ENG 4230). Methods for determining and characterizing water quality, effects of pollution on streams and lakes, and an introduction to engineered systems for the distribution, collection and treatment of water and wastewater..",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Water and Wastewater Treatment Facilities",
             "number": "7232",
             "description": "(cross-leveled with CV_ENG 4232). Physical, chemical, and biochemical processes for treating drinking water supplies and wastewaters (domestic and industrial), with emphasis on planning and design of such facilities.",
-            "prerequisites": "CV_ENG 4230 or CV_ENG 7230 or instructor's consent",
+            "prerequisites": "CV_ENG 4230 or CV_ENG 7230 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4230",
+                "CV_ENG 7230"
+            ]
         },
         {
             "name": "Water Quality Analysis",
             "number": "7240",
             "description": "Chemical, physical and biological methods for analysis of streams, lakes, wastewaters and water supplies and their use in water quality management.",
-            "prerequisites": "C- or better in CV_ENG 4230 or instructor's consent",
+            "prerequisites": "C- or better in CV_ENG 4230 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4230"
+            ]
         },
         {
             "name": "Environmental Chemistry for Engineers",
@@ -872,7 +1132,8 @@
             "description": "(cross-leveled with CV_ENG 4245). This course will cover the fundamentals of environmental chemistry. Physical, equilibrium, organic and colloid chemistry topics will be presented from an environmental perspective with a focus on their relevant engineering applications. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Regulatory Compliance",
@@ -880,7 +1141,8 @@
             "description": "(cross-leveled with CV_ENG 4250). Systems of water law; provisions of major federal environmental laws and regulations; development or regulations at the federal, state, and local levels; regulatory frameworks; permits; and enforcement.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Public Policy",
@@ -888,7 +1150,8 @@
             "description": "(cross-leveled with CV_ENG 4260). Engineering and economic aspects of environmental policy. Basic understanding of environmental statutes and case law. Graded on A-F basis.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Engineering Microbiology",
@@ -896,7 +1159,8 @@
             "description": "(cross-leveled with CV_ENG 4270). Theory and application of fundamental principles of microbiology, ecology, and aquatic biology of the microorganisms of importance to sanitary engineers.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Wastewater Treatment and Process Design",
@@ -904,15 +1168,19 @@
             "description": "(cross-leveled with CV_ENG 4290). Selection and use of wastewater and sludge treatment processes, disposal methods, leading to rational design of overall wastewater treatment systems.  Sustainable wastewater treatment including advanced processes in nutrient removal, anaerobic treatment for wastewater reuse. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Structural Steel Design",
             "number": "7300",
             "description": "(cross-leveled with CV_ENG 4300). Design of steel structures and bridges. Topics include composite beams, plate girder design, and moment resistant connections.",
-            "prerequisites": "grade of C- or better in CV_ENG 3313",
+            "prerequisites": "grade of C- or better in CV_ENG 3313",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3313"
+            ]
         },
         {
             "name": "Prestressed/Advanced Reinforced Concrete",
@@ -920,15 +1188,19 @@
             "description": "(cross-leveled with CV_ENG 4302). Principles of prestressing. Constituent materials, loading and allowable stresses. Working and ultimate stress analysis and design. Shear and torsion. Deflections. Prestress losses. Continuous beams. Composite beams. Compression members. Footings.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: CV_ENG 3312",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Structural Design and Analysis",
             "number": "7310",
             "description": "(cross-leveled with CV_ENG 7310). Design and analysis of building frames and bridges in steel and concrete using case studies. Economic selection of structural type and material. Basic methods of analysis for statically indeterminate structures.",
-            "prerequisites": "grade of C- or better in CV_ENG 4300",
+            "prerequisites": "grade of C- or better in CV_ENG 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4300"
+            ]
         },
         {
             "name": "Energy Methods in Mechanics",
@@ -936,39 +1208,54 @@
             "description": "(cross-leveled with CV_ENG 4320). Variational mechanics including practical examples.  Topics include calculus of variation of boundary value problems, energy methods such as Ritz and Galerkin methods, approximate solutions methods such as the finite element and finite difference, and eigenvalue problems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Structural System Design",
             "number": "7330",
             "description": "(cross-leveled with CV_ENG 4330). Design of buildings in steel and reinforced concrete, including estimation of loads and design of gravity and lateral force resisting systems.",
-            "prerequisites": "grade of C- or better in CV_ENG 3312 and CV_ENG 3313",
+            "prerequisites": "grade of C- or better in CV_ENG 3312 and CV_ENG 3313",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3312",
+                "CV_ENG 3313"
+            ]
         },
         {
             "name": "Matrix Methods of Structural Analysis",
             "number": "7350",
             "description": "(cross-leveled with CV_ENG 4350). An introduction to the fundamentals of stiffness and flexibility methods for analysis of truss and frame structures. Application of the STRUDL and NASTRAN programs to three dimensional structures.",
-            "prerequisites": "grade of C- or better in CV_ENG 3300",
+            "prerequisites": "grade of C- or better in CV_ENG 3300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3300"
+            ]
         },
         {
             "name": "Bridge Engineering",
             "number": "7360",
             "description": "(cross-leveled with CV_ENG 4360). Review of Highway Bridge Analysis and Design Fundamentals. Study of Influence Line Diagrams and sheer and Moment Envelopes.  Design of medium-and Sort-Span Girder Bridges based on AASHTO LRFD Specs.  Graded on A-F basis only.",
-            "prerequisites": "Grade of C- or better in CV_ENG 3312 and CV_ENG 3313",
+            "prerequisites": "Grade of C- or better in CV_ENG 3312 and CV_ENG 3313",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3312",
+                "CV_ENG 3313"
+            ]
         },
         {
             "name": "Geotechnical Earthquake Engineering",
             "number": "7404",
             "description": "(cross-leveled with CV_ENG 4404). This course will provide an introduction to topics relating to geotechnical aspects of earthquake engineering.  Topics to be covered include; basic seismology, seismic hazard analysis, dynamic soil properties, site response analysis and soil properties, site response analysis and soil liquefaction. Graded on A-F basis only.",
-            "prerequisites": "Grade of C- or better in CV_ENG 3400 or instructor's consent",
+            "prerequisites": "Grade of C- or better in CV_ENG 3400 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Geotechnics of Landfill Design",
@@ -976,23 +1263,30 @@
             "description": "(cross-leveled with CV_ENG 4406).  This course will focus on geotechnical and construction aspects in the analysis, design and construction of waste containment facilities (landfills) including expansions of existing facilities.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Foundation Engineering",
             "number": "7410",
             "description": "(cross-leveled with CV_ENG 4410). Subsurface exploration. Design of basic foundation structures: shallow foundations, retaining walls, deep foundations.",
-            "prerequisites": "Grade of C- or better in CV_ENG 3400",
+            "prerequisites": "Grade of C- or better in CV_ENG 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Applied Geotechnical Engineering",
             "number": "7412",
             "description": "(cross-leveled with CV_ENG 4412). Study of concepts, theories, and design procedures for modern earthwork engineering including: compaction and densification of soils and soil improvement, seepage and drainage, slope stability and performance, and earth retaining structures.",
-            "prerequisites": "grade or C- or better in CV_ENG 3400",
+            "prerequisites": "grade or C- or better in CV_ENG 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Introduction to Construction Management",
@@ -1000,95 +1294,136 @@
             "description": "(cross-leveled with CV_ENG 4500). Structure of the construction industry; construction drawings and specifications; estimating and bidding; construction contracts, bonds and insurance; planning and scheduling of construction operations; project management; computer techniques.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Construction Methods and Equipment",
             "number": "7510",
             "description": "Selection and use of construction equipment, planning construction operations, equipment economics and operations analyses.",
-            "prerequisites": "MATH 1300 or MATH 1500, or instructor's consent",
+            "prerequisites": "MATH 1300 or MATH 1500, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1300",
+                "MATH 1500"
+            ]
         },
         {
             "name": "Advanced Mechanics of Materials",
             "number": "7600",
             "description": "(same as MAE 7600; cross-leveled with CV_ENG 4600 and MAE 4600). Analysis of more complicated problems in stresses, strains.",
-            "prerequisites": "grade of C- or better in ENGINR 2200",
+            "prerequisites": "grade of C- or better in ENGINR 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Sensors and Experimental Stress Analysis",
             "number": "7610",
             "description": "(cross-leveled with CV_ENG 4610). Sensors and instrumentation for stress analysis, mechanical measurement and health monitoring of civil structures.  Application and design of data acquisition systems, digital signals and basic digital signal processing.  Electronics and instrumentation circuits.",
-            "prerequisites": "Grade of C- or better in ENGINR 2200 and PHYSCS 2760",
+            "prerequisites": "Grade of C- or better in ENGINR 2200 and PHYSCS 2760",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Vibration Analysis",
             "number": "7660",
             "description": "(same as MAE 7660; cross-leveled with CV_ENG 4660, MAE 4660). Vibration theory with application to mechanical systems.",
-            "prerequisites": "grade of C- or better in CV_ENG 2080 and MATH 4100",
+            "prerequisites": "grade of C- or better in CV_ENG 2080 and MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 2080",
+                "MATH 4100"
+            ]
         },
         {
             "name": "Introduction to Structural Dynamics",
             "number": "7692",
             "description": "(cross-leveled with CV_ENG 4692Theory of structural response to dynamics loads.  Computation of dynamic response of structures to dynamic loads like blast and earthquake. Modal analysis and single degree of freedom methods will be covered.  Graded on A-F basis only.",
-            "prerequisites": "Grade of C- or better in CV_ENG 3300",
+            "prerequisites": "Grade of C- or better in CV_ENG 3300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3300"
+            ]
         },
         {
             "name": "Hydraulics of Open Channels",
             "number": "7700",
             "description": "(cross-leveled with CV_ENG 4700). Gradually varied flow and theory of the hydraulic jump. Slowly varied flow involving storage; rating curves.",
-            "prerequisites": "graduate standing and Grade of C- or better in CV_ENG 3700",
+            "prerequisites": "graduate standing and Grade of C- or better in CV_ENG 3700",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700"
+            ]
         },
         {
             "name": "Pipeline Engineering",
             "number": "7702",
             "description": "Theoretical and practical aspects of pipeline engineering including pipeline transport of natural gas and various solids such as coal, sand and solid wastes.",
-            "prerequisites": "CV_ENG 3700 and MAE 3400",
+            "prerequisites": "CV_ENG 3700 and MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700",
+                "MAE 3400"
+            ]
         },
         {
             "name": "Applied Hydrology",
             "number": "7703",
             "description": "(cross-leveled with CV_ENG 4703). Modern methods of applied hydrologic analysis and synthesis of hydrologic records.",
-            "prerequisites": "grade of C- or better in CV_ENG 3700 and CV_ENG 3702, or instructor's consent",
+            "prerequisites": "grade of C- or better in CV_ENG 3700 and CV_ENG 3702, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700",
+                "CV_ENG 3702"
+            ]
         },
         {
             "name": "Soil and Water Conservation Engineering",
             "number": "7710",
             "description": "(same as BIOL_EN 7150; cross-leveled with CV_ENG 4710, BIOL_EN 4150). Urban and rural run-off and erosion analysis.  Design and layout of erosion control structures.",
-            "prerequisites": "BIOL_EN 3200 or CV_ENG 3200 or instructor's consent",
+            "prerequisites": "BIOL_EN 3200 or CV_ENG 3200 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOL_EN 3200",
+                "CV_ENG 3200"
+            ]
         },
         {
             "name": "Watershed Modeling Using GIS",
             "number": "7720",
             "description": "(same as BIOL_EN 7350). Watershed evaluation using AVSWAT for hydrology, sediment yield, water quality; includes USLE, MUSLE, WEPP. Procedures for model calibration/sensitivity data analysis.",
-            "prerequisites": "BIOL_EN 2180 or CV_ENG 3200 or instructor's consent",
+            "prerequisites": "BIOL_EN 2180 or CV_ENG 3200 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOL_EN 2180",
+                "CV_ENG 3200"
+            ]
         },
         {
             "name": "Hydraulic Design",
             "number": "7730",
             "description": "(cross-leveled with CV_ENG 4730). Design of hydraulic infrastructure utilizing principles of both pressure conduits and open channels. Hand calculations and use of commercial design software for water distribution (quantity and quality), stormwater collection and sanitary sewer systems, and detention basins. Graded on A-F basis only.",
-            "prerequisites": "CV_ENG 3700 or equivalent",
+            "prerequisites": "CV_ENG 3700 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700"
+            ]
         },
         {
             "name": "Analysis of Water-Resource Systems",
@@ -1096,15 +1431,19 @@
             "description": "(cross-leveled with CV_ENG 4792). Applies hydrology, hydraulic and sanitary engineering, and economics to water-resource design problems considering man and his environment. Uses methods of systems analysis.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Topics in Civil Engineering",
             "number": "8001",
             "description": "New and current technical developments in civil engineering.",
-            "prerequisites": "CV_ENG 4006 or equivalent",
+            "prerequisites": "CV_ENG 4006 or equivalent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4006"
+            ]
         },
         {
             "name": "Directed Reading In Civil Engineering",
@@ -1112,7 +1451,8 @@
             "description": "Faculty supervised readings course.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Civil Engineering",
@@ -1120,7 +1460,8 @@
             "description": "Supervised investigation in civil engineering to be presented in the form of a report.",
             "prerequisites": "None Listed",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Civil Engineering",
@@ -1128,7 +1469,8 @@
             "description": "Review of research in progress. Research techniques.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Transportation Planning and Models",
@@ -1136,7 +1478,11 @@
             "description": "Regional and metropolitan transportation studies; land use, traffic generation, distribution and assignment models.",
             "prerequisites": "CV_ENG 4002 or CV_ENG 4003",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4002",
+                "CV_ENG 4003"
+            ]
         },
         {
             "name": "Advanced Intelligent Transportation Systems",
@@ -1144,7 +1490,8 @@
             "description": "This course is intended to be an introductory course in Intelligent Transportation Systems (ITS). This course includes the background of ITS, current implementations, sample deployments, and practical issues and implications.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theory of Traffic Flow",
@@ -1152,31 +1499,43 @@
             "description": "Scientific approach to study of traffic phenomena with emphasis on applications. Deterministic and stochastic models of traffic flow; optimization of intersection controls; computer simulation of traffic problems.",
             "prerequisites": "CV_ENG 4002 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4002"
+            ]
         },
         {
             "name": "Traffic Control Engineering",
             "number": "8120",
             "description": "Information retrieval and analysis of human and vehicular characteristics; roadway element; system control and optimization of highways, intersections; planning and design of new traffic facilities including ways, terminals.",
-            "prerequisites": "CV_ENG 3100 or equivalent",
+            "prerequisites": "CV_ENG 3100 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3100"
+            ]
         },
         {
             "name": "Land Use Planning",
             "number": "8130",
             "description": "Case study of site planning using systems analysis; feasibility for development or redevelopment; restraints imposed by political, social and economic conditions on land use activity as related to urban and regional relationships.",
-            "prerequisites": "CV_ENG 4106",
+            "prerequisites": "CV_ENG 4106",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4106"
+            ]
         },
         {
             "name": "Highway Transportation",
             "number": "8140",
             "description": "Economics of transportation on highways. Comparison of vehicle operation costs. Project studies of highway problems in general.",
-            "prerequisites": "CV_ENG 4103 or equivalent",
+            "prerequisites": "CV_ENG 4103 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4103"
+            ]
         },
         {
             "name": "Transportation Networks",
@@ -1184,7 +1543,8 @@
             "description": "This course presents techniques used in equilibrium analysis of transportation networks.  The details of traffic assignment algorithms will be discussed along with theory and practical algorithms.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Research Methods in Transportation Engineering",
@@ -1192,7 +1552,8 @@
             "description": "This course will cover advanced research methods used in transportation. A special focus will be on the state-of-art approaches in traffic engineering. Mathematical and analytical models will be reviewed in detail. This is a reading intensive course where students are expected to review research articles on various topics. The methods used in the articles and a critical review of the article findings will be discussed in an interactive manner in the class. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Transportation Engineering",
@@ -1200,31 +1561,42 @@
             "description": "Review of research in progress in the area of transportation engineering.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Water Quality Modeling",
             "number": "8200",
             "description": "Derivation and application of models for describing oxygen budget, nutrient exchange, and biological productivity in streams, lakes and estuaries.",
-            "prerequisites": "CV_ENG 7230",
+            "prerequisites": "CV_ENG 7230",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 7230"
+            ]
         },
         {
             "name": "Finite Element Methods",
             "number": "8208",
             "description": "(same as MAE 8280). The concepts and fundamentals of the finite element method with applications to problems in solid and fluid mechanics.",
-            "prerequisites": "MAE 4280",
+            "prerequisites": "MAE 4280",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4280"
+            ]
         },
         {
             "name": "Groundwater Pollution Evaluation and Modeling",
             "number": "8210",
             "description": "Fundamentals of groundwater hydraulics and groundwater contamination. Use and development of computer models to simulate flow and pollutant transport.",
-            "prerequisites": "CV_ENG 3700, MATH 4100, or instructor's consent",
+            "prerequisites": "CV_ENG 3700, MATH 4100, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700",
+                "MATH 4100"
+            ]
         },
         {
             "name": "Environmental Transport Phenomena",
@@ -1232,15 +1604,19 @@
             "description": "Fundamental processes that control the transport of constituents substances in fluids, and the implications of these processes for a variety of important applications in natural and engineered systems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Hazardous Waste Treatment Processes",
             "number": "8220",
             "description": "Course includes some introductory materials about hazardous waste regulations followed by advanced treatment methods such as air stripping, soil-vapor extraction, chemical oxidation, membrane processes, in-situ and ex-situ biotreatment methods, solidification and thermal processes.",
-            "prerequisites": "CV_ENG 4220",
+            "prerequisites": "CV_ENG 4220",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4220"
+            ]
         },
         {
             "name": "Aquatic Chemistry",
@@ -1248,7 +1624,8 @@
             "description": "Principles of chemical thermodynamics and equilibrium applied to processes in natural water and water and wastewater treatment systems.  Emphasis on quantitative analyses of acid/base, complexation/dissociation, precipitation/dissolution, and reduction/oxidation reactions. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Unit Process Laboratory",
@@ -1256,7 +1633,8 @@
             "description": "Studies chemical and physical relationships as applied to unit processes of water and wastewater.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physiochemical Treatment Processes",
@@ -1264,7 +1642,8 @@
             "description": "Fundamental principles, analysis and modeling of physical and chemical processes for water and wastewater treatment.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Particles in the Environment",
@@ -1272,7 +1651,8 @@
             "description": "This course is an introduction to interfacial and colloid science, with an emphasis on aqueous systems of natural colloids and engineered nanomaterials. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Biochemical Treatment Processes",
@@ -1280,15 +1660,19 @@
             "description": "Biochemical principles, kinetic models and energy considerations in the design of biological wastewater treatment processes.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Biotechnology",
             "number": "8260",
             "description": "Major biochemical reactions relevant to environmental engineering.  Theory and application of fundamental principles of attached and suspended microbial growth and process engineering for sanitary engineering and biodegradation.",
-            "prerequisites": "CV_ENG 8250 or instructor's consent",
+            "prerequisites": "CV_ENG 8250 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 8250"
+            ]
         },
         {
             "name": "Design of Water and Wastewater Treatment Facilities",
@@ -1296,15 +1680,19 @@
             "description": "Development of design criteria and their application to the design of water and wastewater treatment facilities.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Engineering Aspects of Water Quality",
             "number": "8280",
             "description": "Theoretical aspects of biological, chemical, physical processes; applications in water, wastewater, industrial-waste treatment processes, natural water systems; chemical equilibria, flow models; reaction kinetics on process design, pollutants.",
-            "prerequisites": "CV_ENG 4230 or instructor's consent",
+            "prerequisites": "CV_ENG 4230 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4230"
+            ]
         },
         {
             "name": "Seminar in Environmental Engineering",
@@ -1312,7 +1700,8 @@
             "description": "Review of research in progress in the area of environmental engineering.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Practicum",
@@ -1320,31 +1709,44 @@
             "description": "Application of advanced analysis and design techniques to practical problems in environmental engineering. Collaborative group investigations that may include experimental and computer-aided studies. No more than 6 practicum hours may be applied toward the MS degree. Graded on A-F basis only.",
             "prerequisites": "graduate standing in Civil Engineering",
             "hours": "2-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Regulatory Policy",
             "number": "8295",
             "description": "Discussion of the various policy aspects of environmental regulation: economic and non-economic impacts of degradation; risk assessment and management; distribution of environmental risks; regulatory tools; federal vs. state; disclosure; enforcement. Relation to environmental laws. Graded on A-F basis only.",
-            "prerequisites": "CV_ENG 4250 or CV_ENG 7250 or equivalent",
+            "prerequisites": "CV_ENG 4250 or CV_ENG 7250 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4250",
+                "CV_ENG 7250"
+            ]
         },
         {
             "name": "Behavior of Reinforced Concrete Members",
             "number": "8303",
             "description": "The design philosophy, constitutive laws, creep rate sensitivity and aging, shrinkage. Nonlinear response of reinforced concrete members. Deflection computation and control. Bond and anchorage.",
-            "prerequisites": "CV_ENG 3312",
+            "prerequisites": "CV_ENG 3312",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3312"
+            ]
         },
         {
             "name": "Nondestructive Evaluation Engineering",
             "number": "8311",
             "description": "This course will present the interaction of nondestructive evaluation (NDE) technologies and engineering decision-making.  Theory and application NDE technologies will be presented in the context of the engineering analysis required to effectively utilize the technologies.  Graded on A-F basis only.",
-            "prerequisites": "PHYSCS 2760, ENGINR 1200, MATH 4100",
+            "prerequisites": "PHYSCS 2760, ENGINR 1200, MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1200",
+                "MATH 4100",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Advanced Structural Analysis",
@@ -1352,7 +1754,8 @@
             "description": "Current trends in structural analysis. Elastic analysis of curved beams, arches and suspensions. Finite element and nonlinear methods of analysis.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Random Vibration",
@@ -1360,23 +1763,34 @@
             "description": "Analysis of random vibrations including topics in stationary, ergodic and nonstationary random processes, with application to single-degree of freedom, discrete and continuous mechanical systems.",
             "prerequisites": "CV_ENG 4606",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4606"
+            ]
         },
         {
             "name": "Numerical Methods in Engineering",
             "number": "8314",
             "description": "Classification and numerical solution of engineering problems--ordinary and partial differential equations, algebraic equations. Includes initial, boundary, eigen- and characteristic-value problems. ",
-            "prerequisites": " MATH 4100",
+            "prerequisites": " MATH 4100",
             "hours": ": 3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100"
+            ]
         },
         {
             "name": "Continuum Mechanics",
             "number": "8320",
             "description": "(same as MAE 8320). Introductory course in the mechanics of continuous media. Basic concepts of stress, strain, constitutive relationships; conservation laws are treated using Cartesian tensor notation. Examples from both solid and fluid mechanics investigated.",
-            "prerequisites": "CV_ENG 3700, MATH 7100, ENGINR 2200",
+            "prerequisites": "CV_ENG 3700, MATH 7100, ENGINR 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700",
+                "ENGINR 2200",
+                "MATH 7100"
+            ]
         },
         {
             "name": "Structural Analysis",
@@ -1384,7 +1798,8 @@
             "description": "Classical and modern methods for elastic analysis. Influence line, Miller-Breslau principle. Introduction to force and displacement methods using matrix analysis. Application to continuous beams, grids, plane and space frames and trusses.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theory of Elasticity",
@@ -1392,15 +1807,20 @@
             "description": "(same as MAE 8330). Stress and strain at a point. General equations of elasticity. Plane stress, plain strain problems; torsion of prismatic bars. Energy methods.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Design of Special Structures Systems",
             "number": "8332",
             "description": "Reviews current trends in design of structural systems and components. Critical evaluation of recent code modifications. Application to design of light gauge metal structures, lateral bracing systems, curved beams and panel  systems.",
-            "prerequisites": "CV_ENG 4310 or CV_ENG 4330",
+            "prerequisites": "CV_ENG 4310 or CV_ENG 4330",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4310",
+                "CV_ENG 4330"
+            ]
         },
         {
             "name": "Theory of Plates and Shells",
@@ -1408,15 +1828,20 @@
             "description": "(same as MAE 8340). Rectangular and circular plates. Variational methods in the analysis of plates and shells. Plates of unusual shape. Shear deformation effects. Large deformation analysis. Analysis of cylindrical shells.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Space Mechanics",
             "number": "8342",
             "description": "Rigid body dynamics analysis of satellites, space vehicles. Trajectories, time of flight optimization.",
-            "prerequisites": "MAE 3600 or equivalent, and MATH 4100",
+            "prerequisites": "MAE 3600 or equivalent, and MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100",
+                "MAE 3600"
+            ]
         },
         {
             "name": "Theory of Elastic Stability",
@@ -1424,39 +1849,54 @@
             "description": "(Same as MAE 8350). Buckling of Columns, frames, arches and other structural systems. Kinematic approach to stability. Large deflections. Energy approach to buckling. Plate and shell buckling. Inelastic buckling of columns. Creep buckling.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theory of Plasticity",
             "number": "8360",
             "description": "(same as MAE 8360). Plastic yield conditions and stress-strain relations. Behavior of elastic-perfectly plastic members. Plain strain in plastic members.",
-            "prerequisites": "CV_ENG 8330 or instructor's consent",
+            "prerequisites": "CV_ENG 8330 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 8330"
+            ]
         },
         {
             "name": "Reinforced Concrete Theory and Design",
             "number": "8372",
             "description": "Advanced design of reinforced concrete structures; review of standard codes and specifications and their influence.",
-            "prerequisites": "CV_ENG 4350 or equivalent",
+            "prerequisites": "CV_ENG 4350 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4350"
+            ]
         },
         {
             "name": "Nonlinear Mechanical Analysis",
             "number": "8380",
             "description": "Analysis of behavior of nonlinear mechanical systems. Nonlinear phenomena of importance in mechanical design.",
-            "prerequisites": "MAE 3600 or equivalent and MATH 4100",
+            "prerequisites": "MAE 3600 or equivalent and MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100",
+                "MAE 3600"
+            ]
         },
         {
             "name": "Dynamical Theory",
             "number": "8382",
             "description": "Engineering principles and application in mathematical expression of energy, force, inertia system.",
-            "prerequisites": "MAE 3600 or equivalent and MATH 4100",
+            "prerequisites": "MAE 3600 or equivalent and MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100",
+                "MAE 3600"
+            ]
         },
         {
             "name": "Seminar in Structural Engineering",
@@ -1464,23 +1904,32 @@
             "description": "Review of research in progress in the area of structural engineering.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Topics Structural Analysis",
             "number": "8390",
             "description": "Computer implementation and application of finite element analysis. Material and geometric nonlinearities. Plastic analysis of structures. Code provisions for analysis of seismic and wind loadings.",
-            "prerequisites": "CV_ENG 4350",
+            "prerequisites": "CV_ENG 4350",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4350"
+            ]
         },
         {
             "name": "Dynamics of Structures",
             "number": "8392",
             "description": "(same as MAE 8392). Study of the dynamic behavior of structures. Analysis of equivalent lumped parameter systems for the design of structures in a dynamic environment.",
-            "prerequisites": "MAE 2600 and MATH 4100 or MATH 7100",
+            "prerequisites": "MAE 2600 and MATH 4100 or MATH 7100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100",
+                "MATH 7100",
+                "MAE 2600"
+            ]
         },
         {
             "name": "Advanced Shear Strength of Soils",
@@ -1488,79 +1937,107 @@
             "description": "Theoretical soil mechanics as applied to solution of specific engineering problems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Consolidation and Settlement",
             "number": "8403",
             "description": "Settlement of soil, Theory of Consolidation, consolidation testing, settlements of earth fills and embankments, stress distribution in soils, elastic settlement, bearing capacity of shallow foundations, shallow foundations design.",
-            "prerequisites": "CV_ENG 3400",
+            "prerequisites": "CV_ENG 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Seepage in Soils",
             "number": "8404",
             "description": "General principles that govern flow of water through soils and specific procedures for analysis and design of filtration and drainage media in geotechnical and geoenvironmental applications.",
-            "prerequisites": "CV_ENG 3400 or instructor's consent",
+            "prerequisites": "CV_ENG 3400 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Unsaturated Soil Mechanics",
             "number": "8406",
             "description": "Fundamental principles governing the strength, deformation, and fluid flow behavior of multiphase porous media.  Includes specific procedures for analyzing, measuring and modeling strength, hydraulic conductivity, and suction characteristics of unsaturated soil.",
-            "prerequisites": "CV_ENG 3400 or instructor's consent",
+            "prerequisites": "CV_ENG 3400 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Soil Behavior",
             "number": "8407",
             "description": "Detailed study of composition, fabric, and geotechnical and hydrologic properties of soils that consist partly or wholly of clay.  Emphasizes physico-chemical factors governing volume change and shear strength.  Expansive clay behavior is examined in detail.",
-            "prerequisites": "CV_ENG 3400 or instructor's consent",
+            "prerequisites": "CV_ENG 3400 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Soil Dynamics",
             "number": "8408",
             "description": "Cover topics relating to the response of soils to dynamic loading.  Topics to be covered include: lab and field methods, cyclic soil models, foundation vibrations, and wave propagation through soil.  Graded on A-F basis only.",
-            "prerequisites": "CV_ENG 3400 and instructor's consent",
+            "prerequisites": "CV_ENG 3400 and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Advanced Foundation Engineering",
             "number": "8410",
             "description": "Foundation design beyond simple spread footings, special footings and beams on an elastic foundations, mat foundations, pile foundations - static capacity, lateral loads, bucklin, dynamic analysis load tests, pile groups, drilled piers.",
-            "prerequisites": "CV_ENG 4410",
+            "prerequisites": "CV_ENG 4410",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4410"
+            ]
         },
         {
             "name": "Stability and Performance of Earth Slopes",
             "number": "8412",
             "description": "Principles, mechanics and procedures for analyzing the stability of earth slopes and landfills under short-term, long-term, rapid drawdown, and earthquake conditions.",
-            "prerequisites": "CV_ENG 3400 or instructor's consent",
+            "prerequisites": "CV_ENG 3400 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Design and Analysis of Earth Retaining Structures",
             "number": "8413",
             "description": "General principals and specific procedures for analysis and design of earth retention systems including consideration of soil-structure interaction.",
-            "prerequisites": "CV_ENG 3400 or instructor's consent",
+            "prerequisites": "CV_ENG 3400 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Advanced Geotechnics",
             "number": "8420",
             "description": "Advanced study of specific geotechnical engineering topics. Topics may include: Environmental Geotechnics, Landfill Design, Geosynthetics, Laboratory Testing, and Case History. May be repeated for credit when topics vary.",
-            "prerequisites": "CV_ENG 3400 or instructor's consent",
+            "prerequisites": "CV_ENG 3400 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3400"
+            ]
         },
         {
             "name": "Seminar in Geotechnical Engineering",
@@ -1568,7 +2045,8 @@
             "description": "Review of research in progress in the area of geotechnical engineering.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Construction Engineering",
@@ -1576,15 +2054,21 @@
             "description": "Selection and layout of construction plant. Design and construction of formwork, falsework, cofferdams, conveyors and other temporary structures used by contractors.",
             "prerequisites": "CV_ENG 4510 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4510"
+            ]
         },
         {
             "name": "Construction Productivity",
             "number": "8520",
             "description": "Work improvement techniques in the construction industry reviewed and applied to local construction site. Construction safety influenced by supervisors and managers studied in detail. Declining productivity in the construction industry evaluated and solutions considered.",
-            "prerequisites": "CV_ENG 4500",
+            "prerequisites": "CV_ENG 4500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4500"
+            ]
         },
         {
             "name": "Construction Project Management",
@@ -1592,39 +2076,53 @@
             "description": "Cost analysis, estimating techniques. Time, cost, and quality control of construction projects. Recording/analyzing construction effort. Applications of crew balance, process charts, time-lapse motion pictures, operations research, and preplanning techniques to construction operations. Construction safety.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Construction Administration",
             "number": "8540",
             "description": "Organization, management, engineering, business, and legal problems in the construction industry. Purchasing, bonding, insurance, financing, labor relations, and contract administration.",
-            "prerequisites": "CV_ENG 4500",
+            "prerequisites": "CV_ENG 4500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4500"
+            ]
         },
         {
             "name": "Materials and Measurement",
             "number": "8610",
             "description": "About 25% of the course is devoted to the physical measurement of strain, force, displacement and motion. Remainder of course is devoted to advanced study of the behavior of steel and concrete with emphasis on brittle fracture in steel.",
-            "prerequisites": "CV_ENG 3600 or equivalent",
+            "prerequisites": "CV_ENG 3600 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3600"
+            ]
         },
         {
             "name": "Advanced Dynamics",
             "number": "8620",
             "description": "(same as MAE 8620). Fundamental principles of advanced rigid body dynamics with applications. Special mathematical techniques including Lagrangian and Hamiltonian methods.",
-            "prerequisites": "CV_ENG 2080 and MATH 4100",
+            "prerequisites": "CV_ENG 2080 and MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 2080",
+                "MATH 4100"
+            ]
         },
         {
             "name": "Vibrations of Distributed Parameter Systems",
             "number": "8630",
             "description": "(same as MAE 8630). Vibration analysis of strings, cables, bars, rods, shafts, beams, membranes, plates, circular rings, frames; free and forced oscillation; miscellaneous loading; various boundary conditions; effect of damping; energy methods; method of difference equations.",
-            "prerequisites": "CV_ENG 4660",
+            "prerequisites": "CV_ENG 4660",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 4660"
+            ]
         },
         {
             "name": "Advanced Hydraulic Engineering",
@@ -1632,7 +2130,10 @@
             "description": "Unsteady flow in pipes and open channels is studied using the method of characteristics and finite difference equations. Hydraulic transient in pipe networks due to valve adjustments, pump startup and pump power failure are analyzed. Control of transient using surge tanks and air chambers is included.",
             "prerequisites": "CV_ENG 3720",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3720"
+            ]
         },
         {
             "name": "Hydrotechnical Practicum",
@@ -1640,15 +2141,19 @@
             "description": "Application of advanced analysis and design techniques to practical problems in hydrotechnical engineering. Collaborative group investigations that may include experimental and computer aided studies. No more than 6 practicum hours may be applied toward the MS degree. Graded on A-F basis only.",
             "prerequisites": "graduate standing in Civil Engineering",
             "hours": "2-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Fluid Mechanics",
             "number": "8730",
             "description": "Treatment of fundamental concepts and theories in fluid mechanics at a level suitable for beginning graduate students.",
-            "prerequisites": "CV_ENG 3700 or equivalent",
+            "prerequisites": "CV_ENG 3700 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700"
+            ]
         },
         {
             "name": "Hydrodynamics",
@@ -1656,15 +2161,19 @@
             "description": "Special topics in potential theory and conformal mapping.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Wind Engineering",
             "number": "8750",
             "description": "Study of wind effects on the safety of engineering structures, air pollution and building energy consumption, and the use of wind.",
-            "prerequisites": "CV_ENG 3700",
+            "prerequisites": "CV_ENG 3700",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 3700"
+            ]
         },
         {
             "name": "Research-Masters Thesis in Civil & Environmental Engineering",
@@ -1672,7 +2181,8 @@
             "description": "Independent investigation in the field of civil engineering to be presented in the form of a thesis. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Topics in Civil Engineering - PhD",
@@ -1680,7 +2190,8 @@
             "description": "New and current technical developments in civil engineering. For PhD students.",
             "prerequisites": "None Listed",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research-Doctoral Dissertation Civil & Environmental Engineering",
@@ -1688,7 +2199,8 @@
             "description": "Independent investigation in the field of civil engineering to be presented in the form of a thesis. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

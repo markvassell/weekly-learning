@@ -8,7 +8,8 @@
             "description": "The course is intended primarily for post-baccalaureate students who have not entered a formal graduate program but who are performing neuroscience research.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent required",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advances in Neuroscience and Neuropathology",
@@ -16,7 +17,8 @@
             "description": "In depth review of recent advances in basic neuroscience research as well as pathological conditions affecting nervous systems at the cellular and systems level, and the methods and techniques used to study the nervous system. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Thesis Research in Neuroscience",
@@ -24,7 +26,8 @@
             "description": "The course is intended primarily for graduate students who are working with mentors in departments that do not offer courses (e.g. Radiology). Graded on A-F basis only.",
             "prerequisites": "instructor's consent required",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Neuroscience Journal Club",
@@ -32,7 +35,8 @@
             "description": "In depth readings and presentations/discussions of neuroscience journal articles including recent advances in basic neuroscience research, pathological conditions affecting nervous systems, and neuroscience techniques. Graded on S/U basis only.  May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Integrative Neuroscience 1",
@@ -40,7 +44,8 @@
             "description": "(same as BIO_SC 8440).  Organization, development and function of the nervous system focusing on cellular and molecular processes.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Integrative Neuroscience II",
@@ -48,7 +53,8 @@
             "description": "(same as BIO_SC 8442).  Organization and function of the nervous system at the systems level to examine processes of behavior and cognition. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Thesis Research in Neuroscience",
@@ -56,7 +62,8 @@
             "description": "The course is intended primarily for graduate students who are working with mentors in departments that do not offer courses (e.g. Radiology).  Graded on A-F basis only.",
             "prerequisites": "Instructor's consent required",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

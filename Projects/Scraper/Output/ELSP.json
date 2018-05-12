@@ -8,7 +8,8 @@
             "description": "Grammar and  Composition I.  Graded S/U only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Reading and Vocabulary",
@@ -16,7 +17,8 @@
             "description": "Reading and Vocabulary.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Grammar and Composition II",
@@ -24,7 +26,8 @@
             "description": "Grammar and Composition II.  Graded S/U Only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Oral Communication",
@@ -32,7 +35,8 @@
             "description": "Oral Communication.  Graded S/U Only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

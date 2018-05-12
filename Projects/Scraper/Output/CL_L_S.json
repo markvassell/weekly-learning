@@ -6,9 +6,12 @@
             "name": "Orientation to Clinical Laboratory Science",
             "number": "1000",
             "description": "The class is designed to give prospective Clinical Laboratory Science students clinical experience in the field of Clinical Laboratory Science.  Graded on S/U basis only.",
-            "prerequisites": "HLTH_SCI 1000",
+            "prerequisites": "HLTH_SCI 1000",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "HLTH_SCI 1000"
+            ]
         },
         {
             "name": "Clinical Laboratory Operations",
@@ -16,7 +19,8 @@
             "description": "This course provides a basic introduction to the theory, practical application, technical performance and evaluation of laboratory skills specific to the practice of clinical laboratory science. Laboratory safety; microscopy; pipetting; general laboratory equipment; quality control; mathematics; phlebotomy; pre-analytic, analytic and post-analytic processes, including specimen collection, processing and transport to maintain test result integrity, will be addressed. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Clinical Hematology",
@@ -24,7 +28,8 @@
             "description": "This course introduces the theory, practical application, technical performance and evaluation of hematological and hemostasis procedures. Correlation of laboratory data with the diagnosis of erythrocyte, leukocyte and bleeding/clotting disorders will be introduced. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Clinical Microbiology",
@@ -32,7 +37,8 @@
             "description": "This course introduces the theory, practical application, technical performance and evaluation of procedures for isolation, identification and susceptibility testing of infectious disease organisms in humans. The course primarily focuses on bacteriology, but will include introductory coverage of parasitology, mycology and virology. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Clinical Chemistry and Urinalysis",
@@ -40,7 +46,8 @@
             "description": "This course introduces the theory, practical application, technical performance and evaluation of basic laboratory skills and methods in clinical chemistry and urinalysis. The course focuses on the correlation of laboratory data with the diagnosis of renal conditions, but will include introductory coverage of carbohydrate, liver and protein conditions, as well as enzymes. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Clinical Immunohematology",
@@ -48,7 +55,8 @@
             "description": "This course introduces the theory, practical application, technical performance and evaluation of immunohematology procedures required to provide compatible blood components for transfusion. Methods for collection, processing, storage and transfusion of blood and blood components will be presented. Immunohematology procedures that assist in the diagnosis and management of hemolytic conditions will be introduced. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Laboratory Science Theory, Application and Correlation",
@@ -56,7 +64,8 @@
             "description": "Application, evaluation and correlation of laboratory procedures used in the diagnosis and treatment of common disease states.  Opportunities for building critical thinking, problem solving, and leadership skills are provided in small group clinical case discussions. Course may be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "departmental consent, accepted in into the Medical Technology Program",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Endocrinology and Toxicology",
@@ -64,7 +73,8 @@
             "description": "This course introduces the theory, practical application, and evaluation of clinical chemistry laboratory procedures. Correlation of clinical laboratory data with the diagnosis and treatment of endocrine disorders, toxicology disturbances and therapeutic drug monitoring is emphasized. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Chemistry I",
@@ -72,7 +82,8 @@
             "description": "Introduction to theory, practical application, technical performance and evaluation of clinical chemistry laboratory procedures.",
             "prerequisites": "departmental consent, accepted into the Medical Technology Program.  May be repeated for credit.  Graded on A-F basis only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Chemistry II",
@@ -80,7 +91,8 @@
             "description": "Advanced theory, practical application, technical performance and evaluation of clinical chemistry laboratory procedures. May be repeated for credit. Graded on A-F basis only.",
             "prerequisites": "departmental consent, accepted into the Medical Technology Program",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Hematology I",
@@ -88,7 +100,8 @@
             "description": "Introduction to the theory, practical application, technical performance and evaluation of hematological and coagulation procedures.  Emphasis on correlations of clinical laboratory data with the diagnosis and treatment of anemia, leukemia, and bleeding/clotting disorders.   May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "departmental consent, accepted into the Medical Technology Program",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Hematology II",
@@ -96,7 +109,8 @@
             "description": "Advanced theory, practical application, technical performance and evaluation of hematological and coagulation procedures. Emphasis on the correlation of clinical laboratory data with the diagnosis and treatment of anemia, leukemia, and bleeding/clotting disorders.  May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "departmental consent, accepted into the Medical Technology Program",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Microbiology I",
@@ -104,7 +118,8 @@
             "description": "Introduction to the theory, practical application, technical performance and evaluation of procedures for isolation, identification and susceptibility testing of infectious disease organisms in humans.  May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "departmental approval, accepted into the Medical Technology Program",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Microbiology II",
@@ -112,7 +127,8 @@
             "description": "Advanced theory, practical application, technical performance and evaluation procedures for isolation, identification and susceptibility testing of infectious disease in humans; bacteriology, mycology, parasitology, virology and serology and correlation of data with diagnosis and treatment.  May be repeated for credit. Graded on A-F basis only.",
             "prerequisites": "departmental approval, accepted into the Medical Technology Program",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Immunology",
@@ -120,7 +136,8 @@
             "description": "Theory, practical application, and evaluation of immunological components; principles and methods used to assess immunologically-related disorders, including hypersensitivity reactions, autoimmune, immunoproliferative and immunodeficiency disorders, tumors and transplantations.   May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "departmental approval, accepted into the Medical Technology Program",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Immunohematology I",
@@ -128,7 +145,8 @@
             "description": "Introduction to the theory, practical application, technical performance and evaluation of blood bank procedures required for transfusion of blood and blood components and for handling and storage of blood and blood components. May be repeated for credit.  Graded on A/F basis only.",
             "prerequisites": "departmental approval, accepted into the Medical Terminology Program",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Immunohematology II",
@@ -136,7 +154,8 @@
             "description": "Advanced theory, practical application, technical performance and evaluation of blood bank procedures required for transfusion of blood and blood components and for handling and storage of blood and blood components.  May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "departmental approval, accepted into the Medical Technology Program",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Phlebotomy",
@@ -144,7 +163,8 @@
             "description": "Theory, practical application, technical performance and evaluation of procedures used in collecting, handling and processing blood specimens. May be repeated for credit.  Graded on S/U basis only.",
             "prerequisites": "departmental approval, accepted into the Medical Technology Program",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Body Fluid Analysis",
@@ -152,7 +172,8 @@
             "description": "Theory, practical application, technical performance and evaluation of procedures  used in the analysis of urine and other body fluids, including cerebrospinal, synovial, serous, seminal, amniotic and feces.   May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "departmental consent, accepted into the Medical Technology Program",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Immunohematology Laboratory Practicum I",
@@ -160,7 +181,8 @@
             "description": "This course provides practical application in a clinical laboratory setting for the technical performance and evaluation of clinical immunohematology procedures and preparation of blood components. Course content will include new skills and procedures, in addition to the skills and procedures presented in CL_L_S 4407 Clinical Laboratory Operations and CL_L_S 4411 Introduction to Clinical Immunohematology. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Immunohematology Laboratory Practicum II",
@@ -168,7 +190,8 @@
             "description": "This course provides practical application in a clinical laboratory setting for the technical performance and evaluation of clinical immunohematology procedures and preparation of blood components. Course content will include new skills procedures, in addition to the skills and procedures presented in CL_L_S 4442 Clinical Immunohematology Laboratory Practicum I. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Core Laboratory Practicum",
@@ -176,7 +199,8 @@
             "description": "This course provides practical application in a clinical laboratory setting for the technical performance and evaluation of clinical hematology/hemostasis, chemistry and urinalysis procedures. Course content will include new skills and procedures and the application of automation and automatic verification techniques, building on the skills and procedures presented in CL_L_S 4407 Clinical Laboratory Operations, CL_L_S 4408 Introduction to Clinical Hematology and CL_L_S 4410 Introduction to Clinical Chemistry and Urinalysis. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Core Laboratory Practicum II",
@@ -184,7 +208,8 @@
             "description": "This course provides practical application in a clinical laboratory setting for the technical performance and evaluation of clinical hematology/hemostasis, chemistry and urinalysis procedures. Course content will include new skills and procedures, in addition to the skills and procedures presented in CL_L_S 4444 Clinical Core Laboratory Practicum. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Microbiology Laboratory Practicum I",
@@ -192,7 +217,8 @@
             "description": "This course provides practical application in a clinical laboratory setting for the technical performance and evaluation of clinical microbiology procedures. Course content will include new skills and procedures, in addition to the skills and procedures presented in CL_L_S 4407 Clinical Laboratory Operations and CL_L_S 4409 Introduction to Clinical Microbiology. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Microbiology Laboratory Practicum II",
@@ -200,7 +226,8 @@
             "description": "This course provides practical application in a clinical laboratory setting for the technical performance and evaluation of clinical microbiology procedures. Course content will include new skills and procedures, in addition to the skills and procedures presented in CL_L_S 4448 Clinical Microbiology Laboratory Practicum I. Graded on A-F basis only.",
             "prerequisites": "Restricted to Clinical Laboratory Students only",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Laboratory Management I",
@@ -208,23 +235,30 @@
             "description": "Theory, practical application and evaluation of laboratory management principles and associated models in communication, educational methodology, healthcare systems and financial resources.  Opportunities for building critical thinking, problem-solving, and management/professional leadership skills are provided. May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "departmental approval, accepted into the Medical Technology Program",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Lab Management II",
             "number": "4980",
             "description": "Continuation of Clinical Lab Management I. Theory, practical application, and evaluation of laboratory management principles and associated models in compliance and regulatory issues, human resource management, method evaluation, professionalism and laboratory quality.  Graded on A-F basis only.",
-            "prerequisites": "CL_L_S 4970 or departmental consent",
+            "prerequisites": "CL_L_S 4970 or departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CL_L_S 4970"
+            ]
         },
         {
             "name": "Clinical Lab Management II - Writing Intensive",
             "number": "4980W",
             "description": "Continuation of Clinical Lab Management I. Theory, practical application, and evaluation of laboratory management principles and associated models in compliance and regulatory issues, human resource management, method evaluation, professionalism and laboratory quality.  Graded on A-F basis only.",
-            "prerequisites": "CL_L_S 4970 or departmental consent",
+            "prerequisites": "CL_L_S 4970 or departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CL_L_S 4970"
+            ]
         }
     ]
 }

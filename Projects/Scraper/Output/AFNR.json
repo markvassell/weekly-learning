@@ -8,7 +8,8 @@
             "description": "Selected topics not offered in other courses.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Computing and Information Systems I",
@@ -16,7 +17,8 @@
             "description": "Provide students with a basic understanding of microcomputer usage, electronic communications, and use of the internet. Topics include operating systems, word processing, database management systems, spreadsheets, electronic mail, online library searches, and the World Wide Web.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Foundations for College Success",
@@ -24,7 +26,8 @@
             "description": "An investigation of principles and practices associated with academic success and the interpersonal challenges encountered in collegiate life.  Learning preferences, time investment, study skills, degree requirements, and personal development opportunities available in the College and across campus are explored. Graded on A-F basis only.",
             "prerequisites": "Instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Computing and Information Technology",
@@ -32,7 +35,8 @@
             "description": "Provides students with a basic understanding of computer usage, electronic communications and use of the internet.  Topics include understanding of operating systems, word processing, and presentation media.",
             "prerequisites": "Restricted to freshmen and sophomores",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "College to Career",
@@ -40,7 +44,8 @@
             "description": "Systematic approach to self-assessment, career research and exploration, goal-setting and implementation of a career development plan.  Students will learn specific skills, research knowledge and lifelong career management techniques.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Working with Data Using Excel",
@@ -48,7 +53,8 @@
             "description": "Provide students with a basic understanding of computer usage and spreadsheet applications.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Agricultural Travel Course",
@@ -56,7 +62,8 @@
             "description": "General travel course designed to broaden the perspective of agricultural students. Cost of course is borne by the student.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "International Agriculture and Natural Resources",
@@ -64,7 +71,8 @@
             "description": "This course is designed to provide students with an introduction into the agriculture/natural resources of the host country.  Activities may include course work at an international institution, professional and personal development and special projects. Selected sections of this course may be graded either on A-F or S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-15",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "International Agriculture and Natural Resources - Humanities",
@@ -72,7 +80,8 @@
             "description": "This course is designed to provide students with an introduction to valuing and appreciating the culture and philosophy entrenched in the host country's civilization through the examination of its arts, culture, language and history.  May be repeated for credit.  Selected sections of the course may be offered on A-F or S/U basis only.",
             "prerequisites": "Instructor's consent",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "International Agriculture and Natural Resources - Humanities - Writing Intensive",
@@ -80,7 +89,8 @@
             "description": "This course is designed to provide students with an introduction to valuing and appreciating the culture and philosophy entrenched in the host country's civilization through the examination of its arts, culture, language and history.  May be repeated for credit.  Selected sections of the course may be offered on A-F or S/U basis only.",
             "prerequisites": "Instructor's consent",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "International Agriculture/Natural Resources-Social Science",
@@ -88,7 +98,8 @@
             "description": "This course is designed to provide students with an examination of the social sciences of the host country; including the sociology, psychology, economics, government, and history of the country; including the dynamics of urban and rural communities. May be repeated for credit.  Selected sections of this course may be graded either on A-F or S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to the Theory and Practice of Sustainable Agriculture",
@@ -96,7 +107,8 @@
             "description": "This experiential course provides an overview of the theoretical and practical principles of sustainable agriculture by exploring the holistic nature of sustainable agriculture, and analyzing agriculture systems based on their impact on the environment, economy and community.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Lifelong Career Management and Success Strategies",
@@ -104,7 +116,8 @@
             "description": "Systematic approach to understanding the importance of effective leadership in the professional world, obtaining transferable skills necessary in the work force, and understanding important aspects that allow one's career to grow over the course of one's professional life. Graded on A-F basis only.",
             "prerequisites": "junior standing or higher",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Community Food Systems",
@@ -112,7 +125,8 @@
             "description": "Essential concepts in research, implementation and understanding of community food systems and macro-level global trends in food production and distribution will be discussed.  Students will examine the social, economic and health implications of conventional and alternative food systems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "AFNR 2215"
+            "recommendation": "AFNR 2215",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Practices in Sustainable Agriculture",
@@ -120,7 +134,8 @@
             "description": "Course furthers students' understanding of sustainable production systems with an emphasis on stewarding natural resources (soil, water, biodiversity and energy) while maintaining and economically profitable enterprise that provides for a good quality of life.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "AFNR 2215; SOIL 2100"
+            "recommendation": "AFNR 2215; SOIL 2100",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Agriculture-General",
@@ -128,7 +143,8 @@
             "description": "Topics in Agriculture-General",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Capstone Project in Agriculture, Food and Natural Resources",
@@ -136,7 +152,8 @@
             "description": "A culminating learning experience focused on student's area of concentration that requires the application of knowledge and skills taught in the undergraduate curriculum.  The capstone project comprises independent, original work culminating in a scholarly project, written document, and/or presentation.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "junior or senior standing"
+            "recommendation": "junior or senior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Internship in Agriculture, Food and Natural Resources",
@@ -144,7 +161,8 @@
             "description": "Field-based learning experience combining the study, observation, and employment with a business, organization, or governmental agency.  The internship provides opportunities to apply skills, concepts and theories about agriculture, food and natural resources in a practical context.  The student intern, internship supervisor, and university coordinator will develop an individualized internship plan.  May be repeated for credit.  Some sections may be graded on either an A-F or S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-6",
-            "recommendation": "junior or senior standing"
+            "recommendation": "junior or senior standing",
+            "connections": "None Listed"
         },
         {
             "name": "International Agriculture/Natural Resources",
@@ -152,7 +170,8 @@
             "description": "This course is designed to provide students with an introduction into the agriculture/natural resources of the host country.  Activities may include course work at an international institution, professional and personal development and special projects.  Selected sections of the course may be offered on A-F or S/U basis only.",
             "prerequisites": "advisor and instructor's consent",
             "hours": "1-9",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

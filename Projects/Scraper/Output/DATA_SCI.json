@@ -8,7 +8,8 @@
             "description": "An introductory course in data science and analytics. The objective of the course is to give students a broad overview of the various aspects of data analytics such as accessing, cleansing, modeling, visualizing, and interpreting data. Students will perform hands-on learning of data analytic topics, using technologies such as Python, R, and open source analytic tools. Two Big Data cyberinfrastructure platforms will be introduced through case studies, allowing students to perform data analytical learning modules on modern cloud infrastructure and other relevant technologies. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Basic programming experience and Basic database experience"
+            "recommendation": "Basic programming experience and Basic database experience",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Data Science",
@@ -16,7 +17,8 @@
             "description": "This course is an introduction to the NGA Program of Study in Data Science (PSDS), the concentration areas, and the role of each concentration area in data science. Participants will learn how to receive, if desired, an accredited Graduate Certificate and/or a Master of Science degree in Data Science and Analytics from the University of Missouri. Participants will receive an introduction to software, tools, and resources to be utilized throughout the program. Participants will learn of systematic methodologies for data science projects and the data science pipeline through review of case studies. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "Enrollment in NGA Training Program or instructor consent"
+            "recommendation": "Enrollment in NGA Training Program or instructor consent",
+            "connections": "None Listed"
         },
         {
             "name": "Python Programming Boot Camp",
@@ -24,7 +26,8 @@
             "description": "This course teaches students how to program in Python, including use of auxiliary libraries various Python ecosystems. Students are introduced to the iPython notebooks from the SciPy ecosystem, as well Python's use across the spectrum of Data Science courses and topics. Many activities are focus on data ingestion, cleaning, manipulation, and restructuring (e.g., ETL). Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1Recommended: Enrollment in NGA Training Program or instructor consent",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Database Basics and SQL Boot Camp",
@@ -32,7 +35,8 @@
             "description": "This course covers a core concepts to heterogeneous data management, including relational databases, NoSQL databases, and other data storage systems. The focus is on making students quickly productive in the use of multiple types of database management systems available on the market for data science work. This includes traditional relational databases, NOSQL databases and graph databases. This course is a 1 credit hour / 5 day course. This course is delivered in an asynchronous online mode. The instructor virtually kicks off the course on day-one, then four additional days over a two week period are used for self-paced, online activities using the JupterHub learning environment. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1Recommended: Enrollment in NGA Training Program or instructor consent",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introductory Probability and Statistics for Data Analytics",
@@ -40,7 +44,8 @@
             "description": "This course explores the use of inferential and predictive statistics for data modeling and analytics. Single­-variate and multivariate statistical concepts are discussed, as well as intermediate exposure to statistical modeling. Students learn to evaluate model effectiveness and conduct results ­driven model selection. Statistical and modeling techniques focus on high­ dimensional data analytics. Topics related to dimensionality reduction are also covered, such as principal component analysis and factor analysis. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "Enrollment in NGA Training Program or instructor consent"
+            "recommendation": "Enrollment in NGA Training Program or instructor consent",
+            "connections": "None Listed"
         },
         {
             "name": "R Statistical Programming Boot Camp",
@@ -48,7 +53,8 @@
             "description": "This course teaches students how to program in R, including use of auxiliary libraries in R focused on various statistical and visualization oriented techniques. Students are introduced to R's use across the spectrum of Data Science courses and topics. Many activities focus on the development of statistical tests, and the use of R for statistical exploration. This course teaches students how to program in R, including use of auxiliary libraries in R focused on various statistical and visualization oriented techniques. Students are introduced to R's use across the spectrum of Data Science courses and topics. Many activities focus on the development of statistical tests, and the use of R for statistical exploration. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1Recommended: Enrollment in NGA Training Program or instructor consent",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Statistical and Mathematical Foundations for Data Analytics",
@@ -56,7 +62,8 @@
             "description": "An intermediate statistics class designed to build the mathematical foundation for students dealing with Big Data phenomena. Topics include discussions of probability, data sampling, data summarization, sampling distributions, statistical inference, statistical pattern analysis, hypothesis testing, regression, and nonparametric inference over multidimensional data collections. Students will engage in Big Data projects using various publicly available data sets and leveraging modern Data Science tools, techniques, and cyberinfrastructure. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Basic understanding of mathematical principles of vectors and matrices, and Basic course in probability and statistics"
+            "recommendation": "Basic understanding of mathematical principles of vectors and matrices, and Basic course in probability and statistics",
+            "connections": "None Listed"
         },
         {
             "name": "Spatial and Geostatistical Analysis",
@@ -64,7 +71,8 @@
             "description": "This course will provide a practical overview of key issues encountered when working with and analyzing spatial data as well as an overview of major spatial analysis approaches. Discussions and laboratory work will focus on implementation, analysis, and interpretive issues given constraining factors that commonly arise in practice. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Enrollment in NGA Training Program or instructor consent"
+            "recommendation": "Enrollment in NGA Training Program or instructor consent",
+            "connections": "None Listed"
         },
         {
             "name": "Data Analytics from Applied Machine Learning",
@@ -72,7 +80,8 @@
             "description": "This course leverages the foundations in statistics and modeling to teach applied concepts in machine learning. Participants will learn various classes of machine learning and modeling techniques, and gain an in-depth understanding how to select appropriate techniques for various data science tasks. Topics cover a spectrum from simple Bayesian modeling to more advanced algorithms such as support vector machines, decision trees/forests, and neural networks. Students learn to incorporate machine learning workflows into data-intensive analytical processes. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Enrollment in NGA Training Program or instructor consent"
+            "recommendation": "Enrollment in NGA Training Program or instructor consent",
+            "connections": "None Listed"
         },
         {
             "name": "Database and Analytics",
@@ -80,15 +89,20 @@
             "description": "Covers the Fundamental concepts of current database systems and query methods with emphasis on relational model and non-relational techniques in Big Data environments. Topics include entity-relationship model, relational algebra, indexing, query optimization, normal forms, tuning, security, NoSQL, and data analytics skills in both relational and non-relational environments. Project work involves modern relational DBMS systems and NoSQL environments. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Basic understanding of mathematical principles of vectors and matrices, and Basic course in probability and statistics"
+            "recommendation": "Basic understanding of mathematical principles of vectors and matrices, and Basic course in probability and statistics",
+            "connections": "None Listed"
         },
         {
             "name": "Data Mining and Information Retrieval",
             "number": "8630",
             "description": "The course introduces the main concepts and techniques of data mining and information retrieval. It covers a variety of data mining topics and methods to extract hidden and predictive patterns from large data collections. Furthermore, theory and techniques for the modeling, indexing, and retrieval of relational, non­relational, text­based and multimedia databases is covered. Topics include introduction to data mining process, mining frequent patterns, and pattern analysis, as well as different information retrieval models and evaluation, query languages and operations, and indexing/searching methods. Graded on A-F basis only.",
-            "prerequisites": "DATA_SCI 7600 and  DATA_SCI 8620",
+            "prerequisites": "DATA_SCI 7600 and  DATA_SCI 8620",
             "hours": "3",
-            "recommendation": "Basic understanding of mathematical principles of vectors and matrices; Basic course in probability and statistics; Basic course in databases and data analytics"
+            "recommendation": "Basic understanding of mathematical principles of vectors and matrices; Basic course in probability and statistics; Basic course in databases and data analytics",
+            "connections": [
+                "DATA_SCI 7600",
+                "DATA_SCI 8620"
+            ]
         },
         {
             "name": "Cloud Computing for Data Analytics",
@@ -96,23 +110,32 @@
             "description": "This course introduces students to cluster and cloud computing big data ecosystems. Topics include a survey of cloud computing platforms, architectures, and use-cases. Students will examine scaling data science techniques and algorithms using a variety of cluster and cloud paradigms, such as those built atop Hadoop (Map-Reduce) concepts, and others. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Enrollment in NGA Training Program or instructor consent"
+            "recommendation": "Enrollment in NGA Training Program or instructor consent",
+            "connections": "None Listed"
         },
         {
             "name": "Big Data Security",
             "number": "8640",
             "description": "This course provides an overview of state-of-the-art topics in Big Data Security, looking at data collection (smartphones, sensors, the Web), data storage and processing (scalable relational databases, Hadoop, Spark, etc.), extracting structured data from unstructured data, systems issues (exploiting multicore, security). Securing sensitive data, personal data and behavioral data while ensuring a respect for privacy will be a focus point in the course Graded on A-F only.",
-            "prerequisites": "DATA_SCI 7600 and  DATA_SCI 8620",
+            "prerequisites": "DATA_SCI 7600 and  DATA_SCI 8620",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "DATA_SCI 7600",
+                "DATA_SCI 8620"
+            ]
         },
         {
             "name": "Big Data Visualization",
             "number": "8650",
             "description": "Covers the Fundamental concepts of current visualization concepts and technologies. Unlike many data visualization courses, this one focuses on principles of visualization design and the grammar of graphics. These principles are then implemented in popular contemporary visualization technologies. Students will develop an advanced knowledge of the appropriate selection, modeling, and evaluation of data visualizations. Graded on A-F basis only.",
-            "prerequisites": "DATA_SCI 7600 and  DATA_SCI 8620",
+            "prerequisites": "DATA_SCI 7600 and  DATA_SCI 8620",
             "hours": "3",
-            "recommendation": "Basic understanding of mathematical principles of vectors and matrices; Basic course in probability and statistics; Basic course in databases and data analytics"
+            "recommendation": "Basic understanding of mathematical principles of vectors and matrices; Basic course in probability and statistics; Basic course in databases and data analytics",
+            "connections": [
+                "DATA_SCI 7600",
+                "DATA_SCI 8620"
+            ]
         },
         {
             "name": "Advanced Visualization and Communication I",
@@ -120,7 +143,8 @@
             "description": "Covers the Fundamental concepts of current visualization concepts and technologies, adding in Infographic and Interactive Visualization Design. Unlike many data visualization courses, this one focuses on principles of visualization design and the grammar of graphics as they can be applied to combining art and technology to tell data stories. These principles are then implemented in popular contemporary visualization technologies. Students will develop an advanced knowledge of the appropriate selection, modeling, and evaluation of data visualizations. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Enrollment in NGA Training Program or instructor consent"
+            "recommendation": "Enrollment in NGA Training Program or instructor consent",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Visualization and Communication II",
@@ -128,31 +152,45 @@
             "description": "Covers the Fundamental concepts of current visualization concepts and technologies, adding in Infographic and Interactive Visualization Design. Unlike many data visualization courses, this one focuses on principles of visualization design and the grammar of graphics as they can be applied to combining art & technology to tell data stories. These principles are then implemented in popular contemporary visualization technologies. Students will develop an advanced knowledge of the appropriate selection, modeling, and evaluation of data visualizations. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Enrollment in NGA Training Program or instructor consent"
+            "recommendation": "Enrollment in NGA Training Program or instructor consent",
+            "connections": "None Listed"
         },
         {
             "name": "Data and Information Ethics",
             "number": "8660",
             "description": "Introduces the ethics related to Big Data in industry, business, academia, and research settings. Students will learn the social, ethical, legal and policy issues that underpin the big data phenomenon. Discussions and case studies will help guard against the repetition of known mistakes and inadequate preparation. The course content will follow the guidelines to be developed by the Council for Big Data, Ethics, and Society. Graded on A-F basis only.",
-            "prerequisites": "DATA_SCI 7600 and  DATA_SCI 8650",
+            "prerequisites": "DATA_SCI 7600 and  DATA_SCI 8650",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "DATA_SCI 7600",
+                "DATA_SCI 8650"
+            ]
         },
         {
             "name": "Big Data Analysis Case Study",
             "number": "8680",
             "description": "Using a case-study approach, students will engage in discussions on a variety of big data topics relevant to their emphasis area and the realm of Big Data. This course will help students generate ideas and prepare them for the Big Data Capstone. Course work will be performed in small teams, mentored by faculty and/or industry advisors. Teams will research, cultivate, curate, and leverage large data sets. Students will gain hands-on experience applying relevant data science and analytical technology and techniques to gain insight and information from these real-world data sets. Graded on A-F basis only.",
-            "prerequisites": "DATA_SCI 8630, DATA_SCI 8640, DATA_SCI 8650",
+            "prerequisites": "DATA_SCI 8630, DATA_SCI 8640, DATA_SCI 8650",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "DATA_SCI 8630",
+                "DATA_SCI 8640",
+                "DATA_SCI 8650"
+            ]
         },
         {
             "name": "Parallel Computing for Data Science",
             "number": "8750",
             "description": "This course will provide in-depth treatment of the evolution of high performance, parallel computing architectures and how these architectures and computational ecosystems support data science. We will cover topics such as: parallel algorithms for numerical processing, parallel data search, and other parallel computing algorithms which facilitate advanced analytics. To reinforce lecture topics, learning activities will be completed using parallel computing techniques for modern multicore and multi-node systems. Parallel algorithms will be investigated, selected, and then developed for various scientific data analytics problems. Programming projects will be completed using Python and R, leveraging various parallel and distributed computing infrastructure such as AWS Elastic Map Reduce and Google Big Query. Students will research emerging parallel and scalable architectures for data analytics. Graded on A-F basis only.",
-            "prerequisites": "DATA_SCI 8610, DATA_SCI 8620",
+            "prerequisites": "DATA_SCI 8610, DATA_SCI 8620",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "DATA_SCI 8610",
+                "DATA_SCI 8620"
+            ]
         }
     ]
 }

@@ -8,7 +8,8 @@
             "description": "Full-Time Enrollment",
             "prerequisites": "None Listed",
             "hours": "16-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Full-Time Enrollment",
@@ -16,7 +17,8 @@
             "description": "Full-Time Enrollment",
             "prerequisites": "None Listed",
             "hours": "16-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

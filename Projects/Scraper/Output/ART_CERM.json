@@ -8,7 +8,8 @@
             "description": "Exploration of ceramic art as an expressive, communicative medium. Study of ceramic design, technique and historic and contemporary models within the context of the creative process. Group critiques, slides, demonstrations. Expendable materials fee.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Intermediate Ceramics",
@@ -16,7 +17,8 @@
             "description": "Continuation of ART_CERM 2100 with emphasis on wheel throwing and the vessel format. Further exploration of glazing and firing techniques. Group and individual critiques, demonstrations, slide lectures and visiting artists. Expendable materials fee.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Ceramics",
@@ -24,7 +26,8 @@
             "description": "Continuation of ART_CERM 3100. Includes advanced problems in firing, clay and glaze technology, forming and ornamentation. Payment of expendable materials fee required.  May be repeated to 15 hours maximum.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ceramics Sculpture",
@@ -32,7 +35,8 @@
             "description": "Sculptural forms constructed of slabs, coils and wheel-thrown elements. Payment of expendable materials expense is required. May be repeated to 15 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Ceramics",
@@ -40,39 +44,53 @@
             "description": "Problems in Ceramics.",
             "prerequisites": "departmental consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Graduate Ceramics",
             "number": "7100",
             "description": "Advanced study of ceramic technology and design concepts with emphasis on directed development of individual work. Payment of expendable materials expense is required. May be repeated to 18 hours maximum.",
-            "prerequisites": "ART_CERM 4100",
+            "prerequisites": "ART_CERM 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_CERM 4100"
+            ]
         },
         {
             "name": "Graduate Ceramic Sculpture",
             "number": "7110",
             "description": "Directed development of individual work. Payment of expendable materials expense is required. May be repeated to 18 hours maximum.",
-            "prerequisites": "ART_CERM 4100",
+            "prerequisites": "ART_CERM 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_CERM 4100"
+            ]
         },
         {
             "name": "Problems in Ceramics",
             "number": "7185",
             "description": "Graduate level work in ceramics.",
-            "prerequisites": "ART_CERM 7100 and ART_CERM 7110 and departmental consent",
+            "prerequisites": "ART_CERM 7100 and ART_CERM 7110 and departmental consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_CERM 7100",
+                "ART_CERM 7110"
+            ]
         },
         {
             "name": "Graduate Ceramics II",
             "number": "8100",
             "description": "Continuation of ART_CERM 7100.  Repeatable to 15 hours.",
-            "prerequisites": "ART_CERM 7100 or equivalent",
+            "prerequisites": "ART_CERM 7100 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_CERM 7100"
+            ]
         }
     ]
 }

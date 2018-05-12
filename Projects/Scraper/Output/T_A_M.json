@@ -8,7 +8,8 @@
             "description": "Introduction to design techniques, coordination of fabric with design, selection of support materials, and basic understanding of garment assembly operations.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Softgoods Retailing",
@@ -16,7 +17,8 @@
             "description": "Surveys merchandising and retailing principles with specific applications to the softgoods industry.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Presentation Techniques for Merchandising",
@@ -24,7 +26,8 @@
             "description": "This class explores Adobe Creative Suite (Photoshop, Illustrator, and InDesign) as a tool for presentation techniques within the field of fashion merchandising.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Professional Seminar",
@@ -32,7 +35,8 @@
             "description": "Exploration of issues in professional activity/success including: evaluating opportunities, oral and written communication for presenting oneself, the articulation of professional/private life, and professional ethics.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Science of Textiles",
@@ -40,7 +44,8 @@
             "description": "Fundamental concepts of textiles.  Chemical composition, molecular arrangement, and physical structure of natural and manufactured fibers.  Yarn and fabric manufacturing and various finishing techniques.  Impacts of such characteristics and techniques on function, performance, and quality.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Apparel Production",
@@ -48,23 +53,32 @@
             "description": "Introduction to sewn products industry applications in which students assemble sample garments and products on industrial equipment. Order of operations is emphasized and industry specific software is introduced. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "4Prerequisites or Corequisites: T_A_M 1200 and T_A_M 2200",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Retail Finance and Merchandise Control",
             "number": "2300",
             "description": "Emphasizes assortment and financial planning utilizing computer applications in the retail environment. Math Reasoning Proficiency Course.",
-            "prerequisites": "T_A_M 1300 or MRKTNG 3000, MATH 1100",
+            "prerequisites": "T_A_M 1300 or MRKTNG 3000, MATH 1100",
             "hours": "3",
-            "recommendation": "computer familiarity"
+            "recommendation": "computer familiarity",
+            "connections": [
+                "MRKTNG 3000",
+                "MATH 1100",
+                "T_A_M 1300"
+            ]
         },
         {
             "name": "Integrated Apparel Design and Production I",
             "number": "2380",
             "description": "A beginning apparel product development course integrating pattern-making, apparel assembly decision-making and materials selection. Graded on A-F basis only.",
-            "prerequisites": "C- or above in T_A_M 2280 or instructor's consent",
+            "prerequisites": "C- or above in T_A_M 2280 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "T_A_M 2280"
+            ]
         },
         {
             "name": "Global Consumers",
@@ -72,7 +86,8 @@
             "description": "This course uses consumer behavior and cultural frameworks, integrated with critical and creative thinking processes to develop global perspective that is sensitive to diverse consumers' needs and preferences for products and services in the global marketplace. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Apparel and Textile Presentation Techniques",
@@ -80,39 +95,52 @@
             "description": "Apparel and textile presentation processes. Introduction to a range of traditional and innovative presentation techniques using various media. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: T_A_M 2280",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Social Appearance in Time and Space",
             "number": "2500",
             "description": "An investigation of the motives and meanings that individuals negotiate through the use of dress in presenting themselves as players in complex social contexts. The emphasis is on cross-cultural, historical, and contemporary settings.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Social Appearance in Time and Space - Writing Intensive",
             "number": "2500W",
             "description": "An investigation of the motives and meanings that individuals negotiate through the use of dress in presenting themselves as players in complex social contexts. The emphasis is on cross-cultural, historical, and contemporary settings.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "History of Western Dress",
             "number": "2520",
             "description": "Surveys the history of Western dress from prehistory through the 18th Century.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "History of Western Dress - Writing Intensive",
             "number": "2520W",
             "description": "Surveys the history of Western dress from prehistory through the 18th Century.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Digital Textile and Apparel Applications",
@@ -120,7 +148,8 @@
             "description": "Use of computer aided design technology to create designs for textiles and apparel. Includes portfolio development. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: C- or above in T_A_M 2480 or instructor's consent",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies",
@@ -128,7 +157,8 @@
             "description": "(same as GERMAN 3510, PEA_ST 2810, JOURN 3510, DST 3510). This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives. The course is open to students in any discipline.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies - Honors",
@@ -136,7 +166,8 @@
             "description": "(same as GERMAN 3510H, JOURN 3510H, PEA_ST 2810H, DST 3510H). This interdepartmental course serves as the introductory seminar for students pursuing the Certificate of Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives.",
             "prerequisites": "Honors eligibility required. Restricted to non-Journalism students. Journalism students should enroll in Journalism sides of this course",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies - Honors/Writing Intensive",
@@ -144,7 +175,8 @@
             "description": "(same as GERMAN 3510HW, JOURN 3510HW, PEA_ST 2810HW). This interdepartmental course serves as the introductory seminar for students pursuing the Certificate of Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives.",
             "prerequisites": "Honors eligibility required. Restricted to non-Journalism students. Journalism students should enroll in Journalism sides of this course",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies - Writing Intensive",
@@ -152,7 +184,8 @@
             "description": "(same as GERMAN 3510W, PEA_ST 2810W, JOURN 3510W, DST 3510W). This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives. The course is open to students in any discipline.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Recent Trends in Textiles and Apparel Management",
@@ -160,7 +193,8 @@
             "description": "For upper-class students who wish additional knowledge and understanding in specific subject matter areas.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Textiles and Apparel in the Global Economy",
@@ -168,15 +202,19 @@
             "description": "Economic, social, and political dimensions of the textile complex and trade in a global economy; implications for production, distribution, and consumption of products.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "6 hours of economics"
+            "recommendation": "6 hours of economics",
+            "connections": "None Listed"
         },
         {
             "name": "Softgoods Quality Evaluation",
             "number": "3200",
             "description": "Examination and evaluation of fabric and apparel structures with emphasis on principles of advanced textile performance and quality analysis.  Includes end-use characteristics; price/quality relationships; textile and apparel product standards and specifications; and standard test methods to evaluate comfort, performance, and function of sewn products. Graded on A-F basis only.",
-            "prerequisites": "T_A_M 2200",
+            "prerequisites": "T_A_M 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "T_A_M 2200"
+            ]
         },
         {
             "name": "Computer Aided Design",
@@ -184,47 +222,63 @@
             "description": "Use of computer aided design technology to create designs for textiles and apparel.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Retail and Merchandising Analysis",
             "number": "3300",
             "description": "This course provides an opportunity to apply the concepts of merchandise planning, financial control, and promotions to real life buying situations.  It will employ a problem-based learning approach. Graded on A-F basis only.",
-            "prerequisites": "T_A_M 2300",
+            "prerequisites": "T_A_M 2300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "T_A_M 2300"
+            ]
         },
         {
             "name": "Integrated Apparel Design and Production II",
             "number": "3380",
             "description": "An intermediate apparel product development course integrating pattern-making, apparel assembly decision-making and materials selection. Graded on A-F basis only.",
-            "prerequisites": "C- or above in T_A_M 2380",
+            "prerequisites": "C- or above in T_A_M 2380",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "T_A_M 2380"
+            ]
         },
         {
             "name": "Technical Design",
             "number": "3480",
             "description": "Technical product development for the global sewn products industry. Graded on A-F only basis.",
-            "prerequisites": "T_A_M 3380",
+            "prerequisites": "T_A_M 3380",
             "hours": "3PrerequisitesorCorequisites:T_A_M 3200",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "T_A_M 3380"
+            ]
         },
         {
             "name": "19th and 20th Century Western Dress",
             "number": "3520",
             "description": "A study of nineteenth and twentieth century Western dress as influenced by time, place, and culture. Graded on A-F basis only.",
-            "prerequisites": "ENGLSH 1000. Restricted to Textile and Apparel Management majors only",
+            "prerequisites": "ENGLSH 1000. Restricted to Textile and Apparel Management majors only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "19th and 20th Century Western Dress - Writing Intensive",
             "number": "3520W",
             "description": "A study of nineteenth and twentieth century Western dress as influenced by time, place, and culture. Graded on A-F basis only.",
-            "prerequisites": "ENGLSH 1000. Restricted to Textile and Apparel Management majors only",
+            "prerequisites": "ENGLSH 1000. Restricted to Textile and Apparel Management majors only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "MultiChannel Retailing in the Digital World",
@@ -232,7 +286,8 @@
             "description": "Assessing the integration of various retail channels and developing multichannel strategies.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Entrepreneurship",
@@ -240,7 +295,8 @@
             "description": "This course covers the fundamental principles, practices, and procedures of entrepreneurship in a step-by-step approach, and generates a final business plan. It delves into identifying viable target market through research, appealing to and securing customers, selecting a location, recruiting and retailing great employees and determining how much stock to carry and how to sell it. This course is designed for those who want to consider starting their own retail businesses, but not limited to those who want to reassess the direction of their existing businesses, or to those who want to build tangible as well as intangible entrepreneurial skill sets for their corporate careers. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Textiles and Apparel Management",
@@ -248,7 +304,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Textiles and Apparel Management",
@@ -256,7 +313,8 @@
             "description": "Selected current problems in field of interest.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Textiles and Apparel Management",
@@ -264,7 +322,8 @@
             "description": "Reports and discussion of recent work in area of concentration.",
             "prerequisites": "None Listed",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Electronic Commerce Applications",
@@ -272,7 +331,8 @@
             "description": "Integration of theory, design, management, and application processes used in Electronic Commerce.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Global Sourcing",
@@ -280,7 +340,8 @@
             "description": "(cross-leveled with T_A_M 7110). Global sourcing refers to how and where manufactured goods or components will be procured. In today's global softgoods industry, sourcing has become a major competitive strategy for both manufacturers and retailers. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Supply Chain Management",
@@ -288,7 +349,8 @@
             "description": "This course examines how the supply chain management can be used to gain a competitive advantage in the softgoods industry.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Softgoods Brand Management and Promotion",
@@ -296,15 +358,20 @@
             "description": "(cross-leveled with T_A_M 7300). This course addresses how to build, measure, and manage brands specifically in the softgoods industry. It also covers the strategic implications of developing brand equity toward increasing customer loyalty.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "The Clothing/Textile Consumer: Research and Analysis",
             "number": "4400",
             "description": "Examines the effects of economic, social and marketing factors on the clothing consumption process. Legislative and quality issues related to clothing and textiles are also discussed.",
-            "prerequisites": "T_A_M 1300 or MRKTNG 3000",
+            "prerequisites": "T_A_M 1300 or MRKTNG 3000",
             "hours": "3",
-            "recommendation": "3 hours of statistics"
+            "recommendation": "3 hours of statistics",
+            "connections": [
+                "MRKTNG 3000",
+                "T_A_M 1300"
+            ]
         },
         {
             "name": "Creativity and Problem Solving",
@@ -312,7 +379,8 @@
             "description": "Exploration of the creative process and sources of inspiration. Emphasis on research, design development for a variety of markets. Graded on A-F basis only.  Prerequisites or Corequsites: T_A_M 3380.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "International Experiential Learning in Textiles and Apparel",
@@ -320,7 +388,8 @@
             "description": "International experience of textile and apparel management, including visitation of foreign industries, government agencies, and cultural/historical sites.  Destination may vary. Course may be repeated up to 3 times. Graded on S/U basis only.",
             "prerequisites": "instructor's consent; Minimum GPA of 2.5",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Case Studies in an Inter/Multicultural World",
@@ -328,15 +397,19 @@
             "description": "(same as GERMAN 4810, PEA_ST 4810, DST 4805).  This inter-departmental course examines the ways in which people across the globe are affected every day by an unprecedented array of linkages that defy geographic and political boundaries.  Also serves as one of the seminars for the certificate in Digital Global Studies.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Field Training in Textiles and Apparel Management",
             "number": "4949",
             "description": "Practical aspects of internship experience coordinated with the university curriculum. Available for various areas of emphasis.",
-            "prerequisites": "2.5 GPA, T_A_M 2120, instructor's consent, and necessary prerequisite for area of emphasis",
+            "prerequisites": "2.5 GPA, T_A_M 2120, instructor's consent, and necessary prerequisite for area of emphasis",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "T_A_M 2120"
+            ]
         },
         {
             "name": "Readings in Textiles and Apparel Management",
@@ -344,7 +417,8 @@
             "description": "Selected current readings in field of interest.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Apparel Production Management",
@@ -352,7 +426,8 @@
             "description": "Integration of consumer, trend and aesthetic research to develop and produce a competitive apparel product line using a multifunctional team approach. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "4Prerequisites or Corequisites: T_A_M 3480 or T_A_M 4480",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Retail Marketing and Merchandising",
@@ -360,7 +435,8 @@
             "description": "(cross-leveled with T_A_M 7990). Analytical management techniques appropriate for evaluation of retailing productivity. Emphasis on the use of these techniques and others in the development of a comprehensive retail marketing strategy.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: T_A_M 2300, ACCTCY 2036 or ACCTCY 2026 or ACCTCY 2010, MRKTNG 3000",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Experiential Learning in Textiles and Apparel",
@@ -368,7 +444,8 @@
             "description": "This course is designed to provide students with hands-on-experiences in the softgood industry. The purpose is to link classroom learning to business cultural centers, museums, workshops, and /or service learning opportunities achieved through experiential study. Additional field study fees might be applicable, depending on experience. May be repeated for credit. Graded on S/U basis only.",
             "prerequisites": "instructor's consent and minimum GPA of 2.5",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Clothing and Textiles",
@@ -376,7 +453,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Clothing and Textiles",
@@ -384,7 +462,8 @@
             "description": "Selected current readings in field of interest.",
             "prerequisites": "3000-level course in field of problems and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Clothing and Textiles",
@@ -392,15 +471,20 @@
             "description": "Reports and discussion of recent work in area of concentration.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Global Sourcing",
             "number": "7110",
             "description": "Global sourcing refers to how and where manufactured goods or components will be procured. In today's global softgoods industry, sourcing has become a major competitive strategy for both manufacturers and retailers.",
-            "prerequisites": "T_A_M 3110 or T_A_M 9100",
+            "prerequisites": "T_A_M 3110 or T_A_M 9100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "T_A_M 3110",
+                "T_A_M 9100"
+            ]
         },
         {
             "name": "Web-Based Marketing Research",
@@ -408,7 +492,8 @@
             "description": "This project-oriented course will focus on principles of marketing research applicable to textile/apparel online environments.  Students will learn how to develop, utilize, and analyze web-based research.",
             "prerequisites": "3 hours of statistics",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Branding",
@@ -416,7 +501,8 @@
             "description": "(cross-leveled with T_A_M 4300). This course addresses how to build, measure, and manage brands specifically in the softgoods industry. It also covers the strategic implications of developing brand equity toward increasing customer loyalty.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Clothing and Textiles",
@@ -424,7 +510,8 @@
             "description": "Readings in recent research material in textiles and/or clothing.",
             "prerequisites": "20 hours in Textile and Apparel Management, and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Softgoods Product Development",
@@ -432,15 +519,23 @@
             "description": "Integration of consumer, trend and aesthetic research to develop and produce a competitive apparel product line using a multi-functional team approach.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: T_A_M 3480 or T_A_M 4480",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Retail Marketing and Merchandising",
             "number": "7990",
             "description": "(cross-leveled with T_A_M 4990). Analytical management techniques appropriate for evaluation of retailing productivity. Emphasis on the use of these techniques and others in the development of a comprehensive retail marketing strategy.",
-            "prerequisites": "T_A_M 2300, ACCTCY 2036 or ACCTCY 2026 or ACCTCY 2010, MRKTNG 3000",
+            "prerequisites": "T_A_M 2300, ACCTCY 2036 or ACCTCY 2026 or ACCTCY 2010, MRKTNG 3000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ACCTCY 2036",
+                "ACCTCY 2026",
+                "ACCTCY 2010",
+                "MRKTNG 3000",
+                "T_A_M 2300"
+            ]
         },
         {
             "name": "International Experiential Learning in Textiles and Apparel",
@@ -448,7 +543,8 @@
             "description": "Investigation of the complex interaction of manufacturing, marketing, and merchandising in the apparel industry, achieved through instructional and experiential study.  Includes international or domestic study trip.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1-9",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Textiles and Apparel Management",
@@ -456,7 +552,8 @@
             "description": "Readings in recent research material in textiles and/or clothing.",
             "prerequisites": "20 hours in Textile and Apparel Management, and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Clothing and Textiles",
@@ -464,7 +561,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Textiles and Apparel Management",
@@ -472,7 +570,8 @@
             "description": "Selected current readings in field of interest.",
             "prerequisites": "4000-level course in field of problem and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Clothing and Textiles",
@@ -480,7 +579,8 @@
             "description": "Reports and discussion of recent work in area of concentration.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Clothing and Textiles",
@@ -488,7 +588,8 @@
             "description": "Independent research leading to a thesis. Report required.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Supply Chain Management in the Global Softgoods Industry",
@@ -496,7 +597,8 @@
             "description": "This course examines supply chain management strategies to gain a competitive advantages in the global softgoods industry.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of Research in Textile and Apparel Management",
@@ -504,7 +606,8 @@
             "description": "A survey of current research in textiles and apparel management. Underlying theory, research design and empirical techniques will be analyzed and critiqued.",
             "prerequisites": "hours in Statistics and 3 hours in Research Methods",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Applied Research Procedures and Analyses in Textiles and Apparel",
@@ -512,7 +615,8 @@
             "description": "Investigation of applied research techniques and analyses used in the field of Textile and Apparel Management.",
             "prerequisites": "3 credits of merchandising, marketing, or microeconomics; 3 credits in computer science and 3 credits in statistics",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Qualitative Social Research Methods",
@@ -520,7 +624,8 @@
             "description": "Focus is on the philosophical differences inherent in an interpretivist versus a positivist approach to social research, the strategies and methods of qualitative research, and qualitative research design and criticism. May be repeated twice.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Perspectives of 19th and 20th Century Dress",
@@ -528,7 +633,8 @@
             "description": "A study of nineteenth and twentieth century western dress as influenced by time, place, and culture.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Sustainable Softgoods",
@@ -536,7 +642,8 @@
             "description": "This course examines sustainability in the soft goods industry in the context of cultural, economic, environmental, social, and technological policies and procedures of soft goods industries.  Includes ethics, government policies international labor standards, environmental regulations, company priorities, consumer responsibilities, economic impact, and worker rights.  The importance of establishing leadership for social change will be incorporated.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Clothing and Textiles",
@@ -544,7 +651,8 @@
             "description": "Readings in recent research material in textiles and/or clothing.",
             "prerequisites": "graduate standing, 20 hours in Textile and Apparel Management, and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Clothing and Textiles",
@@ -552,7 +660,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Textiles and Apparel Management",
@@ -560,7 +669,8 @@
             "description": "Selected current readings in field of interest.",
             "prerequisites": "4000-level course in field of problem and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Clothing and Textiles",
@@ -568,7 +678,8 @@
             "description": "Reports and discussion of recent work in area of concentration.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Textiles and Apparel Management",
@@ -576,7 +687,8 @@
             "description": "Independent research leading to dissertation. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theory Development and Evaluation in Textile and Apparel Research",
@@ -584,7 +696,8 @@
             "description": "This class examines and analyzes extant theories in textiles and apparel research in systemic manner to be able to construct new theories.   Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cloth and the Human Experience",
@@ -592,7 +705,8 @@
             "description": "Examines the social context of dress and other intimate manifestations of daily life using culture as the level of analysis.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Textile History Seminar",
@@ -600,7 +714,8 @@
             "description": "Investigation of research in textile and costume history with emphasis on developing questions, methods of analysis and interpretation appropriate for data sources used.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Clothing and Textiles",
@@ -608,7 +723,8 @@
             "description": "Readings in recent research material in textiles and/or clothing.",
             "prerequisites": "20 hours in Textile and Apparel Management, and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

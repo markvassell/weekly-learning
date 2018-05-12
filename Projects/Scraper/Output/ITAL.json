@@ -8,23 +8,30 @@
             "description": "Intensive approach to beginning language. Designed to give students an overview of the grammar and syntax of Italian. Emphasis is on oral, with some reading and writing. The 5-hour option is open ONLY to Bachelor of Music students and only with override from the Department. The 5-hour option cannot be applied to meets Arts and Science or Journalism foreign language requirements.",
             "prerequisites": "None Listed",
             "hours": "5-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Elementary Italian II",
             "number": "1200",
             "description": "Continues basic grammar and syntax of Italian . Emphasis is on oral, with some reading and writing. The 5-hour option is open ONLY to Bachelor of Music students and only with override from the Department. The 5-hour option cannot be applied to meet Arts and Science or Journalism foreign language requirements.",
-            "prerequisites": "grade of C- or better in ITAL 1100 or its equivalent",
+            "prerequisites": "grade of C- or better in ITAL 1100 or its equivalent",
             "hours": "5-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ITAL 1100"
+            ]
         },
         {
             "name": "Elementary Italian II - Honors",
             "number": "1200H",
             "description": "Continues basic grammar and syntax of Italian . Emphasis is on oral, with some reading and writing. The 5-hour option is open ONLY to Bachelor of Music students and only with override from the Department. The 5-hour option cannot be applied to meet Arts & Science or Journalism foreign language requirements.",
-            "prerequisites": "grade of C- or better in ITAL 1100 or its equivalent. Honors eligibility required",
+            "prerequisites": "grade of C- or better in ITAL 1100 or its equivalent. Honors eligibility required",
             "hours": "5-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ITAL 1100"
+            ]
         },
         {
             "name": "Undergraduate Topics in Italian-General",
@@ -32,7 +39,8 @@
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. Departmental consent for repetition.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Topics in Italian-Social Science",
@@ -40,7 +48,8 @@
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. Departmental consent for repetition.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Topics in Italian-Humanities/Fine Arts",
@@ -48,15 +57,19 @@
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. Departmental consent for repetition.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Intermediate Italian",
             "number": "2160",
             "description": "Continues development of language skills acquired in Elementary Italian.  While learning new structures and new vocabulary, students also review basic grammar components.  By the end of the course, students are able to understand (through reading and listening) and communicate (in writing and orally) in a variety of both formal and informal situations.",
-            "prerequisites": "ITAL 1200",
+            "prerequisites": "ITAL 1200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ITAL 1200"
+            ]
         },
         {
             "name": "Italian Civilization",
@@ -64,7 +77,8 @@
             "description": "Open to any student interested. No knowledge of Italian required.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Italian Cinema",
@@ -72,7 +86,8 @@
             "description": "(same as FILM_S 2850). A course which concentrates on the development of Italian Cinema, primarily since the Post-WWII era, and the ways in which it reflects major economic, social and political events occurring in Italy. No knowledge of Italian required.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Italian-General",
@@ -80,7 +95,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Departmental consent for repetition. No knowledge of Italian required.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Italian-Humanities/Fine Arts",
@@ -88,7 +104,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Departmental consent for repetition. No knowledge of Italian required.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Italian-Humanities/Fine Arts - Honors",
@@ -96,31 +113,41 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Departmental consent for repetition. No knowledge of Italian required.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Post-Intermediate Italian",
             "number": "3150",
             "description": "Gives emphasis on acquiring communicative multi-skills competence necessary to understand and discuss a variety of written and aural texts, from newspaper articles to brief literature excerpts.  It offers students opportunity to review grammar components as will as learning more complex structures, to expand their vocabulary, and to use language in a variety of cultural contexts.",
-            "prerequisites": "ITAL 2160",
+            "prerequisites": "ITAL 2160",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ITAL 2160"
+            ]
         },
         {
             "name": "Italian Composition",
             "number": "3160",
             "description": "Continues the development of the language skills acquired in Intermediate and Post-Intermediate Italian.  It offers students the opportunity to expand their vocabulary, to use the language in a variety of contexts prompted by cultural activities, and to acquire more complex grammatical structures.  Emphasis is given on refining writing skills in connection with different text types.",
-            "prerequisites": "ITAL 3150",
+            "prerequisites": "ITAL 3150",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ITAL 3150"
+            ]
         },
         {
             "name": "20th Century Italian Fiction in Translation",
             "number": "3310",
             "description": "This course is designed to present American students with a selection of Italian novels aimed at introducing them to some key issues in the historical, social, and literary developments of Italian life from the turn of the century to the 1960s.",
-            "prerequisites": "sophomore standing or ENGLSH 1000",
+            "prerequisites": "sophomore standing or ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Introduction to Italian Literature",
@@ -128,7 +155,8 @@
             "description": "This course introduces students to the literacy terminology that will enable them to study Italian literature.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "ITAL 2310 and basic reading knowledge of a Romance Language"
+            "recommendation": "ITAL 2310 and basic reading knowledge of a Romance Language",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of Italian Literature",
@@ -136,15 +164,21 @@
             "description": "Designed to expose students to the rich variety of Italian letters. Emphasis will be placed on textual analysis as well as on authors, themes and stylistic features.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "ITAL 2310 and basic reading knowledge of a Romance Language"
+            "recommendation": "ITAL 2310 and basic reading knowledge of a Romance Language",
+            "connections": "None Listed"
         },
         {
             "name": "Films of Federico Fellini",
             "number": "3820",
             "description": "(same as FILM_S 3820). In studying the filmic career of one of the supreme stylists of the cinematic world, students will view films from each phase of Fellini's career.",
-            "prerequisites": "ITAL 2850 or ENGLSH 1810 or ENGLSH 1820; instructor's consent",
+            "prerequisites": "ITAL 2850 or ENGLSH 1810 or ENGLSH 1820; instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1810",
+                "ENGLSH 1820",
+                "ITAL 2850"
+            ]
         },
         {
             "name": "Intensive Beginning Italian",
@@ -152,7 +186,8 @@
             "description": "Designed for rapid acquisition of a reading knowledge of Italian. Cannot be taken to fulfill undergraduate language requirement.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Readings in Italian",
@@ -160,7 +195,8 @@
             "description": "Independent study through readings, conferences, reports.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

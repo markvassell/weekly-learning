@@ -8,7 +8,8 @@
             "description": "Introductory course for students with no high school background in chemistry.  Covers fundamental principles of scientific measurement, stoichiometry, solutions, basic atomic structure, gases.  No credit if taken after CHEM 1100.",
             "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: MATH 1100 or MATH 1120",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Atoms and Molecules with Lab",
@@ -16,7 +17,8 @@
             "description": "One-semester introduction for non-science majors to the basic concepts and important applications of chemistry. Satisfies A&S requirement for a laboratory science. No credit if taken after CHEM 1310.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Atoms and Molecules with Laboratory - Honors",
@@ -24,39 +26,56 @@
             "description": "One-semester introduction for non-science majors to the basic concepts and important applications of chemistry. Satisfies A&S requirement for a laboratory science. No credit if taken after CHEM 1310.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "College Chemistry I",
             "number": "1320",
             "description": "First of two-course sequence emphasizing principles and applications of modern chemical sciences.  Covers chemical nomenclature, stoichiometry, kinetic molecular theory, atomic structure, periodic properties, and molecular structure and bonding.  Satisfies laboratory science requirement. Math Reasoning Proficiency Course.",
-            "prerequisites": "MATH 1100 or MATH 1120 or equivalent",
+            "prerequisites": "MATH 1100 or MATH 1120 or equivalent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100",
+                "MATH 1120"
+            ]
         },
         {
             "name": "College Chemistry I - Honors",
             "number": "1320H",
             "description": "First of a two-course sequence emphasizing principles and applications of modern chemical sciences. Covers chemical nomenclature, stoichiometry, kinetic molecular theory, atomic structure, periodic properties, and molecular structure and bonding. Satisfies laboratory science requirement. Math Reasoning Proficiency Course.",
-            "prerequisites": "MATH 1100 or MATH 1120 or equivalent. Honors eligibility required",
+            "prerequisites": "MATH 1100 or MATH 1120 or equivalent. Honors eligibility required",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100",
+                "MATH 1120"
+            ]
         },
         {
             "name": "College Chemistry II",
             "number": "1330",
             "description": "Continuation of CHEM 1320. Covers intermolecular forces, solutions, kinetics, acid-base chemistry, electrochemistry, nuclear chemistry, thermodynamics.  Satisfies requirement for a laboratory science.  May be taken concurrently with CHEM 2030 or CHEM 2100.",
-            "prerequisites": "grade of C- or better in CHEM 1320 or CHEM 1320H",
+            "prerequisites": "grade of C- or better in CHEM 1320 or CHEM 1320H",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "CHEM 1320"
+            ]
         },
         {
             "name": "College Chemistry II- Honors",
             "number": "1330H",
             "description": "Continuation of CHEM 1320H. Covers equilibria, kinetics, electrochemistry, nuclear chemistry, thermodynamics. Satisfies requirement for a laboratory science. May be taken concurrently with CHEM 2030 or CHEM 2100.",
-            "prerequisites": "grade of C- or better in  CHEM 1320 or CHEM 1320H. Honors eligibility required",
+            "prerequisites": "grade of C- or better in  CHEM 1320 or CHEM 1320H. Honors eligibility required",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "CHEM 1320"
+            ]
         },
         {
             "name": "Honors Intensive General Chemistry with Lab - Honors",
@@ -64,31 +83,45 @@
             "description": "A one-semester, intensive introduction to chemistry for honors-eligible students that takes the place of CHEM 1320, CHEM 1330. Four lectures and one 3-hour lab period per week. Math Reasoning Proficiency Course.",
             "prerequisites": "honors eligibility, college algebra and one year of high school chemistry or instructor's consent",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of Organic Chemistry",
             "number": "2030",
             "description": "One-semester introduction to structure and bonding, functional group chemistry, principles of reactivity, reaction mechanisms, the molecules of life.",
-            "prerequisites": "Grade of C or better in CHEM 1320 or CHEM 1320H or equivalent. Recommended CHEM 1330, or CHEM 1330 concurrently",
+            "prerequisites": "Grade of C or better in CHEM 1320 or CHEM 1320H or equivalent. Recommended CHEM 1330, or CHEM 1330 concurrently",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "CHEM 1320",
+                "CHEM 1330",
+                "CHEM 1330"
+            ]
         },
         {
             "name": "Organic Chemistry I",
             "number": "2100",
             "description": "First course of a two-semester sequence. Structure and bonding; chemistry of hydrocarbons, alkyl halides, alcohols and ethers; reaction mechanisms; principles of reactivity and synthesis; IR and NMR spectroscopy.  Only 1 hour credit if taken after CHEM  2030 or equivalent.   ",
-            "prerequisites": "  grade of C or better in CHEM 1320 or equivalent or CHEM 1330 concurrently,",
+            "prerequisites": "  grade of C or better in CHEM 1320 or equivalent or CHEM 1330 concurrently,",
             "hours": ": 3Recommended: CHEM 1330",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "CHEM 1330"
+            ]
         },
         {
             "name": "Organic Chemistry II",
             "number": "2110",
             "description": "Continuation of CHEM 2100.  Aromatic hydrocarbons, carbonyls, amines; chemistry of carbanions; reactions of polar double bonds; nucleic acids, proteins, carbohydrates and fats.",
-            "prerequisites": "grade of C or better in CHEM 2100 or equivalent, or departmental consent",
+            "prerequisites": "grade of C or better in CHEM 2100 or equivalent, or departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2100"
+            ]
         },
         {
             "name": "Organic Laboratory I",
@@ -96,47 +129,64 @@
             "description": "Basic lab techniques, functional group manipulations, and short syntheses.  Pre-lab and post-lab writing assignments. 1 hour recitation,  3 hours lab per week.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "Concurrent enrollment in CHEM 2110 or CHEM 2030.  No credit for students who have previous organic laboratory credit"
+            "recommendation": "Concurrent enrollment in CHEM 2110 or CHEM 2030.  No credit for students who have previous organic laboratory credit",
+            "connections": "None Listed"
         },
         {
             "name": "Organic Laboratory II",
             "number": "2140",
             "description": "Continuation of CHEM 2130.  Preparation and identification of organic compounds; application of instrumental techniques.  2 lab sessions, 1 recitation session per week.",
-            "prerequisites": "grade of C or better in CHEM 2110 and CHEM 2130 or equivalent",
+            "prerequisites": "grade of C or better in CHEM 2110 and CHEM 2130 or equivalent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2110",
+                "CHEM 2130"
+            ]
         },
         {
             "name": "Honors Organic Chemistry I - Honors",
             "number": "2160H",
             "description": "First course of a two-semester sequence. Similar to CHEM 2100 but with increased depth and breadth; emphasis on preparing science students for research and professional careers. 3 lectures, 1 discussion session per week.",
-            "prerequisites": "honors eligibility, grade of B or better in CHEM 1320 or equivalent",
+            "prerequisites": "honors eligibility, grade of B or better in CHEM 1320 or equivalent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320"
+            ]
         },
         {
             "name": "Honors Organic Chemistry II with Lab - Honors",
             "number": "2170H",
             "description": "Continuation of CHEM 2160H; includes laboratory. Content and structure similar to  CHEM 2110, but with increased depth and breadth.",
-            "prerequisites": "honors eligibility, grade of B or better in CHEM 2160H or instructor's permission",
+            "prerequisites": "honors eligibility, grade of B or better in CHEM 2160H or instructor's permission",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2160"
+            ]
         },
         {
             "name": "Honors Organic Chemistry Laboratory - Honors",
             "number": "2190H",
             "description": "Preparation and identification of organic compounds; multistep syntheses; application of instrumental techniques, including NMR, FTIR, MS and HPLC. 2 lab sessions, 1 discussion session per week.",
-            "prerequisites": "honors eligibility, grade of C or better in CHEM 2170H or equivalent",
+            "prerequisites": "honors eligibility, grade of C or better in CHEM 2170H or equivalent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2170"
+            ]
         },
         {
             "name": "Fundamentals of Inorganic Chemistry with Lab",
             "number": "2400",
             "description": "A systematic introduction with laboratory to inorganic and organometallic compounds, reactions, and periodic properties.",
-            "prerequisites": "grade of C or better in CHEM 1330",
+            "prerequisites": "grade of C or better in CHEM 1330",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1330"
+            ]
         },
         {
             "name": "Undergraduate Research in Chemistry",
@@ -144,31 +194,49 @@
             "description": "A laboratory research project and/or preparation of compounds with a written final report. Cannot be substituted for other chemistry courses required for a B.S. or B.A. degree. No more than 6 hrs. total credit.",
             "prerequisites": "sophomore standing, 2.75 GPA and/or instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Quantitative Methods of Analysis with Lab",
             "number": "3200",
             "description": "Principles and practice of quantitative analysis, including the basic principles of modern instrumental methods.",
-            "prerequisites": "CHEM 1330 or CHEM 1500H",
+            "prerequisites": "CHEM 1330 or CHEM 1500H",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1330",
+                "CHEM 1500"
+            ]
         },
         {
             "name": "Fundamentals of Physical Chemistry",
             "number": "3300",
             "description": "Survey of physical chemistry.  Satisfies physical chemistry prerequisite for BIOCHM 8430.",
-            "prerequisites": "MATH 1700, a course in organic chemistry; PHYSCS 1210 and PHYSCS 1220 or PHYSCS 2175, or PHYSCS 2176 concurrently",
+            "prerequisites": "MATH 1700, a course in organic chemistry; PHYSCS 1210 and PHYSCS 1220 or PHYSCS 2175, or PHYSCS 2176 concurrently",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1700",
+                "PHYSCS 1210",
+                "PHYSCS 1220",
+                "PHYSCS 2175",
+                "PHYSCS 2176"
+            ]
         },
         {
             "name": "Physical Chemistry I",
             "number": "3310",
             "description": "Lecture only. Topics include the kinetic theory of gases, chemical kinetics, thermodynamics and chemical equilibrium.",
-            "prerequisites": "one semester organic chemistry and PHYSCS 2175, PHYSCS 2176 and MATH 2300, or MATH 2300 concurrently",
+            "prerequisites": "one semester organic chemistry and PHYSCS 2175, PHYSCS 2176 and MATH 2300, or MATH 2300 concurrently",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 2300",
+                "MATH 2300",
+                "PHYSCS 2175",
+                "PHYSCS 2176"
+            ]
         },
         {
             "name": "Physical Chemistry II",
@@ -176,31 +244,49 @@
             "description": "Continuation of  CHEM 3310. Lecture only. Covers wave mechanics, bonding, molecular spectroscopy and statistical mechanics.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physical Chemistry Laboratory",
             "number": "3340",
             "description": "",
-            "prerequisites": "Grade of C or better in  CHEM 3200; CHEM 3330 or CHEM 3330 concurrently",
+            "prerequisites": "Grade of C or better in  CHEM 3200; CHEM 3330 or CHEM 3330 concurrently",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 3200",
+                "CHEM 3330",
+                "CHEM 3330"
+            ]
         },
         {
             "name": "Undergraduate Seminar in Chemistry",
             "number": "3700",
             "description": "Methods for locating and presenting chemical information, data analysis techniques, professional issues.",
-            "prerequisites": "CHEM 1330 or CHEM 1500H; CHEM 2100 or CHEM 2160H",
+            "prerequisites": "CHEM 1330 or CHEM 1500H; CHEM 2100 or CHEM 2160H",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1330",
+                "CHEM 1500",
+                "CHEM 2100",
+                "CHEM 2160"
+            ]
         },
         {
             "name": "Undergraduate Seminar in Chemistry - Writing Intensive",
             "number": "3700W",
             "description": "Methods for locating and presenting chemical information, data analysis techniques, professional issues.",
-            "prerequisites": "CHEM 1330 or CHEM 1500H; CHEM 2100 or CHEM 2160H",
+            "prerequisites": "CHEM 1330 or CHEM 1500H; CHEM 2100 or CHEM 2160H",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1330",
+                "CHEM 1500",
+                "CHEM 2100",
+                "CHEM 2160"
+            ]
         },
         {
             "name": "Internship in Chemistry",
@@ -208,7 +294,8 @@
             "description": "Cannot be substituted for other chemistry courses required for B.S. or B.A. degree.",
             "prerequisites": "departmental consent",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Service-Learning in Chemistry",
@@ -216,7 +303,8 @@
             "description": "A service-learning community outreach program affording chemistry students with an opportunity to enhance their problem-solving skills. May be repeated once for credit. Satisfies no specific chemistry degree requirements, nor Arts and Science general education requirements. Graded on a S/U basis only.",
             "prerequisites": "departmental consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Chemistry - General",
@@ -224,7 +312,8 @@
             "description": "Organized study designed to broaden the knowledge base of students. Subjects on analytical, inorganic, organic and physical chemistry covered.",
             "prerequisites": "departmental consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Chemistry- Natural Science",
@@ -232,15 +321,24 @@
             "description": "Organized study designed to broaden the knowledge base of students. Subjects on analytical, inorganic, organic and physical chemistry covered.",
             "prerequisites": "departmental consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Chemistry Laboratory",
             "number": "4010",
             "description": "Advanced methods for the synthesis and characterization of organic, inorganic, and organometallic compounds.",
-            "prerequisites": "CHEM 2400, CHEM 2140, or CHEM 2190H, CHEM 3200, CHEM 3330 (or CHEM 3330 corequisite)",
+            "prerequisites": "CHEM 2400, CHEM 2140, or CHEM 2190H, CHEM 3200, CHEM 3330 (or CHEM 3330 corequisite)",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2400",
+                "CHEM 2140",
+                "CHEM 2190",
+                "CHEM 3200",
+                "CHEM 3330",
+                "CHEM 3330"
+            ]
         },
         {
             "name": "Problems in Chemistry",
@@ -248,7 +346,8 @@
             "description": "Individual study under the direction of a faculty member that supplements regular course work.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Intermediate Organic Chemistry",
@@ -256,23 +355,33 @@
             "description": "Stresses synthetic organic chemistry at an intermediate level.",
             "prerequisites": "at least one year organic chemistry",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Medicinal Chemistry",
             "number": "4170",
             "description": "Chemical mechanisms of drug action. Topics include drug metabolism and action, chemical toxicology and medicines, enzyme activity, and specific drug case studies.",
-            "prerequisites": "CHEM 2110, or CHEM 2170H, CHEM 3300 or CHEM 3310 or instructor's consent",
+            "prerequisites": "CHEM 2110, or CHEM 2170H, CHEM 3300 or CHEM 3310 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2110",
+                "CHEM 2170",
+                "CHEM 3300",
+                "CHEM 3310"
+            ]
         },
         {
             "name": "Instrumental Methods of Analysis with Lab",
             "number": "4200",
             "description": "(cross-leveled with CHEM 7200). Chemical instrumentation methods including electrochemistry, spectroscopy, and advanced separations techniques.",
-            "prerequisites": "CHEM 3200, a semester of physical chemistry",
+            "prerequisites": "CHEM 3200, a semester of physical chemistry",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 3200"
+            ]
         },
         {
             "name": "Environmental Chemistry",
@@ -280,15 +389,19 @@
             "description": "Surveys the chemistry of air and water environments; discusses the chemistry of waste treatment.",
             "prerequisites": "8 hours chemistry including organic and analytical",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental-Toxicological Chemistry",
             "number": "4290",
             "description": "In-depth study of the chemical aspects of current issues dealing with environmental pollutants and toxic chemical substances.",
-            "prerequisites": "CHEM 4280",
+            "prerequisites": "CHEM 4280",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 4280"
+            ]
         },
         {
             "name": "Inorganic Chemistry",
@@ -296,23 +409,32 @@
             "description": "(cross-leveled with CHEM 7400). Atomic and molecular structure, bonding, kinetics and mechanism, ligand field theory, coordination compounds, acids and bases.",
             "prerequisites": "one semester Physical Chemistry, second semester concurrently",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physics and Chemistry of Materials",
             "number": "4490",
             "description": "(same as NU_ENG 4319, PHYSCS 4190 and  BIOL_EN 4480; cross-leveled with CHEM 7490, NU_ENG 7319, PHYSCS 7190, BIOL_EN 7480). Undergraduate/graduate level course offered every spring semester for students from Physics, Chemistry, Engineering and Medical Departments and consists of lectures, laboratory demonstrations, two midterm and one final exam. Graduate students will submit a term paper.",
-            "prerequisites": "PHYSCS 2760 and CHEM 1320",
+            "prerequisites": "PHYSCS 2760 and CHEM 1320",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Introduction to Radiochemistry with Lab",
             "number": "4600",
             "description": "(same as NU_ENG 4391). Introduces application of radio-tracer techniques to chemical research.",
-            "prerequisites": "CHEM 1330 or CHEM 1500H; and one semester of physical chemistry, or instructor's consent",
+            "prerequisites": "CHEM 1330 or CHEM 1500H; and one semester of physical chemistry, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1330",
+                "CHEM 1500"
+            ]
         },
         {
             "name": "Chemistry Teaching Practicum",
@@ -320,7 +442,8 @@
             "description": "Provides practical experience teaching introductory chemistry in discussion and laboratory settings.  For students pursuing dual degrees in chemistry and secondary education. For students pursuing simultaneous dual degrees in chemistry and secondary education. Graded on S/U basis only.",
             "prerequisites": "senior standing; departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Senior Research",
@@ -328,7 +451,8 @@
             "description": "A laboratory research project with approved written goals and a final written report. It may be taken twice.",
             "prerequisites": "a 2.75 GPA, departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Senior Honors Research I",
@@ -336,7 +460,8 @@
             "description": "A laboratory research experience with a student-instructor prepared outline approved by the Honors Director, a final written report and a final oral presentation and examination.",
             "prerequisites": "a 3.33 GPA, departmental consent, and approval of project outline. Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Senior Honors Research II",
@@ -344,7 +469,8 @@
             "description": "A laboratory research experience with a student-instructor prepared outline approved by the Honors Director, a final written report and a final oral presentation and examination.",
             "prerequisites": "a 3.33 GPA, departmental consent, approval of project outline. Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Chemistry for Beginning Graduate Students",
@@ -352,15 +478,19 @@
             "description": "Seminar in Chemistry for Beginning Graduate Students",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Instrumental Methods of Analysis with Lab",
             "number": "7200",
             "description": "(cross-leveled with CHEM 4200). Chemical instrumentation methods including electrochemistry, spectroscopy, and advanced separations techniques.",
-            "prerequisites": "CHEM 3200, a semester of physical chemistry",
+            "prerequisites": "CHEM 3200, a semester of physical chemistry",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 3200"
+            ]
         },
         {
             "name": "Intermediate Physical Chemistry",
@@ -368,7 +498,8 @@
             "description": "Treatment of atomic and molecular, structure and spectroscopy based on quantum concepts. Designed to provide a broad base of knowledge in these fundamental areas to beginning graduate students in chemistry.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Inorganic Chemistry",
@@ -376,15 +507,20 @@
             "description": "(cross-leveled with CHEM 4400). Atomic and molecular structure, bonding, kinetics and mechanism, ligand field theory, coordination compounds, acids and bases.",
             "prerequisites": "one semester Physical Chemistry, second semester concurrently",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physics and Chemistry of Materials",
             "number": "7490",
             "description": "(same as NU_ENG 7319, PHYSCS 7190, BIOL_EN 7480; cross-leveled with CHEM 4490, NU_ENG 4319, PHYSCS 4190, BIOL_EN 4480). Undergraduate/graduate level course offered every winter semester for students from Physics, Chemistry, Engineering and Medical Departments and consists of lectures, laboratory demonstrations, two midterm and one final exam. Graduate students will submit a term paper.",
-            "prerequisites": "PHYSCS 2760 and CHEM 1320 or equivalent and instructor's consent",
+            "prerequisites": "PHYSCS 2760 and CHEM 1320 or equivalent and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Topics in Chemistry - Natural Science",
@@ -392,7 +528,8 @@
             "description": "Organized study of selected topics. Subjects and earned credit may vary from semester to semester. Repeatable upon consent of department.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to X-ray Crystallography",
@@ -400,7 +537,8 @@
             "description": "Designed for students in chemistry and related fields. Aimed at offering a practical understanding of single-crystal x-ray structural studies. Includes hands-on laboratory work (data collection and analysis).",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Non-Thesis Research in Chemistry",
@@ -408,7 +546,8 @@
             "description": "Does not lead to dissertation.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Chemistry",
@@ -416,7 +555,8 @@
             "description": "Organized study of selected topics. Subjects and earned credit may vary from semester to semester. Repeatable upon consent of department.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Chemistry",
@@ -424,7 +564,8 @@
             "description": "Seminar in Chemistry",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Thesis/Dissertation (pre-candidacy) Research in Chemistry",
@@ -432,7 +573,8 @@
             "description": "Research leading to thesis. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physical Organic Chemistry I",
@@ -440,7 +582,8 @@
             "description": "Bonding theory, physical methods, absorption spectroscopy, conformational analysis, mechanism of reactions.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physical Organic Chemistry II",
@@ -448,7 +591,8 @@
             "description": "Case studies and methods for determining organic reaction mechanisms.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Organic Reaction Mechanisms",
@@ -456,23 +600,30 @@
             "description": "Organic reaction mechanisms are discussed within a framework of structure-reactivity relationships. Particular attention directed to the chemistry of reactive intermediates and the application of stereochemical and molecular orbital concepts.",
             "prerequisites": "1 year of Organic Chemistry and Physical Chemistry",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Organic Spectroscopy",
             "number": "8160",
             "description": "Structural analysis of organic compounds involving problem solving using modern NMR, IR, UV-VIS, MS CD/ORD and other spectroscopic techniques.",
-            "prerequisites": "CHEM 3330 or equivalent or instructor's consent",
+            "prerequisites": "CHEM 3330 or equivalent or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 3330"
+            ]
         },
         {
             "name": "Applications of the Reactions of Organic Chemistry",
             "number": "8170",
             "description": "",
-            "prerequisites": "CHEM 8150",
+            "prerequisites": "CHEM 8150",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 8150"
+            ]
         },
         {
             "name": "Analytical Measurement",
@@ -480,7 +631,8 @@
             "description": "Fundamental and applied aspects of scientific measurements. Topics include: Statistics, signal-to-noise, frequency analysis, sources of noise, digital and analog filtering, time vs. frequency domain measurements, Fourier transformation, sampling, convolution/deconvolution, autocorrelation and cross-correlation. Directed toward entering graduate students.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Separations and Chromatography",
@@ -488,7 +640,8 @@
             "description": "Classical and instrumental methods of separation: gas, paper, thin film, and column chromatography; ion exchange.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Mass Spectrometry",
@@ -496,7 +649,8 @@
             "description": "This course will cover various aspects of modern mass spectrometry.  Topics will include instrumentation, theory, uses and interfaces to mass spectrometry.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Analytical Spectroscopy",
@@ -504,7 +658,8 @@
             "description": "Selected topics dealing with recent advances in analytical chemistry.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Surface Analysis and Characterization",
@@ -512,7 +667,8 @@
             "description": "Covers various aspects of modern methods of surface analysis and characterization.  Topics include instrumentation, theory, and data reduction methods.  Major sections include electron spectroscopy, microscopy, and vibrational spectroscopy as applied to surfaces.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fluorescence Spectroscopy",
@@ -520,7 +676,8 @@
             "description": "Advanced analytical chemistry course that explores the fundamental principles and uses of modern fluorescence spectroscopy in biology, materials science, chemistry, physics and engineering.  Special emphasis is placed on the methodologies used to obtain specific information about a particular chemical system.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Analytical Chemistry",
@@ -528,7 +685,8 @@
             "description": "Continuation of CHEM 8250.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Bioanalytical Chemistry",
@@ -536,7 +694,8 @@
             "description": "This course is aimed at introducing students to the instrumental and theoretical principles by which biological molecules are measured in vivo and in vitro.  The course explores how protein, DNA and metabolite structures and quantities are determined in the laboratory with an emphasis on understanding historical methods up through cutting edge approaches in each field.   The theory of measurement techniques, separation techniques and related instrumentation are explored in the context of understanding the chemical equilibria that govern each instance.   Students will leave this course with a broad understanding for how many biological molecules are measured and what the limitations of various techniques may be.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nanochemistry",
@@ -544,7 +703,8 @@
             "description": "Covers various aspects of nanochemistry.  Topics include synthesis and characterization of nonmaterial, nanotoxicity, and catalysis.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Physical Chemistry",
@@ -552,47 +712,63 @@
             "description": "Advanced Physical Chemistry",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Quantum Chemistry",
             "number": "8310",
             "description": "Introduction to formal quantum mechanical theory, quantum measurement, simple model problems having exact solutions, angular momenta, approximation methods (perturbation theory, variation principle, WKB), and the structure of many-electron atoms.",
-            "prerequisites": "CHEM 3330 or equivalent or instructor's consent",
+            "prerequisites": "CHEM 3330 or equivalent or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 3330"
+            ]
         },
         {
             "name": "Chemical Kinetics",
             "number": "8320",
             "description": "Factors affecting rates, orders and mechanisms of chemical reactions, with emphasis on current theories and experimental techniques.",
-            "prerequisites": "CHEM 3330 or equivalent or instructor's consent",
+            "prerequisites": "CHEM 3330 or equivalent or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 3330"
+            ]
         },
         {
             "name": "Computational Chemistry",
             "number": "8330",
             "description": "Theory and application of modern computational techniques (molecular mechanics, ab initio and semiempirical molecular orbital methods) for predicting the structures, energies, and properties of molecules and molecular systems.",
-            "prerequisites": "CHEM 3300 or equivalent or instructor's consent",
+            "prerequisites": "CHEM 3300 or equivalent or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 3300"
+            ]
         },
         {
             "name": "Statistical Mechanics",
             "number": "8340",
             "description": "Principles of statistical mechanics and their application to chemical systems; ensemble theory; condensed phases.",
-            "prerequisites": "CHEM 3330 or equivalent or instructor's consent",
+            "prerequisites": "CHEM 3330 or equivalent or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 3330"
+            ]
         },
         {
             "name": "Magnetic Resonance",
             "number": "8350",
             "description": "Basic principles of nuclear magnetic resonance (NMR) and electron spin resonance (ESR), nuclear spin relaxation, current experimental techniques and the application to studies of structures, dynamics and chemical analysis.",
-            "prerequisites": "One year of organic chemistry, CHEM 3300 or equivalent",
+            "prerequisites": "One year of organic chemistry, CHEM 3300 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 3300"
+            ]
         },
         {
             "name": "Inorganic Mechanisms",
@@ -600,7 +776,8 @@
             "description": "Experimental stoichiometry and rate law determination. Isotopic applications. Methods and results of fast reaction studies. Basic known inorganic mechanisms. Experimental methods of establishing mechanisms of reaction.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Chemistry of the Main Group Elements",
@@ -608,7 +785,8 @@
             "description": "Descriptive inorganic chemistry of the main group elements. Textbook material extensively supplemented with information from the current chemical literature.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Supramolecular Chemistry",
@@ -616,15 +794,19 @@
             "description": "The basics of supramolecular chemistry will be covered, including host-guest complexes, reorganization, complementarily, thermodynamic interactions, self assembly and biochemical, molecular device and crystal engineering applications. Graded on A-F basis only.",
             "prerequisites": "BS in Chemistry, Biochemistry or Chemical Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Coordination Chemistry and Reactivity",
             "number": "8430",
             "description": "The chemistry of the transition elements (d-block) and their reactivity will be discussed, including bonding, coordination numbers, oxidation states, and reactivity (kinetics).  Graded on A-F basis only.",
-            "prerequisites": "CHEM 4400 or equivalent; graduate standing in chemistry or instructor's consent",
+            "prerequisites": "CHEM 4400 or equivalent; graduate standing in chemistry or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 4400"
+            ]
         },
         {
             "name": "Inorganic Structural Methods",
@@ -632,7 +814,8 @@
             "description": "Chemical bonding, application of group theory, spectroscopy; diffraction as applied to structure determination; structural implications of dipole moment and magnetic susceptibility measurements.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Organometallics",
@@ -640,7 +823,8 @@
             "description": "Condensations effected by organometallics; dissolving metal reductions; sandwich compounds and related organotransition metal derivatives.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Solid State Chemistry",
@@ -648,7 +832,8 @@
             "description": "An introduction to the unique aspects of extended solids.  Crystal symmetry, group theory and their applications to crystallography.  Bonding and electronic structure theories of metals and semiconductors.  Cooperative magnetism and superconductivity.  Defects and ionic conductivity.  Preparative methods in solid state chemistry.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Actinide Chemistry",
@@ -656,7 +841,8 @@
             "description": "The course covers the inorganic and organometallic chemistry of the actinides.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Chemistry of Nanomaterials",
@@ -664,7 +850,8 @@
             "description": "This course will cover several aspects of nanomaterials including synthesis and processing of small particles, as well as their characterization by crystallography, scanning tunneling microscopy magnetism, and other optical properties.  Also studied will be the application of quantum confinement to the electronic and optical properties of nanomaterials and the development of photonic materials.  The nanostructure of organic polymers, micelles, and the process of biomineralization to make organic-inorganic hybrid materials will also be discussed.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Radiochemistry and Detection with Lab",
@@ -672,23 +859,31 @@
             "description": "An introductory course in the applications of radionuclides in chemistry. Topics include radioactive decay, interactions of radiation with matter, radioactive tracers, and nuclear methods of analysis. Directed towards entering graduate students.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Radiochemistry",
             "number": "8610",
             "description": "Reviews current advances in radiochemistry, hot atom chemistry, radiation chemistry, nuclear spectrometry.",
-            "prerequisites": "CHEM 8600 or equivalent",
+            "prerequisites": "CHEM 8600 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 8600"
+            ]
         },
         {
             "name": "Nuclear Chemistry",
             "number": "8620",
             "description": "Designed for graduate students in chemistry and related fields. Studies nuclear reaction and nuclear properties.",
-            "prerequisites": "CHEM 3300, MATH 2300 or instructor's consent",
+            "prerequisites": "CHEM 3300, MATH 2300 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 3300",
+                "MATH 2300"
+            ]
         },
         {
             "name": "Radiopharmaceutical Chemistry",
@@ -696,7 +891,8 @@
             "description": "The radiotracer concept, history of nuclear medicine, radionuclide production, organic and inorganic chemistry of radiopharmaceutical chemistry, and applications will be discussed.  Graded on A-F basis only.",
             "prerequisites": "undergraduate organic and inorganic chemistry; graduate standing in chemistry or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Biological Radiochemistry",
@@ -704,7 +900,8 @@
             "description": "Covers the interaction of radiation on biological material  The effects of radiation overdose is discussed along with the use of radiation in therapy.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Post-candidacy Dissertation Research in Chemistry",
@@ -712,7 +909,8 @@
             "description": "Research leading to Ph.D. dissertation. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

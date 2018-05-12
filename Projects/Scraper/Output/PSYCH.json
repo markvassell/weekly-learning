@@ -8,7 +8,8 @@
             "description": "Survey of theories, principles, and methods in the study of human behavior.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "General Psychology - Honors",
@@ -16,7 +17,8 @@
             "description": "Survey of theories, principles, and methods in the study of human behavior.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology - Behavioral Science",
@@ -24,7 +26,8 @@
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester. This course carries behavioral science distribution credit for non-psychology majors.  Repeatable upon consent of department.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology - Honors - Behavioral Science",
@@ -32,7 +35,8 @@
             "description": "Organized study of selected topics in psychology. Particular topic and earnable credit may vary by semester. This course carries behavioral science distribution credit for non-psychology majors. Repeatable upon consent of department.",
             "prerequisites": "Honors eligibility required. This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology - Behavioral Science - Honors/Writing Intensive",
@@ -40,7 +44,8 @@
             "description": "Organized study of selected topics in psychology. Particular topic and earnable credit may vary by semester. This course carries behavioral science distribution credit for non-psychology majors. Repeatable upon consent of department.",
             "prerequisites": "Honors eligibility required. This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Applied Psychology",
@@ -48,7 +53,8 @@
             "description": "Surveys wide range of applications of psychology. Topics include social issues (prejudice and violence), applications to fields such as business and law, applications for personal improvement (improving memory), and others (sports, health, environment).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Orientation to the Psychology Major",
@@ -56,7 +62,8 @@
             "description": "This course is intended to help students choose the best major for themselves and to provide information on careers available to psychology majors.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology-General",
@@ -64,7 +71,8 @@
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester.  This course may not be used toward behavioral science distribution credit. Repeatable upon consent of department.",
             "prerequisites": "May be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "1-99",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology-Behavioral Science",
@@ -72,7 +80,8 @@
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester. This course carries behavioral science distribution credit for non-psychology majors.  Repeatable upon consent of department.",
             "prerequisites": "This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "1-99",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Learning, Memory, and Cognition",
@@ -80,7 +89,8 @@
             "description": "Students will gain an understanding of the fundamental principles of learning, memory and cognition, and will be able to recognize important historical figures and their contributions.  Students will also learn how the principles can be applied to their everyday lives.",
             "prerequisites": "This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Mind, Brain, and Behavior",
@@ -88,7 +98,8 @@
             "description": "Introduction to the structures and processes of the mind and the nervous system, including the psychobiology of eating, sleeping, emotion, stress and learning. No credit if taken after PSYCH 4210.    Recommended: PSYCH 1000",
             "prerequisites": "This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Drugs and Behavior",
@@ -96,7 +107,8 @@
             "description": "Basic principles of drug action on the nervous system; the effects of important psychoactive drugs; drug use and society.",
             "prerequisites": "This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Social Psychology",
@@ -104,7 +116,8 @@
             "description": "An introduction to how people's thoughts, feelings and behaviors are influenced by the actual or imagined thoughts, feelings and behaviors of others.",
             "prerequisites": "This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Personality",
@@ -112,7 +125,8 @@
             "description": "Personality is the scientific study of individual differences (e.g., traits, motives, abilities). This course reviews historical theoretical perspectives as well as current research. Students will have an opportunity to learn about on their own motives and traits.",
             "prerequisites": "This course may be restricted to undergraduate psychology majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Consumer Psychology",
@@ -120,7 +134,8 @@
             "description": "This course surveys how and why we engage in consumer activities and how we are affected by them.  We will survey many areas of psychology as they apply to influencing consumer purchase decisions.  We will also survey research examining the consequences of our consumption behavior.",
             "prerequisites": "This course may be restricted to undergraduate psychology majors",
             "hours": "3",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Developmental Psychology",
@@ -128,7 +143,8 @@
             "description": "Origins and development of child behavior, emphasizing basic physical, cognitive, affective and social processes, and theory and research rather than application or guidance.  Cannot receive credit for more than one of the following: PSYCH 2410, H_D_FS 2420 or H_D_FS 3420 or ESC_PS 2500.",
             "prerequisites": "This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Developmental Psychology - Honors",
@@ -136,7 +152,8 @@
             "description": "Origins and development of child behavior, emphasizing basic physical, cognitive, affective and social processes, and theory and research rather than application or guidance. Cannot receive credit for more than one of the following: PSYCH 2410, H_D_FS 2420 or H_D_FS 3420 or ESC_PS 2500.",
             "prerequisites": "Honors eligibility required.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of Abnormal Psychology",
@@ -144,7 +161,8 @@
             "description": "Basic survey of maladaptive human behavior and experience, including personality disorders, alcohol and drug abuse, anxiety and mood disorders, sexual dysfunctions, and thought disorders.",
             "prerequisites": "This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Human Sexuality",
@@ -152,7 +170,8 @@
             "description": "Survey of research on sexual behavior including sex norms, gender identity, sexual dysfunctions, sexual deviation, homosexuality, and legal aspects of sexual behavior. Attendance at small group discussions may be required at the option of the instructor.",
             "prerequisites": "This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Human-Companion Animal Interaction",
@@ -160,7 +179,8 @@
             "description": "Exploration of historical and theoretical bases of human-companion animal interaction (HAI), the nature issues, and clinical applications of HAI. Graded on A-F basis only.",
             "prerequisites": "May be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Internship in Psychology",
@@ -168,7 +188,8 @@
             "description": "Work experience in an organization that is relevant to the psychology major.",
             "prerequisites": "must be in good standing and have completed 9 credit hours in psychology; instructor's consent.  Intended for students with freshman or sophomore standing",
             "hours": "3-6",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Special Problems in Psychology",
@@ -176,239 +197,333 @@
             "description": "Research apprenticeship with a faculty member, assisting a faculty member in the development and execution of research. May be repeated to 6 hours maximum.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "PSYCH 1000"
+            "recommendation": "PSYCH 1000",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology-General",
             "number": "3001",
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester.  This course may not be used toward behavioral science distribution credit. Repeatable upon consent of department.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Topics in Psychology-Behavioral Science",
             "number": "3003",
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester. This course carries behavioral science distribution credit for non-psychology majors.  Repeatable upon consent of department.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Topics in Psychology-Behavioral Science",
             "number": "3003H",
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester. This course carries behavioral science distribution credit for non-psychology majors.  Repeatable upon consent of department.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration. Honors eligibility required",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration. Honors eligibility required",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Topics in Psychology-Behavioral Science - Writing Intensive",
             "number": "3003W",
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester. This course carries behavioral science distribution credit for non-psychology majors.  Repeatable upon consent of department.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Research Methods in Psychology I",
             "number": "3010",
             "description": "Introduction to scientific reasoning, assessing validity and reliability in research, and basic research methods.",
-            "prerequisites": "PSYCH 1000.  This course is restricted to psychology majors with sophomore standing and above",
+            "prerequisites": "PSYCH 1000.  This course is restricted to psychology majors with sophomore standing and above",
             "hours": "3PrerequisitesorCorequisites:concurrentenrollmentinSTAT 1200oragradeofCorbetterinSTAT 1200(oritsequivalent)",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Research Methods in Psychology I- Honors",
             "number": "3010H",
             "description": "Introduction to scientific reasoning, assessing validity and reliability in research, and basic research methods.",
-            "prerequisites": "PSYCH 1000; Honors eligibility required.  This course is restricted to psychology majors with sophomore standing and above",
+            "prerequisites": "PSYCH 1000; Honors eligibility required.  This course is restricted to psychology majors with sophomore standing and above",
             "hours": "3PrerequisitesorCorequisites:ConcurrentenrollmentinSTAT 1200oragradeofCorbetterinSTAT 1200(oritsequivalent)",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Research Methods in Psychology II",
             "number": "3020",
             "description": "Continuation of PSYCH 3010 and required for all further labs in psychology.",
-            "prerequisites": "MATH 1100 with a grade of C- or better or exemption, and PSYCH 1000, and a grade of C or better in PSYCH 3010 and STAT 1200 or exemption.  This course is restricted to junior and senior psychology majors",
+            "prerequisites": "MATH 1100 with a grade of C- or better or exemption, and PSYCH 1000, and a grade of C or better in PSYCH 3010 and STAT 1200 or exemption.  This course is restricted to junior and senior psychology majors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100",
+                "PSYCH 1000",
+                "PSYCH 3010",
+                "STAT 1200"
+            ]
         },
         {
             "name": "Research Methods in Psychology II - Honors",
             "number": "3020H",
             "description": "Continuation of PSYCH 3010 and required for all further labs in psychology.",
-            "prerequisites": "grade of C or better in PSYCH 3010 and STAT 1200 (or its equivalent). Honors eligibility required.  This course is restricted to junior and senior Psychology majors",
+            "prerequisites": "grade of C or better in PSYCH 3010 and STAT 1200 (or its equivalent). Honors eligibility required.  This course is restricted to junior and senior Psychology majors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 3010",
+                "STAT 1200"
+            ]
         },
         {
             "name": "Theories of Learning",
             "number": "3110",
             "description": "Discusses classical issues and theories in learning and conditioning, and considers them in contemporary form.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Theories of Learning - Writing Intensive",
             "number": "3110W",
             "description": "Discusses classical issues and theories in learning and conditioning, and considers them in contemporary form.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Decisions, Values and Choice",
             "number": "3130",
             "description": "Survey of factors influencing choices and decisions. Topics include cause and effect decisions, values and ethical considerations, outcome likelihood, biases and heuristics, concept formation, self-control and impulsiveness, and social factors.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Cognitive Psychology",
             "number": "3140",
             "description": "A survey of psychological theory and research on human cognition.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Human Memory",
             "number": "3150",
             "description": "Surveys research on human memory, including basic laboratory studies with normal subjects as well as research on amnesia and other memory impairments, life-span memory development, and the cognitive neuroscience of memory.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Perception and Thought",
             "number": "3160",
             "description": "Covers research on various aspects of mental life: language, problem-solving, decision-making, sensory perception.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Intergroup Relations",
             "number": "3310",
             "description": "Provides an overview of the social psychological literature on stereotyping, prejudice, discrimination, and intergroup relations. Students learn theoretical frameworks and research findings regarding the development and maintenance of intergroup conflict.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Positive Psychology",
             "number": "3350",
             "description": "This course introduces students to the science of positive psychology, including its origin and the historical imbalances it addresses within the broader field of psychology. A wide variety of topics are covered, including happiness, materialism, purpose, flow, courage, humility, positive emotions, curiosity, mindfulness, savoring, gratitude, forgiveness, personal strengths, resilience, and compassion. Psychology majors cannot receive credit for both PSYCH 3350 and ESC_PS 4200.",
-            "prerequisites": "PSYCH 1000, This course may be restricted to Undergraduate Psychology Majors during early registration",
+            "prerequisites": "PSYCH 1000, This course may be restricted to Undergraduate Psychology Majors during early registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Automatic Social Judgments",
             "number": "3360",
             "description": "In this course we will survey the area of social psychology dealing with automatic social judgments, including an introduction to the topic, review of techniques used to measure automatic social judgments, and discussion of applications of automatic social judgment research. Graded on A-F basis only.",
-            "prerequisites": "PSYCH 1000. This course may be restricted to Psychology majors through early registration",
+            "prerequisites": "PSYCH 1000. This course may be restricted to Psychology majors through early registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "The Science of Mindfulness",
             "number": "3370",
             "description": "To gain breadth and depth in understanding the empirical research on mindfulness and contemplative practices. To do well in the course, students must master the substantive content, psychological methodology, APA-style writing, peer-review, and presentation skills. Graded on A-F basis only.",
-            "prerequisites": "PSYCH 1000 and a grade of C or better in PSYCH 3010. This course may be restricted to psychology majors through early registration",
+            "prerequisites": "PSYCH 1000 and a grade of C or better in PSYCH 3010. This course may be restricted to psychology majors through early registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000",
+                "PSYCH 3010"
+            ]
         },
         {
             "name": "The Science of Mindfulness - Writing Intensive",
             "number": "3370W",
             "description": "To gain breadth and depth in understanding the empirical research on mindfulness and contemplative practices. To do well in the course, students must master the substantive content, psychological methodology, APA-style writing, peer-review, and presentation skills. Graded on A-F basis only.",
-            "prerequisites": "PSYCH 1000 and a grade of C or better in PSYCH 3010. This course may be restricted to psychology majors through early registration",
+            "prerequisites": "PSYCH 1000 and a grade of C or better in PSYCH 3010. This course may be restricted to psychology majors through early registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000",
+                "PSYCH 3010"
+            ]
         },
         {
             "name": "Cognitive Development in Childhood",
             "number": "3420",
             "description": "Theories and research on cognitive development in childhood.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Social Development in Childhood",
             "number": "3430",
             "description": "Overview of children's social and emotional development (infancy-adolescence), includes changes in social domains, impact of social functioning on subsequent development, and influence of interpersonal contexts (e.g., family, peers, community) on children's development.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Social Development in Childhood - Writing Intensive",
             "number": "3430W",
             "description": "Overview of children's social and emotional development (infancy-adolescence), includes changes in social domains, impact of social functioning on subsequent development, and influence of interpersonal contexts (e.g., family, peers, community) on children's development.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Women's Professional Development",
             "number": "3440",
             "description": "This class takes a lifespan developmental perspective in regards to understanding challenges in women's professional development. Topics include: perceptions and stereotypes of successful women, division of labor in families (housework versus paid work), motherhood and the work place, social policies for working parents, girls' and boys' interests in STEM professions, and gender and workplace economics (starting salaries, negotiation, the gender pay gap). Graded on A-F basis only.",
-            "prerequisites": "PSYCH 1000. This course may be restricted to undergraduate psychology majors through early registration",
+            "prerequisites": "PSYCH 1000. This course may be restricted to undergraduate psychology majors through early registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Women's Professional Development - Honors",
             "number": "3440H",
             "description": "This class takes a lifespan developmental perspective in regards to understanding challenges in women's professional development. Topics include: perceptions and stereotypes of successful women, division of labor in families (housework versus paid work), motherhood and the work place, social policies for working parents, girls' and boys' interests in STEM professions, and gender and workplace economics (starting salaries, negotiation, the gender pay gap).  Graded on A-F basis only.",
-            "prerequisites": "PSYCH 1000; Honors eligibility required. This course may be restricted to undergraduate psychology majors through early registration",
+            "prerequisites": "PSYCH 1000; Honors eligibility required. This course may be restricted to undergraduate psychology majors through early registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Introduction to Clinical Psychology",
             "number": "3510",
             "description": "Comprehensive survey of the field's historical roots, research methods, concepts of abnormality, assessment and intervention methods; also specialties that constitute clinical psychology.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Introduction to Clinical Psychology - Writing Intensive",
             "number": "3510W",
             "description": "Comprehensive survey of the field's historical roots, research methods, concepts of abnormality, assessment and intervention methods; also specialties that constitute clinical psychology.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Health Psychology",
             "number": "3830",
             "description": "A hands-on approach to the study of health psychology including research on a topic of current relevance to the field.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Individual Differences",
             "number": "3840",
             "description": "Surveys individual and group differences.  Contributions of various factors to variations in behavior.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Law and Psychological Science",
             "number": "3860",
             "description": "This survey course examines the interactions of law and psychology across the justice system.  Emphasis is placed on how psychological research does (and does not) inform important legal issues.  Requirements may include an in-class team debate of relevant controversy in law.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Sleep and Sleep Disorders",
@@ -416,15 +531,19 @@
             "description": "This course provides a critical review of the current research on both normal sleep and sleep disorders.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African-American Psychology",
             "number": "3880",
             "description": "(Same as BL_STU 3100 and ESC_PS 3100). The research, theories and paradigms developed to understand the attitudes, behaviors and psychosocial realities of African-Americans are discussed. Graded on A-F basis only.",
-            "prerequisites": "PSYCH 1000. This course may be restricted to Undergraduate Psychology Majors through Early Registration",
+            "prerequisites": "PSYCH 1000. This course may be restricted to Undergraduate Psychology Majors through Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Topics in Psychology-General",
@@ -432,23 +551,30 @@
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester.  This course may not be used toward behavioral science distribution credit. Repeatable upon consent of department. Enrollment limited to students who have completed PSYCH 1000.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology-Behavioral Science",
             "number": "4003",
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester. This course carries behavioral science distribution credit for non-psychology majors.  Repeatable upon consent of department.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Topics in Psychology-Behavioral Science - Writing Intensive",
             "number": "4003W",
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester. This course carries behavioral science distribution credit for non-psychology majors.  Repeatable upon consent of department.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Topics in Psychology Capstone",
@@ -456,7 +582,8 @@
             "description": "Students review, evaluate and conduct research on selected topics in psychology. The particular topic will vary by semester and instructor. Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020. Graded on A-F basis only.",
             "prerequisites": "Instructor's consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology Capstone - Writing Intensive",
@@ -464,111 +591,153 @@
             "description": "Students review, evaluate and conduct research on selected topics in psychology. The particular topic will vary by semester and instructor. Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020. Graded on A-F basis only.",
             "prerequisites": "Instructor's consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Perception",
             "number": "4110",
             "description": "Data and contemporary theories of perception in all of the senses, with emphasis on visual and auditory perception.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Physiological Psychology",
             "number": "4210",
             "description": "An introduction to neuroscience with an overview of the relation between the brain and behavior.  Topics include intercellular communication, drugs and reward, emotions and stress psychoimmunology, psychopathology, nervous system development and repair, perception, cognition, learning and memory.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Animal Learning and Behavior",
             "number": "4220",
             "description": "Survey of animal behavior and learning abilities, including topics such as learning, habitat selection, foraging, problem solving, mating, communication, conditioning and memory.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Cognitive Neuroscience",
             "number": "4240",
             "description": "The neural basis of human information processing in memory, attention, perception, imagery, movement, and language.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 2210 and PSYCH 4210"
+            "recommendation": "PSYCH 2210 and PSYCH 4210",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Attitude Change",
             "number": "4340",
             "description": "Theories, methods, and experimental findings in attitude change research.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Stereotypes and Prejudice",
             "number": "4350",
             "description": "This course provides an overview of theory and research on stereotypes, prejudice, and discrimination from a social-psychological perspective.  Course material comes primarily from textbook and supplementary readings, in addition to videos related to these topics.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Social Cognition",
             "number": "4360",
             "description": "The overarching goal of this course is to provide an overview of current research and theory in social cognition. If there is a running theme to this course, it is in the use of \"top down\" processes in how we construct an understanding of the world around us. That is, we use our past experiences and memories to interpret new experiences, people and behavior. This fact does not dictate whether that understanding is accurate or not. However, social psychologists have historically been interested in the ways that this process leads to errors or biases in a vast array of human endeavors. This perspective has had a strong impact on the trajectory of social cognition.  Graded on A-F basis only.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to undergraduate Psychology majors during early registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to undergraduate Psychology majors during early registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Personality Development",
             "number": "4420",
             "description": "This course covers the topic of temperament and personality development through the lifespan with particular focus on infancy, childhood, and adolescence.  Coverage includes classic and contemporary theories and classic and contemporary research.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Sex Differences",
             "number": "4440",
             "description": "This course covers the evolution of sex differences and hormonal and environmental influences on their expressions in nonhuman species.  These insights are used to understand human sex differences in mate choices, emotions, development, brain and cognition, and in modern societies.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Behavior Genetics",
             "number": "4520",
             "description": "(cross-leveled with PSYCH 7520). The study of genetic influences on behavioral traits such as mood, personality, intelligence, mental health, or activity level.",
-            "prerequisites": "PSYCH 1000; Grade of C or better in PSYCH 3010 and STAT 1200 or higher.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000; Grade of C or better in PSYCH 3010 and STAT 1200 or higher.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000",
+                "PSYCH 3010",
+                "STAT 1200"
+            ]
         },
         {
             "name": "Research in Psychopathology",
             "number": "4530",
             "description": "Intensive survey and evaluation of the psychological literature on abnormal behavior, emphasizes experimental and explanatory approaches.",
-            "prerequisites": "PSYCH 1000. This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000. This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Emotional Disorders in Childhood and Adolescence",
             "number": "4540",
             "description": "Surveys disturbed behavioral development during childhood and adolescence, emphasizing factors that produce deviation from normal developmental patterns.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 2410"
+            "recommendation": "PSYCH 2410",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Schizophrenia",
             "number": "4560",
             "description": "This course will examine one of the most severe, debilitating, and complex mental disorders.  We will review the major symptoms and clinical features of schizophrenia, explore possible causes of Psychology disorder, and critically assess treatments for the disorder.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Pediatric Neuropsychology",
@@ -576,63 +745,86 @@
             "description": "Introduction to the field of pediatric neuropsychology and the study of individuals with early brain dysfunction.  Common central nervous system disorders of childhood (e.g. autism, ADHD, epilepsy) will be discussed.",
             "prerequisites": "This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "PSYCH 1000, PSYCH 2210 or PSYCH 4240"
+            "recommendation": "PSYCH 1000, PSYCH 2210 or PSYCH 4240",
+            "connections": "None Listed"
         },
         {
             "name": "Externalizing Spectrum Disorders",
             "number": "4580",
             "description": "The purpose of this course is to provide an overview of the symptoms, etiology, and treatment of psychiatric disorders that fall within the externalizing spectrum, including Attention-Deficit Hyperactivity Disorder, Oppositional Defiant Disorder, Conduct Disorder, Alcohol and other Substance Use Disorders, and Antisocial Personality Disorder. This course will attempt to provide an overview of key issues and topics related to the classification of psychiatric disorders and how research in this area has led to current conceptualizations of the externalizing spectrum. Graded on A-F basis only.",
-            "prerequisites": "PSYCH 1000. This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000. This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Autism Mentor Program",
             "number": "4590",
             "description": "The Autism Mentor Program and its accompanying course are designed to educate and train student mentors to be of assistance to their peers on the autism spectrum. The student will have an opportunity to participate in class and interact weekly with their mentee in a practical learning environment. Graded on A-F basis only.",
-            "prerequisites": "PSYCH 1000 or PSYCH 2510",
+            "prerequisites": "PSYCH 1000 or PSYCH 2510",
             "hours": "1-2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000",
+                "PSYCH 2510"
+            ]
         },
         {
             "name": "Cross-Cultural Psychology",
             "number": "4815",
             "description": "This course aims to explore relationships between cultural variables and human behavior, and to look at recent attempts by cross-cultural psychologists to devise theories that reflect the cultural, social and developmental perspectives on behavior.",
-            "prerequisites": "PSYCH 1000.  This course is restricted to juniors and seniors",
+            "prerequisites": "PSYCH 1000.  This course is restricted to juniors and seniors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Cross-Cultural Psychology - Honors",
             "number": "4815H",
             "description": "The Cross-cultural Psychology course aims to explore relationships between cultural variables and human behavior, and to look at recent attempts by cross-cultural psychologists to devise theories that reflect the cultural, social and developmental perspectives on behavior.",
-            "prerequisites": "PSYCH 1000; Honors eligibility required. Restricted to sophomores and above",
+            "prerequisites": "PSYCH 1000; Honors eligibility required. Restricted to sophomores and above",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Psychology at the Movies",
             "number": "4825",
             "description": "In this course we watch and discuss films from multiple psychological perspectives.  Connections are made between cinematic content and contemporary psychological research on culture and diversity.  Race, Gender, Disability, Class, and LGBT issues in movies are explored.",
-            "prerequisites": "PSYCH 1000. Restricted to juniors and seniors",
+            "prerequisites": "PSYCH 1000. Restricted to juniors and seniors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Psychology of Women",
             "number": "4830",
             "description": "(same as WGST 4830).   Overview of current theories and research relating to the psychology of women.  Topics include gender stereotyping, psychological sex differences, achievement motivation in women, and women and mental health.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "The History of Psychology",
             "number": "4840",
             "description": "Historical foundations of contemporary psychology.",
-            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
+            "prerequisites": "PSYCH 1000.  This course may be restricted to Undergraduate Psychology Majors during Early Registration",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Internship in Psychology",
@@ -640,7 +832,8 @@
             "description": "Work experience in an organization that is relevant to the psychology major.  Enrollment limited to students who are in good standing and have completed 9 credit hours in psychology.  Intended for students with junior or senior standing.",
             "prerequisites": "Instructor's consent required",
             "hours": "3-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Internship in Psychology - Writing Intensive",
@@ -648,7 +841,8 @@
             "description": "Work experience in an organization that is relevant to the psychology major.  Enrollment limited to students who are in good standing and have completed 9 credit hours in psychology.  Intended for students with junior or senior standing.",
             "prerequisites": "Instructor's consent required",
             "hours": "3-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Problems in Psychology",
@@ -656,7 +850,8 @@
             "description": "Independent investigation leading to a project or paper. Repeatable upon consent of department.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Readings in Psychology",
@@ -664,15 +859,19 @@
             "description": "Independent readings selected in consultation with supervisory faculty member. Repeatable upon consent of department.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Psychological Measurement Capstone",
             "number": "4970",
             "description": "Survey of theories and methods of psychological test construction, focusing on measures of intelligence and personality. Lab component involves experimental training in test construction and test evaluation.",
-            "prerequisites": "Grade of C or better in PSYCH 3020.  This course is restricted to psychology majors with senior standing. Consent required",
+            "prerequisites": "Grade of C or better in PSYCH 3020.  This course is restricted to psychology majors with senior standing. Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 3020"
+            ]
         },
         {
             "name": "Developmental Psychology Capstone",
@@ -680,7 +879,8 @@
             "description": "Introduces students to developmental research methods through relevant readings and by students conducting original research. Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Developmental Psychology Capstone - Writing Intensive",
@@ -688,7 +888,8 @@
             "description": "Introduces students to developmental research methods through relevant readings and by students conducting original research. Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Animal Learning Capstone",
@@ -696,7 +897,8 @@
             "description": "Survey of principles of animal behavior and animal learning and cognition. The course includes laboratory projects on research in animal behavior and animal learning. Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "Department consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Animal Learning Capstone - Writing Intensive",
@@ -704,7 +906,8 @@
             "description": "Survey of principles of animal behavior and animal learning and cognition. The course includes laboratory projects on research in animal behavior and animal learning. Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Cognition Capstone",
@@ -712,7 +915,8 @@
             "description": "Students review, evaluate and conduct research on various aspects of human cognition. Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "Department consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Cognition Capstone - Writing Intensive",
@@ -720,23 +924,30 @@
             "description": "Students review, evaluate and conduct research on various aspects of human cognition. Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Human Senses Capstone",
             "number": "4974",
             "description": "Psychophysical data, sense organs, psychological attributes, and theories of vision, hearing, and the vestibular (motion) senses. Elementary aspects of psychophysics.",
-            "prerequisites": "grade of C better in PSYCH 3020.  This course is restricted to psychology majors with senior standing. Department Consent",
+            "prerequisites": "grade of C better in PSYCH 3020.  This course is restricted to psychology majors with senior standing. Department Consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 3020"
+            ]
         },
         {
             "name": "The Human Senses Capstone - Writing Intensive",
             "number": "4974W",
             "description": "Psychophysical data, sense organs, psychological attributes, and theories of vision, hearing, and the vestibular (motion) senses. Elementary aspects of psychophysics.",
-            "prerequisites": "grade of C better in PSYCH 3020.  This course is restricted to psychology majors with senior standing. Consent required",
+            "prerequisites": "grade of C better in PSYCH 3020.  This course is restricted to psychology majors with senior standing. Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 3020"
+            ]
         },
         {
             "name": "Social/Personality Capstone",
@@ -744,7 +955,8 @@
             "description": "Experimental methods course emphasizing research in social psychology.  Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Social/Personality Capstone - Writing Intensive",
@@ -752,7 +964,8 @@
             "description": "Experimental methods course emphasizing research in social psychology.  Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Independent Research Capstone I",
@@ -760,7 +973,8 @@
             "description": "Individual thesis on a topic selected with a faculty advisor. Student projects are carried out over the course of two semesters (with PSYCH 4977) and presented as posters in a spring conference. Weekly class discussions of student progress.  For students who plan to pursue a PhD in Psychology or Neuroscience. Enrollment limited to psychology majors with senior standing who have taken PSYCH 3020.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Honors Research Capstone I",
@@ -768,7 +982,8 @@
             "description": "Individual thesis on a topic selected with a faculty advisor. Student projects are carried out over the course of two semesters (with PSYCH 4977H) and presented as posters in a spring conference. Weekly class discussions of student progress. For students who plan to pursue a PhD in Psychology or Neuroscience. Enrollment limited to psychology majors with senior standing, honors eligibility, a cumulative GPA of 3.5, who have taken PSYCH 3020.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Honors Research Capstone I - Honors/Writing Intensive",
@@ -776,7 +991,8 @@
             "description": "Individual thesis on a topic selected with a faculty advisor. Student projects are carried out over the course of two semesters (with PSYCH 4977HW) and presented as posters in a spring conference. Weekly class discussions of student progress. For students who plan to pursue a PhD in Psychology or Neuroscience. Enrollment limited to psychology majors with senior standing, honors eligibility, a cumulative GPA of 3.5, who have taken PSYCH 3020.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Independent Research Capstone I - Writing Intensive",
@@ -784,7 +1000,8 @@
             "description": "Individual thesis on a topic selected with a faculty advisor. Student projects are carried out over the course of two semesters (with PSYCH 4977W) and presented as posters in a spring conference. Weekly class discussions of student progress.  For students who plan to pursue a PhD in Psychology or Neuroscience. Enrollment limited to psychology majors with senior standing who have taken PSYCH 3020.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Independent Research Capstone II",
@@ -792,7 +1009,8 @@
             "description": "Continuation of PSYCH 4976. Completion of research project, presentation of poster in a spring conference. Weekly class discussions of student progress. Enrollment limited to psychology majors with senior standing who have completed PSYCH 4976.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Honors Research Capstone II",
@@ -800,7 +1018,8 @@
             "description": "Continuation of PSYCH 4976H. Completion of research project, presentation of poster in a spring conference. Weekly class discussions of student progress.  Enrollment limited to psychology majors with senior standing, honors eligibility, a cumulative GPA of 3.5, who have completed PSYCH 4976H.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Honors Research Capstone II - Honors/Writing Intensive",
@@ -808,7 +1027,8 @@
             "description": "Continuation of PSYCH 4976HW. Completion of research project, presentation of poster in a spring conference. Weekly class discussions of student progress.  Enrollment limited to psychology majors with senior standing, honors eligibility, a cumulative GPA of 3.5, who have completed PSYCH 4976HW.",
             "prerequisites": "Consent required.  Honors Eligibility Required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Independent Research Capstone II - Writing Intensive",
@@ -816,7 +1036,8 @@
             "description": "Continuation of PSYCH 4976W. Completion of research project, presentation of poster in a spring conference. Weekly class discussions of student progress. Enrollment limited to psychology majors with senior standing who have completed PSYCH 4976W.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Psychology Capstone",
@@ -824,7 +1045,8 @@
             "description": "Students work at assigned agencies to gain \"real-world\" experience in the practice of psychology and attend regularly scheduled class meetings in order to integrate their academic knowledge with their practical experience.  Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "Departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Psychology Capstone - Writing Intensive",
@@ -832,7 +1054,8 @@
             "description": "Students work at assigned agencies to gain \"real-world\" experience in the practice of psychology and attend regularly scheduled class meetings in order to integrate their academic knowledge with their practical experience.  Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "Departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Judgement and Decision Making Capstone",
@@ -840,7 +1063,10 @@
             "description": "This course examines the psychology of human judgement and decision-making.  We will discuss major theories, methods and basic experimental findings and identify how those findings are being used to develop public policy or in applied settings.",
             "prerequisites": "grade of C or better in PSYCH 2030; This course is restricted to psychology majors with senior standing. Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 2030"
+            ]
         },
         {
             "name": "Judgement and Decision Making Capstone - Writing Intensive",
@@ -848,7 +1074,10 @@
             "description": "This course examines the psychology of human judgement and decision-making.  We will discuss major theories, methods and basic experimental findings and identify how those findings are being used to develop public policy or in applied settings.",
             "prerequisites": "grade of C or better in PSYCH 2030; This course is restricted to psychology majors with senior standing. Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 2030"
+            ]
         },
         {
             "name": "Human Relationships Capstone",
@@ -856,7 +1085,8 @@
             "description": "Students design a study, collect data, and describe their research on some aspect of human relationships.  Emphasis on survey research techniques.  Enrollment limited to psychology majors with senior standing, a grade of C or better in PSYCH 3020, PSYCH 2810 or two social/personality courses.",
             "prerequisites": "Departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Relationships Capstone - Writing Intensive",
@@ -864,7 +1094,8 @@
             "description": "Students design a study, collect data, and describe their research on some aspect of human relationships.  Emphasis on survey research techniques.  Enrollment limited to psychology majors with senior standing, a grade of C or better in PSYCH 3020, PSYCH 2810 or two social/personality courses.",
             "prerequisites": "Departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Developmental Psychology Capstone I",
@@ -872,7 +1103,8 @@
             "description": "Students propose a study to be conducted with preschool children.  The course teaches skills needed to develop research questions, develop a coding system, and write a research proposal that reviews past literature in a way that makes the case for the importance of the project. Graded on A-F basis only.  Enrollment limited to psychology majors with senior standing and a grade of C or better in PSYCH 3020.",
             "prerequisites": "Departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Developmental Psychology Capstone I - Writing Intensive",
@@ -880,7 +1112,8 @@
             "description": "Students propose a study to be conducted with preschool children.  The course teaches skills needed to develop research questions, develop a coding system, and write a research proposal that reviews past literature in a way that makes the case for the importance of the project. Graded on A-F basis only.  Enrollment limited to psychology majors with senior standing and a grade of C or better in PSYCH 3020.",
             "prerequisites": "Departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Developmental Psychology II",
@@ -888,7 +1121,8 @@
             "description": "Students conduct a research project involving observations of preschool children.  The course teaches skills needed to collect data, analyze data, and write a research report.  These skills provide excellent preparation for graduate school in psychology or a related field. Graded on A-F basis only.  Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "Departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Developmental Psychology II - Writing Intensive",
@@ -896,7 +1130,8 @@
             "description": "Students conduct a research project involving observations of preschool children.  The course teaches skills needed to collect data, analyze data, and write a research report.  These skills provide excellent preparation for graduate school in psychology or a related field. Graded on A-F basis only.  Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "Departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Consumer Psychology Capstone",
@@ -904,7 +1139,8 @@
             "description": "This course examines numerous social and psychological issues related to the area of consumer psychology. The course begins by examining how media exposure influences consumption, prejudice in marketing and advertising, and the question of whether children should be targets of marketing strategies. The second section examines how consumption can be influenced by unconscious and automatic factors. The third section examines unhealthy forms of consumption and consumption's relationship to well being. The fourth section focuses on ethical and social responsibility issues like consumption's impact on the environment and the voluntary simplicity movement. The last section of the course is devoted to student presentations of term papers.  Graded on A-F basis only.  Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Consumer Psychology Capstone - Writing Intensive",
@@ -912,7 +1148,8 @@
             "description": "This course examines numerous social and psychological issues related to the area of consumer psychology. The course begins by examining how media exposure influences consumption, prejudice in marketing and advertising, and the question of whether children should be targets of marketing strategies. The second section examines how consumption can be influenced by unconscious and automatic factors. The third section examines unhealthy forms of consumption and consumption's relationship to well being. The fourth section focuses on ethical and social responsibility issues like consumption's impact on the environment and the voluntary simplicity movement. The last section of the course is devoted to student presentations of term papers.  Graded on A-F basis only.  Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020.",
             "prerequisites": "Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Promoting Social Justice, Diversity, and Inclusion Capstone",
@@ -920,7 +1157,8 @@
             "description": "This course is an advanced exploration of diversity and social justice in the United States and provides students with a framework for understanding specific forms and the interlocking systems of oppression; a process to explore how oppression affects our lives; a pedagogical framework for teaching and training about concepts of oppression and diversity; and an application of these ideologies and skills in community settings. Enrollment limited to psychology majors with senior standing who have a grade of C or better in PSYCH 3020. Graded on A-F basis only.",
             "prerequisites": "Department Consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology - General",
@@ -928,7 +1166,8 @@
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester.  Graduate credit will be earned through additional reading and assignments.",
             "prerequisites": "instructor's consent; departmental consent for repetition",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology - Behavioral Science",
@@ -936,7 +1175,8 @@
             "description": "Organized study of selected topics in psychology.  Particular topic and earnable credit may vary by semester.  Graduate credit will be earned through additional reading and assignments.",
             "prerequisites": "instructor's consent; departmental consent for repetition",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Psychology",
@@ -944,7 +1184,8 @@
             "description": "Advanced studies to meet needs of individual student. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Perception",
@@ -952,31 +1193,41 @@
             "description": "(cross-leveled with PSYCH 4110). Data and contemporary theories of perception in all of the senses, with emphasis on visual and auditory perception.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physiological Psychology",
             "number": "7210",
             "description": "An introduction to neuroscience giving an overview of the relation between the brain and behavior.  Topics include intercellular communication, drugs and reward, emotions and stress psychoimmunology, psychopathology, nervous system development and repair, perception, cognition, learning and memory.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Attitude Change",
             "number": "7340",
             "description": "Theories, methods, and experimental findings in attitude change research.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Personality Development",
             "number": "7420",
             "description": "This course covers the topic of temperament and personality development through the lifespan with particular focus on infancy, childhood, and adolescence.  Coverage includes classic and contemporary theories and classic and contemporary research.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Behavior Genetics",
@@ -984,63 +1235,85 @@
             "description": "(cross-leveled with PSYCH 4520). The study of genetic influences on behavioral traits such as mood, personality, intelligence, mental health, or activity level.",
             "prerequisites": "departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Psychopathology",
             "number": "7530",
             "description": "Intensive survey and evaluation of the psychological literature on abnormal behavior, emphasizes experimental and explanatory approaches.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Introduction to Clinical Psychology",
             "number": "7550",
             "description": "Comprehensive survey of the field's historical roots, research methods, concepts of abnormality, assessment and intervention methods; also specialties that constitute clinical psychology.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Schizophrenia",
             "number": "7560",
             "description": "Examines symptoms, possible causes, and treatments of schizophrenia.  Goals include understanding psychopathology by examining one disorder and reviewing cutting edge psychology and clinical science research being used to understand schizophrenia.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Industrial/Organizational Psychology",
             "number": "7810",
             "description": "Survey of basic and applied personnel and organizational psychology. Focus on the human relations field, job satisfaction, leadership, group dynamics and formal organizational structures within the realm of industry.",
-            "prerequisites": "PSYCH 3010",
+            "prerequisites": "PSYCH 3010",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 3010"
+            ]
         },
         {
             "name": "Cross-Cultural Psychology",
             "number": "7815",
             "description": "This course aims to explore relationships between cultural variables and human behavior, and to look at recent attempts by cross-cultural psychologists to devise theories that reflect the cultural, social and developmental perspectives on behavior.",
-            "prerequisites": "PSYCH 1000 and departmental consent",
+            "prerequisites": "PSYCH 1000 and departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Psychology of Women",
             "number": "7830",
             "description": "Overview of current theories and research relating to the psychology of women. Topics include gender stereotyping, psychological sex differences, achievement motivation in women, and women and mental health.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "The History of Psychology",
             "number": "7840",
             "description": "Historical foundations of contemporary psychology.",
-            "prerequisites": "PSYCH 1000",
+            "prerequisites": "PSYCH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Topics in Psychology-General",
@@ -1048,7 +1321,8 @@
             "description": "Organized study of selected topics in psychology. Particular topic and earnable credit may vary by semester.",
             "prerequisites": "instructor's consent, departmental consent for repetition",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Psychology - Non-Thesis",
@@ -1056,7 +1330,8 @@
             "description": "Research in psychology not leading to thesis.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Psychology",
@@ -1064,7 +1339,8 @@
             "description": "Advanced studies to meet needs of individual student. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Psychology - Thesis",
@@ -1072,7 +1348,8 @@
             "description": "Research in psychology leading to thesis.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cognitive Psychology",
@@ -1080,7 +1357,8 @@
             "description": "Focuses on basic research on human perception, memory, attention, language, and thought.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Functional Neuroscience",
@@ -1088,7 +1366,8 @@
             "description": "Basic techniques, data and theory in the neurosciences applied to the study of psychopathology, psychopharmacology, neural development, brain damage, memory and other areas of \"behavior.\"",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of Social Psychology",
@@ -1096,7 +1375,8 @@
             "description": "Survey of historical and contemporary theory and research in affiliation, attribution, social comparison, attitude change and group dynamics.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Psychology of Development",
@@ -1104,7 +1384,8 @@
             "description": "Principles, theories, research in normal human development.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cognitive Development",
@@ -1112,7 +1393,8 @@
             "description": "(same as H D FS 8420). An introduction to central theories and issues in the study of cognitive development in infancy and childhood. Emphasis is on major theoretical frameworks for studying cognitive development, and topics such as perception, memory, language, categorization, and reasoning.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Temperament and Personality Development",
@@ -1120,7 +1402,8 @@
             "description": "(same as H_D_FS 8430). Intended for graduate students in psychology and related fields.  This course is a survey of theory and research in the area of temperament and personality development, with emphasis on child development.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Social and Emotional Development",
@@ -1128,7 +1411,8 @@
             "description": "(same as H_D_FS 8440). There are two major objectives for this course.  The first is a \"content\" objective and involves familiarizing students with theory and research regarding social, emotional, and personality development in childhood and adolescence and also regarding the relationships in which such development takes place.  The second objective is a \"process\" objective and involves enhancing students skills at interpreting empirical research, identifying gaps in the literature, and identifying research strategies for addressing those gaps.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Developmental Psychopathology",
@@ -1136,7 +1420,8 @@
             "description": "Etiology, diagnosis, and treatment of disordered behavior from infancy through adolescence. Emphasizes contrasting theories and research issues.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Adult Psychopathology",
@@ -1144,7 +1429,8 @@
             "description": "Problems of etiology, diagnosis, treatment in psychopathology. Considers theory, research, case histories.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Experimental Psychopathology",
@@ -1152,7 +1438,8 @@
             "description": "Critical examination of current theories, with special emphasis on empirical studies in psychopathology including such topics as alcoholism, enuresis, sexual deviancy, drug addiction, mental retardation.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Motivation",
@@ -1160,7 +1447,8 @@
             "description": "Survey of historical and contemporary theories and models of human motivation.  Major emphasis on different levels of motivational analysis.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Personality Psychology",
@@ -1168,23 +1456,31 @@
             "description": "Graduate-level introduction to the field of personality psychology, including readings and discussion of both classic and contemporary works.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "General Linear Models in Psychology I",
             "number": "8710",
             "description": "Principles of interval estimation and hypothesis testing, scalar and matrix forms of simple and multiple regression with continuous and categorical predictors, regression diagnostics.",
-            "prerequisites": "undergraduate course in statistics; concurrent enrollment in PSYCH 8730; instructor's consent",
+            "prerequisites": "undergraduate course in statistics; concurrent enrollment in PSYCH 8730; instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 8730"
+            ]
         },
         {
             "name": "General Linear Models in Psychology II",
             "number": "8720",
             "description": "Complex analysis of variance; experimental design.",
-            "prerequisites": "PSYCH 8710 or equivalent, concurrent enrollment in PSYCH 8730; instructor's consent",
+            "prerequisites": "PSYCH 8710 or equivalent, concurrent enrollment in PSYCH 8730; instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 8710",
+                "PSYCH 8730"
+            ]
         },
         {
             "name": "Statistical Software Packages",
@@ -1192,7 +1488,8 @@
             "description": "Computer implementation of data management and statistical analysis. Covers elementary computer operations, data entry and quality control, and computer implementation of statistical models covered in PSYCH 8710 and PSYCH 8720.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Responsible Conduct of Research",
@@ -1200,7 +1497,8 @@
             "description": "This course exposes students to important concepts in the responsible conduct of research. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Social and Behavioral Sciences in Public Health",
@@ -1208,7 +1506,8 @@
             "description": "(same as P_HLTH 8920). This course will take both a theoretical and a practical approach to understanding health-related behavior and the field of public health.  Students will gain an understanding of theory and empirical research in the social and behavioral sciences, as well as developing practical skills in critically evaluating research and in applying scientific evidence to address real world health concerns.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Psychology-General",
@@ -1216,7 +1515,8 @@
             "description": "Organized study of selected topics in psychology. Particular topic and earnable credit may vary by semester.",
             "prerequisites": "instructor's consent, departmental consent for repetition",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Psychology - Non-Dissertation",
@@ -1224,7 +1524,8 @@
             "description": "Research in Psychology not leading to dissertation. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Psychology",
@@ -1232,7 +1533,8 @@
             "description": "Advanced studies to meet needs of individual student. Graded on S/U basis only.",
             "prerequisites": "instructor's consent.  Departmental consent for repetition",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Psychology - Dissertation",
@@ -1240,23 +1542,31 @@
             "description": "Research in Psychology leading to dissertation.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Experimental Psychology",
             "number": "9110",
             "description": "Critical consideration of selected research in neuroscience and cognitive psychology.",
-            "prerequisites": "PSYCH 4972 or PSYCH 4973; departmental consent for repetition; instructor's consent",
+            "prerequisites": "PSYCH 4972 or PSYCH 4973; departmental consent for repetition; instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 4972",
+                "PSYCH 4973"
+            ]
         },
         {
             "name": "Studies in Physiological Psychology",
             "number": "9120",
             "description": "Weekly seminars given by local and regional cognitive psychologists and cognitive neuroscientists.  Graded on S/U basis only.",
-            "prerequisites": "PSYCH 7210, departmental consent for repetition, and instructor's consent",
+            "prerequisites": "PSYCH 7210, departmental consent for repetition, and instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 7210"
+            ]
         },
         {
             "name": "Human Learning and Memory",
@@ -1264,7 +1574,8 @@
             "description": "Current theory and research in the area of human learning and memory will be investigated. A major component of the course will involve the critical review of existing literature in this area.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Psychopharmacology",
@@ -1272,7 +1583,8 @@
             "description": "Basic principles of drug action on the nervous system, the theory and clinical use of the various psychotherapeutic drugs, drug abuse and its treatment.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Neuropsychology Seminar",
@@ -1280,7 +1592,8 @@
             "description": "In this course students will analyze published cases in the neuropsychology literature.  By studying how behavioral and mental processes break down, the supposition is that one can infer how intact processes must have been constructed, and how a brain supports them.",
             "prerequisites": "Instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar on fMRI",
@@ -1288,7 +1601,8 @@
             "description": "Fundamentals of MRI and its application to brain imaging, including experimental design, analysis and contemporary issues.  During the lab component, students will use FSL and other software to analyze fMRI data and will design and implement their own fMRI experiments.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Neural Systems",
@@ -1296,7 +1610,8 @@
             "description": "The course provides in-depth coverage of the neurophysiology, neuroanatomy, and function of the brain. Course lectures and discussions cover the brain and its systems in a \"bottom-up\" sequence starting with basic sensory pathways and concluding with higher cognitive functions. The course also includes hands-on laboratory sessions, which include dissection component. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theories of Social Psychology",
@@ -1304,7 +1619,8 @@
             "description": "Intensive review of classic and contemporary concepts and theories of social psychology; emphasizes readings from primary sources. PhD candidates only. Required for all PhD candidates in social psychology.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Social Psychology Methodology",
@@ -1312,7 +1628,8 @@
             "description": "Advanced study of experimental methods in social psychological research.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Field Research Methods",
@@ -1320,7 +1637,8 @@
             "description": "Advanced course in research methods and designs commonly used in field settings; theoretical, ethical, and pragmatic issues that arise in field settings are considered; emphasis is on learning and skill acquisition through a series of hands-on assignments.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Social Psychology",
@@ -1328,7 +1646,8 @@
             "description": "Critical coverage of selected research and theory in social psychology.",
             "prerequisites": "instructor's consent, departmental consent for repetition",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Social Psychology",
@@ -1336,7 +1655,8 @@
             "description": "Intensive review of concepts and theories of social psychology; emphasizes readings from primary sources. Ph.D. candidates only. Required for all Ph.D. candidates in social psychology program. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Positive Psychology",
@@ -1344,7 +1664,8 @@
             "description": "This seminar will discuss and critique modern research in positive psychology. Each chapter of the textbook provides overviews of positive psychology research topics at various levels of analysis, while providing suggestions for further research. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Developmental Psychology",
@@ -1352,7 +1673,8 @@
             "description": "Covers contemporary research and professional topics in developmental psychology. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Evolution and Behavior",
@@ -1360,7 +1682,8 @@
             "description": "Reading and discussion of classic and contemporary works in evolution.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Women's Professional Development",
@@ -1368,7 +1691,8 @@
             "description": "This class takes a lifespan developmental perspective in regards to understanding challenges in women's professional development. Topics include: perceptions and stereotypes of successful women, division of labor in families (housework versus paid work), motherhood and the work place, social policies for working parents, girls' and boys' interests in STEM professions, and gender and workplace economics (starting salaries, negotiation, the gender pay gap).  Graded on A-F basis only.",
             "prerequisites": "Instructor Consent Required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Clinical Psychology",
@@ -1376,7 +1700,8 @@
             "description": "Contemporary research and theory for advanced graduate students in clinical psychology. Graded on S/U basis only.",
             "prerequisites": "instructor's consent, departmental consent for repetition",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Orientations in Psychotherapy",
@@ -1384,7 +1709,8 @@
             "description": "The introductory psychotherapy course for students in the clinical psychology doctoral program.  The focus of the course is on development of knowledge and skills in the following four areas: (1) Theory and practice of contemporary (brief) psychotherapy; (2) Basic interviewing skills; (3) Psychotherapy research and empirically supported treatments; and (4) The role and impact of managed care in contemporary psychotherapy.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Psychometrics",
@@ -1392,15 +1718,19 @@
             "description": "Introduction to concepts and issues essential to psychological assessment including psychometrics, test construction, controversies in psychological testing, behavioral assessment, and structured interviewing.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Orientations to Clinical Assessment",
             "number": "9525",
             "description": "Topics include psychometric principles, intelligence testing, objective and projective personality testing and behavioral assessment.",
-            "prerequisites": "PSYCH 9520 and instructor's consent",
+            "prerequisites": "PSYCH 9520 and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 9520"
+            ]
         },
         {
             "name": "Clinical Child Assessment",
@@ -1408,7 +1738,8 @@
             "description": "Introduction to clinical instruments, techniques and problems in the psychological assessment of children.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ethical and Professional Issues II",
@@ -1416,7 +1747,8 @@
             "description": "Legal issues, state and national codes, ethical decision-making, dangerousness, ethical clinical treatment issues, mandated reporting, and ethics in specialized clinical settings.  This course is the second in a sequence for clinical psychology doctoral students.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Practicum",
@@ -1424,7 +1756,8 @@
             "description": "Intensive supervised training in use and interpretation of psychological techniques and in psychotherapy. Graded on S/U basis only.",
             "prerequisites": "instructor's consent and professional liability insurance",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Intervention with Children",
@@ -1432,7 +1765,8 @@
             "description": "Introduction to theory, research and practice in the area of behavior change with children and adolescents.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Family and Group Process",
@@ -1440,7 +1774,8 @@
             "description": "Theory, intervention, and research in the areas of family and group dynamics.  Emphasis on family therapy approaches.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Assessment and Treatment of Sexual Problems",
@@ -1448,7 +1783,8 @@
             "description": "Background information for and methods and techniques of dealing with a variety of sexual problems that clients bring to therapists. Sexual dysfunction, homosexuality, sexual aberrations and sex crimes covered.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Research Methods",
@@ -1456,7 +1792,8 @@
             "description": "Focus on research design with emphasis on active critique of methodological challenges (e.g., subject selection, control groups, multimodal measures, and treatment issues), includes lecture and active review or research.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Clinical Psychology",
@@ -1464,7 +1801,8 @@
             "description": "Critical coverage of selected research and theory in clinical psychology.",
             "prerequisites": "instructor's consent, departmental consent for repetition",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Alcohol Studies",
@@ -1472,7 +1810,8 @@
             "description": "Intensive seminar on alcohol research primarily intended for alcohol research training fellows.  Covers a range of topics of interest to psychologist, including pharmacology, research methods, genetics, diagnosis, expectancies, and treatment.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Pediatric Neuropsychology",
@@ -1480,15 +1819,19 @@
             "description": "The goal of this course is to provide an in-depth introduction to the field of clinical pediatric neuropsychology.  Particular emphasis will be placed on how we can increase our understanding of development through the study of individuals with early brain dysfunction.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Multivariate Statistics in Psychology",
             "number": "9710",
             "description": "Multivariate statistical methods, including multivariate analysis of variance, discriminant analysis, principal component analysis, and elements of matrix algebra, as applied to problems in psychology.",
-            "prerequisites": "PSCYH 8710 and PSYCH 8720; instructor's consent",
+            "prerequisites": "PSCYH 8710 and PSYCH 8720; instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 8720"
+            ]
         },
         {
             "name": "Multilevel Modeling",
@@ -1496,31 +1839,42 @@
             "description": "Introduction to random coefficient multilevel modeling of clustered data. Topics include two- and three-level models, estimation techniques, computing options, model fitting issues, advanced model applications, and growth modeling.",
             "prerequisites": "instructor's consent, a graduate course in regression analysis",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Latent Variable Models in Statistical Analysis",
             "number": "9720",
             "description": "Covers Matrix Algebra fundamentals, Factor Rotation, Communality Estimation techniques, High Order and Dynamic Factor Models, Path Analysis, Use of computer programs.",
-            "prerequisites": "instructor's consent and PSYCH 8720",
+            "prerequisites": "instructor's consent and PSYCH 8720",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 8720"
+            ]
         },
         {
             "name": "The Literature Review",
             "number": "9725",
             "description": "Focuses on methods for gathering, summarizing, integrating and interpreting research on a particular research issue. Topics include searching the literature, evaluating research quality and synthesizing statistical results across separate studies.",
-            "prerequisites": "PSYCH 8710 and instructor's consent",
+            "prerequisites": "PSYCH 8710 and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 8710"
+            ]
         },
         {
             "name": "Psychological Process Models",
             "number": "9735",
             "description": "Examines mathematical and statistical models of cognition and perception.  Emphasis on modeling basics such as estimation, hypothesis testing, and assessment of fit.",
-            "prerequisites": "PSYCH 8710 and PSYCH 8720 or instructor's consent",
+            "prerequisites": "PSYCH 8710 and PSYCH 8720 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 8710",
+                "PSYCH 8720"
+            ]
         },
         {
             "name": "Statistical Consulting for Psychologists",
@@ -1528,15 +1882,19 @@
             "description": "Provision of statistical consulting to individuals working with psychological data.  Graded on S/U basis only.",
             "prerequisites": "graduate standing in Psychological Sciences and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Structural Equation Modeling",
             "number": "9750",
             "description": "Growth Mixture Models, Dynamic Factor models, and nonlinear structural models.",
-            "prerequisites": "PSYCH 8710 or departmental consent",
+            "prerequisites": "PSYCH 8710 or departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 8710"
+            ]
         },
         {
             "name": "Quantitative Psychology Seminar",
@@ -1544,15 +1902,20 @@
             "description": "Quantitative Psychology Topics Seminar. Graded on S/U basis only.",
             "prerequisites": "departmental consent required",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Categorical Data Analysis",
             "number": "9760",
             "description": "This course will provide an applied introduction to the most important methods for analyzing categorical data.  Topics include; logistic regression modeling Poisson regression modeling, multinomial sampling, and classic analysis of contingency tables.",
-            "prerequisites": "PSYCH 8710 and PSYCH 8720; instructor's consent",
+            "prerequisites": "PSYCH 8710 and PSYCH 8720; instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 8710",
+                "PSYCH 8720"
+            ]
         },
         {
             "name": "Cluster Analysis and Network Analysis",
@@ -1560,7 +1923,8 @@
             "description": "The course covers traditional and modern clustering techniques (hierarchical, partitioning, and mixture modeling), both from an algorithmic and modeling perspective. Several types of data types are explored, including traditional two-mode data sets and network structures.",
             "prerequisites": "instructor's consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Item Response Theory I",
@@ -1568,7 +1932,8 @@
             "description": "Introduction to item response theory, including classical test theory, popular item response models, model estimation, software considerations, and application. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: PSYCH 8710",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Teaching of Psychology Practicum",
@@ -1576,7 +1941,8 @@
             "description": "Focuses on development and enhancement of teaching skills for graduate students in psychology who are primary instructors of undergraduate psychology courses. Graded on a S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced History of Psychology",
@@ -1584,7 +1950,8 @@
             "description": "Advanced course in history of psychology designed to show how general philosophical models of mind and behavior have been linked to doctrines of mental health and pathology and to theories of social behavior.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

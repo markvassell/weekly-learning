@@ -8,7 +8,8 @@
             "description": "Provides experience in instrumental performance and repertory. Open to all MU students by audition. May be repeated for credit. Enrollment in Marching Band is limited to a maximum of five semesters. Sections are: Philharmonic Orchestra, Chamber Orchestra, Symphonic Band, Wind Ensemble, Concert Band, Varsity Band, Studio Jazz Ensemble, Jazz Lab Band, Marching Band. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "Audition",
             "hours": "0-1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Choral Ensemble",
@@ -16,7 +17,8 @@
             "description": "Provides experience in choral performance and repertory. Open to all MU students. May be repeated for credit. Sections are: University Singers, Chamber Singers, Choral Union, Vocal Jazz Ensemble, Concert Chorale, Men's Chorus, Women's Chorus. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition required for all but Choral Union",
             "hours": "0-1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Chamber Music",
@@ -24,7 +26,8 @@
             "description": "Preparation and performance of chamber music. May be repeated for credit. Sections are: String Ensemble, Woodwind Ensemble, Brass Ensemble, Percussion Ensemble. Jazz Combo. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Opera Workshop",
@@ -32,7 +35,8 @@
             "description": "Study, preparation and performance of selected operatic or musical theatre work in staged or concert versions. Open to all MU students by audition. Credit arranged; may be repeated for credit. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Piano Ensemble",
@@ -40,7 +44,8 @@
             "description": "Study, preparation, and performance of ensemble literature for piano. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Musical Theatre Performance",
@@ -48,7 +53,8 @@
             "description": "(same as THEATR 4460). A practical study for the actor of theatrical songs through character analysis, lyric interpretation, and movement. A performance course.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Instrumental Ensemble",
@@ -56,7 +62,8 @@
             "description": "Research, preparation and performance of instrumental compositions. May be repeated for credit. Sections and credit hours are: Philharmonic Orchestra, Chamber Orchestra, Symphonic Band, Wind Ensemble, Concert Band, Studio Jazz Ensemble, Jazz Lab Band, Marching Band. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Choral Ensemble",
@@ -64,7 +71,8 @@
             "description": "Research, preparation and performance of choral compositions. May be repeated for credit. Sections are: University Singers, Chamber Singers, Choral Union, Vocal Jazz Ensemble, Concert Choral, Men's Chorus, Women's Chorus. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Piano Ensemble",
@@ -72,7 +80,8 @@
             "description": "Study, preparation and performance of standard piano literature for four hands. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Chamber Ensemble",
@@ -80,7 +89,8 @@
             "description": "Study, preparation and performance of chamber music. May be repeated for credit.  Sections are: String Ensemble, Woodwind Ensemble, Brass Ensemble, Percussion Ensemble, Jazz Combo. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Opera Workshop",
@@ -88,7 +98,8 @@
             "description": "Study, preparation and performance of selected operatic or musical theatre works in staged or concert versions. Credit arranged; may be repeated for credit. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

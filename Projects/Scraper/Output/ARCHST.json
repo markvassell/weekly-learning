@@ -8,7 +8,8 @@
             "description": "Organized study of selected topics in architectural studies. Particular topic and earnable credit may vary by semester. May be repeated for credit up to 6 credit hours.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Visual Design",
@@ -16,7 +17,8 @@
             "description": "Design study as an introduction to basic design and visual composition with application to creating two- and three-dimensional abstract and /or functional design work. Studio exercises expressed through drawings and abstract models, using various media.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Architectural Drafting and Working Drawings",
@@ -24,23 +26,30 @@
             "description": "Beginning drafting including equipment and materials; lettering; floor plans, sections, elevations; orthographic and axonometric drawings; working drawings; and details.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Environmental Design",
             "number": "1600",
             "description": "Survey of the architectural environment emphasizing design fundamentals such as use, aesthetics, stability of structures and human relationships with places and time.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Fundamentals of Environmental Design - Writing Intensive",
             "number": "1600W",
             "description": "Survey of the architectural environment emphasizing design fundamentals such as use, aesthetics, stability of structures and human relationships with places and time.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Topics in Architectural Studies - Humanities",
@@ -48,7 +57,8 @@
             "description": "Organized study of selected topics in architectural studies. Particular topic and earnable credit may very by semester. May be repeated for credit up to 6 credit hours.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Architectural Studies",
@@ -56,7 +66,8 @@
             "description": "Supervised independent work.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Understanding Architecture and the American City",
@@ -64,7 +75,8 @@
             "description": "Multifaceted introduction to the architectural and social roots of urban form in the U. S.: historic precedents from around the world; growth, decline and revival of cities; rise of suburbia; tradition and transformation in campus communities; continuing housing challenges; sustainable design and the future of urbanism. Explores a diverse range of opportunities to improve communities available to professionals and general public.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Understanding Visualization for Animated Films",
@@ -72,7 +84,8 @@
             "description": "Provides a critical overview of design and visualization techniques in animated film making. Emphasizes the role of built environment and spatial design features.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to CAD",
@@ -80,15 +93,19 @@
             "description": "Introduction to computer-aided drafting and design with AutoCad software. Emphasis will be placed on development of skills and problem solving related to the professions of environmental and interior design.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "ARCHST 1200"
+            "recommendation": "ARCHST 1200",
+            "connections": "None Listed"
         },
         {
             "name": "Design Communication I",
             "number": "2230",
             "description": "Beginning studio course in techniques and conventions of graphic communication as an aid in the design process for interior designers.",
-            "prerequisites": "ARCHST 2811",
+            "prerequisites": "ARCHST 2811",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 2811"
+            ]
         },
         {
             "name": "Building Systems",
@@ -96,7 +113,8 @@
             "description": "Integrated building systems: structure, construction, technology, comfort; including voice-data communication, safety, floor, wall, ceiling, mechanical, electrical, and plumbing systems; and project estimating.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Building Systems Laboratory",
@@ -104,15 +122,19 @@
             "description": "Building system renovations, materials, processes, finishes, and applications testing: furniture design, fabrication, finishing, lighting, concrete and masonry, wood and steel light framing construction, and mock-up fabrication and testing. All equipment training and safety is covered in this introductory course.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Building Systems Lab",
             "number": "2316",
             "description": "Advanced exposure to building system renovations, materials, processes, finishes, and applications testing: furniture design, fabrication, finishing, lighting, concrete and masonry, wood and steel light framing construction, and mock-up fabrication and testing. Graded on A-F basis only.",
-            "prerequisites": "ARCHST 2315",
+            "prerequisites": "ARCHST 2315",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 2315"
+            ]
         },
         {
             "name": "Sustainable Building Design Fundamentals",
@@ -120,7 +142,8 @@
             "description": "Environmental concerns addressed by green building design practices for consumers and owners of homes and businesses. Overview of how green buildings improve prospects for ecology, economy, social equity, and human health. Hands-on lab experiments reference national performance standards for decision making in sustainable building projects. Emphasis on energy and water use, sustainable sites, environmentally friendly building products, indoor air quality, and design for sustainable behaviors.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "People, Places and Design",
@@ -128,7 +151,8 @@
             "description": "Understanding human behavior and interaction with environments; the influence of architectural design on built places. Practical application for design.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studio I",
@@ -136,7 +160,8 @@
             "description": "Application of basic design and composition to built form. Studio exercises in two and three dimensions using various media relating to usable spaces. Formation of design concept, development of form and space, and application in built environment.",
             "prerequisites": "instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Color and Light",
@@ -144,23 +169,30 @@
             "description": "The theory, application, and specification of color and light for interior and architectural design.  Includes assigned lab exercises for color and light portfolio.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studio II",
             "number": "3182",
             "description": "Application of basic design principles to built forms and functional spaces. Identification and manipulation of elements of design, understanding spatial relationships between human body and spatial enclosures related to built forms. Spatial organization and familiarity with role of immediate context.",
-            "prerequisites": "ARCHST 2811",
+            "prerequisites": "ARCHST 2811",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 2811"
+            ]
         },
         {
             "name": "Advanced Design Communication Using BIM",
             "number": "3230",
             "description": "Advanced course in techniques and conventions of computer aided design (CAD) and Building Information Modeling (BIM) for contemporary design process.",
-            "prerequisites": "ARCHST 2230",
+            "prerequisites": "ARCHST 2230",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 2230"
+            ]
         },
         {
             "name": "Design Resource Management",
@@ -168,23 +200,30 @@
             "description": "Field experience (5 hours per week) in organization and management of resources used by interior designers, including references, product information, and samples of materials and finishes.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Analysis",
             "number": "3600",
             "description": "Discover through analytical methods of primary organizational factors which operate in a building and reveal the preoccupations of designer.  Analytical approach investigates design principles by means of dissection.",
-            "prerequisites": "ARCHST 2811",
+            "prerequisites": "ARCHST 2811",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 2811"
+            ]
         },
         {
             "name": "Environmental Analysis - Writing Intensive",
             "number": "3600W",
             "description": "Discover through analytical methods of primary organizational factors which operate in a building and reveal the preoccupations of designer.  Analytical approach investigates design principles by means of dissection.",
-            "prerequisites": "ARCHST 2811",
+            "prerequisites": "ARCHST 2811",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 2811"
+            ]
         },
         {
             "name": "Human Factors Programming",
@@ -192,7 +231,8 @@
             "description": "Design Programming for Human Factors using a Case Study.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "ARCHST 1600"
+            "recommendation": "ARCHST 1600",
+            "connections": "None Listed"
         },
         {
             "name": "Human Factors Programming - Writing Intensive",
@@ -200,7 +240,8 @@
             "description": "Design Programming for Human Factors using a Case Study.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "ARCHST 1600"
+            "recommendation": "ARCHST 1600",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Architectural Studies",
@@ -208,7 +249,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Architectural Studies",
@@ -216,7 +258,8 @@
             "description": "Supervised independent work.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Computer Graphic Application for Design I",
@@ -224,7 +267,8 @@
             "description": "Applications of computer graphics for design and art; includes visualization, animation and creative development. May repeat up to 12 credit hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Materials, Methods and Products",
@@ -232,7 +276,8 @@
             "description": "Inherent qualities of materials used in the design of interior environments. Manufacturing, application, and installation methods. Focus on environmentally sensitive materials.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "ARCHST 2310"
+            "recommendation": "ARCHST 2310",
+            "connections": "None Listed"
         },
         {
             "name": "Sustainable Technologies and Systems",
@@ -240,15 +285,20 @@
             "description": "An in-depth study of ecologically-sensitive and energy-efficient strategies used in building and interiors.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Compliance and Specifications",
             "number": "4333",
             "description": "Application of laws, codes, regulations, standards in specifying for life safety, barrier-free and universal design, lighting, human factors, and contract documents.",
-            "prerequisites": "ARCHST 2220 and ARCHST 2811",
+            "prerequisites": "ARCHST 2220 and ARCHST 2811",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 2220",
+                "ARCHST 2811"
+            ]
         },
         {
             "name": "Recent Trends in Digital Media I",
@@ -256,7 +306,8 @@
             "description": "Recent Trends in Digital Media I",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Study Abroad in Architectural History",
@@ -264,7 +315,8 @@
             "description": "Discovery of historic architecture through on-site tour of timeless cities and places.  May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the Designed Environment after 1750",
@@ -272,7 +324,8 @@
             "description": "An in-depth study of the designed environment, including housing, interiors, and furniture of the major historical periods from the Industrial Revolution to today.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Guiding Design with Historic Preservation",
@@ -280,7 +333,8 @@
             "description": "(cross-leveled with ARCHST 7430). Approaches to historic preservation; historic roots of architecture and interiors; regulations and design guidelines governing intervention; assessing significance of historic properties.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "American History or Government, or Art History"
+            "recommendation": "American History or Government, or Art History",
+            "connections": "None Listed"
         },
         {
             "name": "History of the Designed Environment to 1750",
@@ -288,7 +342,8 @@
             "description": "An in-depth study of the designed environment including interiors, architecture, art, and the decorative arts within the major historical periods and cultural context from prehistory to the Industrial Revolution.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Design Precedents: Architecture, Interiors and Furniture since the Industrial Revolution",
@@ -296,7 +351,8 @@
             "description": "(cross-leveled with ARCHST 7440). Analysis of historical exemplars of architecture, interiors and furniture design offering strategies for approaching contemporary design problems.  Covers design precedents from industrial revolution to contemporary design.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Visual Presentation for Design",
@@ -304,7 +360,8 @@
             "description": "Emphasizes principles and techniques for effective visual design presentation.  Focuses on concepts of design, layout, storytelling, critiques, and hands on exercise.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Recent Trends",
@@ -312,7 +369,8 @@
             "description": "Upper-division students seeking additional knowledge in specific subject matter areas including digital media software.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Shaping Human Settlements",
@@ -320,7 +378,8 @@
             "description": "Review classic designs and designers, key concepts and enduring issues of community design within the overall framework of environmental design.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Housing Concepts and Issues",
@@ -328,7 +387,8 @@
             "description": "Evaluate housing policies, regulations, codes, programs; global and ecological perspectives of environment and behavior; historic preservation; financial issues; trends and projections.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Place-Making in Community Design",
@@ -336,15 +396,20 @@
             "description": "Ideologies, case studies and participatory methods on place-making in community design.  Use processes to design a place-making scheme in actual community project.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Design Business Practices",
             "number": "4710",
             "description": "Analysis of the basic professional, human, and business skills necessary for the successful design practice.",
-            "prerequisites": "ARCHST 4814 or ARCHST 4824",
+            "prerequisites": "ARCHST 4814 or ARCHST 4824",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 4814",
+                "ARCHST 4824"
+            ]
         },
         {
             "name": "Healthcare Facilities Design",
@@ -352,23 +417,30 @@
             "description": "(cross-leveled with ARCHST 7760). Health care facilities design and planning course provides an in-depth investigation of best practice examples. Design and research methods include evidence-based design, simulation, and space syntax analysis leading to high-performance healthcare design.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "senior standing"
+            "recommendation": "senior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Interiors Studio III",
             "number": "4813",
             "description": "Spatial morphology, organization pattern, construction methods, materials, systems, and processes and integration with total design processes. Space planning and spatial manipulation in response to social, environmental, functional, and aesthetics specific to interiors.",
-            "prerequisites": "ARCHST 3182",
+            "prerequisites": "ARCHST 3182",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 3182"
+            ]
         },
         {
             "name": "Interiors Studio IV",
             "number": "4814",
             "description": "Continuation of ARCHST 4813. Manipulation of form and space responding to programmatic functions and activities, and constraints imposed by structure, building materials, spatial enclosure, and related factors. Projects may involve designing single-function space to multiple-function layered spaces--both vertically and horizontally.",
-            "prerequisites": "ARCHST 4813",
+            "prerequisites": "ARCHST 4813",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 4813"
+            ]
         },
         {
             "name": "Construction Documents and Building Information Modeling Studio",
@@ -376,31 +448,43 @@
             "description": "Studio of how materials, systems, and assemblies reinforce and extend intentions of designers. Course teaches strategies and techniques for integration and coordination of the building components and details in construction documents and building information modeling.",
             "prerequisites": "None Listed",
             "hours": "4Prerequisites or Corequisites: ARCHST 4814 or ARCHST 4824",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Architectural Studio III",
             "number": "4823",
             "description": "Continuation of  ARCHST 3182.  Spatial morphology, organization pattern, construction methods, materials, systems, and processes and integration with total design process.  Space planning and spatial manipulation in response to social, environmental, functional, and aesthetics specifics to architecture.",
-            "prerequisites": "ARCHST 3182",
+            "prerequisites": "ARCHST 3182",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 3182"
+            ]
         },
         {
             "name": "Architectural Studio IV",
             "number": "4824",
             "description": "Continuation of  ARCHST 4823.  Manipulation of form and space responding to programmatic functions and activities, and constraints imposed by structure, building materials, spatial enclosure, and related factors.  Projects may involve designing single-function space to multiple-function layered spaces - both vertically and horizontally.",
-            "prerequisites": "ARCHST 4823",
+            "prerequisites": "ARCHST 4823",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 4823"
+            ]
         },
         {
             "name": "Programming for Thesis Design Studio",
             "number": "4860",
             "description": "Develop written comprehensive program for thesis design studio project. Supervised by student-selected committee -- one departmental thesis advisor and at least one additional faculty member.",
-            "prerequisites": "ARCHST 3860 and ARCHST 4814 or ARCHST 4824",
+            "prerequisites": "ARCHST 3860 and ARCHST 4814 or ARCHST 4824",
             "hours": "0-1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 3860",
+                "ARCHST 4814",
+                "ARCHST 4824"
+            ]
         },
         {
             "name": "Internship in Environmental Design",
@@ -408,7 +492,8 @@
             "description": "Field experience in design under professional and educational supervision.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Architectural Studio",
@@ -416,7 +501,8 @@
             "description": "Readings in recent research materials.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Design Research and Service Design",
@@ -424,7 +510,8 @@
             "description": "(cross-leveled with ARCHST 7961). Provides an overview of applied research methods for design and development of products, services and environments.  Introduces human-centered approach to design research and Communication of research findings to informed design concepts.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "senior standing"
+            "recommendation": "senior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Information Visualization and Visual Analytics",
@@ -432,7 +519,8 @@
             "description": "(cross-leveled with ARCHST 7962). Foundation for information visualization and deals with external representation and interactive manipulation of information, data or artifacts using digital tools to enhance communication, analytical reasoning and decision-making.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "senior standing"
+            "recommendation": "senior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Human Factors Research for Design",
@@ -440,7 +528,8 @@
             "description": "(cross-leveled with ARCHST 7963). Investigate effect of people's physical psychological, social functions in environments of differing scales.  Use research techniques of photo-interviewers, mapping, and user analysis to develop an appropriate program for redesign.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "ARCHST 3860"
+            "recommendation": "ARCHST 3860",
+            "connections": "None Listed"
         },
         {
             "name": "Design Thinking and Creative Process",
@@ -448,15 +537,21 @@
             "description": "(cross-leveled with ARCHST 7964). Analysis of how designers think, solve design problems, and engage in the creative process.  Includes design methods, design cognition computations, and design protocol studies.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "ARCHST 4813 or ARCHST 4823"
+            "recommendation": "ARCHST 4813 or ARCHST 4823",
+            "connections": "None Listed"
         },
         {
             "name": "Thesis Design Studio",
             "number": "4990",
             "description": "Capstone experience on a single comprehensive project. Objective is to enable synthesis of previous course work by addressing a design problem defined in  ARCHST 4860.",
-            "prerequisites": "ARCHST 4860, ARCHST 4814 or ARCHST 4824",
+            "prerequisites": "ARCHST 4860, ARCHST 4814 or ARCHST 4824",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 4860",
+                "ARCHST 4814",
+                "ARCHST 4824"
+            ]
         },
         {
             "name": "Topics in Environmental Design",
@@ -464,7 +559,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Environmental Design",
@@ -472,7 +568,8 @@
             "description": "Supervised independent work.",
             "prerequisites": "3000-level course in field of problem  and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Allied Architecture and Urban Design",
@@ -480,7 +577,8 @@
             "description": "Overview of the built environment in relation to architecture and allied design.  Emphasis on architecture, interior, landscape and urban design studies.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Computer Graphic Application for Design I",
@@ -488,7 +586,8 @@
             "description": "Applications of computer graphics for design and art; includes visualization, animation and creative development. May repeat up to 12 credit hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Graduate Design Communication I",
@@ -496,15 +595,20 @@
             "description": "Studio course in techniques and conventions of graphic communication as an aid in the design process of built forms.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Graduate Building Systems",
             "number": "7310",
             "description": "Integrated building systems; structure construction, technology, comfort; including voice-communications, safety, floor, wall, ceiling, mechanical, electrical, and plumbing systems, project estimating and management.",
-            "prerequisites": "MATH 1100 or MATH 1120",
+            "prerequisites": "MATH 1100 or MATH 1120",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100",
+                "MATH 1120"
+            ]
         },
         {
             "name": "Graduate Systems Laboratory",
@@ -512,15 +616,20 @@
             "description": "Experimental learning setting involving building construction systems, renovation, materials and finishes testing and experimentation. Focus on hands-on opportunities investigating building technology properties in detail. Laboratory 3 hrs/week.",
             "prerequisites": "None Listed",
             "hours": "1-9",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Materials, Methods and Products",
             "number": "7320",
             "description": "Inherent qualities of materials used in the design of interior environments. Manufacturing, application, and installation methods. Focus on environmentally sensitive materials.",
-            "prerequisites": "MATH 1100 or MATH 1120",
+            "prerequisites": "MATH 1100 or MATH 1120",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100",
+                "MATH 1120"
+            ]
         },
         {
             "name": "Sustainable Technologies and Systems",
@@ -528,7 +637,8 @@
             "description": "An in-depth study of ecologically-sensitive and energy-efficient strategies used in buildings and interiors.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Energy-Efficient Building Design",
@@ -536,15 +646,21 @@
             "description": "This course is a broad study of energy use and energy-efficient strategies for buildings.  The course will cover the fundamentals of climate-based design, energy-efficient heating/cooling/daylighting strategies, alternative energy systems applicable to buildings, energy auditing/modeling/verification, applicable building energy codes, and high performance building technologies. Recommended for graduate students with undergraduate degrees and experience in engineering, architecture, and/or building science.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Compliance and Specifications",
             "number": "7333",
             "description": "Application of laws, codes, regulations, standards in specifying for life safety, barrier-free and universal design, lighting, human factors, and contract documents.",
-            "prerequisites": "T_A_M 2100 and MATH 1100 or MATH 1120",
+            "prerequisites": "T_A_M 2100 and MATH 1100 or MATH 1120",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100",
+                "MATH 1120",
+                "T_A_M 2100"
+            ]
         },
         {
             "name": "Recent Trends in Digital Media I",
@@ -552,15 +668,20 @@
             "description": "Recent Trends in Digital Media I",
             "prerequisites": "None Listed",
             "hours": "2-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the Designed Environment to 1750",
             "number": "7410",
             "description": "An in-depth study of the designed environment including housing interiors, and furniture of the major historical periods from prehistory to the Industrial Revolution.",
-            "prerequisites": "AR_H_A 1110 and AR_H_A 1120",
+            "prerequisites": "AR_H_A 1110 and AR_H_A 1120",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "AR_H_A 1110",
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "Study Abroad in Architectural History",
@@ -568,15 +689,20 @@
             "description": "Discovery of historic architecture through on-site tour of timeless cities and places.  May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the Designed Environment after 1750",
             "number": "7420",
             "description": "An in-depth study of the designed environment, including housing, interiors, and furniture of the major historical periods from the Industrial Revolution to today.",
-            "prerequisites": "AR_H_A 1110 or AR_H_A 1120",
+            "prerequisites": "AR_H_A 1110 or AR_H_A 1120",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "AR_H_A 1110",
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "Guiding Design with Historic Preservation",
@@ -584,7 +710,8 @@
             "description": "(cross-leveled with ARCHST 4430). Approaches to historic preservation; historic roots of architecture and interiors; regulations and design guidelines governing intervention; assessing significance of historic properties.",
             "prerequisites": "American History or Government or Art History or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Design Precedents: Architecture, Interiors and Furniture since the Industrial Revolution",
@@ -592,7 +719,8 @@
             "description": "(cross-leveled with ARCHST 4440). Analysis of historical exemplars of architecture, interiors and furniture design offering strategies for approaching contemporary design problems.  Covers design precedents from industrial revolution to contemporary design.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Visual Presentation for Design",
@@ -600,7 +728,8 @@
             "description": "Emphasizes principles and techniques for effective visual design presentation.  Focuses on concepts of design, layout storytelling, critiques and hands on exercises.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Recent Trends in Environmental Design",
@@ -608,7 +737,8 @@
             "description": "Upper-division students seeking additional knowledge in specific subject matter areas including digital media software.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environment and Behavior",
@@ -616,7 +746,8 @@
             "description": "Evaluate relationships between human behavior and environmental design. Survey of environment and behavior theoretical foundations examining how these concepts translate into a more responsive theory of design.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Shaping Human Settlements",
@@ -624,7 +755,8 @@
             "description": "Review classic designs and designers, key concepts and enduring issues of community design within the overall framework of environmental design.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physical Function and Older Adults",
@@ -632,7 +764,8 @@
             "description": "(same as F_C_MD 7750, HMI 7750, H_D_FS 7750, NURSE 7750, P_HLTH 7750, and SOC_WK 7752).  This course takes an interdisciplinary approach to understanding and improving the physical function and independence of older adults and explores approaches to alleviate disabling conditions that interfere with physical function and quality of life in old age.   Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Psychosocial Function and Older Adults",
@@ -640,7 +773,8 @@
             "description": "(same as F_C_MD 7751,HMI 7751, H_D_FS 7751, NURSE 7751, P_HLTH 7751 and SOC_WK 7751).  This course takes an Interdisciplinary approach to understanding the psychosocial function of older adults and explores approaches to alleviate disabling conditions that interfere with psychosocial function and quality of life in old age.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Housing Concepts and Issues",
@@ -648,7 +782,8 @@
             "description": "Evaluate housing policies, regulations, codes, programs; global and ecological perspectives of environment and behavior; historic preservation; financial issues; trends and projections.",
             "prerequisites": "None Listed",
             "hours": "1-12",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Place-Making in Community Design",
@@ -656,7 +791,8 @@
             "description": "Ideologies, case studies and participatory methods on place-making in community design.  Use processes to design a place-making scheme in actual community project.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Design Business Practices",
@@ -664,7 +800,8 @@
             "description": "Analysis of the basic professional, human, and business skills necessary for the successful design practice. Prerequisites or Corequisites of Studio IV and anticipated graduation during final academic year.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Healthcare Facilities Design",
@@ -672,7 +809,8 @@
             "description": "(cross-leveled with ARCHST 4760). Health care facilities design and planning course provides an in-depth investigation of best practice examples. Design and research methods include evidence-based design, simulation, and space syntax analysis leading to high-performance healthcare design. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studio V",
@@ -680,7 +818,8 @@
             "description": "A continuation of previous studio with emphasis on digital media.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Graduate Design Studio",
@@ -688,7 +827,8 @@
             "description": "Advanced graduate level design experience emphasizing project complexity, design skill refinement, and optional development of thesis project strategies.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Internship in Environmental Design",
@@ -696,7 +836,8 @@
             "description": "Field experience in design under professional and educational supervision.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Environmental Design",
@@ -704,7 +845,8 @@
             "description": "Readings in recent research materials.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Design Research and Service Design",
@@ -712,7 +854,8 @@
             "description": "(cross-leveled with ARCHST 4961). Provides an overview of applied research methods for design and development of products, services and environments. Introduces human-centered approach to design research and communication of research findings to inform design concepts.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Information Visualization and Visual Analytics",
@@ -720,7 +863,8 @@
             "description": "(cross-leveled with ARCHST 4962). Foundation for information visualization and deals with external representation and interactive manipulation of information, data or artifacts using digital tools to enhance communication, analytical reasoning and decision-making.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Factors Research for Design",
@@ -728,7 +872,8 @@
             "description": "(cross-leveled with ARCHST 4963). Investigate effect of people's physical psychological, social functions in environments of differing scales.  Use research techniques of photo-interviewers, mapping, and user analysis to develop an appropriate program for redesign.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Design Thinking and Creative Process",
@@ -736,7 +881,8 @@
             "description": "(cross-leveled with ARCHST 4964). Analysis of how designers think, solve design problems, and engage in the creative process. Includes design methods, design cognition and computations, and design protocol studies.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Environmental Design",
@@ -744,7 +890,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research Methods in Environmental Design",
@@ -752,7 +899,8 @@
             "description": "A comparative study of quantitative and qualitative methods in environmental design with emphasis on research results and analyses. Lectures and seminar discussions.",
             "prerequisites": "12 hours advanced design",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Environmental Design",
@@ -760,7 +908,8 @@
             "description": "",
             "prerequisites": "4000-level course in field of problem and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Master's Research in Environmental Design",
@@ -768,7 +917,8 @@
             "description": "Independent research leading to a creative project.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Computer Graphic Application for Design II",
@@ -776,15 +926,19 @@
             "description": "Creative computer graphic modeling, rendering and animation projects related to the academic background and interests of individual students. May be repeated to 6 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Graduate Design Communication II",
             "number": "8233",
             "description": "Advanced studio in techniques and conventions of graphic communication as aides in the design process.",
-            "prerequisites": "ARCHST 7232 or advisor's consent",
+            "prerequisites": "ARCHST 7232 or advisor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 7232"
+            ]
         },
         {
             "name": "Graduate Environmental Analysis",
@@ -792,7 +946,8 @@
             "description": "Analysis of design principles and organizational factors operating in a building by means of dissection. Volumetric disposition, circulation pattern, axes, structural system, materials, purpose, and symbolism.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Philosophy of Environmental Design Research",
@@ -800,7 +955,8 @@
             "description": "Formal environmental design theory concerning historical precedents, current aesthetic trends, and design processes. Assignments investigate philosophical influences, architectonic vocabularies, and communication of idea and artifact. May be repeated up to 12 credit hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theoretical Perspectives of Design Computing",
@@ -808,7 +964,8 @@
             "description": "Key theoretical ideas underlying the relationship between design and computing. Main research topics relevant to current discourse in design computing.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theories in Architectural and Interior Design",
@@ -816,7 +973,8 @@
             "description": "Architectural and interior design theory is explored as a field of inquiry.  Students become familiar with a theoretical framework that is sensitive to the play between the principles of a building (what it is as a design) and the circumstances of a building (what it becomes to be).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Graduate Digital Design Studio",
@@ -824,7 +982,8 @@
             "description": "Graduate level design experience emphasizing project complexity, design skill refinement, and use of digital media for design representation.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Digital Design Studio II",
@@ -832,7 +991,8 @@
             "description": "Advanced graduate level design experience emphasizing design, documentation, and representation using digital media. Optional development of graduate thesis project may be scheduled in this studio.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Graduate Design Studio",
@@ -840,7 +1000,8 @@
             "description": "Advanced graduate level design experience emphasizing project complexity, design skill refinement, and optional development of thesis project strategies.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Environmental Design",
@@ -848,7 +1009,8 @@
             "description": "Reports, discussion of recent work in area of concentration.",
             "prerequisites": "None Listed",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environment and Behavior II",
@@ -856,7 +1018,8 @@
             "description": "Synthesis of environment and behavior themes in design research and application to professional practice. Research on socio-behavioral phenomena, user groups, places. Emphasis on integrated interactive character of elements.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Qualitative Research Methods",
@@ -864,15 +1027,20 @@
             "description": "Explores qualitative research methods as foundation for subsequent study. Focuses on qualitative research of the built environment.  Course may be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Environmental Design",
             "number": "8960",
             "description": "Readings in recent research materials.",
-            "prerequisites": "ARCHST 4960 or ARCHST 7960",
+            "prerequisites": "ARCHST 4960 or ARCHST 7960",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ARCHST 4960",
+                "ARCHST 7960"
+            ]
         },
         {
             "name": "Thesis Project Proposal",
@@ -880,7 +1048,8 @@
             "description": "The formal opportunity to express the intent and scope of the thesis project.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Environmental Design",
@@ -888,7 +1057,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Environmental Design",
@@ -896,7 +1066,8 @@
             "description": "",
             "prerequisites": "4000-level course in field of problem and instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Doctoral Research in Environmental Design",
@@ -904,7 +1075,8 @@
             "description": "Independent research leading to thesis or dissertation. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Recent Trends in Environmental Design",
@@ -912,7 +1084,8 @@
             "description": "For students seeking additional knowledge and understanding in specific subject matter areas.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Dissertation Proposal",
@@ -920,7 +1093,8 @@
             "description": "A formal dissertation proposal is written and presented to the dissertation committee for approval.",
             "prerequisites": "instructor's consent",
             "hours": "1-9",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Pilot Project for Dissertation",
@@ -928,7 +1102,8 @@
             "description": "Working with advisor, student proposes, conducts, and reports the findings from a pilot study germane to the dissertation topic in preparation for the dissertation research.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

@@ -8,7 +8,8 @@
             "description": "ABS Physical Medicine/Rehab. Mechanism of Disease",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Physical Medicine/Rehab. Research",
@@ -16,7 +17,8 @@
             "description": "ABS Physical Medicine/Rehab. Research",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Physical Medicine/Rehab. Research and Review",
@@ -24,7 +26,8 @@
             "description": "ABS Physical Medicine/Rehab. Research and Review",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physical Medicine and Rehabilitation",
@@ -32,7 +35,8 @@
             "description": "Physical Medicine and Rehabilitation",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Rehabilitation of Musculoskeletal and Neurologic Diseases",
@@ -40,7 +44,8 @@
             "description": "The rotating student will be an integral part of the inpatient team, serving in an active role on the floor and participating in the evaluation and treatment of clinic patients. Daily morning rounds will be completed with the inpatient teams and will be followed by scheduled didactic sessions with various faculty throughout the week. Outpatient rotations will be included as a fundamental clinical experience and will encompass the breadth of PM&R to the best that can be accomplished in this short block. In-depth examinations of the neurologic and musculoskeletal systems will be performed.",
             "prerequisites": "Successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

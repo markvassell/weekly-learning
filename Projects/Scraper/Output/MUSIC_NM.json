@@ -8,7 +8,8 @@
             "description": "Organized study of selected topics. Subjects vary from semester to semester. May be repeated once for additional credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Music Travel Course",
@@ -16,7 +17,8 @@
             "description": "Study tour designed to broaden perspective of persons interested in music. Stresses relationship of music to art and ideas in a variety of social and cultural contexts. Participant bears cost of course.",
             "prerequisites": "instructor's consent",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Music",
@@ -24,7 +26,8 @@
             "description": "Independent investigation leading to a paper project.  Sections are: Music Theory, Music Composition, Music History, Music Performance/Pedagogy.  May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Music I",
@@ -32,15 +35,19 @@
             "description": "Introduction to rhythmic, melodic, harmonic, and structural elements of music. Designed for non-music majors. No credit for music majors or minors.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Music II",
             "number": "1212",
             "description": "Continuation of MUSIC_NM 1211. No credit for music majors or minors.",
-            "prerequisites": "Grade of C- or better in MUSIC_NM 1211",
+            "prerequisites": "Grade of C- or better in MUSIC_NM 1211",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MUSIC_NM 1211"
+            ]
         },
         {
             "name": "Experiencing Music Through Concert Attendance",
@@ -48,7 +55,8 @@
             "description": "Development of music listening skills through concert attendance, reading and class attendance.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Masterpieces of Western Music",
@@ -56,7 +64,8 @@
             "description": "Introduction to the Western fine-art tradition through the study of representative masterworks, emphasis on developing listening skills; directed to non-majors.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Jazz, Pop, and Rock",
@@ -64,7 +73,8 @@
             "description": "Historical introduction to jazz (to approximately 1970) and the American popular song, including rock and roll (to approximately 1980); directed to non-majors.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Jazz",
@@ -72,7 +82,8 @@
             "description": "Historical survey of American jazz from its origin to the present. No credit for students who have taken MUSIC_NM 1311.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to World Music",
@@ -80,7 +91,8 @@
             "description": "Introduction to the musical traditions of selected non-Western societies; emphasis on developing listening skills; directed to non-majors, but music majors may enroll.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Orchestral Masterpieces",
@@ -88,7 +100,8 @@
             "description": "In-depth study of selected symphonic works of masters from Joseph Haydn to Aaron Copland.  Students develop critical listening skills to identify orchestral instruments and perceive the structure and character of selected orchestral works.  Directed to non-music majors.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Musical Profile-Bach",
@@ -96,7 +109,8 @@
             "description": "Systematic study of the music of J.S. Bach directed to the general student.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Music Profile--Wolfgang A. Mozart",
@@ -104,7 +118,8 @@
             "description": "A systematic introduction to the music of Wolfgang Amadeus Mozart.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Musical Profile-Beethoven",
@@ -112,7 +127,8 @@
             "description": "Systematic study of the music of Ludwig van Beethoven directed to the general student.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Music Profile--Claude Debussy",
@@ -120,7 +136,8 @@
             "description": "A systematic introduction to the music of Claude Debussy. Graded on A/-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Music Profile--Igor Stravinsky",
@@ -128,7 +145,8 @@
             "description": "A systematic introduction to the music of Igor Stravinsky. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Musical Profile-Copland",
@@ -136,7 +154,8 @@
             "description": "Systematic study of the music of Aaron Copland directed to the general student.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to African-American Music",
@@ -144,7 +163,8 @@
             "description": "Introduction to the history and scholarship of African American music from eighteenth through twentieth centuries. Focus on African legacies and retentions, slave culture, the black church, minstrelsy, folk traditions, spirituals, ragtime, blues, jazz, soul, R&B, and hip hop.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Soul and Country",
@@ -152,7 +172,8 @@
             "description": "(same as BL_STU 1335).  Examination of musical cultures signified by \"soul\" and \"country\".  Study of the evolution and aesthetics of these genres and how they deal with concepts like identity, class, race, and ethnicity; gender and sexuality; politics and patriotism.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Music of Love and Death",
@@ -160,7 +181,8 @@
             "description": "Exploration of musical expression surrounding love and death in specific works of diverse styles and sociological contexts.  Students will learn to listen to and appreciate music with informed ears and minds, develop strong perceptual skills, and cultivate a musical vocabulary.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Drama Through Western Music",
@@ -168,7 +190,8 @@
             "description": "Introduction to the musical culture of the theater through the ages by examining specific works of diverse styles and sociological contexts.  Students learn to listen to and appreciate music with informed ears and minds, develop perceptual skills, and cultivate musical vocabulary.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studio Instruction",
@@ -176,7 +199,8 @@
             "description": "Acceptable for non-majors and majors requiring a half-hour lesson with instructor's consent. May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Beginning Piano Class",
@@ -184,7 +208,8 @@
             "description": "For non-music majors only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Intermediate Piano Class",
@@ -192,7 +217,8 @@
             "description": "For non-music majors only. Continuation of MUSIC_NM 1608.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Elementary Folk Guitar Class",
@@ -200,7 +226,8 @@
             "description": "Teaching correct hand position, strum patterns, and chords needed for accompaniment of popular and folk songs.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Beginning Classical Guitar Class",
@@ -208,7 +235,8 @@
             "description": "Beginning Classical Guitar Class",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Beginning Drumset",
@@ -216,7 +244,8 @@
             "description": "Fundamentals of the drumset, including an historical survey and biographical sketch of several performers. Also can be used as a pedagogical outline for future music teachers.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Basic Musicianship",
@@ -224,7 +253,8 @@
             "description": "Development of musicianship through music reading, playing, creating, and perceptive listening, including study of pitch, rhythm, structure, style, expressive and interpretive elements, and related vocabulary. No credit for music majors or minors or students who have completed MUSIC_NM 1211 or MUSIC_NM 1212.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Voice Class I",
@@ -232,15 +262,19 @@
             "description": "Fundamentals of singing: posture, breath support, control, vocalization, concepts of tone quality, placement and resonance. Literature selected for students with no previous vocal training. Adapted to needs of drama and other interdisciplinary students.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Voice Class II",
             "number": "1652",
             "description": "Continuation of  MUSIC_NM 1651.",
-            "prerequisites": "MUSIC_NM 1651",
+            "prerequisites": "MUSIC_NM 1651",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MUSIC_NM 1651"
+            ]
         },
         {
             "name": "Perceiving Musical Traditions and Styles",
@@ -248,7 +282,8 @@
             "description": "An introduction to music from the late Baroque to the present day, including fine art, folk, and popular music.  Designed to serve as a foundation for developing knowledge and skills of musical perception that will eventually lead to thoughtful written commentary on musical performances.  Graded on A-F basis only.",
             "prerequisites": "open only to Journalism majors with sophomore standing or higher",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Perceiving Musical Traditions and Styles - Honors",
@@ -256,7 +291,8 @@
             "description": "An introduction to music from the late Baroque to the present day, including fine art, folk, and popular music.  Designed to serve as a foundation for developing knowledge and skills of musical perception that will eventually lead to thoughtful written commentary on musical performances.  Graded on A/F basis only.",
             "prerequisites": "open only to Journalism majors with sophomore standing or higher.  Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Live Music: Up Close and Personal",
@@ -264,7 +300,8 @@
             "description": "Study of classical chamber music from 1770-present through live performances. Artistic, cultural and historical contexts; development of listening skills and basic music vocabulary. No credit for music majors and music minors.",
             "prerequisites": "None Listed",
             "hours": "1Recommended: Humanities credit for non-music students",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the Classical Guitar",
@@ -272,7 +309,8 @@
             "description": "Historical development of the classical guitar and guitar music from 1400 to today.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "Humanities credit for any and all non-music majors"
+            "recommendation": "Humanities credit for any and all non-music majors",
+            "connections": "None Listed"
         },
         {
             "name": "Studio Instruction for Non-Majors",
@@ -280,7 +318,8 @@
             "description": "Acceptable for non-majors only. May be repeated for credit.",
             "prerequisites": "audition by examining committee and instructor's consent",
             "hours": "1-2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studio Instruction for Non-Majors",
@@ -288,7 +327,8 @@
             "description": "Acceptable for non-majors only.  May be repeated for credit.",
             "prerequisites": "audition by examining committee and instructor's consent",
             "hours": "1-2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Travel Seminar",
@@ -296,7 +336,8 @@
             "description": "Selected topics for directed study in music undertaken in context of the tour. Emphasis on subjects with cross-disciplinary implications. Participant bears cost of course.",
             "prerequisites": "instructor's consent",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studio Instruction for Non-Majors",
@@ -304,7 +345,8 @@
             "description": "Acceptable for graduate s credit for non-majors only. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1-2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

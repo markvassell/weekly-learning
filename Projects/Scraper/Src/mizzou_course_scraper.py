@@ -100,7 +100,7 @@ def clean_course_description(data):
     if recommendation == -1:
         recommendation= 'None Listed'
 
-    return data, hours, pre_req, recommendation
+    return data, hours, pre_req.replace('\xa0', ' '), recommendation.replace('\xa0', ' ')
 
 
 if __name__ == "__main__":
@@ -172,12 +172,26 @@ if __name__ == "__main__":
 
 
             connections = []
-
+            direct_connection_data = []
             class_description = info.find('p', {'class': 'courseblockdesc'}).text
             class_description = clean_course_description(class_description)
 
-    
-            #print(connections)
+            for code in departments_list:
+                points = [m.start() for m in re.finditer(r'(?={})'.format(re.escape(code)), class_description[2])]
+                if len(points) > 0:
+                    connections.append([len(code), points])
+
+            # Check if there are any courses connected with the current course
+            if len(connections) > 0:
+                for data in connections:
+                    word_len = int(data[0])
+                    for info in data[1]:
+                        start = int(info)
+                        direct_connection_data.append(class_description[2][start: start + word_len + 5])
+
+            # If there a no other class with a connection to the current one then mark it down as none listed
+            if len(direct_connection_data) == 0:
+                direct_connection_data = "None Listed"
 
             class_list.append(
                 {
@@ -186,7 +200,8 @@ if __name__ == "__main__":
                     "description": class_description[0],
                     "prerequisites": class_description[2],
                     "hours": class_description[1],
-                    "recommendation": class_description[3]
+                    "recommendation": class_description[3],
+                    "connections" : direct_connection_data
                 }
             )
         department_complete_data.update({"courses" : class_list})

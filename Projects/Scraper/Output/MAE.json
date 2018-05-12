@@ -8,7 +8,8 @@
             "description": "Introduction to the mechanical engineering profession, the Mechanical and Aerospace Engineering Department and curriculum, and the core disciplines of mechanical engineering. Introduction to engineering problem solving, ethics, and design.",
             "prerequisites": "Restricted to engineering students only",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Experimental Course",
@@ -16,7 +17,8 @@
             "description": "Experimental course. For freshmen-level students. Content and credit hours to be listed in Schedule of Courses.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Experimental Course",
@@ -24,95 +26,137 @@
             "description": "Experimental course. For sophomore-level students. Content and credit hours to be listed in Schedule of Courses.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Programming and Software Tools",
             "number": "2100",
             "description": "Introduction to the use of computers, programming, and software. Topics include MATLAB syntax and programming techniques, algorithm design, and programming with Excel spreadsheets.",
-            "prerequisites": "grade of C- or better in MATH 1700.  Restricted to Mechanical Aerospace Engineering students only",
+            "prerequisites": "grade of C- or better in MATH 1700.  Restricted to Mechanical Aerospace Engineering students only",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1700"
+            ]
         },
         {
             "name": "Thermodynamics",
             "number": "2300",
             "description": "(same as ENGINR 2300). Fluid properties, work and heat, first law, second law, entropy, applications to vapor and ideal gas processes.",
-            "prerequisites": "grade of C- or better in PHYSCS 2750",
+            "prerequisites": "grade of C- or better in PHYSCS 2750",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2750"
+            ]
         },
         {
             "name": "Dynamics",
             "number": "2600",
             "description": "Basic fundamentals of particle and rigid body dynamics; energy and momentum methods.",
-            "prerequisites": "grade of C- or better in ENGINR 1200. Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "grade of C- or better in ENGINR 1200. Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1200"
+            ]
         },
         {
             "name": "Computational Methods for Engineering Design",
             "number": "3100",
             "description": "Introduction to numerical methods for linear system analysis, curve-fitting, integration and differentiation, and optimization.  The numerical methods are demonstrated through computer implementation and application to engineering design problems.",
-            "prerequisites": "Grade of C- or better in MAE 2100; Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in MAE 2100; Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "4PrerequisitesorCorequisites:MATH 4100gradeofC-orbetter",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 2100"
+            ]
         },
         {
             "name": "Engineering Materials",
             "number": "3200",
             "description": "The nature of the structure of engineering materials. The relationship of material structure to physical properties.  Mechanical behavior of engineering materials.",
-            "prerequisites": "Grade of C- or better in ENGINR 2200 and CHEM 1320. Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in ENGINR 2200 and CHEM 1320. Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Engineering Materials - Writing Intensive",
             "number": "3200W",
             "description": "The nature of the structure of engineering materials. The relationship of material structure to physical properties.  Mechanical behavior of engineering materials.",
-            "prerequisites": "Grade of C- or better in ENGINR 2200 and CHEM 1320. Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in ENGINR 2200 and CHEM 1320. Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Fluid Mechanics",
             "number": "3400",
             "description": "A basic course in fluid mechanics.  Topics include: fluid properties, hydrostatics, conservation laws, infinitesimal and finite control volume analysis, Navier-Stokes equations, dimensional analysis, internal and external flows.",
-            "prerequisites": "Grade of C- or better in MAE 2600; Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in MAE 2600; Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3PrerequisitesorCorequisites:MAE 2300gradeofC-orbetter",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 2600"
+            ]
         },
         {
             "name": "Dynamic Systems and Control",
             "number": "3600",
             "description": "Modeling and analysis of dynamic systems and introduction to feedback control.  Topics include dynamic modeling and response of mechanical, electrical, fluid, and thermal systems; and feedback control systems analysis.",
-            "prerequisites": "Grade of C- or better in MAE 2600 and MAE 3100 and MATH 4100. Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in MAE 2600 and MAE 3100 and MATH 4100. Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3PrerequisitesorCorequisites:ENGINR 2100gradeofC-orbetter",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100",
+                "MAE 2600",
+                "MAE 3100"
+            ]
         },
         {
             "name": "Dynamic Systems and Control - Honors",
             "number": "3600H",
             "description": "Modeling and analysis of dynamic systems and introduction to feedback control.  Topics include dynamic modeling and response of mechanical, electrical, fluid, and thermal systems; and feedback control systems analysis.",
-            "prerequisites": "Grade of C- or better in MAE 2600 and MAE 3100 and MATH 4100. Restricted to Mechanical and Aerospace Engineering students only.  Honors eligibility required",
+            "prerequisites": "Grade of C- or better in MAE 2600 and MAE 3100 and MATH 4100. Restricted to Mechanical and Aerospace Engineering students only.  Honors eligibility required",
             "hours": "3PrerequisitesorCorequisites:ENGINR 2100gradeofC-orbetter",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100",
+                "MAE 2600",
+                "MAE 3100"
+            ]
         },
         {
             "name": "Instrumentation and Measurements Laboratory",
             "number": "3800",
             "description": "Design and reporting of experimental investigations.  Topics include instrument design equations, sources of error, and calibration.  Survey of instruments to measure: voltage, resistance, current, time, frequency, displacement, velocity, acceleration, strain, force, and torque.",
-            "prerequisites": "grade of C- or better in ENGINR 2100 and ENGINR 2200 and Physics 2760; Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "grade of C- or better in ENGINR 2100 and ENGINR 2200 and Physics 2760; Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3PrerequisitesorCorequisites:MAE 3600gradeofC-orbetter",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2100",
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Mechanism Design",
             "number": "3900",
             "description": "Analysis of kinematics and dynamics of machinery.  Topics include design and selection of various mechanisms.  Graded on A-F basis only.",
-            "prerequisites": "Grade of C- or better in MAE 2600 and MAE 3100.  Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in MAE 2600 and MAE 3100.  Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 2600",
+                "MAE 3100"
+            ]
         },
         {
             "name": "Topics in Mechanical and Aerospace Engineering",
@@ -120,7 +164,8 @@
             "description": "Current and new technical developments in mechanical and aerospace engineering. Enrollment limited to  Mechanical and Aerospace Engineering students only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Mechanical and Aerospace Engineering",
@@ -128,55 +173,74 @@
             "description": "Special design, experimental and analytical problems in mechanical and aerospace engineering.",
             "prerequisites": "Instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Aerospace Structures",
             "number": "4210",
             "description": "(cross-leveled with MAE 7210).  Fundamentals of the mechanics and design issues of aerospace structures.  Analysis of thin skins with stiffeners for external surfaces, bulkheads and frames for shape support, and fasteners for holding components together.  Graded on A-F basis only.",
-            "prerequisites": "C- or better in ENGINR 2200",
+            "prerequisites": "C- or better in ENGINR 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Materials Selection",
             "number": "4220",
             "description": "(cross-leveled with MAE 7220).  Study of the physical and mechanical metallurgy of alloy systems of interest in engineering applications.",
-            "prerequisites": "C- or better in MAE 3200; Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "C- or better in MAE 3200; Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Nanomaterials",
             "number": "4230",
             "description": "(cross-leveled with MAE 7230).  The primary goal of this course is to introduce students into the new field of nanostructured materials.  The emphasis of the course is to introduce the students into synthesis and characterization of nanomaterials, the behavior of such materials with nanoscale structures, and their technological applications.",
-            "prerequisites": "C- or better in MAE 3200 or equivalent",
+            "prerequisites": "C- or better in MAE 3200 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Nanomaterials - Writing Intensive",
             "number": "4230W",
             "description": "(cross-leveled with MAE 7230).  The primary goal of this course is to introduce students into the new field of nanostructured materials.  The emphasis of the course is to introduce the students into synthesis and characterization of nanomaterials, the behavior of such materials with nanoscale structures, and their technological applications.",
-            "prerequisites": "C- or better in MAE 3200 or equivalent",
+            "prerequisites": "C- or better in MAE 3200 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Transport Phenomena in Materials Processing",
             "number": "4231",
             "description": "(same as BIOL_EN 4231; cross-leveled with BIOL_EN 7231, MAE 7231).  Applications of fluid flow, heat transfer, and mass transfer in steady-state and unsteady-state materials processing with applications to metals, polymers, and ceramics.  Graded on A-F basis only.",
-            "prerequisites": "C- or better in MATH 4100",
+            "prerequisites": "C- or better in MATH 4100",
             "hours": "3PrerequisitesorCorequisites:MAE 4300",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100"
+            ]
         },
         {
             "name": "Ceramic Materials and Processing",
             "number": "4232",
             "description": "(cross-leveled with MAE 7232). Treatment of ceramics materials, structure, and ceramic processing with hands-on demonstration/labs. Graded on A-F basis only.",
-            "prerequisites": "C- or better in MAE 3200",
+            "prerequisites": "C- or better in MAE 3200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Diffraction Methods in Materials Science",
@@ -184,15 +248,19 @@
             "description": "(cross-leveled with MAE 7240).  Introduction to crystal structure and the use of x-rays and neutrons to study materials aspects including phase analysis, structure determination, residual stress and texture.",
             "prerequisites": "Senior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Composite Materials",
             "number": "4250",
             "description": "(cross-leveled with MAE 7250).  A survey of composite materials used in engineering emphasizing fiber-reinforced composites but including laminate and particulate composites.",
-            "prerequisites": "C- or better in MAE 3200. Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "C- or better in MAE 3200. Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Experimental Stress Analysis",
@@ -200,23 +268,34 @@
             "description": "(cross-leveled with MAE 7260). The course introduces basic concepts of stress and strain using elasticity theory.  Single point and full-field experimental methods for stress and strain measurement, such as strain gages and photoelastcity, are discussed.  Application of experimental methods in transducer development and design of structures will be covered.",
             "prerequisites": "senior standing in MAE",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE"
+            ]
         },
         {
             "name": "Nondestructive Evaluation of Materials",
             "number": "4270",
             "description": "(cross-leveled with MAE 7270).  The role of nondestructive evaluation (NDE) in engineering is explored. Ultrasonic NDE is studied in detail. Labs are used to support the study of ultrasonic NDE. Other NDE techniques are surveyed.",
-            "prerequisites": "C- or better in MAE 3200, Mechanical and Aerospace Engineering students only",
+            "prerequisites": "C- or better in MAE 3200, Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Introduction to Finite Element Methods",
             "number": "4280",
             "description": "(cross-leveled with MAE 7280). The application of matrix operations, energy concepts and structural mechanics to the development of the finite element method. Application of finite element method to beams, frames and trusses.",
-            "prerequisites": "C- or better in ENGINR 2200, MAE 3100, MAE students only",
+            "prerequisites": "C- or better in ENGINR 2200, MAE 3100, MAE students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200",
+                "MAE 3100",
+                "MAE stud"
+            ]
         },
         {
             "name": "Welding Engineering",
@@ -224,31 +303,42 @@
             "description": "(cross-leveled with MAE 7290).  Welding is the most common method of joining similar as well as dissimilar materials.  This course thus introduces the basic science and engineering aspects of commonly used fusion and non-fusion welding processes.  Stress analysis and failure to welded joints is also introduced to develop safe and durable welded structures.",
             "prerequisites": "senior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Heat Transfer",
             "number": "4300",
             "description": "Fundamentals of conduction, convection and radiation. Use of nondimensional parameters. Theory and design of simple heat exchangers.",
-            "prerequisites": "Grade of C- or better in MAE 2300 and MAE 3400. Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in MAE 2300 and MAE 3400. Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 2300",
+                "MAE 3400"
+            ]
         },
         {
             "name": "Intermediate Heat Transfer",
             "number": "4310",
             "description": "(cross-leveled with MAE 7310).  Advanced topics in conduction, convection, and radiation. Heat exchanges and their applications will also be analyzed.",
-            "prerequisites": "C- or better in MAE 4300 and Mechanical Engineering students only",
+            "prerequisites": "C- or better in MAE 4300 and Mechanical Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Design of Thermal Systems",
             "number": "4320",
             "description": "(cross-leveled with MAE 7320).  Thermal systems are simulated by mathematical models (often on a digital computer), followed by optimization. Supporting topics include: economics, heat transfer, thermodynamics, and optimization.",
-            "prerequisites": "C- or better in MAE 4300",
+            "prerequisites": "C- or better in MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Design of Thermal Systems - Writing Intensive",
@@ -256,7 +346,8 @@
             "description": "Thermal systems are simulated by mathematical models (often on a digital computer), followed by optimization. Supporting topics include: economics, heat transfer, thermodynamics, and optimization.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "MAE 4300"
+            "recommendation": "MAE 4300",
+            "connections": "None Listed"
         },
         {
             "name": "Nanoscale Energy Transport",
@@ -264,15 +355,22 @@
             "description": "(cross-leveled with MAE 7325). This course examines non-equilibrium energy processes from the vantage point of fundamental energy carriers. Topics include foundational solid state physics, statistical energy carrier distributions, density of states, and dispersion relationships. Energy transport will be discussed in terms of kinetic theory, the Landauer Formalism, and the Boltzmann Transport Equation. Graded on A-F basis only.",
             "prerequisites": "Senior standing in MAE",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE"
+            ]
         },
         {
             "name": "Heating and Air Conditioning",
             "number": "4340",
             "description": "(cross-leveled with MAE 7340). General principles of thermal science applied to the design of environmental control systems. Topics covered include heating and cooling load calculations, annual operating and life cycle cost estimating, duct and pipe sizing, and equipment selection.",
-            "prerequisites": "C- or better in MAE 4300 and MAE students only",
+            "prerequisites": "C- or better in MAE 4300 and MAE students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300",
+                "MAE stud"
+            ]
         },
         {
             "name": "Industrial Energy Analysis",
@@ -280,55 +378,74 @@
             "description": "(cross-leveled with MAE 7355).  Energy use in industrial systems: furnaces, boilers, compressors, motors, lighting, etc.  Insulation in building envelopes.  Renewable energy sources.  Energy auditing and economic analysis.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: MAE 4300",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Intermediate Thermodynamics",
             "number": "4380",
             "description": "(cross-leveled with MAE 7380).  Topics from classical and statistical thermodynamics.",
-            "prerequisites": "C- or better in MAE 2300",
+            "prerequisites": "C- or better in MAE 2300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 2300"
+            ]
         },
         {
             "name": "Aerospace Propulsion",
             "number": "4390",
             "description": "(cross-leveled with MAE 7390).  Analysis of aircraft engines and spacecraft propulsion systems.",
-            "prerequisites": "C- or better in MAE 3400 and Junior standing in Mechanical and Aerospace Engineering",
+            "prerequisites": "C- or better in MAE 3400 and Junior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Intermediate Fluid Mechanics",
             "number": "4420",
             "description": "(cross-leveled with MAE 7420).  Topics in potential and viscous flow theory, and computational fluid dynamics.",
-            "prerequisites": "C- or better in MAE 3400",
+            "prerequisites": "C- or better in MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Introduction to Computational Fluid Dynamics and Heat Transfer",
             "number": "4430",
             "description": "(cross-leveled with MAE 7430).  Introduction to the principles and development of the finite difference approximations to the governing differential equations of viscous and inviscid fluid flow, as well as heat transfer. Introduction to discretization methods and the calculation of flow fields, convection, diffusion and conduction.",
-            "prerequisites": "C- or better in MAE 3400",
+            "prerequisites": "C- or better in MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Aerodynamics",
             "number": "4440",
             "description": "(cross-leveled with MAE 7440).  Presents fundamentals of wing and airfoil theory for incompressible flow, including fluid kinematics and dynamics, potential flow, flow about a body, thin-airfoil theory, and finite wing.",
-            "prerequisites": "C- or better in MAE 3400",
+            "prerequisites": "C- or better in MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Gas Dynamics",
             "number": "4450",
             "description": "(cross-leveled with MAE 7450).  One dimensional compressible flow with and without friction and heat transfer. Isentropic flow and shock phenomenon in nozzles and diffusers.",
-            "prerequisites": "C- or better MAE 3400",
+            "prerequisites": "C- or better MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Microfluidics",
@@ -336,15 +453,20 @@
             "description": "(cross-leveled with MAE 7460). This course focuses on liquid transport in micro/nano fluidic devices and related electrohydrodynamics. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "MAE 3400"
+            "recommendation": "MAE 3400",
+            "connections": "None Listed"
         },
         {
             "name": "Manufacturing Methods",
             "number": "4500",
             "description": "Introduction to manufacturing processes with emphasis on those aspects most relevant to methods, problems in force analysis, and practicum and experimentation in machine tool applications.",
-            "prerequisites": "Grade of C- or better in ENGINR 1110 and MAE 3200.  Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in ENGINR 1110 and MAE 3200.  Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1110",
+                "MAE 3200"
+            ]
         },
         {
             "name": "Integrated Production Systems",
@@ -352,7 +474,8 @@
             "description": "(same as IMSE 4550). Product realization process from design, process planning, to manufacturing. Includes CE, DFS/DFM, CAD, CAPP, CNC, and survey of manufacturing methods.",
             "prerequisites": "Junior Standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Mechanics of Materials",
@@ -360,31 +483,45 @@
             "description": "(same as CV_ENG 4600; cross-leveled with MAE 7600 and CV_ENG 7600). Analysis of more complicated problems in stresses, strains.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "ENGINR 2200"
+            "recommendation": "ENGINR 2200",
+            "connections": "None Listed"
         },
         {
             "name": "Aircraft Flight Performance",
             "number": "4620",
             "description": "(cross-leveled with MAE 7620).  Analysis of aircraft flight and aircraft performance metrics. Topics include airplane aerodynamics and propulsion, steady flight, range, endurance, take-off and landing, and aircraft maneuvers. Graded on A-F basis only.",
-            "prerequisites": "C- or better in MAE 2600, MAE 3100, MAE 3400, and Junior standing in Mechanical and Aerospace Engineering",
+            "prerequisites": "C- or better in MAE 2600, MAE 3100, MAE 3400, and Junior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 2600",
+                "MAE 3100",
+                "MAE 3400"
+            ]
         },
         {
             "name": "Space Flight Mechanics",
             "number": "4630",
             "description": "(cross-leveled with MAE 7630). Analysis of spacecraft orbits and trajectories. Topics include orbital mechanics, orbital maneuvers, interplanetary missions, and entry flight mechanics.",
-            "prerequisites": "C- or better in MAE 2600, MAE 3100, and Junior standing in Mechanical and Aerospace Engineering",
+            "prerequisites": "C- or better in MAE 2600, MAE 3100, and Junior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 2600",
+                "MAE 3100"
+            ]
         },
         {
             "name": "Synthesis of Linkages",
             "number": "4650",
             "description": "(cross-leveled with MAE 7650).  Type, number and dimensional synthesis of linkages to produce a given input-output motion and/or force.",
-            "prerequisites": "C- or better in MAE 3100, MAE 3900, and Junior standing in Mechanical and Aerospace Engineering",
+            "prerequisites": "C- or better in MAE 3100, MAE 3900, and Junior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3100",
+                "MAE 3900"
+            ]
         },
         {
             "name": "Vibration Analysis",
@@ -392,127 +529,186 @@
             "description": "(same as CV_ENG 4660). Vibration theory and its application to mechanical systems. Topics include free and forced vibration analysis of single- and multi-degree of freedom systems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "MAE 2600 and MATH 4100"
+            "recommendation": "MAE 2600 and MATH 4100",
+            "connections": "None Listed"
         },
         {
             "name": "Vehicle Dynamics",
             "number": "4670",
             "description": "(cross-leveled with MAE 7670).  Analysis and prediction of the dynamic behavior of ground vehicles utilizing computer simulation. Mechanics of various suspension systems, tire-roadway interaction, vehicle aerodynamics, vehicle handling and steering characteristics. Special topics including nonholonomic constraint formulation and stability of motion.",
-            "prerequisites": "C- or better in MAE 3600 and Junior standing in Mechanical and Aerospace Engineering",
+            "prerequisites": "C- or better in MAE 3600 and Junior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Introduction to MEMS",
             "number": "4680",
             "description": "(cross-leveled with MAE 7680).  The course will start with a survey of the widespread applications of MEMS sensors and actuators.  Micro fabrication methods used in conventional semiconductor industry will be introduced.  MEMS-specific process will be emphasized. Fundamental principles in electric circuits and mechanics will be reviewed.  Special attention is on mechanical issues encountered in MEMS design and fabrication.",
-            "prerequisites": "C- or better in MAE 3600 and Junior standing in Mechanical and Aerospace Engineering",
+            "prerequisites": "C- or better in MAE 3600 and Junior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Hydraulic Control System",
             "number": "4710",
             "description": "(cross-leveled with MAE 7710). Analysis of hydraulic control components and systems. Topics include pumps, valves, actuators, and industrial and mobile control systems.  May be repeated for credit.  Graded on A-F basis only.",
-            "prerequisites": "C- or better in MAE 3400, MAE 3600, and Junior standing in Mechanical and Aerospace Engineering",
+            "prerequisites": "C- or better in MAE 3400, MAE 3600, and Junior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400",
+                "MAE 3600"
+            ]
         },
         {
             "name": "Modern Control",
             "number": "4720",
             "description": "(cross-leveled with MAE 7720).  Analysis and design of control systems using state-space methods.  Topics include controllability and observability, feedback control using pole-placement, state observers, optimal linear-quadratic feedback control, and optimal estimation. Graded on A-F basis only.",
-            "prerequisites": "C- or better in MAE 3600 and Junior standing in Mechanical and Aerospace Engineering",
+            "prerequisites": "C- or better in MAE 3600 and Junior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Mechatronics",
             "number": "4730",
             "description": "(cross-leveled with MAE 7730).  Design of systems which require the integration of mechanical and electronic components.  Topics include microcontrollers, sensors, actuators, mechanical systems, real time control system programming, and modeling of electronic and mechanical systems.",
-            "prerequisites": "C- or better in MAE 3600 and Junior standing in Mechanical and Aerospace Engineering",
+            "prerequisites": "C- or better in MAE 3600 and Junior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Digital Control",
             "number": "4740",
             "description": "(cross-leveled with MAE 7740).  Design and analysis of control systems using discrete-time methods.  Topics include z-transforms, sampling and reconstruction, stability analysis, and digital controller design.",
-            "prerequisites": "C- or better in MAE 3600 and Junior standing in Mechanical and Aerospace Engineering",
+            "prerequisites": "C- or better in MAE 3600 and Junior standing in Mechanical and Aerospace Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Classical Control",
             "number": "4750",
             "description": "(same as BIOL_EN 4310, ECE 4310; cross-leveled with MAE 7750, BIOL_EN 7310, ECE 7310 ). Study of feedback control design based on classical continuous-time methods.  Topics include performance specifications, stability analysis, root locus compensator design, and frequency domain analysis and compensator design.",
-            "prerequisites": "C- or better in MATH 4100",
+            "prerequisites": "C- or better in MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100"
+            ]
         },
         {
             "name": "Applied Thermal/Fluids Laboratory",
             "number": "4800",
             "description": "Applied thermal and fluid systems, such as HVAC and psychometrics, will be introduced.  Experiments conducted on thermal/fluid hardware components will be used to reinforce concepts.",
-            "prerequisites": "Grade of C- or better in MAE 4300.  Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in MAE 4300.  Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Applied Thermal/Fluids Laboratory - Writing Intensive",
             "number": "4800W",
             "description": "Applied thermal and fluid systems, such as HVAC and psychometrics, will be introduced.  Experiments conducted on thermal/fluid hardware components will be used to reinforce concepts.",
-            "prerequisites": "Grade of C- or better in MAE 4300.  Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in MAE 4300.  Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Experimental Methods in Fluid Flow and Heat Transfer",
             "number": "4820",
             "description": "(cross-leveled with MAE 7820). Laboratory experiments involving fundamental mechanisms and phenomena associated with fluid flow and heat transfer. Current experimental methods and techniques employed.",
-            "prerequisites": "C- or better in MAE 4800",
+            "prerequisites": "C- or better in MAE 4800",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4800"
+            ]
         },
         {
             "name": "Machine Element Design",
             "number": "4900",
             "description": "Application of stress and fatigue analyses to the design of machine elements such as fasteners, springs, shafts, and gears.  Topics include selection of appropriate materials and machine elements.",
-            "prerequisites": "Grade of C- or better in MAE 3200. Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or better in MAE 3200. Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Applied Mechanical Optimization",
             "number": "4930",
             "description": "(cross-leveled with MAE 7930).  Introduction to mathematical programming techniques and applications to the design of mechanical systems and components.",
-            "prerequisites": "C- or better in MAE 3100, Mechanical and Aerospace Engineering students only",
+            "prerequisites": "C- or better in MAE 3100, Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3100"
+            ]
         },
         {
             "name": "Aircraft Design",
             "number": "4940",
             "description": "(cross-leveled with MAE 7940). Conceptual design of aircraft, from initial sizing and design layout to design analysis, optimization and trade studies.  Fundamental theories for aircraft design including sizing, aerodynamic forces, airfoil selection, wing loading, configuration layout payloads, propulsion systems, landing gear, aerospace structures, and cost analysis.  Graded on A-F basis only.",
-            "prerequisites": "C- or better in ENGR 2200, MAE 3400, MAE 3600, and Junior standing in MAE",
+            "prerequisites": "C- or better in ENGR 2200, MAE 3400, MAE 3600, and Junior standing in MAE",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400",
+                "MAE 3600",
+                "MAE"
+            ]
         },
         {
             "name": "Senior Capstone Design",
             "number": "4980",
             "description": "Senior design experience.  Topics include reliability, safety, manufacturability, economic, and environmental constraints; design case studies; and industrial design projects.",
-            "prerequisites": "Grade of C- or greater in MAE 3600, MAE 3900, MAE 4500, MAE 4900 and STAT 4710 or IMSE 2110; Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or greater in MAE 3600, MAE 3900, MAE 4500, MAE 4900 and STAT 4710 or IMSE 2110; Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "IMSE 2110",
+                "MAE 3600",
+                "MAE 3900",
+                "MAE 4500",
+                "MAE 4900",
+                "STAT 4710"
+            ]
         },
         {
             "name": "Senior Capstone Design - Writing Intensive",
             "number": "4980W",
             "description": "Senior design experience.  Topics include reliability, safety, manufacturability, economic, and environmental constraints; design case studies; and industrial design projects.",
-            "prerequisites": "Grade of C- or greater in MAE 3600, MAE 3900, MAE 4500, MAE 4900 and STAT 4710 or IMSE 2110; Restricted to Mechanical and Aerospace Engineering students only",
+            "prerequisites": "Grade of C- or greater in MAE 3600, MAE 3900, MAE 4500, MAE 4900 and STAT 4710 or IMSE 2110; Restricted to Mechanical and Aerospace Engineering students only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "IMSE 2110",
+                "MAE 3600",
+                "MAE 3900",
+                "MAE 4500",
+                "MAE 4900",
+                "STAT 4710"
+            ]
         },
         {
             "name": "Undergraduate Research in Mechanical and Aerospace Engineering",
@@ -520,7 +716,8 @@
             "description": "Independent investigation or project in Mechanical Engineering. Enrollment limited to senior  Mechanical and Aerospace Engineering students only.",
             "prerequisites": "instructor's consent",
             "hours": "0-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Honors Research Mechanical & Aerospace Engineering",
@@ -528,7 +725,8 @@
             "description": "Independent investigation to be presented as an undergraduate honors thesis.  Enrollment limited to Honors  Mechanical and Aerospace Engineering students only.  ",
             "prerequisites": " Consent required",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Honors Research Mechanical & Aerospace Engineering - Writing Intensive",
@@ -536,7 +734,8 @@
             "description": "Independent investigation to be presented as an undergraduate honors thesis.  Enrollment limited to Honors  Mechanical and Aerospace Engineering students only.  ",
             "prerequisites": " Consent required",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Mechanical and Aerospace Engineering",
@@ -544,47 +743,66 @@
             "description": "Current and new technical developments in mechanical and aerospace engineering.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Aerospace Structures",
             "number": "7210",
             "description": "Fundamentals of the mechanics and design issues of aerospace structures.  Analysis of thin skins with stiffeners for external surfaces, bulkheads and frames for shape support, and fasteners for holding components together.  Graded on A-F basis only.",
-            "prerequisites": "grade of C or better in ENGINR 2200",
+            "prerequisites": "grade of C or better in ENGINR 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Materials Selection",
             "number": "7220",
             "description": "Study of the physical and mechanical metallurgy of alloy systems of interest in engineering applications.",
-            "prerequisites": "MAE 3200",
+            "prerequisites": "MAE 3200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Nanomaterials",
             "number": "7230",
             "description": "The primary goal of this course is to introduce students into the new field of nanostructured materials.  The emphasis of the course is to introduce the students into synthesis and characterization of nanomaterials, the behavior of such materials with nanoscale structures, and their technological applications.",
-            "prerequisites": "MAE 3200 or equivalent",
+            "prerequisites": "MAE 3200 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Transport Phenomena in Materials Processing",
             "number": "7231",
             "description": "(same as BIOL_EN 7231) Applications of fluid flow, heat transfer, and mass transfer in steady-state and unsteady-state materials processing with applications to metals, polymers, and ceramics.  Graded A-F basis only.",
-            "prerequisites": "MAE 3200, MAE 3400, MAE 4300 (or equivalent courses) and MATH 4100",
+            "prerequisites": "MAE 3200, MAE 3400, MAE 4300 (or equivalent courses) and MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100",
+                "MAE 3200",
+                "MAE 3400",
+                "MAE 4300"
+            ]
         },
         {
             "name": "Ceramic Materials and Processing",
             "number": "7232",
             "description": "(cross-leveled with MAE 4232). Treatment of ceramics materials, structure, and ceramic processing with hands-on demonstration/labs. Graded on A-F basis only.",
-            "prerequisites": "MAE 3200 or equivalent course",
+            "prerequisites": "MAE 3200 or equivalent course",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Diffraction Methods in Materials Science",
@@ -592,15 +810,19 @@
             "description": "Introduction to crystal structure and the use of x-rays and neutrons to study materials aspects including phase analysis, structure determination, residual stress and texture.",
             "prerequisites": "instructor's consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Composite Materials",
             "number": "7250",
             "description": "A survey of composite materials used in engineering emphasizing fiber-reinforced composites but including laminate and particulate composites.",
-            "prerequisites": "MAE 3200",
+            "prerequisites": "MAE 3200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Experimental Stress Analysis",
@@ -608,15 +830,19 @@
             "description": "(cross-leveled with MAE 7260).. The course introduces basic concepts of stress and strain using elasticity theory.  Single point and full-field experimental methods for stress and strain measurement, such as strain gages and photoelastcity, are discussed.  Application of experimental methods in transducer development and design of structures will be covered.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nondestructive Evaluation of Materials",
             "number": "7270",
             "description": "The role of nondestructive evaluation (NDE) in engineering is explored. Ultrasonic NDE is studied in detail. Labs are used to support the study of ultrasonic NDE. Other NDE techniques are surveyed.",
-            "prerequisites": "MAE 3200",
+            "prerequisites": "MAE 3200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Introduction to Finite Element Methods",
@@ -624,7 +850,8 @@
             "description": "(cross-leveled with MAE 4280). The application of matrix operations, energy concepts and structural mechanics to the development of the finite element method. Application of finite element method to beams, frames and trusses.   ",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Welding Engineering",
@@ -632,23 +859,30 @@
             "description": "Welding is the most common method of joining similar as well as dissimilar materials.  This course thus introduces the basic science and engineering aspects of commonly used fusion and non-fusion welding processes.  Stress analysis and failure to welded joints is also introduced to develop safe and durable welded structures.",
             "prerequisites": "senior standing or graduate level",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Intermediate Heat Transfer",
             "number": "7310",
             "description": "Advanced topics in conduction, convection, and radiation. Heat exchanges and their applications will also be analyzed.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Design of Thermal Systems",
             "number": "7320",
             "description": "Thermal systems are simulated by mathematical models (often on a digital computer), followed by optimization. Supporting topics include: economics, heat transfer, thermodynamics, and optimization.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Nanoscale Energy Transport",
@@ -656,31 +890,41 @@
             "description": "(cross-leveled with MAE 4325).  This course examines non-equilibrium energy processes from the vantage point of fundamental energy carriers. Topics include foundational solid state physics, statistical energy carrier distributions, density of states, and dispersion relationships. Energy transport will be discussed in terms of kinetic theory, the Landauer Formalism, and the Boltzmann Transport Equation. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Solar Energy Utilization",
             "number": "7330",
             "description": "Thermal aspects of solar radiation applied to human and industrial needs. Solar energy availability: hourly, daily, and seasonally. Space and water heating. Thermal storage. Passive and active solar design of buildings and homes.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Heating and Air Conditioning",
             "number": "7340",
             "description": "General principles of thermal science applied to the design of environmental control systems. Topics covered include heating and cooling load calculations, annual operating and life cycle cost estimating, duct and pipe sizing, and equipment selection.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Power Plant System Design",
             "number": "7350",
             "description": "Preliminary component and system design. Optimum design of boilers, steam turbines, condensers and cooling towers and their integration into a system to minimize production costs and impact on the environment.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Industrial Energy Analysis",
@@ -688,7 +932,8 @@
             "description": "Energy use in industrial systems: furnaces, boilers, compressors, motors, lighting, etc.  Insulation in building envelopes.  Renewable energy sources.  Energy auditing and economic analysis.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MAE 4300 or instructor's consent",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Renewable Energy",
@@ -696,143 +941,201 @@
             "description": "Basic principles and technical details of various renewable energy technologies (solar, biomass, wind, hydroelectric, geothermal) for a sustainable energy supply. Process design, energy analysis, and environmental assessment of renewable energy systems. Graded on A-F basis only.",
             "prerequisites": "Instructor's consent and Bachelor's in Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Internal Combustion Engines",
             "number": "7360",
             "description": "Gas and oil engines. Thermodynamics of ideal and actual cycles, fuels and combustion, carburetor and injection systems, performance, construction.",
-            "prerequisites": "MAE 3400",
+            "prerequisites": "MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Combustion Fundamentals",
             "number": "7370",
             "description": "Introduction to combustion principles.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Intermediate Thermodynamics",
             "number": "7380",
             "description": "Topics from classical and statistical thermodynamics.",
-            "prerequisites": "ENGINR 2300",
+            "prerequisites": "ENGINR 2300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2300"
+            ]
         },
         {
             "name": "Aerospace Propulsion",
             "number": "7390",
             "description": "Analysis of aircraft engines and spacecraft propulsion systems.",
-            "prerequisites": "MAE 3400",
+            "prerequisites": "MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Intermediate Fluid Mechanics",
             "number": "7420",
             "description": "Topics in potential and viscous flow theory, and computational fluid dynamics.",
-            "prerequisites": "MAE 3400",
+            "prerequisites": "MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Introduction to Computational Fluid Dynamics and Heat Transfer",
             "number": "7430",
             "description": "Introduction to the principles and development of the finite difference approximations to the governing differential equations of viscous and inviscid fluid flow, as well as heat transfer. Introduction to discretization methods and the calculation of flow fields, convection, diffusion and conduction.",
-            "prerequisites": "MAE 3400, MAE 4300 and MAE 4420",
+            "prerequisites": "MAE 3400, MAE 4300 and MAE 4420",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400",
+                "MAE 4300",
+                "MAE 4420"
+            ]
         },
         {
             "name": "Aerodynamics",
             "number": "7440",
             "description": "Presents fundamentals of wing and airfoil theory for incompressible flow, including fluid kinematics and dynamics, potential flow, flow about a body, thin-airfoil theory, and finite wing.",
-            "prerequisites": "MAE 3100 and MAE 3400",
+            "prerequisites": "MAE 3100 and MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3100",
+                "MAE 3400"
+            ]
         },
         {
             "name": "Gas Dynamics",
             "number": "7450",
             "description": "One-dimensional compressible flow with and without friction and heat transfer. Isentropic flow and shock phenomenon in nozzles and diffusers.",
-            "prerequisites": "MAE 3400",
+            "prerequisites": "MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Microfluidics",
             "number": "7460",
             "description": "(cross-leveled with MAE 4460). This course focuses on liquid transport in micro/nano fluidic devices and related electrohydrodynamics. Graded on A-F basis only.",
-            "prerequisites": "MAE 3400",
+            "prerequisites": "MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Advanced Mechanics of Materials",
             "number": "7600",
             "description": "(same as CV_ENG 7600; cross-leveled with MAE 4600 and CV_ENG 4600). Analysis of more complicated problems in stresses, strains.",
-            "prerequisites": "grade of C- or better in ENGINR 2200",
+            "prerequisites": "grade of C- or better in ENGINR 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Experimental Stress Analysis",
             "number": "7610",
             "description": "(same as CV_ENG 7610). Photo elastic, electric strain gage, brittle lacquer methods of experimental stress analysis for static loads. Strain gage work includes strain rosettes.",
-            "prerequisites": "ENGINR 2200",
+            "prerequisites": "ENGINR 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200"
+            ]
         },
         {
             "name": "Aircraft Flight Performance",
             "number": "7620",
             "description": "(cross-leveled with MAE 4620). Analysis of aircraft flight dynamics and aircraft performance. Topics include airplane aerodynamics and propulsion, steady flight, flight performance, aircraft maneuvers, aircraft stability, and an introduction to flight controls. Graded on A-F basis only.",
-            "prerequisites": "MAE 3600",
+            "prerequisites": "MAE 3600",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Space Flight Mechanics",
             "number": "7630",
             "description": "(cross-leveled with MAE 4630).  Analysis of spacecraft motion. Topics include orbital dynamics, spacecraft attitude dynamics, satellite trajectory design, and spacecraft control system design.",
-            "prerequisites": "MAE 3600",
+            "prerequisites": "MAE 3600",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Analysis of Mechanisms",
             "number": "7640",
             "description": "Kinematics and dynamic (bearing force, shaking force, and time response) design analysis of mechanisms: graphical, analytical and computer assisted techniques.",
-            "prerequisites": "MAE 3100 and MAE 2600",
+            "prerequisites": "MAE 3100 and MAE 2600",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3100",
+                "MAE 2600"
+            ]
         },
         {
             "name": "Synthesis of Linkages",
             "number": "7650",
             "description": "Type, number and dimensional synthesis of linkages to produce a given input-output motion and/or force.",
-            "prerequisites": "MAE 3100 and MAE 2600",
+            "prerequisites": "MAE 3100 and MAE 2600",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3100",
+                "MAE 2600"
+            ]
         },
         {
             "name": "Vibration Analysis",
             "number": "7660",
             "description": "(same as CV_ENG 7660). Vibration theory and its application to Mechanical systems. Topics include free and forced vibration analysis of single and multi-degree of freedom systems.",
-            "prerequisites": "grade of C- or better in MAE 2600 and MATH 4100",
+            "prerequisites": "grade of C- or better in MAE 2600 and MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100",
+                "MAE 2600"
+            ]
         },
         {
             "name": "Vehicle Dynamics",
             "number": "7670",
             "description": "Analysis and prediction of the dynamic behavior of ground vehicles utilizing computer simulation. Mechanics of various suspension systems, tire-roadway interaction, vehicle aerodynamics, vehicle handling and steering characteristics. Special topics including nonholonomic constraint formulation and stability of motion.",
-            "prerequisites": "MAE 3600",
+            "prerequisites": "MAE 3600",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Introduction to MEMS",
@@ -840,39 +1143,53 @@
             "description": "The course will start with a survey of the widespread applications of MEMS sensors and actuators.  Micro fabrication methods used in conventional semiconductor industry will be introduced.  MEMS-specific processes will be emphasized. Fundamental principles in electric circuits and mechanics will be reviewed.  Special attention is on mechanical issues encountered in MEMS design and fabrication.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Hydraulic Control Systems",
             "number": "7710",
             "description": "Analysis of hydraulic control components and systems. Topics include pumps, valves, actuators, and industrial and mobile control systems.",
-            "prerequisites": "MAE 3400 and MAE 3600",
+            "prerequisites": "MAE 3400 and MAE 3600",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400",
+                "MAE 3600"
+            ]
         },
         {
             "name": "Modern Control",
             "number": "7720",
             "description": "Analysis and design of control systems using state-space methods.  Topics include controllability and observability, feedback control using pole-placement, state observers, optimal linear-quadratic feedback control, and optimal estimation.  Graded on A-F basis only.",
-            "prerequisites": "MAE 3600",
+            "prerequisites": "MAE 3600",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Mechatronics",
             "number": "7730",
             "description": "Design of systems which require the integration of mechanical and electronic components.  Topics include microcontrollers, sensors, actuators, mechanical systems, real time control system programming, and modeling of electronic and mechanical systems.",
-            "prerequisites": "MAE 3600",
+            "prerequisites": "MAE 3600",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Digital Control",
             "number": "7740",
             "description": "Design and analysis of control systems using discrete-time methods.  Topics include Z-transformation, sampling and reconstruction, stability analysis, and digital controller design.",
-            "prerequisites": "MAE 3600",
+            "prerequisites": "MAE 3600",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600"
+            ]
         },
         {
             "name": "Classical Control",
@@ -880,31 +1197,43 @@
             "description": "(same as ECE 7310, BIOL_EN 7310; cross-leveled with MAE 4750, ECE 4310, BIOL_EN 4310). Study of feedback control design based on classical continuous-time methods.  Topics include performance specifications, stability analysis, root locus compensator design, and frequency domain analysis and compensator design.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Experimental Methods in Fluid Flow and Heat Transfer",
             "number": "7820",
             "description": "(cross-leveled with MAE 4820). Laboratory experiments involving fundamental mechanisms and phenomena associated with fluid flow and heat transfer. Current experimental methods and techniques employed.",
-            "prerequisites": "MAE 4800",
+            "prerequisites": "MAE 4800",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4800"
+            ]
         },
         {
             "name": "Applied Mechanical Optimization",
             "number": "7930",
             "description": "Introduction to mathematical programming techniques and applications to the design of mechanical systems and components.",
-            "prerequisites": "MAE 3100",
+            "prerequisites": "MAE 3100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3100"
+            ]
         },
         {
             "name": "Aircraft Design",
             "number": "7940",
             "description": "(cross-leveled with MAE 4940). Conceptual design of aircraft, from initial sizing and design layout to design analysis, optimization, and trade studies.  Fundamental theories for aircraft design, including sizing, aerodynamic forces, airfoil selection, wing loading, configuration layout, payloads, propulsion systems, landing gear, aerospace structures, and cost analysis. Graded A-F basis only.",
-            "prerequisites": "MAE 3400, MAE 3600, MAE 3600",
+            "prerequisites": "MAE 3400, MAE 3600, MAE 3600",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400",
+                "MAE 3600",
+                "MAE 3600"
+            ]
         },
         {
             "name": "Advanced Topics in Mechanical and Aerospace Engineering",
@@ -912,7 +1241,8 @@
             "description": "Advanced Topics in Mechanical and Aerospace Engineering.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Mechanical and Aerospace Engineering",
@@ -920,7 +1250,8 @@
             "description": "Supervised investigation in mechanical and aerospace engineering to be presented in the form of a report.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Graduate Seminar in Mechanical and Aerospace Engineering",
@@ -928,23 +1259,30 @@
             "description": "Reviews recent investigations, projects of major importance in mechanical and aerospace engineering. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physical Metallurgy",
             "number": "8210",
             "description": "Treatment of fundamentals of physical metallurgy, including metallurgical thermodynamics, macroscopic and atomic diffusion, interfaces, nucleation, solidification theory, and solid state transformations.",
-            "prerequisites": "MAE 3200",
+            "prerequisites": "MAE 3200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Fracture Mechanics",
             "number": "8220",
             "description": "Mechanics of flawed structure. Concepts include Griffith theory, Barenblatt's theory, Irwin analysis, energy analysis of cracked bodies, fracture toughness testing, plane strain, plane stress, transition temperature concepts, subcritical flaw growth.",
-            "prerequisites": "MAE 3200 or instructor's consent",
+            "prerequisites": "MAE 3200 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Advanced Ceramic Materials",
@@ -952,15 +1290,19 @@
             "description": "(same as CH_ENG 8230 and BIOL_EN 8230). To provide an advanced level understanding between processing, properties, and microstructure of ceramic materials.  Topics include crystallography, defect chemistry, transport properties, microstructure, and forming methods.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Mechanical Behavior of Materials",
             "number": "8240",
             "description": "This course will cover the mechanical behavior of metallic, ceramic, polymeric, and composite materials and their relationships to the underlying microstructures.  Graded on A-F basis only.",
-            "prerequisites": "MAE 3200 and graduate standing in engineering, or instructor's consent",
+            "prerequisites": "MAE 3200 and graduate standing in engineering, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Aeroelasticity",
@@ -968,23 +1310,30 @@
             "description": "Deformations of aerospace structures under static and dynamic loads, natural mode shapes and frequencies, aerodynamic and inertial loads, flutter analysis, dynamic response phenomena, and critical speeds and frequencies.",
             "prerequisites": "instructor's consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Finite Element Methods",
             "number": "8280",
             "description": "(same as CV_ENG 8208). The concepts and fundamentals of the finite element method with applications to problems in solid and fluid mechanics.",
-            "prerequisites": "MAE 4280",
+            "prerequisites": "MAE 4280",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4280"
+            ]
         },
         {
             "name": "Microscale Heat Transfer",
             "number": "8300",
             "description": "Review of existing models. Concept of thermal lagging and the second-law admissibility. Applications to low temperatures, thermal processing of thin-film devices; amorphous materials; advanced composites.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Thermal Management in Electronic Systems",
@@ -992,47 +1341,68 @@
             "description": "Advanced heat transfer course focusing on the problems of cooling electronic systems such as microprocessors and other electronic devices where thermal management is needed.  The advanced cooling technologies are introduced.",
             "prerequisites": "Mechanical and Aerospace Engineering [MAE] 4300.  Graded on A/F basis only",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE] 430"
+            ]
         },
         {
             "name": "Heat Transfer-Convection",
             "number": "8311",
             "description": "Principles of heat transfer by convection, review of boundary layer theory, laminar and turbulent heat transfer, temperature-dependent fluid properties, high velocity heat transfer and an introduction to mass transfer.",
-            "prerequisites": "MAE 4300 and MAE 8410",
+            "prerequisites": "MAE 4300 and MAE 8410",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300",
+                "MAE 8410"
+            ]
         },
         {
             "name": "Heat Transfer-Radiation",
             "number": "8312",
             "description": "Advanced study of engineering radiation heat transfer. Concepts of electromagnetic theory. Development of thermal radiation laws from thermodynamic laws. Analysis of grey and non-grey systems with intervening gases. Study of recent literature.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Heat Transfer-Conduction",
             "number": "8313",
             "description": "Distribution of temperature and temperature history within solids by the four essential methods of evaluation of these temperature fields.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Multiphase Heat Transfer",
             "number": "8315",
             "description": "Fundamentals and application of heat and mass transfer and fluid flow with phase change; melting and solidification, sublimation and vapor deposition, condensation, evaporation, nucleate and film boiling, two-phase flow.  Graded on A-F basis only.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Continuum Mechanics",
             "number": "8320",
             "description": "(same as CV_ENG 8320). Introductory course in the mechanics of continuous media. Basic concepts of stress, strain, constitutive relationships; conservation laws are treated using Cartesian tensor notation. Examples from both solid and fluid mechanics investigated.",
-            "prerequisites": "MAE 3400, MATH 4100, ENGINR 2200",
+            "prerequisites": "MAE 3400, MATH 4100, ENGINR 2200",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2200",
+                "MATH 4100",
+                "MAE 3400"
+            ]
         },
         {
             "name": "Theory of Elasticity",
@@ -1040,15 +1410,19 @@
             "description": "(same as CV_ENG 8330). Stress and strain at a point. General equations of elasticity. Plane stress, plain strain problems; torsion of prismatic bars. Energy methods.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Thermal Stresses",
             "number": "8332",
             "description": "General equations of thermoelasticity, Constitutive equations of thermoelastoplasticity; Analytical and numerical analyses of thermal stresses in bars, beams, 3D media, 2D plane stress and strain media, cylinders, and spheres. Graded on A-F basis only.",
-            "prerequisites": "MAE 4300, or instructor's consent",
+            "prerequisites": "MAE 4300, or instructor's consent",
             "hours": "3",
-            "recommendation": "MAE 8330"
+            "recommendation": "MAE 8330",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Theory of Plates and Shells",
@@ -1056,7 +1430,8 @@
             "description": "(same as CV_ENG 8340). Rectangular and circular plates. Variational methods in the analysis of plates and shells. Plates of unusual shape. Shear deformation effects. Large deformation analysis. Analysis of cylindrical shells.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theory of Elastic Stability",
@@ -1064,15 +1439,19 @@
             "description": "(same as CV_ENG 8350). Buckling of Columns, frames, arches and other structural systems. Kinematic approach to stability. Large deflections. Energy approach to buckling. Plate and shell buckling. Inelastic buckling of columns. Creep buckling.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theory of Plasticity",
             "number": "8360",
             "description": "(same as CV_ENG 8360). Plastic yield conditions and stress-strain relations. Behavior of elastic-perfectly plastic members. Plain strain in plastic members.",
-            "prerequisites": "MAE 8330 or instructor's consent",
+            "prerequisites": "MAE 8330 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 8330"
+            ]
         },
         {
             "name": "Advanced Combustion",
@@ -1080,39 +1459,55 @@
             "description": "Numerical modeling of combustion systems and advanced diagnostic techniques.",
             "prerequisites": "MAE 4370",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4370"
+            ]
         },
         {
             "name": "Advanced Thermodynamics",
             "number": "8380",
             "description": "Advanced topics from classical thermodynamics.",
-            "prerequisites": "MAE 4380",
+            "prerequisites": "MAE 4380",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4380"
+            ]
         },
         {
             "name": "Statistical Thermodynamics",
             "number": "8390",
             "description": "Statistical methods of evaluating thermodynamic properties. Elements of quantum mechanics, statistical mechanics and kinetic theory applied to topics of engineering thermodynamics.",
-            "prerequisites": "MAE 4380 and STAT 4710",
+            "prerequisites": "MAE 4380 and STAT 4710",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4380",
+                "STAT 4710"
+            ]
         },
         {
             "name": "Dynamics of Structures",
             "number": "8392",
             "description": "(same as CV_ENG 8392). Study of the dynamic behavior of structures. Analysis of equivalent lumped parameter systems for the design of structures in a dynamic environment.",
-            "prerequisites": "CV_ENG 8390 or equivalent, proficiency in digital computer programming, or instructor's consent",
+            "prerequisites": "CV_ENG 8390 or equivalent, proficiency in digital computer programming, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CV_ENG 8390"
+            ]
         },
         {
             "name": "Boundary Layer Theory",
             "number": "8410",
             "description": "Fluid motion at high Reynolds Number. Derivation of Navier-Stokes equations and boundary layer equations. Methods of solution. Transition to turbulent flow. Completely developed turbulent flow.",
-            "prerequisites": "MAE 4420",
+            "prerequisites": "MAE 4420",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4420"
+            ]
         },
         {
             "name": "Computational Heat Transfer and Fluid Dynamics",
@@ -1120,79 +1515,109 @@
             "description": "Introduction to numeric analysis techniques applied to heat transfer and fluid dynamics problems. Coverage will include, the development of discretiization equations for the control volume approach and solution strategies of those equations. Results from numeric simulations will be compared with close form analytic solutions and commercial numeric code output.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Two Phase Flow",
             "number": "8430",
             "description": "An introduction to the analysis of the mechanics and transport processes in two phase flows.",
-            "prerequisites": "MAE 3400",
+            "prerequisites": "MAE 3400",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3400"
+            ]
         },
         {
             "name": "Physical Gas Dynamics",
             "number": "8440",
             "description": "Study of the flow of chemically reacting gases of interest in mechanical and aerospace engineering.",
-            "prerequisites": "MAE 4300",
+            "prerequisites": "MAE 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4300"
+            ]
         },
         {
             "name": "Introduction to Turbulence",
             "number": "8450",
             "description": "An introduction to the physical phenomena of turbulence, supported by mathematical and statistical descriptions. Especially appropriate for engineers involved in research of momentum, heat, and mass transport.",
-            "prerequisites": "MAE 4420",
+            "prerequisites": "MAE 4420",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4420"
+            ]
         },
         {
             "name": "Manufacturing Design",
             "number": "8510",
             "description": "Design for manufacture methods, their capabilities and applications. Design of intelligent manufacturing systems using sensory systems and artificial intelligence techniques.",
-            "prerequisites": "MAE 3100 and MAE 4500",
+            "prerequisites": "MAE 3100 and MAE 4500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3100",
+                "MAE 4500"
+            ]
         },
         {
             "name": "Computer Integrated Manufacturing",
             "number": "8520",
             "description": "Modeling and simulation of manufacturing processes and advanced computer applications in manufacturing systems and machining processes, NC-programming.",
-            "prerequisites": "MAE 4500 and MAE 4750",
+            "prerequisites": "MAE 4500 and MAE 4750",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4500",
+                "MAE 4750"
+            ]
         },
         {
             "name": "Advanced Dynamics",
             "number": "8620",
             "description": "(same as CV_ENG 8620). Fundamental principles of advanced rigid body dynamics with applications. Special mathematical techniques including Lagrangian and Hamiltonian methods.",
-            "prerequisites": "MAE 2600",
+            "prerequisites": "MAE 2600",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 2600"
+            ]
         },
         {
             "name": "Vibrations of Distributed Parameter Systems",
             "number": "8630",
             "description": "(same as CV_ENG 8630). Vibration analysis of strings, cables, bars, rods, shafts, beams, membranes, plates, circular rings, frames; free and forced oscillation; miscellaneous loading; various boundary conditions; effect of damping; energy methods; method of difference equations.",
-            "prerequisites": "MAE 4660",
+            "prerequisites": "MAE 4660",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4660"
+            ]
         },
         {
             "name": "Advanced Vibration Analysis",
             "number": "8660",
             "description": "Advanced topics in vibration theory and its application to Mechanical Systems. Topics include vibration analysis of multi-degree of freedom, distributed and nonlinear systems, random vibration analysis, and vibration control.",
-            "prerequisites": "MAE 4660 or instructor's consent",
+            "prerequisites": "MAE 4660 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4660"
+            ]
         },
         {
             "name": "Advanced Vehicle Dynamics",
             "number": "8670",
             "description": "Applications of advanced dynamics, sensitivity analysis, and stability methods to analysis of complex vehicle dynamic systems. Modeling of pneumatic tire behavior, development and experimental validation of advanced vehicle computer simulations.",
-            "prerequisites": "MAE 4670",
+            "prerequisites": "MAE 4670",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4670"
+            ]
         },
         {
             "name": "Advanced Hydraulic Control Systems",
@@ -1200,23 +1625,32 @@
             "description": "The course will focus on the study of hydraulic systems and the design and analysis of controls for these systems. Multivariable as well as single input single output techniques will be considered. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Undergraduate system dynamics and controls course, experience or coursework in basic hydraulic control systems such as MAE 4710 or MAE 7710"
+            "recommendation": "Undergraduate system dynamics and controls course, experience or coursework in basic hydraulic control systems such as MAE 4710 or MAE 7710",
+            "connections": "None Listed"
         },
         {
             "name": "Robust Control",
             "number": "8740",
             "description": "Definition of the robust performance problem with the goal of achieving specified signal levels in the face of plant uncertainty; uncertainty and robustness, stabilization, design constraints, loopshaping, model matching and design for robust performance.",
-            "prerequisites": "MAE 4750, and MAE 8780 or instructor's consent",
+            "prerequisites": "MAE 4750, and MAE 8780 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4750",
+                "MAE 8780"
+            ]
         },
         {
             "name": "Nonlinear Control",
             "number": "8750",
             "description": "Nonlinear systems analysis techniques including phase plane analysis, Lyapunov theory. Control design including feedback linearization, sliding control, and adaptive control.",
-            "prerequisites": "MAE 4750 and MAE 8780",
+            "prerequisites": "MAE 4750 and MAE 8780",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4750",
+                "MAE 8780"
+            ]
         },
         {
             "name": "Optimal Control",
@@ -1224,7 +1658,8 @@
             "description": "The course will study optimization under dynamic constraints and optimal control theory. Topics include calculus of variation, Pontryagin's minimum principle, dynamic programming, and linear quadratic optimal control. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "State Variable Methods in Automatic Control",
@@ -1232,15 +1667,21 @@
             "description": "(same as CH_ENG 8780, ECE 8780, NU_ENG 8408). State variables for continuous and discrete-time dynamic control systems; controllability and observability; optimal control of linear systems.",
             "prerequisites": "MAE 4700",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4700"
+            ]
         },
         {
             "name": "Modular Machine Tool Design",
             "number": "8910",
             "description": "This course introduces necessary concepts and tools for modular machine tool design.  Students will learn how to apply mechanical design knowledge and commercially available subassemblies and parts to design modular machine tools for mass production application.",
-            "prerequisites": "MAE 4980 or instructor's consent",
+            "prerequisites": "MAE 4980 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 4980"
+            ]
         },
         {
             "name": "Reliability-Based Design of Engineering Systems",
@@ -1248,15 +1689,20 @@
             "description": "Introduction to the methods that identify the ability of a system to perform its required functions for a specified period of time.  Topics include failure mode and effects analysis, reliability prediction, Weibull distribution analysis, reliability testing, and accelerated life testing.",
             "prerequisites": "Graduate standing in Engineering",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Mechanical System Modeling and Optimization",
             "number": "8930",
             "description": "Calculus of variations is introduced as a basic tool.  Hamilton's Principle is used for system modeling.  Numerical solution methods are used for dynamic simulation.  Genetic algorithm and other algorithms are applied for system optimization.  Graded on A-F basis only.",
-            "prerequisites": "MAE 3600 and MAE 4980.  Seniors will require consent",
+            "prerequisites": "MAE 3600 and MAE 4980.  Seniors will require consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3600",
+                "MAE 4980"
+            ]
         },
         {
             "name": "Research-Masters Thesis in Mechanical and Aerospace Engineering",
@@ -1264,7 +1710,8 @@
             "description": "Independent investigation in field of mechanical and aerospace engineering to be presented as a thesis. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research-Doctoral Dissertation Mechanical & Aerospace Engineering",
@@ -1272,7 +1719,8 @@
             "description": "Independent investigation in field of mechanical and aerospace engineering to be presented as a thesis. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

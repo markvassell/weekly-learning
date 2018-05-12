@@ -8,7 +8,8 @@
             "description": "Underclass topics. Subjects may vary from semester to semester. May be repeated to 6 hours maximum. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies - Behavioral Science",
@@ -16,7 +17,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "2-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies",
@@ -24,7 +26,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "2-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies - Humanities",
@@ -32,7 +35,8 @@
             "description": "Organized study of selected topics.  Subjects and earnable credit may vary from semester to semester.  May be repeated to a maximum of 6 hours with departmental consent. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Peace Studies",
@@ -40,7 +44,8 @@
             "description": "Interdisciplinary overview including theories on the nature of aggression and war, case studies of contemporary conflicts, consideration of various peace proposals, conditions making war or peace likely.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "sophomore standing. Writing intensive not fulfilled unless ENGLSH 1000 or equivalent has already been taken"
+            "recommendation": "sophomore standing. Writing intensive not fulfilled unless ENGLSH 1000 or equivalent has already been taken",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Peace Studies - Writing Intensive",
@@ -48,7 +53,8 @@
             "description": "Interdisciplinary overview including theories on the nature of aggression and war, case studies of contemporary conflicts, consideration of various peace proposals, conditions making war or peace likely.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "sophomore standing. Writing intensive not fulfilled unless ENGLSH 1000 or equivalent has already been taken"
+            "recommendation": "sophomore standing. Writing intensive not fulfilled unless ENGLSH 1000 or equivalent has already been taken",
+            "connections": "None Listed"
         },
         {
             "name": "International Conflict Resolution and Group Reconciliation",
@@ -56,7 +62,8 @@
             "description": "Theories of conflict resolution. We will study achieving peace through techniques and institutions that attempt personal and interactive reconciliation of opposing groups personally. Case studies might include the \"Truth and Reconciliation\" committees following South African Independence, and similar projects to promote inter-group understanding in Middle East conflicts. The course will then analyze examples of the resolution of major international conflicts and issues, such as the Irish Peace Accords, the Camp David peace process for the Middle East, Strategic Nuclear Arms Limitation, and the Kyoto Protocol.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "International Conflict Resolution and Group Reconciliation - Writing Intensive",
@@ -64,7 +71,8 @@
             "description": "Theories of conflict resolution. We will study achieving peace through techniques and institutions that attempt personal and interactive reconciliation of opposing groups personally. Case studies might include the \"Truth and Reconciliation\" committees following South African Independence, and similar projects to promote inter-group understanding in Middle East conflicts. The course will then analyze examples of the resolution of major international conflicts and issues, such as the Irish Peace Accords, the Camp David peace process for the Middle East, Strategic Nuclear Arms Limitation, and the Kyoto Protocol.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Global Warming, Climate Change, Catastrophic Climate Destabilization",
@@ -72,7 +80,8 @@
             "description": "Global warming, climate change and catastrophic climate destabilization as alternate conceptualizations. The greenhouse gas effect; the consequences of climate change for oceans, fresh water ecosystems, forests, agriculture, biodiversity, public health, social justice and global social stability. Potential solutions will be considered, including sustainable energy sources, efficiency of energy use, divestment from fossil fuels, and putting a price on carbon.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Global Warming, Climate Change, Catastrophic Climate Destabilization - Writing Intensive",
@@ -80,7 +89,8 @@
             "description": "Global warming, climate change and catastrophic climate destabilization as alternate conceptualizations. The greenhouse gas effect; the consequences of climate change for oceans, fresh water ecosystems, forests, agriculture, biodiversity, public health, social justice and global social stability. Potential solutions will be considered, including sustainable energy sources, efficiency of energy use, divestment from fossil fuels, and putting a price on carbon.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Terror, Violence, and Guns",
@@ -88,7 +98,8 @@
             "description": "An examination of gun violence focusing on international terrorist groups, state sanctioned violence, militias, gun violence and violence against women. Accounts of recruitment to violent actions and political groups, contrasted to the research on recruitment processes. Alternate public policies for the reduction of violence. Presentation of a diversity of viewpoints and concepts will be emphasized, especially in participatory formats such as panel discussions composed of students, and in formats that involve presentations in various media to the public outside the classroom.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Population and Ecology",
@@ -96,23 +107,34 @@
             "description": "(same as RU_SOC 1120 and SOCIOL 1120).  Changes in the structure and characteristics of population groups and their relationship to both human and non-human aspects of the biophysical environment.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Amish Community",
             "number": "1150",
             "description": "(same as RU_SOC 1150). Examines historical antecedents and contemporary culture and social structure of the Amish. Topics include cultural symbols, life ceremonies, the family, counter cultural pressures, stresses and social change.",
-            "prerequisites": "RU_SOC 1000, SOCIOL 1000, or ANTHRO 1000",
+            "prerequisites": "RU_SOC 1000, SOCIOL 1000, or ANTHRO 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ANTHRO 1000",
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
         },
         {
             "name": "The Amish Community - Writing Intensive",
             "number": "1150W",
             "description": "(same as RU_SOC 1150). Examines historical antecedents and contemporary culture and social structure of the Amish. Topics include cultural symbols, life ceremonies, the family, counter cultural pressures, stresses and social change.",
-            "prerequisites": "RU_SOC 1000, SOCIOL 1000, or ANTHRO 1000",
+            "prerequisites": "RU_SOC 1000, SOCIOL 1000, or ANTHRO 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ANTHRO 1000",
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
         },
         {
             "name": "Service Learning in Peace Studies",
@@ -120,7 +142,8 @@
             "description": "Students will perform significant and long term community service while exploring issues central to peace studies.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Russia in Modern Times",
@@ -128,23 +151,30 @@
             "description": "(same as HIST 1610). Survey of Russian History from 1801 to present.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Exploration in Social and Economic Justice",
             "number": "2000",
             "description": "(same as SOC_WK 2000). This course explores issues of fairness and equality in economic, political and social systems, and applies social justice principles to major social problems. May be repeated for credit.  Graded on A-F basis only.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Exploration in Social and Economic Justice - Writing Intensive",
             "number": "2000W",
             "description": "(same as SOC_WK 2000). This course explores issues of fairness and equality in economic, political and social systems, and applies social justice principles to major social problems. May be repeated for credit.  Graded on A-F basis only.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Topics in Peace Studies: Behavioral Science",
@@ -152,7 +182,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2-3Recommended: Sophomore standing",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies: Behavioral Science - Writing Intensive",
@@ -160,7 +191,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2-3Recommended: Sophomore standing",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies - Social Sciences",
@@ -168,7 +200,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "2-3Recommended: sophomore standing",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies - Humanities",
@@ -176,7 +209,8 @@
             "description": "Organized study of selected topics.  Subjects and earnable credit may vary from semester to semester.  May be repeated to a maximum of 6 hours with departmental consent. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2-3Recommended: sophomore standing",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Vietnam and Iraq Wars: Lessons for the Future",
@@ -184,7 +218,8 @@
             "description": "An interdisciplinary analysis of the Vietnam War and the American-led war with Iraq.  Course focuses on the reasons that American lost in Vietnam, the reasons it won in Iraq, and the lessons these conflicts provided for America's future. Graded on A-F basis only.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Perspectives on Peace in the Middle East",
@@ -192,23 +227,30 @@
             "description": "This course examines conflict theories, international relation theories and Middle Eastern politics. It is intended as a comprehensive applied study of these theories. The initial weeks will cover the major conflict theories including social learning theory, social identity theory, relative deprivation theory, human needs theory, and rational choice theory. The focus of this course will primarily be on conflicts and peace efforts of the Middle East including but not limited to: the Arab Spring, the Israeli-Palestinian conflict, Jordanian-Palestinian identity issue, peace efforts in the Middle East. Ultimately, students should explore ways to bridge the theories learned and apply them to conflicts, negotiation and peace efforts in the Middle East.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Seminar I in Peace Studies",
             "number": "2180",
             "description": "Conflict Resolution in Theory and Practice. Conflicts are studied in the light of the social and behavioral sciences.",
-            "prerequisites": "PEA_ST 1050",
+            "prerequisites": "PEA_ST 1050",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PEA_ST 1050"
+            ]
         },
         {
             "name": "Undergraduate Seminar II in Peace Studies",
             "number": "2181",
             "description": "Contemporary International Conflict: A readings and research seminar in which students will address such problems as global conflicts, the Arms Race and disarmament, global development.",
-            "prerequisites": "PEA_ST 1050",
+            "prerequisites": "PEA_ST 1050",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PEA_ST 1050"
+            ]
         },
         {
             "name": "Critical Dialogues: Nonviolence in Peace/Democracy Movements",
@@ -216,23 +258,30 @@
             "description": "(same as SOCIOL 2182). History and theory of movements for peace, justice, and democracy. Development of violent and nonviolent tactics and factions in movements; relationship to state authority. Cases such as Gandhi's Independence, American Civil Rights, Arab Spring, and Occupy movements.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "PEA_ST 1050"
+            "recommendation": "PEA_ST 1050",
+            "connections": "None Listed"
         },
         {
             "name": "Critical Dialogues: Nonviolence in Peace/Democracy Movements - Writing Intensive",
             "number": "2182W",
             "description": "(same as SOCIOL 2182). History and theory of movements for peace, justice, and democracy. Development of violent and nonviolent tactics and factions in movements; relationship to state authority. Cases such as Gandhi's Independence, American Civil Rights, Arab Spring, and Occupy movements.",
-            "prerequisites": "PEA_ST 1050 or instructor's consent",
+            "prerequisites": "PEA_ST 1050 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PEA_ST 1050"
+            ]
         },
         {
             "name": "Undergraduate Seminar IV in Peace Studies",
             "number": "2183",
             "description": "Images of War and Peace. Study of war and peace in philosophical and religious systems, film, poetry, art, fiction, and the media.",
-            "prerequisites": "PEA_ST 1050",
+            "prerequisites": "PEA_ST 1050",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PEA_ST 1050"
+            ]
         },
         {
             "name": "Nuclear Weapons: Environmental, Health and Social Effects",
@@ -240,7 +289,8 @@
             "description": "(same as HLTH_SCI 2200 and SOCIOL 2281).  Environmental consequences of the nuclear arms race, \"regional\" nuclear war, and weapons testing for human health, agriculture, and society. Examining \"a world without nuclear weapons\"; political dialogue on proliferation; Iran, North Korea, and nuclear weapons conventions. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Weapons: Environmental, Health and Social Effects-Writing Intensive",
@@ -248,7 +298,8 @@
             "description": "(same as HLTH_SCI 2200 and SOCIOL 2281).  Environmental consequences of the nuclear arms race, \"regional\" nuclear war, and weapons testing for human health, agriculture, and society. Examining \"a world without nuclear weapons\"; political dialogue on proliferation; Iran, North Korea, and nuclear weapons conventions. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies-General",
@@ -256,7 +307,8 @@
             "description": "Organized study of selected topics in Peace Studies. Subjects and credit hours may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "2-3Recommended: sophomore standing",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "America in the 1960's",
@@ -264,7 +316,8 @@
             "description": "(same as HIST 2220). Examines the political and cultural main currents of the 1960s. Emphasizes the challenges mounted by protest groups and the responses of America's political leadership to the ferment of the period.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Youth, Islam, and Global Cultures",
@@ -272,7 +325,8 @@
             "description": "(same as SOCIOL 2255). Youth subcultures and the social issues and problems faced by youth, focusing on the Islamic world and Muslim immigrants, in the United States and elsewhere. Social and behavioral theories and concepts such as paths to modernization, Orientalism, post-colonialism, population movements, social construction, identity, and recognition will be illustrated.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Race, Democracy, and Violence in Cuba and Haiti",
@@ -280,7 +334,8 @@
             "description": "(same as SOCIOL 2280, GEOG 2280).  A sociological approach to understand race/ethnicity, identity, citizenship, human rights, violence, and political and economic systems in the Caribbean. Comparisons of the culture, politics, and historical trajectories of Cuba and Haiti using Post-Colonial and Feminist theories. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Race, Democracy, and Violence in Cuba and Haiti - Writing Intensive",
@@ -288,7 +343,8 @@
             "description": "(same as SOCIOL 2280, GEOG 2280).  A sociological approach to understand race/ethnicity, identity, citizenship, human rights, violence, and political and economic systems in the Caribbean. Comparisons of the culture, politics, and historical trajectories of Cuba and Haiti using Post-Colonial and Feminist theories. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Critical Dialogs: Global Environmental Policy Conflicts",
@@ -296,7 +352,8 @@
             "description": "(same as SOCIOL 2284). Climate change, water supplies, food, sustainability, industrialization, and chemical, oil, radioactive pollution.  Activity of transnational corporations, social harm, and formulation of international policies.  Analysis of alternatives using criteria of justice: distribution, recognition, participation, legality.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Large Corporations, Economic Crisis, Social Responsibility",
@@ -304,7 +361,8 @@
             "description": "(same as SOCIOL 2285). Institutional power of the corporate CEO; ethical regulatory restraint.  Historical contexts of economic crisis.  Theories of justice, alternative concepts of justice in popular culture.  Politics of policy issues in prosecution and criminalization of corporate behavior.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Technological Futures, National Security, and Civil Liberties",
@@ -312,7 +370,8 @@
             "description": "(same as SOCIOL 2286).Contemporary practices and future trends in data collection and mining by the NSA and by businesses. The interplay of government and corporate power, and possibilities of regulation and maintenance of privacy and civil liberties. The development of digital intellectual copyright and its consequences on patterns of dissemination of knowledge.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Technological Futures, National Security, and Civil Liberties - Writing Intensive",
@@ -320,7 +379,8 @@
             "description": "(same as SOCIOL 2286).Contemporary practices and future trends in data collection and mining by the NSA and by businesses. The interplay of government and corporate power, and possibilities of regulation and maintenance of privacy and civil liberties. The development of digital intellectual copyright and its consequences on patterns of dissemination of knowledge.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Conspiracies, Popular Imagination, Evidence",
@@ -328,7 +388,8 @@
             "description": "In-depth and critical analysis of cases involving allegations of \"conspiracy\" in international affairs, contrasted with official reports and presentations of evidence in a variety of venues. Conspiracy theories considered might include those centering on 9-11 and the Kennedy assassination. Conspiracy theories will be compared and contrasted to what is known about secrecy and the functioning of elite political and economic institutions such as the Trilateral Commission and campaign financing organizations. Students will analyze a variety of NGO and government documents and investigative journalism drawing on Wiki Leaks. We will compare and contrast what is considered evidence in different venues such as the criminal justice system, government reports, journalism, and academic writing by historians, social and behavioral scientists, and natural scientists. Concepts clarified and utilized will include: state corporate crime, system determination, social construction, narrative, historical memory, symbolic politics, and individual and group responsibility.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Conspiracies, Popular Imagination, Evidence - Writing Intensive",
@@ -336,7 +397,8 @@
             "description": "In-depth and critical analysis of cases involving allegations of \"conspiracy\" in international affairs, contrasted with official reports and presentations of evidence in a variety of venues. Conspiracy theories considered might include those centering on 9-11 and the Kennedy assassination. Conspiracy theories will be compared and contrasted to what is known about secrecy and the functioning of elite political and economic institutions such as the Trilateral Commission and campaign financing organizations. Students will analyze a variety of NGO and government documents and investigative journalism drawing on Wiki Leaks. We will compare and contrast what is considered evidence in different venues such as the criminal justice system, government reports, journalism, and academic writing by historians, social and behavioral scientists, and natural scientists. Concepts clarified and utilized will include: state corporate crime, system determination, social construction, narrative, historical memory, symbolic politics, and individual and group responsibility.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Sports, Protest Movements, and Conflict Resolution",
@@ -344,7 +406,8 @@
             "description": "This course will critically analyze the social significance of sports, focusing on events leading to and influencing protest movements and the peaceful outcomes (or lack thereof)of these movements through conflict resolution. We will identify the non-violent behaviors, strategies, and ideologies of numerous athletes such as: Muhammad Ali, Jim Brown, Harry Edwards, John Carlos and Tommy Smith, Colin Kaepernick, and their particular methods of rebellion and representation of issues. Furthermore, we will examine how fans, organizations, media, and sporting committees (i.e. International Olympic Committee) have reacted to athlete revolts, and the effectiveness of revolts in changing society.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Sports, Protest Movements, and Conflict Resolution - Writing Intensive",
@@ -352,7 +415,8 @@
             "description": "This course will critically analyze the social significance of sports, focusing on events leading to and influencing protest movements and the peaceful outcomes (or lack thereof)of these movements through conflict resolution. We will identify the non-violent behaviors, strategies, and ideologies of numerous athletes such as: Muhammad Ali, Jim Brown, Harry Edwards, John Carlos and Tommy Smith, Colin Kaepernick, and their particular methods of rebellion and representation of issues. Furthermore, we will examine how fans, organizations, media, and sporting committees (i.e. International Olympic Committee) have reacted to athlete revolts, and the effectiveness of revolts in changing society.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Towns in Missouri and the Midwest: Voices and Inequalities",
@@ -360,7 +424,8 @@
             "description": "Focusing on towns and communities and their regional history and cultural traditions, we will examine the issues and concerns of small town America in the context of recent hardships and adverse economic trends. Examples of topics to be covered include case studies of communities such as Marceline, Missouri (Walt Disney's boyhood home), race and the immigration of non-whites in to rural areas; gender roles in small communities, the role of religion in small-town identity formation, and other current issues faced by \"middle America\". The responsiveness of government, large corporations, and institutions to the problems of diverse communities will be critically examined, with a multidisciplinary approach that will draw on key theories and works in the disciplines of sociology, rural sociology, community development, and geography.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Towns in Missouri and the Midwest: Voices and Inequalities - Writing Intensive",
@@ -368,7 +433,8 @@
             "description": "Focusing on towns and communities and their regional history and cultural traditions, we will examine the issues and concerns of small town America in the context of recent hardships and adverse economic trends. Examples of topics to be covered include case studies of communities such as Marceline, Missouri (Walt Disney\u001as boyhood home), race and the immigration of non-whites in to rural areas; gender roles in small communities, the role of religion in small-town identity formation, and other current issues faced by \u001amiddle America\u001a. The responsiveness of government, large corporations, and institutions to the problems of diverse communities will be critically examined, with a multidisciplinary approach that will draw on key theories and works in the disciplines of sociology, rural sociology, community development, and geography.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Drugs, Violence and the Police in Latin America and Latina/o Communities in the United States",
@@ -376,7 +442,8 @@
             "description": "A regional and global perspective on the \"war on drugs\" and violence in Latin American countries such as Mexico and Colombia, as well as the United States. The course may include units on such topics as: the recent history of gangs in US urban areas; political violence in Central America and such countries as Colombia and Venezuela; and attempts to mediate and reconcile social conflicts and war in those areas. The interplay between gangs, drug policies, policing, and citizens' action and protests in major cities of the hemisphere, such as in Argentina and Brazil. Drugs, policing, gangs, and violence as a symbolic and hot button issue in domestic politics, and the consequences for public policy and the character of the discourse about public policy.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Information Technology: Facilitation and Constraint for the Creative Mind",
@@ -384,7 +451,8 @@
             "description": "This course will enable students to evaluate contrasting interpretations by leading thinkers about the development of information technologies, the internet, and robotics and artificial intelligence. Current debates will be covered; topics might include: views that social media are constraining the development of human relationships (Turkel); that commercialization of the internet reduces its function to attention getting (Wu); that automation degrades the humanity of work (Carr) and restricts the pay for producing creative content (Lanier). On the other hand, the course will consider arguments that human mind can be reverse reengineered to advance a new era of artificially intelligent machines (Kurzweil). Current theories of information technology and society will be grounded in the multidisciplinary thinking about mind, intelligence, art, and work.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Internet Identities, and the Clash of Global Countercultures and Oppositional Cultures",
@@ -392,7 +460,8 @@
             "description": "This course problematizes the development of individual and group identities on the internet and social media due to their multiple, global, shallow, shifting, segmented, and conflictual character. We emphasize a multidisciplinary examination of the internet presentation of diverse identities such as those of the 1960s counter-culture, the Christian right, militias, the alt-right, rural towns, terrorist cells, and life-style and sectarian political and religious groups. We will also examine the processes of publicity and celebrity in the creation of personal identities such as \"entrepreneur\" (Bill Gates and Steve Jobs), \"geek\", \"hacker,\" and anonymous, and the development of internet technologies and personal identities in the context of commercialism and ideals such as freedom and rebellion. The intersection of personal, work, and professional identities will be considered. Sources will include autobiography, biography, and literature on such topics as diaspora, borders, Empire, and exile.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Literature of Spanish Civil War",
@@ -400,7 +469,8 @@
             "description": "(same as SPAN 2320). Study of the Spanish Civil War: History, Politics, Literature.  May not be included in the area of concentration in Spanish.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Germany in War and Peace: Division and Unity 1945-89",
@@ -408,7 +478,8 @@
             "description": "This course will compare notions of war and peace in East (German Democratic Republic) and West Germany (Federal Republic of Germany), 1945-1989. In particular, there are three main ways to think about war and peace: 1. Dealing with the Nazi past; 2. Dealing with the Cold War present; Negotiating violence and peace within various dissent and peace movements.",
             "prerequisites": "None Listed",
             "hours": "2-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Philosophies of War and Peace",
@@ -416,7 +487,8 @@
             "description": "(same as PHIL 2410). Moral issues about the recourse to war by the nation and the individual's obligations to participate. The nature of peace, social and personal. Special attention to the Vietnam War and the nuclear age.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Philosophies of War and Peace - Writing Intensive",
@@ -424,7 +496,8 @@
             "description": "(same as PHIL 2410). Moral issues about the recourse to war by the nation and the individual's obligations to participate. The nature of peace, social and personal. Special attention to the Vietnam War and the nuclear age.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Native Studies",
@@ -432,7 +505,8 @@
             "description": "(Same as ENGLSH 2490) Introduction to the field of Native Studies. Topics include indigenous knowledge, culture change and continuity, history and misrepresentation, politics and political history, and global indigenous relationships. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Rights, Law, War and Peace",
@@ -440,7 +514,8 @@
             "description": "Interdisciplinary exploration of how human rights, law, war and peace are connected through an analysis of various  theories and contemporary examples, which may include issues regarding citizenship in the United States today, the regulation of economic markets in the U.S. today, state surveillance, the military industrial complex, the manner in which gender affects the experience of warfare and individuals",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "CAFO: Concentrated Animals, Deep Ecology",
@@ -448,7 +523,8 @@
             "description": "Throughout the ages humans have toiled and tilled the land confirming their role as integral providers as well as graceful recipients of nature's bounty. The significant metamorphosis that this gentle and cautious stewardship of the earth has undergone, necessitates close scrutiny. This multi-disciplined humanities course will consider the prose of the human community as it intersects widespread industrialized animal production with its inevitable social, economic and environmental realities. Eco-Feminist readings and the Fine Arts with its theoretical underpinnings associated with a liberal arts aesthetic will invite a wider perspective.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "CAFO: Concentrated Animals, Deep Ecology - Writing Intensive",
@@ -456,7 +532,8 @@
             "description": "Throughout the ages humans have toiled and tilled the land confirming their role as integral providers as well as graceful recipients of nature's bounty. The significant metamorphosis that this gentle and cautious stewardship of the earth has undergone, necessitates close scrutiny. This multi-disciplined humanities course will consider the prose of the human community as it intersects widespread industrialized animal production with its inevitable social, economic and environmental realities. Eco-Feminist readings and the Fine Arts with its theoretical underpinnings associated with a liberal arts aesthetic will invite a wider perspective.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Politics and the Military",
@@ -464,7 +541,8 @@
             "description": "(same as POL_SC 2710). Comparative study of post-cold war civil-military relations; military as an interest group, change agent, policy instrument and competitor of civilian politicians.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies",
@@ -472,7 +550,8 @@
             "description": "(same as JOURN 3510, T_A_M 2810, GERMAN 3510, DST 3510). This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives. The course is open to students in any discipline.  Graded on A-F basis only.",
             "prerequisites": "Sophomore standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies - Honors",
@@ -480,7 +559,8 @@
             "description": "(same as GERMAN 3510H, T_A_M 2810H, JOURN 3510H). This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives. The course is open to students in any discipline. Graded on A-F basis only.",
             "prerequisites": "Sophomore standing required and 2.75 GPA. Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies - Honors - Writing Intensive",
@@ -488,7 +568,8 @@
             "description": "(same as GERMAN 3510HW, T_A_M 2810HW, JOURN 3510HW). This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives. The course is open to students in any discipline. Graded on A-F basis only.",
             "prerequisites": "Sophomore standing required and 2.75 GPA. Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies - Writing Intensive",
@@ -496,7 +577,8 @@
             "description": "(same as JOURN 3510W, T_A_M 2810W, GERMAN 3510W, DST 3510W). This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives. The course is open to students in any discipline.  Graded on A-F basis only.",
             "prerequisites": "Sophomore standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies - Behavioral Science",
@@ -504,7 +586,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "2-3Recommended: sophomore standing",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies - Humanities",
@@ -512,7 +595,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.  May be repeated to a maximum of 6 hours with departmental consent. Graded on A-F basis only.",
             "prerequisites": "sophomore standing",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies - Humanities - Honors",
@@ -520,7 +604,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.  May be repeated to a maximum of 6 hours with departmental consent.  Graded on A-F basis only.",
             "prerequisites": "sophomore standing.  Honors eligibility required",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Foreigners and Dangerous Women in Greek and Latin Literature",
@@ -528,7 +613,8 @@
             "description": "(same as CL_HUM 3000). The study of how Greek and Roman writers depicted and reacted to other races and cultures, compared them with their own, and thereby revealed both their own values and prejudices.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Art of War and Peace",
@@ -536,7 +622,8 @@
             "description": "Exploration of selected visual art pieces and consideration of humanistic concerns during times of war and peace from various perspectives including a peace studies perspective. Viewing and discussing art within varied selected historical and cultural contexts that generated the imagery. Includes visits to studios and galleries. May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "2-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Terrorism and Conflict Resolution - Honors",
@@ -544,7 +631,8 @@
             "description": "Religious, ethnic, ideological movements; state and international reactions. Case studies from South America, Europe, Africa, Asia. Identifying problems, possible resolution. Dramatized thru discussions, documentaries, role-playing; short term paper, exams.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Internship in Peace Studies",
@@ -552,7 +640,8 @@
             "description": "Students work in a peace-related agency or institution for 1 to 3 credit hours. Repeatable for maximum of 6 hours. Graded on S/U basis only.",
             "prerequisites": "departmental consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Environmental Justice",
@@ -560,7 +649,8 @@
             "description": "(same as SOCIOL 3330).  Environmental justice refers to the ways in which the \"cost and benefits\" of modern industrial society are distributed among social groups. This course is concerned with justice, not as an abstract concept, and inequality not in terms of numbers in a bank account. Social justice or inequality are lived, embodied experiences. An individual's likelihood of experiencing environmental harm is related to intersecting gender, race and class formations, among other things. Justice or inequality is not only embodied, it also happens in places--national and regional differences matter. In this course we will look at some of the extensive literature documenting the ways in which communities of color and poor communities are subject to disproportionate environmental risks. In addition, we will focus on gender as an important category in understanding environmental inequality. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Peace Studies",
@@ -568,7 +658,8 @@
             "description": "Students may receive 1 to 3 credit hours for doing readings and research in a particular area of peace studies. At least one paper will be required. Repeatable for a maximum of 6 hours.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Politics of the Media",
@@ -576,7 +667,8 @@
             "description": "(same as SOCIOL 3400). We look at the history and viability of the public sphere in the United States and the integral role of the media to its vitality.  We analyze the impact of current trends toward media concentration and debate related issues of bias, censorship, and social control.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Politics of the Media - Writing Intensive",
@@ -584,7 +676,8 @@
             "description": "(same as SOCIOL 3400). We look at the history and viability of the public sphere in the United States and the integral role of the media to its vitality.  We analyze the impact of current trends toward media concentration and debate related issues of bias, censorship, and social control.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Global Public Health and Health Care Systems",
@@ -592,7 +685,8 @@
             "description": "(Same as HLTH_SCI 3400). An introduction to public health in a global context, with an emphasis on understanding how disparities in socioeconomic status, differences in political and national health care systems and the work of international organizations impact health in communities around the world. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "America's Environmental Experience",
@@ -600,7 +694,8 @@
             "description": "(same as HIST 3420). Team-taught analysis of American thought and action on physical environment during 19th-20th centuries. Relation between politics, economics, technological change, environmental quality; roles of science, law, regulatory agencies, grassroots action.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "After the Fact: Holocaust in Contemporary History, Art & Literature",
@@ -608,7 +703,8 @@
             "description": "(same as GERMAN 3440). Explores responses to the Holocaust from numerous perspectives. Considers how the Holocaust is remembered, memorialized, and debated in a variety of national contexts.  Touches on historical, philosophical, and aesthetic points of view.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Native Writing and Representation",
@@ -616,7 +712,8 @@
             "description": "(same as ENGLSH 3490).  Survey of native writing and representation from the late eighteenth century to the present, encompassing a diverse range of tribes and forms. Material will be drawn from tribes inhabiting the North American continent, but global indigenous relationships will also be addressed. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Digital Indigenous Studies",
@@ -624,7 +721,8 @@
             "description": "(same as GEOG 3496).  This course introduces students to Indigenous studies in a digital world.  The course begins with study of Indigenous sovereignty and representation, and moves quickly to critical and theoretical readings in new media, tracing both the historical impact of digital technologies (such as GIS) on Native communities, and the ways that both urban and rural Native communities have engaged in innovative digital projects that expand the way we understand information and storytelling in digital environments.  The course materials will cover a wide range of platforms and audio-visual genres, from documentary, community video, and animation productions, to GIS, video games, and social media sites. Students will engage with both scholars and artists working with new media through a program of public lectures, classroom visits, and Skype interviews.  All interview will be archived as podcasts from the course website.  Students will write weekly short response papers and produce independent audio-visual projects over the course of the semester, with opportunities to revise their work leading up to substantial final projects.  The course will also integrate community outreach into the curriculum through online participation of students from the Kiowa Kids, an Indigenous language immersion and storytelling program.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Digital Indigenous Studies - Honors",
@@ -632,7 +730,8 @@
             "description": "(same as GEOG 3496H).  This course introduces students to Indigenous studies in a digital world.  The course begins with study of Indigenous sovereignty and representation, and moves quickly to critical and theoretical readings in new media, tracing both the historical impact of digital technologies (such as GIS) on Native communities, and the ways that both urban and rural Native communities have engaged in innovative digital projects that expand the way we understand information and storytelling in digital environments.  The course materials will cover a wide range of platforms and audio-visual genres, from documentary, community video, and animation productions, to GIS, video games, and social media sites. Students will engage with both scholars and artists working with new media through a program of public lectures, classroom visits, and Skype interviews.  All interview will be archived as podcasts from the course website.  Students will write weekly short response papers and produce independent audio-visual projects over the course of the semester, with opportunities to revise their work leading up to substantial final projects.  The course will also integrate community outreach into the curriculum through online participation of students from the Kiowa Kids, an Indigenous language immersion and storytelling program. ",
             "prerequisites": "  Honors eligibility required",
             "hours": ": 3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Digital Indigenous Studies - Writing Intensive",
@@ -640,7 +739,8 @@
             "description": "(same as GEOG 3496).  This course introduces students to Indigenous studies in a digital world.  The course begins with study of Indigenous sovereignty and representation, and moves quickly to critical and theoretical readings in new media, tracing both the historical impact of digital technologies (such as GIS) on Native communities, and the ways that both urban and rural Native communities have engaged in innovative digital projects that expand the way we understand information and storytelling in digital environments.  The course materials will cover a wide range of platforms and audio-visual genres, from documentary, community video, and animation productions, to GIS, video games, and social media sites. Students will engage with both scholars and artists working with new media through a program of public lectures, classroom visits, and Skype interviews.  All interview will be archived as podcasts from the course website.  Students will write weekly short response papers and produce independent audio-visual projects over the course of the semester, with opportunities to revise their work leading up to substantial final projects.  The course will also integrate community outreach into the curriculum through online participation of students from the Kiowa Kids, an Indigenous language immersion and storytelling program.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Collective Behavior",
@@ -648,7 +748,8 @@
             "description": "(same as SOCIOL 3520). Analysis of crowd behavior and related phenomena: rumors, disasters, fashions. Social responses to unclear, dangerous or unjust conditions. The dynamics of conflict, consensus and change.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Collective Behavior - Writing Intensive",
@@ -656,7 +757,8 @@
             "description": "(same as SOCIOL 3520). Analysis of crowd behavior and related phenomena: rumors, disasters, fashions. Social responses to unclear, dangerous or unjust conditions. The dynamics of conflict, consensus and change.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Group Decision Making Processes",
@@ -664,7 +766,8 @@
             "description": "(same as COMMUN 3571). Procedures and techniques for interpersonal communication and decision making in small groups.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "New Media, Conflict and Control",
@@ -672,7 +775,8 @@
             "description": "(same as SOCIOL 3522) This course will explore the increasing role of new media tools in conflict and surveillance. Examples from recent conflicts will illustrate how citizens and regimes use new media to communicate, report, mobilize, monitor, and/or control. Students will utilize new media as they research instances of democracy and control.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "War and Democracy in Late 5th c. BCE Athens",
@@ -680,7 +784,8 @@
             "description": "(same as CL_HUM 3550).  War and Democracy in Late 5th c. B.C.E. Athens explores the discourse on war and peace in Athenian texts and art that survives from the last quarter of the 5th century B.C.E.  This was a period of adamantine, unrelenting warfare: the Athenians were fighting the Spartans, Sparta's allies, unaligned cities and several of their own subject states.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "any 2000 level CL_HUM course"
+            "recommendation": "any 2000 level CL_HUM course",
+            "connections": "None Listed"
         },
         {
             "name": "Criminology",
@@ -688,7 +793,8 @@
             "description": "(same as SOCIOL 3600). Sociology of law; constitutional, psychological, sociological theories of criminal behavior; process of criminal justice; treatment of corrections; control of crime.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ireland, 1100s to 1850",
@@ -696,7 +802,8 @@
             "description": "(same as HIST 3610). Ireland, from Conquest to Famine:  Ireland's history as the first British Colony, from the conquests of the 1100s and 1500s-1600s to the Irish rebellion of 1798 and the Great Famine and mass emigration of 1845-50.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ireland, 1850-1923",
@@ -704,7 +811,8 @@
             "description": "(same as HIST 3611). Ireland, from Famine to Partition: Irish history from the Great Famine of 1845-50 to the revolutions of 1916-23 that brought partial independence from Britain but partitioned Ireland into two hostile and trouble states.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ireland, 1920-Present",
@@ -712,15 +820,20 @@
             "description": "(same as HIST 3612).  Ireland, from Partition to the Present:  After surveying the conflicts that led to Irish revolution and partition in 1916-23, the course focuses on the development of post partition Ireland and Northern Ireland, and on the violence that has scarred Northern Ireland since the 1960s.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "HIST 3610 and/or HIST 3611"
+            "recommendation": "HIST 3610 and/or HIST 3611",
+            "connections": "None Listed"
         },
         {
             "name": "World Political Geography",
             "number": "3780",
             "description": "(same as GEOG 3780). Geographic factors in the development of political boundaries traditions, and societal perspectives. Spatial patterns and geopolitical processes are explored in selected regions of the world.",
-            "prerequisites": "GEOG 1100 or GEOG 1200 or sophomore standing",
+            "prerequisites": "GEOG 1100 or GEOG 1200 or sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOG 1100",
+                "GEOG 1200"
+            ]
         },
         {
             "name": "Nonviolence in the Modern World",
@@ -728,7 +841,8 @@
             "description": "(same as HIST 3840 and S_A_ST 3245). Readings on recent world history, emphasis on Gandhi and nonviolent tradition in America Europe and the Third World.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Islam and the West",
@@ -736,7 +850,8 @@
             "description": "(same as HIST 3850). This course provides a historical intellectual context for the raging debate on Islam and the West. It will discuss how Muslims conceived and reacted variously to the political and cultural challenge the West posed in the nineteenth and twentieth century. It will focus on the discourse on the reception of modernization in Islam. It will highlight the political and cultural energies invested by various Muslim elite communities to distinguish between modernization and Westernization. Islamic fundamentalism, the dominant Islamic expression of our time, will be usefully discussed in the context of this debate and praxis about modernization, authenticity, and Westernization.",
             "prerequisites": "junior or senior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Social Revolution in Latin America",
@@ -744,7 +859,8 @@
             "description": "(same as HIST 3870 and SOCIOL 3870).Twentieth century social revolutions in selected Latin American countries.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies - Behavioral Sciences",
@@ -752,7 +868,8 @@
             "description": "Upperclass Topics.  Subject may vary from semester to semester.",
             "prerequisites": "junior standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies: Humanities",
@@ -760,7 +877,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.  May be repeated to a maximum of 6 hours with departmental consent. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2-6Recommended: sophomore standing",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Foreign Policy from Colonial Times to 1898",
@@ -768,15 +886,23 @@
             "description": "(same as HIST 4080).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Women, Development and Globalization",
             "number": "4230",
             "description": "(same as SOCIOL 4230 and WGST 4230 and BL_STU 4230). Examines the history and structure of \"development\" discourse and practices. Stresses the interconnections and impact on women globally. Reviews women's strategies in defining and instituting programs to improve quality of life in communities.",
-            "prerequisites": "BL_STU 1332 or BL_STU 2200; SOCIOL 2200, WGST 1332 or WGST 2010",
+            "prerequisites": "BL_STU 1332 or BL_STU 2200; SOCIOL 2200, WGST 1332 or WGST 2010",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "BL_STU 1332",
+                "BL_STU 2200",
+                "SOCIOL 2200",
+                "WGST 1332",
+                "WGST 2010"
+            ]
         },
         {
             "name": "Theory and Practice of Theatre of the Oppressed",
@@ -784,7 +910,8 @@
             "description": "(same as THEATR 4240). Theory and practice of Augusto Boal's liberatory interactive theatre process, including application of techniques of specific social issues.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of Ascendancy: U.S. Foreign Relations, 1945-Present",
@@ -792,7 +919,8 @@
             "description": "(same as HIST 4260). Surveys the Cold War in Europe and Asia, the Korean and Vietnam Wars, and Middle East policy.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Empire: Intellectual History, Literature, and Society",
@@ -800,7 +928,8 @@
             "description": "(same as REL_ST 4287; cross-leveled with PEA_ST 7287). Intellectuals and writers passionately debated the wisdom of colonies, free trade, and war as economies became increasingly global over the centuries. The proponents, critics, and interpreters of Empire will offer us rich examples of themes and theories in the culture of specific nations and eras. Intellectual life will be studied in the context of developments in social inequality, the culture of classes, media of communication, education, identities, transnational governance, and the nation-state. The course will be offered with different national and historical foci under different instructors, and may be repeated for credit with different instructors. Counts as the capstone experience for Peace Studies and is open to majors of other disciplines.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "senior standing"
+            "recommendation": "senior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Law and Society: Corporate and White Collar Crime and Malfeasance",
@@ -808,7 +937,8 @@
             "description": "(cross-leveled with PEA_ST 7288). Instances of corporate crime and ethical misconduct analyzed through major theories of the sociology of law including critical legal studies, Legal Realism, sociological jurisprudence, collective representation theory, state- corporate crime, rationalization of legal institutions/ critical theory, and post-structuralism. Cases to be analyzed might include mortgage lending fraud and malpractice, insider trading, pyramid schemes, the Erie Railroad scandals, and Enron, Worldcom, Tyco, and other instances in the hi tech collapse of 2001. Other topics: Corporate crime in the media and in novels and popular culture, appropriate sentencing, global corporate crime.",
             "prerequisites": "at least junior standing",
             "hours": "3",
-            "recommendation": "senior standing, 3.0 or above GPA, interest in graduate school"
+            "recommendation": "senior standing, 3.0 or above GPA, interest in graduate school",
+            "connections": "None Listed"
         },
         {
             "name": "Science and Technology of Terrorism and Counterterrorism",
@@ -816,7 +946,8 @@
             "description": "(same as NU_ENG 4330). Terrorism has been a familiar tool of political conflict, and it has assumed greater importance during the past twenty years. This subject has been treated by political scientists in various forms, but the scientific and technological aspects of different forms of terrorism cannot be found in a single place. It is important for persons who propose counter measures to understand the basics of different types of terrorism such as for instance the nature of chemical agents, their properties such as toxicity, etc. in order to build better defense systems.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nonproliferation Issues for Weapons of Mass Destruction",
@@ -824,7 +955,8 @@
             "description": "(same as NU_ENG 4331).  Nonproliferation impact on technology and world events.",
             "prerequisites": "junior or senior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nonproliferation Issues for Weapons of Mass Destruction - Writing Intensive",
@@ -832,7 +964,8 @@
             "description": "(same as NU_ENG 4331).  Nonproliferation impact on technology and world events.",
             "prerequisites": "junior or senior standing required or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Building Communities from the Grassroots",
@@ -840,15 +973,21 @@
             "description": "(Same as RU_SOC 4341). Introduction and application of basic community development concepts, methods and practical skills for involving and empowering local citizens and leaders effectively in community-based efforts regardless of the issue.",
             "prerequisites": "Instructor's consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Economic Development",
             "number": "4360",
             "description": "(same as ECONOM 4360). The study of less-developed countries including problems of measuring economic growth, analysis of sources of economic growth, causes of changes in economic and social structure, development and trade policies. The consequences of goals and assumptions for development policy are analyzed.",
-            "prerequisites": "ECONOM 3229, ECONOM 3251 or ECONOM 4351",
+            "prerequisites": "ECONOM 3229, ECONOM 3251 or ECONOM 4351",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ECONOM 3229",
+                "ECONOM 3251",
+                "ECONOM 4351"
+            ]
         },
         {
             "name": "Politics and War",
@@ -856,7 +995,8 @@
             "description": "(same as POL_SC 4410). Why do wars occur? The function of force and uses of a threat of force. Problems of national security strategy and arms control.",
             "prerequisites": "junior standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ethical Issues in Communication",
@@ -864,7 +1004,8 @@
             "description": "(same as COMMUN 4440). Exploration and analysis of ethical dimensions intrinsic to human communication.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "War Crimes and Genocide",
@@ -872,7 +1013,8 @@
             "description": "(same as HIST 4480).  This course will explore the development of international law, international consciousness, and U.S. Foreign policy on the two distinct but often related issues of war crimes and genocide during the late 19th and throughout the 20th centuries.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Western Europe's Foreign Policy",
@@ -880,7 +1022,8 @@
             "description": "Comparison of foreign policies of the major Western European countries; their roles within the European community. Study of institutions and functioning of the European community and its potential as an emerging world power.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Political Sociology",
@@ -888,15 +1031,20 @@
             "description": "(same as SOCIOL 4520). Social bases of power and politics, economic and political elites, the political economy of the advanced societies, sources of political conflict and change. MA core course.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "SOCIOL 3200, SOCIOL 3510, SOCIOL 3520, or SOCIOL 3700"
+            "recommendation": "SOCIOL 3200, SOCIOL 3510, SOCIOL 3520, or SOCIOL 3700",
+            "connections": "None Listed"
         },
         {
             "name": "Gender and Human Rights in Cross Cultural Perspective",
             "number": "4550",
             "description": "(same as WGST 4550 and SOCIOL 4550).  This course focuses on the global discourse on human rights and gender, emphasizing cross-cultural theories.  Course includes the meaning of rights, Western and nonwestern perspectives, feminist contributions, important substantive debates, violations, policymaking and activism.",
-            "prerequisites": "WGST 1120 or SOCIOL 2200; senior standing required",
+            "prerequisites": "WGST 1120 or SOCIOL 2200; senior standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 2200",
+                "WGST 1120"
+            ]
         },
         {
             "name": "Political and Social Philosophy",
@@ -904,7 +1052,8 @@
             "description": "(same as PHIL 4600). Contemporary and/or historical theories of justice and the state. Utilitarianism, liberalism, libertarianism, Marxism, Communitarianism and feminism may be among the views covered.",
             "prerequisites": "sophomore standing or instructor's consent",
             "hours": "3",
-            "recommendation": "two courses in Philosophy"
+            "recommendation": "two courses in Philosophy",
+            "connections": "None Listed"
         },
         {
             "name": "Case Studies in an Inter/Multicultural World",
@@ -912,7 +1061,8 @@
             "description": "(same as GERMAN 4810,T_A_M 4810, DST 4805). This inter-departmental course examines the ways in which people across the globe are affected every day by an unprecedented array of linkages that defy geographic and political boundaries. Also serves as one of the seminars for the certificate in Digital Global Studies. Graded on A-F basis only.",
             "prerequisites": "Sophomore standing; 2.75 GPA or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Journalism and Conflict",
@@ -920,7 +1070,8 @@
             "description": "(same as JOURN 4730). Introduction to the basic principles of conflict theory and negotiation, including the sources of conflict, why conflict escalates and what the conditions are for de-escalation, all with a special emphasis on the implications for the working journalist.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Leadership and Ethics",
@@ -928,15 +1079,19 @@
             "description": "(same as NAVY 4940).  The curriculum provides a foundation in leadership, ethical decision making, the Law of Armed Conflict and the military justice system.  Course explores ethical theories and helps students to build an ethical framework for decision making.  Topic areas include: Kant, Utilitarianism, Stoicism, Constitutional Paradigm, Uniform Code of Military Justice and Law of Armed Conflict.  Designed as a capstone course for juniors and seniors enrolled in NROTC it is open to all MU students.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Senior Thesis I",
             "number": "4970",
             "description": "Senior essay on a Peace Studies topic requiring major research.",
-            "prerequisites": "PEA_ST 1050, senior standing, and instructor's consent",
+            "prerequisites": "PEA_ST 1050, senior standing, and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PEA_ST 1050"
+            ]
         },
         {
             "name": "Peace Studies Abroad - Social Sciences",
@@ -944,7 +1099,8 @@
             "description": "A study abroad experience organized by MU and led by MU faculty. Provides students with interdisciplinary study in foreign cultures, career development, and global experience with issues such as war, domestic conflict, sustainable development, human rights, and nonviolent movements for peace and justice. May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Peace Studies - Behavioral Sciences",
@@ -952,7 +1108,8 @@
             "description": "Upperclass Topics.  Subject may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Foreign Policy from Colonial Times to 1898",
@@ -960,7 +1117,8 @@
             "description": "(same as HIST 7080).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theory and Practice of Theatre of the Oppressed",
@@ -968,7 +1126,8 @@
             "description": "(same as THEATR 7240). Theory and practice of Augusto Boal's liberatory interactive theatre process, including application of techniques of specific social issues.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of Ascendancy: U.S. Foreign Relations, 1945-Present",
@@ -976,7 +1135,8 @@
             "description": "(same as HIST 7260). Surveys the Cold War in Europe and Asia, the Korean and Vietnam Wars, and Middle East policy.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Empire: Intellectual History, Literature, and Society",
@@ -984,7 +1144,8 @@
             "description": "(same as REL_ST 7287; cross-leveled with PEA_ST 4287). Intellectuals and writers passionately debated the wisdom of colonies, free trade, and war as economies became increasingly global over the centuries. The proponents, critics, and interpreters of Empire will offer us rich examples of themes and theories in the culture of specific nations and eras. Intellectual life will be studied in the context of developments in social inequality, the culture of classes, media of communication, education, identites, transnational governance, and the nation-state. The course will be offered with different national and historical foci under different instructors, and may be repeated for credit with different instructors. Counts as the capstone experience for Peace Studies and is open to majors of other disciplines.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Law and Society: Corporate and White Collar Crime and Malfeasance",
@@ -992,15 +1153,22 @@
             "description": "(cross-leveled with PEA_ST 4288).  Instances of corporate crime and ethical misconduct analyzed through major theories of the sociology of law including critical legal studies, Legal Realism, sociological jurisprudence, collective representation theory, state-corporate crime, rationalization of legal institutions/ critical theory, and post-structuralism. Cases to be analyzed might include mortgage lending fraud and malpractice, insider trading, pyramid schemes, the Erie Railroad scandals, and Enron, Worldcom, Tyco, and other instances in the hi tech collapse of 2001. Other topics: Corporate crime in the media and in novels and popular culture, appropriate sentencing, global corporate crime.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Political Sociology",
             "number": "7520",
             "description": "(same as SOCIOL 7520). Social bases of power and politics, economic and political elites, the political economy of the advanced societies, sources of political conflict and change. MA core course.",
-            "prerequisites": "SOCIOL 3200, SOCIOL 3510,SOCIOL 3520, or SOCIOL 3700",
+            "prerequisites": "SOCIOL 3200, SOCIOL 3510,SOCIOL 3520, or SOCIOL 3700",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 3200",
+                "SOCIOL 3510",
+                "SOCIOL 3520",
+                "SOCIOL 3700"
+            ]
         },
         {
             "name": "Gender and Human Rights in Cross Cultural Perspective",
@@ -1008,7 +1176,8 @@
             "description": "(same as SOCIOL 7750 or WGST 7550). Focuses on the global discourse on human rights and gender, emphasizing cross-cultural theories.  Course includes the meaning of human rights, western and nonwestern perspectives, feminist contributions, important substantive debates, violations, policymaking and activism.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ethical Issues in Communication",
@@ -1016,7 +1185,8 @@
             "description": "(same as COMMUN 7640). Exploration and analysis of ethical dimensions intrinsic to human communication.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Peace Studies Abroad",
@@ -1024,7 +1194,8 @@
             "description": "A study abroad experience organized by MU and led by MU faculty. Provides students with interdisciplinary study in foreign cultures, career development, and global experience with issues such as war, domestic conflict, sustainable development, human rights, and nonviolent movements for peace and justice. May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

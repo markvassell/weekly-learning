@@ -8,7 +8,8 @@
             "description": "Provides an understanding of the roles and responsibilities of teaching assistants to prepare students for graduate school. Learning will take place through observation, lecture, reading and discussion. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Preparing To Be A Graduate Teaching Assistant",
@@ -16,7 +17,8 @@
             "description": "Provides an understanding of the roles and responsibilities of teaching assistants to prepare students for graduate school. Learning will take place through observation, lecture, reading and discussion. Graded on S/U basis only.",
             "prerequisites": "graduate standing",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Learning Across Borders Seminar",
@@ -24,7 +26,8 @@
             "description": "Social, cultural, and economic problems--and their solutions--are increasingly global and interdisciplinary.  Global awareness is essential, therefore, in order to compete in the increasing global marketplace.  Coupling professional knowledge and skills with international experience gives graduates a competitive advantage, as employers look beyond the academic transcript for additional skills.  The Learning Across Borders seminar (LAB) creates opportunities for graduate students to work across cultures and disciplines.  Throughout the academic year students will participate in a series of Think Tanks (interactive discussions facilitated by MU faculty and special guests) and LAB-approved events.  Graded on S/U basis only.",
             "prerequisites": "Students must register for both semesters",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Academic Interactions in the American University",
@@ -32,7 +35,8 @@
             "description": "This course is designed to give graduate students new to the western academic environment an overview of classroom and departmental activities and expectations. Specifically, it will give students cultural insight into academic tasks and some of the linguistic tools necessary to accomplish those tasks.",
             "prerequisites": "ibt TOEFL of 60",
             "hours": "3",
-            "recommendation": "for any students who have not previously studied in a western academic environment and strongly recommended for students with an overall TOEFL score of 80 or below or sub-scores in listening and/or speaking of 20 or less"
+            "recommendation": "for any students who have not previously studied in a western academic environment and strongly recommended for students with an overall TOEFL score of 80 or below or sub-scores in listening and/or speaking of 20 or less",
+            "connections": "None Listed"
         },
         {
             "name": "Tools for Teaching American Students",
@@ -40,7 +44,8 @@
             "description": "Emphasis on advanced academic listening, discrete pronunciation skills, techniques for laboratory teaching and one-to-one interactions.  Integrated with a general overview of American classroom culture.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Communication and Culture for American College Teaching",
@@ -48,7 +53,8 @@
             "description": "This class will focus on the linguistic aspects of teaching. as well as specific pedagogical; and cultural aspects of the American classroom.  It will emphasize fluency development at the suprasegmental level, and interactive teaching skills, like organizational, questioning and compensation strategies.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Graduate School",
@@ -56,7 +62,8 @@
             "description": "Organized study of selected professional and career development topics. Subjects and course credit may vary from semester to semester.",
             "prerequisites": "instructor's and academic advisor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Preparing Future Faculty I",
@@ -64,15 +71,19 @@
             "description": "First course in a two-semester Preparing Future Faculty program that introduces Ph.D. students to a variety of faculty roles and work environments. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Preparing Future Faculty II",
             "number": "9020",
             "description": "Second course in a two-semester Preparing Future Faculty program that introduces Ph.D. students to a variety of faculty roles and work environments. Topics build upon those presented in GRAD 9010 and focus on the job search and career development processes. Graded on S/U basis only.",
-            "prerequisites": "GRAD 9010",
+            "prerequisites": "GRAD 9010",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GRAD 9010"
+            ]
         },
         {
             "name": "Teaching with Technology-Strategies for Your Online Classroom",
@@ -80,7 +91,8 @@
             "description": "(same as IS_LT 9477). Designed to assist current and future course instructors to integrate learning technologies into a traditional face-to-face course. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Building Leadership Potential with Transferable Skills",
@@ -88,7 +100,8 @@
             "description": "Specialized leadership and transferable skills course that helps students recognize their potential and versatility for careers within and beyond the academy. Beyond leadership theory, the course is framed by 4 competency areas:  1) Analytic competencies; 2) Personal competencies;  3)  Communication competencies and 4) Organizational competencies. Learning is enhanced with short text readings and videos in the course management system. Guest speakers. To pass the course, students must attend class; complete a self-assessment; complete an informational interview or job shadow with a leader of choice; and submit 3 short assignments including an Individual Development Plan with goals. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Science Policy and Public Engagement",
@@ -96,7 +109,8 @@
             "description": "It is important the STEM professionals to understand the intersections between science, politics, and society to understand how the decisions that affect them are made. Junior scholars who understand the goals and implications of publicly funded science will likely have an advantage when seeking jobs and funding. This program also will explore numerous careers in the science policy realm.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Essentials for Public Engagement",
@@ -104,7 +118,8 @@
             "description": "This course will focus on understanding the role of scholarship and research in society and how to integrate public needs with research, ways to the public engages with scholarly research and how researchers can effectively engage individuals and groups. Topics covered include: different types of public engagement, public policy, ethics, broader impacts of research, extension education, public communication, theoretical rationale for engagement, historical trends in public engagement.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Science Policy and Public Engagement",
@@ -112,15 +127,19 @@
             "description": "It is important the STEM professionals to understand the intersections between science, politics, and society to understand how the decisions that affect them are made. Junior scholars who understand the goals and implications of publicly funded science will likely have an advantage when seeking jobs and funding. This program also will explore numerous careers in the science policy realm.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Instructional and Communication Strategies for Effective College Teaching",
             "number": "9304",
             "description": "This class will focus on teaching and presentation strategies such as lesson design, using case studies and problem based learning, interactive learning, and classroom and course management.  The linguistic emphasis will be on reduction, linking and speech patterns as will as pragmatic issues of organizing, clarifying and emphasizing ideas.  Requires an MU Oral Language Proficiency Assessment score of 3 and course consent.  Graded on A-F basis only.",
-            "prerequisites": "ITAP language level 3P or GRAD 7303 and level 2; consent required",
+            "prerequisites": "ITAP language level 3P or GRAD 7303 and level 2; consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GRAD 7303"
+            ]
         }
     ]
 }

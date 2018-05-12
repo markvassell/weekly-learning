@@ -8,7 +8,8 @@
             "description": "Examines financial management issues needed to survive the critical college years-credit/credit cards, budgeting/planning, financial aid, loans, common financial mistakes, debt management, setting financial goals, effective use of financial resources.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Financial Planning Careers",
@@ -16,15 +17,19 @@
             "description": "This course will provide the student with a broad, general introduction to careers in financial planning.  Through readings, introspection, discussions, and guest speakers, the student will develop an understanding of the field.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Personal and Family Finance",
             "number": "2183",
             "description": "Individual and family finance, with particular emphasis on financial planning, savings, insurance, investments, taxes, use of credit, and financial aspects of housing. Math Reasoning Proficiency Course. Students who wish to pursue a Personal Financial Planning emphasis must earn a B- or better, in FINPLN 2183.",
-            "prerequisites": "MATH 1100  with grade of C- or above",
+            "prerequisites": "MATH 1100  with grade of C- or above",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100"
+            ]
         },
         {
             "name": "Consumer as Entrepreneur",
@@ -32,7 +37,8 @@
             "description": "The American economic system and marketplace from both a consumer and an entrepreneurial perspective.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Financial Counseling",
@@ -40,23 +46,34 @@
             "description": "Practical course on client financial counseling.  Course emphasizes client money issues including budgeting, credit, debt management, bankruptcy and other issues.  Students also will learn counseling strategies and communication skills to motivate clients to change negative behaviors and/or adopt positive behaviors.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: FINPLN 2183 or instructor's consent",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Financial Planning: Computer Applications",
             "number": "3283",
             "description": "Development of expertise in analyzing and understanding family financial case situations.  Applications include the use of leading financial planning software, as will as applications with spreadsheets.",
-            "prerequisites": "FINPLN 2183 or equivalent",
+            "prerequisites": "FINPLN 2183 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 2183"
+            ]
         },
         {
             "name": "Financial Planning: Real Estate",
             "number": "3285",
             "description": "Family housing and real estate investments as components of the family's quality of life and asset portfolio.",
-            "prerequisites": "FINPLN 3283; ECONOM 1014 and ECONOM 1015; STAT 1300 or STAT 2500",
+            "prerequisites": "FINPLN 3283; ECONOM 1014 and ECONOM 1015; STAT 1300 or STAT 2500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ECONOM 1014",
+                "ECONOM 1015",
+                "FINPLN 3283",
+                "STAT 1300",
+                "STAT 2500"
+            ]
         },
         {
             "name": "Problems in Personal Financial Planning",
@@ -64,39 +81,54 @@
             "description": "Supervised and independent work.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Sales Management",
             "number": "4183",
             "description": "Prepares students to enter financial service occupations dependent upon sales and sales management.  Attention given to skill development, evaluation of current and best practices.",
-            "prerequisites": "junior standing; acceptance into professional program; FINPLN 2183",
+            "prerequisites": "junior standing; acceptance into professional program; FINPLN 2183",
             "hours": "3PrerequisitesorCorequisites:FINPLN 3283orinstructor'sconsent",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 2183"
+            ]
         },
         {
             "name": "Tax Planning",
             "number": "4187",
             "description": "Principles, current law and practice of income taxation and its impact on personal financial planning for individuals, couples and families in their roles as investors, employees, and business owners.  Graded on A-F basis only.",
-            "prerequisites": "FINPLN 2183, FINPLN 3283 or instructor's consent.  Not available to Pre-Personal Financial Planning majors",
+            "prerequisites": "FINPLN 2183, FINPLN 3283 or instructor's consent.  Not available to Pre-Personal Financial Planning majors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 2183",
+                "FINPLN 3283"
+            ]
         },
         {
             "name": "Community Agencies and Volunteerism",
             "number": "4188",
             "description": "Service learning in a non-profit community social support agency. Examines economic role of non-profits and volunteerism. Students engage in service and evaluate experience in seminar. Graded on A-F basis only.",
-            "prerequisites": "FINPLN 4187 or FINPLN 7187 or instructor's consent. Not available to Pre-Personal Financial Planning majors",
+            "prerequisites": "FINPLN 4187 or FINPLN 7187 or instructor's consent. Not available to Pre-Personal Financial Planning majors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 4187",
+                "FINPLN 7187"
+            ]
         },
         {
             "name": "Financial Planning: Applied Tax Law",
             "number": "4189",
             "description": "This course trains students to become volunteer tax prepares and provides the opportunity to use their skills in a lab setting to prepare personal tax returns for U.S. citizens and resident aliens living in central Missouri.  The course also discusses tax law, especially as it applies to clients of the Volunteer Income Tax Assistance site.",
-            "prerequisites": "FINPLN 4187",
+            "prerequisites": "FINPLN 4187",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 4187"
+            ]
         },
         {
             "name": "Topics in Personal Financial Planning",
@@ -104,7 +136,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "vary with topic",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Recent Trends in Personal and Financial Planning",
@@ -112,79 +145,118 @@
             "description": "For upper-class students who wish additional knowledge and understanding in specific subject matter areas.",
             "prerequisites": "vary with the topic",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Assessing the American Dream",
             "number": "4380",
             "description": "A systems perspective examining ways choice and culture shape American levels and standards of living.  The impact of trends in personal and family values, technology, the economy, mass media and social movements on household resource management.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Assessing the American Dream - Writing Intensive",
             "number": "4380W",
             "description": "A systems perspective examining ways choice and culture shape American levels and standards of living.  The impact of trends in personal and family values, technology, the economy, mass media and social movements on household resource management.",
-            "prerequisites": "ENGLSH 1000",
+            "prerequisites": "ENGLSH 1000",
             "hours": "3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Financial Planning: Risk Management",
             "number": "4382",
             "description": "Analysis of family financial risks and conservation of family assets via risk management, with primary focus on personal lines of insurance.",
-            "prerequisites": "FINPLN 3283; ECONOM 1014 and ECONOM 1015; STAT 1300 or STAT 2500.  Not available to Pre-Personal Financial Planning majors",
+            "prerequisites": "FINPLN 3283; ECONOM 1014 and ECONOM 1015; STAT 1300 or STAT 2500.  Not available to Pre-Personal Financial Planning majors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ECONOM 1014",
+                "ECONOM 1015",
+                "FINPLN 3283",
+                "STAT 1300",
+                "STAT 2500"
+            ]
         },
         {
             "name": "Financial Planning: Investment Management",
             "number": "4383",
             "description": "(cross-leveled with FINPLN 7383). Introduction to investment for family financial planning.",
-            "prerequisites": "FINPLN 2183 and 3283; STAT 1300 or STAT 2500.  Not available to Pre-Personal Financial Planning majors",
+            "prerequisites": "FINPLN 2183 and 3283; STAT 1300 or STAT 2500.  Not available to Pre-Personal Financial Planning majors",
             "hours": "3PrerequisitesorCorequisites:ECONOM 3229",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 2183",
+                "STAT 1300",
+                "STAT 2500"
+            ]
         },
         {
             "name": "Financial Planning: Employee Benefits and Retirement Planning",
             "number": "4386",
             "description": "Fundamentals of employee benefits and retirement planning. Consideration of options via government, employer, financial markets. Special circumstances of women, part-time, and contingent workers considered.",
-            "prerequisites": "FINPLN 4382, FINPLN 4383.  Not available to Pre-Personal Financial Planning majors",
+            "prerequisites": "FINPLN 4382, FINPLN 4383.  Not available to Pre-Personal Financial Planning majors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 4382",
+                "FINPLN 4383"
+            ]
         },
         {
             "name": "Consumer and Household Economics",
             "number": "4387",
             "description": "Economic theory of consumer and household behavior, focusing on rationality, uncertainty, optimal search, heuristics, interactive decisions and considering implications for financial decision making and policy analysis.",
-            "prerequisites": "ECONOM 1014 or equivalent",
+            "prerequisites": "ECONOM 1014 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ECONOM 1014"
+            ]
         },
         {
             "name": "Effective Consumer Decision-Making",
             "number": "4388",
             "description": "Theory, concepts, principles underlying consumer decision-making, including rationality, uncertainty, optimal search, heuristics, interactive decisions; strategies for their application in the marketplace.",
-            "prerequisites": "ECONOM 1014 and ECONOM 1015",
+            "prerequisites": "ECONOM 1014 and ECONOM 1015",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ECONOM 1014",
+                "ECONOM 1015"
+            ]
         },
         {
             "name": "Financial Planning: Capstone",
             "number": "4389",
             "description": "The course emphasizes the use of analytical tools to develop effective financial plans for individuals and households.",
-            "prerequisites": "FINPLN 4187, FINPLN 4382, FINPLN 4383 or instructor's consent.  Not available to Pre-Personal Financial Planning majors",
+            "prerequisites": "FINPLN 4187, FINPLN 4382, FINPLN 4383 or instructor's consent.  Not available to Pre-Personal Financial Planning majors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 4187",
+                "FINPLN 4382",
+                "FINPLN 4383"
+            ]
         },
         {
             "name": "Financial Planning: Estate and Gift Planning",
             "number": "4393",
             "description": "Fundamentals, practical problems and solutions in basic estate and gift planning, business succession planning, and taxation issues.",
-            "prerequisites": "FINPLN 4382 and FINPLN 4383 or instructor's consent.  Not available to Pre-Personal Financial Planning majors",
+            "prerequisites": "FINPLN 4382 and FINPLN 4383 or instructor's consent.  Not available to Pre-Personal Financial Planning majors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 4382",
+                "FINPLN 4383"
+            ]
         },
         {
             "name": "Topics in Personal Financial Planning",
@@ -192,7 +264,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Financial Success",
@@ -200,7 +273,8 @@
             "description": "Examines financial management issues needed to survive the critical post-college years - managing educational debt; after-school budgeting; auto, health, and other forms of insurance; retirement planning and other investment issues; setting financial goals; effective use of financial resources. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Personal Financial Planning",
@@ -208,7 +282,8 @@
             "description": "",
             "prerequisites": "restricted to Personal Financial Planning Majors only",
             "hours": "1-99",
-            "recommendation": "2-3 hours in Personal Financial Planning"
+            "recommendation": "2-3 hours in Personal Financial Planning",
+            "connections": "None Listed"
         },
         {
             "name": "Internship in Personal Financial Planning",
@@ -216,7 +291,8 @@
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Personal Financial Planning",
@@ -224,7 +300,8 @@
             "description": "",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Household Economics and Finance",
@@ -232,7 +309,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Teaching Personal Finance Literacy",
@@ -240,7 +318,8 @@
             "description": "(same as LTC_V 7083). Principles and practices of teaching personal finance with particular emphasis on income, money management, spending and credit, and savings and investing.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Household Economics and Finance",
@@ -248,7 +327,8 @@
             "description": "Supervised independent work related to household economics and finance.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Household Economics and Finance",
@@ -256,7 +336,8 @@
             "description": "Reports and discussion of recent research and practice in household economics and finance.",
             "prerequisites": "None Listed",
             "hours": "1-4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Personal Financial Planning",
@@ -264,15 +345,21 @@
             "description": "Issues and concepts related to the financial planning process, including determination of financial goals and expectations and analysis and evaluation of personal and family financial data with emphasis on savings, insurance, investments, taxes, credit and financial aspects of housing.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Financial Planning",
             "number": "7187",
             "description": "Principles, current law and practice of income taxation and its impact on personal financial planning for individuals, couples and families in their roles as investors, employees, and business owners.  Graded on A-F basis only.",
-            "prerequisites": "FINPLN 2183, FINPLN 3283, ACCTCY 2010 or equivalent or instructor's consent",
+            "prerequisites": "FINPLN 2183, FINPLN 3283, ACCTCY 2010 or equivalent or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ACCTCY 2010",
+                "FINPLN 2183",
+                "FINPLN 3283"
+            ]
         },
         {
             "name": "Advanced Financial Counseling",
@@ -280,7 +367,8 @@
             "description": "Students will learn client-centered financial counseling.  Includes development of interviewing techniques, focus on personality strengths and weaknesses, creation of the sales process, and the role of technology in counseling.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Recent Trends in Personal Financial Planning",
@@ -288,7 +376,8 @@
             "description": "For upper-class and graduate students who wish additional knowledge and understanding in specific subject matter areas.",
             "prerequisites": "vary with the topic",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Assessing the American Dream",
@@ -296,63 +385,93 @@
             "description": "A systems perspective examining ways choice and culture shape American levels and standards of living.  The impact of trends in personal and family values, technology the economy, mass media and social movements on household resource management.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Financial Planning: Risk Management",
             "number": "7382",
             "description": "Analysis of family financial risks and conservation of family assets via risk management, with primary focus on personal lines of insurance.",
-            "prerequisites": "FINPLN 3283; 5-6 hours of Economics; STAT 1300 or STAT 2500",
+            "prerequisites": "FINPLN 3283; 5-6 hours of Economics; STAT 1300 or STAT 2500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 3283",
+                "STAT 1300",
+                "STAT 2500"
+            ]
         },
         {
             "name": "Financial Planning: Investment Management",
             "number": "7383",
             "description": "Management of family financial investments.",
-            "prerequisites": "FINPLN 3283; 5-6 hours of Economics; STAT 1300 or STAT 2500",
+            "prerequisites": "FINPLN 3283; 5-6 hours of Economics; STAT 1300 or STAT 2500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 3283",
+                "STAT 1300",
+                "STAT 2500"
+            ]
         },
         {
             "name": "Financial Planning: Employee Benefits and Retirement Planning",
             "number": "7386",
             "description": "Fundamentals of employee benefits and retirement planning. Consideration of options via government, employer, financial markets. Special circumstances of women, part-time, and contingent workers considered.",
-            "prerequisites": "FINPLN 4382, FINPLN 4383, or instructor's consent",
+            "prerequisites": "FINPLN 4382, FINPLN 4383, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 4382",
+                "FINPLN 4383"
+            ]
         },
         {
             "name": "Consumer and Household Economics II",
             "number": "7387",
             "description": "(cross-leveled with FINPLN 7387). Economic theory of consumer and household behavior, focusing on rationality, uncertainty, optimal search, heuristics, interactive decisions and considering implications for financial decision making and policy analysis.",
-            "prerequisites": "ECONOM 4351 or equivalent",
+            "prerequisites": "ECONOM 4351 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ECONOM 4351"
+            ]
         },
         {
             "name": "Effective Consumer Decision-Making",
             "number": "7388",
             "description": "Theory, concepts, principles underlying consumer decision-making, including rationality, uncertainty, optimal search, heuristics, interactive decisions; strategies for their application in the marketplace.",
-            "prerequisites": "FINPLN 2185; 5-6 hours of Economics",
+            "prerequisites": "FINPLN 2185; 5-6 hours of Economics",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 2185"
+            ]
         },
         {
             "name": "Financial Planning: Capstone",
             "number": "7389",
             "description": "The course emphasizes the use of analytical tools to develop effective financial plans for individuals and households.",
-            "prerequisites": "FINPLN 4187, FINPLN 4382, FINPLN 4383 or instructor's consent.  Not available to Pre-Personal Financial Planning majors",
+            "prerequisites": "FINPLN 4187, FINPLN 4382, FINPLN 4383 or instructor's consent.  Not available to Pre-Personal Financial Planning majors",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 4187",
+                "FINPLN 4382",
+                "FINPLN 4383"
+            ]
         },
         {
             "name": "Financial Planning: Estate and Gift Planning",
             "number": "7393",
             "description": "Fundamentals, practical problems and solutions in basic estate and gift planning, business succession planning, and taxation issues.",
-            "prerequisites": "FINPLN 4382 and FINPLN 4382",
+            "prerequisites": "FINPLN 4382 and FINPLN 4382",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 4382",
+                "FINPLN 4382"
+            ]
         },
         {
             "name": "Research Methods in Personal Financial Planning",
@@ -360,7 +479,8 @@
             "description": "Introduction to the scope, purpose and methods of research in consumer and family economics, with emphasis on economic survey methods.",
             "prerequisites": "an introductory statistics course",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Personal Financial Issues of Older Adults",
@@ -368,7 +488,8 @@
             "description": "(same as H_D_FS 7583).  Principles and practice of personal finance relevant to assessing and improving the financial security of older individuals.  Topics covered include sources of income, management of cash flow, credit use and abuse, risk exposure, investment management, housing, and financial planning.  Financial vulnerabilities of seniors will be explored.  May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "Bachelor or Master's degree in human services, social work, mental health, nursing physical rehabilitation or psychology; Must be enrolled in Graduate Certificate in Geriatric Care Management program",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Household Economics and Finance",
@@ -376,7 +497,8 @@
             "description": "Readings in recent research in household economics and finance.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Internship in Personal Financial Planning",
@@ -384,7 +506,8 @@
             "description": "Internship in Personal Financial Planning.",
             "prerequisites": "instructor's consent; Restricted to Personal Financial Planning Majors Only",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Personal Financial Planning",
@@ -392,7 +515,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Household Economics and Finance",
@@ -400,7 +524,8 @@
             "description": "Supervised independent work related to household economics and finance.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Household Economics and Finance",
@@ -408,7 +533,8 @@
             "description": "Report and discussion of recent research and practice in household economics and finance.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Master's Thesis Research in Personal Financial Planning",
@@ -416,7 +542,8 @@
             "description": "Independent research leading to thesis or dissertation. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Military Personal Financial Readiness",
@@ -424,7 +551,8 @@
             "description": "Financial planning process applied to military personnel and their families.  Focus on service member status; financial readiness; record-keeping; management of cash flow, risk, credit and debt, savings, investments, tax, savings; education planning, retirement and estate planning.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Professional Practices in Financial Planning",
@@ -432,7 +560,8 @@
             "description": "Practice management techniques for Financial Planners. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Family Systems",
@@ -440,7 +569,8 @@
             "description": "Exploration of the family as a system within the broader context of society.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theories and Research in Personal Financial Planning I",
@@ -448,15 +578,19 @@
             "description": "Course introduces students to the social science of family finances. Course covers the theories of family functioning, microeconomic theory related to family resource allocation decisions, the family as an economic unit, and the interaction of families and the economy. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Theories and Research in Personal Financial Planning II",
             "number": "8382",
             "description": "Course reviews theories and empirical research in household financial decision-making, drawing from macroeconomic theory, theories of household behavior, lifecycle hypothesis, behavioral economics and finance, theories of behavioral change and psychological theories of family well-being. Graded on A-F basis only.",
-            "prerequisites": "FINPLN 8381",
+            "prerequisites": "FINPLN 8381",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 8381"
+            ]
         },
         {
             "name": "Housing and Real Estate",
@@ -464,15 +598,20 @@
             "description": "The study of real estate as a component to household wealth.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "International Employee Benefits and Retirement Planning",
             "number": "8386",
             "description": "This course develops the theory and application of international employee benefits and retirement planning. Universal theory will be applied to analyze existing programs in an international context. Graded on A-F basis only.",
-            "prerequisites": "FINPLN 7183 and FINPLN 7383",
+            "prerequisites": "FINPLN 7183 and FINPLN 7383",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 7183",
+                "FINPLN 7383"
+            ]
         },
         {
             "name": "Financial Planning Case Studies",
@@ -480,15 +619,20 @@
             "description": "The analysis and development of appropriate presentations for effective financial plans.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "International Estate and Gift Planning",
             "number": "8393",
             "description": "This course develops the theory and application of end of life planning in an international context.  Core estate planning education will prepare students to sit for the CFP exam, while addressing issues prevalent in other countries.  Graded on A-F basis only.",
-            "prerequisites": "FINPLN 7183, FINPLN 7383",
+            "prerequisites": "FINPLN 7183, FINPLN 7383",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 7183",
+                "FINPLN 7383"
+            ]
         },
         {
             "name": "Applied Research in Household Economics and Planning",
@@ -496,7 +640,8 @@
             "description": "Independent research not leading to a thesis. Report required. For students completing Master's in Personal Financial Planning.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Family Economics",
@@ -504,23 +649,30 @@
             "description": "Multidisciplinary study of research on families as economic units. Examines trends in family income, wealth, labor market participation, household production, distribution of household resources, use of public goods, and underground economy.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Resource Development and Allocation",
             "number": "8485",
             "description": "Economic analysis of conditions, programs and policies related to development and use of human resources, with special reference to impact on families and households.",
-            "prerequisites": "FINPLN 4387 or instructor's consent",
+            "prerequisites": "FINPLN 4387 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 4387"
+            ]
         },
         {
             "name": "Social Policy and the Family Economy",
             "number": "8486",
             "description": "Economic analysis of public programs that directly affect well-being of families: income maintenance, goods transfers, employment, housing, health, transportation, taxes, etc.; consideration of underlying philosophies, policy alternatives.",
-            "prerequisites": "FINPLN 7387 or instructor's consent",
+            "prerequisites": "FINPLN 7387 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "FINPLN 7387"
+            ]
         },
         {
             "name": "Household Financial Decision Making",
@@ -528,7 +680,8 @@
             "description": "This course provides a solid foundation for critical thinking and research on household financial decision making.  A selective but extensive review of normative and descriptive theories and empirical studies pertinent to household financial decision making is provided.  The focus is on developing a critical perspective in students that enables them to identify opportunities to advanced theory toward relevant applications through research on household financial decision making.",
             "prerequisites": "instructor's consent.  A knowledge of intermediate micro economics, introductory statistics, and introductory differential calculus is assumed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Personal Financial Planning Capstone",
@@ -536,7 +689,8 @@
             "description": "Independent work on project approved by major advisor and CFP (R) Program Director.  For students completing Master's in Personal Financial Planning.  May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Household Economics and Finance",
@@ -544,7 +698,8 @@
             "description": "Readings in recent research in household economics and finance.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Household Economics and Finance",
@@ -552,7 +707,8 @@
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Household Economics and Finance",
@@ -560,7 +716,8 @@
             "description": "Supervised independent work related to household economics and finance.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Household Economics and Finance",
@@ -568,7 +725,8 @@
             "description": "Report and discussion of recent research and practice in household economics and finance.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Doctoral Dissertation Research in Personal Financial Planning",
@@ -576,7 +734,8 @@
             "description": "Independent research leading to thesis or dissertation. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in Household Economics and Finance",
@@ -584,7 +743,8 @@
             "description": "Readings in recent research in household economics and finance.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

@@ -8,7 +8,8 @@
             "description": "Advanced studies not expected to terminate in a thesis.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Laboratory Animal Medicine",
@@ -16,7 +17,8 @@
             "description": "Research expected to terminate in a thesis. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Laboratory Animal Medicine",
@@ -24,7 +26,8 @@
             "description": "Research not expected to terminate in a thesis.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Laboratory Animal Medicine",
@@ -32,7 +35,8 @@
             "description": "Courses on various specialized topics in laboratory animal medicine or comparative medicine given on an as needed basis; content depends on faculty expertise and student need.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Laboratory Animal Medicine",
@@ -40,7 +44,8 @@
             "description": "Theme-oriented seminars and discussions in the field of laboratory animal medicine, comparative medicine or related areas.   Graded on S/U basis only.",
             "prerequisites": "departmental consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Pathology of Laboratory Animals",
@@ -48,7 +53,8 @@
             "description": "Pathogenesis, pathology and diagnosis of naturally occurring diseases in animals used in research.",
             "prerequisites": "departmental consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Laboratory Animal Biology",
@@ -56,7 +62,8 @@
             "description": "Anatomy, taxonomy, reproduction, genetics, nutrition, and behavior of common laboratory animals. Emphasis is placed on mice and rats, including genetically-engineered models with comparative discussions on other laboratory animals. ",
             "prerequisites": " departmental consent",
             "hours": ": 4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Laboratory Animal Resource Management",
@@ -64,7 +71,8 @@
             "description": "Policies, standards and regulations in the care and use of laboratory animals, including colony management, animal procurement, cost accounting, facility design, and supervisory skills.",
             "prerequisites": "departmental consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Methodology of Animal Experimentation",
@@ -72,15 +80,19 @@
             "description": "Topics include experimental design, applied biostatistics, concepts of animal modeling.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Grant and Manuscript Writing for Biomedical Researchers",
             "number": "9476",
             "description": "Topics include experimental design applied biostatics and writing effective grant proposals and scientific manuscripts.  Methods include lecture, discussion and assignments including an individual grant proposal which will be reviewed by a mock study section.",
-            "prerequisites": "LAB_AN 9475; instructor's consent",
+            "prerequisites": "LAB_AN 9475; instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "LAB_AN 9475"
+            ]
         },
         {
             "name": "Laboratory and Project Management",
@@ -88,7 +100,8 @@
             "description": "This course will provide graduates with professional development skills and career guidance including instruction in laboratory and project management.  Topics will include job searching, start-up considerations, equipping a lab, personnel management and budget management. Graded on S/U basis only.",
             "prerequisites": "enrollment in Comparative Medicine Area Program or approval of course coordinator",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

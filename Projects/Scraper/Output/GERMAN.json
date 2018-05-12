@@ -8,7 +8,8 @@
             "description": "For beginners with no prior knowledge of German.  This course helps learners develop the skills they need to use German as a means of communication in their personal and professional life. It covers a wide variety of vocabulary pertaining to everyday life; emphasis is on all types of communication--oral and listening skills, reading and writing.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Elementary German I - Honors",
@@ -16,7 +17,8 @@
             "description": "This course is designed for Honors students with little or no German language background and will provide students with a foundation in vocabulary and grammar in order to develop communication proficiency in German. Students will be trained using the five skills: listening, speaking, writing, reading and cultural knowledge.  The course will be taught as a total immersion class and thus differs from the standard elementary German sequence.  Furthermore, students will be required to complete lengthier reading and writing tasks as well as present a final oral multimedia project at the end of the semester.",
             "prerequisites": "Honors eligibility required",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Freshman Introduction to German Studies",
@@ -24,15 +26,19 @@
             "description": "Introduction to German Studies as academic field.  Small seminar setting with senior faculty, their favorite texts, and questions pursued in the research and teaching.  Recommended for all students interested in integrating German studies into their academic career, conducted in English.",
             "prerequisites": "Restricted to Freshman students only",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Elementary German II",
             "number": "1200",
             "description": "A continuation of GERMAN 1100.  This course helps learners develop the skills they need to use German as a means of communication in their personal and professional life.  It covers a wide variety of vocabulary pertaining to everyday life; emphasis is on all types of communication - oral and listening skills, reading and writing.",
-            "prerequisites": "C- or better in GERMAN 1100, or equivalent",
+            "prerequisites": "C- or better in GERMAN 1100, or equivalent",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 1100"
+            ]
         },
         {
             "name": "Elementary German II - Honors",
@@ -40,7 +46,8 @@
             "description": "This course is designed for Honors students who either took the GERMAN 1100H section or are placing into GERMAN 1200 as honors eligible students. The main focus of this course is on further development of basic communication skills in speaking, listening, reading, and writing in German adding more nuanced cultural and sociolinguistic competencies in a total immersion environment.",
             "prerequisites": "Honors eligibility required",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Topics in German-General",
@@ -48,7 +55,8 @@
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. May be repeated with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Topics in German-Humanities",
@@ -56,7 +64,8 @@
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. May be repeated with departmental consent. No language credit.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Topics in German-Humanities - Honors",
@@ -64,23 +73,30 @@
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. May be repeated with departmental consent. No language credit.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Intermediate German I",
             "number": "2100",
             "description": "A continuation of GERMAN 1200.  This course helps learners develop the skills they need to use German as a means of communication in their personal and professional life.  It covers a wide variety of vocabulary pertaining to everyday life; emphasis is on all types of communication - oral and listening skills, reading and writing.",
-            "prerequisites": "C- or better in GERMAN 1200, or equivalent",
+            "prerequisites": "C- or better in GERMAN 1200, or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 1200"
+            ]
         },
         {
             "name": "Intermediate German II: Language and Culture",
             "number": "2260",
             "description": "This course continues to help learners develop the necessary communicative skills in German.  The particular emphasis is on oral and writing skills, and texts that provide insight into contemporary German culture and social life.",
-            "prerequisites": "C- in GERMAN 2100 or equivalent",
+            "prerequisites": "C- in GERMAN 2100 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 2100"
+            ]
         },
         {
             "name": "German Civilization: Beginning to 1850",
@@ -88,7 +104,8 @@
             "description": "Major historical, social, artistic, literary themes from beginnings to end of Revolution of 1848. Films and recordings. May be taken independently of GERMAN 2320. No foreign language credit. Some sections may enforce prerequisite of ENGLSH 1000.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "German Civilization: Beginning to 1850 - Writing Intensive",
@@ -96,39 +113,53 @@
             "description": "Major historical, social, artistic, literary themes from beginnings to end of Revolution of 1848. Films and recordings. May be taken independently of GERMAN 2320. No foreign language credit. Some sections may enforce prerequisite of ENGLSH 1000.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "German Civilization: 1850 to Present",
             "number": "2320",
             "description": "Second Empire, Weimar Republic, Nazi era, two Germanies after 1949. Historical, social, artistic, literary themes. Films and recordings. May be taken independently of  GERMAN 2310. No foreign language credit.",
-            "prerequisites": "some sections may enforce prerequisite of ENGLSH 1000",
+            "prerequisites": "some sections may enforce prerequisite of ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "German Civilization: 1850 to Present - Writing Intensive",
             "number": "2320W",
             "description": "Second Empire, Weimar Republic, Nazi era, two Germanies after 1949. Historical, social, artistic, literary themes. Films and recordings. May be taken independently of  GERMAN 2310. No foreign language credit.",
-            "prerequisites": "some sections may enforce prerequisite of ENGLSH 1000",
+            "prerequisites": "some sections may enforce prerequisite of ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Monstrous Births: Tales of Creation in 19th Century Literature",
             "number": "2480",
             "description": "Examines literary and other cultural works which explore the creation of human beings by traditional, technological, or magical means. Course and readings in English translation.",
-            "prerequisites": "ENGLSH 1000 or equivalent",
+            "prerequisites": "ENGLSH 1000 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Trends in World Cinema",
             "number": "2820",
             "description": "(same as FILM_S 2820 and RM_LAN 2820). This course is a historical overview of the major trends in international cinema. It focuses on the intersection of aesthetics, industry, and ideological and social concerns in cinematic production.",
-            "prerequisites": "sophomore standing, ENGLSH 1800 or FILM_S 1800 or instructor's consent",
+            "prerequisites": "sophomore standing, ENGLSH 1800 or FILM_S 1800 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1800",
+                "FILM_S 1800"
+            ]
         },
         {
             "name": "Topics in German-General",
@@ -136,7 +167,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "sophomore standing"
+            "recommendation": "sophomore standing",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in German-Humanities",
@@ -144,47 +176,64 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "sophomore standing"
+            "recommendation": "sophomore standing",
+            "connections": "None Listed"
         },
         {
             "name": "German Conversation and Composition",
             "number": "3160",
             "description": "This course expands communicative competence in German and provides a review of advanced grammar concepts. Primary emphasis is on the further development of oral and written skills, reading comprehension, vocabulary expansion, and a broad exposure to relevant topics of contemporary German culture and society. Conducted in German.",
-            "prerequisites": "GERMAN 2260 or equivalent",
+            "prerequisites": "GERMAN 2260 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 2260"
+            ]
         },
         {
             "name": "Business German",
             "number": "3180",
             "description": "Examines language within the economic and professional context of German-speaking countries. Introduces different economic concepts of Germany's turbulent 20th century, modern-day business systems and everyday commercial activities such as job applications, professional routines, capital investment and banking. Provides students with vocabulary, cultural knowledge and communicative abilities in order to participate in the professional German-speaking world using linguistically-solid and stylistically-persuasive writing and speaking skills.",
-            "prerequisites": "GERMAN 2260 or equivalent",
+            "prerequisites": "GERMAN 2260 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 2260"
+            ]
         },
         {
             "name": "Contemporary German Culture",
             "number": "3190",
             "description": "This content-driven course provides insights into essential subjects of 20th century German history and contemporary society, using a variety of literature, journalistic sources and film.  The course will improve German conversation and literacy skills, and will strengthen critical reading and writing, as well as interpretative abilities.  Significant grammatical concepts will be thoroughly reviewed  throughout the semester.  Conducted in German.",
-            "prerequisites": "GERMAN 2260 or instructor's consent",
+            "prerequisites": "GERMAN 2260 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 2260"
+            ]
         },
         {
             "name": "Introduction to German Literature",
             "number": "3230",
             "description": "This course introduces students to German-language literary texts, images, and films in their cultural and historical context through exposure to major genres (poetry, drama, short stories, and the novel). It further builds their vocabulary and teaches them critical interpretive skills as preparation for the analysis of literary texts in upper-division courses - and in life.",
-            "prerequisites": "C- or better in either GERMAN 3160 or GERMAN 3190",
+            "prerequisites": "C- or better in either GERMAN 3160 or GERMAN 3190",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 3160",
+                "GERMAN 3190"
+            ]
         },
         {
             "name": "Readings in German Literature",
             "number": "3320",
             "description": "Readings in English of selected works of German literature from Goethe to the present, with a particular emphasis on writers and texts that have had a strong influence on European thought and culture.",
-            "prerequisites": "sophomore standing, ENGLSH 1000",
+            "prerequisites": "sophomore standing, ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "After the Fact: Holocaust in Contemporary History, Art & Literature",
@@ -192,15 +241,19 @@
             "description": "(same as PEA_ST 3440). Explores responses to the Holocaust from numerous perspectives. Considers how the Holocaust is remembered, memorialized, and debated in a variety of national contexts.  Touches on historical, philosophical, and aesthetic points of view.",
             "prerequisites": "sophomore standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Marx & Nietzsche: Labor, Power, and the German Mind of 19th Century",
             "number": "3460",
             "description": "Examines writings of Germany's two most radical nineteenth-century thinkers. Explores key terms of political economy and philosophy developed by Marx and Nietzsche. Journal and three papers.",
-            "prerequisites": "sophomore standing, ENGLSH 1000",
+            "prerequisites": "sophomore standing, ENGLSH 1000",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies",
@@ -208,7 +261,8 @@
             "description": "(same as T_A_M 2810, PEA_ST 2810, JOURN 3510, DST 3510). This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives.  The course is open to students in any discipline.  Graded on A-F basis only.",
             "prerequisites": "Sophomore standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies - Honors",
@@ -216,7 +270,8 @@
             "description": "(same as JOURN 3510H, PEA_ST 2810H, T_A_M 3010H, DST 3510H). This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives. The course is open to students in any discipline. Graded on A-F basis only.",
             "prerequisites": "Sophomore standing; 2.75 GPA or instructor's consent.  Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies - Honors/Writing Intensive",
@@ -224,7 +279,8 @@
             "description": "(same as JOURN 3510HW, T_A_M 3010HW, PEA_ST 2810HW). This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives. The course is open to students in any discipline. Graded on A-F basis only.",
             "prerequisites": "Sophomore standing; 2.75 GPA or instructor's consent.  Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Think Global: Fundamentals of Globalization and Digital Technologies - Writing Intensive",
@@ -232,7 +288,8 @@
             "description": "(same as T_A_M 2810W, PEA_ST 2810W, JOURN 3510W, DST 3510W). This interdepartmental course serves as one of the core seminars for students pursuing the undergraduate Certificate in Digital Global Studies. The course focuses on the impact of technological change and globalization on cultures around the world from various interdisciplinary perspectives.  The course is open to students in any discipline.  Graded on A-F basis only.",
             "prerequisites": "Sophomore standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Folk and Fairytales in a Global Context",
@@ -240,7 +297,8 @@
             "description": "Analyzes the most famous European collection of fairytales, namely the Kinder-und  Hausmarchen (Children's and Household Tales) by the Brothers Grimm and juxtaposes them to folktales from other cultures. Looks at the genre of fairytales, studies the historical context of the genesis of the collection of tales, and modern versions of the tales. Compares and contrasts Grimm's fairytales with folktales of different cultural traditions, analyzes and identifies the formal structure of fairytales and motifs, discusses various interpretive models/perspectives and juxtaposes several historical and contemporary literary fairytales and fairytale adaptations. Cultural unit examples will be on Mongolian culture and history and the Maori culture of New Zealand. Students are expected to create their own cultural unit based on the course's units. Course is taught in English.",
             "prerequisites": "sophomore standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Folk and Fairytales in a Global Context",
@@ -248,7 +306,8 @@
             "description": "Analyzes the most famous European collection of fairytales, namely the Kinder-und  Hausmarchen (Children's and Household Tales) by the Brothers Grimm and juxtaposes them to folktales from other cultures. Looks at the genre of fairytales, studies the historical context of the genesis of the collection of tales, and modern versions of the tales. Compares and contrasts Grimm's fairytales with folktales of different cultural traditions, analyzes and identifies the formal structure of fairytales and motifs, discusses various interpretive models/perspectives and juxtaposes several historical and contemporary literary fairytales and fairytale adaptations. Cultural unit examples will be on Mongolian culture and history and the Maori culture of New Zealand. Students are expected to create their own cultural unit based on the course's units. Course is taught in English.",
             "prerequisites": "sophomore standing required. Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Folk and Fairytales in a Global Context - Honors/Writing Intensive",
@@ -256,7 +315,8 @@
             "description": "Analyzes the most famous European collection of fairytales, namely the Kinder-und  Hausmarchen (Children's and Household Tales) by the Brothers Grimm and juxtaposes them to folktales from other cultures. Looks at the genre of fairytales, studies the historical context of the genesis of the collection of tales, and modern versions of the tales. Compares and contrasts Grimm's fairytales with folktales of different cultural traditions, analyzes and identifies the formal structure of fairytales and motifs, discusses various interpretive models/perspectives and juxtaposes several historical and contemporary literary fairytales and fairytale adaptations. Cultural unit examples will be on Mongolian culture and history and the Maori culture of New Zealand. Students are expected to create their own cultural unit based on the course's units. Course is taught in English.",
             "prerequisites": "sophomore standing required. Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Folk and Fairytales in a Global Context - Writing Intensive",
@@ -264,7 +324,8 @@
             "description": "Analyzes the most famous European collection of fairytales, namely the Kinder-und  Hausmarchen (Children's and Household Tales) by the Brothers Grimm and juxtaposes them to folktales from other cultures. Looks at the genre of fairytales, studies the historical context of the genesis of the collection of tales, and modern versions of the tales. Compares and contrasts Grimm's fairytales with folktales of different cultural traditions, analyzes and identifies the formal structure of fairytales and motifs, discusses various interpretive models/perspectives and juxtaposes several historical and contemporary literary fairytales and fairytale adaptations. Cultural unit examples will be on Mongolian culture and history and the Maori culture of New Zealand. Students are expected to create their own cultural unit based on the course's units. Course is taught in English.",
             "prerequisites": "sophomore standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Resistance is Futile: The Advance of the Cyborg",
@@ -272,7 +333,8 @@
             "description": "Contemporary culture is haunted by the image of artificial killing machine as metaphor for technology run rampant.  Fears may be prompted by feelings of alienation in automated society and underlying suspicion that humans may be nothing more than sophisticated machines.  Course maps history of I'homme machine, focusing on fictional representation of creatures that consist of both human and technological \"parts.\" Goal is to discern source of fascination and sociopolitical mechanism behind evocation of \"human machine.\"",
             "prerequisites": "Sophomore standing or consent of instructor",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The History of Blacks in Germany",
@@ -280,7 +342,8 @@
             "description": "(same as BL_STU 3605). This course investigates the history of Africans and African Americans in Germany and Central Europe, from Antiquity to today. Special focus on Medieval Africans in Europe, traveling African American intellectuals around 1900, and African American GIs in occupied Germany. This course will challenge your understanding of race and racism.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the German Film",
@@ -288,7 +351,8 @@
             "description": "(same as FILM_S 3830). Introduction to the development of the German film. Old and recent films are viewed and discussed in terms of techniques, artistry, psychology and social impact. English dubbing or subtitles. No foreign language credit.",
             "prerequisites": "sophomore standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "German Film After 1945",
@@ -296,7 +360,8 @@
             "description": "(same as FILM_S 3840).  Examines a selection of post-War films by German directors, as well as historical, literary, and theoretical texts.",
             "prerequisites": "sophomore standing, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Holocaust on Screen",
@@ -304,15 +369,19 @@
             "description": "(same as FILM_S 3865).  This course explores how the Holocaust has been depicted on film in a variety of national and historical contexts.  Drawing on films from 1945 to the present, from the U.S., Germany, Poland, France, and Italy, we will consider to what end images of the Holocaust have been used.  Graded on A-F basis only.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Service Learning in German Studies",
             "number": "3895",
             "description": "Service learning offers students a chance to put into practice what they have learned in theory. Students work as teacher-aids or tutors in foreign language/culture classes at area schools. Does not meet Arts and Science foundation requirements.  Graded on S/U basis only.",
-            "prerequisites": "GERMAN 2260, or instructor's consent",
+            "prerequisites": "GERMAN 2260, or instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 2260"
+            ]
         },
         {
             "name": "Topics in German-General",
@@ -320,7 +389,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in German-Humanities",
@@ -328,7 +398,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in German-Humanities - Honors",
@@ -336,7 +407,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "junior standing and instructor's consent.  Honors eligibility required",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in German-Humanities - Writing Intensive",
@@ -344,7 +416,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Intensive Beginning German",
@@ -352,15 +425,19 @@
             "description": "Designed to lead to a reading knowledge of German. Cannot be taken to fulfill undergraduate language requirement.",
             "prerequisites": "graduate standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Language Proficiency",
             "number": "4160",
             "description": "(cross-leveled with GERMAN 7160). A course for intermediate to advanced students of German. This course helps learners develop further the necessary communicative skills in German.  The particular emphasis is on oral and writing skills, and texts that provide insight into contemporary German culture and social life.",
-            "prerequisites": "GERMAN 3230 or equivalent",
+            "prerequisites": "GERMAN 3230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 3230"
+            ]
         },
         {
             "name": "Advanced German: Conversation and Stylistics",
@@ -368,87 +445,118 @@
             "description": "(cross-leveled with GERMAN 7180). This course continues to emphasize all communicative skills in German: oral and listening skills, reading and writing.  There is also an emphasis on advanced grammar.  The content focuses on contemporary German culture and social life.",
             "prerequisites": "senior or graduate standing, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Eerie Tales: Classic German Narratives",
             "number": "4220",
             "description": "In this class, we will read classic uncanny tales in German by major authors, and will explore the traits of this category across a variety of literary movements.",
-            "prerequisites": "GERMAN 3230 or equivalent language capacity",
+            "prerequisites": "GERMAN 3230 or equivalent language capacity",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 3230"
+            ]
         },
         {
             "name": "Enlightenment and Revolution",
             "number": "4230",
             "description": "Reading and discussion of selected works by major German writers from 1740 to 1870.",
-            "prerequisites": "GERMAN 3230 or equivalent",
+            "prerequisites": "GERMAN 3230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 3230"
+            ]
         },
         {
             "name": "Modernism and Modernity",
             "number": "4240",
             "description": "Reading and discussion of selected works by major German writers from 1870 to the present.",
-            "prerequisites": "GERMAN 3230 or equivalent",
+            "prerequisites": "GERMAN 3230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 3230"
+            ]
         },
         {
             "name": "Recent German Literature",
             "number": "4260",
             "description": "This course examines 'post-unification' works (i.e. by formerly East and West German authors) of literature and film written since 1989 that addresses social and political changes leading to or resulting from unification and the experience of WWII. Students will analyze the diverse cultural, political and economic factors that influence writers and filmmakers whose aesthetic production in turn helps shape contemporary German society.",
-            "prerequisites": "GERMAN 3230",
+            "prerequisites": "GERMAN 3230",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 3230"
+            ]
         },
         {
             "name": "Enlightenment and Sturm und Drang",
             "number": "4440",
             "description": "Survey of literature and thought of 18th-century Germany, with emphasis on the works of Lessing, Wieland, Herder and the younger Goethe.",
-            "prerequisites": "GERMAN 4230 or equivalent",
+            "prerequisites": "GERMAN 4230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "German Romanticism",
             "number": "4450",
             "description": "German Romanticism.",
-            "prerequisites": "GERMAN 4230 or equivalent",
+            "prerequisites": "GERMAN 4230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "The German Novelle",
             "number": "4530",
             "description": "The German Novelle.",
-            "prerequisites": "GERMAN 4230 or equivalent",
+            "prerequisites": "GERMAN 4230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "Faust",
             "number": "4650",
             "description": "(cross-leveled with GERMAN 7650). Faust.",
-            "prerequisites": "GERMAN 4230 or equivalent",
+            "prerequisites": "GERMAN 4230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "Medieval German Literature 1170-1210",
             "number": "4670",
             "description": "(cross-leveled with GERMAN 7670). Analysis of major narrative and lyric poetry of the Age of Chivalry.",
-            "prerequisites": "GERMAN 4230 or equivalent",
+            "prerequisites": "GERMAN 4230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "German Internship and Methods",
             "number": "4730",
             "description": "(cross-leveled with GERMAN 7730). Supervised introduction to the methodology of the teaching of elementary German; conducted in a classroom environment.",
-            "prerequisites": "junior standing, GERMAN 4230, or instructor's consent",
+            "prerequisites": "junior standing, GERMAN 4230, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "Case Studies in an Inter/Multicultural World",
@@ -456,7 +564,8 @@
             "description": "(same as T_A_M 4810, PEA_ST 4810, DST 4805).  This inter-departmental course examines the ways in which people across the globe are affected every day by an unprecedented array of linkages that defy geographic and political boundaries.  Also serves as one of the seminars for the certificate in Digital Global Studies.  Graded on A-F basis only.",
             "prerequisites": "Sophomore standing; 2.75 GPA or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Blogging the World: The Web in Cultural Context",
@@ -464,7 +573,8 @@
             "description": "(same as FRENCH 4820 and RUSS 4820).  Innovative interdisciplinary course addresses issues of access to international news and specific cultural context working in cross-disciplinary teams. Students in journalism, foreign language, international studies, political science and various other disciplines track cultural developments and information on non-US Web sites, blogs and digital social networks along with exploring various historical forms of communication that preceded the digital era of the Web.  Students analyze the potential and limitations/ effects of blogs and the web in specific contemporary cultural contexts and as part of the broader historical evolution of the web.  The course is taught in English.  The goal of this course is two-fold; students learn the particulars of web blogging, explore various features of the contemporary social network landscape while focusing on the concept of culture, in particular the cultures of Europe and the US.  Questions asked are: what is culture? What is common or popular right now in other cultures? And how do new social networks amplify or alter certain features or culture across national and international contests?",
             "prerequisites": "sophomore standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Blogging the World: The Web in Cultural Context - Writing Intensive",
@@ -472,7 +582,8 @@
             "description": "(same as FRENCH 4820 and RUSS 4820).  Innovative interdisciplinary course addresses issues of access to international news and specific cultural context working in cross-disciplinary teams. Students in journalism, foreign language, international studies, political science and various other disciplines track cultural developments and information on non-US Web sites, blogs and digital social networks along with exploring various historical forms of communication that preceded the digital era of the Web.  Students analyze the potential and limitations/ effects of blogs and the web in specific contemporary cultural contexts and as part of the broader historical evolution of the web.  The course is taught in English.  The goal of this course is two-fold; students learn the particulars of web blogging, explore various features of the contemporary social network landscape while focusing on the concept of culture, in particular the cultures of Europe and the US.  Questions asked are: what is culture? What is common or popular right now in other cultures? And how do new social networks amplify or alter certain features or culture across national and international contests?",
             "prerequisites": "sophomore standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Readings in German",
@@ -480,7 +591,8 @@
             "description": "Independent study through readings, conferences, and reports.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "junior standing"
+            "recommendation": "junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "German Capstone Seminar",
@@ -488,7 +600,8 @@
             "description": "(cross-leveled with GERMAN 7980). Required of all senior German majors; usually taken in the senior year. Focuses on contemporary Germany and brings together aspects of German literature and culture studies during the degree program.",
             "prerequisites": "senior standing or departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Honors in German",
@@ -496,7 +609,8 @@
             "description": "Special problems in Germanic literature or linguistics.",
             "prerequisites": "departmental consent of Honors director",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in German-General",
@@ -504,7 +618,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in German - Humanities",
@@ -512,7 +627,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in German",
@@ -520,15 +636,19 @@
             "description": "",
             "prerequisites": "chairman's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "German Conversation and Composition III",
             "number": "7160",
             "description": "(cross-leveled with GERMAN 4160). A course for intermediate to advanced students of German. This course helps learners develop further the necessary communicative skills in German.  The particular emphasis is on oral and writing skills, and texts that provide insight into contemporary German culture and social life.",
-            "prerequisites": "GERMAN 3230 or equivalent",
+            "prerequisites": "GERMAN 3230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 3230"
+            ]
         },
         {
             "name": "Advanced German: Conversation and Stylistics",
@@ -536,55 +656,74 @@
             "description": "(cross-leveled with GERMAN 4180). This course continues to emphasize all communicative skills in German: oral and listening skills, reading and writing.  There is also an emphasis on advanced grammar.  The content focuses on contemporary German culture and social life.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Enlightenment and Sturm und Drang",
             "number": "7440",
             "description": "Survey of literature and thought of 18th-century Germany, with emphasis on the works of Lessing, Wieland, Herder and the younger Goethe.",
-            "prerequisites": "GERMAN 4230 or equivalent",
+            "prerequisites": "GERMAN 4230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "The German Novelle",
             "number": "7530",
             "description": "",
-            "prerequisites": "GERMAN 4230 or equivalent",
+            "prerequisites": "GERMAN 4230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "Faust",
             "number": "7650",
             "description": "(cross-leveled with GERMAN 4650). Faust.",
-            "prerequisites": "GERMAN 4230 or equivalent",
+            "prerequisites": "GERMAN 4230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "Recent German Literature",
             "number": "7660",
             "description": "",
-            "prerequisites": "GERMAN 4230 or equivalent",
+            "prerequisites": "GERMAN 4230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "Medieval German Literature 1170-1210",
             "number": "7670",
             "description": "(cross-leveled with GERMAN 4670). Analysis of major narrative and lyric poetry of the Age of Chivalry.",
-            "prerequisites": "GERMAN 4230 or equivalent",
+            "prerequisites": "GERMAN 4230 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "German Internship and Methods",
             "number": "7730",
             "description": "(cross-leveled with GERMAN 4730). Supervised introduction to the methodology of the teaching of elementary German; conducted in a classroom environment.",
-            "prerequisites": "GERMAN 4230 or equivalent, or instructor's consent",
+            "prerequisites": "GERMAN 4230 or equivalent, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "GERMAN 4230"
+            ]
         },
         {
             "name": "Blogging the World: The Web in Cultural Context",
@@ -592,7 +731,8 @@
             "description": "(same as RUSS 7820 and FRENCH 7820).  Innovative interdisciplinary course addresses issues of access to international news and specific cultural context.  Working in cross-disciplinary teams, students in journalism, foreign language, international studies, political science and various other disciplines track cultural developments and information on non-US Web sites, blogs and digital social networks along with exploring various historical forms of communication that preceded the digital era of the Web.  Students analyze the potential and limitations/effects of blogs and the web in specific contemporary cultural contexts and as part of the broader historical evolution of the web.  The course is taught in English.  The goal of this course is two-fold:  students learn the particulars of web blogging, explore various features of the contemporary social network landscape while focusing on the concept of culture, in particular the cultures of Europe and the US.  Questions asked are: what is culture?  What is common or popular right now in other cultures? And how do new social networks amplify or alter certain features or culture across national and international contexts?",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Readings in German",
@@ -600,7 +740,8 @@
             "description": "Independent study through readings, conferences, and reports.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "German Capstone Seminar",
@@ -608,7 +749,8 @@
             "description": "(cross-leveled with GERMAN 4980). Focuses on contemporary Germany and brings together aspects of German literature and culture studies during the degree program.",
             "prerequisites": "one 3000-level literature course or equivalent, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in German-General",
@@ -616,7 +758,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in German - Humanities",
@@ -624,7 +767,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "SEMINAR:GERMAN",
@@ -632,7 +776,8 @@
             "description": "Seminar in German.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in German",
@@ -640,7 +785,8 @@
             "description": "Translations or creative work not leading to thesis. Credit hours arranged.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in German",
@@ -648,7 +794,8 @@
             "description": "",
             "prerequisites": "chairman's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in German",
@@ -656,7 +803,8 @@
             "description": "Course content varies.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in German",
@@ -664,7 +812,8 @@
             "description": "Graded on S/U basis only.",
             "prerequisites": "graduate director's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Reformation and Renaissance Literature",
@@ -672,7 +821,8 @@
             "description": "The course investigates significant works of German literature of the late 15th and 16th Centuries.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "German Poetry from Sturm und Drang to 1848",
@@ -680,7 +830,8 @@
             "description": "Reading of selected poetry by German writers of Sturm und Drang, Classicism, Romanticism, and Vomarz.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the German Language",
@@ -688,7 +839,8 @@
             "description": "(same as LINGST 8615).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Middle High German",
@@ -696,7 +848,8 @@
             "description": "(same as LINGST 8625).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

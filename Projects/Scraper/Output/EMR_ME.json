@@ -8,7 +8,8 @@
             "description": "This selective is designed to offer an introductory experience in Emergency Medicine, including all levels of acuity and pre-hospital emergency care. The student will work 15-16 (~140 hours) rotating shifts in the Emergency Department. During that time, the student will have free access to all patient care activities. The student will assist with patient evaluations and procedures under the close supervision of the Emergency attending physicians, residents, or physician assistants. Specific time will be devoted to learning basic skills needed in emergency medicine. An orientation skills lab will be provided early in the rotation to cover suturing, splinting, etc. Teaching will be primarily a one-on-one exchange with the residents and PA's/Attendings. There are night shifts in this rotation.",
             "prerequisites": "Successful completion of the first two years of medical school. Successful completion of 5 of the 7 core clerkships. Three of the 5 must be the Surgery Clerkship, Internal Medicine Clerkship, and either the Pediatrics or Family Medicine Clerkship",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Emergency Medicine Research",
@@ -16,7 +17,8 @@
             "description": "ABS Emergency Medicine Research",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Emergency Medicine Research and Review",
@@ -24,7 +26,8 @@
             "description": "ABS Emergency Medicine Research and Review",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Emergency Medicine",
@@ -32,7 +35,8 @@
             "description": "Emergency Medicine",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Emergency Medicine - Rural",
@@ -40,7 +44,8 @@
             "description": "Emergency Medicine - Rural",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "EMERGENCY MEDICINE",
@@ -48,7 +53,8 @@
             "description": "Emergency Medicine",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Emergency Medicine",
@@ -56,7 +62,8 @@
             "description": "This elective is designed to offer an introductory experience in Emergency Medicine, including all levels of acuity and pre-hospital emergency care.",
             "prerequisites": "Successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Pediatric Emergency Medicine",
@@ -64,7 +71,8 @@
             "description": "This elective is designed to offer an introductory experience in Pediatric Emergency Medicine (PEM) including all levels of acuity and pre-hospital emergency care.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

@@ -6,9 +6,12 @@
             "name": "Basic Pathology",
             "number": "2000",
             "description": "Provides nonmedical students with a general understanding of the essential nature of disease, including mechanisms of its development and cause/effect relationships.",
-            "prerequisites": "5 hours Biological Science or equivalent and 5 hours Chemistry or PTH_AS 2201",
+            "prerequisites": "5 hours Biological Science or equivalent and 5 hours Chemistry or PTH_AS 2201",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PTH_AS 2201"
+            ]
         },
         {
             "name": "Human Anatomy Lecture",
@@ -16,7 +19,8 @@
             "description": "A systems-based survey of human gross anatomy including structure, function and history. Internet access required: lectures and assignments will be online.  Graded on A-F basis only.",
             "prerequisites": "Minimum cumulative MU GPA of 2.5 required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Anatomy Laboratory",
@@ -24,7 +28,8 @@
             "description": "A systems-based survey of human gross anatomy. Internet access required: most materials will be online. One on-campus laboratory meeting per week. Graded A-F only.",
             "prerequisites": "Minimum cumulative MU GPA of 2.5",
             "hours": "2PrerequisitesorCorequisites:PTH_AS 2201",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytology Female Genital Tract",
@@ -32,7 +37,8 @@
             "description": "A definitive study of normal and abnormal cellular changes occurring within the organ system by means of light microscopy with histologic correlation.",
             "prerequisites": "instructor's consent",
             "hours": "10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Respiratory Cytology",
@@ -40,7 +46,8 @@
             "description": "A definitive study of the normal and abnormal cellular changes occurring within the system by means of light microscopy, with histologic correlation.",
             "prerequisites": "instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytology of Body Fluids",
@@ -48,7 +55,8 @@
             "description": "Normal and abnormal cellular changes within pleural, peritoneal, pericardial and cerebrospinal fluids by means of light microscopy, with histologic correlation.",
             "prerequisites": "instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Gastrointestinal Cytology",
@@ -56,7 +64,8 @@
             "description": "A definitive study of the normal and abnormal cellular changes occurring within the system by means of light microscopy, with histologic correlation.",
             "prerequisites": "instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Oral Cytology",
@@ -64,7 +73,8 @@
             "description": "Studies normal and abnormal cellular changes within the oral cavity and oropharynx by means of light microscopy, with histologic correlation.",
             "prerequisites": "instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Urinary Cytology",
@@ -72,7 +82,8 @@
             "description": "Studies normal and abnormal cellular morphology from kidney, ureter and bladder samples, with histologic correlation.",
             "prerequisites": "instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Problems in Cytology",
@@ -80,7 +91,8 @@
             "description": "Relating hematologic morphologic findings in conventional body fluid cytology; also review of techniques used in chromosome cultures and karyotyping, with emphasis on sex-related abnormalities.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Medical Technology I",
@@ -88,7 +100,8 @@
             "description": "Emphasizes diseases and basic laboratory methods used in clinical laboratory areas: microbiology, hematology, immunology, virology, tissue typing, blood banking and chemistry.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Medical Technology II",
@@ -96,7 +109,8 @@
             "description": "Continuation of PTH_AS 3400.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Medical Technology III",
@@ -104,7 +118,8 @@
             "description": "Continuation of PTH_AS 3400 and PTH_AS 3410.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Practicum",
@@ -112,15 +127,21 @@
             "description": "Presentation and application of concepts and laboratory method used in areas of immunochemistry, toxicology, mycology, uranalysis and cytogenetics.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Hemostasis",
             "number": "3425",
             "description": "Lectures and laboratory exercises in basic theory and techniques of hemostasis including platelet function and disorders, plasma coabulation system, acquired and inherited themostatic disorders.",
-            "prerequisites": "PTH_AS 3400, PTH_AS 3410, PTH_AS 3415",
+            "prerequisites": "PTH_AS 3400, PTH_AS 3410, PTH_AS 3415",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PTH_AS 3400",
+                "PTH_AS 3410",
+                "PTH_AS 3415"
+            ]
         },
         {
             "name": "Clinical Immunology",
@@ -128,7 +149,8 @@
             "description": "Antigen-antibody reactions and their role in determining infectious, auto-allergic and inflammatory disease states.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Blood Banking",
@@ -136,7 +158,8 @@
             "description": "Principles and techniques of transfusion practices related through lectures and experience in the blood bank laboratory.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Hematology",
@@ -144,7 +167,8 @@
             "description": "Lectures and laboratory regarding procedures for diagnosing hematolgic disorders. Experience in collection of specimens from patients; staining, counting and identifying blood and bone marrow cells.",
             "prerequisites": "None Listed",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Microbiology",
@@ -152,7 +176,8 @@
             "description": "Diagnostic procedures related to the isolation and identification to infectious microorganisms; bacteria and parasites. Emphasis on human pathogens and their sensitivity patterns with commonly used antibiotics.",
             "prerequisites": "None Listed",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Chemistry",
@@ -160,7 +185,8 @@
             "description": "Principles of quantitative analysis applied to the measurement of substances  in biological fluids. Significance of these findings in the diagnosis and treatment of disease.",
             "prerequisites": "None Listed",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Principles of Management and Education",
@@ -168,7 +194,8 @@
             "description": "Lectures and discussion of management techniques and theories used in supervising laboratory personnel. Analysis of educational objectives and exam questions.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research and Instructional Techniques",
@@ -176,7 +203,8 @@
             "description": "Involves library and laboratory research. Includes development of oral and written communications skills.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Medical Technology",
@@ -184,7 +212,8 @@
             "description": "Individual supervised work in a area of interest in medical technology.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytology of the Female Genital Tract",
@@ -192,7 +221,8 @@
             "description": "A definitive study by means of light microscopy of normal and abnormal cellular changes occurring within the female genital tract along with histologic correlation.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytology of Respiratory Tract",
@@ -200,7 +230,8 @@
             "description": "A definitive study by means of light microscopy of normal and abnormal cellular changes occurring with the respiratory tract along with immunohistologic correlation. Prerequisitez: senior standing and instructor's consent.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytology of Urinary Tract",
@@ -208,7 +239,8 @@
             "description": "A definitive study by means of light microscopy of normal and abnormal cellular changes occurring within the urinary tract along with histologic correlation.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytology of Gastrointestinal Tract",
@@ -216,7 +248,8 @@
             "description": "A definitive study by means of light microscopy of normal and abnormal cellular changes occurring within the gastrointestinal tract along with histologic correlation.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytology of Body Fluids",
@@ -224,7 +257,8 @@
             "description": "A definitive study of light microscopy of normal and abnormal cellular   changes occurring within body fluid along with histologic correlation.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytology of Breast",
@@ -232,7 +266,8 @@
             "description": "A definitive study by means of light microscopy of normal and abnormal cellular changes occurring within the breast with histologic correlation.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fine Needle Aspiration Cytology",
@@ -240,7 +275,8 @@
             "description": "A definitive study by means of light microscopy of normal and abnormal cellular changes occurring within the fine needle aspirations from various body sites along with histologic correlation.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Procedures in Cytology",
@@ -248,7 +284,8 @@
             "description": "Study of hematologic findings in body fluid cytology: chromosome cultures and karyotyping. Emphasizing sex-related abnormalities; hormonal evaluation of smears from the female genital tract and their clinical significance.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Management",
@@ -256,7 +293,8 @@
             "description": "Procedures and processes helpful in operating in cytology laboratory, especially at the supervisory level.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Technical Application with Research in Cytotechnology",
@@ -264,7 +302,8 @@
             "description": "Research is an area of interest in cytology resulting in a written and oral presentation.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytologic Preparation",
@@ -272,7 +311,8 @@
             "description": "Independent applications of techniques used to prepare cytologic material.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Practical Cytotechnology",
@@ -280,7 +320,8 @@
             "description": "Independent application of techniques used to examine cytology material an manage a cytology laboratory.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Cytotechnology",
@@ -288,7 +329,8 @@
             "description": "Individual supervised work in an area of interest in cytology.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Elementary Histology",
@@ -296,7 +338,8 @@
             "description": "Simplified gross and microscopic anatomy of normal organs and tissues   commonly found in the routine histopathology laboratory.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Basic Histotechnology",
@@ -304,7 +347,8 @@
             "description": "Theories and technical application of procedures used in the preparation of   tissue sections and slides of microscopic examination; including instrumentation, fixation, dehydration, clearing infiltration, embedding, mirotomy, H&E staining and coverslipping.",
             "prerequisites": "None Listed",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Staining Techniques",
@@ -312,7 +356,8 @@
             "description": "Principles and procedures for special staining techniques for carbohydrates,   connective tissues, blood, fat and lipids, pigments and minerals, bacteria and fungi, nerve, and other special cell stains.",
             "prerequisites": "None Listed",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Applied Histotechnology",
@@ -320,7 +365,8 @@
             "description": "Application of basic histological techniques in the preparation of histologic   sections and slides in a clinical setting.",
             "prerequisites": "None Listed",
             "hours": "9",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research and Instructional Techniques",
@@ -328,7 +374,8 @@
             "description": "Involves library and laboratory search. Includes development of oral and  written communications skills.",
             "prerequisites": "senior students admitted to Histotechnology Curriculum",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Management",
@@ -336,7 +383,8 @@
             "description": "Supervisory techniques and procedures helpful in operating a histopathology  laboratory: including laboratory safety, workload recording, and personnel management in a laboratory situation.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Basic Disease Processes",
@@ -344,7 +392,8 @@
             "description": "Special readings and discussions of basic disease processes of interest  to the anatomic pathology laboratory.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advances Histotechnology",
@@ -352,7 +401,8 @@
             "description": "Advanced and specialized techniques used in the preparation and processing   of muscle, nerve and rectal biopsies; special techniques in cytology; electron microscopy; enzyme and immunohistochemistry; plastic embedding and neuropathologic techniques.",
             "prerequisites": "None Listed",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Histotechnology",
@@ -360,23 +410,34 @@
             "description": "Individual supervised work in a specialized area of histotechnology.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "General Pathology",
             "number": "4200",
             "description": "Basic pathological mechanisms of human disease. Introductory principles of clinical laboratory measurements of altered organ system function studied.",
-            "prerequisites": "PTH_AS 7200, PTH_AS 7220, PTH_AS 7310; and instructor's consent",
+            "prerequisites": "PTH_AS 7200, PTH_AS 7220, PTH_AS 7310; and instructor's consent",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PTH_AS 7200",
+                "PTH_AS 7220",
+                "PTH_AS 7310"
+            ]
         },
         {
             "name": "General Pathology Laboratory",
             "number": "4205",
             "description": "Gross and microscopic applied study of basic pathological disease mechanisms. Laboratory assessment of these basic disease mechanisms.",
-            "prerequisites": "PTH_AS 7200, PTH_AS 7220, PTH_AS 7310; or the equivalents; and instructor's consent",
+            "prerequisites": "PTH_AS 7200, PTH_AS 7220, PTH_AS 7310; or the equivalents; and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PTH_AS 7200",
+                "PTH_AS 7220",
+                "PTH_AS 7310"
+            ]
         },
         {
             "name": "Seminar in Pathology and Anatomical Sciences",
@@ -384,7 +445,8 @@
             "description": "Presentation and discussion of original investigations and current literature.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Forensic Pathology and Death Investigation",
@@ -392,7 +454,8 @@
             "description": "Forensic Pathology and Death Investigation.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Forensic Pathology and Death Investigation - Writing Intensive",
@@ -400,7 +463,8 @@
             "description": "Forensic Pathology and Death Investigation.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Gross Human Anatomy (The Health Professions)",
@@ -408,7 +472,8 @@
             "description": "Gross structure and neuroanatomy of the human body; dissection of extremities, back, head, neck abdomen and thorax.",
             "prerequisites": "instructor's consent",
             "hours": "7",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Interpretations of Lab Procedures in Primary Health Care",
@@ -416,7 +481,8 @@
             "description": "Discussion and analysis of selected laboratory test procedures used in office and clinic settings involved with primary health care.",
             "prerequisites": "graduate level Physiology course and departmental consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Advanced Medical Neurosciences",
@@ -424,7 +490,8 @@
             "description": "ABS Advanced Medical Neurosciences",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Pathology/Anatomical Science Research",
@@ -432,7 +499,8 @@
             "description": "ABS Pathology/Anatomical Science Research",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Pathology/Anatomical Science Research and Review",
@@ -440,7 +508,8 @@
             "description": "ABS Pathology/Anatomical Science Research and Review",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Science Anatomical Science Teaching",
@@ -448,7 +517,8 @@
             "description": "ABS Science Anatomical Science Teaching",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Surgical Anatomy",
@@ -456,7 +526,8 @@
             "description": "ABS Surgical Anatomy",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Surgical Anatomy of the Head and Neck",
@@ -464,7 +535,8 @@
             "description": "ABS Surgical Anatomy of the Head and Neck",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Surgical Anatomy of the Back and Limbs",
@@ -472,7 +544,8 @@
             "description": "ABS Surgical Anatomy of the Back and Limbs",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Surgical Anatomy of the Pelvis and Perinium",
@@ -480,7 +553,8 @@
             "description": "ABS Surgical Anatomy of the Pelvis and Perinium",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Anatomic Pathology",
@@ -488,7 +562,8 @@
             "description": "Anatomic Pathology",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Pathology",
@@ -496,7 +571,8 @@
             "description": "Clinical Pathology",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Forensic Pathology",
@@ -504,7 +580,8 @@
             "description": "Forensic Pathology",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Anatomic/Clinical Pathology",
@@ -512,7 +589,8 @@
             "description": "Anatomic/Clinical Pathology",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Anatomy Elective",
@@ -520,7 +598,8 @@
             "description": "Anatomy Elective",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Anatomic Pathology Two-Week",
@@ -528,7 +607,8 @@
             "description": "This is a two week rotation. Students will learn how to integrate information and apply previously acquired knowledge and concepts to the assessment and interpretation of surgical pathology, cytopathology, and/or autopsy cases. Students will learn about the procedures necessary to arrive at anatomic pathology diagnoses and the work that goes into specimen processing and examination so as to produce diagnoses.",
             "prerequisites": "Successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Pathology - Laboratory Medicine",
@@ -536,7 +616,8 @@
             "description": "Students will learn how to integrate information and apply previously acquired knowledge and concepts to the assessment and interpretation of clinical laboratory tests. Students will learn about the procedures necessary to arrive at clinical pathology diagnoses and the work that goes into specimen processing and examination so as to produce diagnoses.",
             "prerequisites": "Successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Forensic Pathology and Death Investigation",
@@ -544,7 +625,8 @@
             "description": "Summary of Forensic Death Investigation from beginning to end. Will include some of the current laboratory techniques seen on \"CSI\" Team taught by experts in the fields including medical examiners, death investigators, forensic anthropologists, police CSI teams, lawyers and others.",
             "prerequisites": "Basic Biology",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Histology and Organology",
@@ -552,7 +634,8 @@
             "description": "Detailed study of cytology, histology and microscopic anatomy.",
             "prerequisites": "10 hours of Biological Sciences and instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Gross Human Anatomy (The Health Professions)",
@@ -560,7 +643,8 @@
             "description": "Gross/human structure through dissection.  Graded on A-F basis only.",
             "prerequisites": "Acceptance into Physical Therapy Programs or instructor's consent",
             "hours": "7",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Mammalian Reproduction",
@@ -568,23 +652,31 @@
             "description": "Reproduction in mammals, with emphasis on the neuroendocrine control of the hormones involved in reproductive process: biosyntheses, biologic actions, role.",
             "prerequisites": "graduate standing in one of Animal, Biologic, Medical, or Veterinary Sciences, instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Pathology",
             "number": "7300",
             "description": "Demonstration and simulation study of gross, microscopic and clinical laboratory pathology of major human organ systems.",
-            "prerequisites": "PTH_AS 4200 and PTH_AS 4205 or equivalent and instructor's consent",
+            "prerequisites": "PTH_AS 4200 and PTH_AS 4205 or equivalent and instructor's consent",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PTH_AS 4200",
+                "PTH_AS 4205"
+            ]
         },
         {
             "name": "Autonomic Nervous System",
             "number": "7320",
             "description": "A comprehensive consideration of the autonomic nervous system in man, with emphasis on morphology.",
-            "prerequisites": "PTH_AS 2201, Comparative Anatomy or equivalent, and instructor's consent",
+            "prerequisites": "PTH_AS 2201, Comparative Anatomy or equivalent, and instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PTH_AS 2201"
+            ]
         },
         {
             "name": "Hematopoietic Organs",
@@ -592,15 +684,20 @@
             "description": "Morphological and functional relationships of the blood-forming organs.",
             "prerequisites": "Basic Histology and instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Pathology Laboratory",
             "number": "7350",
             "description": "Demonstration and simulation and character of work depend upon needs, qualifications, and of major human organ systems.",
-            "prerequisites": "PTH_AS 4200 and PTH_AS 4205 or equivalent and instructor's consent",
+            "prerequisites": "PTH_AS 4200 and PTH_AS 4205 or equivalent and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PTH_AS 4200",
+                "PTH_AS 4205"
+            ]
         },
         {
             "name": "Seminars in Translational Medicine",
@@ -608,15 +705,20 @@
             "description": "Students participate in regular seminars and discussion groups with other students interested in clinical and translational sciences. Students, working together with faculty in biomedical sciences and those working in clinical and translational fields, identify seminar topics. Learning objectives and written assignments are arranged on an individual basis. The course is open to all graduate level students and students enrolled in professional schools, for 0-5 credit hours, with instructor's approval. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "0-5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Precision Medicine Informatics",
             "number": "7450",
             "description": "This course will introduce students with the theoretical and practical aspects of precision medicine informatics. Topics include: complex diseases, computational genomics/proteomics, informatics of molecular interactions and biological pathways, somatic mutations, signal transduction and cancer, biomarker discovery, machine learning and data mining for PMI, networks methods for PMI, knowledge representation and reasoning for PMI. The course will consist of a set of didactic lectures, computational assignments, in-class demonstrations of PMI methods and discussions of recent publications. Graded on A-F basis only.",
-            "prerequisites": "INFOINST 8005 with C or better or INFOINST 7010 with C or better or instructor's consent",
+            "prerequisites": "INFOINST 8005 with C or better or INFOINST 7010 with C or better or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "INFOINST 8005",
+                "INFOINST 7010"
+            ]
         },
         {
             "name": "Comparative Pathology",
@@ -624,7 +726,8 @@
             "description": "(same as V_PBIO 8430). Biochemical and morphologic lesions related to the mechanism of disease expression in plants and animals.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Current Issues in Anatomical Sciences",
@@ -632,7 +735,8 @@
             "description": "Survey of the recent literature in integrative anatomy, including functional, evolutionary, developmental and translational anatomy, conducted through readings and discussion.  Grade determined by participation and presentation of weekly readings.  May be repeated for a maximum of 10 hours.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Pathology",
@@ -640,7 +744,8 @@
             "description": "Open only to properly qualified graduate students, with counsel of faculty.  Focus of MS-related research in evolutionary morphology, genomics, neuroscience, pathobiology or laboratory sciences.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Evolutionary Biology",
@@ -648,7 +753,8 @@
             "description": "Principles of modern evolutionary biology.  Topics include: phylogeny, palebiology, developmental processes, genetic and phenotypic variation, form and function, speculation, macroevolution, and molecular mechanisms.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Fundamentals of Evolutionary Morphology",
@@ -656,7 +762,8 @@
             "description": "This course is a survey of the fundamentals of modern evolutionary morphology.  Topics will include: patterns of vertebrate evolution, comparative methods, development and ontogeny, constraint, functional morphology, evolutionary innovations, and experimental methods.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Anatomy: Back and Upper Limb",
@@ -664,7 +771,8 @@
             "description": "Developmental, gross, and clinical anatomy of the human back and upper limb, including skeletal, muscular, nervous, and vascular tissues. Graded on A-F basis only.",
             "prerequisites": "instructor's consent required",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Anatomy: Thorax and Abdomen",
@@ -672,7 +780,8 @@
             "description": "Developmental, gross, and clinical anatomy of the human thorax and abdomen. Graded on an A-F basis only.",
             "prerequisites": "instructor's consent required",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Anatomy: Head, Neck and Neuroanatomy",
@@ -680,7 +789,8 @@
             "description": "Developmental, gross and clinical anatomy of the human head, neck and neuoranatomy. Graded on A-F basis only.",
             "prerequisites": "instructor's consent required",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Anatomy: Pelvis and Lower Limb",
@@ -688,7 +798,8 @@
             "description": "Developmental, gross and clinical anatomy of the human pelvis and lower limb. Graded A-F basis only.",
             "prerequisites": "instructor's consent required",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Pathology and Anatomical Sciences",
@@ -696,7 +807,8 @@
             "description": "Regions or systems which may include developmental, microscopic, and gross anatomy.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Pathology and Anatomical Sciences",
@@ -704,15 +816,19 @@
             "description": "Research unrelated to thesis work in evolutionary morphology, genomics, neuroscience, pathobiology or laboratory sciences.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Anatomy of the Human Nervous System",
             "number": "8310",
             "description": "A comprehensive consideration of the morphology of the nervous system, emphasizing correlation of structure and function.",
-            "prerequisites": "PTH_AS 2201, Comparative Anatomy or equivalent, and instructor's consent",
+            "prerequisites": "PTH_AS 2201, Comparative Anatomy or equivalent, and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PTH_AS 2201"
+            ]
         },
         {
             "name": "Human Anatomy Teaching Practicum",
@@ -720,7 +836,8 @@
             "description": "Provides practical experience teaching clinically oriented human anatomy in lecture and laboratory settings. For students pursuing doctoral degrees in Pathobiology. Enrollement is limited to students who have completed PTH_AS 8201, PTH_AS 8202, PTH_AS 8203, and PTH_AS 8204. Graded on S/U basis only. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Translational Neuroscience",
@@ -728,7 +845,8 @@
             "description": "Students participate in seminars and discussion groups.  Masters students identify seminar topics and present existing data with findings.  PhD students identify seminar topics, conduct research and present findings.  Learning objective and written assignments are arranged individuality.  May be repeated for credit.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Pathology and Anatomical Sciences",
@@ -736,7 +854,8 @@
             "description": "Open only to properly qualified graduate students, with counsel of faculty.  Focus of PhD-related research in evolutionary morphology, genomics, neuroscience or pathobiology.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Pathology and Anatomical Sciences",
@@ -744,7 +863,8 @@
             "description": "Open only with instructor's consent.  Courses with specialized lectures in various topics such as evolutionary morphology, genomics, neuroscience and pathobiology, depending on faculty expertise and student demand.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

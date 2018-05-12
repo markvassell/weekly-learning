@@ -8,7 +8,8 @@
             "description": "In-depth study of the structure of the horse, ox, sheep, goat, pig and avian species. (Instructional periods 3 and 4).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Anatomy with Laboratory",
@@ -16,7 +17,8 @@
             "description": "Continuation of V_BSCI 5011. In-depth study of the structure of the horse, ox, sheep, goat, pig and avian species. (Instructional periods 3 and 4).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Developmental Anatomy",
@@ -24,7 +26,8 @@
             "description": "Provides a comprehensive and rational interpretation of the intricate mechanisms of normal development to better understanding the complex anatomy of the adult.  A substantial portion will be dedicated to commonly encountered congenital abnormalities for each major organ system.",
             "prerequisites": "1st year Veterinary students",
             "hours": "0.5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Developmental Anatomy",
@@ -32,7 +35,8 @@
             "description": "Provides a comprehensive and rational interpretation of the intricate mechanisms of normal development to better understanding the complex anatomy of the adult.  A substantial portion will be dedicated to commonly encountered congenital abnormalities for each major organ system.",
             "prerequisites": "1st  year Veterinary students",
             "hours": "0.5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Gastrointestinal",
@@ -40,7 +44,8 @@
             "description": "Continuation of V_BSCI 5504. Physiology of the gastrointestinal tract, exocrine pancreas and liver. Lecture and lab designed to emphasize principles important to the practice of veterinary medicine.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Endocrinology and Reproductive Physiology",
@@ -48,7 +53,8 @@
             "description": "Continuation of Veterinary Biomedical Science 5051. Comparative endocrinology and reproductive biology.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Neuroscience",
@@ -56,7 +62,8 @@
             "description": "A laboratory and lecture-based course emphasizing the applied anatomy and physiology of the nervous system of domestic animals.",
             "prerequisites": "first year Veterinary students",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Anatomy with Laboratory",
@@ -64,7 +71,8 @@
             "description": "Correlative study of the anatomy of domestic and laboratory animals in which the developmental and gross anatomy are integrated. A segment is devoted to neuroanatomy. Dissection includes the dog, cat and common laboratory animals. (Instructional periods 1 and 2).",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Microscopic Anatomy with Laboratory",
@@ -72,7 +80,8 @@
             "description": "A study of microscopic anatomy including cytology, histology of basic tissues and microscopic anatomy of cardiovascular, urinary, respiratory systems and the special senses and integument. (Instructional periods 1 and 2).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Microscopic Anatomy",
@@ -80,7 +89,8 @@
             "description": "Particular attention to digestive systems, endocrine organs and reproductive systems. (Instructional period 3).",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Physiology",
@@ -88,7 +98,8 @@
             "description": "This course is designed to provide an opportunity and motivation for the student to acquire an understanding of the physiological principles on which rational therapy in medical practice is based.  Topics include: Cellular Neurophysiology, Muscle, Cardiovascular, Renal and Respiratory Physiology.  The course also encourages the student to apply these principles in solving problems so that it becomes habitual for him or her to think in terms of \"mechanisms of action\" as he or she approaches a problem in disturbed physiology.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Molecular and Cellular Biology",
@@ -96,7 +107,8 @@
             "description": "(same as V_BSCI 7333) A comprehensive course overviewing molecular and biochemical issues of cell function especially as related to medicine and the underlying molecular causes of disease.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Pharmacology with Laboratory",
@@ -104,7 +116,8 @@
             "description": "General principles of pharmacy, pharmacokinetics, and pharmacodynamics, with emphasis on drugs affecting the central and autonomic nervous system, cardiovascular and hematologic systems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Pharmacology",
@@ -112,7 +125,8 @@
             "description": "Continuation of V_PBIO 5507. Antiseptics, autocoids, hemostatics and anticoagulants, fluid and electrolytes, reproductive, endocrine, and gastrointestinal drugs.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Toxicology",
@@ -120,7 +134,8 @@
             "description": "(Same as V_BSCI 8509) Local and various systemic clinical responses of domestic animals to foreign chemicals including metals, pesticides, water-and food-borne agents, biotoxins, industrial and plant toxins. The principles, mechanism(s) of action, diagnosis, prevention and treatment of chemical intoxications are also presented.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytology, Histology, and Organology of Domestic Animals I",
@@ -128,15 +143,19 @@
             "description": "Detailed study of the structure and function of the cell, basic tissues (epithelium, connective tissue, muscle, nervous tissue) and several organ systems (cardiovascular, lymphatic, integument, digestive, visual, auditory) of domestic mammals and birds.",
             "prerequisites": "background in biological sciences, instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cytology, Histology and Organology of Domestic Animals II",
             "number": "7303",
             "description": "Detailed study of the liver, gallbladder, and pancreas, urinary system, respiratory system, endocrine glands, female reproductive system, placenta, male reproductive system, and integument (hoof and claw) of domestic mammals and birds.",
-            "prerequisites": "V_BSCI 7303 and instructor's consent",
+            "prerequisites": "V_BSCI 7303 and instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "V_BSCI 7303"
+            ]
         },
         {
             "name": "Embryology and Development of Domestic Animals",
@@ -144,7 +163,8 @@
             "description": "Developmental anatomy of domestic animals. Special written report and/or review required.",
             "prerequisites": "background in biological science and departmental consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Cell Biology",
@@ -152,7 +172,8 @@
             "description": "(same as V_BSCI 5506). Course material stresses cell biology as related to animal health and medical issues. A comprehensive course overviewing molecular and biochemical issues of cell function especially as related to medicine and the underlying molecular causes of disease.",
             "prerequisites": "instructor's consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Equine Clinical Anatomy: Forelimbs",
@@ -160,7 +181,8 @@
             "description": "(cross-leveled with BIOCHM 4510). Basic foundation in selected aspects of equine clinical anatomy for veterinary technicians, pre-veterinary students, and other students wishing to enhance their understanding of anatomical structures of the horse's forelimbs.",
             "prerequisites": "A bachelor's degree in a biological science or veterinary technology, or DVM degree, or instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Comparative Anatomy of Cardiovascular System",
@@ -168,7 +190,8 @@
             "description": "The systemic and pulmonary circulation. The heart and vessels in detail. One midterm exam and final paper. Laboratory included.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Veterinary Biomedical Science",
@@ -176,7 +199,8 @@
             "description": "Selected problems and/or topics for advanced study in special areas to meet needs of individual students.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Veterinary Biomedical Science",
@@ -184,7 +208,8 @@
             "description": "Open to graduate students with requisite preparation. Research expected to be presented as a thesis. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Neuroscience",
@@ -192,7 +217,8 @@
             "description": "A laboratory and lecture based course emphasizing the applied anatomy and physiology of the nervous system of domestic animals.",
             "prerequisites": "Restricted to first year veterinary students or graduate students",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Multidisciplinary Approaches to Biomedical Sciences",
@@ -200,7 +226,8 @@
             "description": "The goal of this course is to aid the student in developing a multidisciplinary philosophy to problem solving in biomedical research. Methods used in molecular, biochemical, cellular, tissue, organ, and whole animal studies will be emphasized.",
             "prerequisites": "instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Veterinary Biomedical Science",
@@ -208,15 +235,20 @@
             "description": "Presentation and discussion of investigations and topics in veterinary anatomy-physiology or related fields, by qualified students, instructors, and guests.",
             "prerequisites": "departmental consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Physiology",
             "number": "8420",
             "description": "This course is designed to provide an opportunity and motivation for the student to acquire an understanding of the physiological principles on which rational therapy in medical practice is based.  Topics include: Cellular Neurophysiology, Muscle, Cardiovascular, Renal and Respiratory Physiology.  The course also encourages the student to apply these principles in solving problems so that it becomes habitual for him or her to think in terms of \"mechanisms of action\" as he or she approaches a problem in disturbed physiology.",
-            "prerequisites": "BIOCHM 4270 and BIOCHM 4272",
+            "prerequisites": "BIOCHM 4270 and BIOCHM 4272",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 4270",
+                "BIOCHM 4272"
+            ]
         },
         {
             "name": "Veterinary Physiology",
@@ -224,7 +256,8 @@
             "description": "Continuation of V_BSCI 8420. Physiology of the gastrointestinal tract, exocrine pancreas, liver, endocrine system and reproduction.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Veterinary Toxicology",
@@ -232,7 +265,8 @@
             "description": "(Same as V_BSCI 5509) Local and various systemic clinical responses of domestic animals to foreign chemicals including metals, pesticides, water-and food-borne agents, biotoxins, industrial and plant toxins. The principles, mechanism(s) of action, diagnosis, prevention and treatment of chemical intoxications are also presented.  Graded A-F only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Veterinary Biomedical Sciences",
@@ -240,15 +274,20 @@
             "description": "Research in Veterinary Biomedical Sciences.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Microvascular Circulatory Function",
             "number": "9425",
             "description": "(same as MPP 9434). An in-depth study of microcirculatory structure and function in various tissues with emphasis on recent developments in the understanding of the mechanisms involved in nutrient supply, edema formation, lymphatic function and fluid balance.",
-            "prerequisites": "V_BSCI 8420 and V_BSCI 8422 or Mammalian Physiology or equivalent",
+            "prerequisites": "V_BSCI 8420 and V_BSCI 8422 or Mammalian Physiology or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "V_BSCI 8420",
+                "V_BSCI 8422"
+            ]
         },
         {
             "name": "Control of Energy Metabolism",
@@ -256,7 +295,8 @@
             "description": "(same as MPP 9431). This advanced elective is in a lecture/discussion format using primary literature to explore how cells organize and regulate metabolism to meet energy demands.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Molecular Exercise Biology",
@@ -264,15 +304,19 @@
             "description": "(same as MPP 9435). Integrated adaptations of adipose tissue, blood vessels, bone, brain, heart, immune, liver, microbiome, and skeletal muscle to physical training during life. Lifecourse emphasis will be placed upon the role of physical activity during growth and aging in increasing and decreasing, respectively, cardiovascular fitness and strength fitness. The roles of the level of cardiovascular and strength fitness in slowing the onset of chronic diseases and death will be one outcome of the curriculum.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Introductory physiology and molecular biology"
+            "recommendation": "Introductory physiology and molecular biology",
+            "connections": "None Listed"
         },
         {
             "name": "Hormone Action",
             "number": "9462",
             "description": "(same as BIOCHM 9462). A lecture course with weekly assigned readings. Topics will include: a description of selected polypeptide, steroid and other hormones and their biological effects; receptors; second messengers; protein phosphorylation in hormone mediation; growth factors; cellular oncogenes.",
-            "prerequisites": "BIOCHM 7272",
+            "prerequisites": "BIOCHM 7272",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 7272"
+            ]
         },
         {
             "name": "Neural Cardiorespiratory Control",
@@ -280,7 +324,8 @@
             "description": "(same as MPP 9437). Course objectives include developing a general understanding of CNS mechanisms in the regulation of the cardiovascular and respiratory system, including autonomic, neurohumoral and body fluid homeostatic mechanisms, gaining knowledge of the major advances and topics in the field and becoming familiar with some of the methods used to study CNS cardiorespiratory regulation.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

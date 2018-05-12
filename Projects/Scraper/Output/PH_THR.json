@@ -8,7 +8,8 @@
             "description": "Acquaints students with the physical therapy profession including the required educational preparation, practice settings, sample interventions, current issues, trends and research. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Biology of Healthy Living",
@@ -16,7 +17,8 @@
             "description": "(same as BIOMED 2420 and NEP 2420).  Biology of inactivity as a casual factor in chronic disease.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Musculoskeletal Anatomy and Injury",
@@ -24,7 +26,8 @@
             "description": "Study of human musculoskeletal anatomy, movement, common injury and physical therapy management. Graded on an A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "biology"
+            "recommendation": "biology",
+            "connections": "None Listed"
         },
         {
             "name": "Principles of Physical Therapy",
@@ -32,7 +35,8 @@
             "description": "History of physical therapy: the profession; basic skills: first aid, infection control, vital signs; medical terminology. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Physical Therapy",
@@ -40,7 +44,8 @@
             "description": "Independent study, based upon educational goals, leading to completion of a project or paper. Specific objectives and time line developed with the supervision of a faculty member.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Education IA",
@@ -48,7 +53,8 @@
             "description": "(cross-leveled with PH_THR 7120). An introduction to clinical education in Physical Therapy: includes development of foundational clinical skills and behaviors as well as experience in the PhysZou clinical setting. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Education IB",
@@ -56,7 +62,8 @@
             "description": "(cross-leveled with PH_THR 7150). Continuation of Clinical Education IA with further emphasis on current events in Physical Therapy as well as the professional attributes of communication, teamwork and problem solving. Required experience in PhysZou clinical setting. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Applied Neurophysiology for Allied Health Students",
@@ -64,15 +71,20 @@
             "description": "(same as OC_THR 4240; cross-leveled with PH_THR 7240, OC_THR 7240). Principles of basic neurophysiology, emphasizing correlation of structure and function of the nervous system.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Kinesiology",
             "number": "4250",
             "description": "(same as HTH_PR 4250). Study of principles of physical laws, biomechanics and anatomic structure relative to human movement. Applications through analysis of daily functional performance, exercise, and sport.",
-            "prerequisites": "PTH_AS 2201 or PH_THR 2500",
+            "prerequisites": "PTH_AS 2201 or PH_THR 2500",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PTH_AS 2201",
+                "PH_THR 2500"
+            ]
         },
         {
             "name": "Clinical Pathophysiology",
@@ -80,7 +92,8 @@
             "description": "(same as OC_THR 4270; cross-leveled wiht PH_THR 7270, OC_THR 7270). Interdisciplinary and case-based examination of the pathophysiology, prevention and general health management of disease/injury across the lifespan encountered in occupational and physical therapy practice.  Graded on A-F basis only.",
             "prerequisites": "successful completion of prior professional coursework",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physical Agents",
@@ -88,7 +101,8 @@
             "description": "Biophysics, theory and technique concerning the use of physical agents as adjuncts to exercise programs. Includes thermal, electrical, light, hydrotherapy and mechanical agents.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Foundations of Therapeutic Exercise",
@@ -96,7 +110,8 @@
             "description": "Physiological basis of exercise throughout the lifespan with emphasis on the musculoskeletal, neuromuscular, cardiovascular/pulmonary and integumentary systems and the effects of injury and disease on these systems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Medical Testing in Rehabilitation",
@@ -104,7 +119,8 @@
             "description": "Diagnostic tests used by disciplines within and outside of  physical therapy.  Studies include laboratory, nuclear  medicine, radiologic, and motion analysis.  Emphasis placed on interpretation of results as they apply to physical therapy examination and intervention.",
             "prerequisites": "Restricted to students accepted into professional major",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Evidence-Based Practice",
@@ -112,7 +128,8 @@
             "description": "Clinical research design and methods overview. Critical review of current and historically important professional literature. Effective writing related to clinically applicable research using computer and library resources. Identification of research questions.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Applied Therapeutic Exercise",
@@ -120,7 +137,8 @@
             "description": "Application of therapeutic exercise with an emphasis on evidenced-based exercise prescription, modes and techniques of exercise typically seen in rehabilitation.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Movement Theory and Application",
@@ -128,7 +146,8 @@
             "description": "Human sensorimotor development; motor learning; motor control theories; developmental and practical application to exercise; proprioceptive neuromuscular facilitation.",
             "prerequisites": "None Listed",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Bridging the Clinical-Research Gap",
@@ -136,7 +155,8 @@
             "description": "This class focuses on theories of clinical decision making and Evidence-based Practice, their applications to the clinical setting and dissemination of such information to colleagues in professional forums.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Orthopedic Physical Therapy with Laboratory",
@@ -144,7 +164,8 @@
             "description": "Physical therapy diagnosis, management, and prevention of disorders of the musculoskeletal system; basics of orthopedic manual therapy. Includes laboratory.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Orthopedic Physical Therapy",
@@ -152,7 +173,8 @@
             "description": "Physical therapy diagnosis, management, and prevention of disorders of the musculoskeletal system; continuation of orthopedic manual therapy emphasizing the axial skeleton; traction; massage; taping; sport-specific injury rehabilitation; orthotics.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Pediatric Physical Therapy",
@@ -160,7 +182,8 @@
             "description": "Physical therapy evaluation and treatment of children with movement dysfunction. Emphasis on therapeutic exercise.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Rehabilitation of the Neurologically Impaired Adult",
@@ -168,7 +191,8 @@
             "description": "Physical Therapy evaluation and treatment of adults who have incurred neurological deficits; emphasis on the restorative care of individuals following spinal cord injury, stroke, and traumatic head injury.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Pharmacology in Rehabilitation",
@@ -176,7 +200,8 @@
             "description": "Principles of pharmacology including pharmacokinetics, pharmacodynamics, and toxicology of common drugs encountered in rehabilitation.  Emphasis on pharmacology related to the musculoskeletal, neuromuscular, cardiovascular/pulmonary and integumentary systems across the lifespan.",
             "prerequisites": "Restricted to students accepted into a professional major",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Readings in Physical Therapy",
@@ -184,7 +209,8 @@
             "description": "Independent readings selected in consultation with supervising faculty member. Identified educational goals and activities; discussion, annotated bibliography or report.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Directed Readings in Physical Therapy",
@@ -192,7 +218,8 @@
             "description": "Selected readings on specific topics.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Evaluation and Procedures with Laboratory",
@@ -200,7 +227,8 @@
             "description": "Principles and procedures of basic evaluation methods and documentation: muscle strength, range of motion, muscle balance, posture, neurologic tests. Includes laboratory.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Kinesiology with Laboratory",
@@ -208,7 +236,8 @@
             "description": "Advanced Kinesiology addressing functional mobility; specifics of normal human gait; pathokinetics of gait. Assistive devices; wheelchairs; orthoses and prostheses. Includes laboratory.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Education IA",
@@ -216,7 +245,8 @@
             "description": "(cross-leveled with PH_THR 4120).  An introduction to clinical education in Physical Therapy; includes development of foundational clinical skills and behaviors as well as experience in PhysZou clinical setting. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Education IB",
@@ -224,7 +254,8 @@
             "description": "(cross-leveled with PH_THR 4150). Continuation of Clinical Education IA with further emphasis on current events in Physical Therapy as well as the professional attributes of communication, teamwork and problem solving.  Required experience in PhysZou clinical setting. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Applied Neurophysiology for Allied Health Students",
@@ -232,7 +263,8 @@
             "description": "(same as OC_THR 7240; cross-leveled with OC_THR 4240, PH_THR 4240). Principles of basic neurophysiology, emphasizing correlation of structure and function of the nervous system.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Human Kinesiology",
@@ -240,7 +272,8 @@
             "description": "(same as HTH_PR 4250, OC_THR 4220 or OC_THR 7220). Study of principles of physical laws, biomechanics and anatomic structure relative to human movement. Applications through analysis of daily functional performance, exercise, and sport.",
             "prerequisites": "Human Anatomy",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Pathophysiology",
@@ -248,7 +281,8 @@
             "description": "(same as OC_THR 7270; cross-leveled with PH_THR 4270, OC_THR 4270)  Interdisciplinary and case-based examination of the pathophysiology, prevention and general health management of disease/injury across the lifespan encountered in occupational and physical therapy practice.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Physical Agents",
@@ -256,7 +290,8 @@
             "description": "Biophysics, theory and technique concerning the use of physical agents as adjuncts to exercise programs. Includes thermal, electrical, light, hydrotherapy and mechanical agents.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Foundations of Therapeutic Exercise",
@@ -264,7 +299,8 @@
             "description": "Physiologic basis of exercise throughout the lifespan with emphasis on the musculoskeletal, neuromuscular, cardiovascular/ pulmonary and integumentary systems and the effects of injury and disease on these systems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Medical Testing in Rehabilitation",
@@ -272,7 +308,8 @@
             "description": "Diagnostic test used by disciplines within and outside of physical therapy.  Studies include laboratory, nuclear medicine, radiologic, and motion analysis.  Emphasis placed on interpretation of results as they apply to physical therapy examination and intervention.",
             "prerequisites": "Restricted to students accepted into professional major",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Evidence-Based Practice",
@@ -280,7 +317,8 @@
             "description": "Clinical research design and methods overview. Critical review of current and historically important professional literature. Effective writing related to clinically applicable research using computer and library resources. Identification of research questions.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Applied Therapeutic Exercise",
@@ -288,7 +326,8 @@
             "description": "Application of therapeutic exercise with an emphasis on evidenced-based exercise prescription, modes and techniques of exercise typically seen in rehabilitation.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Psychosocial Issues for Health Promotion",
@@ -296,7 +335,8 @@
             "description": "Psychological and social factors impact people's health and the American Physical Therapy Association has called for interprofessional approaches for the provision of fitness, health promotion, wellness, and risk reduction programs to enhance quality of life for persons across the life-span.  This course focuses on psychosocial issues for health promotion in order to help future health care providers and scientists to improve the health and well-being of people.  Graded on A-F basis only.",
             "prerequisites": "Restricted to students who are admitted into the Physical Therapy-DPT program",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Bridging the Clinical-Research Gap",
@@ -304,7 +344,8 @@
             "description": "This class focuses on theories of clinical decision making and Evidence-based Practice, their applications to the clinical setting and dissemination of such information to colleagues in professional forums.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Orthopedic Physical Therapy with Laboratory",
@@ -312,15 +353,19 @@
             "description": "Physical therapy diagnosis, management, and prevention of disorders of the musculoskeletal system; basics of orthopedic manual therapy. Includes laboratory.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Orthopedic Physical Therapy",
             "number": "7680",
             "description": "Physical therapy diagnosis, management, and prevention of disorders of the musculoskeletal system; continuation of orthopedic manual therapy emphasizing the axial skeleton; traction; massage; taping; sport-specific injury rehabilitation; orthotics.",
-            "prerequisites": "PH_THR 4620",
+            "prerequisites": "PH_THR 4620",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PH_THR 4620"
+            ]
         },
         {
             "name": "Pediatric Physical Therapy",
@@ -328,7 +373,8 @@
             "description": "Physical therapy evaluation and treatment of children with movement dysfunction. Emphasis on therapeutic exercise.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Rehabilitation of the Neurologically Impaired Adult",
@@ -336,7 +382,8 @@
             "description": "Physical Therapy evaluation and treatment of adults who have incurred neurological deficits; emphasis on the restorative care of individuals following spinal cord injury, stroke, and traumatic head injury.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Differential Diagnosis in Physical Therapy",
@@ -344,7 +391,8 @@
             "description": "Evidence-based clinical decision making emphasizing health screenings and system review to determine physical therapy diagnosis/need for referral to other health care professionals.",
             "prerequisites": "Restricted to students accepted into the professional major",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Pharmacology in Rehabilitation",
@@ -352,7 +400,8 @@
             "description": "Principles of pharmacology including pharmacokinetics, pharmacodynamics, and toxicology of common drugs encountered in rehabilitation.  Emphasis on pharmacology related to the musculoskeletal, neuromuscular, cardiovascular/ pulmonary and integumentary systems across the lifespan.",
             "prerequisites": "Restricted to students accepted into professional major",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Assessment and Neuropsychology of Pain",
@@ -360,7 +409,8 @@
             "description": "Pain is a common problem that impairs people's quality of life and costs millions of dollars annually.  Yet, an investigation of physical therapy education programs in the U.S. supported inadequate coverage of pain.  This course focuses on the assessment and neuropsychology of pain in order to help future health care providers and scientists to improve the health and well-being of people with impaired quality of life due to pain.  Graded on A-F basis only.",
             "prerequisites": "Restricted to students who are admitted into the Physical Therapy-DPT program",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Case Management I",
@@ -368,7 +418,8 @@
             "description": "Evaluation and team approach to physical therapy management in adult medical and surgical conditions: cardiopulmonary, rheumatic, oncologic, integumentary or wound care, including major burn injury. Psychosocial and ethical issues incorporated. Problem based; laboratory.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Education II",
@@ -376,15 +427,19 @@
             "description": "Full time, supervised clinical experience addressing application of basic skills in patient evaluation and treatment, documentation and professional behaviors. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Education III",
             "number": "7945",
             "description": "Continuation of supervised clinical education. (Capstone course).  Graded on S/U basis only.",
-            "prerequisites": "Successful completion of PH_THR 7940",
+            "prerequisites": "Successful completion of PH_THR 7940",
             "hours": "7",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PH_THR 7940"
+            ]
         },
         {
             "name": "Special Readings in Physical Therapy",
@@ -392,7 +447,8 @@
             "description": "Independent readings selected in consultation with supervising faculty member. Identified educational goals and activities; discussion, annotated bibliography or report.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Directed Readings in Physical Therapy",
@@ -400,7 +456,8 @@
             "description": "Selected readings on specific topics.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Evaluation and Procedures with Laboratory",
@@ -408,7 +465,8 @@
             "description": "Principles and procedures of basic evaluation methods and documentation: transfers, body mechanics, muscle strength, range of motion, muscle length,  neurologic tests. Includes laboratory.  Includes discussion with emphasis on critical thinking and clinical application through problem solving.",
             "prerequisites": "Restricted to physical therapy students only",
             "hours": "4",
-            "recommendation": "Successful completion of prior professional coursework"
+            "recommendation": "Successful completion of prior professional coursework",
+            "connections": "None Listed"
         },
         {
             "name": "Clinical Kinesiology with Laboratory",
@@ -416,7 +474,8 @@
             "description": "Advanced Kinesiology addressing functional mobility; specifics of normal human gait; pathokinetics of gait. Assistive devices; wheelchairs; orthoses and prostheses. Includes laboratory.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Health Policy for Physical Therapy",
@@ -424,7 +483,8 @@
             "description": "This course is designed for physical therapy students and will provide an introduction to health policy along with an overview of the health care system in the United States, including its structures, financing mechanisms, and outcomes. Lecture/reflective writing/written exams. Graded on A-F basis only.",
             "prerequisites": "Successful completion of prior coursework",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Physical Therapy",
@@ -432,7 +492,8 @@
             "description": "Organized study of selected topics in physical therapy, health and wellness, prevention of disease and disability, and the rehabilitation sciences. Specific content may vary from semester to semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Skills in Physical Therapy",
@@ -440,7 +501,8 @@
             "description": "This course will offer a menu of options to students to develop additional knowledge about specific skills in the physical therapy profession.  Students may choose topics of interest in addition to the mandatory sessions to meet a minimum of 800 minutes of contact.  Graded on S/U basis only.  Prerequisigtes:  successful completion of prior professional coursework.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Physical Therapy",
@@ -448,7 +510,8 @@
             "description": "Independent study and development of a clinical or research paper, poster or workshop suitable for presentation in a symposium or conference. Specific plan individually developed with advisor. Journal reviews.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Physical Therapy",
@@ -456,7 +519,8 @@
             "description": "Integrate previously learned content in unique patient cases and comprehensive review and evaluation of readiness for entry level physical therapist practice, in both didactic and psycho-motor domains. Enrollment is limited to students in professional physical therapy program.",
             "prerequisites": "departmental consent",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Professional Issues in the 21st Century",
@@ -464,39 +528,52 @@
             "description": "The physical therapist as health care professional, administrator, and educator; legal, ethical, and political issues. Service delivery management; delegation of care; rural vs. urban health care needs.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Case Management II with Laboratory",
             "number": "8390",
             "description": "Complex orthopedic problems in persons of all ages; supervision, reimbursement, ethical/legal situations; community programs for injury prevention; work capacity evaluation/work hardening; consultation. Problem-based format; laboratory.",
-            "prerequisites": "PH_THR 7890",
+            "prerequisites": "PH_THR 7890",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PH_THR 7890"
+            ]
         },
         {
             "name": "Case Management III with Laboratory",
             "number": "8690",
             "description": "Traditional and contemporary theories of physical therapy in advanced rehabilitation of children and adults with neurologic disorders; education/employment, ethical/legal issues; patient/client advocacy. Problem based format; laboratory.",
-            "prerequisites": "PH_THR 8390",
+            "prerequisites": "PH_THR 8390",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PH_THR 8390"
+            ]
         },
         {
             "name": "Clinical Education IV",
             "number": "8945",
             "description": "A continuation of supervised clinical education with supervision from a licensed physical therapist that has at least one year of experience. This course is a continuation of 7945 with advancing expectations of student physical therapist performance. Graded on S/U basis only.",
-            "prerequisites": "Successful completion of PH_THR 7945",
+            "prerequisites": "Successful completion of PH_THR 7945",
             "hours": "7",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PH_THR 7945"
+            ]
         },
         {
             "name": "Clinical Education V",
             "number": "8950",
             "description": "Full time supervised clinical education with supervision from a licensed physical therapist that has at least one year of experience. This course is a continuation of 8945 with advancing expectations of student physical therapist performance.  Graded on S/U basis only.",
-            "prerequisites": "Successful completion of PH_THR 8945",
+            "prerequisites": "Successful completion of PH_THR 8945",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PH_THR 8945"
+            ]
         }
     ]
 }

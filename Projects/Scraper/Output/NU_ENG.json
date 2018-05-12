@@ -6,9 +6,15 @@
             "name": "Topics in Nuclear Engineering",
             "number": "2201",
             "description": "Current and new developments in nuclear engineering.",
-            "prerequisites": "sophomore standing; PHYSCS 1210 and PHYSCS 1220 and MATH 1100 or MATH 1120 or instructor's consent",
+            "prerequisites": "sophomore standing; PHYSCS 1210 and PHYSCS 1220 and MATH 1100 or MATH 1120 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100",
+                "MATH 1120",
+                "PHYSCS 1210",
+                "PHYSCS 1220"
+            ]
         },
         {
             "name": "Harnessing the Atoms in Everyday Life: Fulfill M Curie's Dream",
@@ -16,7 +22,8 @@
             "description": "Introduction to applications of nuclear science and technology, utilizing web-based learning scenarios.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Nuclear Engineering",
@@ -24,7 +31,8 @@
             "description": "Current and new developments in nuclear engineering.  May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "2-5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Safe Handling of Radioisotopes",
@@ -32,7 +40,8 @@
             "description": "Introduction of methods and procedures for safe handling of radioisotopes in the research laboratory. Intensive lecture and laboratory training sessions designed for persons planning to use radioisotopes at the University.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Radiation Safety",
@@ -40,47 +49,64 @@
             "description": "(same as RA_SCI 4303) Types and origins of radiation; radiation detection and measurement; radiation interactions; shielding; dose calculations; federal, state and local regulations; and procedures for safe uses of radiation. Laboratory experiments in radiation measurements and protection.",
             "prerequisites": "college physics, calculus based",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of Nuclear Engineering",
             "number": "4305",
             "description": "Introductory topics in nuclear engineering. Atomic and nuclear physics; nuclear reactor principles under steady-state and transient conditions; heat removal; shielding; instrumentation; power generation; fusion.",
-            "prerequisites": "concurrent with MATH 4100",
+            "prerequisites": "concurrent with MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100"
+            ]
         },
         {
             "name": "Advanced Engineering Math",
             "number": "4306",
             "description": "(same as CH_ENG 4306; cross-leveled with NU_ENG 7306). Applies ordinary and partial differential equations to engineering problems; Fourier's series; determinants and matrices; Laplace transforms; analog computer techniques.",
-            "prerequisites": "MATH 4100",
+            "prerequisites": "MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100"
+            ]
         },
         {
             "name": "Energy Systems and Resources",
             "number": "4315",
             "description": "(same as ECE 4020). Analysis of present energy usage in Missouri, USA and the world, evaluation of emerging energy technologies and trends for the future. Economics and environmental impact of the developed technologies.",
-            "prerequisites": "ENGINR 2300 or equivalent",
+            "prerequisites": "ENGINR 2300 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2300"
+            ]
         },
         {
             "name": "Energy Systems and Resources - Writing Intensive",
             "number": "4315W",
             "description": "(same as ECE 4020). Analysis of present energy usage in Missouri, USA and the world, evaluation of emerging energy technologies and trends for the future. Economics and environmental impact of the developed technologies.",
-            "prerequisites": "ENGINR 2300 or equivalent",
+            "prerequisites": "ENGINR 2300 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2300"
+            ]
         },
         {
             "name": "Physics and Chemistry of Materials",
             "number": "4319",
             "description": "(same as PHYSCS 4190,  BIOL_EN 4480 and CHEM 4490). Undergraduate/graduate level course offered every winter semester for students from Physics, Chemistry, Engineering and Medical Departments and consists of lectures, laboratory demonstrations, two mid term and one final exam. Graduate students will submit a term paper.",
-            "prerequisites": "PHYSCS 2760 and CHEM 1320 or equivalent and instructor's consent",
+            "prerequisites": "PHYSCS 2760 and CHEM 1320 or equivalent and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Natural Resources and Nuclear Energy",
@@ -88,7 +114,8 @@
             "description": "Not for engineering students. Lecture, demonstration; describes physical environment, energy, power plants, nuclear reactors; radioactivity, its biological effects; health physics measures, rad-waste disposal; nuclear safeguards, nuclear explosives, societal implications.",
             "prerequisites": "high school algebra",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introductory Radiation Biology",
@@ -96,7 +123,8 @@
             "description": "(same as BIO_SC 4328, RADIOL 4328, V_M_S 7328). Concepts of ionizing radiations, their actions on matter through effects on simple chemical systems, biological molecules, cell, organisms, man.",
             "prerequisites": "junior standing, Sciences/Engineering; one course in Biological Sciences and Physics/Chemistry; or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Science and Technology of Terrorism and Counter Terrorism",
@@ -104,7 +132,8 @@
             "description": "(same as PEA_ST 4330). Terrorism has been a familiar tool of political conflict, and it has assumed greater importance during the past twenty years. This subject has been treated by political scientists in various forms, but the scientific and technological aspects of different forms of terrorism cannot be found in a single place. It is important for persons who propose counter measures to understand the basics of different types of terrorism such as for instance the nature of chemical agents, their properties such as toxicity, etc. in order to build better defense systems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nonproliferation Issues for Weapons of Mass Destruction",
@@ -112,7 +141,8 @@
             "description": "Nonproliferation and impact on technology and world events.",
             "prerequisites": "junior/senior standing or instructor's consent.  May be repeated for credit",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nonproliferation Issues for Weapons of Mass Destruction - Writing Intensive",
@@ -120,7 +150,8 @@
             "description": "Nonproliferation and impact on technology and world events.",
             "prerequisites": "junior/senior standing or instructor's consent.  May be repeated for credit",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Chemical Engineering",
@@ -128,15 +159,20 @@
             "description": "Principles and processes of importance in the field of nuclear technology.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Nuclear Reactor Engineering I",
             "number": "4346",
             "description": "(same as ECE 4030). Engineering principles of nuclear power systems, primarily for the production of electrical energy.",
-            "prerequisites": "ENGINR 1200, ENGINR 2300 or equivalent",
+            "prerequisites": "ENGINR 1200, ENGINR 2300 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1200",
+                "ENGINR 2300"
+            ]
         },
         {
             "name": "Nuclear Engineering Materials",
@@ -144,7 +180,8 @@
             "description": "Properties of materials for reactor components; radiation damage and corrosion; metallurgy of reactor materials.",
             "prerequisites": "upper division or graduate standing in Physical Sciences or Engineering, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Forensic Analysis",
@@ -152,7 +189,8 @@
             "description": "Principles/applications of nuclear techniques in solution of bioenvironmental problems. Uses of nuclear methods in studies of water/air pollution, biology, medicine, pesticides, geochemistry, ecological transport. Lectures, laboratory.",
             "prerequisites": "senior standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Fusion",
@@ -160,55 +198,78 @@
             "description": "Basic plasma physics, principles of thermonuclear fusion, plasma confinement and heating, and devices.",
             "prerequisites": "senior standing in Engineering or Science or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Heat Transport",
             "number": "4357",
             "description": "Principles of heat transport in nuclear reactors. Brief review of the theory of flow coast down and convective heat transfer. Heat transfer loop experiments on flow coast down, steady state and transient forced convection heat transfer, boiling heat transfer.",
-            "prerequisites": "NU_ENG 4305, NU_ENG 4346 or instructor's consent",
+            "prerequisites": "NU_ENG 4305, NU_ENG 4346 or instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 4305",
+                "NU_ENG 4346"
+            ]
         },
         {
             "name": "Nuclear Power Engineering",
             "number": "4365",
             "description": "Nuclear reactor heat generation and removal; nuclear reactor coolants; analysis of nuclear reactor power plants.",
-            "prerequisites": "ENGINR 2300",
+            "prerequisites": "ENGINR 2300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2300"
+            ]
         },
         {
             "name": "Principles of Direct Energy Conversion",
             "number": "4369",
             "description": "Principles and utilization of thermoelectric, thermionic, photovoltaic, magnetohydrodynamic generators and fuel cells.",
-            "prerequisites": "ENGINR 2300, MAE 3400, or equivalent",
+            "prerequisites": "ENGINR 2300, MAE 3400, or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2300",
+                "MAE 3400"
+            ]
         },
         {
             "name": "Introduction to Plasmas",
             "number": "4375",
             "description": "(same as ECE 4550; cross-leveled with NU_ENG 7375, ECE 7550). Equations of plasma physics, interaction of waves and plasmas; plasma sheaths and oscillations;   measurements and applications.",
-            "prerequisites": "ECE 4930 or instructor's consent",
+            "prerequisites": "ECE 4930 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ECE 4930"
+            ]
         },
         {
             "name": "Particulate Systems Engineering",
             "number": "4379",
             "description": "An introduction to natural and engineered particulate systems.",
-            "prerequisites": "CH_ENG 3234 or MAE 4300 or equivalent",
+            "prerequisites": "CH_ENG 3234 or MAE 4300 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CH_ENG 3234",
+                "MAE 4300"
+            ]
         },
         {
             "name": "Lasers and Their Applications",
             "number": "4382",
             "description": "(same as ECE 4570; cross-leveled with NU_ENG 7382, ECE 7570). Introduction to lasers, from both a conceptual viewpoint and from the application of Maxwell's equation, to develop the optical theory for lasers.",
-            "prerequisites": "PHYSCS 2760, and MATH 4110",
+            "prerequisites": "PHYSCS 2760, and MATH 4110",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4110",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Nuclear Radiation Detection",
@@ -216,7 +277,8 @@
             "description": "(same as CHEM 4600). Principles and application of radiation detectors and analyzers: ionization, Geiger-Muller, proportional, liquid and solid scintillation, semiconductor, pulse height analyzers, coincidence circuits, data reduction, tracer applications, activation analysis. Lectures, laboratory.",
             "prerequisites": "senior standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Nuclear Science and Engineering",
@@ -224,7 +286,8 @@
             "description": "Current and new developments in nuclear engineering.",
             "prerequisites": "instructor's consent",
             "hours": "2-5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Medical Ethics for Medical Physics",
@@ -232,7 +295,8 @@
             "description": "This course will start with an introduction into medical ethics then transitions into research procedures with humans and animals. This course will cover research ethics, professional conduct, authorship, publishing, and plagiarism.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Problems in Nuclear Science and Engineering",
@@ -240,7 +304,8 @@
             "description": "Special Problems in Nuclear Science and Engineering.",
             "prerequisites": "None Listed",
             "hours": "1-5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Nuclear Science and Engineering",
@@ -248,7 +313,8 @@
             "description": "Reviews of investigations and projects of importance in nuclear engineering.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Safe Handling of Radioisotopes",
@@ -256,7 +322,8 @@
             "description": "Introduction of methods and procedures for safe handling of radioisotopes in the research laboratory. Intensive lecture and laboratory training sessions designed for persons planning to use radioisotopes at the University.",
             "prerequisites": "instructor's consent",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Radiation Safety",
@@ -264,23 +331,30 @@
             "description": "(same as RA_SCI 7303). Types and origins of radiation; radiation detection and measurement; radiation interactions; shielding; dose calculations; federal, state and local regulations; and procedures for safe uses of radiation. Laboratory experiments in radiation measurements and protection.",
             "prerequisites": "college physics, calculus based",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of Nuclear Engineering",
             "number": "7305",
             "description": "Introductory topics in nuclear engineering. Atomic and nuclear physics; nuclear reactor principles under steady-state and transient conditions; heat removal; shielding; instrumentation; power generation; fusion.",
-            "prerequisites": "concurrent with MATH 4100",
+            "prerequisites": "concurrent with MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100"
+            ]
         },
         {
             "name": "Advanced Engineering Math",
             "number": "7306",
             "description": "(cross-leveled with NU_ENG 7306). Applies ordinary and partial differential equations to engineering problems; Fourier's series; determinants and matrices; Laplace transforms; analog computer techniques.",
-            "prerequisites": "MATH 4100",
+            "prerequisites": "MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100"
+            ]
         },
         {
             "name": "Nuclear Science for Engineering for Secondary Science Teachers",
@@ -288,23 +362,31 @@
             "description": "This one-week course is for high school science and math teachers, and provides basic of nuclear scheme concepts and their applications, types of radiation (including radiation detection and protection), and industrial, medical and nuclear power generation application.",
             "prerequisites": "instructor's consent; actively engaged in STEM teaching at the secondary level",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Energy Systems and Resources",
             "number": "7315",
             "description": "(same as ECE 7020). Analysis of present energy usage in Missouri, USA and the world, evaluation of emerging energy technologies and trends for the future. Economics and environmental impact   of the developed technologies.",
-            "prerequisites": "ENGINR 2300 or equivalent",
+            "prerequisites": "ENGINR 2300 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2300"
+            ]
         },
         {
             "name": "Physics and Chemistry of Materials",
             "number": "7319",
             "description": "(same as PHYSCS 7190, BIOL_EN 7480 and CHEM 7490). Undergraduate/graduate level course offered every winter semester for students from Physics, Chemistry, Engineering and Medical Departments and consists of lectures or laboratory demonstrations, two midterm and one final exam. Graduate students will submit a term paper.",
-            "prerequisites": "PHYSCS 2760 and CHEM 1320 or equivalent and instructor's consent",
+            "prerequisites": "PHYSCS 2760 and CHEM 1320 or equivalent and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Natural Resources and Nuclear Energy",
@@ -312,7 +394,8 @@
             "description": "Not for engineering students. Lecture, demonstration; describes physical environment, energy, power plants, nuclear reactors; radioactivity, its biological effects; health physics measures, rad-waste disposal; nuclear safeguards, nuclear explosives, societal implications.",
             "prerequisites": "high school algebra",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introductory Radiation Biology",
@@ -320,7 +403,8 @@
             "description": "(same as BIO_SC 7328, RADIOL 7328, and V_M_S 7328). Concepts of ionizing radiations, their actions on matter through effects on simple chemical systems, biological molecules, cell, organisms, man.",
             "prerequisites": "Sciences/Engineering; one course in Biological Sciences and Physics/Chemistry; or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Science and Technology of Terrorism and Counter Terrorism",
@@ -328,7 +412,8 @@
             "description": "Terrorism has been a familiar tool of political conflict, and it has assumed greater importance during the past twenty years. This subject has been treated by political scientists in various forms, but the scientific and technological aspects of different forms of terrorism cannot be found in a single place. It is important for persons who propose counter measures to understand the basics of different types of terrorism such as for instance the nature of chemical agents, their properties such as toxicity, etc. in order to build better defense systems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nonproliferation Issues for Weapons of Mass Destruction",
@@ -336,15 +421,20 @@
             "description": "Nonproliferation and impact on technology and world events.",
             "prerequisites": "junior or senior standing or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Safeguards Science and Technology",
             "number": "7335",
             "description": "(same as ECE 7335).  This course provides an overview of nuclear materials management and safeguards, including physical protection systems, material accounting and control, monitoring, and regulatory issues.",
-            "prerequisites": "NU_ENG 4303 or NU_ENG 7303",
+            "prerequisites": "NU_ENG 4303 or NU_ENG 7303",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 4303",
+                "NU_ENG 7303"
+            ]
         },
         {
             "name": "Nuclear Chemical Engineering",
@@ -352,15 +442,20 @@
             "description": "Principles and processes of importance in the field of nuclear technology.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Nuclear Reactor Engineering I",
             "number": "7346",
             "description": "(same as ECE 7030). Engineering principles of nuclear power systems, primarily for the production of electrical energy.",
-            "prerequisites": "ENGINR 1200, ENGINR 2300 or equivalent",
+            "prerequisites": "ENGINR 1200, ENGINR 2300 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1200",
+                "ENGINR 2300"
+            ]
         },
         {
             "name": "Nuclear Engineering Materials",
@@ -368,15 +463,19 @@
             "description": "Properties of materials for reactor components; radiation damage and corrosion; metallurgy of reactor materials.",
             "prerequisites": "upper division or graduate standing in Physical Sciences or Engineering, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Forensic Analysis",
             "number": "7350",
             "description": "Principles/applications of nuclear techniques in solution of bioenvironmental problems. Uses of nuclear methods in studies of water/air pollution, biology, medicine, pesticides, geochemistry, ecological transport. Lectures, laboratory.",
-            "prerequisites": "NU_ENG 7303, instructor's consent",
+            "prerequisites": "NU_ENG 7303, instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 7303"
+            ]
         },
         {
             "name": "Introduction to Fusion",
@@ -384,55 +483,78 @@
             "description": "Basic plasma physics, principles of thermonuclear fusion, plasma confinement and heating, and devices.",
             "prerequisites": "graduate standing in Engineering or Science or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Heat Transport",
             "number": "7357",
             "description": "Principles of heat transport in nuclear reactors. Brief review of the theory of flow coast down and convective heat transfer. Heat transfer loop experiments on flow coast down, steady state and transient forced convection heat transfer, boiling heat transfer.",
-            "prerequisites": "NU_ENG 4305, NU_ENG 4346 or instructor's consent",
+            "prerequisites": "NU_ENG 4305, NU_ENG 4346 or instructor's consent",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 4305",
+                "NU_ENG 4346"
+            ]
         },
         {
             "name": "Nuclear Power Engineering",
             "number": "7365",
             "description": "Nuclear reactor heat generation and removal; nuclear reactor coolants; analysis of nuclear reactor power plants.",
-            "prerequisites": "ENGINR 2300",
+            "prerequisites": "ENGINR 2300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2300"
+            ]
         },
         {
             "name": "Principles of Direct Energy Conversion",
             "number": "7369",
             "description": "Principles and utilization of thermoelectric, thermionic, photovoltaic, magnetohydrodynamic generators and fuel cells.",
-            "prerequisites": "ENGINR 2300, MAE 3400, or equivalent",
+            "prerequisites": "ENGINR 2300, MAE 3400, or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 2300",
+                "MAE 3400"
+            ]
         },
         {
             "name": "Introduction to Plasmas",
             "number": "7375",
             "description": "(same as ECE 7550; cross-leveled with NU_ENG 4375, ECE 4550). Equations of plasma physics, interaction of waves and plasmas; plasma sheaths and oscillations; measurements and applications.",
-            "prerequisites": "ECE 4930 or instructor's consent",
+            "prerequisites": "ECE 4930 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "ECE 4930"
+            ]
         },
         {
             "name": "Particulate Systems Engineering",
             "number": "7379",
             "description": "An introduction to natural and engineered particulate systems.",
-            "prerequisites": "CH_ENG 3234 or MAE 4300 or equivalent",
+            "prerequisites": "CH_ENG 3234 or MAE 4300 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CH_ENG 3234",
+                "MAE 4300"
+            ]
         },
         {
             "name": "Lasers and Their Applications",
             "number": "7382",
             "description": "(same as ECE 7570; cross-leveled with NU_ENG 4382, ECE 4570). An introductory course in lasers. The course treats the subject from both a conceptual viewpoint and from the application of Maxwell's equations, to develop the optical theory for lasers. The course includes approximately 10 class-room hours of laboratory work with lasers.",
-            "prerequisites": "PHYSCS 2760 and MATH 4100",
+            "prerequisites": "PHYSCS 2760 and MATH 4100",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100",
+                "PHYSCS 2760"
+            ]
         },
         {
             "name": "Nuclear Radiation Detection",
@@ -440,23 +562,32 @@
             "description": "Principles and application of radiation detectors and analyzers: ionization, Geiger-Muller, proportional, liquid and solid scintillation, semiconductor, pulse height analyzers, coincidence circuits, data reduction, tracer applications, activation analysis. Lectures, laboratory.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Radiation Shielding",
             "number": "7422",
             "description": "Fundamentals of radiation interactions stressing neutron and gamma radiation transport; ray theory, removal theory, multi-group transport shield design principles.",
-            "prerequisites": "NU_ENG 8409 or instructor's consent",
+            "prerequisites": "NU_ENG 8409 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8409"
+            ]
         },
         {
             "name": "Fast Reactor Analysis",
             "number": "7470",
             "description": "Analytical methods for designing fast breeder reactor systems. Graded on a S/U basis only.",
-            "prerequisites": "NU_ENG 8412, NU_ENG 8432, NU_ENG 8451 or instructor's consent",
+            "prerequisites": "NU_ENG 8412, NU_ENG 8432, NU_ENG 8451 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8412",
+                "NU_ENG 8432",
+                "NU_ENG 8451"
+            ]
         },
         {
             "name": "Advanced Topics in Nuclear Science and Engineering",
@@ -464,7 +595,8 @@
             "description": "Advanced developments in nuclear engineering.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Nuclear Science and Engineering",
@@ -472,7 +604,8 @@
             "description": "Supervised investigation in nuclear engineering to be presented in the form of a report.",
             "prerequisites": "None Listed",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Research in Nuclear Science and Engineering",
@@ -480,15 +613,20 @@
             "description": "Independent investigation in nuclear engineering to be presented as a thesis. Graded on an S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Fuel Cycle",
             "number": "8402",
             "description": "Covers the nuclear fuel cycle from mine through enrichment, fuel element burn-up reactor physics, chemical reprocessing, waste disposal, with special emphasis on the newer proliferation-resistant fuel cycles.",
-            "prerequisites": "NU_ENG 4346 or NU_ENG 4305 and instructor's consent",
+            "prerequisites": "NU_ENG 4346 or NU_ENG 4305 and instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 4346",
+                "NU_ENG 4305"
+            ]
         },
         {
             "name": "Applied Topics in Medical Physics and Health Physics",
@@ -496,39 +634,56 @@
             "description": "Directed observations and experience in scientific aspects of daily operations in nuclear medicine, diagnostic radiology, radiotherapy and health physics.",
             "prerequisites": "departmental consent",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Reactor Laboratory I",
             "number": "8404",
             "description": "Application of reactor physics principals to operation of and experiments with the University of Missouri Research Reactor. Neutron activation analysis, instrumentation, reactivity evaluation.",
-            "prerequisites": "NU_ENG 4346 or NU_ENG 8411",
+            "prerequisites": "NU_ENG 4346 or NU_ENG 8411",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 4346",
+                "NU_ENG 8411"
+            ]
         },
         {
             "name": "Nuclear Reactor Laboratory II",
             "number": "8405",
             "description": "Advanced experiments to measure diffusion length, Fermi age, material buckling, transfer function, neutron spectrum and other reactor characteristics. Reactor simulation with an analog computer.",
-            "prerequisites": "NU_ENG 8411 or instructor's consent",
+            "prerequisites": "NU_ENG 8411 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8411"
+            ]
         },
         {
             "name": "Clinical and Research Application in Medical and Health Physics",
             "number": "8406",
             "description": "To give students an understanding of the range of clinical practice and medical research involving the practice and nuclear physics/engineering.",
-            "prerequisites": "NU_ENG 8409 and NU_ENG 4303, college calculus or equivalent and calculus based physics",
+            "prerequisites": "NU_ENG 8409 and NU_ENG 4303, college calculus or equivalent and calculus based physics",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8409",
+                "NU_ENG 4303"
+            ]
         },
         {
             "name": "State Variable Methods in Automatic Control",
             "number": "8408",
             "description": "(same as CH_ENG 8780, ECE 8780, and MAE 8780). State variables for continuous and discrete-time dynamic control systems; controllability and observability; optimal control of linear systems.",
-            "prerequisites": "CH_ENG 4370, ECE 4310, MAE 4730 or instructor's consent",
+            "prerequisites": "CH_ENG 4370, ECE 4310, MAE 4730 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "CH_ENG 4370",
+                "ECE 4310",
+                "MAE 4730"
+            ]
         },
         {
             "name": "Interaction of Radiation with Matter",
@@ -536,7 +691,8 @@
             "description": "Theory/applications of radiation interaction processes. Reviews nuclear physics concepts; radioactive decay; sources/ spectra of ionizing radiation; collision mechanisms for changed particles, electromagnetic radiation, neutrons for interaction with matter.",
             "prerequisites": "Entrance requirements",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Reactor Theory I",
@@ -544,79 +700,110 @@
             "description": "Nuclear reactions; nuclear fission; introduces neutron transport; diffusion and slowing down of neutrons; steady-state homogeneous and heterogeneous reactor theory.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nuclear Reactor Theory II",
             "number": "8412",
             "description": "Linear and non-linear reactor kinetics; perturbation theory; temperature and fission product effects; control rod theory; transport theory.",
-            "prerequisites": "NU_ENG 8411 or NU_ENG 4346",
+            "prerequisites": "NU_ENG 8411 or NU_ENG 4346",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8411",
+                "NU_ENG 4346"
+            ]
         },
         {
             "name": "Advanced Radiation Detection Electronics",
             "number": "8421",
             "description": "Principles of radiation pulse analysis with emphasis on applications. Radiation detection devices; amplifying, shaping and discrimination circuits; nuclear pulse analysis; automated data analysis systems. Lectures and lab.",
-            "prerequisites": "NU_ENG 4346, NU_ENG 4391 or instructor's consent",
+            "prerequisites": "NU_ENG 4346, NU_ENG 4391 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 4346",
+                "NU_ENG 4391"
+            ]
         },
         {
             "name": "Radiation Shielding",
             "number": "8422",
             "description": "Fundamentals of radiation interactions stressing neutron and gamma radiation transport; ray theory, removal theory, multi-group transport shield design principles.",
-            "prerequisites": "NU_ENG 8409 or instructor's consent",
+            "prerequisites": "NU_ENG 8409 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8409"
+            ]
         },
         {
             "name": "Radiation Dosimetry",
             "number": "8429",
             "description": "Basis and applications of conventional and microscopic radiation dosimetry. Dose concepts and quantities; biological dose-response models; dose measurement principles; photon, charged particle, and neutron dosimetry.",
-            "prerequisites": "NU_ENG 8409",
+            "prerequisites": "NU_ENG 8409",
             "hours": "3",
-            "recommendation": "NU_ENG 4328"
+            "recommendation": "NU_ENG 4328",
+            "connections": [
+                "NU_ENG 8409"
+            ]
         },
         {
             "name": "Nuclear Thermal Hydraulics and Safety",
             "number": "8432",
             "description": "Engineering topics from reactor heat transfer and thermal stresses, fuel cycle analysis, power plant thermodynamics, shielding, and reactor safety analysis.",
-            "prerequisites": "NU_ENG 8411 or NU_ENG 4346, or instructor's consent",
+            "prerequisites": "NU_ENG 8411 or NU_ENG 4346, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8411",
+                "NU_ENG 4346"
+            ]
         },
         {
             "name": "Fracture Mechanics I",
             "number": "8434",
             "description": "(same as MAE 8220). Mechanics of flawed structure. Concepts include Griffith theory, Barenblatt's theory, Irwin analysis, energy analysis of cracked bodies, fracture toughness testing, plane strain, plane stress, transition temperature concepts, subcritical flaw growth.",
-            "prerequisites": "MAE 3200 or instructor's consent",
+            "prerequisites": "MAE 3200 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MAE 3200"
+            ]
         },
         {
             "name": "Physics of Diagnostic Radiology",
             "number": "8435",
             "description": "Principles and applications of X-ray production and interactions. Images production concepts including X-ray film, intensifying screens, grids, fluoroscopy, image intensification and television monitors. Image quality analysis and assessment.",
-            "prerequisites": "NU_ENG 8409 or equivalent or instructor's consent",
+            "prerequisites": "NU_ENG 8409 or equivalent or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8409"
+            ]
         },
         {
             "name": "Clinical Physics in Radiotherapy",
             "number": "8439",
             "description": "Principles and applications of radiation producing units, exposure and dose measurements, and calibration. External beam physics parameters and application to fixed field and rotational field treatment planning.",
-            "prerequisites": "NU_ENG 8409 or equivalent or instructor's consent",
+            "prerequisites": "NU_ENG 8409 or equivalent or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8409"
+            ]
         },
         {
             "name": "Fracture and Fatigue Prevention in Engineering Practice",
             "number": "8444",
             "description": "Practical design problems. Introduction to retrofit design, maintenance, product improvement and new design from a fatigue and fracture prevention philosophy. Fail safe and safe life designs are presented.",
-            "prerequisites": "NU_ENG 8434",
+            "prerequisites": "NU_ENG 8434",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8434"
+            ]
         },
         {
             "name": "Superconductivity and Its Applications",
@@ -624,39 +811,58 @@
             "description": "(same as ECE 8020). Phenomenology and theory of superconductivity; cryogenic practice; metallurgy of superconducting elements, alloys and compounds. Applications, present and prospective. Graded on an S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Computational Methods of Reactor Analysis",
             "number": "8451",
             "description": "Applies numerical analysis and digital computation to topics from multi-group diffusion theory, transport theory, reactor kinetics, reactor thermal hydraulics, radiation shielding, reactor safety.",
-            "prerequisites": "NU_ENG 8411 and MATH 4300",
+            "prerequisites": "NU_ENG 8411 and MATH 4300",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4300",
+                "NU_ENG 8411"
+            ]
         },
         {
             "name": "Ultrasound and Magnetic Resonance Imaging",
             "number": "8452",
             "description": "The physical principles of MRI and ultrasound including clinical instrumentation, artifacts in images, biological effects and quality control. Images obtained with both techniques will be presented.",
-            "prerequisites": "NU_ENG 4391, NU_ENG 8409, NU_ENG 4306 or equivalent",
+            "prerequisites": "NU_ENG 4391, NU_ENG 8409, NU_ENG 4306 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 4391",
+                "NU_ENG 8409",
+                "NU_ENG 4306"
+            ]
         },
         {
             "name": "Advanced Fusion Theory",
             "number": "8453",
             "description": "Plasma stability theory, charged particle diffusion, slowing down of charged particles, interaction of radiation with matter, direct energy conversion using charged particles, and engineering considerations.",
-            "prerequisites": "NU_ENG 4353 and NU_ENG 4375 or PHYSCS 8450 or instructor's consent",
+            "prerequisites": "NU_ENG 4353 and NU_ENG 4375 or PHYSCS 8450 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 4353",
+                "NU_ENG 4375",
+                "PHYSCS 8450"
+            ]
         },
         {
             "name": "Clinical Physics of Nuclear Medicine",
             "number": "8454",
             "description": "Physical principles, statistics of radionuclide decay and highlights into the most current instrumentation to utilize invivo radionuclides for both diagnostic imaging and therapy. Also includes brachy therapy.",
-            "prerequisites": "NU_ENG 4306, NU_ENG 8409 or equivalent",
+            "prerequisites": "NU_ENG 4306, NU_ENG 8409 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 4306",
+                "NU_ENG 8409"
+            ]
         },
         {
             "name": "Growth, Characterization and Appl. of Diamond and Related Materials",
@@ -664,31 +870,46 @@
             "description": "This course explores the development of diamond films. Discussion of other wide band-gap materials are covered. Topics include Chemistry of Diamond Growth, Thermodynamics, Nucleation, Methods of Growth, Methods of Impurity Control, Characterization and Modification, Doping, and Applications.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Neutron Transport Theory",
             "number": "8461",
             "description": "The Boltzmann equation; general properties and solution; numerical methods of solving the transport equation; neutron thermalization and neutron spectra.",
-            "prerequisites": "NU_ENG 8412; MATH 4940, MATH 4300, or instructor's consent",
+            "prerequisites": "NU_ENG 8412; MATH 4940, MATH 4300, or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4940",
+                "MATH 4300",
+                "NU_ENG 8412"
+            ]
         },
         {
             "name": "Fast Reactor Analysis",
             "number": "8470",
             "description": "Analytical methods for designing fast breeder reactor systems. Graded on a S/U basis only.",
-            "prerequisites": "NU_ENG 8412, NU_ENG 8432, NU_ENG 8451 or instructor's consent",
+            "prerequisites": "NU_ENG 8412, NU_ENG 8432, NU_ENG 8451 or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 8412",
+                "NU_ENG 8432",
+                "NU_ENG 8451"
+            ]
         },
         {
             "name": "Radiation Protection",
             "number": "8471",
             "description": "Theory and applications of radiation protection and health physics. Radiation dosimetry methods and calculations, shielding evaluations, equipment surveys and inspection, environmental monitoring, radiation standards and regulations and administration presented.",
-            "prerequisites": "NU_ENG 4303 and NU_ENG 4328",
+            "prerequisites": "NU_ENG 4303 and NU_ENG 4328",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NU_ENG 4303",
+                "NU_ENG 4328"
+            ]
         },
         {
             "name": "Research in Nuclear Science and Engineering",
@@ -696,7 +917,8 @@
             "description": "Independent investigation in nuclear engineering to be presented as a thesis. Graded on an S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

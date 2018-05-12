@@ -8,7 +8,8 @@
             "description": "(same as BIO_SC 4328, NU_ENG 4328, V_M_S 7328). Concepts of ionizing radiations, their actions on matter through effects on simple chemical systems, biological molecules, cell, organisms, man.",
             "prerequisites": "junior standing Sciences/Engineering; one course in Biological Sciences and Physics/Chemistry; or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Radiology Mechanism of Disease",
@@ -16,7 +17,8 @@
             "description": "ABS Radiology Mechanism of Disease",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Radiology Research",
@@ -24,7 +26,8 @@
             "description": "ABS Radiology Research",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Radiology Research and Review",
@@ -32,7 +35,8 @@
             "description": "ABS Radiology Research and Review",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Radiology",
@@ -40,7 +44,8 @@
             "description": "Goals/Objectives:  General survey of all subspecialties of radiology.    Evaluations:  Written evaluations performed by both faculty and residents.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Radiology",
@@ -48,7 +53,8 @@
             "description": "Advanced Radiology",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Radiology - Rural",
@@ -56,7 +62,8 @@
             "description": "Radiology - Rural",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Radiology",
@@ -64,7 +71,8 @@
             "description": "This two week elective will provide students with exposure to chest and body imaging (1 week per area). They will participate in 2-3 didactic sessions focused on the basics of radiology and imaging that is important to all fields of medicine, as well as video lectures one day a week along with the upperclassmen that are doing their 4 week elective at that time. Videos present a case based learning plan involving common emergent situations that may be encountered during their clinical training.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introductory Radiation Biology",
@@ -72,7 +80,8 @@
             "description": "(same as BIO_SC 7328, NU_ENG 7328, V_M_S 7328). Concepts of ionizing radiations, their actions on matter through effects on simple chemical systems, biological molecules, cell, organisms, man.",
             "prerequisites": "Sciences/Engineering; one course in Biological Sciences and Physics/Chemistry; or instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Radiology",
@@ -80,7 +89,8 @@
             "description": "Supervised investigation in an aspect of radiological science usually culminating in a written report.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Radiology",
@@ -88,7 +98,8 @@
             "description": "Supervised investigation in an aspect of radiological science usually culminating in a written report.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

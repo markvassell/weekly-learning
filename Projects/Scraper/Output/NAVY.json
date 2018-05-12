@@ -8,7 +8,8 @@
             "description": "This course serves as an introduction to the organization of the Naval Service, the varied career opportunities available, the long held customs and traditions of the service, and the duties of a Junior Officer.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seapower and Maritime Affairs",
@@ -16,7 +17,8 @@
             "description": "Seminars examine the application of seapower as an instrument of foreign policy by the major nations of the world. Emphasis placed on role of the Navy.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Naval Ship Systems I",
@@ -24,7 +26,8 @@
             "description": "Ship construction, stability and damage control, basic thermodynamics, the steam cycle and engineering plant, including introduction to gas turbine, diesel and nuclear powered systems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Evolution of Warfare",
@@ -32,7 +35,8 @@
             "description": "Evolution of strategy, tactics, weapons and leadership from earliest beginning through the Vietnam period. Development of military policy, the impact of warfare on the political, social and economic structure of nations.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Naval Ship Systems II",
@@ -40,7 +44,8 @@
             "description": "Naval weapons systems, their employment and control, including the basic fire control problem, with emphasis on new systems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Marine Navigation",
@@ -48,7 +53,8 @@
             "description": "Theoretical and practical application of the principles of marine navigation. Includes fundamentals of dead reckoning, piloting, tides and current, celestial navigation, electronic navigation.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Amphibious Warfare",
@@ -56,7 +62,8 @@
             "description": "History and development of amphibious warfare, principles of amphibious warfare techniques; their application in selected examples from modern.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Leadership and Management",
@@ -64,15 +71,19 @@
             "description": "This course will provide a basic understanding of the interrelationship between authority, responsibility and accountability within a task oriented organization. Students will learn to apply leadership and management skills to prioritize competing demands and to attain mission objectives; the importance of planning and follow-up; and develop a basic understanding of communication and counseling as it pertains to personnel management.",
             "prerequisites": "sophomore standing or by consent of Professor of Naval Science",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Naval Operations",
             "number": "3220",
             "description": "Principles and concepts of naval operations: rules of the road, command and control in naval operations, communications, ASW warfare, international maritime law, and practical solution of relative motion problems.",
-            "prerequisites": "NAVY 3120",
+            "prerequisites": "NAVY 3120",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NAVY 3120"
+            ]
         },
         {
             "name": "Leadership and Ethics",
@@ -80,7 +91,8 @@
             "description": "(same as PEA_ST 4940).  The curriculum provides a foundation in leadership, ethical decision making, the Law of Armed Conflict and the military justice system.  Course explores ethical theories and helps students to build an ethical framework for decision making.  Topic areas include: Kant, Utilitarianism, Stoicism, Constitutional Paradigm, Uniform Code of Military Justice and Law of Armed Conflict.  Designed as a capstone course for juniors and seniors enrolled in NROTC it is open to all MU students.",
             "prerequisites": "junior standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Leadership and Ethics - Writing Intensive",
@@ -88,7 +100,8 @@
             "description": "(same as PEA_ST 4940).  The curriculum provides a foundation in leadership, ethical decision making, the Law of Armed Conflict and the military justice system.  Course explores ethical theories and helps students to build an ethical framework for decision making.  Topic areas include: Kant, Utilitarianism, Stoicism, Constitutional Paradigm, Uniform Code of Military Justice and Law of Armed Conflict.  Designed as a capstone course for juniors and seniors enrolled in NROTC it is open to all MU students.",
             "prerequisites": "junior standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

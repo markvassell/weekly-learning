@@ -8,7 +8,8 @@
             "description": "Students see patients with neurological disorders in the outpatient clinics, in hospital settings, and on consultation services.",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Rural Neurology Clerkship",
@@ -16,7 +17,8 @@
             "description": "Rural Neurology Clerkship",
             "prerequisites": "None Listed",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Springfield Neurology Clerkship",
@@ -24,15 +26,19 @@
             "description": "Students see patients with neurological disorders in the outpatient clinics, in hospital settings, and on consultation services.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Remediation Neurology Clerkship",
             "number": "6103",
             "description": "Enrolled students are those who received an unsatisfactory grade in a Child Health Clerkship at any Mizzou Med location or site. This course gives the student an opportunity to rectify their deficiency.",
-            "prerequisites": "NEUROL 6003 Neurology Clerkship, received unsatisfactory grade",
+            "prerequisites": "NEUROL 6003 Neurology Clerkship, received unsatisfactory grade",
             "hours": "4",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NEUROL 6003"
+            ]
         },
         {
             "name": "ABS Neurology Mech of Disease",
@@ -40,7 +46,8 @@
             "description": "ABS Neurology Mech of Disease",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Neurology Research",
@@ -48,7 +55,8 @@
             "description": "ABS Neurology Research",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Neurology Research and Review",
@@ -56,7 +64,8 @@
             "description": "ABS Neurology Research and Review",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Adult Neurology - Rural",
@@ -64,15 +73,19 @@
             "description": "Adult Neurology - Rural",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Neurology - Rural",
             "number": "6756",
             "description": "Rural Neurology general elective.",
-            "prerequisites": "NEUROL 6003.  Restricted to fourth year medical students",
+            "prerequisites": "NEUROL 6003.  Restricted to fourth year medical students",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "NEUROL 6003"
+            ]
         },
         {
             "name": "PEDIATRIC NEUROLOGY",
@@ -80,7 +93,8 @@
             "description": "Pediatric Neurology",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Neurology",
@@ -88,7 +102,8 @@
             "description": "Neurology",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Neurology",
@@ -96,7 +111,8 @@
             "description": "Advanced Neurology",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Epilepsy and Clinical Neurophysiology",
@@ -104,7 +120,8 @@
             "description": "The medical student will work as part of the ambulatory and inpatient epilepsy team. One week will be spent in the outpatient unit and one inpatient. The inpatient rotation will consist of rounding on epilepsy patients and being an integral part of patient care. A significant portion of the inpatient week will be spent in the Epilepsy Monitoring Unit. During the outpatient rotation, the student will rotate with one of two epileptologists and participate in their care.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Neurology Outpatient Experience",
@@ -112,7 +129,8 @@
             "description": "The student will work as part of the ambulatory neurology team. During the outpatient rotation, the student will have an opportunity to participate in the care of patients with physicians specializing in the following: Epilepsy, Movement Disorders, Neuromuscular Disorders, Dementia and Behavioral Neurology, Multiple Sclerosis, Sleep Disorders, and Vascular Neurology.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Neurology/Stroke Inpatient Experience",
@@ -120,7 +138,8 @@
             "description": "The student will work as part of the inpatient neurology team. During the rotation, the student will have an opportunity to participate in the care of patients on the general and stroke inpatient services. Students may elect to spend one week on each service or both weeks on either. Opportunities may be available to students in the following areas: Intensive/Critical Care Unit and Neuro-Interventional procedures.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Neuromuscular Disorders",
@@ -128,7 +147,8 @@
             "description": "One week will be spent in the outpatient unit and one inpatient. The inpatient experience will consist of rounding on neuromuscular patients and being an integral part of patient care. A significant portion of the experience will be spent in Electromyography (EMG). During the outpatient experience, the student will rotate with one of three neuromuscular specialists and participate in patient care, and participate in MDA clinic.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

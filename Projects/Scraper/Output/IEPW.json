@@ -8,7 +8,8 @@
             "description": "(same as IEPG_0001: Grammar with Writing 1).  Students will learn to recognize and use basic grammatical structures. Students will use these structures to produce basic sentences and short paragraphs on topics from daily life.  Not open to native speakers of English. No college credit.",
             "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Writing II",
@@ -16,7 +17,8 @@
             "description": "Students will develop their writing skills with a focus on paragraphs and attention to sentence structure and English mechanics.  Not open to native speakers of English. No college credit.",
             "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Writing for Academic Purposes III",
@@ -24,7 +26,8 @@
             "description": "Students will improve their paragraph-writing skills and develop the writing skills required to produce short essays.  Not open to native speakers of English. No college credit.",
             "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Writing for Academic Purposes IV",
@@ -32,15 +35,19 @@
             "description": "Students will develop the writing and critical thinking skills required to produce academic essays.  Not open to native speakers of English. No college credit.",
             "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Writing for Academic Purposes V",
             "number": "0050",
             "description": "Using university-level texts, students will build the writing skills required to produce well-developed academic papers and become more proficient at writing for different audiences in a variety of formal and informal contexts.  Not open to native speakers of English. No college credit.",
-            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required; concurrent enrollment in IEPR _0050 Reading for Academic Purposes required",
+            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required; concurrent enrollment in IEPR _0050 Reading for Academic Purposes required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "IEPR _005"
+            ]
         }
     ]
 }

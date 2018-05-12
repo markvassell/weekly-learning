@@ -8,7 +8,8 @@
             "description": "Students spend eight weeks on the medicine inpatient service at University Hospital and Harry S. Truman Veterans Hospital where they learn to care for adult patients with acute and chronic illnesses. Teaching emphasizes the principles of differential diagnosis and problem solving as well as the integration of basic science information into the art of patient care. Students also gain clinical experience in medical interviewing and physical examination.",
             "prerequisites": "None Listed",
             "hours": "8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Rural Medicine Clerkship",
@@ -16,7 +17,8 @@
             "description": "Rural Medicine Clerkship",
             "prerequisites": "None Listed",
             "hours": "8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Springfield Medicine Clerkship",
@@ -24,23 +26,33 @@
             "description": "Students learn to care for adult patients with acute and chronic illnesses. Teaching emphasizes the principles of differential diagnosis and problem solving as well as the integration of basic science information into the art of patient care. Students also gain clinical experience in medical interviewing and physical examination.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "SCC Medical Intensive Care",
             "number": "6035",
             "description": "Internists and medical sub-specialists frequently encounter patients with critical conditions that require unique skills. During this rotation medicine students will: 1. Provide assessment, management and follow-up of critically ill patients under the supervision of the medical critical care attending. 2. Be intimately involved in this multidisciplinary approach to patient care. 3. Work collaborative with medical attending physicians, nurses, pharmacists, respiratory therapists and nutritional support staff. 4. Work in a coordinated fashion with consulting physicians and services, social services, physical therapy workers, and the radiology, pathology laboratory departments and chaplain services.",
-            "prerequisites": "Successful completion of IN_MED 6002 or IN_MED 6012 or IN_MED 6022 or IN_MED 6102",
+            "prerequisites": "Successful completion of IN_MED 6002 or IN_MED 6012 or IN_MED 6022 or IN_MED 6102",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "IN_MED 6002",
+                "IN_MED 6012",
+                "IN_MED 6022",
+                "IN_MED 6102"
+            ]
         },
         {
             "name": "Remediation Medicine Clerkship",
             "number": "6102",
             "description": "Enrolled students are those who received an unsatisfactory grade in a Medicine Clerkship at any Mizzou Med location or site. This course allows them the opportunity to rectify a deficiency.",
-            "prerequisites": "IN_MED 6002 Medicine Clerkship, received unsatisfactory grade",
+            "prerequisites": "IN_MED 6002 Medicine Clerkship, received unsatisfactory grade",
             "hours": "8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "IN_MED 6002"
+            ]
         },
         {
             "name": "ABS Medicine Investigation",
@@ -48,7 +60,8 @@
             "description": "ABS Medicine Investigation",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Internal Medicine Research",
@@ -56,7 +69,8 @@
             "description": "ABS Internal Medicine Research",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS IN MED RSCH/REVIEW",
@@ -64,7 +78,8 @@
             "description": "ABS in Medicine Research Review",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Quality Improvement and Patient Safety",
@@ -72,7 +87,8 @@
             "description": "ABS Quality Improvement and Patient Safety",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Internal Medicine Research and Review",
@@ -80,7 +96,8 @@
             "description": "ABS Internal Medicine Research and Review",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Dermatology I",
@@ -88,7 +105,8 @@
             "description": "The Dermatology rotation is designed to provide the medical student with a broad general base in clinical dermatology for the non-dermatologist. During the rotation the student should:   Enhance the visual diagnostic skills and related reasoning used in dermatology;  Become familiar with a select list of dermatologic conditions commonly seen and best treated by the non-dermatologist; Gain familiarity with certain dermatologic conditions which require a high index of suspicion by all physicians because of their danger to life or risks to public health; Become familiar with dermatologic treatment regimens for the non-dermatologist and guidelines for appropriate referral of cases; Learn appropriate use of both systemic and topical dermatologic medications; Learn basic punch, shave, and excisional biopsy techniques; Become proficient in skin surveillance, especially early detection of skin cancer.  Students are evaluated using a standard evaluation. The student's knowledge of subject matter is evaluated in the following settings:  informal discussion during clinics, ward rounds, inpatient consultation rounds and scheduled conferences.   A slide (Kodachrome) practical and written examination at the end of the block will be administered at UMC on the last day of the block. Material covered is from the student slide set given in CD format, the AAD Core Curriculum website (www.aad.org/education/titlepage.htm), weekly student lectures, and Unknowns Conference.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cardiology Consultation Service",
@@ -96,7 +114,8 @@
             "description": "On the inpatient cardiology consultation block, the senior student gains experience in cardiology consultation at either the University Hospital or the Harry S Truman VA Hospital. Through active participation in the consult service the student is provided the opportunity to acquire knowledge of cardiovascular anatomy, physiology, cardiovascular pharmacology, prevention of cardiovascular disease, risk factors for cardiac disease, lipid disorders, chronic coronary artery disease management and its complications, cardiac arrhythmias and conduction abnormalities, hypertension, valvular heart disease, cardiomyopathy, pericardial disease, pulmonary heart disease, peripheral vascular disease, cerebral vascular disease, adult congenital heart disease, and pre- and post-operative assessment of patients with or without cardiac problems.  Students will be evaluated using the standard department student elective evaluation form submitted to the Internal Medicine Education Office. Each faculty working with the student will have the opportunity to contribute to the final grade. The final evaluation will be based on student performance on the cardiology consultation service and active participation in the cardiology conferences. Students' skills in performing a history and physical exam, the quality of their presentation, the quality of their knowledge base, the quality of their interactions will constitute the basis of grade assignment.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Endocrinology/Metabolism",
@@ -104,7 +123,8 @@
             "description": "The Endocrinology rotation is designed to enable the student to deal with clinical problems in Diabetes endocrinology and metabolism with particular emphasis on the more common problems in an ambulatory setting. During the rotation the student will have the opportunity to see patients with a wide range of endocrine disorders. These patients will be used as the focus for teaching with the emphasis placed on differential diagnosis, pathophysiology, management, and how the disorder affects the patient as a whole. By the end of the rotation the student should be able to evaluate and manage (with supervision) patients with:   1. Diabetes Mellitus   2. Hypoglycemia   3. Thyroid disorders including goiters, thyroid nodules, hyperthyroidism and hypothyroidism  4. Adrenal disorders including adrenal incidentalomas, Cushing and Hyperaldesteronism  5. Pituitary problems including hypopituitarism, conditions due to pituitary hormone excess that including Cushing's disease, acromegaly and prolactinoma.  6. Calcium abnormalities including hyperparathyroidism, hypoparathyroidism, hypercalcemia, hypocalcaemia and osteoporosis.   7. Polycystic ovarian syndrome.  Evaluations:  The course grade will be based on students' skill in performing a history and physical exam, the quality of the presentation, the quality of their knowledge base and the quality of their interactions.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "General Internal Medicine Outpatient",
@@ -112,7 +132,8 @@
             "description": "General Internal Medicine Outpatient",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Internal Medicine Off-Site Elective",
@@ -120,7 +141,8 @@
             "description": "Internal Medicine Off-Site Elective",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Quality Improvement and Patient Safety",
@@ -128,7 +150,8 @@
             "description": "Quality Improvement and Patient Safety",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Infectious Diseases",
@@ -136,7 +159,8 @@
             "description": "The goals of the Infectious Diseases elective will be to:   1.  Teach the student how to be an effective consultant.  2.  Assist the student in his/her knowledge of disease processes.  3.  Help the student improve his/her history taking and physical examination skills.  4.  Enhance the student's knowledge regarding the use of antimicrobial agents.  5.  Improve the student's understanding of the diagnosis and management of commonly-encountered infectious diseases with attention to the use of the history and readily available laboratory tests..",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in Medical Ethics",
@@ -144,7 +168,8 @@
             "description": "Problems in Medical Ethics",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Geriatrics-Internal Medicine Elective",
@@ -152,7 +177,8 @@
             "description": "Geriatrics-Internal Medicine Elective",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "General Medicine - Offsite",
@@ -160,7 +186,8 @@
             "description": "This course was established to accommodate fourth year medical students who wish to take an elective at another medical institution. There is no specific maximum number of students who will be permitted to enroll in this course.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cardiology Consultation Services - Rural",
@@ -168,7 +195,8 @@
             "description": "Cardiology Consultation Services - Rural",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Immunology/Rheumunology - Rural",
@@ -176,7 +204,8 @@
             "description": "Immunology/Rheumunology - Rural",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "General Internal Medicine Outpatient - Rural",
@@ -184,23 +213,30 @@
             "description": "General Internal Medicine Outpatient - Rural",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Pulmonary Medicine - Rural",
             "number": "6705",
             "description": "Rural Pulmonary Medicine general elective.",
-            "prerequisites": "IN_MED 6002.  Restricted to fourth year medical student",
+            "prerequisites": "IN_MED 6002.  Restricted to fourth year medical student",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "IN_MED 6002"
+            ]
         },
         {
             "name": "General Internal Medicine Outpatient - Rural",
             "number": "6707",
             "description": "The 4th year medical student will work with an IM community-based faculty member at a rural training site. Students will see patients in clinic, perform the history and physical examination, and develop an assessment and plan for these patients on their own. They will then discuss with the community-based faculty member and see the patient together. The 4th year student will complete oral presentations and document encounters as directed by the community-based faculty member.  Course may be repeated for credit.",
-            "prerequisites": "IN_MED 6002, 4th year medical student",
+            "prerequisites": "IN_MED 6002, 4th year medical student",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "IN_MED 6002"
+            ]
         },
         {
             "name": "DERMATOLOGY 1-RURAL",
@@ -208,7 +244,8 @@
             "description": "Dermatology 1 - Rural",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Coronary Care Unit",
@@ -216,7 +253,8 @@
             "description": "During the Coronary Intensive Care Unit rotation, the medical student is provided the opportunity to acquire knowledge in the evaluation and management of acute and chronic coronary artery disease, life threatening cardiac arrhythmia's, acute severe congestive heart failure, acute valvular disease, acute infective endocarditis, hypertensive emergencies, cardiac tamponade, aortic dissection, aortic pulmonary embolism, life threatening complications of cardiac therapy, hypotension, and shock. The Coronary Intensive Care rotation allows the student to evaluate and treat these patients in close conjunction with medical residents, cardiology fellows and cardiology faculty.  Students will be evaluated using the standard Department student elective evaluation form submitted to the Internal Medicine Education Office. Each faculty working with the student will have the opportunity to contribute to the final grade. The final evaluation will be based on student performance on the cardiology consultation service and active participation in the cardiology conferences. Students' skills in performing a history and physical exam, the quality of their presentation, the quality of their knowledge base, the quality of their interactions will constitute the basis of grade assignment.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Diabetes Mellitus Externship",
@@ -224,7 +262,8 @@
             "description": "Diabetes Mellitus Externship",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Gastroenterology",
@@ -232,7 +271,8 @@
             "description": "Medical students will be assigned to the inpatient GI consultation service, where they will see and evaluate patients, read about their problems, and present them to the GI fellow and/or teaching attending. They should attend all endoscopic procedures on the patients they follow on the inpatient service. They should also attend a sampling of outpatient procedures each week in the Endoscopy Center. As time permits, they may be assigned to one or more GI clinics during the rotation as well. Medical students will be expected to attend all GI conferences during the rotation. Students are also encouraged to attend Internal Medicine Grand Rounds and Internal Medicine Morning Report. They may also be assigned to give one formal presentation during their rotation. It is recommended that they read the entire GI-Liver section of the Internal Medicine textbook that they used on their third-year Internal Medicine Clerkship. Ongoing feedback is provided to the student during the rotation. At the end of the rotation, a formal written evaluation will be prepared by the inpatient attending, in conjunction with the GI fellow with whom the resident/medical student worked with. Conference participation is factored in.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Subinternship in Internal Medicine",
@@ -240,7 +280,8 @@
             "description": "The internal medicine subinternship builds on the skills begun during the internal medicine clerkship and prepares the student for the internship year.   1.  Students will refine and further develop skills in: a.  Physical exam, history taking, chart review, and written notes; b.  Problem list development and management plan; data interpretation and synthesis; c.  Oral presentation; d.  Interpersonal relations with patients, families, staff and peers ; e.  Time management      i.   Self-directed learning      ii.  Evidence-based medicine   2.  Expand knowledge base in general internal medicine   3.  Assume primary responsibility for inpatient care   4.  Further develop in the role of primary care giver  Patient management skills, medical record keeping, presentation skills, knowledge base, and ability to handle responsibility will be carefully observed by both the senior ward resident and the attending physician. Students will receive constructive feed-back/suggestions for improvement throughout the rotation from both the attending and the senior ward resident. The attending, with input from the senior ward resident and the third year students, will report the final scores using the Department of Internal Medicine standard electives evaluation form. Students will meet with the attending physician at the end of the block to discuss their performance. Students will not receive elective credit for three weeks rotations.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Geriatrics - Internal Medicine @ VA",
@@ -248,7 +289,8 @@
             "description": "Geriatrics - Internal Medicine @ VA",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Hematology and Medical Oncology Chronic Care",
@@ -256,7 +298,8 @@
             "description": "The specific objective of the course is to assist the student in developing a greater understanding for the care of chronically ill patients with hematologic and neoplastic diseases. The student's evaluation is based predominantly on his/her performance in presentation and in written chart notes of patients under the student's care. This evaluation will be by the attending physician with whom the student has worked. The standard department student elective evaluation form will be used to document student performance.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Immunology/Rheumatology",
@@ -264,7 +307,8 @@
             "description": "The overall curricular objectives of this elective include:  1.  Basic Information.  The student should be able to:  a.  Perform a medical history and screening physical examination with attention to symptoms and signs of rheumatic disease.\\Understand the basic pathophysiology and clinical diagnosis of common arthritic and musculoskeletal diseases in adults.   b.  Understand the natural history of rheumatic diseases, particularly rheumatoid arthritis, soft tissue rheumatism, degenerative joint disease, systemic lupus erythematosus and spondyloarthropathies.   c.  Understand the short and long term management of rheumatic conditions and apply these principles together with overall clinical judgment in the management of individual patients. These therapeutic measures include:   1.  drug therapy,  2.  physical rehabilitative measures, and  3.  surgical intervention.   d.  Learn the uses and pitfalls of laboratory tests in practice.   e.  Formulate ways to approach the emotional problems of patients with chronic disease.   f.  Understand the value of the comprehensive approach in arthritis treatment including patient education, the role of the allied health professional and community resources.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Medical Intensive Care",
@@ -272,7 +316,8 @@
             "description": "Under the supervision of the medical critical care attending, the medical students are part of a team providing assessment, management, and follow-up of critically ill patients. Students will be intimately involved in this multidisciplinary approach to patient care. As a member of the ICU patient management team, the student will work collaboratively with residents, fellows, medical attendings, nurses, pharmacists, respiratory therapists and the nutritional support staff. The team will work in a coordinated fashion with consulting physicians and services, social services, physical therapy workers, and the radiology and pathology laboratory departments, and chaplain services.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nephrology Advanced Elective",
@@ -280,7 +325,8 @@
             "description": "This elective builds on the knowledge and skills students have acquired in the third year course in Internal Medicine. Students will have the opportunity to perform histories and physicals, participate in the decision-making process of patient management, and be responsible for daily follow-up in patients with fluid and electrolyte problems, acid-base disturbances, acute and chronic renal failure and a variety of renal diseases. The focus in these areas will be at a much higher level of responsibility and management than in the third-year course.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Pulmonary Medicine Diagnostic Services",
@@ -288,7 +334,8 @@
             "description": "The Pulmonary Medicine Service is designed to allow students to participate in the diagnosis and care of hospitalized patients with an acute pulmonary problem as well as continuity follow up of existing known disease processes.   This service evaluates and assists in management of adult patients at the University or VA Medical Centers. Either rotation includes intensive care unit patients with primary surgical or cardiac diagnoses, the rotation at the VA Medical Center also includes intensive care unit patients with primary medical diagnoses. The rotation will introduce the student to major clinical entities including the diagnosis and management of infectious lung disorders, neoplasms of the lungs, chronic obstructive pulmonary disease, asthma, acute respiratory failure, occupational pulmonary disease and interstitial lung disorders. The student will be introduced to the variety of diagnostic tests including radiographic studies, fiberoptic bronchoscopy, pulmonary function testing, cardiopulmonary exercise testing, surgical lung biopsy, thoracentesis and pleural biopsy, and arterial blood sampling. Students also participate in consultation on patients requiring outpatient pulmonary clinic evaluation. Each student is encouraged to spend extra time in the pulmonary function lab, and have pulmonary function tests and cardiopulmonary exercise tests done on themselves, depending on available time.   Each student rotating through the pulmonary service will be expected to evaluate and present patients fully on a daily basis to the pulmonary consult team, including the attending physician. The student will have an opportunity to assist fellows and faculty with procedures such as bronchoscopy and thoracentesis. Students will have the opportunity to interpret pulmonary function tests, chest radiographs and other radiographic studies such as computed tomography and nuclear medicine studies of the thorax.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "General Medicine - Offsite",
@@ -296,7 +343,8 @@
             "description": "This course was established to accommodate fourth year medical students who wish to take an elective at another medical institution. There is no specific maximum number of students who will be permitted to enroll in this course.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Internal Medicine Off-Site Selective",
@@ -304,7 +352,8 @@
             "description": "Internal Medicine Off-Site Selective",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "DERMATOLOGY 2",
@@ -312,7 +361,8 @@
             "description": "DERMATOLOGY 2",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Cardiology Procedure Service",
@@ -320,7 +370,8 @@
             "description": "The Cardiology Procedure Service is designed to allow students to participate in the cardiology procedures involved in the diagnosis and care of hospitalized patients with an acute cardiac problem as well as continuity follow up of existing known disease processes. Sterile technique will be taught by the attending and students will demonstrate competence with sterile technique.",
             "prerequisites": "Successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Pulmonary Medicine Procedure Service",
@@ -328,7 +379,8 @@
             "description": "The Pulmonary Medicine Procedure Service is designed to allow students to participate in the pulmonary procedures involved in the diagnosis and care of hospitalized patients with an acute pulmonary problem as well as continuity follow up of existing known disease processes. Sterile technique will be taught by the attending and students will demonstrate competence with sterile technique.",
             "prerequisites": "Successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Adult Diabetes and Endocrinology",
@@ -336,7 +388,8 @@
             "description": "During the elective rotation, students will participate in clinical activities of the division-inpatient and outpatient. The Diabetes and Endocrine Service has a strong ambulatory curriculum with daily outpatient clinics held at the Cosmopolitan International Diabetes and Endocrinology Center. These clinics provide the student with the opportunity to evaluate patients with a wide variety of endocrine disorders. These patients will be used as the focus for teaching with the emphasis placed on differential diagnosis, pathophysiology, management, and how the disorder affects the patient as a whole. If interested, students can get involved in inpatient consultations in conjunction with the fellow on call and inpatient nurse practitioner. The student will participate in Tuesday afternoon endocrine conferences that include case conferences, basic science conferences, Journal clubs, Endocrine lectures, research conferences and Endocrine board review sessions. Endocrine board review sessions will be optional for the students. In addition to this they will also participate in diabetes patient education session/sessions.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "Completion of Medicine Clerkship"
+            "recommendation": "Completion of Medicine Clerkship",
+            "connections": "None Listed"
         }
     ]
 }

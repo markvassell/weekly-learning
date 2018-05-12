@@ -8,7 +8,8 @@
             "description": "Internship limited to students pursuing the AB in International Studies Degree. May be repeated to a maximum of six hours. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Capstone Readings in International Studies",
@@ -16,7 +17,8 @@
             "description": "Independent readings with supervisory faculty member. Open only to international studies majors. May be repeated up to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Pre-Departure Seminar for the TaLK Program",
@@ -24,7 +26,8 @@
             "description": "Prior to beginning the TaLK Program in Korea, students will explore Korean language, culture and educational system through seminars and workshops provided by the Asian Affairs Staff and guest speakers. Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Internship in International Studies",
@@ -32,7 +35,8 @@
             "description": "Internship limited to students pursuing the AB in International Studies degree.  May be repeated to a maximum of six hours.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Readings in International Studies",
@@ -40,7 +44,8 @@
             "description": "Independent readings with supervisory faculty member. Open only to International Studies majors. May be repeated up to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Readings in International Studies",
@@ -48,7 +53,8 @@
             "description": "Independent readings with supervisory faculty member; this course serves as the students' capstone experience.  Open only to International studies majors.",
             "prerequisites": "None Listed",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Capstone Internship in International Studies",
@@ -56,7 +62,8 @@
             "description": "Internship experience which serves as the student's capstone experience.  Program advisor must approve internships.  Section 2 of this course will be designated for Service Learning Capstone experience.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

@@ -8,7 +8,8 @@
             "description": "(same as LINGST 4130; cross-leveled with CLASS 7100, LINGST 7130). Evolution of classical languages and their relationship to each other.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "GREEK 4300 and LATIN 4300"
+            "recommendation": "GREEK 4300 and LATIN 4300",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Classical Studies",
@@ -16,7 +17,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.  Departmental consent for repetition.",
             "prerequisites": "None Listed",
             "hours": "1-99Recommended: GREEK 2000 and LATIN 2000",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Text Criticism and Paleography",
@@ -24,7 +26,8 @@
             "description": "(cross-leveled with CLASS 7300). Latin and/or Greek textual criticism and paleography, using manuscript facsimiles at the University library.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "GREEK 2000 and LATIN 2000"
+            "recommendation": "GREEK 2000 and LATIN 2000",
+            "connections": "None Listed"
         },
         {
             "name": "Ancient Pastoral",
@@ -32,7 +35,8 @@
             "description": "(cross-leveled with CLASS 7400). Reading and interpretation of pastoral poetry and prose in Greek and Latin; emphasis on Theocritus, Virgil, and Longus.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "GREEK 4300 and LATIN 4300"
+            "recommendation": "GREEK 4300 and LATIN 4300",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Study in the Teaching of the Classics",
@@ -40,7 +44,8 @@
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Readings in Classical Studies",
@@ -48,7 +53,8 @@
             "description": "Readings in authors and texts not covered in other courses.",
             "prerequisites": "departmental consent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Capstone in Classical Languages",
@@ -56,7 +62,8 @@
             "description": "Culminating course in the study of Greek and Roman literature and Classical culture.  Required for Greek, Latin, and Classical Languages majors in first term of senior year.",
             "prerequisites": "Instructor consent",
             "hours": "3",
-            "recommendation": "for double-majors"
+            "recommendation": "for double-majors",
+            "connections": "None Listed"
         },
         {
             "name": "Capstone in Classical Languages",
@@ -64,7 +71,8 @@
             "description": "Culminating course in the study of Greek and Roman literature and Classical culture.  Required for Greek, Latin, and Classical Languages majors in first term of senior year.  Recommended for double-majors.",
             "prerequisites": "instructor's consent.  Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Honors Proseminar in Classical Studies",
@@ -72,7 +80,8 @@
             "description": "Limited to Honors undergraduates. To be taken in senior year. Integrated exploration of classical civilization. May repeat to 6 hours maximum.",
             "prerequisites": "onors eligibility required",
             "hours": "3-6",
-            "recommendation": "Senior standing"
+            "recommendation": "Senior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Graduate Study in Classics",
@@ -80,7 +89,8 @@
             "description": "Required of all first-year graduate students.",
             "prerequisites": "None Listed",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the Greek and Latin Languages",
@@ -88,7 +98,8 @@
             "description": "(same as LINGST 7130; cross-levelled with CLASS 4100, LINGST 4130). Evolution of classical languages and their relationship to each other.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Classical Studies",
@@ -96,7 +107,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Departmental consent for repetition.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to Text Criticism and Paleography",
@@ -104,7 +116,8 @@
             "description": "(cross-leveled with CLASS 4300). Latin and/or Greek textual criticism and paleography, using manuscript facsimiles at the University library.",
             "prerequisites": "2 years of Classical Languages or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ancient Pastoral",
@@ -112,7 +125,8 @@
             "description": "(cross-leveled with CLASS 4400). Reading and interpretation of pastoral poetry and prose in Greek and Latin; emphasis on Theocritus, Virgil, and Longus.",
             "prerequisites": "2 years each of Greek and Latin",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Study in the Teaching of the Classics",
@@ -120,7 +134,8 @@
             "description": "",
             "prerequisites": "classroom teaching experience or chairman's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Readings in Classical Studies",
@@ -128,7 +143,8 @@
             "description": "Readings in authors and texts not covered in other courses.",
             "prerequisites": "graduate standing and classics/classical humanities; departmental consent; Greek--two years classical Greek or equivalent; Latin--two years Classical Latin or equivalent",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Directed Readings in Classics",
@@ -136,7 +152,8 @@
             "description": "For graduate students to undertake special projects for graduate credit under the supervision of faculty.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Masters Research and Thesis in Classics",
@@ -144,7 +161,8 @@
             "description": "For graduate students studying for the MA and working on a thesis to receive credit for work directly related to the thesis.  Graded S/U only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ancient/Medieval Topography",
@@ -152,7 +170,8 @@
             "description": "(same as AR_H_A 8440). Descriptive and historical analysis of selected city or site. Subject varies.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "PhD Research and Thesis",
@@ -160,7 +179,8 @@
             "description": "Individual research in preparation for writing thesis and/or dissertation. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Classical Mythology",
@@ -168,7 +188,8 @@
             "description": "Intensive study of classical mythology in origin, development, meaning and influence.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in the Hellenistic Age",
@@ -176,7 +197,8 @@
             "description": "Seminar in the Hellenistic Age",
             "prerequisites": "None Listed",
             "hours": "3-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Ancient Rhetoric and Oratory",
@@ -184,7 +206,8 @@
             "description": "Seminar in Ancient Rhetoric and Oratory",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Ancient Literary Criticism",
@@ -192,7 +215,8 @@
             "description": "Principles and theories of ancient Greek and Latin literary criticism, as developed in significant works on the subject.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Greco-Roman Didactic",
@@ -200,7 +224,8 @@
             "description": "Critical and comparative study of Greek and Latin didactic poetry with emphasis on major authors from Hesiod through the Augustan Age.",
             "prerequisites": "None Listed",
             "hours": "3-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Greco-Roman Religion",
@@ -208,7 +233,8 @@
             "description": "Seminar in Greco-Roman Religion",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Greco-Roman Satire and Social Criticism",
@@ -216,7 +242,8 @@
             "description": "Seminar in Greco-Roman Satire and Social Criticism",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in the Age of the Antonines",
@@ -224,7 +251,8 @@
             "description": "Seminar in the Age of the Antonines",
             "prerequisites": "None Listed",
             "hours": "3-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

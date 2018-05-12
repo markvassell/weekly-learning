@@ -8,7 +8,8 @@
             "description": "A survey of the influence of Greek and Latin upon English literary, scientific, technical, legal and medical vocabulary.  Emphasis is upon building competency with complex English words while studying the cultural influence of the classical languages on modern vocabulary.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Classical Mythology",
@@ -16,7 +17,8 @@
             "description": "Myths of Greece and Rome in literature and art.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Classical Mythology - Honors",
@@ -24,7 +26,8 @@
             "description": "Myths of Greece and Rome in literature and art.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Classical Mythology - Honors/Writing Intensive",
@@ -32,7 +35,8 @@
             "description": "Myths of Greece and Rome in literature and art.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Classical Mythology - Writing Intensive",
@@ -40,7 +44,8 @@
             "description": "Myths of Greece and Rome in literature and art.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Classical Humanities",
@@ -48,7 +53,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Greek Culture",
@@ -56,7 +62,8 @@
             "description": "Survey of Greek life and thought. Principal developments in literature, the arts, politics, religion and philosophy, and their influence on Western civilization.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Greek Culture - Honors",
@@ -64,7 +71,8 @@
             "description": "Survey of Greek life and thought. Principal developments in literature, the arts, politics, religion and philosophy, and their influence on Western civilization.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Roman Culture",
@@ -72,7 +80,8 @@
             "description": "Survey of Roman life and thought. Principal developments in literature, the arts, politics, religion, philosophy, and private life, and their influence on Western Civilization.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Greek Classics in Translation",
@@ -80,7 +89,8 @@
             "description": "Reading in translation and critical study of the most important literary works of the ancient Greek World.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Greek Classics in Translation",
@@ -88,7 +98,8 @@
             "description": "Reading in translation and critical study of the most important literary works of the ancient Greek world.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Roman Classics in Translation",
@@ -96,7 +107,8 @@
             "description": "Reading in translation and critical study of the most important literary works of the ancient Roman world.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Origins of Music in the Ancient World",
@@ -104,7 +116,8 @@
             "description": "Explores the use of music in the earliest historical societies, from the earliest evidence up to the fall of the Roman empire. Topics will include the history of musical instruments, the earliest scores, the development of music theory, the origins of melody, rhythm, and harmony, and the relationship between music, politics, and religion. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060; CL_HUM 2100; CL_HUM 2200"
+            "recommendation": "CL_HUM 1060; CL_HUM 2100; CL_HUM 2200",
+            "connections": "None Listed"
         },
         {
             "name": "Service Learning in Classical Studies",
@@ -112,7 +125,8 @@
             "description": "Students provide enrichment programming on the Ancient World at various Columbia Public School sites. Participants must be Classical Studies majors or minors. Graded on A/F basis only. Does not meet Arts and Science general education requirements.",
             "prerequisites": "instructor's consent required",
             "hours": "1",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Foreigners and Dangerous Women in Greek and Latin Literature",
@@ -120,7 +134,8 @@
             "description": "(same as PEA_ST 3130). The study of how Greek and Roman writers depicted and reacted to other races and cultures, compared them with their own, and thereby revealed their own values and prejudices.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Foreigners and Dangerous Women in Greek and Latin Literature - Honors",
@@ -128,7 +143,8 @@
             "description": "(same as PEA_ST 3130). The study of how Greek and Roman writers depicted and reacted to other races and cultures, compared them with their own, and thereby revealed their own values and prejudices.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Foreigners and Dangerous Women in Greek and Latin Literature - Writing Intensive",
@@ -136,7 +152,8 @@
             "description": "(same as PEA_ST 3130). The study of how Greek and Roman writers depicted and reacted to other races and cultures, compared them with their own, and thereby revealed their own values and prejudices.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Classical Humanities",
@@ -144,7 +161,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99Recommended: CL_HUM 1060",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Classical Humanities - Honors",
@@ -152,7 +170,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-99",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Classical Humanities - Writing Intensive",
@@ -160,7 +179,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99Recommended: CL_HUM 1060",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ancient Western Philosophy",
@@ -168,7 +188,8 @@
             "description": "(same as PHIL 3000). Philosophical thought on nature, knowledge, the gods, human life and society, from Thales to Augustine. Emphasis on Plato and Aristotle. The relevance of the ancients to contemporary life.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Philosophy Before Socrates",
@@ -176,7 +197,8 @@
             "description": "A study of the origin of philosophical thinking in the Ancient Greek world.  Topics to be explored include the nature of reality and our knowledge of it, the structure and constituents of the cosmos, human excellence and its relation to morality, political power, and happiness.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Philosophy Before Socrates - Honors",
@@ -184,7 +206,8 @@
             "description": "A study of the origin of philosophical thinking in the Ancient Greek world.  Topics to be explored include the nature of reality and our knowledge of it, the structure and constituents of the cosmos, human excellence and its relation to morality, political power, and happiness.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of Pericles",
@@ -192,7 +215,8 @@
             "description": "A study of the literature and culture of the 5th and early 4th centuries B.C. in Athens. Authors will include Thucydides, Herodotus, Xenophon, Plato, Aristotle, the tragedians and Aristophanes.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of Pericles - Honors",
@@ -200,7 +224,8 @@
             "description": "A study of the literature and culture of the 5th and early 4th centuries B.C. in Athens. Authors will include Thucydides, Herodotus, Xenophon, Plato, Aristotle, the tragedians and Aristophanes.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of Augustus",
@@ -208,7 +233,8 @@
             "description": "Study of the literature of the Age of Augustus; Vergil, Ovid, Horace, Livy, and Propertius.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of Augustus - Honors",
@@ -216,7 +242,8 @@
             "description": "Study of the literature of the Age of Augustus; Vergil, Ovid, Horace, Livy, and Propertius.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Power and Oratory in Ancient Greece",
@@ -224,7 +251,8 @@
             "description": "Concentrates on the rise of oratory in Greece and how oratory was exploited for political ends. Special attention will be paid to the Athenian Democracy in the fifth and fourth centuries BC.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Power and Oratory in Ancient Greece - Honors",
@@ -232,7 +260,8 @@
             "description": "Concentrates on the rise of oratory in Greece and how oratory was exploited for political ends. Special attention will be paid to the Athenian Democracy in the fifth and fourth centuries BC.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Roman Comedy, Wit and Humor",
@@ -240,7 +269,8 @@
             "description": "Study of works illustrating the comedy, wit and humor of the Romans: readings in comedies of Plautus and Terence, Catullus, Ovid's Metamorphoses,  Petronius' Satyricon, Martial, Juvenal and Macrobius.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Greek and Roman Epic",
@@ -248,7 +278,8 @@
             "description": "A study of the major representatives of the ancient epic genre. Readings will include Homer's Iliad and Odyssey, Apollonius' Argonautica, Vergil's Aeneid.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Greek and Roman Epic - Honors",
@@ -256,7 +287,8 @@
             "description": "A study of the major representatives of the ancient epic genre. Readings will include Homer's Iliad and Odyssey, Apollonius' Argonautica, Vergil's Aeneid.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Greek Drama",
@@ -264,7 +296,8 @@
             "description": "Reading and interpretation of Greek tragedies and comedies in translation.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Greek Drama - Honors",
@@ -272,7 +305,8 @@
             "description": "Reading and interpretation of Greek tragedies and comedies in translation.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Mythology",
@@ -280,7 +314,8 @@
             "description": "Interpretation of selected classical myths and their influence on later literature and art.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Advanced Mythology - Honors",
@@ -288,7 +323,8 @@
             "description": "Interpretation of selected classical myths and their influence on later literature and art.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Murder and Mayhem: Images of Justice in Classical Antiquity",
@@ -296,7 +332,8 @@
             "description": "Ideas of justice from Homer through the early Roman Empire; personal vengeance, law courts and trials, philosophical attitudes, women and courts, techniques of persuasion.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Murder & Mayhem: Images of Justice in Classical Antiquity - Honors",
@@ -304,7 +341,8 @@
             "description": "Ideas of justice from Homer through the early Roman Empire; personal vengeance, law courts and trials, philosophical attitudes, women and courts, techniques of persuasion.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Murder and Mayhem: Images of Justice in Classical Antiquity - Writing Intensive",
@@ -312,7 +350,8 @@
             "description": "Ideas of justice from Homer through the early Roman Empire; personal vengeance, law courts and trials, philosophical attitudes, women and courts, techniques of persuasion.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Greek and Roman Characters and Ideals",
@@ -320,7 +359,8 @@
             "description": "Study of selected types of characters admired and imitated or hated and rejected in classical antiquity; heroes, philosophers, women.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Greek and Roman Characters and Ideals - Honors",
@@ -328,7 +368,8 @@
             "description": "Study of selected types of characters admired and imitated or hated and rejected in classical antiquity; heroes, philosophers, women.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "War and Democracy in Late 5th c. BCE Athens",
@@ -336,7 +377,8 @@
             "description": "(same as PEA_ST 3550).  Explores the discourse on war and peace in Athenian texts and art that survives from the last quarter of the 5th century B.C.E.  This was a period of relentless warfare: the Athenians were fighting the Spartans, Sparta's allies, unaligned cities and several of their own subject states.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "The Ancient Novel",
@@ -344,7 +386,8 @@
             "description": "Reading and analysis of Greek and Latin prose fiction: ideal and comic romance, fantasy, romantic biography; Hellenistic background.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "The Ancient Novel - Honors",
@@ -352,7 +395,8 @@
             "description": "Reading and analysis of Greek and Latin prose fiction: ideal and comic romance, fantasy, romantic biography; Hellenistic background.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Paganism and Christianity",
@@ -360,7 +404,8 @@
             "description": "A study of the transition from Paganism to Christianity in the Roman Empire, as seen by observers contemporary with the events.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Paganism and Christianity - Honors",
@@ -368,7 +413,8 @@
             "description": "A study of the transition from Paganism to Christianity in the Roman Empire, as seen by observers contemporary with the events.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Paganism and Christianity - Writing Intensive",
@@ -376,7 +422,8 @@
             "description": "A study of the transition from Paganism to Christianity in the Roman Empire, as seen by observers contemporary with the events.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Women in the Ancient World",
@@ -384,7 +431,8 @@
             "description": "Using classical literary texts as the central focus this course examines the role of women: the conflict inherent in their obligations and their identity in the context of these obligations.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Women in the Ancient World - Honors",
@@ -392,7 +440,8 @@
             "description": "Using classical literary texts as the central focus this course examines the role of women: the conflict inherent in their obligations and their identity in the context of these obligations.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Classics in a Cross-Cultural Context",
@@ -400,7 +449,8 @@
             "description": "The goal of this course is to place classical literature in a multicultural context by studying Greek and Latin literary texts alongside verbal art from non-European as well as European cultures.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Classics in a Cross-Cultural Context - Honors",
@@ -408,7 +458,8 @@
             "description": "The goal of this course is to place classical literature in a multicultural context by studying Greek and Latin literary texts alongside verbal art from non-European as well as European cultures.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "The Ancient World on Film",
@@ -416,7 +467,8 @@
             "description": "(same as AR_H_A 3775 and FILM_S 3775).  This course explores how classical antiquity has been represented in twentieth and twenty-first-century film, with particular emphasis on the ways in which ancient narratives and iconography have been appropriated by filmmakers to address contemporary cultural issues.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "The Ancient World on Film - Writing Intensive",
@@ -424,7 +476,8 @@
             "description": "(same as AR_H_A 3775 and FILM_S 3775).  This course explores how classical antiquity has been represented in twentieth and twenty-first-century film, with particular emphasis on the ways in which ancient narratives and iconography have been appropriated by filmmakers to address contemporary cultural issues.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Sports and Spectacles in Greco-Roman Antiquity",
@@ -432,7 +485,8 @@
             "description": "Investigates athletic display in ancient Greek and Roman culture, from its earliest representations in Greek literature to the massive spectacles of the Roman empire, with an emphasis on the intersections between sport and spectacle and other areas of ancient cultural life.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Classical Humanities",
@@ -440,7 +494,8 @@
             "description": "Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99Recommended: CL_HUM 1060 and junior standing",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Greece: From the Bronze Age to the Byzantine Empire",
@@ -448,7 +503,8 @@
             "description": "Study abroad in Greece, in conjunction with the MU International Center. Immersion in the physical and intellectual heritage of ancient Greece; emphasis on cross-disciplinary, on-site learning and the intersections among ancient, Byzantine, and modern Greece. Application required. Graded on A/F basis only.",
             "prerequisites": "None Listed",
             "hours": "6",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Greece: From the Bronze Age to the Byzantine Empire - Honors",
@@ -456,7 +512,8 @@
             "description": "Study abroad in Greece, in conjunction with the MU International Center. Immersion in the physical and intellectual heritage of ancient Greece; emphasis on cross-disciplinary, on-site learning and the intersections among ancient, Byzantine, and modern Greece. Participants chosen by instructor. Graded on A/F basis only. Application required.",
             "prerequisites": "Honors eligibility required",
             "hours": "6",
-            "recommendation": "CL_HUM 1060"
+            "recommendation": "CL_HUM 1060",
+            "connections": "None Listed"
         },
         {
             "name": "Greek and Roman Religion",
@@ -464,7 +521,8 @@
             "description": "(same as REL_ST 4500). Survey of religious development among the Greeks and Romans.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Greek and Roman Religion - Honors",
@@ -472,7 +530,8 @@
             "description": "(same as REL_ST 4500). Survey of religious development among the Greeks and Romans.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Literature and Culture of the Hellenistic Age",
@@ -480,7 +539,8 @@
             "description": "(cross-leveled with CL_HUM 7550). A survey of the literature and culture of the Hellenistic Age.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Literature and Culture of the Hellenistic Age - Honors",
@@ -488,7 +548,8 @@
             "description": "A survey of the literature and culture of the Hellenistic Age.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "The Classical Tradition",
@@ -496,7 +557,8 @@
             "description": "Selected studies in continuity and influence of Greek and Roman culture on Middle Ages, Renaissance, and modern times.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "The Classical Tradition - Honors",
@@ -504,7 +566,8 @@
             "description": "Selected studies in continuity and influence of Greek and Roman culture on Middle Ages, Renaissance, and modern times.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "The Classical Tradition - Honors/Writing Intensive",
@@ -512,7 +575,8 @@
             "description": "Selected studies in continuity and influence of Greek and Roman culture on Middle Ages, Renaissance, and modern times.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "The Classical Tradition - Writing Intensive",
@@ -520,7 +584,8 @@
             "description": "Selected studies in continuity and influence of Greek and Roman culture on Middle Ages, Renaissance, and modern times.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "The World of Late Antiquity",
@@ -528,7 +593,8 @@
             "description": "(cross-leveled with CL_HUM 7650). A survey of the literature, culture, and history of the late Roman and early Byzantine periods. Attention to Christianity's development and the transformation of the classical heritage.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "The World of Late Antiquity - Honors",
@@ -536,7 +602,8 @@
             "description": "A survey of the literature, culture, and history of the late Roman and early Byzantine periods. Attention to Christianity's development and the transformation of the classical heritage.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Oral Tradition",
@@ -544,7 +611,8 @@
             "description": "(same as ENGLSH 4770). Study of verbal art from living oral traditions (e.g. Native American and African American) and important literary works with roots in oral tradition (e.g. the Bible, the Iliad and Odyssey, and Beowulf).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Oral Tradition - Honors",
@@ -552,7 +620,8 @@
             "description": "(same as ENGLSH 4770). Study of verbal art from living oral traditions (e.g. Native American and African American) and important literary works with roots in oral tradition (e.g. the Bible, the Iliad and Odyssey, and Beowulf).",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Political Thought in Classical and Christian Antiquity",
@@ -560,7 +629,8 @@
             "description": "(same as POL_SC 4800).  Reading and discussion of Greek, Roman, and Early Christian treatises on politics and political life. Survey of the political institutions and procedures of the Greek city states and Roman Republic and Empire. Examination of contemporary Christian responses and adaptations.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "CL_HUM 1060 and junior standing"
+            "recommendation": "CL_HUM 1060 and junior standing",
+            "connections": "None Listed"
         },
         {
             "name": "Capstone in Classical Humanities",
@@ -568,7 +638,8 @@
             "description": "Culminating course in the study of Greek and Roman literature and Classical Culture.  Required for Classical Humanities majors in first term of senior year.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Capstone in Classical Humanities- Honors",
@@ -576,7 +647,8 @@
             "description": "Culminating course in the study of Greek and Roman literature and Classical Culture.  Required for Classical Humanities majors in first term of senior year.",
             "prerequisites": "instructor's consent; Honors eligibility required",
             "hours": "3",
-            "recommendation": "for Classical Humanities double-majors"
+            "recommendation": "for Classical Humanities double-majors",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in Classical Humanities",
@@ -584,7 +656,8 @@
             "description": "Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "any Classical Humanities 3000 level course or instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Literature and Culture of the Hellenistic Age",
@@ -592,7 +665,8 @@
             "description": "(cross-leveled with CL_HUM  7550). A survey of the literature and culture of the Hellenistic Age. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The World of Late Antiquity",
@@ -600,7 +674,8 @@
             "description": "(cross-leveled with CL_HUM 4650). A survey of the literature, culture, and history of the late Roman and early Byzantine periods. Attention to Christianity's development and the transformation of the classical heritage.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

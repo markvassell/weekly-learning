@@ -8,7 +8,8 @@
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. May be repeated for credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of American History to 1865",
@@ -16,7 +17,8 @@
             "description": "Introduction to U.S. history through the Civil War, surveying political, economic, social and cultural development of the American people.  No credit will be given to students who have received credit In HIST 1400 (AP credit for US History).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of American History to 1865 - Honors",
@@ -24,7 +26,8 @@
             "description": "Introduction to U.S. history through the Civil War, surveying political, economic, social and cultural development of the American people.  No credit will be given to students who have received credit In HIST 1400 (AP credit for US History).",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of American History Since 1865",
@@ -32,7 +35,8 @@
             "description": "Introduction to U.S. history since 1865, surveying political, economic, social, and cultural development of the American people.  No credit will be given to students who have received credit In HIST 1400 (AP credit for US History).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of American History Since 1865 - Honors",
@@ -40,7 +44,8 @@
             "description": "Introduction to U.S. history since 1865, surveying political, economic, social, and cultural development of the American people.  No credit will be given to students who have received credit In HIST 1400 (AP credit for US History).",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American History",
@@ -48,7 +53,8 @@
             "description": "Broad survey of political, economic, social, intellectual, diplomatic and constitutional development of American people from first English settlements to present day; emphasizes evolution of American culture and institutions.  Students may not receive additional credit for HIST 1100 and/or HIST 1200.",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African American History",
@@ -56,7 +62,8 @@
             "description": "(same as BL_STU 1410). Survey of social, political and economic development to the African American people in American life from 1619 to the present.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Globalization and History",
@@ -64,7 +71,8 @@
             "description": "This course will explore the contemporary phenomenon of globalization in historical perspective.  Our goal will be to help students come to terms with the origins and dynamics of this process, which is transforming our economy and society more rapidly and thoroughly than ever before.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Foundations of Western Civilization",
@@ -72,7 +80,8 @@
             "description": "Development of characteristic ideas and institutions of Western cultural tradition, from origin of civilization in ancient Near East to beginning of rapid social, political, intellectual transformation of Europe in 18th century.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Foundations of Western Civilization - Honors",
@@ -80,7 +89,8 @@
             "description": "Development of characteristic ideas and institutions of Western cultural tradition, from origin of civilization in ancient Near East to beginning of rapid social, political, intellectual transformation of Europe in 18th century.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Modern Europe",
@@ -88,7 +98,8 @@
             "description": "Selected major themes in European history from French Revolution to recent times. Breakdown of traditional institutions, ideas; political, social revolution; industrialization, nationalism, imperialism, world wars; democratic, totalitarian ideologies, movements; quest for international order, European unity.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Modern Europe - Honors",
@@ -96,7 +107,8 @@
             "description": "Selected major themes in European history from French Revolution to recent times. Breakdown of traditional institutions, ideas; political, social revolution; industrialization, nationalism, imperialism, world wars; democratic, totalitarian ideologies, movements; quest for international order, European unity.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Modern Europe - Honors/Writing Intensive",
@@ -104,7 +116,8 @@
             "description": "Selected major themes in European history from French Revolution to recent times. Breakdown of traditional institutions, ideas; political, social revolution; industrialization, nationalism, imperialism, world wars; democratic, totalitarian ideologies, movements; quest for international order, European unity.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Ancient World",
@@ -112,7 +125,8 @@
             "description": "Survey of institutional and cultural development of ancient Near East, Greece, Rome, and Asia.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "England Before the Glorious Revolution",
@@ -120,7 +134,8 @@
             "description": "Survey of English institutions, culture and politics from the Roman invasion to the Revolution of 1688.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Britain 1688 to the Present",
@@ -128,7 +143,8 @@
             "description": "Surveys British history from 1688 to present. Emphasizes social and economic change.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The World of the Middle Ages",
@@ -136,7 +152,8 @@
             "description": "Survey of European development from the fall of Rome to the 16th century.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of Early Modern Europe, 1350-1650",
@@ -144,7 +161,8 @@
             "description": "Survey of Western and Central Europe (including Britain) from the Black Death to the end of the Thirty Years' War.  This period comprises late medieval crises, the Renaissance, Reformation, Counter-Reformation, Exploration and the New World, the Confessional Age, early modern state-building, and the Thirty Years' War.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Christianity",
@@ -152,7 +170,8 @@
             "description": "Origin, diffusion and development of Christianity, with special attention to its influence on Western civilization. Major emphasis on period up to French Revolution.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Women and the Family in the Pre-Modern West",
@@ -160,7 +179,8 @@
             "description": "Examines the changing roles of women and familial structures from the Ancient Mediterranean World to the Protestant Reformation and the effects of religious, political and economic change on the family.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Foundations of Russian History",
@@ -168,7 +188,8 @@
             "description": "A survey of the Kievan and Muscovite period to the end of the 17th century.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Russia in Modern Times",
@@ -176,7 +197,8 @@
             "description": "(same as PEA_ST 1610). Survey of Russian history from 1801 to present.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Early Africa",
@@ -184,7 +206,8 @@
             "description": "(same as BL_STU 1790). This course introduces students to the early history of Africa.  It focuses on political, social, economic and cultural developments based on primary and secondary sources available in print and online.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Modern Africa",
@@ -192,7 +215,8 @@
             "description": "(same as BL_STU 1800). This course introduces students to the recent history of Africa.  It provides them with an opportunity to understand the main challenges Africans faced since colonial times based on primary and secondary sources.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of South Africa",
@@ -200,7 +224,8 @@
             "description": "(same as BL_STU 1810). Surveys the social, cultural and economic dynamics of South African society from the 16th century to the present with an emphasis on the last two centuries and the consolidation of the apartheid state.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Asian Humanities",
@@ -208,7 +233,8 @@
             "description": "(same as REL_ST 1820, AR_H_A 1230 and S_A_ST 1152). This course in an introduction to the literature and visual arts of Asia through selected master works. It focuses principally on India and China and investigates the distinctive features of their cultures.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Survey of East Asian History",
@@ -216,7 +242,8 @@
             "description": "(same as KOREAN 1830). Introductory survey of the history of East Asian countries (China, Korea, Vietnam, and Japan) in the past two thousand years, focusing on their cultural, economic, and political traditions as well as their transformations in the modern era.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Colonial Latin America",
@@ -224,7 +251,8 @@
             "description": "Survey of Latin America, 1492-1825; Exploration and conquest; European settlement; colonial government and institutions; economy and society; cultural and intellectual life, independence movements.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Latin America Since Independence",
@@ -232,7 +260,8 @@
             "description": "Political, social and economic developments; nationalism; revolutionary movements; U.S. influence.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Ancient India",
@@ -240,7 +269,8 @@
             "description": "(same as S_A_ST 1860). This course surveys the history of South Asian history.  The course begins with the Indus Valley Civilization (fl. 2600-1900B.C.) and ends with an analysis of Islamic impact on India culture around 1200-1350.  Emphasis will be placed on cultural and social history, religion, arts and literature, and the sources used for the study of premodern civilizations.  Students will develop a basic knowledge and vocabulary necessary to pursue additional South Asian courses.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Modern India",
@@ -248,7 +278,8 @@
             "description": "(same as [S_A_ST 1861). This course surveys the history of the South Asian subcontinent from the early seventeenth through the twentieth century.  Emphasis will be placed on cultural and social history, religion, arts and literature, imperialism and colonialism, and the sources used for the study of modern civilizations.  Students will develop a basic knowledge and vocabulary necessary to pursue additional South Asian courses.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of India: 1000-1750",
@@ -256,7 +287,8 @@
             "description": "(same as [S_A_ST 1862).  This course surveys the history of the South Asian subcontinent from the eleventh through mid-eighteenth centuries. Emphasis will be placed on cultural and social history, religion, arts and literature, and the sources used to study civilization. Students will develop a basic knowledge and vocabulary necessary to pursue additional South Asian courses.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Imperial China: China to 1600",
@@ -264,7 +296,8 @@
             "description": "This course offers a broad introduction to Chinese history and culture from antiquity up to the later imperial period (around 1600).  It is designed to provide the student with an understanding of the historical development of China's culture, economic, political, and intellectual traditions.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of China in Modern Times",
@@ -272,7 +305,8 @@
             "description": "This is a lecture course designed to introduce to beginning level students the epic journey of China's historical transformation since c. 1600.  This survey provides a basis for understanding the painstaking transition from \"tradition\" to \"modernity\" in China.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Mao's China and Beyond: China Since 1949",
@@ -280,7 +314,8 @@
             "description": "Through a series of readings, images, and film we will look at the dramatic cultural, economic, social and intellectual changes the People's Republic of China has experienced since 1949, and look at the interrelated, yet often contradictory, challenges facing Beijing in regards to the task of furthering economic prosperity while promoting policies of integrating with the international society.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in History-Social Science",
@@ -288,7 +323,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.  May be repeated for credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in History-Social Science - Honors",
@@ -296,7 +332,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.  May be repeated for credit with departmental consent.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Revolutionary Transformation of America - Honors",
@@ -304,7 +341,8 @@
             "description": "In the broadest of terms, this is a course on origins. On one hand, we will devote significant class time to discussing \"the causes which impelled\" the colonies to throw off the yoke of British rule. We will examine this on both a practical and a more abstract level, focusing first on writings that delineate why colonists grew to perceive the economic, social, and political conditions of British rule as insufferable, and then on how they translated these practical concerns into a more ideological justification of violent revolution.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Young Republic - Honors",
@@ -312,7 +350,8 @@
             "description": "This course examines the early years of the United States under the (then) new Constitution, an important historical period with which present-day Americans are increasingly unfamiliar. Our focus will be on abandoning our preconceptions about the nation's early history and thoroughly understanding the choices that were posed and made in the years after 1789 and that would determine what type of nation the U.S. would become.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The American Civil War: A Global History",
@@ -320,7 +359,8 @@
             "description": "In this class students will study the American Civil War from the perspective of global history. The familiar actors and events will be covered - the debate over slavery, the secession of the South, the rise of Abraham Lincoln, the great battles and generals, etc. But these familiar episodes will take on different meanings when viewed in relation to global structures of politics, economics, social relations, and ideology. The 1860s was at once a formative moment in the history of globalization and the key decade for the formation and consolidation of modern nations.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Twentieth Century America",
@@ -328,7 +368,8 @@
             "description": "Survey of American development from 1900 to present. For students who have not taken advanced courses in American history, especially HIST 4210, HIST 4220, or HIST 4230.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "America in the 1960's",
@@ -336,7 +377,8 @@
             "description": "(same as PEA_ST 2220).  Examines the political and cultural main currents of the 1960s. Emphasizes the challenges mounted by protest groups and the responses of America's political leadership to the ferment of the period.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Walt Disney and American Culture",
@@ -344,7 +386,8 @@
             "description": "Examines Walt Disney's influence on shaping of modern American culture.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Social History of U.S. Women",
@@ -352,7 +395,8 @@
             "description": "(same as WGST 2400). This course, the social History of US Women, offers a general overview of US Women, beginning with the colonial period up to the present day.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African American Women in History",
@@ -360,7 +404,8 @@
             "description": "(same as BL_STU 2410 and WGST 2410). African American Women in history is a topics course covering major issues affecting black women since their introduction into english-speaking North America to the present.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Conspiracy Theories and Conspiracies in American History and Culture",
@@ -368,7 +413,8 @@
             "description": "From the Salem witch trials to the present-day obsessions with the JFK assassination, UFOs, and the like, Americans have often embraced conspiracy theories to explain mysterious events and wrenching social changes. The primary objective of the course is to help students deal more intelligently with the conspiratorial fears and political paranoia that pervade modern American culture, by placing them in a broad historical context. ",
             "prerequisites": " sophomore standing",
             "hours": ": 3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of American Religion",
@@ -376,7 +422,8 @@
             "description": "This course focuses on the overall development of American religion from the 17th century to the present.  Students will be invited to think about the larger questions concerning American religion, including why religion in America has developed in the way that it has, and how and why it continues to thrive in American popular culture.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Missouri",
@@ -384,7 +431,8 @@
             "description": "Survey of Missouri's development from the beginning of settlement to present.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Constitutional Democracy",
@@ -392,7 +440,8 @@
             "description": "(same as POL_SC 2445). This course offers an introduction to American constitutional democracy. On the one hand, this course will strive to set the development of America's constitutional democracy into its historical context and to explain it in relation to larger social, political, military, and economic events. A second emphasis is on the nature and character of the American democratic system. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "From Waterloo to Sarajevo: European History, 1815-1914",
@@ -400,7 +449,8 @@
             "description": "Political, social, economic, and cultural development of Europe from French Revolution to outbreak of World War I.",
             "prerequisites": "sophomore standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "From Waterloo to Sarajevo: European History, 1815-1914 - Writing Intensive",
@@ -408,7 +458,8 @@
             "description": "Political, social, economic, and cultural development of Europe from French Revolution to outbreak of World War I.",
             "prerequisites": "sophomore standing required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ukrainian History from Medieval to Modern Times",
@@ -416,7 +467,8 @@
             "description": "A successor state of the former Soviet Union, Ukraine occupies a strategic position in Eastern Europe. The course will trace the long, turbulent history of this East Slavic nation, culminating the independence in 1991.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Women in Russian History",
@@ -424,7 +476,8 @@
             "description": "This is a survey course which is designed for students who have not previously taken in course in Russian history, and who are interested in how women experienced the period from the formation of the Kievan state in the ninth century to the fall of the Soviet Union in 1991.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Mafia Myth and Reality: The Italian Mafia and the Nation-State, 1860 to the Present",
@@ -432,7 +485,8 @@
             "description": "This course explores contemporary cultural representations of the Mafia in film and literature and grounds these fictional representations in the history of modern Italy.  We trace the emergence of the various Mafia networks during the wars of the Risorgimento and the construction of the \"southern problem\", and the impact transnational Italian migration, the rise of Fascism and the postwar reconstruction had on the form and function of these networks.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Early Christianity",
@@ -440,23 +494,31 @@
             "description": "(same as REL_ST 2600). History of Christian practices and teachings from Christian origins through the 8th century, including Eastern Orthodoxy Syrian Christianity, Roman Catholicism.  Themes such as interpretation and creation of Scriptures, worship style, central rituals, debates about right teaching (orthodoxy) mysticism and developing lifestyles both in and apart from the world.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Medieval Christianity",
             "number": "2610",
             "description": "(same as REL_ST 2610). Study of the doctrinal developments, major theologians and schools, institutional formation and dissolution, mysticism, and liturgical expression within the context of cultural and political history. Beginning with Augustine and concluding with the 15th century. ",
-            "prerequisites": " REL_ST 2600",
+            "prerequisites": " REL_ST 2600",
             "hours": ": 3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "REL_ST 2600"
+            ]
         },
         {
             "name": "History of Christianity, 1500-Present",
             "number": "2620",
             "description": "(same as REL_ST 2620). Protestant and Catholic Christianity in age of European expansion; enlightenment; 19th and 20th-century challenges and responses.",
-            "prerequisites": "REL_ST 2600 and REL_ST 2610",
+            "prerequisites": "REL_ST 2600 and REL_ST 2610",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "REL_ST 2600",
+                "REL_ST 2610"
+            ]
         },
         {
             "name": "History of Christian Traditions",
@@ -464,7 +526,8 @@
             "description": "(same as REL_ST 2630). An overview of the origins and development of Christianities from the first century of the Common Era to the present day. Topics will include competing Christian theologies, colonialism, conversion narratives, globalization, religious violence, and heresy.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Women in Indian History",
@@ -472,7 +535,8 @@
             "description": "(same as S_A_ST 2800). This course examines the role of women in Indian (South Asian) history, focusing on women in British Indian from the eighteenth century up to the Partition of 1947.  While previous knowledge of South Asian history may be beneficial, it is not required for this course.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Korea: Premodern to Hypermodern",
@@ -480,7 +544,8 @@
             "description": "(same as KOREAN 2810). This course examines Korea historically. The area known as Korea and the people identified as Korean are considered temporally from the ancient times to the contemporary period. This course begins with the questions of what is Korea and when it became a distinct place in world history.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Taiwan: The First Chinese Democracy",
@@ -488,7 +553,8 @@
             "description": "This course is an introduction to the history of Taiwan, from the seventeenth century to the present day. This course examines historical development leading to the contemporary situation. It problematizes the notion that \"democracy is not suitable for Chinese society.\"",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Black Studies in Slavery and Freedom",
@@ -496,7 +562,8 @@
             "description": "(same as BL_STU 2904). This course provides study of historical background, economic, political and social implications of slavery and freedom in the African Diaspora (Americas, Africa, Europe, Asia) as well as the legal and extralegal struggles for and meaning of (global, local, and national) freedom.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Sophomore Seminar",
@@ -504,7 +571,8 @@
             "description": "This course is designed to introduce history majors to the experience of doing original research early in their undergraduate career.  Topic will vary.",
             "prerequisites": "departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Sophomore Seminar - Writing Intensive",
@@ -512,7 +580,8 @@
             "description": "This course is designed to introduce history majors to the experience of doing original research early in their undergraduate career.  Topic will vary.",
             "prerequisites": "departmental consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Religion in America to the Civil War",
@@ -520,7 +589,8 @@
             "description": "(same as REL_ST 3000). Studies major American religious traditions from the Age of Discovery to the Civil War, especially the evolution of religious practices and institutions and their influence upon American social, intellectual and political developments.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Colonial America",
@@ -528,7 +598,8 @@
             "description": "This course will examine major colonial American events from a cultural history standpoint.  We will explore the ways in which the famous and not so famous shaped and were shaped by events of the seventeenth and eighteenth centuries and how these people understood the changing meaning of American liberty.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Black Freedom Movement, 1955-1973",
@@ -536,7 +607,8 @@
             "description": "(same as BL_STU 3200). Examines the dismantling of American apartheid and its transformation into a new racial control system. It also explores how and why the Civil Rights Movement was converted into a struggle for Black Power.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Religion in Post-Civil War America",
@@ -544,7 +616,8 @@
             "description": "(same as  REL_ST 3210). Surveys major American religious traditions from 1865 to the present. Focuses on the evaluation of religious practices and institutions and their interaction with and influence upon American social, intellectual and political developments.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "U.S. Women's Political History, 1880-Present",
@@ -552,7 +625,8 @@
             "description": "(same as WGST 3220). This course explores American women's engagement with American politics (broadly defined) over the course of the twentieth century.  It addresses issues of political identity, organization, ideology, and division.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Individualism and Success in Modern America, 1830-Present",
@@ -560,7 +634,8 @@
             "description": "This course explores changing notions of individualism and success in American culture during the 19th and 20th centuries.  Standards defining achievement, gain, and happiness for the individual citizen have evolved over time, and we will examine a wide variety of sources - advice literature, essays, novels, historical texts, plays and movies, political and religious texts, social criticism - to analyze this broad evolution.  The resulting insights into a variety of historical issues and values, problems and possibilities, promise to forge a deeper understanding of what it has meant to be a successful individual in the United States over the last two hundred years.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Religious Biography: Black Religion",
@@ -568,7 +643,8 @@
             "description": "(same as BL_STU 3590). Studies black American religion through the biographies of representative and influential figures of the 19th and 20th centuries, including Nat Turner, W.E.B. Du Bois, and Marcus Garvey, M.L. King, Malcolm X.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "America's Environmental Experience",
@@ -576,7 +652,8 @@
             "description": "(same as PEA_ST 3420). Team-taught analysis of American thought and action on physical environment during 19th-20th centuries. Relation between politics, economics, technological change, environmental quality; roles of science, law, regulatory agencies, grassroots action.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Sex Radicals in U. S History",
@@ -584,7 +661,8 @@
             "description": "(same as WGST 3430).  Survey of the history of sexuality in the United States.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The United States and the Middle East",
@@ -592,7 +670,8 @@
             "description": "This course will explore the history of American relations with the Middle East.  How have U.S. Policy-makers defined American interests in this region? How have they sought to protect and advance those interests? We will consider the cultural stereotypes and assumptions Americans have brought to their relations with the Middle East, and the images of the Middle East that have been projected in American popular culture.  Finally, we will explore the ways in which the current political situations in the Middle East reflects the results of past U.S.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Ancient Greek World",
@@ -600,7 +679,8 @@
             "description": "Political and social institutions, intellectual life of Greek city-states to time of Alexander.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Egypt From Alexander the Great to Cleopatra",
@@ -608,7 +688,8 @@
             "description": "This course deals with the history of Egypt under the Ptolemaic dynasty (323-30 BC) of the Hellenistic period. Its main focus is political and military history, but various social and economic aspects of Egyptian society, as well as the infamous Ptolemaic bureaucracy, are considered, as well as the literary and scientific output of scholars at Alexandria, the intellectual center of the Hellenistic world.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Roman World",
@@ -616,7 +697,8 @@
             "description": "Rise and development of Roman institutions, Rome's imperialism and culture through reign of Marcus Aurelius.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Hellenistic World: From Alexander to Rome",
@@ -624,7 +706,8 @@
             "description": "The achievements of Alexander the Great; political, social, economic development of Hellenistic kingdoms from his death to 31 B. C.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "20th Century Europe",
@@ -632,7 +715,8 @@
             "description": "Political, social, and economic development of Europe from 1900 to the present, with emphasis on the period between the two world wars.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "20th Century Europe - Writing Intensive",
@@ -640,7 +724,8 @@
             "description": "Political, social, and economic development of Europe from 1900 to the present, with emphasis on the period between the two world wars.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Origins of Scientific Thought",
@@ -648,7 +733,8 @@
             "description": "This course will trace the evolution of Western science from its Egyptian-Babylonian roots to the \"Copernican Revolution\" of the mid-sixteenth century.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Galileo and His World",
@@ -656,7 +742,8 @@
             "description": "(same as GN_HON 3230H). The purpose of this course is to evaluate Galileo's contribution to modern science on the basis, primarily, of his actual writings. In the process, we will examine the \"Galileo Myth\", focusing on the problem of scientific truth and freedom of thought.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Scientific Revolution: 1550-1800",
@@ -664,7 +751,8 @@
             "description": "This course covers the history of science, or natural philosophy, from late Renaissance to the beginnings of the \"Darwinian Revolution.\"",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "European Women in the 19th Century",
@@ -672,7 +760,8 @@
             "description": "(same as WGST 3570). Examines the history of European women from 1750 to 1900. The course focuses on how industrialization, the French Revolution and nation-formation changed women's roles in the family, workplace and the state. Grading: exams, papers and discussions.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Modern Italy, 1815 to the Present",
@@ -680,7 +769,8 @@
             "description": "Political, cultural and social history of Italy since 1815. Looks at how Unification, World War, Fascism, the Cold War, Student protests, the women's movement and the end of the USSR shaped contemporary Italy.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Early Middle Ages",
@@ -688,7 +778,8 @@
             "description": "This course will focus on the social, political, economic, and cultural development of Europe from roughly 300 to 1050.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Later Middle Ages",
@@ -696,7 +787,8 @@
             "description": "This course will focus on the social, political, economic, and cultural development of Europe from roughly 1050 to 1500. ",
             "prerequisites": " sophomore standing",
             "hours": ": 3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ireland, 1100s to 1850",
@@ -704,7 +796,8 @@
             "description": "(same as PEA_ST 3610). Ireland, from Conquest to Famine:  Ireland's history as the first British Colony, from the conquests of the 1100s and 1500s-1600s to the Irish rebellion of 1798 and the Great Famine and mass emigration of 1845-50.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ireland, 1850-1923",
@@ -712,7 +805,8 @@
             "description": "(same as PEA_ST 3611). Ireland, from Famine to Partition: Irish history from the Great Famine of 1845-50 to the revolutions of 1916-23 that brought partial independence from Britain but partitioned Ireland into two hostile and trouble states.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Ireland, 1920-Present",
@@ -720,7 +814,8 @@
             "description": "(same as PEA_ST 3612).  Ireland, from Partition to the Present:  After surveying the conflicts that led to Irish revolution and partition in 1916-23, the course focuses on the development of post partition Ireland and Northern Ireland, and on the violence that has scarred Northern Ireland since the 1960s.",
             "prerequisites": "May be restricted to History majors only during preregistration",
             "hours": "3",
-            "recommendation": "HIST 3610 and/or HIST 3611"
+            "recommendation": "HIST 3610 and/or HIST 3611",
+            "connections": "None Listed"
         },
         {
             "name": "Comparative Approaches to Black Studies in History",
@@ -728,7 +823,8 @@
             "description": "(same as BL_STU 3624). Comparative approach to the study of Black Diaspora history that focuses on the theory, method, structure, and application of modes of cultural production within the history of Black Diaspora cultures.  Program consent for repetition.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Comparative Approaches to Black Studies in History - Writing Intensive",
@@ -736,7 +832,8 @@
             "description": "(same as BL_STU 3624). Comparative approach to the study of Black Diaspora history that focuses on the theory, method, structure, and application of modes of cultural production within the history of Black Diaspora cultures.  Program consent for repetition.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Twentieth Century China",
@@ -744,7 +841,8 @@
             "description": "History of China from Nationalist Revolution of 1911 to present. A problem-oriented course: special emphasis on Mao and Maoist ideology, social, literary and cultural history also receive attention.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Chinese Women's History",
@@ -752,7 +850,8 @@
             "description": "Historical analysis of Chinese women in family, community, ideology, and national politics from the Late Imperial period to the present.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Islam and the West",
@@ -760,7 +859,8 @@
             "description": "(same as PEA_ST 3850). This course provides a historical intellectual context for the raging debate on Islam and the West.  It will discuss how Muslims conceived and reacted variously to the political and cultural challenge the West posed in the nineteenth and twentieth century.  It will focus on the discourse on the reception of modernization in Islam.  It will highlight the political and cultural energies invested by various Muslim elite communities to distinguish between modernization and Westernization.  Islamic fundamentalism, the dominant Islamic expression of our time, will be usefully discussed in the context of this debate and praxis about modernization, authenticity, and Westernization.",
             "prerequisites": "junior/senior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Mexico",
@@ -768,7 +868,8 @@
             "description": "Survey of Mexican history from Cortes to present day.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Social Revolution in Latin America",
@@ -776,7 +877,8 @@
             "description": "(same as PEA_ST 3870 and SOCIOL 3870).  Twentieth century social revolutions in selected Latin American countries.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of Caribbean America",
@@ -784,7 +886,8 @@
             "description": "Comparative regional study of insular and mainland Caribbean nations. Emphasis on modern period. Independence; abolition of slavery; U.S. hegemony; economic, social, and political upheaval.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Age of Jefferson",
@@ -792,7 +895,8 @@
             "description": "Political, constitutional, cultural, and economic developments in United States during formative period of Republic, 1787-1828. Special attention to Constitutional Convention, formation of national political institutions.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in History-General",
@@ -800,7 +904,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in History-Social Science",
@@ -808,7 +913,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in History-Social Science - Honors",
@@ -816,7 +922,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in History-Social Science - Writing Intensive",
@@ -824,7 +931,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of Jackson",
@@ -832,7 +940,8 @@
             "description": "This course will examine American Politics, society and culture in the 1820's, 1830's, and  1840's.  Considerable attention will be devoted to Andrew Jackson himself, as a figure who both shaped and represented his era, for better or worse.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the Old South",
@@ -840,7 +949,8 @@
             "description": "Study of the South to 1860.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Slavery and the Crisis of the Union",
@@ -848,7 +958,8 @@
             "description": "(same as BL_STU 4040; cross-leveled with HIST 7040). This class explores the history of the Civil War era, a transformative moment in both U.S. and world history.  Our goal is to explore and answer a number of questions of great historical significance: How and why did slavery persist in an age of liberal democracy?  Why did the pre-war Union prove unable to tolerate the plural visions and diverse institutions of its people? Was the descent into war more a measure of institutional weakness than of the intensity of moral conflict? What were the constituent elements of the competing wartime 'nationalisms' that evolved in both north and south? How and why did a war that began to restore the Union become one for emancipation? How was it the forerunner of modern, 'total' warfare? Did the governmental, socio-economic and racial changes wrought by war constitute a 'second American revolution'? Were the limits or the achievements of post-war Reconstruction more notable? And, last but certainly not least, how did the triumph of the Union condition the political and economic development of a rapidly globalizing world?",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Colonial History to 1760",
@@ -856,7 +967,8 @@
             "description": "Study of colonial America; special emphasis on creation of a native American culture prior to 1760.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Witchcraft in Seventeenth Century New England",
@@ -864,7 +976,8 @@
             "description": "This course explores the social, cultural and intellectual aspects of witchcraft and witch-hunting in seventeenth century New England.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Period of the American Revolution, 1760-1789",
@@ -872,15 +985,19 @@
             "description": "Analysis of the Revolution, its causes and consequences, through establishment of the new government in 1789.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Indians and Europeans in Early America",
             "number": "4070",
             "description": "A study of the cultural, political and often military struggle that took place for control of North America from contact through mid 19th century emphasizing native efforts to resist European domination and expansion in areas that became the U.S. and Canada.",
-            "prerequisites": "HIST 1100 or equivalent",
+            "prerequisites": "HIST 1100 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "HIST 1100"
+            ]
         },
         {
             "name": "American Foreign Policy from Colonial Times to 1898",
@@ -888,7 +1005,8 @@
             "description": "(same as PEA_ST 4080).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Problems in History",
@@ -896,7 +1014,8 @@
             "description": "Independent investigation leading to a paper or project.",
             "prerequisites": "Department consent required",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Problems in History",
@@ -904,7 +1023,8 @@
             "description": "Independent investigation leading to a paper or project.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Problems in History - Writing Intensive",
@@ -912,7 +1032,8 @@
             "description": "Independent investigation leading to a paper or project.",
             "prerequisites": "Department consent required",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Cultural and Intellectual History to 1865",
@@ -920,7 +1041,8 @@
             "description": "Origins and growth of American values and ideas considered in their social context. Topics include: the work ethic, republican politics, revivalism, reform movements, sexual attitudes, literature in the marketplace, Afro-American and slave-holding subcultures.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Cultural and Intellectual History Since 1865",
@@ -928,7 +1050,8 @@
             "description": "Tensions and transformations in American culture to the present. Topics include: spiritual crisis in Christianity; rise of welfare state liberalism; socialist and feminist alternatives; literature and the arts.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Origins of Modern America, 1877-1919",
@@ -936,7 +1059,8 @@
             "description": "Political, social, economic, and intellectual evolution of America into a modern society, 1877-1918.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "U.S. Society Between the Wars 1918-1945",
@@ -944,7 +1068,8 @@
             "description": "Detailed examination of American history from end of World War I to end of World War II.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Our Times: United States Since 1945",
@@ -952,7 +1077,8 @@
             "description": "Detailed examination of American history from end of World War II to the present.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Wire: Race, Urban Inequality, and the \"Crisis\" of the American City",
@@ -960,7 +1086,8 @@
             "description": "(cross-leveled with HIST 7235). The HBO series \"The Wire\", a crime drama based on the border city of Baltimore, exposed the interlocking, structural realities giving shape to the landscapes, neighborhoods, and lived experiences of urban America during the early twenty-first century. Through vivid storytelling, \"The Wire\" complicates understandings of the \"urban crisis\" through a focus on the inner workings of major institutions such as the media,  public schools, politics, underground economies, public housing, and the criminal justice system and on the ways in which poor and working-class black residents negotiate power and survival. Using the cable series as a lens, this class offers students the opportunity to critically examine the historical, economic, social, and political dimensions of urban inequality.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the New South",
@@ -968,7 +1095,8 @@
             "description": "Study of the South since 1860.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "U.S. Foreign Relations, 1898-1945",
@@ -976,7 +1104,8 @@
             "description": "A history of American Foreign Policy from the Spanish American War to the end of World War II.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of Ascendancy: U.S. Foreign Relations, 1945 - Present",
@@ -984,7 +1113,8 @@
             "description": "(same as PEA_ST 4260). Surveys the Cold War in Europe and Asia, the Korean and Vietnam Wars, and Middle East policy.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African-Americans in the Twentieth Century",
@@ -992,7 +1122,8 @@
             "description": "(same as BL_STU 4270). Surveys the African-American experience from 1900 to the present. Attention is given to economic, political, social, and cultural trends.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "America in the Reagan Years",
@@ -1000,7 +1131,8 @@
             "description": "Examines the major political, economic, social, and cultural currents and developments of the \"Long Eighties,\" from Jimmy Carter's \"malaise speech\" of July 1979 to Bill Clinton's mid-1990s embrace of welfare reform and pronouncement that the era of big government was over.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Adoption, Child Welfare and the Family, 1850-Present",
@@ -1008,7 +1140,8 @@
             "description": "(same as WGST 4310; cross-leveled with HIST 7310 and WGST 7310). This interdisciplinary U.S. history course will address topics such as: changing legal and social meaning of adoption since 1850; historical connections between adoption and poverty, family, gender race, sexuality, class, fertility, identity; and more recent issues such as transnational adoption.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of American Law",
@@ -1016,7 +1149,8 @@
             "description": "American law from English origins to present. Reviews common law, codification, legal reform movements, slavery law, administrative state, formalism, legal realism, jurisprudential questions concerning rule of law.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "HIST 1100, HIST 1200, or HIST 1400"
+            "recommendation": "HIST 1100, HIST 1200, or HIST 1400",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to U.S. Social History",
@@ -1024,7 +1158,8 @@
             "description": "Study of daily life and the ways ordinary Americans experienced historical change. Considers such topics as work, leisure, family and community. Compares how people's experiences varied by region, class, gender, ethnicity, and race.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African Americans and American Justice",
@@ -1032,7 +1167,8 @@
             "description": "(same as BL_STU 4415) This course provides opportunities to review and discuss selected court cases and legislation in which black men, women, or children were plaintiffs and defendants or affected by the laws.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African Americans and American Justice - Writing Intensive",
@@ -1040,7 +1176,8 @@
             "description": "(same as BL_STU 4415) This course provides opportunities to review and discuss selected court cases and legislation in which black men, women, or children were plaintiffs and defendants or affected by the laws.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Urban History",
@@ -1048,15 +1185,22 @@
             "description": "Growth, development and implications of the city in American history; historical analysis of urban problems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Superhero in American Culture From Washington to Wolverine",
             "number": "4425",
             "description": "This course aims to help students become better informed and more critical consumers of popular culture by situating a selection of important American works and genres within the historical context of their creation, and in the history of American culture. Students will be challenged to look for historical patterns in popular culture and to consider the particular habits of thought and action that American popular culture seems to reinforce.",
-            "prerequisites": "HIST 1100 or HIST 1200 or HIST 1400 or HIST 2210",
+            "prerequisites": "HIST 1100 or HIST 1200 or HIST 1400 or HIST 2210",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "HIST 1100",
+                "HIST 1200",
+                "HIST 1400",
+                "HIST 2210"
+            ]
         },
         {
             "name": "The Great West in American History",
@@ -1064,7 +1208,8 @@
             "description": "Historical development of major regions, with emphasis on response to environment, public land policy, role of government in economic and resource development, citizen action, and cultural pluralism.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the American Environment",
@@ -1072,7 +1217,8 @@
             "description": "A reading and discussion course exploring diverse responses to the changing American environment from early man to the present, including ecological, institutional, and philosophical aspects.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Political Economy from the Commerce Clause to the Great Recession",
@@ -1080,7 +1226,8 @@
             "description": "This course examines the history of the American political economy from the founding of the United States to the recent Great Recession. Scholars of political economy explore the ways in which politics and public policy intersect with economics, such as the operation of the institutions like the tax system, the first and second Banks of the United States in the late 18th and early 19th centuries, and the Federal Reserve after 1913. We will focus on efforts by the U.S. federal government to regulate the American economy and bring economic affairs under the control of the American people and their representatives through a wide variety of political, legal, and institutional mechanisms. A specialized knowledge of economics is not required for this course.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Political Economy from the Commerce Clause to the Great Recession - Writing Intensive",
@@ -1088,7 +1235,8 @@
             "description": "This course examines the history of the American political economy from the founding of the United States to the recent Great Recession. Scholars of political economy explore the ways in which politics and public policy intersect with economics, such as the operation of the institutions like the tax system, the first and second Banks of the United States in the late 18th and early 19th centuries, and the Federal Reserve after 1913. We will focus on efforts by the U.S. federal government to regulate the American economy and bring economic affairs under the control of the American people and their representatives through a wide variety of political, legal, and institutional mechanisms. A specialized knowledge of economics is not required for this course.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Quantitative Methods in Historical Study",
@@ -1096,7 +1244,8 @@
             "description": "Introduces quantitative approaches to the study of history. Emphasizes opportunities, limitations, and dangers involved in several common forms of quantitative study. Math Reasoning Proficiency Course.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "War Crimes and Genocide",
@@ -1104,7 +1253,8 @@
             "description": "(same as PEA_ST 4480). This course will explore the development of international law, international consciousness, and U.S. Foreign policy on the two distinct but often related issues of war crimes and genocide during the late 19th and throughout the 20th centuries.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Philip II and Alexander the Great of Macadonia",
@@ -1112,7 +1262,8 @@
             "description": "Concentrates on the history and politics of Greece during reigns of these two kings along with Alexander's military conquests and various controversies from the period.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Crime and Punishment: Law in Classical Athens",
@@ -1120,7 +1271,8 @@
             "description": "Examines the main principles of Athenian law and judicial procedures including history of law code and study of actual speeches from a variety of law suits and procedures.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Power and Oratory in Ancient Greece",
@@ -1128,7 +1280,8 @@
             "description": "Concentrates on the rise of oratory in Greece and how oratory was exploited for political ends. Special attention will be paid to the Athenian Democracy in the fifth and fourth centuries BC.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Rise and Fall of the Roman Republic",
@@ -1136,7 +1289,8 @@
             "description": "(cross-leveled with HIST 7520). Analysis of the downfall of Republican institutions and the origins of autocracy, from the Gracchi to the death of Augustus in A.D. 14.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Roman Empire",
@@ -1144,7 +1298,8 @@
             "description": "Roman imperialism; management of, and rebellion in, the Empire; cultural exchange between Rome and its provinces.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Monastic Worlds",
@@ -1152,7 +1307,8 @@
             "description": "(same as REL_ST 4535, MDVL_REN 4535; cross-leveled with REL_ST 7535, MDVL_REN 7535).  Monastic Worlds is an experiential learning course designed to serve as a Humanities Field School in medieval and early modern studies. It will be taught by faculty from UMKC and UMC through the Intercampus Course Sharing initiative. The class introduces students to humanities research methodology and the religious history and culture of premodern Europe and the contemporary Midwest by using the monastic communities as a focal point to learn about musicology, history, art history, literature, and religion. Following two weeks of online course modules, students will travel to the Benedictine communities of Conception Abbey in Conception, Missouri and Mount Saint Scholastica's in Atchison, Kansas, for additional face-to-face classes and research projects. On-site, students will participate in communal living and attend face-to-face classes on the historical and cultural worlds of medieval and early modern Europe. They will practice ethnography through observation of and participation in communal life of prayer, study, book production, and labor. Students will also have the opportunity to work with the manuscripts and rare books owned by these communities and visit the largest reliquary collection in North America, housed at the nearby Benedictine community of the Sisters of Perpetual Adoration in Clyde, MO. This course has an associated fee. Contact teaching faculty for this year's fee details. Graded on A/F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Later Roman Empire",
@@ -1160,7 +1316,8 @@
             "description": "Political, religious and cultural life in Late Antiquity, from the \"soldier emperors,\" to the barbarian kingdoms and early Byzantium.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Age of the Vikings",
@@ -1168,7 +1325,8 @@
             "description": "Scandinavia and Scandinavian expansion in the Central Middle Ages. Covers political, economic, religious, and cultural effects of the Viking movement.",
             "prerequisites": "junior standing required",
             "hours": "3",
-            "recommendation": "HIST 1500, HIST 1540, HIST 1600 or HIST 2560"
+            "recommendation": "HIST 1500, HIST 1540, HIST 1600 or HIST 2560",
+            "connections": "None Listed"
         },
         {
             "name": "Age of the Vikings - Writing Intensive",
@@ -1176,7 +1334,8 @@
             "description": "Scandinavia and Scandinavian expansion in the Central Middle Ages. Covers political, economic, religious, and cultural effects of the Viking movement.",
             "prerequisites": "junior standing required",
             "hours": "3",
-            "recommendation": "HIST 1500, HIST 1540, HIST 1600 or HIST 2560"
+            "recommendation": "HIST 1500, HIST 1540, HIST 1600 or HIST 2560",
+            "connections": "None Listed"
         },
         {
             "name": "Medieval France",
@@ -1184,7 +1343,8 @@
             "description": "(cross-leveled with HIST 7555). This course covers the area that became the kingdom of France from the end of the Roman era until the end of the Hundred Years War; emphasis on political and cultural developments.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "Previous coursework in medieval history"
+            "recommendation": "Previous coursework in medieval history",
+            "connections": "None Listed"
         },
         {
             "name": "Medieval France - Writing Intensive",
@@ -1192,7 +1352,8 @@
             "description": "(cross-leveled with HIST 7555). This course covers the area that became the kingdom of France from the end of the Roman era until the end of the Hundred Years War; emphasis on political and cultural developments.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "Previous coursework in medieval history"
+            "recommendation": "Previous coursework in medieval history",
+            "connections": "None Listed"
         },
         {
             "name": "The Crusades",
@@ -1200,7 +1361,8 @@
             "description": "Survey of the European crusading movement from its inception in the late eleventh century to its decline during the later Middle Ages.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Intellectual History of Europe, 17th and 18th Centuries",
@@ -1208,7 +1370,8 @@
             "description": "The Enlightenment's attack on traditional Christian thought and values.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The \"Making\" of Modern Europe: Identity, Culture, Empire",
@@ -1216,7 +1379,8 @@
             "description": "(cross-leveled with HIST 7580). This course will explore some of the ideas, institutions and events that shaped modern Western civilization and thought, focusing on Western Europe, but also giving attention to the relationship between the West and the rest of the world. The course will introduce topics such as the rise of, nationalism, the cult of science, scientific racism and sexism, consumer mass culture, fascist ideology, existentialism, psychoanalysis, the modern city, gender and sexuality.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Rome from Fascism to Liberation, 1922-1944",
@@ -1224,7 +1388,8 @@
             "description": "In this course we will explore the history of Fascism and German occupation in Italy through the city of Rome. We will study how fascism remade Rome, the arrival of the Germans, the history of the Jewish community and the deportations and the resistance.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Early Modern Britain, 1450-1688",
@@ -1232,7 +1397,8 @@
             "description": "Study of English politics, society, economy, culture, and religion during primarily the Tudor and Stuart eras, from the establishment of the Tudor dynasty (1485) through the Glorious Revolution. Emphasis on social and religious history.",
             "prerequisites": "sophomore standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Modern England",
@@ -1240,7 +1406,8 @@
             "description": "Surveys British history in the 18th and 19th centuries. Emphasizes social and economic change.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nature vs. Nurture: The History of a Debate",
@@ -1248,7 +1415,8 @@
             "description": "(cross-leveled with HIST 7625). The purpose of this course is to explore the debate on nature vs. nurture in human society from the late eighteenth century to the present. The goal of this course is to give biology, history, and social science (including journalism) majors a better understanding of how this debate between nature and culture has played out over the past 250 years, and what impact it has left on biology, the social sciences, and public discourse today.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of the Renaissance",
@@ -1256,7 +1424,8 @@
             "description": "Major changes in European economic, social, political, religious, and intellectual life between 1250-1500. Humanism and Renaissance. The \"Renaissance problem\".",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of the Reformation",
@@ -1264,7 +1433,8 @@
             "description": "State of Europe about 1500. Political, diplomatic, social, and intellectual changes to 1648. Humanistic reform movements. Protestant-Catholic Reformation. Development of the modern state and international relations.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Witchcraft and Witch Hunting in Pre-Modern Europe",
@@ -1272,7 +1442,8 @@
             "description": "(cross-leveled with HIST 7645). The surviving evidence indicates that between 1400 and 1700, at least 50,000 women, men, and children were executed for practicing witchcraft. Is there an explanation for this? Does it make any sense in terms of the intellectual, religious, social, political, and economic contexts of this period in European history? Fundamental to this course are the assumptions that there are many, not one, reasonable explanations for witchcraft beliefs and persecutions, and that when studied in terms of the various historical contexts this phenomenon must be understood as an integral part of European society during these centuries.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Revolutionary France, 1789-1815",
@@ -1280,7 +1451,8 @@
             "description": "Revolutionary upheavals of the revolutionary-Napoleonic era, which destroyed traditional French society and laid the basis for modern France.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "European Women in the 20th Century",
@@ -1288,7 +1460,8 @@
             "description": "(same as WGST 4660). Examines the history of European women from World War I to the present. The course focuses on wars, migration, and the changing nature of family, work and community.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "From the Holy Roman Empire to the First World War: German History, 1750-1918",
@@ -1296,7 +1469,8 @@
             "description": "(cross-leveled with HIST 7670). Cultural, social and political history of Central Europe from 1800 to 1914. A case study in incomplete modernization, focused on industrialization, unification, cultural crisis and imperialism.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "From the Holy Roman Empire to the First World War: German History, 1750-1918 - Writing Intensive",
@@ -1304,7 +1478,8 @@
             "description": "(cross-leveled with HIST 7670). Cultural, social and political history of Central Europe from 1800 to 1914. A case study in incomplete modernization, focused on industrialization, unification, cultural crisis and imperialism.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "From the Rise of the Nazis to the Fall of the Wall: German History in the Twentieth Century",
@@ -1312,7 +1487,8 @@
             "description": "(cross-leveled with HIST 7680). Cultural, social and political history from 1914 to present day. Focus on world wars, national socialism, the holocaust, the cold war and the emergence of East and West Germany.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Imperial Russia, 1682-1825",
@@ -1320,7 +1496,8 @@
             "description": "Russia in the 18th and early 19th centuries, with special emphasis on the reigns of Peter I, Catherine II, and Alexander I.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Russian Revolution",
@@ -1328,7 +1505,8 @@
             "description": "Analyzes the transformation of Russian society that produced the collapse of autocracy, efforts to create a parliamentary government, the Bolshevik seizure of power in 1917, and the civil war that followed.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Modern China and Japan: War, Imperialism and Memory",
@@ -1336,7 +1514,8 @@
             "description": "(cross-leveled with HIST 7800). This course examines the interaction between Japan and China since the late nineteenth century in an effort to understand deeper historical reasons behind the rising tension in East Asia at the present time.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African History Through the Digital Medium",
@@ -1344,7 +1523,8 @@
             "description": "(cross-leveled with HIST 7815). This course invites students to explore the history of Africa through the digital medium.  It offers a hands-on approach to understand how knowledge about African history, culture, and society is produced and disseminated over the World Wide Web.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African History Through the Digital Medium - Writing Intensive",
@@ -1352,7 +1532,8 @@
             "description": "(cross-leveled with HIST 7815). This course invites students to explore the history of Africa through the digital medium.  It offers a hands-on approach to understand how knowledge about African history, culture, and society is produced and disseminated over the World Wide Web.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the Mongols",
@@ -1360,7 +1541,8 @@
             "description": "In the 13th century, the Mongols went from warring tribes to the largest Eurasian empire in history.  This course examines the Mongol tribes, Chinggis Khan's unification of the tribes, the Mongols rapid military victories across Eurasian and their equally rapid decline.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Traversing the Muslim World",
@@ -1368,7 +1550,8 @@
             "description": "(same as S_A_ST 4850).  The traveler's tale formed an important part of the medieval world's system of knowledge.  This writing intensive seminar-style course examines a wide array of the most influential travelers in Muslim lands such as Ibn Fadlan, Ibn Battuta, Benjamin of Tudela and Marco Polo.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Traversing the Muslim World - Writing Intensive",
@@ -1376,7 +1559,8 @@
             "description": "(same as S_A_ST 4850).  The traveler's tale formed an important part of the medieval world's system of knowledge.  This writing intensive seminar-style course examines a wide array of the most influential travelers in Muslim lands such as Ibn Fadlan, Ibn Battuta, Benjamin of Tudela and Marco Polo.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Colonial Masculinity/Colonial Frontier",
@@ -1384,7 +1568,8 @@
             "description": "(same as S_A_ST 4860).  This writing intensive seminar-style course examines how the Indian Army acted as a colonial army in the British Empire, including Africa, the Boxer Rebellion, and the World Wars.  Focus is on the role of the Indian Army, impact of the Sepoy Mutiny, and martial race ideology.",
             "prerequisites": "junior standing",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Buying Desire: History of Consumption",
@@ -1392,7 +1577,8 @@
             "description": "(cross-leveled with HIST 7865).  This course explores the history of consumption practice in various cultural contexts. The course is divided into four parts: \"Masses As Consumers\", \"Selling/Consuming Cultures\", \"Consumption as (Postcolonial) Modernity\", and \"Consumption and the Nation\". Under each section are thematically related texts on particular cultural contexts. The reading of ethnographic texts on consumption is to be accompanied by critical discussions that locate consumption within the practices of the nation-state-making and global product-marketing.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "North Korea: History, Political Economy, Culture",
@@ -1400,7 +1586,8 @@
             "description": "(same as KOREAN 4867; cross-leveled with HIST 7867). The aim of this course is to survey North Korea's history, especially in terms of political economy and culture. Through several themes, we will examine the historical situations of North Korea from its beginnings in the postliberation period to the present, as North Korea undergoes monumental changes.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Southeast Asia Since the Eighteenth Century",
@@ -1408,7 +1595,8 @@
             "description": "The general objective of this course is to introduce students to the fascinating world of Southeast Asia.  We will look at the shared history of commodity, cultural, and religious exchanges that gave this region a collective character, as well as explore the historical conditions from which individual modern Southeast Asian state emerged.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Chinese Migration: From Yellow Peril to Model Minority",
@@ -1416,7 +1604,8 @@
             "description": "(cross-leveled with HIST 7880). This course surveys Chines emigration in the global context over the span of five centuries.  We will pay special attention to the changing relationships between China and Chinese migrants.  Our emphasis will be on history as a process of negotiation and contestation of heterogeneous groups or individuals through creative and selective actives.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Beltway History: American Constitutional Democracy in Theory and Practice",
@@ -1424,7 +1613,8 @@
             "description": "(same as POL_SC 4900).  This course is an experiential overview of American political history for students participating in the Kinder Forum's Washington internship program, showing how American constitutional democracy was developed and implemented right here on the Potomac, as much as possible in the actual places where the events occurred. Emphasis will be placed on the interplay between constitutional theory and actual political experience over time, and the tensions and institutional changes that emerged as Americans and their government coped with cataclysmic social changes, unparalleled economic development, and fearsome international challenges.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Historical and Contemporary Slavery",
@@ -1432,7 +1622,8 @@
             "description": "(same as BL_STU 4904). An exploration of slavery in both its historical and contemporary context, focusing on the origins, characteristics, and struggles to abolish the practice. Historical slavery examined using African enslavement in the Americas, and contemporary slavery using human trafficking and forced labor in the developed and developing world.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History in the Public: An Introduction to the Theory and Practice of Public History",
@@ -1440,7 +1631,8 @@
             "description": "(cross-leveled with HIST 7910). The purpose of this course is to introduce students to the world of public history, the central questions and debates in the field, and to offer students the opportunity to practice public history.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History in the Public An Introduction to the Theory & Practice of Public History - Writing Intensive",
@@ -1448,7 +1640,8 @@
             "description": "(cross-leveled with HIST 7910). The purpose of this course is to introduce students to the world of public history, the central questions and debates in the field, and to offer students the opportunity to practice public history.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Internship in History",
@@ -1456,7 +1649,8 @@
             "description": "Professional training in history and archive-related fields. Graded on S/U basis only.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Special Readings in History",
@@ -1464,7 +1658,8 @@
             "description": "Individual work, with conferences adjusted to needs of student.",
             "prerequisites": "Department consent required",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Seminar in Third World History",
@@ -1472,7 +1667,8 @@
             "description": "Readings in selected problems in the history of Africa, Asia or Latin America with reports and discussion.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Seminar in Third World History - Writing Intensive",
@@ -1480,7 +1676,8 @@
             "description": "Readings in selected problems in the history of Africa, Asia or Latin America with reports and discussion.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Seminar in European History",
@@ -1488,7 +1685,8 @@
             "description": "Readings in problems in European history with reports and discussion.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Seminar in European History - Writing Intensive",
@@ -1496,7 +1694,8 @@
             "description": "Readings in problems in European history with reports and discussion.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Seminar in American History",
@@ -1504,7 +1703,8 @@
             "description": "Readings in selected problems in American history with reports and discussion on selected topics.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Seminar in American History - Writing Intensive",
@@ -1512,7 +1712,8 @@
             "description": "Readings in selected problems in American history with reports and discussion on selected topics.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Journal on Constitutional Democracy",
@@ -1520,7 +1721,8 @@
             "description": "(same as POL_SC 4975). The Journal is sponsored by the Kinder Institute on Constitutional Democracy and staffed by current and former participants in the Institute's undergraduate Society of Fellows program. Each volume of the Journal is organized around a student-selected idea or era central to the historical development and philosophical foundations of constitutional democracy in the United States. Student-authored essays address this theme via arguments and historical overviews crafted from the close reading and analysis of primary source documents, with the exception being that participating in the Journal will relate back to and advance students' study of American political thought and history.",
             "prerequisites": "None Listed",
             "hours": "1-3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Thesis in History",
@@ -1528,7 +1730,8 @@
             "description": "Individually directed research leading to a senior thesis.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Thesis in History",
@@ -1536,7 +1739,8 @@
             "description": "Continuation of HIST 4980.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Undergraduate Thesis in History - Writing Intensive",
@@ -1544,7 +1748,8 @@
             "description": "Continuation of HIST 4980.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Honors Thesis in History",
@@ -1552,7 +1757,8 @@
             "description": "Research and completion of the thesis required for graduation with Honors in History.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Honors Thesis in History - Writing Intensive",
@@ -1560,7 +1766,8 @@
             "description": "Research and completion of the thesis required for graduation with Honors in History.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Honors Thesis in History",
@@ -1568,7 +1775,8 @@
             "description": "Continuation of HIST 4995.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Honors Thesis in History - Writing Intensive",
@@ -1576,7 +1784,8 @@
             "description": "Continuation of HIST 4995.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Age of Jefferson",
@@ -1584,7 +1793,8 @@
             "description": "Political, constitutional, cultural, and economic developments in United States during formative period of Republic, 1787-1828. Special attention to Constitutional Convention, formation of national political institutions.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in History - Social Science",
@@ -1592,7 +1802,8 @@
             "description": "Organized study of selected topics.  Subjects and earnable credit may vary from semester to semester.  Graduate students will be expected to complete additional reading and writing assignments commiserate with graduate level course requirements.  May be repeated to maximum of 6 hours.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of Jackson",
@@ -1600,7 +1811,8 @@
             "description": "This course will examine American politics, society and culture in the 1820's, 1830's, and 1840's.  Considerable attention will be devoted to Andrew Jackson himself, as a figure who both shaped and represented his era, for better or worse.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "United states History from 1800-1860",
@@ -1608,7 +1820,8 @@
             "description": "American history from the Jeffersonian \"revolution\" in 1800 to the election of 1860 focuses on major discussion topics including the War of 1812, Jacksonian democracy, the growth of slavery, westward expansion, reform movements, and the coming of the Civil War.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the Old South",
@@ -1616,7 +1829,8 @@
             "description": "Study of the South to 1860.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Slavery and the Crisis of the Union: The American Civil War Era",
@@ -1624,7 +1838,8 @@
             "description": "(cross-leveled with HIST 4040). This class explores the history of the Civil War era, a transformative moment in both U.S. and world history. Our goal is to explore and answer a number of questions of great historical significance: How and why did slavery persist in an age of liberal democracy? Why did the pre-war Union prove unable to tolerate the plural visions and diverse institutions of its people? Was the descent into war more a measure of institutional weakness than of the intensity of moral conflict? What were the constituent elements of the competing wartime 'nationalisms' that evolved in both north and south? How and why did a war that began to restore the Union become one for emancipation? How  was it the forerunner of modern, 'total' warfare? Did the governmental, socio-economic and racial changes wrought by war constitute a 'second American revolution'? Were the limits or the achievements of post-war Reconstruction more notable? And, last but certainly not least, how did the triumph of the Union condition the political and economic development of a rapidly globalizing world?  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Colonial History to 1760",
@@ -1632,7 +1847,8 @@
             "description": "Study of colonial America; special emphasis on creation of a native American culture prior to 1760.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Period of the American Revolution, 1760-1789",
@@ -1640,15 +1856,19 @@
             "description": "Analysis of the Revolution, its causes and consequences, through establishment of the new government in 1789.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Indians and Europeans in Early America",
             "number": "7070",
             "description": "A study of the cultural, political and often military struggle that took place for control of North America from contact through mid 19th century emphasizing native efforts to resist European domination and expansion in areas that became the U.S. and Canada.",
-            "prerequisites": "HIST 1100 or equivalent",
+            "prerequisites": "HIST 1100 or equivalent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "HIST 1100"
+            ]
         },
         {
             "name": "American Foreign Policy from Colonial Times to 1898",
@@ -1656,7 +1876,8 @@
             "description": "(same as PEA_ST 7080).",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in History",
@@ -1664,7 +1885,8 @@
             "description": "(same as S_A_ST 8085). Individual work not leading to dissertation.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Cultural and Intellectual History to 1865",
@@ -1672,7 +1894,8 @@
             "description": "Origins and growth of American values and ideas considered in their social context. Topics include: the work ethic, republican politics, revivalism, reform movements, sexual attitudes, literature in the marketplace, Afro-American and slave-holding subcultures.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Cultural and Intellectual History Since 1865",
@@ -1680,7 +1903,8 @@
             "description": "Tensions and transformations in American culture to the present. Topics include: spiritual crisis in Christianity; rise of welfare state liberalism; socialist and feminist alternatives; literature and the arts.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Origins of Modern America, 1877-1919",
@@ -1688,7 +1912,8 @@
             "description": "Political, social, economic, and intellectual evolution of America into a modern society, 1877-1918.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "U.S. Society Between the Wars 1918-1945",
@@ -1696,7 +1921,8 @@
             "description": "Detailed examination of American history from end of World War I to end of World War II.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Our Times: United States Since 1945",
@@ -1704,7 +1930,8 @@
             "description": "Detailed examination of American history from end of World War II to the present.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Wire: Race, Urban Inequality, and the \"Crisis\" of the American City",
@@ -1712,7 +1939,8 @@
             "description": "(cross-leveled with HIST 4235). The HBO series \"The Wire\", a crime drama based on the border city of Baltimore, exposed the interlocking, structural realities giving shape to the landscapes, neighborhoods, and lived experiences of urban America during the early twenty-first century. Through vivid storytelling, \"The Wire\" complicates understandings of the \"urban crisis\" through a focus on the inner workings of major institutions such as the media, public schools, politics, underground economies, public housing, and the criminal justice system and on the ways in which poor and working-class black residents negotiate power and survival. Using the cable series as a lens, this class offers students the opportunity to critically examine the historical, economic, social, and political dimensions of urban inequality. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the New South",
@@ -1720,7 +1948,8 @@
             "description": "Study of the South since 1860.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "U.S. Foreign Relations, 1898-1945",
@@ -1728,7 +1957,8 @@
             "description": "A history of American Foreign Policy from the Spanish American War to the end of World War II.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of Ascendancy: U.S. Foreign Relations, 1945-Present",
@@ -1736,7 +1966,8 @@
             "description": "(same as PEA_ST 7260). Surveys the Cold War in Europe and Asia, the Korean and Vietnam Wars, and Middle East policy.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African-Americans in the Twentieth Century",
@@ -1744,7 +1975,8 @@
             "description": "(same as BL_STU 7270). Surveys the African-American experience from 1900 to the present. Attention is given to economic, political, social, and cultural trends.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "America in the Reagan Years",
@@ -1752,7 +1984,8 @@
             "description": "Examines the major political, economic, social, and cultural currents and developments of the \"Long Eighties,\" from Jimmy Carter's \"malaise speech\" of July 1979 to Bill Clinton's mid-1990s embrace of welfare reform and pronouncement that the era of big government was over.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Adoption Child Welfare and the Family, 1850-present",
@@ -1760,7 +1993,8 @@
             "description": "(same as WGST 7310; cross-leveled with HIST 4310, WGST 4310). This interdisciplinary U.S. history course will address topics such as: changing legal and social meanings of adoption since 1850; historical connections between adoption and poverty, family, gender, race, sexuality, class, fertility, identity; and more recent issues such as transnational adoption.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Introduction to U.S. Social History",
@@ -1768,7 +2002,8 @@
             "description": "Study of daily life and the ways ordinary Americans experienced historical change. Considers such topics as work, leisure, family and community. Compares how people's experiences varied by region, class, gender, ethnicity, and race.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African Americans and American Justice",
@@ -1776,7 +2011,8 @@
             "description": "(same as BL_STU 7415) This course provides opportunities to review and discuss selected court cases and legislation in which black men, women, or children were plaintiffs and defendants or affected by the laws.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "American Urban History",
@@ -1784,7 +2020,8 @@
             "description": "Growth, development and implications of the city in American history; historical analysis of urban problems.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Great West in American History",
@@ -1792,7 +2029,8 @@
             "description": "Historical development of major regions, with emphasis on response to environment, public land policy, role of government in economic and resource development, citizen action, and cultural pluralism.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the American Environment",
@@ -1800,7 +2038,8 @@
             "description": "A reading and discussion course exploring diverse responses to the changing American environment from early man to the present, including ecological, institutional, and philosophical aspects.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Quantitative Methods in Historical Study",
@@ -1808,7 +2047,8 @@
             "description": "Introduces quantitative approaches to the study of history. Emphasizes opportunities, limitations, and dangers involved in several common forms of quantitative study.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "War Crimes and Genocide",
@@ -1816,7 +2056,8 @@
             "description": "This course will explore the development of international law, international consciousness, and U.S. foreign policy on the two distinct but often related issues of war crimes and genocide during the late 19th and throughout the 20th centuries.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Philip II and Alexander the Great of Macedonia",
@@ -1824,7 +2065,8 @@
             "description": "Concentrates on the history and politics of Greece during reigns of these two kings along with Alexander's military conquests and various controversies from the period.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Crime and Punishment: Law in Classical Athens",
@@ -1832,7 +2074,8 @@
             "description": "Examines the main principles of Athenian law and judicial procedures including history of law code and study of actual speeches from a variety of law suits and procedures.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Power and Oratory in Ancient Greece",
@@ -1840,7 +2083,8 @@
             "description": "Concentrates on the rise of oratory in Greece and how oratory was exploited for political ends.  Special attention will be paid to the Athenian Democracy in the fifth and fourth centuries BC.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Rise and Fall of the Roman Republic",
@@ -1848,7 +2092,8 @@
             "description": "(cross-leveled with HIST 7520). Analysis of the downfall of Republican institutions and the origins of autocracy, from the Gracchi to the death of Augustus in A.D. 14.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Roman Empire",
@@ -1856,7 +2101,8 @@
             "description": "Roman imperialism; management of, and rebellion in, the Empire; cultural exchange between Rome and its provinces.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Later Roman Empire",
@@ -1864,7 +2110,8 @@
             "description": "Political, religious and cultural life in Late Antiquity, from the \"soldier emperors,\" to the barbarian kingdoms and early Byzantium.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Age of the Vikings",
@@ -1872,7 +2119,8 @@
             "description": "Scandinavia and Scandinavian expansion in the Central Middle Ages. Covers political, economic, religious, and cultural effects of the Viking movement.",
             "prerequisites": "consent required",
             "hours": "3",
-            "recommendation": "HIST 1500, HIST 1540, HIST 1600 or HIST 2560"
+            "recommendation": "HIST 1500, HIST 1540, HIST 1600 or HIST 2560",
+            "connections": "None Listed"
         },
         {
             "name": "Medieval France",
@@ -1880,7 +2128,8 @@
             "description": "(cross-leveled with HIST 4555). This course covers the area that became the kingdom of France from the end of the Roman era until the end of the Hundred Years War; emphasize on political and cultural developments.",
             "prerequisites": "instructor's consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Crusades",
@@ -1888,7 +2137,8 @@
             "description": "Survey of the European crusading movement from its inception in the late eleventh century to its decline during the later Middle Ages.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Intellectual History of Europe, 17th and 18th Centuries",
@@ -1896,7 +2146,8 @@
             "description": "The Enlightenment's attack on traditional Christian thought and values.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The \"Making\" of Modern Europe: Identity, Culture, Empire",
@@ -1904,7 +2155,8 @@
             "description": "(cross-leveled with HIST 4580).This course will explore some of the ideas, institutions and events that shaped modern Western civilization and thought, focusing on Western Europe, but also giving attention to the relationship between the West and the rest of the world. The course will introduce topics such as the rise of, nationalism, the cult of science, scientific racism and sexism, consumer mass culture, fascist ideology, existentialism, psychoanalysis, the modern city, gender and sexuality. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Early Modern Britain, 1450-1688",
@@ -1912,7 +2164,8 @@
             "description": "Study of English politics, society, economy, culture, and religion during primarily the Tudor and Stuart eras, from the establishment of the Tudor dynasty (1485) through the Glorious Revolution. Emphasis on social and religious history.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Modern England",
@@ -1920,7 +2173,8 @@
             "description": "Surveys British history in the 18th and 19th centuries. Emphasizes social and economic change.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Nature vs. Nurture: The History of a Debate",
@@ -1928,7 +2182,8 @@
             "description": "(cross-leveled with HIST 4625). The purpose of this course is to explore the debate on nature vs. nurture in human society from the late eighteenth century to the present. The goal of the course is to give biology, history, and social science (including journalism) majors a better understanding of how this debate between nature and culture has played out over the past 250 years, and what impact it has left on biology, the social sciences, and public discourse today. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of the Renaissance",
@@ -1936,7 +2191,8 @@
             "description": "Major changes in European economic, social, political, religious, and intellectual life between 1250-1500. Humanism and Renaissance. The \"Renaissance problem.\"",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Age of the Reformation",
@@ -1944,7 +2200,8 @@
             "description": "State of Europe about 1500. Political, diplomatic, social, and intellectual changes to 1648. Humanistic reform movements. Protestant-Catholic Reformation. Development of the modern state and international relations.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Witchcraft and Witch Hunting in Pre-Modern Europe",
@@ -1952,7 +2209,8 @@
             "description": "(cross-leveled with HIST 4645). The surviving evidence indicates that between 1400 and 1700, at least 50,000 women, men, and children were executed for practicing witchcraft. Is there an explanation for this? Does it make any sense in terms of the intellectual, religious, social, political, and economic contexts of this period in European history? Fundamental to this course are the assumptions that there are many, not one, reasonable explanations for witchcraft beliefs and persecutions, and that when studied in terms of the various historical contexts this phenomenon must be understood as an integral part of European society during these centuries. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Revolutionary France, 1789-1851",
@@ -1960,7 +2218,8 @@
             "description": "Revolutionary upheavals of the revolutionary-Napoleonic era, which destroyed traditional French society and laid the basis for modern France.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "European Women in the 20th Century",
@@ -1968,7 +2227,8 @@
             "description": "(same as WGST 7660). Examines the history of European women from World War I to the present. The course focuses on wars, migration, and the changing nature of family, work and community.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "From the Holy Roman Empire to the First World War: German History, 1750-1918",
@@ -1976,7 +2236,8 @@
             "description": "(cross-leveled with HIST 4670). Cultural, social and political history of Central Europe from 1800 to 1914. A case study in incomplete modernization, focused on industrialization, unification, cultural crisis and imperialism.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "From the Rise of the Nazis to the Fall of the Wall: German History in the Twentieth Century",
@@ -1984,7 +2245,8 @@
             "description": "(cross-leveled with HIST 4680). Cultural, social and political history from 1914 to present day. Focus on world wars, national socialism, the holocaust, the cold war and the emergence of East and West Germany.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Imperial Russia, 1682-1825",
@@ -1992,7 +2254,8 @@
             "description": "Russia in the 18th and early 19th centuries, with special emphasis on the reigns of Peter I, Catherine II, and Alexander I.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Russian Revolution",
@@ -2000,7 +2263,8 @@
             "description": "Analyzes the transformation of Russian society that produced the collapse of autocracy, efforts to create a parliamentary government, the Bolshevik seizure of power in 1917, and the civil war that followed.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Modern China and Japan: War, Imperialism and Memory",
@@ -2008,7 +2272,8 @@
             "description": "(cross-leveled with HIST 4800).  This course examines the interaction between Japan and China since the late nineteenth century in an effort to understand deeper historical reasons behind the rising tension in East Asia at the present time.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "African History Through the Digital Medium",
@@ -2016,7 +2281,8 @@
             "description": "(cross-leveled with HIST 4815). This course invites students to explore the history of Africa through the digital medium. It offers a hands-on approach to understand how knowledge about African history, culture, and society is produced and disseminated over the World Wide Web. ",
             "prerequisites": " Consent of department",
             "hours": ": 3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History of the Mongols",
@@ -2024,7 +2290,8 @@
             "description": "In the 13th century, the Mongols went from warring tribes to the largest Eurasian empire in history.  This course examines the Mongol tribes, Chinggis Khan's unification of the tribes, the Mongols rapid military victories across Eurasia and their equally rapid decline.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Traversing the Muslim World",
@@ -2032,7 +2299,8 @@
             "description": "The traveler's tale formed an important part of the medieval world's system of knowledge.  This writing intensive discussion-based course examines a wide array of the most influential travelers in Muslim lands such as Ibn Fadlan, Ibn Battuta, Benjamin of Tudela and Marco Polo.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Colonial Masculinity/Colonial Frontier",
@@ -2040,7 +2308,8 @@
             "description": "This writing intensive discussion-based course examines how the Indian Army acted as a colonial army in the British Empire, including Africa, the Boxer Rebellion, and the World Wars.  Focus is on the role of the Indian Army, impact of the Sepoy Mutiny, and martial race ideology.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Buying Desire: History of Consumption",
@@ -2048,7 +2317,8 @@
             "description": "(cross-leveled with HIST 4865). This course explores the history of consumption practice in various cultural contexts. The course is divided into four parts: \"Masses As Consumers\", \"Selling/Consuming Cultures\", \"Consumption as (Postcolonial) Modernity\", and \"Consumption and the Nation\". Under each section are thematically related texts on particular cultural contexts. The reading of ethnographic texts on consumption is to be accompanied by critical discussions that locate consumption within the practices of the nation-state-making and global product-marketing. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "North Korea: History, Political Economy, Culture",
@@ -2056,7 +2326,8 @@
             "description": "(cross-leveled with HIST 4867). The aim of this course is to survey North Korea's history, especially in terms of political economy and culture. Through several themes, we will examine the historical situations of North Korea from its beginnings in the postliberation period to the present, as North Korea undergoes monumental changes. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Southeast Asia Since the Eighteenth Century",
@@ -2064,7 +2335,8 @@
             "description": "The general objective of this course is to introduce students to the fascinating world of Southeast Asia.  We will look at the shared history of commodity, cultural, and religious exchanges that gave this region a collective character, as well as explore the historical conditions from which individual modern Southeast Asian state emerged.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Chinese Migration: From Yellow Peril to Model Minority",
@@ -2072,7 +2344,8 @@
             "description": "(cross-leveled with HIST 4880). This course surveys Chinese emigration in the global context over the span of five centuries.  We will pay special attention to the changing relationships between China and Chinese migrants.  Our emphasis will be on history as a process of negotiation and contestation of heterogeneous groups or individuals through creative and selective activities.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "History in the Public: An Introduction to the Theory and Practice of Public History",
@@ -2080,7 +2353,8 @@
             "description": "(cross-leveled with HIST 4910). The purpose of this course is to introduce students to the world of public history, the central questions and debates in the field, and to offer students the opportunity to practice public history. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Economic Analysis of Policy & Regulation",
@@ -2088,7 +2362,8 @@
             "description": "(cross-leveled with AG_EC 4990). Apply economic concepts and tools to analyze the policy-making process and the implications of policy for individuals, firms, markets and society. Policy topics include, among other things, agricultural support programs, environmental policy, international trade, international development, and agribusiness regulation.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "Graduate students should have previous coursework in basic econometrics and at least intermediate-level micro economic theory"
+            "recommendation": "Graduate students should have previous coursework in basic econometrics and at least intermediate-level micro economic theory",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in American Colonial History",
@@ -2096,7 +2371,8 @@
             "description": "Readings in American history from beginning of English settlements to adoption of the Constitution. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in the History of Colonial America",
@@ -2104,7 +2380,8 @@
             "description": "Directed research in the colonial and revolutionary period of American history. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Topics in History-General",
@@ -2112,7 +2389,8 @@
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to maximum of 6 hours.",
             "prerequisites": "department consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in American Religious History, 1750-1850",
@@ -2120,7 +2398,8 @@
             "description": "This class will examine important ideas and trends in the field, with an emphasis on popular religious movements. This is a reading-based seminar, revolving around discussion of influential recent books.  May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in American Religious History",
@@ -2128,7 +2407,8 @@
             "description": "The purpose of this course is for students to write an original work of scholarship, such as might be publishable in an academic journal or serve as a dissertation or book chapter. The field is open to topics in American religious history, including the social, cultural, political and intellectual history of American religion. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in the Early American Republic",
@@ -2136,7 +2416,8 @@
             "description": "Directed research in the period 1787-1861. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in the Early American Republic",
@@ -2144,7 +2425,8 @@
             "description": "This is an intense reading and discussion course designed to give students a crash course in the historiography of this period (emphasizing political culture) as well as practical experience in assimilating themselves quickly to a field. Students must attend and be prepared to participate knowledgeably in each class section.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in the Age of Jackson 1824-1850",
@@ -2152,7 +2434,8 @@
             "description": "Continuation of HIST 8021, from election of Jackson to Civil War. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Sectional Controversy, Civil War and Reconstruction",
@@ -2160,7 +2443,8 @@
             "description": "Directed readings and discussions of major issues in the period of national unification of the United States, from 1850 through 1877. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in United States Sectionalism, Civil War & Reconstruction",
@@ -2168,7 +2452,8 @@
             "description": "Directed original research on political and related topics of the period 1848-1877. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3-12",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Imperial History",
@@ -2176,7 +2461,8 @@
             "description": "Empires have been the predominant organizing political structure in modern world history (c. 1500-2000). Yet historians mostly structure historical inquiry around nations. This graduate class seeks to redress this imbalance by acquainting students with a diverse selection of the modern Anglophone historiography on empire, as well as giving them the opportunity to develop their own research project on an aspect of imperial history of their choosing. This class is reading and writing intensive, as should be expected of graduate students. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Problems in History",
@@ -2184,7 +2470,8 @@
             "description": "Individual work not leading to dissertation.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Masters Research in History",
@@ -2192,7 +2479,8 @@
             "description": "Work equal to research done for a dissertation, but not leading to thesis.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Masters Research in History",
@@ -2200,7 +2488,8 @@
             "description": "Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Recent United States History",
@@ -2208,7 +2497,8 @@
             "description": "Critical evaluation of writing in American history in period 1929-present. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Recent United States History",
@@ -2216,7 +2506,8 @@
             "description": "Advanced seminar in American history from 1929 to present. May be repeated to a maximum of 12 hours.",
             "prerequisites": "None Listed",
             "hours": "1-12",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in American Religious History, 1850-2000",
@@ -2224,7 +2515,8 @@
             "description": "The purpose of this course is to discuss important ideas and trends in the history of American religion from about 1850-2000.  This period is currently one of the richest fields in American historical scholarship, and this is particularly the case for American religious history.   Graded on A-F basis only.",
             "prerequisites": "consent required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in U.S. Women's History",
@@ -2232,7 +2524,8 @@
             "description": "Reading, discussion, and analysis of the historiography of the field. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in U.S. Women's History",
@@ -2240,7 +2533,8 @@
             "description": "Directed research and writing in American women's history. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Gender",
@@ -2248,7 +2542,8 @@
             "description": "Studies in recent research material focused on the analysis of the intersections of gender, race and class in particular times and places. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "The Politics of the Body in Historical Perspective",
@@ -2256,7 +2551,8 @@
             "description": "This graduate seminar will launch an investigative inquiry into how the body has been conceptualized in the historical past and how it continues to serve as a site of contention. This course will offer an opportunity to introduce students to the major intellectual debates that guide the study of the body and body-related processes in current scholarship. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Independent Readings for History Ph.D. Comprehensive Examination",
@@ -2264,7 +2560,8 @@
             "description": "Independent readings for Ph.D. Comprehensives.",
             "prerequisites": "Open only to graduate students formally admitted to candidacy for Ph.D. in history",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in African-American History",
@@ -2272,7 +2569,8 @@
             "description": "(same as BL_STU 8415). Readings on selected topics in African-American history from 1619 to the present, with emphasis on conflicting interpretations. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in African-American History",
@@ -2280,7 +2578,8 @@
             "description": "(same as BL_STU 8416). Directed research in selected topics in African-American history. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in United States Immigration History",
@@ -2288,7 +2587,8 @@
             "description": "The course will focus on historiography of American immigration, Mainly European immigrants during 1820-1920. Special attention given to books and articles published in the past 25 years. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Rural Social History of the United States",
@@ -2296,7 +2596,8 @@
             "description": "This course surveys the historiography of rural social history of the United States using a comparative regional perspective and presenting a chronological overview of the nineteenth and twentieth centuries.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in American Cultural and Intellectual History",
@@ -2304,7 +2605,8 @@
             "description": "Directed research and writing in American cultural and intellectual history. May be repeated to maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-12",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in American Cultural and Intellectual History",
@@ -2312,7 +2614,8 @@
             "description": "Reading and discussion designed to promote critical understanding of theoretical and historiographical problems in American cultural and intellectual history. May be repeated to maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in American Western and Environmental History",
@@ -2320,7 +2623,8 @@
             "description": "Readings, class discussion, and written analysis on topics in American Western and environmental history from early settlement to the present. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in American Western and Environmental History",
@@ -2328,7 +2632,8 @@
             "description": "Directed research in problems in American Western and environmental history. May be repeated to maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in World Environmental History",
@@ -2336,7 +2641,8 @@
             "description": "Readings explore relationship between human agency and environmental change over the courses of world history and on various continents.   May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in the History of the South",
@@ -2344,7 +2650,8 @@
             "description": "Group readings and appraisal of controversial interpretations in Southern history. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in the History of American Diplomacy",
@@ -2352,7 +2659,8 @@
             "description": "Readings in evolution of American diplomacy from the Revolution to present. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Recent American Diplomatic Problems",
@@ -2360,7 +2668,8 @@
             "description": "Directed research in problems of 20th-century American diplomacy. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in the History of the United States and the World",
@@ -2368,7 +2677,8 @@
             "description": "This graduate seminar will explore the emerging historiographical field known as \"The United States and the World\", broadly defined to encompass both the history of U.S. foreign policy and other topics like the history of trade, immigration, and cultural exchange. This course will focus on historiography and methodology in order to introduce students to the existing literature, assist in preparation for comprehensive examinations, identify major trends in the field, and suggest directions for future research. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Trans-Atlantic History",
@@ -2376,7 +2686,8 @@
             "description": "This course examines important historical themes in a trans-Atlantic context. Readings will invite exploration of changes, continuities, contrasts, and causation of similar phenomena on both side of the ocean, in the Americas, Europe, and/or Africa.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Historiography",
@@ -2384,7 +2695,8 @@
             "description": "Acquaints graduate students with examples of modern historical thought and practice by examining various conceptual approaches to the study of history. May be repeated to a maximum of six hours.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Ancient History",
@@ -2392,7 +2704,8 @@
             "description": "Readings and research on selected problems in ancient history. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Ancient History",
@@ -2400,7 +2713,8 @@
             "description": "Reading of standard works and recent scholarship on selected problems in ancient history. May be repeated a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in English History",
@@ -2408,7 +2722,8 @@
             "description": "Readings in historical literature covering period since 1660; particular reference to new interpretations of political, social developments. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Medieval Culture",
@@ -2416,7 +2731,8 @@
             "description": "Investigates cultural developments in the medieval period. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Medieval History",
@@ -2424,7 +2740,8 @@
             "description": "Readings in medieval history and historiography with emphasis on current scholarship. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in Medieval Paleography",
@@ -2432,7 +2749,8 @@
             "description": "This course provides an introduction to medieval and Renaissance manuscript-sources and their use as research-tools in a fairly wide variety of sub-fields (e.g., archival study, scholastic text-analysis, vernacular literature).  Graded on A-F basis only.",
             "prerequisites": "departmental consent and competence in Latin grammar required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Seminar in the Renaissance and Reformation",
@@ -2440,7 +2758,8 @@
             "description": "Analyzes problems of the period 1300-1600; emphasizes intellectual history. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Early Modern European History",
@@ -2448,7 +2767,8 @@
             "description": "Readings in historical classics and current scholarship on Renaissance, Reformation, Baroque, and Enlightenment periods. Problem of modernity. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Modern European History",
@@ -2456,7 +2776,8 @@
             "description": "Readings in recent research material on selected topics. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Latin American History",
@@ -2464,7 +2785,8 @@
             "description": "Readings in standard and recent historical literature, with critical discussion of reports on special topics. May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies on India in World History",
@@ -2472,7 +2794,8 @@
             "description": "This course is designed to introduce graduate students to major themes of South Asian history as well as to show how South Asian history may be integrated into world history survey course. Graded on A-F basis only.",
             "prerequisites": "consent of department required",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Studies in Muslim History",
@@ -2480,7 +2803,8 @@
             "description": "This course is designed to introduce graduate students to major themes in Muslim history, to supplement their current studies, and to provide a background necessary to teach surveys in world history, the modern world, or interdisciplinary studies. Graded on A-F basis only.",
             "prerequisites": "departmental consent",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "PhD Research in History",
@@ -2488,7 +2812,8 @@
             "description": "Work equal to research done for a dissertation, but not leading to thesis.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "PhD Research in History",
@@ -2496,7 +2821,8 @@
             "description": "Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }

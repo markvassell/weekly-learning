@@ -8,7 +8,8 @@
             "description": "Students see patients with psychiatric disorders in the outpatient clinics, in hospital settings and on consultation services.",
             "prerequisites": "None Listed",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Rural Psychiatry Clerkship",
@@ -16,7 +17,8 @@
             "description": "Rural Psychiatry Clerkship",
             "prerequisites": "None Listed",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Springfield Psychiatry Clerkship",
@@ -24,15 +26,19 @@
             "description": "Students see patients with psychiatric disorders in the outpatient clinics, in hospital settings and on consultation services.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "8",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Remediation Psychiatry Clerkship",
             "number": "6105",
             "description": "Enrolled students are those who received an unsatisfactory grade in a Psychiatry Clerkship at any Mizzou Med location or site. This course gives the student an opportunity to rectify their deficiency.",
-            "prerequisites": "PSCHTY 6005 Psychiatry Clerkship, received unsatisfactory grade",
+            "prerequisites": "PSCHTY 6005 Psychiatry Clerkship, received unsatisfactory grade",
             "hours": "6",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSCHTY 6005"
+            ]
         },
         {
             "name": "ABS Psychiatry Research",
@@ -40,7 +46,8 @@
             "description": "ABS Psychiatry Research",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Psychiatry Research and Review",
@@ -48,7 +55,8 @@
             "description": "ABS Psychiatry Research and Review",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "ABS Psychopharmacology",
@@ -56,7 +64,8 @@
             "description": "ABS Psychopharmacology",
             "prerequisites": "None Listed",
             "hours": "5-10",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Narrative Med and the Meaningful Life",
@@ -64,7 +73,8 @@
             "description": "The 4th year medical student will attend didactics and participate in discussions. They will complete suggested readings (short stories, poems and essays), assessments and writing assignments/projects.  May be repeated for credit.",
             "prerequisites": "4th year medical student, all core clerkships",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Adult Outpatient Psychology - Rural",
@@ -72,15 +82,19 @@
             "description": "Adult Outpatient Psychology - Rural",
             "prerequisites": "None Listed",
             "hours": "3",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Psychiatry Rural Elective",
             "number": "6731",
             "description": "The 4th year medical student will participate in the evaluation of adult psychiatric patients and child psychiatric patients in a clinical setting.",
-            "prerequisites": "PSCHTY 6005; restricted to 4th year medical students",
+            "prerequisites": "PSCHTY 6005; restricted to 4th year medical students",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": [
+                "PSCHTY 6005"
+            ]
         },
         {
             "name": "Psychiatry Outpatient Clinic",
@@ -88,7 +102,8 @@
             "description": "Psychiatry Outpatient Clinic",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Psychiatry Adult Inpatient Service",
@@ -96,7 +111,8 @@
             "description": "Psychiatry Adult Inpatient Service",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Psychosomatic Medicine",
@@ -104,7 +120,8 @@
             "description": "Psychosomatic Medicine",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Forensic Psychiatry",
@@ -112,7 +129,8 @@
             "description": "Forensic Psychiatry",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Child/Adolescent Psychiatry",
@@ -120,7 +138,8 @@
             "description": "Child/Adolescent Psychiatry",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Geriatric Psychiatry",
@@ -128,7 +147,8 @@
             "description": "Geriatric Psychiatry",
             "prerequisites": "None Listed",
             "hours": "5",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Two Week - Psychiatry Adult Inpatient Service",
@@ -136,7 +156,8 @@
             "description": "The student will work as a member of an inpatient multidisciplinary team and participate in the evaluation and treatment of adults on an acute care inpatient psychiatry service at MUPC. Typical activities include following several patients, observing and conducting psychiatric evaluation, collecting collateral information, reviewing medical records, participation in staffings, rounds and therapeutic groups and documentation in the medical record.",
             "prerequisites": "Successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Two Week - Child and Adolescent Psychiatry",
@@ -144,7 +165,8 @@
             "description": "The student will work as a member of an inpatient multidisciplinary team and participate in the evaluation and treatment of children and adolescents on an acute care child inpatient psychiatry service at MUPC. Typical activities include following several patients, observing and conducting psychiatric evaluation, collecting collateral information, reviewing medical records, participation in staffings, rounds and therapeutic groups and documentation in the medical record.",
             "prerequisites": "Successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         },
         {
             "name": "Two Week - Psychiatry Consultation and Liaison",
@@ -152,7 +174,8 @@
             "description": "Students will participate in the psychiatric consultation process for medical rehabilitation, medical and surgical inpatients. The types of patients seen present with a wide spectrum of psychiatric conditions such as depression, substance abuse, anxiety disorders, delirium, dementia, somatoform disorders, personality disorders, psychotic disorders and organic behavior/mood disorders. Typical duties include bedside evaluation in collaboration with attendings and residents, documentation and presentation of findings and recommendations and participation in rounds.",
             "prerequisites": "Successful completion of the first two years of medical school",
             "hours": "2",
-            "recommendation": "None Listed"
+            "recommendation": "None Listed",
+            "connections": "None Listed"
         }
     ]
 }
