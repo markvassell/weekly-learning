@@ -137,3 +137,5 @@ if __name__ == "__main__":
 
         with open("../Output/"+department_name+".json", "w+") as outfile:
             outfile.write(json.dumps(class_list, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))
+
+        class_list = []
