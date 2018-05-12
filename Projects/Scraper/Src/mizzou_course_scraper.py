@@ -92,22 +92,21 @@ def clean_course_description(data):
 
         data = data[0:edge_case4]
 
-    # print(data)
-    # print(hours)
-    # print(pre_req)
+
 
     return data, hours, pre_req, recommendation
 
 
 if __name__ == "__main__":
-    class_list = []
+
     all_offerings = urlopen('http://catalog.missouri.edu/courseofferings/')
     all_data = bS(all_offerings, 'html.parser')
 
     link_container = all_data.find('div', {'id': 'co_departments'})
     department_links = link_container.find_all('a', href=True)
     #print(department_links)
-    all_data = {}
+    department_complete_data = {}
+    class_list = []
     for link in department_links:
 
         page = urlopen("http://catalog.missouri.edu/"+link['href'])
@@ -116,19 +115,15 @@ if __name__ == "__main__":
 
         department_name = get_department_name(page_data)
         print(department_name)
-        department_info = department_name.split('(')
+        department_info = department_name.split(' (')
         if len(department_info) == 2:
             department_name = department_info[0]
             department_code = department_info[1].replace(')', '')
         else:
-            department_name = department_info[0]
+            department_name = department_info[0] + ' ' + department_info[1].replace(')', '')
             department_code = department_info[2].replace(')', '')
 
-
-        #print(department_name)
-        #print(department_code)
-
-        all_data.update({
+        department_complete_data.update({
                         'department_name' : department_name,
                         'department_code' : department_code
         })
@@ -158,10 +153,10 @@ if __name__ == "__main__":
                     "recommendation": class_description[3]
                 }
             )
-        all_data.update({"courses" : class_list})
+        department_complete_data.update({"courses" : class_list})
         with open("../Output/"+department_code+".json", "w+") as outfile:
-            outfile.write(json.dumps(all_data, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))
+            outfile.write(json.dumps(department_complete_data, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))
+
 
         class_list = []
-        all_data = {}
-        #print(json.dumps(all_data, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))
+        department_complete_data = {}
