@@ -140,16 +140,20 @@ if __name__ == "__main__":
             class_name = info.find('p', {'class': 'courseblocktitle'}).text
             class_name = class_name.split(':  ')
             class_name[0] = class_name[0].replace("\xa0", " ")
+            code, number = class_name[0].split(' ')
+            number = number.replace("_", "")
+            class_name[0] = number
+
 
             class_description = info.find('p', {'class': 'courseblockdesc'}).text
             class_description = clean_course_description(class_description)
             class_list.append(
                 {
-                    "course_number": class_name[0],
-                    "course_name": class_name[1],
-                    "course_description": class_description[0],
+                    "name": class_name[1],
+                    "number": class_name[0].replace('_', ''),
+                    "description": class_description[0],
                     "prerequisites": class_description[2],
-                    "credit_hours": class_description[1],
+                    "hours": class_description[1],
                     "recommendation": class_description[3]
                 }
             )

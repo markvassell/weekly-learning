@@ -3,43 +3,43 @@
     "department_code": "OPHTH",
     "courses": [
         {
-            "course_number": "OPHTH 6321",
-            "course_name": "ABS Age-Related Mechanism of Degeneration",
-            "course_description": "ABS Age-Related Mechanism of Degeneration",
+            "name": "ABS Age-Related Mechanism of Degeneration",
+            "number": "6321",
+            "description": "ABS Age-Related Mechanism of Degeneration",
             "prerequisites": "None Listed",
-            "credit_hours": "5-10",
+            "hours": "5-10",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "OPHTH 6323",
-            "course_name": "ABS  Ophthalmology Research",
-            "course_description": "ABS  Ophthalmology Research",
+            "name": "ABS  Ophthalmology Research",
+            "number": "6323",
+            "description": "ABS  Ophthalmology Research",
             "prerequisites": "None Listed",
-            "credit_hours": "5-10",
+            "hours": "5-10",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "OPHTH 6325",
-            "course_name": "ABS Ophthalmology Research and Review",
-            "course_description": "ABS Ophthalmology Research and Review",
+            "name": "ABS Ophthalmology Research and Review",
+            "number": "6325",
+            "description": "ABS Ophthalmology Research and Review",
             "prerequisites": "None Listed",
-            "credit_hours": "5",
+            "hours": "5",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "OPHTH 6585",
-            "course_name": "Ophthalmology",
-            "course_description": "Ophthalmology",
+            "name": "Ophthalmology",
+            "number": "6585",
+            "description": "Ophthalmology",
             "prerequisites": "None Listed",
-            "credit_hours": "5",
+            "hours": "5",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "OPHTH 6936",
-            "course_name": "Introduction to Ophthalmology",
-            "course_description": "Welcome to the Ophthalmology Elective. This curriculum is designed to introduce you to the specialty of ophthalmology, which involves the recognition, diagnosis, and management of diseases of the eye. Students will work in the outpatient setting seeing patients at the University Eye Institute. Students will participate in didactic sessions each week. During this 2 week elective, students will become familiar with the screening eye examination, learn to perform a more comprehensive ocular examination, learn about common ocular abnormalities and treatments, and become familiar with the common ophthalmic instruments.",
+            "name": "Introduction to Ophthalmology",
+            "number": "6936",
+            "description": "Welcome to the Ophthalmology Elective. This curriculum is designed to introduce you to the specialty of ophthalmology, which involves the recognition, diagnosis, and management of diseases of the eye. Students will work in the outpatient setting seeing patients at the University Eye Institute. Students will participate in didactic sessions each week. During this 2 week elective, students will become familiar with the screening eye examination, learn to perform a more comprehensive ocular examination, learn about common ocular abnormalities and treatments, and become familiar with the common ophthalmic instruments.",
             "prerequisites": "successful completion of the first two years of medical school",
-            "credit_hours": "2",
+            "hours": "2",
             "recommendation": "None Listed"
         }
     ]

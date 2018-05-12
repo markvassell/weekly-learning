@@ -3,59 +3,59 @@
     "department_code": "HLTHPSYC",
     "courses": [
         {
-            "course_number": "HLTHPSYC 3100",
-            "course_name": "Applied Behavior Analysis and Autism",
-            "course_description": "Students will learn the behavioral principles and techniques currently employed to help children with autism acquire functional language, appropriate social behavior, and general academic and living skills as well as decrease problematic behaviors. The objectives of this course are to: 1) To identify and describe key features of applied behavior analysis (ABA), particularly as it applies to intervention for children with autism. 2) To identify and describe key issues in curricular design, program development, and evidence-based interventions in autism. 3) To become familiar with key outcome research in behavioral interventions for children with autism. 4) To become familiar with key research on language, social skills, self-help skills, and problem behavior reduction as these areas relate to the behavioral treatment of autism. Graded on A-F basis only.",
+            "name": "Applied Behavior Analysis and Autism",
+            "number": "3100",
+            "description": "Students will learn the behavioral principles and techniques currently employed to help children with autism acquire functional language, appropriate social behavior, and general academic and living skills as well as decrease problematic behaviors. The objectives of this course are to: 1) To identify and describe key features of applied behavior analysis (ABA), particularly as it applies to intervention for children with autism. 2) To identify and describe key issues in curricular design, program development, and evidence-based interventions in autism. 3) To become familiar with key outcome research in behavioral interventions for children with autism. 4) To become familiar with key research on language, social skills, self-help skills, and problem behavior reduction as these areas relate to the behavioral treatment of autism. Graded on A-F basis only.",
             "prerequisites": "None Listed",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HLTHPSYC 3500",
-            "course_name": "Research and Practice in Applied Behavior Analysis",
-            "course_description": "Students will learn about the principles and procedures of applied behavior analysis through weekly reading assignments, discussions, and presentations. Student will gain experience applying this knowledge to improve behavior in a practical setting. Graded on A-F basis only.",
+            "name": "Research and Practice in Applied Behavior Analysis",
+            "number": "3500",
+            "description": "Students will learn about the principles and procedures of applied behavior analysis through weekly reading assignments, discussions, and presentations. Student will gain experience applying this knowledge to improve behavior in a practical setting. Graded on A-F basis only.",
             "prerequisites": "HLTHPSYC 3100",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HLTHPSYC 8100",
-            "course_name": "Concepts and Principles in Behavior Analysis",
-            "course_description": "This course will provide an overview of both classic and contemporary theory and research on nonhuman and human learning. We will focus on a behavior-analytic conceptualization of learning and the underlying research on basic processes and operations that result in learning. The readings and class discussions will provide you with a strong foundation in the psychology of learning from a behavioral orientation, with particular emphasis on the relation between biological and environmental contributions to selection of behavior. To effectively produce socially significant behavior change among members of clinical populations, we must approach the task with a thorough understanding of these basic principles. Graded on A-F basis only.",
+            "name": "Concepts and Principles in Behavior Analysis",
+            "number": "8100",
+            "description": "This course will provide an overview of both classic and contemporary theory and research on nonhuman and human learning. We will focus on a behavior-analytic conceptualization of learning and the underlying research on basic processes and operations that result in learning. The readings and class discussions will provide you with a strong foundation in the psychology of learning from a behavioral orientation, with particular emphasis on the relation between biological and environmental contributions to selection of behavior. To effectively produce socially significant behavior change among members of clinical populations, we must approach the task with a thorough understanding of these basic principles. Graded on A-F basis only.",
             "prerequisites": -1,
-            "credit_hours": "3Prerequisites or Corequisites: Admission to the Graduate Certificate program in Applied Behavior Analysis",
+            "hours": "3Prerequisites or Corequisites: Admission to the Graduate Certificate program in Applied Behavior Analysis",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HLTHPSYC 8200",
-            "course_name": "Advanced Applied Behavior Analysis",
-            "course_description": "This course provides students with a basic understanding of the fundamentals of behavior analysis and behavioral interventions designed to establish, shape, strengthen and maintain desirable behavior and reduce aberrant behavior. The course focuses on the application of behavioral principles using procedures such as differential reinforcement, extinction, antecedent interventions, and punishment. Graded on A-F basis only.",
+            "name": "Advanced Applied Behavior Analysis",
+            "number": "8200",
+            "description": "This course provides students with a basic understanding of the fundamentals of behavior analysis and behavioral interventions designed to establish, shape, strengthen and maintain desirable behavior and reduce aberrant behavior. The course focuses on the application of behavioral principles using procedures such as differential reinforcement, extinction, antecedent interventions, and punishment. Graded on A-F basis only.",
             "prerequisites": "None Listed",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HLTHPSYC 8300",
-            "course_name": "Ethics in Applied Behavior Analysis",
-            "course_description": "This course provides the student with an in-depth coverage of ethics and professional behavior in applied behavior analysis. This course will help the student become prepared to sit for the Behavior Analyst Certification Board exam. Graded on A-F basis only.",
+            "name": "Ethics in Applied Behavior Analysis",
+            "number": "8300",
+            "description": "This course provides the student with an in-depth coverage of ethics and professional behavior in applied behavior analysis. This course will help the student become prepared to sit for the Behavior Analyst Certification Board exam. Graded on A-F basis only.",
             "prerequisites": "Student must be enrolled in the Graduate Certificate in ABA or Master's in ABA program",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HLTHPSYC 8400",
-            "course_name": "Survey of Applied Behavior Analysis",
-            "course_description": "This course builds upon the basic principles of learning and applied behavior analysis presented during previous courses in the Behavior Analysis core. The course will offer coverage of the many different applications of behavior analysis (e.g., behavioral medicine, behavioral gerontology, substance abuse, organizational behavior management, etc.). Finally, this class will cover topics related to professional development. Graded on A-F basis only.",
+            "name": "Survey of Applied Behavior Analysis",
+            "number": "8400",
+            "description": "This course builds upon the basic principles of learning and applied behavior analysis presented during previous courses in the Behavior Analysis core. The course will offer coverage of the many different applications of behavior analysis (e.g., behavioral medicine, behavioral gerontology, substance abuse, organizational behavior management, etc.). Finally, this class will cover topics related to professional development. Graded on A-F basis only.",
             "prerequisites": "HLTHPSYC 8100 OR HLTHPSYC 8200",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HLTHPSYC 8800",
-            "course_name": "Practicum in Applied Behavior Analysis",
-            "course_description": "The Practicum in Applied Behavior Analysis provides practical training in ABA. Graduate students will participate in an intensive practicum that focuses on developing well-rounded training in ABA. Students will work hands on with children at the MU Thompson Center for Autism and Neurodevelopmental Disorders. By the completion of the practicum, students will be well versed in the development of skill building programs as well as behavioral reduction programs that focus on function-based interventions (e.g., functional analyses). Graded on S/U basis only.",
+            "name": "Practicum in Applied Behavior Analysis",
+            "number": "8800",
+            "description": "The Practicum in Applied Behavior Analysis provides practical training in ABA. Graduate students will participate in an intensive practicum that focuses on developing well-rounded training in ABA. Students will work hands on with children at the MU Thompson Center for Autism and Neurodevelopmental Disorders. By the completion of the practicum, students will be well versed in the development of skill building programs as well as behavioral reduction programs that focus on function-based interventions (e.g., functional analyses). Graded on S/U basis only.",
             "prerequisites": "Students must be enrolled in the Graduate Certificate in ABA or Masters of Science in ABA programs",
-            "credit_hours": "1-3",
+            "hours": "1-3",
             "recommendation": "None Listed"
         }
     ]

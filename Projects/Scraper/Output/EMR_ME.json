@@ -3,67 +3,67 @@
     "department_code": "EMR_ME",
     "courses": [
         {
-            "course_number": "EMR_ME 6034",
-            "course_name": "SCC Emergency Medicine Selective",
-            "course_description": "This selective is designed to offer an introductory experience in Emergency Medicine, including all levels of acuity and pre-hospital emergency care. The student will work 15-16 (~140 hours) rotating shifts in the Emergency Department. During that time, the student will have free access to all patient care activities. The student will assist with patient evaluations and procedures under the close supervision of the Emergency attending physicians, residents, or physician assistants. Specific time will be devoted to learning basic skills needed in emergency medicine. An orientation skills lab will be provided early in the rotation to cover suturing, splinting, etc. Teaching will be primarily a one-on-one exchange with the residents and PA's/Attendings. There are night shifts in this rotation.",
+            "name": "SCC Emergency Medicine Selective",
+            "number": "6034",
+            "description": "This selective is designed to offer an introductory experience in Emergency Medicine, including all levels of acuity and pre-hospital emergency care. The student will work 15-16 (~140 hours) rotating shifts in the Emergency Department. During that time, the student will have free access to all patient care activities. The student will assist with patient evaluations and procedures under the close supervision of the Emergency attending physicians, residents, or physician assistants. Specific time will be devoted to learning basic skills needed in emergency medicine. An orientation skills lab will be provided early in the rotation to cover suturing, splinting, etc. Teaching will be primarily a one-on-one exchange with the residents and PA's/Attendings. There are night shifts in this rotation.",
             "prerequisites": "Successful completion of the first two years of medical school. Successful completion of 5 of the 7 core clerkships. Three of the 5 must be the Surgery Clerkship, Internal Medicine Clerkship, and either the Pediatrics or Family Medicine Clerkship",
-            "credit_hours": "5",
+            "hours": "5",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "EMR_ME 6243",
-            "course_name": "ABS Emergency Medicine Research",
-            "course_description": "ABS Emergency Medicine Research",
+            "name": "ABS Emergency Medicine Research",
+            "number": "6243",
+            "description": "ABS Emergency Medicine Research",
             "prerequisites": "None Listed",
-            "credit_hours": "5-10",
+            "hours": "5-10",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "EMR_ME 6245",
-            "course_name": "ABS Emergency Medicine Research and Review",
-            "course_description": "ABS Emergency Medicine Research and Review",
+            "name": "ABS Emergency Medicine Research and Review",
+            "number": "6245",
+            "description": "ABS Emergency Medicine Research and Review",
             "prerequisites": "None Listed",
-            "credit_hours": "5-10",
+            "hours": "5-10",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "EMR_ME 6460",
-            "course_name": "Emergency Medicine",
-            "course_description": "Emergency Medicine",
+            "name": "Emergency Medicine",
+            "number": "6460",
+            "description": "Emergency Medicine",
             "prerequisites": "None Listed",
-            "credit_hours": "5",
+            "hours": "5",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "EMR_ME 6760",
-            "course_name": "Emergency Medicine - Rural",
-            "course_description": "Emergency Medicine - Rural",
+            "name": "Emergency Medicine - Rural",
+            "number": "6760",
+            "description": "Emergency Medicine - Rural",
             "prerequisites": "None Listed",
-            "credit_hours": "5",
+            "hours": "5",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "EMR_ME 6860",
-            "course_name": "EMERGENCY MEDICINE",
-            "course_description": "Emergency Medicine",
+            "name": "EMERGENCY MEDICINE",
+            "number": "6860",
+            "description": "Emergency Medicine",
             "prerequisites": "None Listed",
-            "credit_hours": "5",
+            "hours": "5",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "EMR_ME 6919",
-            "course_name": "Introduction to Emergency Medicine",
-            "course_description": "This elective is designed to offer an introductory experience in Emergency Medicine, including all levels of acuity and pre-hospital emergency care.",
+            "name": "Introduction to Emergency Medicine",
+            "number": "6919",
+            "description": "This elective is designed to offer an introductory experience in Emergency Medicine, including all levels of acuity and pre-hospital emergency care.",
             "prerequisites": "Successful completion of the first two years of medical school",
-            "credit_hours": "2",
+            "hours": "2",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "EMR_ME 6920",
-            "course_name": "Introduction to Pediatric Emergency Medicine",
-            "course_description": "This elective is designed to offer an introductory experience in Pediatric Emergency Medicine (PEM) including all levels of acuity and pre-hospital emergency care.",
+            "name": "Introduction to Pediatric Emergency Medicine",
+            "number": "6920",
+            "description": "This elective is designed to offer an introductory experience in Pediatric Emergency Medicine (PEM) including all levels of acuity and pre-hospital emergency care.",
             "prerequisites": "successful completion of the first two years of medical school",
-            "credit_hours": "2",
+            "hours": "2",
             "recommendation": "None Listed"
         }
     ]

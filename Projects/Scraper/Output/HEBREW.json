@@ -3,59 +3,59 @@
     "department_code": "HEBREW",
     "courses": [
         {
-            "course_number": "HEBREW 1100",
-            "course_name": "Elementary Hebrew I",
-            "course_description": "For beginners with no prior knowledge of Hebrew. Five hours of classroom instruction, with one hour lab work weekly.",
+            "name": "Elementary Hebrew I",
+            "number": "1100",
+            "description": "For beginners with no prior knowledge of Hebrew. Five hours of classroom instruction, with one hour lab work weekly.",
             "prerequisites": "None Listed",
-            "credit_hours": "6",
+            "hours": "6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HEBREW 1200",
-            "course_name": "Elementary Hebrew II",
-            "course_description": "Five hours of classroom instruction, with one hour lab work weekly.",
+            "name": "Elementary Hebrew II",
+            "number": "1200",
+            "description": "Five hours of classroom instruction, with one hour lab work weekly.",
             "prerequisites": "C- or better in HEBREW 1100, or equivalent",
-            "credit_hours": "6",
+            "hours": "6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HEBREW 2001",
-            "course_name": "Topics in Hebrew-General",
-            "course_description": "Organized study of selected topics. Subjects and topics may vary semester to semester. May be repeated with departmental consent.",
+            "name": "Topics in Hebrew-General",
+            "number": "2001",
+            "description": "Organized study of selected topics. Subjects and topics may vary semester to semester. May be repeated with departmental consent.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-3",
+            "hours": "1-3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HEBREW 2005",
-            "course_name": "Topics in Hebrew - Humanities",
-            "course_description": "Organized study of selected topics. Subjects and topics may vary semester to semester. May be repeated with departmental consent. No knowledge of Hebrew required. No language credit.",
+            "name": "Topics in Hebrew - Humanities",
+            "number": "2005",
+            "description": "Organized study of selected topics. Subjects and topics may vary semester to semester. May be repeated with departmental consent. No knowledge of Hebrew required. No language credit.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-3",
+            "hours": "1-3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HEBREW 3085",
-            "course_name": "Problems in Hebrew",
-            "course_description": "Supervised study of Hebrew language and/or culture.",
+            "name": "Problems in Hebrew",
+            "number": "3085",
+            "description": "Supervised study of Hebrew language and/or culture.",
             "prerequisites": "instructor's consent",
-            "credit_hours": "1-3",
+            "hours": "1-3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HEBREW 3310",
-            "course_name": "Introduction to Israeli Culture",
-            "course_description": "Examines unique qualities that shape modern Israeli culture; looks at major social and political events that have shaped ethnicity, ideology, religion, identity, and diversity of the State of Israel. Discusses literature, the fine arts, language, and the mass media. No Foreign Language credit. Graded on A-F basis only.",
+            "name": "Introduction to Israeli Culture",
+            "number": "3310",
+            "description": "Examines unique qualities that shape modern Israeli culture; looks at major social and political events that have shaped ethnicity, ideology, religion, identity, and diversity of the State of Israel. Discusses literature, the fine arts, language, and the mass media. No Foreign Language credit. Graded on A-F basis only.",
             "prerequisites": "sophomore standing or instructor's consent",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "HEBREW 3845",
-            "course_name": "Modern Israeli Film",
-            "course_description": "(same as FILM_S 3845). Examines the modern film of developing Israel. Discusses complex social relationships. Introduces concepts of Hebrew language and its use in the arts world-wide. Discusses varied communities in Israel, and universal themes such as democracy and social justice. Provides introduction to Israeli culture. Graded on A-F basis only.",
+            "name": "Modern Israeli Film",
+            "number": "3845",
+            "description": "(same as FILM_S 3845). Examines the modern film of developing Israel. Discusses complex social relationships. Introduces concepts of Hebrew language and its use in the arts world-wide. Discusses varied communities in Israel, and universal themes such as democracy and social justice. Provides introduction to Israeli culture. Graded on A-F basis only.",
             "prerequisites": "sophomore standing or instructor's consent required",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         }
     ]

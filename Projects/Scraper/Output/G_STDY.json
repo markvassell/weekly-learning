@@ -3,51 +3,51 @@
     "department_code": "G_STDY",
     "courses": [
         {
-            "course_number": "G_STDY 3301",
-            "course_name": "Topics in General Studies",
-            "course_description": "Experimental and/or interdisciplinary. Subjects and earnable credit may vary from semester to semester.",
+            "name": "Topics in General Studies",
+            "number": "3301",
+            "description": "Experimental and/or interdisciplinary. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-99",
+            "hours": "1-99",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "G_STDY 4940",
-            "course_name": "Internship in General Studies",
-            "course_description": "Internship limited to students pursuing the Bachelor of General Studies degree. Graded on S/U basis only.",
+            "name": "Internship in General Studies",
+            "number": "4940",
+            "description": "Internship limited to students pursuing the Bachelor of General Studies degree. Graded on S/U basis only.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "G_STDY 4950",
-            "course_name": "Special Project in General Studies",
-            "course_description": "With advisor's approval, student works with a faculty member on a major reading, research, or creative project, usually of interdisciplinary nature.",
+            "name": "Special Project in General Studies",
+            "number": "4950",
+            "description": "With advisor's approval, student works with a faculty member on a major reading, research, or creative project, usually of interdisciplinary nature.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "G_STDY 4960",
-            "course_name": "Readings in General Studies",
-            "course_description": "Independent readings with supervisory faculty member. May be repeated to a maximum of six hours.",
+            "name": "Readings in General Studies",
+            "number": "4960",
+            "description": "Independent readings with supervisory faculty member. May be repeated to a maximum of six hours.",
             "prerequisites": "Open only to General Studies majors",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "G_STDY 4970",
-            "course_name": "Directed Readings in General Studies",
-            "course_description": "Independent readings with supervisory faculty member; this course serves as the student's capstone experience.",
+            "name": "Directed Readings in General Studies",
+            "number": "4970",
+            "description": "Independent readings with supervisory faculty member; this course serves as the student's capstone experience.",
             "prerequisites": "Open only to General Studies majors only",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "G_STDY 4971",
-            "course_name": "Internship in General Studies",
-            "course_description": "Internship experience which serves as the student's capstone experience.  Program advisor must approve internship.  Section 2 of this course will be designated for Service Learning Capstone experience.  Graded on S/U basis only.",
+            "name": "Internship in General Studies",
+            "number": "4971",
+            "description": "Internship experience which serves as the student's capstone experience.  Program advisor must approve internship.  Section 2 of this course will be designated for Service Learning Capstone experience.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         }
     ]

@@ -3,35 +3,35 @@
     "department_code": "ARABIC",
     "courses": [
         {
-            "course_number": "ARABIC 1100",
-            "course_name": "Elementary Arabic I",
-            "course_description": "For beginners with no prior knowledge of Arabic.  An elementary level course designed to facilitate student's acquisition of basic proficiency in communication within culturally significant contexts.  Students learn Modern Standard Arabic language skills in an environment integrating interactive video and classroom instruction.",
+            "name": "Elementary Arabic I",
+            "number": "1100",
+            "description": "For beginners with no prior knowledge of Arabic.  An elementary level course designed to facilitate student's acquisition of basic proficiency in communication within culturally significant contexts.  Students learn Modern Standard Arabic language skills in an environment integrating interactive video and classroom instruction.",
             "prerequisites": "None Listed",
-            "credit_hours": "6",
+            "hours": "6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "ARABIC 1200",
-            "course_name": "Elementary Arabic II",
-            "course_description": "This course builds upon the foundation established in ARABIC 1100. Greater emphasis is placed on oral and written expression. Cultural issues are explored in an environment integrating interactive video and classroom instruction.",
+            "name": "Elementary Arabic II",
+            "number": "1200",
+            "description": "This course builds upon the foundation established in ARABIC 1100. Greater emphasis is placed on oral and written expression. Cultural issues are explored in an environment integrating interactive video and classroom instruction.",
             "prerequisites": "C- or higher in ARABIC 1100, or instructor's permission",
-            "credit_hours": "6",
+            "hours": "6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "ARABIC 2005",
-            "course_name": "Undergraduate Topics in Arabic - Humanities",
-            "course_description": "Organized study of selected topics.  Subjects and credits may vary from semester to semester.  May be repeated with departmental consent.",
+            "name": "Undergraduate Topics in Arabic - Humanities",
+            "number": "2005",
+            "description": "Organized study of selected topics.  Subjects and credits may vary from semester to semester.  May be repeated with departmental consent.",
             "prerequisites": "sophomore standing or instructor's consent",
-            "credit_hours": "1-3",
+            "hours": "1-3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "ARABIC 2130",
-            "course_name": "Intermediate Arabic",
-            "course_description": "Builds on students' knowledge of Elementary Arabic by investing in four language skills of listening, speaking, reading, and writing.  Course is culturally oriented and considers various social, political, and religious forces to play in Arab world.  Offers a unique blend of modern standards and colloquial Arabic.  Enables students to develop listening comprehension, initiate and sustain conversations on daily-life topics, read texts on familiar topics, and write informal essays on topics, and write informal essays on topics connected to daily life.",
+            "name": "Intermediate Arabic",
+            "number": "2130",
+            "description": "Builds on students' knowledge of Elementary Arabic by investing in four language skills of listening, speaking, reading, and writing.  Course is culturally oriented and considers various social, political, and religious forces to play in Arab world.  Offers a unique blend of modern standards and colloquial Arabic.  Enables students to develop listening comprehension, initiate and sustain conversations on daily-life topics, read texts on familiar topics, and write informal essays on topics, and write informal essays on topics connected to daily life.",
             "prerequisites": "ARABIC 1200 or equivalent",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         }
     ]

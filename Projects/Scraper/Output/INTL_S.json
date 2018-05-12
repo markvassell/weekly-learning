@@ -3,59 +3,59 @@
     "department_code": "INTL_S",
     "courses": [
         {
-            "course_number": "INTL_S 2940",
-            "course_name": "Capstone Internship in International Studies",
-            "course_description": "Internship limited to students pursuing the AB in International Studies Degree. May be repeated to a maximum of six hours. Graded on S/U basis only.",
+            "name": "Capstone Internship in International Studies",
+            "number": "2940",
+            "description": "Internship limited to students pursuing the AB in International Studies Degree. May be repeated to a maximum of six hours. Graded on S/U basis only.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "INTL_S 2960",
-            "course_name": "Capstone Readings in International Studies",
-            "course_description": "Independent readings with supervisory faculty member. Open only to international studies majors. May be repeated up to a maximum of 6 hours.",
+            "name": "Capstone Readings in International Studies",
+            "number": "2960",
+            "description": "Independent readings with supervisory faculty member. Open only to international studies majors. May be repeated up to a maximum of 6 hours.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "INTL_S 4290",
-            "course_name": "Pre-Departure Seminar for the TaLK Program",
-            "course_description": "Prior to beginning the TaLK Program in Korea, students will explore Korean language, culture and educational system through seminars and workshops provided by the Asian Affairs Staff and guest speakers. Graded on A-F basis only.",
+            "name": "Pre-Departure Seminar for the TaLK Program",
+            "number": "4290",
+            "description": "Prior to beginning the TaLK Program in Korea, students will explore Korean language, culture and educational system through seminars and workshops provided by the Asian Affairs Staff and guest speakers. Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "INTL_S 4940",
-            "course_name": "Internship in International Studies",
-            "course_description": "Internship limited to students pursuing the AB in International Studies degree.  May be repeated to a maximum of six hours.  Graded on S/U basis only.",
+            "name": "Internship in International Studies",
+            "number": "4940",
+            "description": "Internship limited to students pursuing the AB in International Studies degree.  May be repeated to a maximum of six hours.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "INTL_S 4960",
-            "course_name": "Readings in International Studies",
-            "course_description": "Independent readings with supervisory faculty member. Open only to International Studies majors. May be repeated up to a maximum of 6 hours.",
+            "name": "Readings in International Studies",
+            "number": "4960",
+            "description": "Independent readings with supervisory faculty member. Open only to International Studies majors. May be repeated up to a maximum of 6 hours.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "INTL_S 4970",
-            "course_name": "Special Readings in International Studies",
-            "course_description": "Independent readings with supervisory faculty member; this course serves as the students' capstone experience.  Open only to International studies majors.",
+            "name": "Special Readings in International Studies",
+            "number": "4970",
+            "description": "Independent readings with supervisory faculty member; this course serves as the students' capstone experience.  Open only to International studies majors.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "INTL_S 4971",
-            "course_name": "Capstone Internship in International Studies",
-            "course_description": "Internship experience which serves as the student's capstone experience.  Program advisor must approve internships.  Section 2 of this course will be designated for Service Learning Capstone experience.  Graded on S/U basis only.",
+            "name": "Capstone Internship in International Studies",
+            "number": "4971",
+            "description": "Internship experience which serves as the student's capstone experience.  Program advisor must approve internships.  Section 2 of this course will be designated for Service Learning Capstone experience.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
-            "credit_hours": "1-6",
+            "hours": "1-6",
             "recommendation": "None Listed"
         }
     ]

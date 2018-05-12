@@ -3,35 +3,35 @@
     "department_code": "ELSP",
     "courses": [
         {
-            "course_number": "ELSP _0100",
-            "course_name": "Grammar and  Composition I",
-            "course_description": "Grammar and  Composition I.  Graded S/U only.",
+            "name": "Grammar and  Composition I",
+            "number": "0100",
+            "description": "Grammar and  Composition I.  Graded S/U only.",
             "prerequisites": "None Listed",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "ELSP _0200",
-            "course_name": "Reading and Vocabulary",
-            "course_description": "Reading and Vocabulary.  Graded on S/U basis only.",
+            "name": "Reading and Vocabulary",
+            "number": "0200",
+            "description": "Reading and Vocabulary.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "ELSP _0300",
-            "course_name": "Grammar and Composition II",
-            "course_description": "Grammar and Composition II.  Graded S/U Only.",
+            "name": "Grammar and Composition II",
+            "number": "0300",
+            "description": "Grammar and Composition II.  Graded S/U Only.",
             "prerequisites": "None Listed",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "ELSP _0400",
-            "course_name": "Oral Communication",
-            "course_description": "Oral Communication.  Graded S/U Only.",
+            "name": "Oral Communication",
+            "number": "0400",
+            "description": "Oral Communication.  Graded S/U Only.",
             "prerequisites": "None Listed",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         }
     ]

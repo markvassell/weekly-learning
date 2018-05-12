@@ -3,43 +3,43 @@
     "department_code": "PM_REH",
     "courses": [
         {
-            "course_number": "PM_REH 6351",
-            "course_name": "ABS Physical Medicine/Rehab. Mechanism of Disease",
-            "course_description": "ABS Physical Medicine/Rehab. Mechanism of Disease",
+            "name": "ABS Physical Medicine/Rehab. Mechanism of Disease",
+            "number": "6351",
+            "description": "ABS Physical Medicine/Rehab. Mechanism of Disease",
             "prerequisites": "None Listed",
-            "credit_hours": "5-10",
+            "hours": "5-10",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "PM_REH 6353",
-            "course_name": "ABS Physical Medicine/Rehab. Research",
-            "course_description": "ABS Physical Medicine/Rehab. Research",
+            "name": "ABS Physical Medicine/Rehab. Research",
+            "number": "6353",
+            "description": "ABS Physical Medicine/Rehab. Research",
             "prerequisites": "None Listed",
-            "credit_hours": "5-10",
+            "hours": "5-10",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "PM_REH 6355",
-            "course_name": "ABS Physical Medicine/Rehab. Research and Review",
-            "course_description": "ABS Physical Medicine/Rehab. Research and Review",
+            "name": "ABS Physical Medicine/Rehab. Research and Review",
+            "number": "6355",
+            "description": "ABS Physical Medicine/Rehab. Research and Review",
             "prerequisites": "None Listed",
-            "credit_hours": "5-10",
+            "hours": "5-10",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "PM_REH 6615",
-            "course_name": "Physical Medicine and Rehabilitation",
-            "course_description": "Physical Medicine and Rehabilitation",
+            "name": "Physical Medicine and Rehabilitation",
+            "number": "6615",
+            "description": "Physical Medicine and Rehabilitation",
             "prerequisites": "None Listed",
-            "credit_hours": "5",
+            "hours": "5",
             "recommendation": "None Listed"
         },
         {
-            "course_number": "PM_REH 6915",
-            "course_name": "Rehabilitation of Musculoskeletal and Neurologic Diseases",
-            "course_description": "The rotating student will be an integral part of the inpatient team, serving in an active role on the floor and participating in the evaluation and treatment of clinic patients. Daily morning rounds will be completed with the inpatient teams and will be followed by scheduled didactic sessions with various faculty throughout the week. Outpatient rotations will be included as a fundamental clinical experience and will encompass the breadth of PM&R to the best that can be accomplished in this short block. In-depth examinations of the neurologic and musculoskeletal systems will be performed.",
+            "name": "Rehabilitation of Musculoskeletal and Neurologic Diseases",
+            "number": "6915",
+            "description": "The rotating student will be an integral part of the inpatient team, serving in an active role on the floor and participating in the evaluation and treatment of clinic patients. Daily morning rounds will be completed with the inpatient teams and will be followed by scheduled didactic sessions with various faculty throughout the week. Outpatient rotations will be included as a fundamental clinical experience and will encompass the breadth of PM&R to the best that can be accomplished in this short block. In-depth examinations of the neurologic and musculoskeletal systems will be performed.",
             "prerequisites": "Successful completion of the first two years of medical school",
-            "credit_hours": "2",
+            "hours": "2",
             "recommendation": "None Listed"
         }
     ]

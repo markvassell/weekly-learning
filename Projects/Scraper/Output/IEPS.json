@@ -3,11 +3,11 @@
     "department_code": "IEPS",
     "courses": [
         {
-            "course_number": "IEPS _0001",
-            "course_name": "Level I Guided Reading and Vocabulary",
-            "course_description": "Students will increase reading fluency and vocabulary in beginning-level texts while developing independence and an appreciation of reading.  Not open to native speakers of English. No college credit.",
+            "name": "Level I Guided Reading and Vocabulary",
+            "number": "0001",
+            "description": "Students will increase reading fluency and vocabulary in beginning-level texts while developing independence and an appreciation of reading.  Not open to native speakers of English. No college credit.",
             "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
-            "credit_hours": "3",
+            "hours": "3",
             "recommendation": "None Listed"
         }
     ]
