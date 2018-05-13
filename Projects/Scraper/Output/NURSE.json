@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Advisory Seminar for Nursing",
-            "number": "1000",
+            "number": "NURSE 1000",
             "description": "Orientation to the undergraduate nursing program, professional role development, and introduction to the professional milieu. Graded on an S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Nursing as a Profession",
-            "number": "2000",
+            "number": "NURSE 2000",
             "description": "Introduces the structure of nursing knowledge and explores professional nursing role characteristics from historical, ethical, legal, economic, professional, occupational and social perspectives. Examines nursing as subsystem of the health care system.",
             "prerequisites": "sophomore standing.  Restricted to pre-nursing majors with a GPA of 2.8 or higher",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Nursing as a Profession",
-            "number": "2000H",
+            "number": "NURSE 2000H",
             "description": "Introduces the structure of nursing knowledge and explores professional nursing role characteristics from historical, ethical, legal, economic, professional, occupational, and social perspectives. Examines nursing as subsystem of the health care system. Graded on A-F basis only.",
             "prerequisites": "Sophomore standing with undergraduate GPA of 2.8 or higher; honors eligibility required",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Communication Issues in Nursing",
-            "number": "2100",
+            "number": "NURSE 2100",
             "description": "In this course students develop their interpersonal communication skills and cultural competency in health care. Topics include social determinants of health, biases in the healthcare setting, diversity issues in health care, health literacy and health disparities. Students will learn evidence-based communication techniques.",
             "prerequisites": "Sophomore Standing.  Restricted to pre-nursing majors only",
             "hours": "2",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Psychosocial and Communication Issues in Nursing - Honors",
-            "number": "2100H",
+            "number": "NURSE 2100H",
             "description": "Reviews psychosocial and communication issues.  Focuses on improving interpersonal communication skills and learning how to provide therapeutic interventions to people with selected mental health issues.  An experiential model emphasizes personal skill development strategies.",
             "prerequisites": "Sophomore Standing.  Restricted to pre-nursing majors only.   Honors eligibility required",
             "hours": "2-3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Topics in Nursing - Biological, Physical, Mathematical",
-            "number": "3002",
+            "number": "NURSE 3002",
             "description": "Specialized topics in nursing not available through regularly offered courses. . Sections may be offered either on S/U or A-F basis.",
             "prerequisites": "None Listed",
             "hours": "1-4",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Cultural Expeditions in Nursing",
-            "number": "3006",
+            "number": "NURSE 3006",
             "description": "Directed field experiences in varied settings exploring local customs and cultural/ethnic diversities influencing health care delivery. Graded on S/U basis only.",
             "prerequisites": "Consent of Instructor required",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Communication and Computer Skills",
-            "number": "3080",
+            "number": "NURSE 3080",
             "description": "Introduces RN students to MU and MU Sinclair School of Nursing. Provides education in essential competencies needed for success in the RN-BSN Option including writing skills, computer literacy, library and Internet research.",
             "prerequisites": "clinical major",
             "hours": "2",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Communication and Computer Skills",
-            "number": "3080W",
+            "number": "NURSE 3080W",
             "description": "Introduces RN students to MU and MU Sinclair School of Nursing. Provides education in essential competencies needed for success in the RN-BSN Option including writing skills, computer literacy, library and Internet research.",
             "prerequisites": "clinical major",
             "hours": "2",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Pharmacology for Nursing",
-            "number": "3100",
+            "number": "NURSE 3100",
             "description": "This course will focus on pharmacological classification and the nurse's role in medication administration and patient education.  Medication issues with special populations will be addressed.  Graded on A-F basis only.",
             "prerequisites": "PTH_AS 2201 and PTH_AS 2203 and MPP 3202",
             "hours": "3",
@@ -98,16 +98,18 @@
         },
         {
             "name": "Nursing Skills, Technologies, and Simulation",
-            "number": "3170",
+            "number": "NURSE 3170",
             "description": "Provides laboratory experiences for fundamental to complex nursing skills and procedures. Focuses on application of therapeutic interventions and procedure to provide safe, patient-centered care.",
             "prerequisites": "None Listed",
             "hours": "4",
             "recommendation": "NURSE 3270",
-            "connections": "None Listed"
+            "connections": [
+                "NURSE 3270"
+            ]
         },
         {
             "name": "Role Transitions",
-            "number": "3180",
+            "number": "NURSE 3180",
             "description": "Explores returning-to-school issues important to adult learners. Links previous basic nursing courses with baccalaureate courses and begins building new knowledge on prior nursing education.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 3080",
@@ -116,7 +118,7 @@
         },
         {
             "name": "Pathophysiology",
-            "number": "3200",
+            "number": "NURSE 3200",
             "description": "Focus is on commonly occurring alterations in health across the life span.  Developmental concepts, diagnostics, and treatment modalities are integrated throughout course content. Enrollment requires admission to the clinical nursing major BSN option.",
             "prerequisites": "MPP 3202  or equivalent course and PTH_AS 2201 and PTH_AS 2203 or equivalent coursesCorequisites: MICROB 2800 or MICROB 3200",
             "hours": "4",
@@ -131,7 +133,7 @@
         },
         {
             "name": "Pathophysiology",
-            "number": "3260",
+            "number": "NURSE 3260",
             "description": "Focus is on commonly occurring alterations in health across the life span.  Developmental concepts, diagnostics, and treatment modalities are integrated throughout course content.  Course is designed for students applying to the accelerated BSN option.",
             "prerequisites": "MPP 3202; PTH_AS 2201 and PTH_AS 2203",
             "hours": "3PrerequisitesorCorequisites:MICROB 2800orMICROB 3200",
@@ -144,7 +146,7 @@
         },
         {
             "name": "Foundations of Nursing: Physical Assessment and the Nursing Process",
-            "number": "3270",
+            "number": "NURSE 3270",
             "description": "NURSE 3270 provides knowledge and skills in physical assessment and the application of the Nursing Process.  Clinical application of foundational knowledge determines the health status of individuals.",
             "prerequisites": "None Listed",
             "hours": "5Prerequisites or Corequisites: For Clinical BSN, students must have completed NURSE 2000 and NURSE 2100 and be concurrently enrolled in NURSE 3170, NURSE  3200, NURSE 3300; for Clinical BSN Accelerated students must have completed NURSE 3200 or NURSE 3260 and be concurrently enrolled  NURSE 3170 and NURSE 3100 or NURSE 3300",
@@ -153,16 +155,20 @@
         },
         {
             "name": "Pharmacology and Nursing Implications",
-            "number": "3300",
+            "number": "NURSE 3300",
             "description": "This course will focus on pharmacological classifications and the nurse's role in medication administration and patient education.  Medication issues with special populations will be addressed.  Graded on a A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "4",
             "recommendation": "PTH_AS 2201 and PTH_AS 2203 and MPP 3202",
-            "connections": "None Listed"
+            "connections": [
+                "MPP 3202",
+                "PTH_AS 2201",
+                "PTH_AS 2203"
+            ]
         },
         {
             "name": "Individual Study",
-            "number": "3350",
+            "number": "NURSE 3350",
             "description": "Independent study for qualified students in specific areas of interest in nursing under faculty guidance. Some sections may be graded A-F only or S/U only.",
             "prerequisites": "instructor's consent",
             "hours": "0-6",
@@ -171,7 +177,7 @@
         },
         {
             "name": "Mental Health Nursing",
-            "number": "3470",
+            "number": "NURSE 3470",
             "description": "Students discover behavioral, social, interpersonal, and neuro-biological aspects of mental health nursing.  Therapeutic use of self in designing and implementing nursing care for clients throughout the life cycle is emphasized. Content on psychopathology is included.",
             "prerequisites": "NURSE 3270",
             "hours": "5",
@@ -182,7 +188,7 @@
         },
         {
             "name": "Nursing of Adults I",
-            "number": "3670",
+            "number": "NURSE 3670",
             "description": "Application of the nursing process to deliver care for hospitalized adults with health deviations. Evidence, technologies, professional standards and collaboration are used to enhance patient-centered, safe and effective care.",
             "prerequisites": "NURSE 3170, NURSE 3270, NURSE 3100 or NURSE 3300, NURSE 3200 or NURSE 3260Corequisites: NURSE 3900",
             "hours": "6",
@@ -199,7 +205,7 @@
         },
         {
             "name": "Nursing of the Childbearing Family",
-            "number": "3750",
+            "number": "NURSE 3750",
             "description": "This course provides learning experiences with childbearing families.  Students apply the nursing process to promote health and well-being for the childbearing family.  Graded on A-F basis only.",
             "prerequisites": "NURSE 3260 or NURSE 3200, and NURSE 3270, NURSE 3100, admission to accelerated BSN option",
             "hours": "3",
@@ -213,7 +219,7 @@
         },
         {
             "name": "Pediatric Nursing",
-            "number": "3760",
+            "number": "NURSE 3760",
             "description": "Provides learning experiences with children and their families from newborn to adolescents.  Examines health alterations that interfere with self-care in and for children.",
             "prerequisites": "NURSE 3270, admission to accelerated option",
             "hours": "3",
@@ -224,7 +230,7 @@
         },
         {
             "name": "Gerontological Nursing Care",
-            "number": "3870",
+            "number": "NURSE 3870",
             "description": "Emphasis on normal aging processes, health promotion, disease prevention, management of complex health conditions, and evaluation of care for older adults.",
             "prerequisites": "NURSE 3270Corequisites: NURSE 3300 or NURSE 3100 or equivalent",
             "hours": "3",
@@ -237,7 +243,7 @@
         },
         {
             "name": "Introduction to Nursing Science",
-            "number": "3900",
+            "number": "NURSE 3900",
             "description": "Introduces nursing as a science from the perspective of knowledge development. Structures nursing knowledge from a theoretical perspective. Presents nursing research as a method of knowledge development and validation.",
             "prerequisites": "STAT 1200 or STAT 1300 or ESC_PS 4170 and Clinical Nursing Major",
             "hours": "3",
@@ -250,7 +256,7 @@
         },
         {
             "name": "Nursing Ethics and Law",
-            "number": "4200",
+            "number": "NURSE 4200",
             "description": "This course examines and explores legal and ethical principles and applications as they pertain to clinical nursing practice and healthcare. The information in this course is applied in concurrent and subsequent program courses and provides a foundation for ethical and legal professional nursing practice.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 3270 or NURSE 3080",
@@ -259,7 +265,7 @@
         },
         {
             "name": "Nursing Ethics and Law - Writing Intensive",
-            "number": "4200W",
+            "number": "NURSE 4200W",
             "description": "Analyzes clinical nursing situations using ethical principles and decision-making models.  Examines the basic doctrines and principles foundational for providing legally sound nursing practice.",
             "prerequisites": "Senior Clinical Major",
             "hours": "3-4PrerequisitesorCorequisites:NURSE 3080orNURSE 3670",
@@ -268,7 +274,7 @@
         },
         {
             "name": "Legal Concepts in Nursing",
-            "number": "4201",
+            "number": "NURSE 4201",
             "description": "This course examines fundamental legal guidelines for professional nursing practice using content gleaned from nursing and medicine. The student will analyze and apply legal principles pertaining to nursing practice. Enrollment requires a prerequisite of a medical ethics, healthcare ethics or a bioethics course which is subject to instructor approval. Graded on A-F basis only.",
             "prerequisites": "PHIL 2440 or PHIL 1150 or HLTH_SCI 4480",
             "hours": "1",
@@ -281,7 +287,7 @@
         },
         {
             "name": "Nursing of Children",
-            "number": "4270",
+            "number": "NURSE 4270",
             "description": "Nursing of children with acute and chronic health and developmental deviations.  Self-care and dependent care abilities are emphasized.  Content includes health promotion for infants, children and adolescents.",
             "prerequisites": "NURSE 3470, NURSE 3670",
             "hours": "5",
@@ -293,7 +299,7 @@
         },
         {
             "name": "Nursing Issues/Leadership and Management",
-            "number": "4300",
+            "number": "NURSE 4300",
             "description": "Examines leadership and organizational theories in relation to resource management and effective delivery of nursing to sets of clients. Analyzes societal/political issues and trends related to nursing and contemporary health care.",
             "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: NURSE 3670 or NURSE 3180",
@@ -302,7 +308,7 @@
         },
         {
             "name": "Health Assessment and Pathophysiology",
-            "number": "4380",
+            "number": "NURSE 4380",
             "description": "Examines biologic basis for selected commonly occurring diseases throughout the life-span. Study and performance of health assessments with application of findings to adults and children.",
             "prerequisites": "NURSE 4950",
             "hours": "4",
@@ -313,7 +319,7 @@
         },
         {
             "name": "Nursing Leadership and Management",
-            "number": "4400",
+            "number": "NURSE 4400",
             "description": "Examines leadership, management, and organizational theories in relation to resource management and effective delivery of nursing to sets of clients.  Analyzes societal and political issues and trends related to nursing and contemporary health care. Graded on A-F basis only.",
             "prerequisites": "NURSE 3080, NURSE 3180, or NURSE 3670",
             "hours": "2PrerequisitesorCorequisites:NURSE 3180",
@@ -326,7 +332,7 @@
         },
         {
             "name": "Nursing of Women and Newborns",
-            "number": "4470",
+            "number": "NURSE 4470",
             "description": "This course examines newborn care, women's reproductive and post reproductive health, and health deviation concerns of women and newborns. This course emphasizes development, implementation, and evaluation of nursing systems for families and their members.",
             "prerequisites": "NURSE 3170, NURSE 3270, NURSE 3300, NURSE 3200, NURSE 3900, NURSE 3670, and NURSE 3470",
             "hours": "5",
@@ -343,7 +349,7 @@
         },
         {
             "name": "Women's Health",
-            "number": "4600",
+            "number": "NURSE 4600",
             "description": "A survey of international and domestic women's health issues; considers historical antecedents and specific effects of socio-cultural variables and economic development on women's health in developing and developed nations.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -352,7 +358,7 @@
         },
         {
             "name": "Nursing of Adults II",
-            "number": "4870",
+            "number": "NURSE 4870",
             "description": "Application of nursing process to care for adults with acute physiological health deviations. Leadership and management principles are integrated in delivering care for sets of clients.",
             "prerequisites": "NURSE 3470, NURSE 3670, NURSE 3750 or 4470, and NURSE 3760 or NURSE 4270",
             "hours": "4-7PrerequisitesorCorequisites:NURSE 4970",
@@ -367,7 +373,7 @@
         },
         {
             "name": "Nursing of Adults II Honors",
-            "number": "4870H",
+            "number": "NURSE 4870H",
             "description": "Application of nursing process to care for adults with acute physiological health deviations.  Leadership and management principles are integrated in delivering patient care.  Graded on A-F basis only.",
             "prerequisites": "NURSE 3470, NURSE 3670, NURSE 3750 or 4470, and NURSE 3760 or NURSE 4270; Honors eligibility required",
             "hours": "4PrerequisitesorCorequisites:NURSE 4970",
@@ -382,7 +388,7 @@
         },
         {
             "name": "Evidence-Based Nursing Practice",
-            "number": "4930",
+            "number": "NURSE 4930",
             "description": "Concepts of evidence-based nursing practice are applied to clinical nursing questions, emphasizing use of research findings in practice settings to generate best nursing practices and optimal patient care outcomes.",
             "prerequisites": "NURSE 4950",
             "hours": "5",
@@ -393,7 +399,7 @@
         },
         {
             "name": "Evidence-Based Nursing Practice - Writing Intensive",
-            "number": "4930W",
+            "number": "NURSE 4930W",
             "description": "Concepts of evidence-based nursing practice are applied to clinical nursing questions, emphasizing use of research findings in practice settings to generate best nursing practices and optimal patient care outcomes.",
             "prerequisites": "NURSE 4950",
             "hours": "5",
@@ -404,7 +410,7 @@
         },
         {
             "name": "Nursing Theory and Research",
-            "number": "4950",
+            "number": "NURSE 4950",
             "description": "Addresses nursing research as means of acquiring and refining knowledge. Research utilization to impact nursing addressed. Examines development and utilization of nursing theory, primarily Self-Care Deficit Nursing Theory.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 3080",
@@ -413,7 +419,7 @@
         },
         {
             "name": "Nursing Theory and Research - Writing Intensive",
-            "number": "4950W",
+            "number": "NURSE 4950W",
             "description": "Addresses nursing research as means of acquiring and refining knowledge. Research utilization to impact nursing addressed. Examines development and utilization of nursing theory, primarily Self-Care Deficit Nursing Theory.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 3080",
@@ -422,7 +428,7 @@
         },
         {
             "name": "Nursing in Communities",
-            "number": "4970",
+            "number": "NURSE 4970",
             "description": "Examines roles and functions of nurses within community with emphasis on application of community/public health concepts and design and implementation of nursing systems of care for individuals, families, and populations.",
             "prerequisites": "NURSE 4270 and NURSE 3470; or NURSE 3760 or NURSE 4930",
             "hours": "4-5",
@@ -436,7 +442,7 @@
         },
         {
             "name": "Nursing in Communities - Writing Intensive",
-            "number": "4970W",
+            "number": "NURSE 4970W",
             "description": "Examines roles and functions of nurses within community with emphasis on application of community/public health concepts and design and implementation of nursing systems of care for individuals, families, and populations.",
             "prerequisites": "NURSE 4270 and NURSE 3470; or NURSE 3760 or NURSE 4930",
             "hours": "4-5",
@@ -450,7 +456,7 @@
         },
         {
             "name": "Special Topics in Nursing",
-            "number": "7001",
+            "number": "NURSE 7001",
             "description": "Specialized topics in advanced nursing not available through regularly offered courses.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -459,7 +465,7 @@
         },
         {
             "name": "Biostatistical Foundations for Health Researchers",
-            "number": "7010",
+            "number": "NURSE 7010",
             "description": "Examines basic concepts of data management, study design, descriptive and inferential biostatistics using analytic software. Emphasizes statistical literacy and critical thinking for health researchers. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -468,7 +474,7 @@
         },
         {
             "name": "Problems in Nursing",
-            "number": "7085",
+            "number": "NURSE 7085",
             "description": "Guided readings, special study, and/or a practicum in an area of the student's interest or an area which the student needs to strengthen.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -477,7 +483,7 @@
         },
         {
             "name": "Leadership and Technology Institute",
-            "number": "7087",
+            "number": "NURSE 7087",
             "description": "Introduction to knowledge and skills essential to support research and practice doctorates. May be repeated for credit.",
             "prerequisites": "Admission to DNP or PhD program",
             "hours": "1",
@@ -486,7 +492,7 @@
         },
         {
             "name": "Theoretical Basis for Advanced Nursing",
-            "number": "7100",
+            "number": "NURSE 7100",
             "description": "Analysis, application and evaluation of a variety of nursing and non nursing theories used in advanced nursing practice and research.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -495,7 +501,7 @@
         },
         {
             "name": "Advanced Nursing Role Acquisition",
-            "number": "7110",
+            "number": "NURSE 7110",
             "description": "An overview of the advanced nursing practice role and professional issues.  Provides foundational knowledge on which other advanced nursing courses will build.",
             "prerequisites": "Admission to the graduate program or faculty consent",
             "hours": "3",
@@ -504,7 +510,7 @@
         },
         {
             "name": "Trends and Issues in Nursing",
-            "number": "7111",
+            "number": "NURSE 7111",
             "description": "Issues and trends involving professional nursing practice are examined from socioeconomic, organizational, legal and ethical perspectives. Past, present and future roles and practice of nurses are examined.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -513,7 +519,7 @@
         },
         {
             "name": "Advanced Physiology and Pathophysiology",
-            "number": "7120",
+            "number": "NURSE 7120",
             "description": "Focus on the normal and altered physiological functioning of body systems.  Provides essential knowledge of human health and disease across the lifespan necessary for advanced nursing practice.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -522,7 +528,7 @@
         },
         {
             "name": "Advanced Pharmacology and Pharmacotherapeutics",
-            "number": "7130",
+            "number": "NURSE 7130",
             "description": "Advanced practice nurse drug therapy management for health maintenance and treatment of acute episodic and chronic health problems in various populations over the life span.",
             "prerequisites": "BSN or instructor's consent",
             "hours": "3",
@@ -531,7 +537,7 @@
         },
         {
             "name": "Advanced Health Assessment and Promotion",
-            "number": "7140",
+            "number": "NURSE 7140",
             "description": "Expands history and physical assessment techniques across lifespan.  Addresses diagnostic reasoning, differential diagnosis, selection of common diagnostic test, disease risk factors, and health promotion strategies.",
             "prerequisites": "BSN or instructor's consent",
             "hours": "3.5",
@@ -540,7 +546,7 @@
         },
         {
             "name": "Research Basis for Advanced Nursing",
-            "number": "7150",
+            "number": "NURSE 7150",
             "description": "Examines fundamentals of scientific inquiry.  Addresses research design issues.  Focuses on interpreting, critiquing, and synthesizing research findings.",
             "prerequisites": "NURSE 7100",
             "hours": "3",
@@ -551,7 +557,7 @@
         },
         {
             "name": "Stress Management",
-            "number": "7211",
+            "number": "NURSE 7211",
             "description": "Review of contemporary research on the causes, prevention, and treatment of stress. Examination of utility and validity of a variety of stress reduction methods. Development of selected self-management skills.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -560,7 +566,7 @@
         },
         {
             "name": "Legal Parameters of Nursing",
-            "number": "7212",
+            "number": "NURSE 7212",
             "description": "This course provides the basic doctrines and principles of the law foundational to legally sound nursing practice. Included among significant topics are tort law, nurse practice act, licensure, effect of contract law.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -569,7 +575,7 @@
         },
         {
             "name": "Advanced Health Assessment for Pediatric Nursing Practice",
-            "number": "7310",
+            "number": "NURSE 7310",
             "description": "Comprehensive assessment of children through adolescence including those with significant health and/or developmental deviations using advanced diagnostic reasoning process. Emphasis on health history, cultural diversity, differentiation, interpretation and documentation of findings.",
             "prerequisites": "None Listed",
             "hours": "3.5",
@@ -578,7 +584,7 @@
         },
         {
             "name": "Pediatric Pharmacology for Advanced Nursing Practice",
-            "number": "7330",
+            "number": "NURSE 7330",
             "description": "Clinical pharmacotherapeutics course that builds on prior pharmacology knowledge. Major focus is pharmacotherapeutics for primary care management of children to age eighteen. Emphasis on clinical critical thinking used to prescribe drugs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -587,7 +593,7 @@
         },
         {
             "name": "Women's Health",
-            "number": "7600",
+            "number": "NURSE 7600",
             "description": "A survey of international and domestic women's health issues; considers historical antecedents and specific effects of socio-cultural variables and economic development on women's health in developing and developed nations.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -596,7 +602,7 @@
         },
         {
             "name": "Physical Function and Older Adults",
-            "number": "7750",
+            "number": "NURSE 7750",
             "description": "(Same as F_C_MD 7750, ARCHST 7640, HMI 7750, H_D_FS 7750, P_HLTH 7750, and SOC_WK 7752). This course takes an interdisciplinary approach to understanding and improving the physical function and independence of older adults and explores approaches to alleviate disabling conditions that interfere with physical function and quality of life in old age.  Graded A-F only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -605,7 +611,7 @@
         },
         {
             "name": "Psychosocial Function and Older Adults",
-            "number": "7751",
+            "number": "NURSE 7751",
             "description": "(same as ARCHST 7650,  F_C_MD 7751, HMI 7751, H_D_FS 7751, P_HLTH 7751 and SOC_WK 7751).  This course takes an Interdisciplinary approach to understanding the psychosocial function of older adults and explores approaches to alleviate disabling conditions that interfere with psychosocial function and quality of life in old age.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -614,7 +620,7 @@
         },
         {
             "name": "Preparing Nurse Educators",
-            "number": "7854",
+            "number": "NURSE 7854",
             "description": "Explores the role of the nurse educator.  Emphasis will be on the development, evaluation, differences and implementation of the nurse educator in the functional roles.",
             "prerequisites": "Admission to the Master Science in Nursing Program or instructor's consent",
             "hours": "3",
@@ -623,7 +629,7 @@
         },
         {
             "name": "Topics in Advanced Clinical Nursing",
-            "number": "8001",
+            "number": "NURSE 8001",
             "description": "Specialized topics in advanced clinical nursing not available through regularly offered courses.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -632,7 +638,7 @@
         },
         {
             "name": "Research Topics in Nursing and Health",
-            "number": "8002",
+            "number": "NURSE 8002",
             "description": "Topics courses are intended for special offerings, or as opportunities to experiment with a new course prior to seeking approval for it as a regular course. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -641,7 +647,7 @@
         },
         {
             "name": "Family Dynamics and Intervention",
-            "number": "8010",
+            "number": "NURSE 8010",
             "description": "(same as H_D_FS 8012). Theories of family function and dysfunction; techniques of assessment; models of family intervention. Practicum with selected families.",
             "prerequisites": "NURSE 7100 (Nursing students)",
             "hours": "3",
@@ -652,7 +658,7 @@
         },
         {
             "name": "Intermediate Statistical Methods for Health Researchers",
-            "number": "8020",
+            "number": "NURSE 8020",
             "description": "Examination of generalized linear models, multiple logistic regression, and multilevel modeling as applied to health sciences research.",
             "prerequisites": "NURSE 7010 or equivalent",
             "hours": "3",
@@ -663,7 +669,7 @@
         },
         {
             "name": "Interpreting Statistical Evidence in the Health Sciences",
-            "number": "8030",
+            "number": "NURSE 8030",
             "description": "Students learn to critically evaluate statistical designs and data analysis methods used in health sciences research and scientific evidence for health care decision making. May be repeated for credit.",
             "prerequisites": "Graduate level statistics course",
             "hours": "3",
@@ -672,7 +678,7 @@
         },
         {
             "name": "Problems in Nursing",
-            "number": "8085",
+            "number": "NURSE 8085",
             "description": "Guided readings, special study and/or a practicum in an area of the student's interest or in an area which the student needs to strengthen. Selected sections of the course may be offered on A-F or S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-4",
@@ -681,7 +687,7 @@
         },
         {
             "name": "Research in Nursing",
-            "number": "8090",
+            "number": "NURSE 8090",
             "description": "Original investigation for presentation as thesis or dissertation. Graded on S/U basis only.",
             "prerequisites": "graduate statistics, instructor's consent",
             "hours": "1-99",
@@ -690,7 +696,7 @@
         },
         {
             "name": "Principles of Epidemiology",
-            "number": "8100",
+            "number": "NURSE 8100",
             "description": "Explores key concepts of epidemiology and epidemiologic methods for studying the distribution and determinants of health and disease in populations.  Application to public health and population-based practice addressed.",
             "prerequisites": "NURSE 7150 or faculty consent",
             "hours": "3",
@@ -701,7 +707,7 @@
         },
         {
             "name": "Concepts for Specialization in Public Health Nursing",
-            "number": "8110",
+            "number": "NURSE 8110",
             "description": "Key concepts fundamental to specialization in public health nursing, including core public health functions. Emphasis upon integrating public health science, nursing theory, and methodological/leadership skills.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 7100",
@@ -710,7 +716,7 @@
         },
         {
             "name": "Community-Based Public Health Interventions",
-            "number": "8120",
+            "number": "NURSE 8120",
             "description": "Assessing and Diagnosing health-related needs of at-risk and vulnerable populations. Evaluating outcome-based research. Clinical practice implementing a public health intervention. ",
             "prerequisites": "None Listed",
             "hours": "3-4.5",
@@ -719,7 +725,7 @@
         },
         {
             "name": "Special Health Care Needs of Children",
-            "number": "8210",
+            "number": "NURSE 8210",
             "description": "Perform developmental, neuro developmental, and psychosocial assessments of chronically ill children.  Collaborate with families, schools; health care, community, family services to meet child's needs.",
             "prerequisites": "NURSE 7100 or instructor's consent",
             "hours": "3.5-5",
@@ -730,7 +736,7 @@
         },
         {
             "name": "Public Health and Sociocultural Issues",
-            "number": "8300",
+            "number": "NURSE 8300",
             "description": "Explores concepts of public health with a focus on the advanced practice nurse in population-based/primary care practice; core public health functions will be addressed at three service levels--the aggregate, the family, and the individual.",
             "prerequisites": "NURSE 7100",
             "hours": "3",
@@ -741,7 +747,7 @@
         },
         {
             "name": "Health Disparities of Rural and Other Underserved Populations",
-            "number": "8310",
+            "number": "NURSE 8310",
             "description": "In-depth examination of rural and other vulnerable populations and their interactions with the health care system including access, utilization, and outcomes. May be repeated for credit.",
             "prerequisites": "NURSE 7087, NURSE 8300 or faculty consent",
             "hours": "3",
@@ -753,7 +759,7 @@
         },
         {
             "name": "Adult and Geriatric Primary Care I",
-            "number": "8400",
+            "number": "NURSE 8400",
             "description": "Advanced practice nursing clinical diagnosis and management of acute and chronic cardiovascular, respiratory, HEENT, renal, metabolic and musculoskeletal problems in adults, older adults and their families.",
             "prerequisites": "NURSE 7120, NURSE 7130, NURSE 7140",
             "hours": "3.5-5",
@@ -766,7 +772,7 @@
         },
         {
             "name": "Adult and Geriatric Primary Care II",
-            "number": "8410",
+            "number": "NURSE 8410",
             "description": "Advanced practice nursing clinical diagnosis and management of acute and chronic gastrointestinal, endocrine, hematological, neuropsychological problems and bioterrorism and CAM issues in adults, older adults and their families.",
             "prerequisites": "NURSE 8400",
             "hours": "3.5-5",
@@ -777,7 +783,7 @@
         },
         {
             "name": "Newborn Through Adolescence Primary Care",
-            "number": "8420",
+            "number": "NURSE 8420",
             "description": "Advanced nursing practice of newborn through adolescence of health maintenance/promotion, clinical diagnosis and management of common childhood illness, behavioral, developmental problems.  Advanced knowledge of human growth, development, family dynamics, community resources, collaborative relationships.  Integrated clinical practicum.",
             "prerequisites": "NURSE 7140 or NURSE 7310",
             "hours": "3.5-5",
@@ -789,7 +795,7 @@
         },
         {
             "name": "Participatory Approaches for Health and Health Systems",
-            "number": "8425",
+            "number": "NURSE 8425",
             "description": "(same as F_C_MD 8425).  Focuses on the use of participatory approaches for the design of health and health-system interventions. Graded on A-F basis only.",
             "prerequisites": "NURSE 8100 or F_C_MD 8420 or instructor consent",
             "hours": "3",
@@ -801,7 +807,7 @@
         },
         {
             "name": "Reproductive and Sexual Health Primary Care",
-            "number": "8430",
+            "number": "NURSE 8430",
             "description": "Reproductive, sexual issues, adolescence through aging. Design, delivery, evaluation of nursing management of women, reproductive health care of men. Stresses personal health promotion.",
             "prerequisites": "NURSE 7140, NURSE 8410 or instructor's consent",
             "hours": "3.5-5",
@@ -813,7 +819,7 @@
         },
         {
             "name": "Primary Health Care Management of Aging I",
-            "number": "8500",
+            "number": "NURSE 8500",
             "description": "Health promotion, wellness, concepts of normal aging. Design, delivery, evaluation of primary health care management of aging adults from an advanced practice nursing perspective.",
             "prerequisites": "NURSE 7130, NURSE 7140, NURSE 8400 or instructor's consent",
             "hours": "3",
@@ -826,7 +832,7 @@
         },
         {
             "name": "Primary Health Care Management of Aging II",
-            "number": "8510",
+            "number": "NURSE 8510",
             "description": "Continuing emphasis on health promotion, wellness, concepts of aging. Primary health care management of complex health care problems in aging adults from advanced practice nursing perspective.",
             "prerequisites": "NURSE 8410, NURSE 8500, instructor's consent",
             "hours": "3",
@@ -838,7 +844,7 @@
         },
         {
             "name": "Advanced Diagnostics and Reasoning",
-            "number": "8540",
+            "number": "NURSE 8540",
             "description": "Expands upon knowledge of advanced assessment , diagnostic, and procedural skills; utilizes current technology in a cost-effective and patient-centered manner.  Clinical increases specialty-specific knowledge.  May be repeated for credit.",
             "prerequisites": "4th clinical specialty course",
             "hours": "3.5-5",
@@ -847,7 +853,7 @@
         },
         {
             "name": "Diagnostics and Psychopharmacology for Mental Health Nurses",
-            "number": "8610",
+            "number": "NURSE 8610",
             "description": "Emphasis is on the neurobiologic basis and diagnosis of mental health problems and advanced nursing management of psychiatric conditions using pharmaceutical agents.",
             "prerequisites": "NURSE 7120, NURSE 7130 and NURSE 7140",
             "hours": "3.5-4",
@@ -860,7 +866,7 @@
         },
         {
             "name": "Brief Individual Psychotherapy for Mental Health Nurses",
-            "number": "8620",
+            "number": "NURSE 8620",
             "description": "Develops advanced skills in assessment, treatment, and follow-up evaluation of individuals experiencing acute mental health problems. Emphasizes brief psychotherapy based on frameworks from nursing and other disciplines.",
             "prerequisites": "NURSE 8610",
             "hours": "3.5-4",
@@ -871,7 +877,7 @@
         },
         {
             "name": "Group Therapy and Social Skills Training",
-            "number": "8640",
+            "number": "NURSE 8640",
             "description": "Application of group and behavioral methods in mental health prevention, promotion, maintenance, and restoration.  Designing, implementing, and evaluating mental health promotion groups and social skills training programs.",
             "prerequisites": "NURSE 8610",
             "hours": "3.5-4",
@@ -882,7 +888,7 @@
         },
         {
             "name": "Mental Health Nursing Interventions for Families",
-            "number": "8660",
+            "number": "NURSE 8660",
             "description": "Application of nursing and family theories in advanced nursing management of families experiencing a variety of problems. Emphasis on designing, implementing, and evaluating advanced nursing interventions for families.",
             "prerequisites": "NURSE 8620 or consent of instructor",
             "hours": "3.5-4",
@@ -893,7 +899,7 @@
         },
         {
             "name": "Pediatric Mental Health Assessment and Treatment",
-            "number": "8680",
+            "number": "NURSE 8680",
             "description": "Develops advanced skills in psychiatric assessment and follow-up evaluation of children and adolescents experiencing mental health problems.  Explores diagnosis, treatment, and management of child and adolescent mental health disorders. Graded on A-F basis only.",
             "prerequisites": "NURSE 8610 or faculty consent",
             "hours": "3.5-4",
@@ -904,7 +910,7 @@
         },
         {
             "name": "Clinical Management of Acute and Critical Care Problems",
-            "number": "8710",
+            "number": "NURSE 8710",
             "description": "Advanced practice nurse management of selected clinical problems across the lifespan commonly encountered in the acute and/or critical care settings.  Patient safety, technology, and product selection addressed.  Integrated clinical practicum with selected population and setting. May be repeated for credit.",
             "prerequisites": "NURSE 7140",
             "hours": "3.5-5",
@@ -915,7 +921,7 @@
         },
         {
             "name": "Symptom Management in Acute and Chronic Illness",
-            "number": "8720",
+            "number": "NURSE 8720",
             "description": "Clinical management of symptoms of acute and chronic illness across the lifespan.  Preparation for teaching patient self-management strategies.  Integrated clinical practicum with selected population and setting.",
             "prerequisites": "NURSE 7140 and NURSE 7150 or faculty consent",
             "hours": "3-5",
@@ -927,7 +933,7 @@
         },
         {
             "name": "Leadership and Management in Healthcare Systems",
-            "number": "8800",
+            "number": "NURSE 8800",
             "description": "Prepares nurse leaders who facilitate and integrate complex structures and processes in health care systems.  Understanding of partnerships, accountability, continuum-defined health care systems, self-managed teams, and value-based organizations.",
             "prerequisites": "NURSE 7100",
             "hours": "4",
@@ -938,7 +944,7 @@
         },
         {
             "name": "Management of Patient Care Services",
-            "number": "8810",
+            "number": "NURSE 8810",
             "description": "Prepares nurses to effectively manage personnel, clinical operations, and quality improvement initiatives.  Emphasizes techniques that facilitate sound nursing management across the care continuum.  Multiple dimensions of managing patient care operations are considered.",
             "prerequisites": "NURSE 7100",
             "hours": "4",
@@ -949,7 +955,7 @@
         },
         {
             "name": "Health Care Financial Management",
-            "number": "8820",
+            "number": "NURSE 8820",
             "description": "Prepares nurses to use the techniques that facilitate financial analysis and decision-making for patient care programs across the healthcare continuum.  Focuses on efficient, effective management of resources for delivery of quality healthcare services.  ",
             "prerequisites": "  NURSE 7100",
             "hours": ": 4",
@@ -960,7 +966,7 @@
         },
         {
             "name": "Informatics Applications and Innovations in Health Care Systems",
-            "number": "8830",
+            "number": "NURSE 8830",
             "description": "This course explores informatics from the perspective of health related fields through technology assessment and evaluation, and research and development in technological innovations.  The impact of technology on patient privacy will also be examined.  Graded on A-F basis only.",
             "prerequisites": "NURSE 7087 or instructor's consent",
             "hours": "3",
@@ -971,7 +977,7 @@
         },
         {
             "name": "Nursing Leadership, Innovation, and Entrepreneurship",
-            "number": "8840",
+            "number": "NURSE 8840",
             "description": "This course will provide an overview of leadership theories and strategies for managing individuals, groups, or systems within rapidly changing healthcare environments. Innovative and cutting edge phenomena in healthcare will be explored as well as entrepreneurship. May be repeated for credit. Graded on A-F basis only.",
             "prerequisites": "NURSE 7087 or instructors consent",
             "hours": "3",
@@ -982,7 +988,7 @@
         },
         {
             "name": "Teaching Nursing",
-            "number": "8850",
+            "number": "NURSE 8850",
             "description": "Principles and methods of teaching, evaluation, and curriculum construction in undergraduate nursing education.",
             "prerequisites": "ESC_PS 4100 or equivalent",
             "hours": "3",
@@ -993,7 +999,7 @@
         },
         {
             "name": "Teaching Strategies in Nursing",
-            "number": "8854",
+            "number": "NURSE 8854",
             "description": "Examines principles, issues, techniques, and evaluation methods in teaching nursing.  Focuses on the development of a variety of teaching strategies and evaluation methods for didactic and clinical settings.",
             "prerequisites": "NURSE 7100 and NURSE 7110 or instructor's consent",
             "hours": "3",
@@ -1005,7 +1011,7 @@
         },
         {
             "name": "Organizations & Human Resource Management in Nursing",
-            "number": "8860",
+            "number": "NURSE 8860",
             "description": "This course will examine various organizational theories, organizational behavior, and the impact of change within organizations. Participants will apply and analyze workforce management principles in regard to employee rights, resources, and responsibilities. May be repeated for credit. Graded on an A-F basis only.",
             "prerequisites": "NURSE 7087 or instructors consent",
             "hours": "3",
@@ -1016,7 +1022,7 @@
         },
         {
             "name": "Curriculum Development in Nursing",
-            "number": "8864",
+            "number": "NURSE 8864",
             "description": "Examines theoretical foundations, principles, and issues in curriculum design.  Explores systematic evaluation of curriculum at all levels.",
             "prerequisites": "NURSE 7100 and NURSE 7110 or instructor's consent",
             "hours": "3",
@@ -1028,7 +1034,7 @@
         },
         {
             "name": "Clinical/Scholarly Project",
-            "number": "8890",
+            "number": "NURSE 8890",
             "description": "Design, implement and evaluate nursing projects derived from theory, including written report with explanation or justification to support the empirical and/or theoretical basis for the project. Graded on a S/U basis only.",
             "prerequisites": "NURSE 7100, NURSE 7150, graduate statistics",
             "hours": "1-3",
@@ -1040,7 +1046,7 @@
         },
         {
             "name": "Research Practicum in Nursing",
-            "number": "8900",
+            "number": "NURSE 8900",
             "description": "Selected independent research activities in conjunction with ongoing research programs of faculty. Graded on S/U basis only.",
             "prerequisites": "NURSE 7150, graduate statistics, instructor's consent",
             "hours": "1-3",
@@ -1051,7 +1057,7 @@
         },
         {
             "name": "Translational Evidence-Based Nursing Practice",
-            "number": "8910",
+            "number": "NURSE 8910",
             "description": "Provides essential skills for utilizing research to support practice change:  assessing practice based problems, analyzing current evidence, proposing practice changes, and developing plans for implementing evidence-based practice concepts.",
             "prerequisites": "NURSE 8100 or faculty consent",
             "hours": "3",
@@ -1062,7 +1068,7 @@
         },
         {
             "name": "Quality, Safety, and Performance Outcomes",
-            "number": "8920",
+            "number": "NURSE 8920",
             "description": "Uses information systems to identify and analyze patient safety and other clinical issues and recommend system-wide actions and measurement plans that result in safe, effective, efficient, equitable, patient-centered outcomes.",
             "prerequisites": "NURSE 8910",
             "hours": "3",
@@ -1073,7 +1079,7 @@
         },
         {
             "name": "Health Program Design and Management",
-            "number": "8930",
+            "number": "NURSE 8930",
             "description": "Designing, implementing and evaluating effective health programs.  Addresses leadership and organizational change issues.",
             "prerequisites": "NURSE 8920 or instructor's consent",
             "hours": "3",
@@ -1084,7 +1090,7 @@
         },
         {
             "name": "Nursing and Health Policy",
-            "number": "8940",
+            "number": "NURSE 8940",
             "description": "Designed to explore and critically evaluate the role of nursing and nurse leaders/scholars in health policy development and the organization and financing of health care in response to the health and social needs of the public.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1093,7 +1099,7 @@
         },
         {
             "name": "Teaching Nursing Practicum",
-            "number": "8950",
+            "number": "NURSE 8950",
             "description": "Participation in application of principles and methods of teaching, learning, and evaluation to the education of nursing students. Graded on S/U basis only.",
             "prerequisites": "NURSE 8854 and NURSE 8864",
             "hours": "4",
@@ -1105,7 +1111,7 @@
         },
         {
             "name": "Distance-Mediated Teaching Nursing Practicum",
-            "number": "8954",
+            "number": "NURSE 8954",
             "description": "Faculty-guided application of distance mediated teaching, learning, and evaluation methods with graduate &/or undergraduate nursing students. Course graded on S/U basis only.",
             "prerequisites": "NURSE 8854 and NURSE 8864 or equivalents",
             "hours": "4",
@@ -1117,7 +1123,7 @@
         },
         {
             "name": "Leadership in Nursing and Healthcare Systems Practicum",
-            "number": "8960",
+            "number": "NURSE 8960",
             "description": "Participation in application of principles and methods of leadership, management, and evaluation to facilitate patient care operations in various settings. Graded on an S/U basis only.",
             "prerequisites": "NURSE 8800, NURSE 8810, NURSE 8820",
             "hours": "5",
@@ -1130,7 +1136,7 @@
         },
         {
             "name": "APN Role Transition Course",
-            "number": "8970",
+            "number": "NURSE 8970",
             "description": "Focus on refinement of knowledge and skills required for successful transition into an Advanced Practice Nursing career.    Corequisites:  NURSE 8980",
             "prerequisites": "NURSE 7100, NURSE 7150, NURSE 7110, and instructor's consent",
             "hours": "1",
@@ -1143,7 +1149,7 @@
         },
         {
             "name": "Advanced Clinical Nursing Practicum",
-            "number": "8980",
+            "number": "NURSE 8980",
             "description": "Intensive preceptor or faculty-guided clinical experience that synthesizes previous theory and clinical coursework.  Refines knowledge and skills required to transition to an autonomous advanced nursing practice role. Graded on S/U basis only.",
             "prerequisites": "NURSE 7110, NURSE 8910 or faculty consent",
             "hours": "2-7",
@@ -1155,7 +1161,7 @@
         },
         {
             "name": "DNP Clinical Residency",
-            "number": "9070",
+            "number": "NURSE 9070",
             "description": "Intensive clinical experience.  Prepare experts in advanced nursing practice and leadership to effectively evaluate practice problems, translate evidence into practice, monitor outcomes, and implement innovative models of care.   May be repeated for credit. Some sections may be graded on either an A-F or S/U basis only.",
             "prerequisites": "NURSE 8930 and NURSE 8450 or NURSE 8610",
             "hours": "1-5",
@@ -1168,7 +1174,7 @@
         },
         {
             "name": "DNP Residency Project",
-            "number": "9080",
+            "number": "NURSE 9080",
             "description": "Final synthesis of DNP coursework culminating in an in-depth practice  change project or case analysis impacting a rural or other undeserved population or critical healthcare system need.   May be repeated for credit. Some sections may be offered on an A-F or S/U graded basis only.",
             "prerequisites": "None Listed",
             "hours": "1-3Prerequisites or Corequisites: NURSE 8930 and NURSE 9070",
@@ -1177,7 +1183,7 @@
         },
         {
             "name": "Leadership and Transformational Role Institute",
-            "number": "9087",
+            "number": "NURSE 9087",
             "description": "Synthesis of advanced nursing practice knowledge and leadership skills.  Prepares DNP graduate to implement an advanced nursing practice role that will result in practice and/or policy change at the local, state, or national levels.   May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: NURSE 9080 and NURSE 9070",
@@ -1186,7 +1192,7 @@
         },
         {
             "name": "Research in Nursing and Health",
-            "number": "9090",
+            "number": "NURSE 9090",
             "description": "Original research leading to dissertation. Graded on S/U basis only.",
             "prerequisites": "Instructor's consent",
             "hours": "1-12",
@@ -1195,7 +1201,7 @@
         },
         {
             "name": "State of the Science",
-            "number": "9100",
+            "number": "NURSE 9100",
             "description": "The existing body of research literature is the foundation upon which new scientific knowledge is built. This course will guide the student through the purpose and processes of scholarly writing. Students will conduct a systematic review of the scientific literature on a selected focus area in the health sciences. Students will work with course faculty, with input from the student's advisor, to develop and implement strategies to search, evaluate, and synthesize the literature in the selected area. Scholarly writing will be emphasized in this course. Graded on an A-F basis only.",
             "prerequisites": "Admission to a doctoral program or permission of instructor",
             "hours": "3",
@@ -1204,7 +1210,7 @@
         },
         {
             "name": "Conceptual Structure of Nursing",
-            "number": "9110",
+            "number": "NURSE 9110",
             "description": "Conceptualization and theoretical analysis of nursing phenomena; critical evaluation of nursing theories.",
             "prerequisites": "NURSE 7100",
             "hours": "3",
@@ -1215,7 +1221,7 @@
         },
         {
             "name": "Philosophical and Theoretical Basis for Research",
-            "number": "9120",
+            "number": "NURSE 9120",
             "description": "Based on an understanding of the philosophy of science, critically appraise and adapt conceptual models and theoretical frameworks for use in research.",
             "prerequisites": "NURSE 7100 or faculty consent",
             "hours": "3",
@@ -1226,7 +1232,7 @@
         },
         {
             "name": "Philosophy of Science in Nursing",
-            "number": "9130",
+            "number": "NURSE 9130",
             "description": "Overview of foundational concepts of philosophy-history of science; development and evolution of science and philosophical perspectives of nature of science including logical, empiricism, historicism, post-structuralism as related to nursing science/nursing research.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1235,7 +1241,7 @@
         },
         {
             "name": "Responsible Conduct of Research in the Health and Social Sciences",
-            "number": "9131",
+            "number": "NURSE 9131",
             "description": "(same as H_D_FS 9131) This course examines professional research ethics including the rights of human subjects.  Graded on S/U basis only.",
             "prerequisites": "Instructor's permission required",
             "hours": "1",
@@ -1244,7 +1250,7 @@
         },
         {
             "name": "Writing Research Proposals",
-            "number": "9132",
+            "number": "NURSE 9132",
             "description": "(same as H_D_FS 9130) This course teaches the components of writing a research proposal for external funding.  Graded on S/U basis only.",
             "prerequisites": "Instructor's permission required",
             "hours": "3",
@@ -1253,7 +1259,7 @@
         },
         {
             "name": "Macro Social Theory",
-            "number": "9400",
+            "number": "NURSE 9400",
             "description": "(Same as SOC_WK 9400) Building on the foundation laid in Social Work 9100, in depth examination of human development and social environment theories appropriate to scientific examination of social welfare practice with formal organizations, interorgranizational combinations, communities and larger political entities. May be repeated for credit.",
             "prerequisites": "Consent required",
             "hours": "3",
@@ -1262,7 +1268,7 @@
         },
         {
             "name": "Advanced Quantitative Methods",
-            "number": "9410",
+            "number": "NURSE 9410",
             "description": "(same as H_D_FS 9200).  Study of explanatory and predictive quantitative designs in health-related research, including nested, double-blind, time series, casual models, retrospective cohort; secondary database use will be explored.",
             "prerequisites": "NURSE 9131, Advanced Statistics Course",
             "hours": "3",
@@ -1273,7 +1279,7 @@
         },
         {
             "name": "Qualitative Methods",
-            "number": "9420",
+            "number": "NURSE 9420",
             "description": "(same as H_D_FS 9420)  Examines the following selected qualitative research approaches appropriate for the study of nursing phenomena and the extension or modification of scientific knowledge so as to be relevant to nursing: case study research methods, verbal qualitative approaches, and nonverbal qualitative approaches. Graded on A-F basis only.",
             "prerequisites": "NURSE 7150 and doctoral status (or permission of faculty)",
             "hours": "3",
@@ -1284,7 +1290,7 @@
         },
         {
             "name": "Measurement Issues",
-            "number": "9430",
+            "number": "NURSE 9430",
             "description": "Examines techniques used to estimate the various types reliability and validity of psychological and biological measures of nursing phenomena as well as the appropriate use of existing measures. Graded on A-F basis only.",
             "prerequisites": "NURSE 7150, NURSE 9420",
             "hours": "3",
@@ -1296,7 +1302,7 @@
         },
         {
             "name": "Doctoral Seminar: Social Determinants of Health",
-            "number": "9450",
+            "number": "NURSE 9450",
             "description": "Doctoral seminar on defining, measuring and conducting research on social determinants of health. May be repeated for credit.",
             "prerequisites": "NURSE 9120 and NURSE 9410",
             "hours": "3",
@@ -1308,7 +1314,7 @@
         },
         {
             "name": "Theories and Interventions in Health Behavior Science",
-            "number": "9460",
+            "number": "NURSE 9460",
             "description": "Focuses on health behavior science theories, linking theories to measurement, and designing health behavior interventions.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: NURSE 9100, NURSE 9120 or faculty consent",
@@ -1317,7 +1323,7 @@
         },
         {
             "name": "Technology Evaluation in Health Care Systems Research",
-            "number": "9470",
+            "number": "NURSE 9470",
             "description": "(same as HMI 9440). Examines technology applications and evaluation methods used to determine outcomes, efficiencies, effectiveness, satisfaction, and cost of using technology. ",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1326,7 +1332,7 @@
         },
         {
             "name": "Advances in Health Care Systems",
-            "number": "9510",
+            "number": "NURSE 9510",
             "description": "Guided in-depth exploration, analysis, and evaluation of selected nursing and other current literature in health care systems.",
             "prerequisites": "NURSE 9110, doctoral standing or instructor's consent",
             "hours": "3",
@@ -1337,7 +1343,7 @@
         },
         {
             "name": "Advances in Health Restoration and Support",
-            "number": "9520",
+            "number": "NURSE 9520",
             "description": "Guided in-depth exploration, analysis, and evaluation of selected nursing and other current literature in health restoration and support.",
             "prerequisites": "NURSE 9110, doctoral standing or instructor's consent",
             "hours": "3",
@@ -1348,7 +1354,7 @@
         },
         {
             "name": "Advances in Health Promotion and Protection",
-            "number": "9530",
+            "number": "NURSE 9530",
             "description": "Guided in-depth exploration, analysis, and evaluation of selected nursing and other current literature in health promotion and protection.",
             "prerequisites": "NURSE 9110, doctoral standing or instructor's consent",
             "hours": "3",
@@ -1359,7 +1365,7 @@
         },
         {
             "name": "Seminar in Nursing",
-            "number": "9540",
+            "number": "NURSE 9540",
             "description": "Course content varies. May be repeated to a maximum of six hours.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -1368,7 +1374,7 @@
         },
         {
             "name": "Meta-Analysis Research",
-            "number": "9550",
+            "number": "NURSE 9550",
             "description": "(Same as H_D_FS 9550). Examines quantitative synthesis including research questions, search strategies, coding issues, meta-analysis statistical procedures, and interpretation of findings. Emphasizes conceptual understanding and practical methods.",
             "prerequisites": "6 credit hours of graduate statistics courses, NURSE 9410 or graduate level quantitative methods course",
             "hours": "3",
@@ -1379,7 +1385,7 @@
         },
         {
             "name": "Qualitative Systematic Reviews",
-            "number": "9560",
+            "number": "NURSE 9560",
             "description": "(Same as SOC_WK 9560 and H_ D_FS 9560) Examine and carry out elements of qualitative  systematic reviews: topic/problem identification, data collection, and analysis. Understand how to limit threats to validity and maximize generalizability.",
             "prerequisites": "NURSE 9420 or equivalent",
             "hours": "3",
@@ -1390,7 +1396,7 @@
         },
         {
             "name": "Social Welfare Policy Seminar",
-            "number": "9700",
+            "number": "NURSE 9700",
             "description": "(Same as SOC_WK 9700) Critical examination of comparative models of social policy development.; preparation of a professional social work policy analysis in the student's area of interest/specialization that is suitable for submission to an appropriate referred journal. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1399,7 +1405,7 @@
         },
         {
             "name": "Advanced Research Practicum",
-            "number": "9710",
+            "number": "NURSE 9710",
             "description": "Mentored research experience designed by student, mentor, and program committee based on student's substantive areas of interest and program of research.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-6Prerequisites or Corequisites: NURSE 9120; advisor consent",

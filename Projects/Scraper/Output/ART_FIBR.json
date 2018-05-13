@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Beginning Fibers",
-            "number": "2300",
+            "number": "ART_FIBR 2300",
             "description": "Exploration of various fiber and media including papermaking, weaving, surface design and sculptural techniques. Expendable materials fee required.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Intermediate Fibers",
-            "number": "3300",
+            "number": "ART_FIBR 3300",
             "description": "Continuation of ART_FIBR 2300 with emphasis on utilizing acquired technical processes in loom and off weaving, paper making and surface design and a means of developing visual statements. Expendable materials fee required.",
             "prerequisites": "ART_FIBR 2300",
             "hours": "3",
@@ -24,7 +24,7 @@
         },
         {
             "name": "Advanced Fibers",
-            "number": "4300",
+            "number": "ART_FIBR 4300",
             "description": "Exploration of aesthetic concepts, development of personal style and instruction in advanced fiber techniques within medium selected by student. Expendable materials fee required. May repeat to 15 hours maximum.",
             "prerequisites": "ART_FIBR 3300 or approved equivalents",
             "hours": "3",
@@ -35,7 +35,7 @@
         },
         {
             "name": "Problems in Fibers",
-            "number": "4385",
+            "number": "ART_FIBR 4385",
             "description": "Problems in Fibers.",
             "prerequisites": "departmental consent",
             "hours": "1-3",
@@ -44,7 +44,7 @@
         },
         {
             "name": "Graduate Fibers",
-            "number": "7300",
+            "number": "ART_FIBR 7300",
             "description": "Advanced technical and aesthetic study in medium of choice with emphasis on development of the individual student's ideas and goals. Expendable materials fee required.  May repeat to 15 hours maximum.",
             "prerequisites": "ART_FIBR 4300",
             "hours": "3",
@@ -55,7 +55,7 @@
         },
         {
             "name": "Problems in Fibers",
-            "number": "7385",
+            "number": "ART_FIBR 7385",
             "description": "Graduate level work in fibers.",
             "prerequisites": "ART_FIBR 7300 and departmental consent",
             "hours": "1-3",
@@ -66,7 +66,7 @@
         },
         {
             "name": "Graduate Fibers II",
-            "number": "8300",
+            "number": "ART_FIBR 8300",
             "description": "Continuation of ART_FIBR 7300. Repeatable to 15 hours.",
             "prerequisites": "ART_FIBR 7300 or equivalent",
             "hours": "3",

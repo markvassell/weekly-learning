@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Topics in Information Technology",
-            "number": "1001",
+            "number": "INFOTC 1001",
             "description": "Topics may vary from semester to semester.  May be repeated upon consent of department.",
             "prerequisites": "May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Introduction to Problem Solving and Programming",
-            "number": "1040",
+            "number": "INFOTC 1040",
             "description": "An introduction to problem solving methods and programming concepts, providing experience in designing, developing, implementing, and testing programs.  Cannot be taken for credit after CMP_SC 1050.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Introduction to Entertainment Media",
-            "number": "1610",
+            "number": "INFOTC 1610",
             "description": "This course is an introduction to the basic fundamentals of entertainment products such as postproduction technology, camera and lighting technology, audio creation and mixing technology, and broadcast technology.  Computer programs designed for visual special effects are used.",
             "prerequisites": "May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Topics in Information Technology",
-            "number": "2001",
+            "number": "INFOTC 2001",
             "description": "Topics may vary from semester to semester.  May be repeated upon consent of department.  Graded on A-F basis only.",
             "prerequisites": "May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Digital Multimedia",
-            "number": "2600",
+            "number": "INFOTC 2600",
             "description": "This course introduces broad views of concepts, software, hardware, and solutions in entertainment media applications.  It will examine career options in fields such as information technology, news, film production and postproduction, website design, advertising, or communication.",
             "prerequisites": "May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Audio/Video I",
-            "number": "2610",
+            "number": "INFOTC 2610",
             "description": "This is an introductory course on digital audio and video editing.  Background presented in the course will include an overview of the techniques used in modern Non-Linear video editing, and understanding of block editing, and why it is essential when using modern digital technology.  The course is hands-on with students at workstations, learning the software directly at the keyboard, and working on assignments in a lab context.",
             "prerequisites": "May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Computer Modeling and Animation I",
-            "number": "2620",
+            "number": "INFOTC 2620",
             "description": "Introduction to the field of computer modeling and animation with an emphasis on tools.  Learn programming methods for developing customized modeling and animation algorithms. Graded on A-F basis only.",
             "prerequisites": "C- or higher in CMP_SC 1050.  May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Fundamentals of Network Technology",
-            "number": "2810",
+            "number": "INFOTC 2810",
             "description": "This course includes an overview of networking and the common wireless standards. Graded on A-F basis only.",
             "prerequisites": "CMP_SC 1050. May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -80,7 +80,7 @@
         },
         {
             "name": "Cyber Security",
-            "number": "2910",
+            "number": "INFOTC 2910",
             "description": "This course covers numerous platform-independent security topics including threats, problem ports and services, theory and practice of defense in security, intrusion detection, data security, securing remote access, user education and support, designing a secure network and security management. Graded on A-F basis only.",
             "prerequisites": "CMP_SC 1050, INFOTC 2810. May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -92,7 +92,7 @@
         },
         {
             "name": "Topics in Information Technology",
-            "number": "3001",
+            "number": "INFOTC 3001",
             "description": "Topics may vary from semester to semester.  May be repeated upon consent of department.  Graded on A-F basis only.",
             "prerequisites": "May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -101,7 +101,7 @@
         },
         {
             "name": "Audio/Video II",
-            "number": "3610",
+            "number": "INFOTC 3610",
             "description": "This course presents broad professional techniques for completing an off-line edit and the progression to online and finishing, adding depth to topics introduced in A/V I.  Students will gain experience in editing techniques involving dialogue, action, documentaries, music videos, and multi-camera projects.  The course also introduces special effects, audio finishing, clip and media management, and use of various media formats.",
             "prerequisites": "C- or higher in INFOTC 2610. May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Computer Modeling and Animation II",
-            "number": "3620",
+            "number": "INFOTC 3620",
             "description": "This course covers advanced methods for modeling and animation with an emphasis on computer science theory and virtual reality.  Graded on A-F basis only.",
             "prerequisites": "C- or higher in INFOTC 2620.  May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -123,7 +123,7 @@
         },
         {
             "name": "Introduction to Game Design",
-            "number": "3630",
+            "number": "INFOTC 3630",
             "description": "This class will focus on the theory, design, and implementation of games using the industry standard game development tools.  Students will learn about the workflow for designing, creating and implementing vital components for modern games, with respect to data structures, algorithms, content, development tools and practice of game development. The final project is a fully functional, your own custom game.",
             "prerequisites": "CMP_SC 1050.  May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -134,7 +134,7 @@
         },
         {
             "name": "Digital Effects",
-            "number": "3640",
+            "number": "INFOTC 3640",
             "description": "This course is an introduction to the fundamentals of digital motion picture effects technology.  This course is designed for a student interested in pursuing a career in information technology, news, film production and film postproduction, website design, or communication.",
             "prerequisites": "C- or higher in INFOTC 1610 or C- or higher in INFOTC 2610.  May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -146,7 +146,7 @@
         },
         {
             "name": "Computer System Administration",
-            "number": "3850",
+            "number": "INFOTC 3850",
             "description": "This course will cover network management tools, network maintenance, data management, remote access management, management tasks, responsibilities and ethics, required plans and policies, design of a well-managed network.  Some work will be done in both Windows and Linux environments.  Graded on A-F basis only.",
             "prerequisites": "CMP_SC 2050, junior standing. May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -157,7 +157,7 @@
         },
         {
             "name": "Internship in Information Technology",
-            "number": "3940",
+            "number": "INFOTC 3940",
             "description": "Information Technology-related experience in business or industry jointly supervised by faculty and IT professionals. Students should apply one semester in advance for consent of the supervising professor. Graded on an S/U basis only.",
             "prerequisites": "Instructor Consent",
             "hours": "1-6",
@@ -166,7 +166,7 @@
         },
         {
             "name": "Topics in Information Technology",
-            "number": "4001",
+            "number": "INFOTC 4001",
             "description": "Topics may vary from semester to semester.  May be repeated upon consent of department.  Graded on A-F basis only.",
             "prerequisites": "May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -175,7 +175,7 @@
         },
         {
             "name": "Database Administration",
-            "number": "4390",
+            "number": "INFOTC 4390",
             "description": "This course is designed to give a firm foundation in Database Administrators' tasks.  The primary goal is to give necessary knowledge and skills to setup, maintain and troubleshoot an Oracle database.  This is an instructor-led course featuring lecture and hands-on exercises.  Online demonstration and written practice sessions reinforce the concepts and skills introduced.  The course defined objectives are designed to support preparation for the Oracle Certified Professional examination.",
             "prerequisites": "CMP_SC 4380. May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -186,7 +186,7 @@
         },
         {
             "name": "C#/.NET Development",
-            "number": "4400",
+            "number": "INFOTC 4400",
             "description": "Learn how to develop and debug multi-threaded Windows desktop applications based on the object-oriented (OO), Model-View-Controller (MVC), and Model View ViewModel (MVVM) paradigms using C#, .NET, Windows Presentation Foundations (WPF), and Visual Studio. Graded on A-F basis only.",
             "prerequisites": "CMP_SC 2050. May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -197,7 +197,7 @@
         },
         {
             "name": "Team-Based Mobile Device Application Development",
-            "number": "4500",
+            "number": "INFOTC 4500",
             "description": "(same as JOURN 4444). This is a multi-disciplinary, team-based course on developing applications for mobile devices. Teams will be comprised of students who are software developers and students who are designers. Graded on A-F basis only.",
             "prerequisites": "for Journalism majors (Designers), instructor's consent; for Computer Science or Information Technology majors (Developers), CMP_SC 2050 or permission of instructor. May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -208,7 +208,7 @@
         },
         {
             "name": "Game Design II",
-            "number": "4630",
+            "number": "INFOTC 4630",
             "description": "This course explores 1) the manual and procedural development of static and dynamic game content, 2) programming for gameplay, interactivity, UI, game Artificial Intelligence, and 3) algorithms, ADTs, and research vital to game design.",
             "prerequisites": "INFOTC 3630. May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -219,7 +219,7 @@
         },
         {
             "name": "Digital Effects II",
-            "number": "4640",
+            "number": "INFOTC 4640",
             "description": "This course builds on fundamentals of digital motion picture effects technology learned in Digital Effects I.  Computer programs designed for digital visual special effects in film and broadcast are integrated throughout the course.",
             "prerequisites": "C- or higher in INFOTC 3640. May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -230,7 +230,7 @@
         },
         {
             "name": "Shader Programing",
-            "number": "4650",
+            "number": "INFOTC 4650",
             "description": "The focus of this course is modern computer graphics algorithms and programming, with an emphasis on games, shader languages, (GLSL and Cg) and Graphical Processor Units (GPUs).",
             "prerequisites": "CMP_SC 2050, INFOTC 2620. May be restricted to Information Technology majors during early registration",
             "hours": "3",
@@ -242,7 +242,7 @@
         },
         {
             "name": "Senior Capstone Design",
-            "number": "4970",
+            "number": "INFOTC 4970",
             "description": "This course is an opportunity for you to demonstrate that you have achieved the goals established by the Information Technology (IT) program. You will do this through a series of writing exercises, class activities, and a team-based project. You will demonstrate your ability to synthesize various methods and skills, apply them to new, novel, complex, and integrated project requirements in real-world IT problems. Graded on A-F basis only.",
             "prerequisites": "C- or higher in CMP_SC 4320 and senior standing. Restricted to INFOTC majors",
             "hours": "3",
@@ -254,7 +254,7 @@
         },
         {
             "name": "Senior Capstone Design - Writing Intensive",
-            "number": "4970W",
+            "number": "INFOTC 4970W",
             "description": "This course is an opportunity for you to demonstrate that you have achieved the goals established by the Information Technology (IT) program. You will do this through a series of writing exercises, class activities, and a team-based project. You will demonstrate your ability to synthesize various methods and skills, apply them to new, novel, complex, and integrated project requirements in real-world IT problems. Graded on A-F basis only.",
             "prerequisites": "C- or higher in CMP_SC 4320 and senior standing. Restricted to INFOTC majors",
             "hours": "3",

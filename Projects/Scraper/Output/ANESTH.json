@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "ABS Anesthesiology Research",
-            "number": "6203",
+            "number": "ANESTH 6203",
             "description": "ABS Anesthesiology Research",
             "prerequisites": "None Listed",
             "hours": "5-10",
@@ -13,7 +13,7 @@
         },
         {
             "name": "ABS Anesthesiology Research and Review",
-            "number": "6205",
+            "number": "ANESTH 6205",
             "description": "ABS Anesthesiology Research and  Review",
             "prerequisites": "None Listed",
             "hours": "5-10",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Anesthesiology",
-            "number": "6400",
+            "number": "ANESTH 6400",
             "description": "Goals/Objectives:  The goals are providing students with opportunities to:    1. Understand the anesthetic state (e.g. the inability of a person to protect themselves from the environment; concomitant and common depression of other systems of the body other than the nervous system).  2. Learn how to think and react quickly and correctly in times of stress.  3. Develop knowledge and skill at maintaining artificial ventilation and circulation.  4. Develop technical skills (e.g. insertion of endotracheal tubes, intravenous catheters).  5. Understand the rationale behind the choice of an anesthetic agent or technique.  6. Learn the function of an anesthesiologist as a perioperative physician and pain consultant.  7. Learn about the specialty of anesthesiology as a possible future career.    Notes:  Curriculum:    Direct participation in anesthetic evaluation and administration for surgical procedures is combined with close individual supervision. Attendance at weekly teaching conferences is expected. Each student will follow a patient pre, intra, and post operatively and write a case presentation.    Interblock: First consideration given to students interested in anesthesia as a career choice; honors considered only with documentation of participation and completion of a research project related to anesthesia.    Evaluations:  Evaluations are compiled from daily encounter cards completed by anesthesia providers, a written paper that discusses one patient's anesthetic, and a 50 question written examination at the end of the rotation.",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Anesthesiology Two-Week",
-            "number": "6927",
+            "number": "ANESTH 6927",
             "description": "Through daily participation, students will gain insight into the specialty of anesthesiology and will develop an appreciation for the integration of basic science knowledge (especially anatomy, physiology, and pharmacology) in the clinical care of patients.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",

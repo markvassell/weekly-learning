@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Grammar with Writing I",
-            "number": "0001",
+            "number": "IEPG _0001",
             "description": "Students will learn to recognize and use basic grammatical structures. Students will use these structures to produce basic sentences and short paragraphs on topics from daily life.  Not open to native speakers of English. No college credit.",
             "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Grammar II",
-            "number": "0002",
+            "number": "IEPG _0002",
             "description": "Students will learn low-intermediate grammatical structures including modals, simple and progressive verb tenses, and expressions of quantity.  Not open to native speakers of English. No college credit.",
             "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Grammar for Academic Purposes III",
-            "number": "0030",
+            "number": "IEPG _0030",
             "description": "Students will learn intermediate grammatical structures including present perfect tense, simple gerunds and infinitives, comparatives and superlatives, and restrictive adjective clauses.  Not open to native speakers of English. No college credit.",
             "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Grammar for Academic Purposes IV",
-            "number": "0040",
+            "number": "IEPG _0040",
             "description": "Students will learn high-intermediate grammatical structures including past perfect tense, passive voice, noun clauses, adjective clauses, and adverb clauses.  Not open to native speakers of English. No college credit.",
             "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
             "hours": "3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Grammar for Academic Purposes V",
-            "number": "0050",
+            "number": "IEPG _0050",
             "description": "Students will learn advanced grammatical structures including passive and perfect modals, passive gerunds and infinitives, conditionals, and reported speech.  Not open to native speakers of English. No college credit.",
             "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
             "hours": "3",

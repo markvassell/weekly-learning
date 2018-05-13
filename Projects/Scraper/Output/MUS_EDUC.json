@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Orientation: Music Education",
-            "number": "1100",
+            "number": "MUS_EDUC 1100",
             "description": "This course familiarizes and orients students with MU resources, Music Education degree expectations and career options. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Teaching Music I",
-            "number": "4140",
+            "number": "MUS_EDUC 4140",
             "description": "Study of skills, knowledge, and philosophical foundations necessary to teach general music to children in grades preK - 5, including methods, philosophies, and teacher and learner behaviors.",
             "prerequisites": "junior standing; music education major or instructor's consent",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Teaching Music I Field Experience",
-            "number": "4141",
+            "number": "MUS_EDUC 4141",
             "description": "This field experience supports the MUS_EDUC 4140 course. Field experience expectations are delineated in the course syllabus. Graded on a S/U basis only.",
             "prerequisites": "junior standing; music education major or instructor's consent",
             "hours": "1",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Teaching Music II",
-            "number": "4142",
+            "number": "MUS_EDUC 4142",
             "description": "Study of a broad repertoire of music literature and instructional materials, including critical evaluation and analysis for use in the general music classroom.",
             "prerequisites": "MUS_EDUC 4140",
             "hours": "2",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Teaching Music II - Writing Intensive",
-            "number": "4142W",
+            "number": "MUS_EDUC 4142W",
             "description": "Study of a broad repertoire of music literature and instructional materials, including critical evaluation and analysis for use in the general music classroom.",
             "prerequisites": "MUS_EDUC 4140",
             "hours": "2",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Teaching Music II Field Experience",
-            "number": "4143",
+            "number": "MUS_EDUC 4143",
             "description": "This field experience supports the MUS_EDUC 4142 course. Field experience expectations are delineated in the course syllabus. Graded on a S/U basis only.",
             "prerequisites": "MUS_EDUC 4141",
             "hours": "1",
@@ -64,7 +64,7 @@
         },
         {
             "name": "Teaching Music II Field Experience - Writing Intensive",
-            "number": "4143W",
+            "number": "MUS_EDUC 4143W",
             "description": "This field experience supports the MUS_EDUC 4142 course. Field experience expectations are delineated in the course syllabus. Graded on a S/U basis only.",
             "prerequisites": "MUS_EDUC 4141",
             "hours": "1",
@@ -75,7 +75,7 @@
         },
         {
             "name": "Teaching Music III",
-            "number": "4144",
+            "number": "MUS_EDUC 4144",
             "description": "A study of various strategies for the successful teaching of middle and high school music programs.",
             "prerequisites": "MUS_EDUC 4142",
             "hours": "3",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Teaching Music III - Writing Intensive",
-            "number": "4144W",
+            "number": "MUS_EDUC 4144W",
             "description": "A study of various strategies for the successful teaching of middle and high school music programs.",
             "prerequisites": "MUS_EDUC 4142",
             "hours": "3",
@@ -97,7 +97,7 @@
         },
         {
             "name": "Teaching Music III Field Experience",
-            "number": "4145",
+            "number": "MUS_EDUC 4145",
             "description": "This field experience supports the MUS_EDUC 4144 course. Field experience expectations are delineated in the course syllabus. Graded on a S/U basis only.",
             "prerequisites": "MUS_EDUC 4143",
             "hours": "1",
@@ -108,7 +108,7 @@
         },
         {
             "name": "Teaching Music III Field Experience - Writing Intensive",
-            "number": "4145W",
+            "number": "MUS_EDUC 4145W",
             "description": "This field experience supports the MUS_EDUC 4144 course. Field experience expectations are delineated in the course syllabus. Graded on a S/U basis only.",
             "prerequisites": "MUS_EDUC 4143",
             "hours": "1",
@@ -119,7 +119,7 @@
         },
         {
             "name": "Advanced Techniques in Music Education-General",
-            "number": "8140",
+            "number": "MUS_EDUC 8140",
             "description": "A review and evaluation of teaching/learning strategies in general music instruction.",
             "prerequisites": "Music methods or instructor's consent",
             "hours": "2-5",
@@ -128,7 +128,7 @@
         },
         {
             "name": "Advanced Techniques in Music Education-Early Childhood",
-            "number": "8141",
+            "number": "MUS_EDUC 8141",
             "description": "A review and evaluation of teaching/learning strategies in early childhood music instruction.",
             "prerequisites": "Music methods or instructor's consent",
             "hours": "2-5",
@@ -137,7 +137,7 @@
         },
         {
             "name": "Curriculum Materials in Music Education-General",
-            "number": "8142",
+            "number": "MUS_EDUC 8142",
             "description": "A development of critical abilities in evaluation and selection of music education materials for general music.",
             "prerequisites": "instructor's consent",
             "hours": "2-5",
@@ -146,7 +146,7 @@
         },
         {
             "name": "Curriculum Materials in Music Education-Vocal",
-            "number": "8143",
+            "number": "MUS_EDUC 8143",
             "description": "A development of critical abilities in evaluation and selection of music education materials for secondary vocal music.",
             "prerequisites": "instructor's consent",
             "hours": "2-5",
@@ -155,7 +155,7 @@
         },
         {
             "name": "Techniques in Instrumental Music Teaching",
-            "number": "8144",
+            "number": "MUS_EDUC 8144",
             "description": "A practical study of the organization and instruction of class teaching, with demonstrations by instructor and class.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -164,7 +164,7 @@
         },
         {
             "name": "Teaching Vocal Music",
-            "number": "8145",
+            "number": "MUS_EDUC 8145",
             "description": "Studies in voice development techniques and the organization of choral programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -173,7 +173,7 @@
         },
         {
             "name": "Foundations of Music Education",
-            "number": "8150",
+            "number": "MUS_EDUC 8150",
             "description": "A study of the history, philosophy and rationale of music education.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Measurement and Research in Music Education",
-            "number": "8151",
+            "number": "MUS_EDUC 8151",
             "description": "Introduction to measurement and research strategies and techniques employed by music educators to assess music achievement, aptitude, perception, performance, cognition, and affective development.  Emphasis on reading with understanding and applying research to pedagogical practice.  Graded on A-F basis only.",
             "prerequisites": "Graduate standing in music education",
             "hours": "3",
@@ -191,7 +191,7 @@
         },
         {
             "name": "Psychology of Music Instruction and Performance",
-            "number": "8152",
+            "number": "MUS_EDUC 8152",
             "description": "Introduction to the study of psychological factors, theories and research related to the musical development and performance of children, adolescents, and adults, with implications and applications for music education programs and instruction.  Graded on A-F basis only.",
             "prerequisites": "Graduate standing in music education",
             "hours": "3",
@@ -200,7 +200,7 @@
         },
         {
             "name": "Current Issues in Music Education",
-            "number": "8160",
+            "number": "MUS_EDUC 8160",
             "description": "This course is designed to stimulate thinking about current issues related to the field of music education and the influences of these issues on approaches to music teaching and learning.",
             "prerequisites": "Graduate standing in music education",
             "hours": "1-3",
@@ -209,7 +209,7 @@
         },
         {
             "name": "Administration and Supervision of Music Programs",
-            "number": "8163",
+            "number": "MUS_EDUC 8163",
             "description": "A study of the organization, management, and supervision of music programs.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -218,7 +218,7 @@
         },
         {
             "name": "Doctoral Seminar in Music Education",
-            "number": "8170",
+            "number": "MUS_EDUC 8170",
             "description": "Emphasis on knowledge, strategies, and skills necessary for doctoral students to be prepared to make contributions to the profession as successful college teachers, researchers, master teachers in K-12 schools, and arts administrators.  Graded on A-F basis only.",
             "prerequisites": "Admission to doctoral study in music education",
             "hours": "1-3",

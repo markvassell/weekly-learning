@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introduction to Respiratory Therapy",
-            "number": "1000",
+            "number": "RS_THR 1000",
             "description": "Introductory course to assist students acquiring information about the respiratory therapy profession. Students observe therapists in hospitals and participate in lectures on credentialing, program requirements, placement and future trends in the profession. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Fundamentals of Respiratory Care",
-            "number": "3000",
+            "number": "RS_THR 3000",
             "description": "Orientation to the profession.  Focus on professional attributes of communication, teamwork, licensure and safety.",
             "prerequisites": "acceptance into respiratory therapy major",
             "hours": "1",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Equipment and Techniques",
-            "number": "3220",
+            "number": "RS_THR 3220",
             "description": "History, organization of respiratory therapy.  Theory, application of gas laws.  Equipment for invasive and non-invasive pulmonary assessment, therapeutic aerosol and humidity, gas delivery, airway management.  Techniques for infection control, lung expansion, bronchial hygiene.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Cardiopulmonary Pharmacology",
-            "number": "3290",
+            "number": "RS_THR 3290",
             "description": "To provide the student with specific knowledge of the pharmacologic strategies in treating cardiopulmonary disorders.  Graded on A-F basis only.",
             "prerequisites": "restricted to students in the respiratory therapy program",
             "hours": "2",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Principles of Mechanical Ventilation",
-            "number": "3420",
+            "number": "RS_THR 3420",
             "description": "Continuation of RS_THR 3220. Emphasis on the principles of mechanical ventilation, including physiologic and clinical application.",
             "prerequisites": "RS_THR 3220,  RS_THR 3941 and  RS_THR 4040",
             "hours": "3",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Principles of Mechanical Ventilation - Writing Intensive",
-            "number": "3420W",
+            "number": "RS_THR 3420W",
             "description": "Continuation of RS_THR 3220. Emphasis on the principles of mechanical ventilation, including physiologic and clinical application.",
             "prerequisites": "RS_THR 3220,  RS_THR 3941 and  RS_THR 4040",
             "hours": "3",
@@ -66,7 +66,7 @@
         },
         {
             "name": "Mechanical Ventilation Lab",
-            "number": "3440",
+            "number": "RS_THR 3440",
             "description": "Application of mechanical ventilation emphasizing acute care: pressure, volume, and oscillatory ventilation of adults.  Pediatrics, and infants.  Related graphical, laboratory,and hemodynamic analysis; therapeutic intervention.  Graded on A-F basis only.",
             "prerequisites": "RS_THR 3220, RS_THR 3941,  RS_THR 4040",
             "hours": "3",
@@ -79,7 +79,7 @@
         },
         {
             "name": "Clinical Practice I",
-            "number": "3941",
+            "number": "RS_THR 3941",
             "description": "To be taken concurrently with RS_THR 3220 for which it serves as an extension of the laboratory time and an opportunity for structured clinical experience exposures.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -88,7 +88,7 @@
         },
         {
             "name": "Clinical Practice II",
-            "number": "3942",
+            "number": "RS_THR 3942",
             "description": "To be taken concurrently with  RS_THR 3420, for which it serves as an extension of the laboratory time, and an opportunity for structured clinical experience exposures.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -97,7 +97,7 @@
         },
         {
             "name": "Clinical Practice III",
-            "number": "3943",
+            "number": "RS_THR 3943",
             "description": "Continuation of supervised clinical experience from  RS_THR 3942. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -106,7 +106,7 @@
         },
         {
             "name": "Perinatal/Neonatal Respiratory Care",
-            "number": "4020",
+            "number": "RS_THR 4020",
             "description": "Evaluation and management of perinatal/neonatal pulmonary, medical and surgical conditions which require respiratory care. Emphasis on resuscitation, pathophysiology, evaluation, blood gas and x-ray interpretation, treatment and mechanical ventilation.",
             "prerequisites": "RS_THR 4040; Respiratory Therapy students only",
             "hours": "3",
@@ -117,7 +117,7 @@
         },
         {
             "name": "Respiratory Pathophysiology",
-            "number": "4040",
+            "number": "RS_THR 4040",
             "description": "Clinical pulmonary disease, organized around the gross structural components of the lung, airways, alveoli and pulmonary vasculature. Impact of disease on normal structure function; clinical, roentgenographic, and physiologic manifestations are described.",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -126,7 +126,7 @@
         },
         {
             "name": "Problems in Respiratory Therapy",
-            "number": "4085",
+            "number": "RS_THR 4085",
             "description": "Independent work on special problems related to cardiopulmonary health. Course not offered for graduate credit. Some sections of the course may be graded on either A-F or S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -135,7 +135,7 @@
         },
         {
             "name": "Community and Patient Education I",
-            "number": "4220",
+            "number": "RS_THR 4220",
             "description": "Design and implement materials for educational presentations for a given patient population. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -144,7 +144,7 @@
         },
         {
             "name": "Pulmonary Rehabilitation",
-            "number": "4240",
+            "number": "RS_THR 4240",
             "description": "Focus is on an interdisciplinary approach to pulmonary rehabilitation and home care of the adult cardiopulmonary patient. Graded on A-F basis only.",
             "prerequisites": "instructor's consent required",
             "hours": "3",
@@ -153,7 +153,7 @@
         },
         {
             "name": "Pediatric Respiratory Care",
-            "number": "4420",
+            "number": "RS_THR 4420",
             "description": "Evaluation and management of pulmonary, medical and surgical pediatric conditions requiring respiratory care. Emphasis on pediatric resuscitation, pathophysiology, treatment and prevention of respiratory conditions, mechanical ventilation, lab interpretation.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -162,7 +162,7 @@
         },
         {
             "name": "Organization and Administration",
-            "number": "4440",
+            "number": "RS_THR 4440",
             "description": "(same as RA_SCI 4440 and CPD 4440). Examines design and operation of allied health service departments and educational programs, including facilities, personnel procedures, record systems, ethics, medical-legal aspects, interdepartmental relations and curriculum development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -171,7 +171,7 @@
         },
         {
             "name": "Evidence-Based Medicine in Respiratory Care",
-            "number": "4460",
+            "number": "RS_THR 4460",
             "description": "This course is intended to facilitate the development of the student's ability to obtain and integrate patient assessment information and key findings and to formulate clinical decisions in respiratory therapy practice as well as use an evidence-based medicine approach to define respiratory clinical practice.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -180,7 +180,7 @@
         },
         {
             "name": "Evidence-Based Medicine in Respiratory Care - Writing Intensive",
-            "number": "4460W",
+            "number": "RS_THR 4460W",
             "description": "This course is intended to facilitate the development of the student's ability to obtain and integrate patient assessment information and key findings and to formulate clinical decisions in respiratory therapy practice as well as use an evidence-based medicine approach to define respiratory clinical practice.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -189,7 +189,7 @@
         },
         {
             "name": "Pulmonary Function Technologies",
-            "number": "4620",
+            "number": "RS_THR 4620",
             "description": "This course will provide the student with a specific knowledge of the testing procedures and equipment for pulmonary function technology.  The student will learn to interpret pulmonary function tests and perform quality assurance within the pulmonary function laboratory.",
             "prerequisites": "restricted to Respiratory Therapy students only",
             "hours": "2",
@@ -198,7 +198,7 @@
         },
         {
             "name": "Teaching Practicum",
-            "number": "4640",
+            "number": "RS_THR 4640",
             "description": "Structured and supervised experience identifying student characteristics, methods for teaching, improving assessment, current development and instructional design.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -207,7 +207,7 @@
         },
         {
             "name": "Advanced Mechanical Ventilation Theory",
-            "number": "4660",
+            "number": "RS_THR 4660",
             "description": "Exploration of advanced disease management via specific disease processes as well as concepts and modes of mechanical ventilation.  Emphasis will be placed on mode selection for various disease and how new modes of mechanical ventilation impact disease management.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -216,7 +216,7 @@
         },
         {
             "name": "Advanced Pulmonary Function Technology",
-            "number": "4720",
+            "number": "RS_THR 4720",
             "description": "This course will focus on the respiratory therapist's role in diagnostic testing. Topics include pulmonary function tests, exercise tests, and metabolic studies. In addition the course briefly addresses polysomnography, pulmonary rehabilitation, and home care.  Graded on A-F basis only.",
             "prerequisites": "Restricted to Respiratory Therapy students only",
             "hours": "2",
@@ -225,7 +225,7 @@
         },
         {
             "name": "Adult Critical Care",
-            "number": "4820",
+            "number": "RS_THR 4820",
             "description": "This course will focus on the respiratory therapist's role in the adult critical care environment.  Topics include airway management, mechanical ventilation, general adult critical care and functioning as a vital member of the critical care team.",
             "prerequisites": "restricted to Respiratory Therapy students only",
             "hours": "3",
@@ -234,7 +234,7 @@
         },
         {
             "name": "Current Issues in Respiratory Care",
-            "number": "4930",
+            "number": "RS_THR 4930",
             "description": "(cross-leveled with RS_THR 7930). Identification and analysis of current issues in Respiratory Care with practice implications. Emphasis given to identification and evaluation of nontraditional information sources (e.g., social networking, internet).  Graded on A-F basis only.",
             "prerequisites": "CDS 4955 or HLTH SCI 3900 or Instructor consent",
             "hours": "3",
@@ -245,7 +245,7 @@
         },
         {
             "name": "Clinical Practice IV",
-            "number": "4940",
+            "number": "RS_THR 4940",
             "description": "Structured and supervised clinical experience and case conferences regarding bioterrorism response and emergency/disaster planning.",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -254,7 +254,7 @@
         },
         {
             "name": "Research in Respiratory Therapy",
-            "number": "4956",
+            "number": "RS_THR 4956",
             "description": "Selected research projects guided by a senior staff member.",
             "prerequisites": "None Listed",
             "hours": "2-6",
@@ -263,7 +263,7 @@
         },
         {
             "name": "Clinical Practice V",
-            "number": "4973",
+            "number": "RS_THR 4973",
             "description": "An extension of the supervised practicum begun in RS_THR 4940. Emphasis in adult critical care and special procedures including brochoscopies, cardiac catherization and chest tube placement.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -272,7 +272,7 @@
         },
         {
             "name": "Clinical Practice VI",
-            "number": "4983",
+            "number": "RS_THR 4983",
             "description": "An extension of the supervised practicum begun in RS_THR 4940. Emphasis in perinatal and pediatric critical care including pediatric pulmonary function testing and airway management.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -281,7 +281,7 @@
         },
         {
             "name": "Respiratory Therapy Capstone",
-            "number": "4990",
+            "number": "RS_THR 4990",
             "description": "Integration of literature, knowledge of previous coursework and clinical experience.",
             "prerequisites": "Respiratory Therapy Majors Only",
             "hours": "2",
@@ -290,7 +290,7 @@
         },
         {
             "name": "Clincal Practice VII",
-            "number": "4993",
+            "number": "RS_THR 4993",
             "description": "An extension of the supervised practicum begun in  RS_THR 4940. Emphasis in rehabilitation and home care, inservice education, and management. Students will participate in on-going research projects and community service activities.",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -299,7 +299,7 @@
         },
         {
             "name": "Respiratory Pathophysiology",
-            "number": "7040",
+            "number": "RS_THR 7040",
             "description": "Clinical pulmonary disease, organized around the gross structural components of the lung, airways, alveoli and pulmonary vasculature. Impact of disease on normal structurefunction; clinical, roentgenographic, and physiologic manifestations are described.",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -308,7 +308,7 @@
         },
         {
             "name": "Current Issues in Respiratory Care",
-            "number": "7930",
+            "number": "RS_THR 7930",
             "description": "(cross-leveled with RS_THR 4930). Identification and analysis of current issues in Respiratory Care with practice implications. Emphasis given to identification and evaluation of nontraditional information sources (e.g., social networking, internet).",
             "prerequisites": "CDS 4955 or HLTH SCI 3900 or Instructor consent",
             "hours": "3",

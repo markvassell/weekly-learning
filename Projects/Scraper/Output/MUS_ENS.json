@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Instrumental Ensemble",
-            "number": "1841",
+            "number": "MUS_ENS 1841",
             "description": "Provides experience in instrumental performance and repertory. Open to all MU students by audition. May be repeated for credit. Enrollment in Marching Band is limited to a maximum of five semesters. Sections are: Philharmonic Orchestra, Chamber Orchestra, Symphonic Band, Wind Ensemble, Concert Band, Varsity Band, Studio Jazz Ensemble, Jazz Lab Band, Marching Band. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "Audition",
             "hours": "0-1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Choral Ensemble",
-            "number": "1842",
+            "number": "MUS_ENS 1842",
             "description": "Provides experience in choral performance and repertory. Open to all MU students. May be repeated for credit. Sections are: University Singers, Chamber Singers, Choral Union, Vocal Jazz Ensemble, Concert Chorale, Men's Chorus, Women's Chorus. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition required for all but Choral Union",
             "hours": "0-1",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Chamber Music",
-            "number": "1846",
+            "number": "MUS_ENS 1846",
             "description": "Preparation and performance of chamber music. May be repeated for credit. Sections are: String Ensemble, Woodwind Ensemble, Brass Ensemble, Percussion Ensemble. Jazz Combo. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-1",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Opera Workshop",
-            "number": "1865",
+            "number": "MUS_ENS 1865",
             "description": "Study, preparation and performance of selected operatic or musical theatre work in staged or concert versions. Open to all MU students by audition. Credit arranged; may be repeated for credit. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-1",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Piano Ensemble",
-            "number": "2843",
+            "number": "MUS_ENS 2843",
             "description": "Study, preparation, and performance of ensemble literature for piano. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Musical Theatre Performance",
-            "number": "4866",
+            "number": "MUS_ENS 4866",
             "description": "(same as THEATR 4460). A practical study for the actor of theatrical songs through character analysis, lyric interpretation, and movement. A performance course.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Instrumental Ensemble",
-            "number": "8841",
+            "number": "MUS_ENS 8841",
             "description": "Research, preparation and performance of instrumental compositions. May be repeated for credit. Sections and credit hours are: Philharmonic Orchestra, Chamber Orchestra, Symphonic Band, Wind Ensemble, Concert Band, Studio Jazz Ensemble, Jazz Lab Band, Marching Band. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-1",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Choral Ensemble",
-            "number": "8842",
+            "number": "MUS_ENS 8842",
             "description": "Research, preparation and performance of choral compositions. May be repeated for credit. Sections are: University Singers, Chamber Singers, Choral Union, Vocal Jazz Ensemble, Concert Choral, Men's Chorus, Women's Chorus. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-1",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Advanced Piano Ensemble",
-            "number": "8843",
+            "number": "MUS_ENS 8843",
             "description": "Study, preparation and performance of standard piano literature for four hands. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Advanced Chamber Ensemble",
-            "number": "8846",
+            "number": "MUS_ENS 8846",
             "description": "Study, preparation and performance of chamber music. May be repeated for credit.  Sections are: String Ensemble, Woodwind Ensemble, Brass Ensemble, Percussion Ensemble, Jazz Combo. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-1",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Advanced Opera Workshop",
-            "number": "8865",
+            "number": "MUS_ENS 8865",
             "description": "Study, preparation and performance of selected operatic or musical theatre works in staged or concert versions. Credit arranged; may be repeated for credit. Some sections may be graded on an S/U or A-F basis only.",
             "prerequisites": "audition and instructor's consent",
             "hours": "0-2",

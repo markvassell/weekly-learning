@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Principles of Sales",
-            "number": "1050",
+            "number": "LTC_V 1050",
             "description": "Provide the student with the concepts, tools and skills to become a professional salesperson. Emphasis is placed upon participation and performance of sales skills.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Word Processing and Presentation Concepts",
-            "number": "1070",
+            "number": "LTC_V 1070",
             "description": "Instruction on preparing written documents and creating presentations for business, legal, medical, and social service career areas using word processing and presentation software; Special emphasis on the use of advanced features of computer business application software.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Principles of Retailing",
-            "number": "1110",
+            "number": "LTC_V 1110",
             "description": "Examines problems, opportunities and trends in retailing. Problems and cases deal with store organization, budgeting, control, personnel and operation.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Introduction to Microcomputers",
-            "number": "1210",
+            "number": "LTC_V 1210",
             "description": "An overview of the hardware and software components of a microcomputer system.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Merchandising",
-            "number": "2050",
+            "number": "LTC_V 2050",
             "description": "Develop basic competencies essential to successful merchandising. Studies skills essential in merchandising, and analysis of merchandising functions and activities.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Business and Interpersonal Communications",
-            "number": "2110",
+            "number": "LTC_V 2110",
             "description": "Study of communication theory and principles as applied to business situations and practices; development of communications skills in the area of communication such as speaking, writing, listening, and nonverbal communication.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "The Virtual Workplace",
-            "number": "2150",
+            "number": "LTC_V 2150",
             "description": "Encompasses the management of alternative work environments and the unique situations that arise by addressing the use of email, computerized meetings, virtual office design, web page issues for business, and other technology for virtual work.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Field Experiences in PAVTE",
-            "number": "3110",
+            "number": "LTC_V 3110",
             "description": "Supervised observational and instructionally related activities within one of the PAVTE program areas at the secondary or postsecondary level. Student participates 30 clock hours for each semester hour of credit. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-4",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Directed Occupational Experience",
-            "number": "3150",
+            "number": "LTC_V 3150",
             "description": "Reports based on employment experience in selected occupations combined with related conferences and/or seminars. May repeat until four semester hours accumulated.",
             "prerequisites": "None Listed",
             "hours": "1-4",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Human Relations in Organizations",
-            "number": "3510",
+            "number": "LTC_V 3510",
             "description": "Principles, theory, processes and problems of effective human relations in marketing organizations",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Problems in Curriculum and Instruction - CTE",
-            "number": "4085",
+            "number": "LTC_V 4085",
             "description": "Study of professional programs and issues or technical problems related to the field of career and technical education.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Foundations of Adult Workforce Education",
-            "number": "4210",
+            "number": "LTC_V 4210",
             "description": "Study of workforce education and human resource development; emphasis on the foundational concepts of adult learning theory and its application to the development and use of instructional methods, curriculum design, and procedures for adult workforce and professional education.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Curriculum Development for Workforce and Professional Education",
-            "number": "4350",
+            "number": "LTC_V 4350",
             "description": "Curriculum development course focused on competencies, curriculum selection, organization, development, and assessment for instructors of workforce and professional education courses and human resource training programs.  Graded on A-F basis only.",
             "prerequisites": "ESC_PS 2400",
             "hours": "3",
@@ -123,7 +123,7 @@
         },
         {
             "name": "Seminar in Workforce Education",
-            "number": "4387",
+            "number": "LTC_V 4387",
             "description": "Seminar experiences for students in any workforce education discipline area; meets the capstone requirement for students in the Bachelor of Educational Studies program (minimum 2.0 credit hours).",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -132,7 +132,7 @@
         },
         {
             "name": "Coordination of Cooperative Occupational Education",
-            "number": "4510",
+            "number": "LTC_V 4510",
             "description": "Problems and procedures in the operation of cooperative occupational education programs. Especially designed for those who can qualify as coordinators of occupational education programs of a cooperative nature.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -141,7 +141,7 @@
         },
         {
             "name": "Utility Software for Microcomputers",
-            "number": "4550",
+            "number": "LTC_V 4550",
             "description": "An introduction to major types of microcomputer utility programs, including desktop publishing, presentation, spreadsheet, and data base.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -150,7 +150,7 @@
         },
         {
             "name": "Career Guidance",
-            "number": "4570",
+            "number": "LTC_V 4570",
             "description": "Problems, methods, and procedures involved in assisting individuals in choosing, preparing for, entering upon, and progressing in their career. For workforce development and human resource professionals, employment counselors, and teachers, counselors, and school administrators.",
             "prerequisites": "None Listed",
             "hours": "2-3",
@@ -159,7 +159,7 @@
         },
         {
             "name": "Field Study in Occupational Education",
-            "number": "4610",
+            "number": "LTC_V 4610",
             "description": "Directed observation in a cross section of business and industry combined with reports, weekly seminars and/or conferences. May repeat until four semester hours accumulated.",
             "prerequisites": "None Listed",
             "hours": "1-4",
@@ -168,7 +168,7 @@
         },
         {
             "name": "Document Planning and Design",
-            "number": "4650",
+            "number": "LTC_V 4650",
             "description": "Using the hands-on approach, students will develop skills in the planning, design layout, and creation of various business documents, as well as the ability to evaluate various types of documents.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -177,7 +177,7 @@
         },
         {
             "name": "Business Software Applications",
-            "number": "4710",
+            "number": "LTC_V 4710",
             "description": "Advanced concepts, features, and applications central to the major types of business software--spreadsheets, database management, word processing, graphics, and communications.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -186,7 +186,7 @@
         },
         {
             "name": "Occupational Analysis",
-            "number": "4750",
+            "number": "LTC_V 4750",
             "description": "Techniques, procedures of analyzing occupations into their basic elements. Required of trade teachers, coordinators.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -195,7 +195,7 @@
         },
         {
             "name": "Methods in Vocational Education for the Disabled and Disadvantaged",
-            "number": "4770",
+            "number": "LTC_V 4770",
             "description": "(same as SPC_ED 4390). Study of legislation, interagency cooperation, curriculum, transition, evaluation/grading role of support personnel. For educators, counselors and administrators working in vocational settings with special needs students and students with disabilities.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -204,7 +204,7 @@
         },
         {
             "name": "Laboratory Planning and Management",
-            "number": "4790",
+            "number": "LTC_V 4790",
             "description": "This course is designed to acquaint the student with the procedures, techniques and skills necessary for proper organization, management, care, and utilization of career and technical education facilities, programs, equipment, and materials.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -213,7 +213,7 @@
         },
         {
             "name": "Topics in Career and Technical Education",
-            "number": "4801",
+            "number": "LTC_V 4801",
             "description": "Topics in the field of career and technical education and the CTE program areas.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -222,7 +222,7 @@
         },
         {
             "name": "Principles of Leadership in the Workplace",
-            "number": "4805",
+            "number": "LTC_V 4805",
             "description": "Course explores the foundational concepts of leadership and its impact on the organizational behavior of individuals in the workplace. Theories of leadership will be examined, and concepts will be applied to workplace situations based on differing organizational factors. Course graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -231,7 +231,7 @@
         },
         {
             "name": "Workforce Education Teaching Methods",
-            "number": "4811",
+            "number": "LTC_V 4811",
             "description": "Develops specialized organization and administration capabilities for workforce education subjects.  Topics include managing activities, individualized instruction, nontraditional students, students with disabilities, and emerging technologies.",
             "prerequisites": "Junior standing",
             "hours": "3",
@@ -240,7 +240,7 @@
         },
         {
             "name": "Curriculum Content in Marketing Education",
-            "number": "4830",
+            "number": "LTC_V 4830",
             "description": "Curricular development process, knowledge of core area and competencies of Marketing Education Program. Selection of instructional material.",
             "prerequisites": "ESC_PS 2400",
             "hours": "3",
@@ -251,7 +251,7 @@
         },
         {
             "name": "Methods of Teaching Marketing Education",
-            "number": "4840",
+            "number": "LTC_V 4840",
             "description": "Instructional materials, methods and techniques used to teach the marketing education curriculum. Includes evaluating delivery of instruction.",
             "prerequisites": "LTC_V 4780 and LTC_V 4830",
             "hours": "3",
@@ -265,7 +265,7 @@
         },
         {
             "name": "Application of Adult Learning Concepts",
-            "number": "4910",
+            "number": "LTC_V 4910",
             "description": "(cross-leveled with LTC_V 7910). Course introduces students to the foundational concepts of adult learning theory, with a focus on the application of these theories to the development and use of instructional methods, curriculum design, and program development principles for instructors of adult learners in a variety of instructional settings. Graded on A-F basis only.",
             "prerequisites": "ESC_PS 4115; junior standing",
             "hours": "3",
@@ -276,7 +276,7 @@
         },
         {
             "name": "Workforce Education and the Community College",
-            "number": "4920",
+            "number": "LTC_V 4920",
             "description": "(cross-leveled with LTC_V 7920). This course provides an overview of the philosophy, history, and development of the community college in America, and reviews the social, economic, and political forces affecting these institutions. It also explores the rationale and techniques for keeping instructional and organizational functions responsive to the changing educational and workforce needs of the community, with an emphasis on collaboration with public-sector economic development and workforce training programs and customized training services for private sector organizations. Graded on A-F basis only.",
             "prerequisites": "Junior standing or instructor approval",
             "hours": "3",
@@ -285,7 +285,7 @@
         },
         {
             "name": "Teaching Personal Finance Literacy",
-            "number": "7083",
+            "number": "LTC_V 7083",
             "description": "(same as FINPLN 7083) Principles and practices of teaching personal finance with particular emphasis on income, money management, spending and credit, and savings and investing. Course graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -294,7 +294,7 @@
         },
         {
             "name": "Problems in Curriculum and Instruction-CTE",
-            "number": "7085",
+            "number": "LTC_V 7085",
             "description": "Study of professional programs and issues or technical problems related to the field of career and technical education.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -303,7 +303,7 @@
         },
         {
             "name": "Seminar in Career and Technical Education",
-            "number": "7387",
+            "number": "LTC_V 7387",
             "description": "Seminar experiences for students within one of the career and technical education  areas.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -312,7 +312,7 @@
         },
         {
             "name": "Coordination of Cooperative Occupational Education",
-            "number": "7510",
+            "number": "LTC_V 7510",
             "description": "Problems and procedures in the operation of cooperative occupational education programs. Especially designed for those who can qualify as coordinators of occupational education programs of a cooperative nature.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -321,7 +321,7 @@
         },
         {
             "name": "Utility Software for Microcomputers",
-            "number": "7550",
+            "number": "LTC_V 7550",
             "description": "An introduction to major types of microcomputer utility programs, including desktop publishing, presentation, spreadsheet, and data base.",
             "prerequisites": "LTC_V 1210 or equivalent",
             "hours": "2",
@@ -333,7 +333,7 @@
         },
         {
             "name": "Career Guidance",
-            "number": "7570",
+            "number": "LTC_V 7570",
             "description": "(cross-leveled with LTC_V 4570). Problems, methods, procedures involved in assisting individuals in choosing, preparing for, entering upon, progressing in their vocation. For teachers, counselors, school administrators.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2-3",
@@ -342,7 +342,7 @@
         },
         {
             "name": "Field Study in Occupational Education",
-            "number": "7610",
+            "number": "LTC_V 7610",
             "description": "Directed observation in a cross section of business and industry combined with reports, weekly seminars and/or conferences. May repeat until four semester hours accumulated.",
             "prerequisites": "None Listed",
             "hours": "1-4",
@@ -351,7 +351,7 @@
         },
         {
             "name": "Document Planning and Design",
-            "number": "7650",
+            "number": "LTC_V 7650",
             "description": "Using the hands-on approach, students will develop skills in the planning, design layout, and creation of various business documents, as well as the ability to evaluate various types of documents.",
             "prerequisites": "LTC_V 7550 or equivalent",
             "hours": "3",
@@ -363,7 +363,7 @@
         },
         {
             "name": "Business Software Applications",
-            "number": "7710",
+            "number": "LTC_V 7710",
             "description": "Advanced concepts, features, and applications central to the major types of business software--spreadsheets, database management, word processing, graphics, and communications.",
             "prerequisites": "LTC_V 7550 or equivalent",
             "hours": "3",
@@ -375,7 +375,7 @@
         },
         {
             "name": "Occupational Analysis",
-            "number": "7750",
+            "number": "LTC_V 7750",
             "description": "Techniques, procedures of analyzing occupations into their basic elements. Required of trade teachers, coordinators.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -384,7 +384,7 @@
         },
         {
             "name": "Methods in Vocational Education for the Disabled & Disadvantaged",
-            "number": "7770",
+            "number": "LTC_V 7770",
             "description": "(same as SPC_ED 4390). Study of legislation, interagency cooperation, curriculum, transition, evaluation/grading role of support personnel. For educators, counselors and administrators working in vocational settings with special needs students and students with disabilities.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -393,7 +393,7 @@
         },
         {
             "name": "Development & Assessment of Vocational-Technical Curriculum",
-            "number": "7780",
+            "number": "LTC_V 7780",
             "description": "Curriculum development/assessment course focused on competencies, curriculum selection, organization, development, and assessment in the context of the Missouri Vocational Instructional Management System.",
             "prerequisites": "ESC_PS 2400",
             "hours": "3",
@@ -404,7 +404,7 @@
         },
         {
             "name": "Laboratory Planning and Management",
-            "number": "7790",
+            "number": "LTC_V 7790",
             "description": "This course is designed to acquaint the student with the procedures, techniques and skills necessary for proper organization, management, care, and utilization of career and technical education facilities, programs, equipment, and materials.",
             "prerequisites": "LTC_V 1210 and LTC_V 7550",
             "hours": "3",
@@ -418,7 +418,7 @@
         },
         {
             "name": "Topics in Career and Technical Education",
-            "number": "7801",
+            "number": "LTC_V 7801",
             "description": "Topics in the field of career and technical education and the CTE program areas.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -427,7 +427,7 @@
         },
         {
             "name": "Technology and Industry Education Methods",
-            "number": "7810",
+            "number": "LTC_V 7810",
             "description": "Develops specialized organization and administration capabilities for Industrial and Technology Education. Topics include managing activities, individualized instruction, nontraditional students, students with disabilities, and emerging technologies.",
             "prerequisites": "professional standing",
             "hours": "3",
@@ -436,7 +436,7 @@
         },
         {
             "name": "Curriculum Content in Marketing Education",
-            "number": "7830",
+            "number": "LTC_V 7830",
             "description": "Curricular development process, knowledge of core area and competencies of Marketing Education Program. Selection of instructional material.",
             "prerequisites": "ESC_PS 2400",
             "hours": "3",
@@ -447,7 +447,7 @@
         },
         {
             "name": "Methods of Teaching Marketing Education",
-            "number": "7840",
+            "number": "LTC_V 7840",
             "description": "Instructional materials, methods and techniques used to teach the marketing education curriculum. Includes evaluating delivery of instruction.",
             "prerequisites": "LTC_V 7780 and LTC_V 7830",
             "hours": "3",
@@ -461,7 +461,7 @@
         },
         {
             "name": "Application of Adult Learning Concepts",
-            "number": "7910",
+            "number": "LTC_V 7910",
             "description": "(cross-leveled with LTC_V 4910). Course introduces students to the foundational concepts of adult learning theories, with a focus on the application of these theories to the development and use of instructional methods, curriculum design, and program development principles for instructors of adult learners in a variety of instructional settings. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -470,7 +470,7 @@
         },
         {
             "name": "Problems in Workforce and Professional Education",
-            "number": "8085",
+            "number": "LTC_V 8085",
             "description": "Independent, directed study on a topic in the areas of workforce, professional, or technology education.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -479,7 +479,7 @@
         },
         {
             "name": "Research Applications for Career and Technical Education",
-            "number": "8190",
+            "number": "LTC_V 8190",
             "description": "Interpretation, evaluation, and application of research methodologies and findings in career and technical education.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -488,7 +488,7 @@
         },
         {
             "name": "Program Development in Adult Workforce Education",
-            "number": "8210",
+            "number": "LTC_V 8210",
             "description": "The adult workforce and professional education movement; characteristics of and learning principles applied to adult students; instructional materials, methods and procedures in organizing and operating adult vocational education programs.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -497,7 +497,7 @@
         },
         {
             "name": "Methods of Business and Marketing Education",
-            "number": "8250",
+            "number": "LTC_V 8250",
             "description": "Organization, curriculum, problems, and trends of business and marketing education in secondary and post-secondary adult education.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -506,7 +506,7 @@
         },
         {
             "name": "Seminar in Career and Technical Education",
-            "number": "8287",
+            "number": "LTC_V 8287",
             "description": "Seminar in Career and Technical Education",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -515,7 +515,7 @@
         },
         {
             "name": "Foundations of Career and Technical Education",
-            "number": "8310",
+            "number": "LTC_V 8310",
             "description": "Philosophy, background, nature, purpose, and role of career and technical education programs in secondary and post-secondary education and workforce development.  For teachers and administrators working with career and technical education programs.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -524,7 +524,7 @@
         },
         {
             "name": "Curriculum Development for Workforce and Professional Education",
-            "number": "8350",
+            "number": "LTC_V 8350",
             "description": "In-depth investigation of curriculum development theory, research, issues, and procedures for workforce and professional education in the public and private sectors.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -533,7 +533,7 @@
         },
         {
             "name": "Improvement of Instruction in Using Technology",
-            "number": "8410",
+            "number": "LTC_V 8410",
             "description": "Incorporates recent development in application of technology to methods, techniques, and materials of instruction in career and technical education classrooms and laboratories.",
             "prerequisites": "LTC_V 7550 or instructor's consent",
             "hours": "3",
@@ -545,7 +545,7 @@
         },
         {
             "name": "Improvement of Instruction in Business Skills Subjects",
-            "number": "8420",
+            "number": "LTC_V 8420",
             "description": "Developments and trends in the instructional program of business skills courses.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -554,7 +554,7 @@
         },
         {
             "name": "Topics in Workforce and Professional Education",
-            "number": "8501",
+            "number": "LTC_V 8501",
             "description": "Topics in the field of workforce, professional, or technology education in the CTE program areas.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -563,7 +563,7 @@
         },
         {
             "name": "Evaluation in Workforce and Professional Education",
-            "number": "8510",
+            "number": "LTC_V 8510",
             "description": "Development of evaluation procedures and the construction of evaluation devices for workforce and professional education. Emphasizes performance evaluation, improvement of instruction, and program review.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -572,7 +572,7 @@
         },
         {
             "name": "Implementation of Career and Technical Education Programs",
-            "number": "8520",
+            "number": "LTC_V 8520",
             "description": "Types of organization, approved administrative and supervisory practices, and state and federal guidelines for programs of career and technical education.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -581,7 +581,7 @@
         },
         {
             "name": "In-Service Course in Vocational-Technical Education",
-            "number": "8940",
+            "number": "LTC_V 8940",
             "description": "In-Service Course in Vocational-Technical Education",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -590,7 +590,7 @@
         },
         {
             "name": "Research in Practical Arts and Vocational Technology Education",
-            "number": "9090",
+            "number": "LTC_V 9090",
             "description": "Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",

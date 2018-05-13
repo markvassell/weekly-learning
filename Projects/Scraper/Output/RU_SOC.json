@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Rural Sociology",
-            "number": "1000",
+            "number": "RU_SOC 1000",
             "description": "Introduction to basic concepts and principles of sociology with a focus on rural populations and places.  The course explores interconnections between rural/urban and local global economies and cultures.  Students are exposed to the rich diversity of rural society, social changes underway, and to current social issues.  (Students may not earn credit for both RU_SOC 1000 and SOCIOL 1000).",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Topics in Rural Sociology - Behavioral Science",
-            "number": "1103",
+            "number": "RU_SOC 1103",
             "description": "Organized study of selected topics. Subjects and earnable credit vary from semester to semester. May be repeated.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: RU_SOC 1000 or SOCIOL 1000",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Topics in Rural Sociology - Social Science",
-            "number": "1104",
+            "number": "RU_SOC 1104",
             "description": "Organized study of selected topics. Subjects and earnable credit vary from semester to semester. May be repeated.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: RU_SOC 1000 or SOCIOL 1000",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Population and the Environment",
-            "number": "1120",
+            "number": "RU_SOC 1120",
             "description": "(same as SOCIOL 1120 and PEA_ST 1120). Changes in the structure and characteristics of population groups and their relationship to both human and non-human aspects of the biophysical environment.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -40,43 +40,57 @@
         },
         {
             "name": "The Amish Community",
-            "number": "1150",
+            "number": "RU_SOC 1150",
             "description": "(same as PEA_ST 1150). Examines historical antecedents and contemporary culture and social structure of the Amish. Topics include cultural symbols, life ceremonies, the family, counter-cultural pressures, stresses, social change.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "RU_SOC 1000 SOCIOL 1000 or ANTHRO 1000",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 1000",
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
         },
         {
             "name": "The Amish Community - Writing Intensive",
-            "number": "1150W",
+            "number": "RU_SOC 1150W",
             "description": "(same as PEA_ST 1150). Examines historical antecedents and contemporary culture and social structure of the Amish. Topics include cultural symbols, life ceremonies, the family, counter-cultural pressures, stresses, social change.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "RU_SOC 1000 SOCIOL 1000 or ANTHRO 1000",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 1000",
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
         },
         {
             "name": "The Health of People in Local Communities",
-            "number": "1175",
+            "number": "RU_SOC 1175",
             "description": "Health is a universal concern of all people. However, the place of residence has a major impact on many things closely related to health including the local cultural such as diets, exercise, occupations, local health services, etc. This is an introduction to these topics.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "RU_SOC 1000 or SOCIOL 1000",
-            "connections": "None Listed"
+            "connections": [
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
         },
         {
             "name": "Leadership in Today's World",
-            "number": "2010",
+            "number": "RU_SOC 2010",
             "description": "Examination of dynamics of group leadership, especially in local voluntary organizations; study of how leader's behavior is related to success or failure of organization's program.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "RU_SOC 1000 or SOCIOL 1000",
-            "connections": "None Listed"
+            "connections": [
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
         },
         {
             "name": "Topics in Rural Sociology - Behavioral Science",
-            "number": "2203",
+            "number": "RU_SOC 2203",
             "description": "Organized study of selected topics. Subjects and earnable credit vary from semester to semester. May be repeated.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: RU_SOC 1000 or SOCIOL 1000",
@@ -85,7 +99,7 @@
         },
         {
             "name": "Topics in Rural Sociology - Behavioral Science - Writing Intensive",
-            "number": "2203W",
+            "number": "RU_SOC 2203W",
             "description": "Organized study of selected topics. Subjects and earnable credit vary from semester to semester. May be repeated.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: RU_SOC 1000 or SOCIOL 1000",
@@ -94,7 +108,7 @@
         },
         {
             "name": "Topics in Rural Sociology - Social Science",
-            "number": "2204",
+            "number": "RU_SOC 2204",
             "description": "Organized study of selected topics. Subjects and earnable credit vary from semester to semester. May be repeated.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: RU_SOC 1000 or SOCIOL 1000",
@@ -103,25 +117,31 @@
         },
         {
             "name": "Science, Technology and Society",
-            "number": "2225",
+            "number": "RU_SOC 2225",
             "description": "Overview of the social influences that shape science including how scientific knowledge is contested and legitimated; how social forces (among them mass communication) influence the choice of innovations; and the role social systems and sectors play in the use and benefit of science. Communication intensive-discussion, presentation and essay based.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "RU_SOC 1000 or SOCIOL 1000",
-            "connections": "None Listed"
+            "connections": [
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
         },
         {
             "name": "Science, Technology and Society - Writing Intensive",
-            "number": "2225W",
+            "number": "RU_SOC 2225W",
             "description": "Overview of the social influences that shape science including how scientific knowledge is contested and legitimated; how social forces (among them mass communication) influence the choice of innovations; and the role social systems and sectors play in the use and benefit of science. Communication intensive-discussion, presentation and essay based.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "RU_SOC 1000 or SOCIOL 1000",
-            "connections": "None Listed"
+            "connections": [
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
         },
         {
             "name": "Social Research I",
-            "number": "2950",
+            "number": "RU_SOC 2950",
             "description": "(same as SOCIOL 2950). Introduction to principles of methodology; theory and research; survey of basic research designs and perspectives; preparation for understanding and conducting social research. Required for Sociology majors.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -130,7 +150,7 @@
         },
         {
             "name": "Problems in Rural Sociology",
-            "number": "3085",
+            "number": "RU_SOC 3085",
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -139,16 +159,18 @@
         },
         {
             "name": "Recent Theories in Sociology",
-            "number": "3100",
+            "number": "RU_SOC 3100",
             "description": "(same as SOCIOL 3100). Introduction to major theoretical positions and issues in contemporary American sociology. Logical and intellectual structure of major theoretical schools: functionalism, conflict, exchange, symbolic interaction, phenomenological-ethnomethodological theories.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "SOCIOL 2200",
-            "connections": "None Listed"
+            "connections": [
+                "SOCIOL 2200"
+            ]
         },
         {
             "name": "Global Perspectives and Realities",
-            "number": "3235",
+            "number": "RU_SOC 3235",
             "description": "Designed for students who have or wish to study, live or work outside of their home country. Presents sociological perspectives on globalization and intercultural communication as well as the steps needed to prepare for a valuable and safe experience abroad.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -157,7 +179,7 @@
         },
         {
             "name": "Global Perspectives and Realities - Writing Intensive",
-            "number": "3235W",
+            "number": "RU_SOC 3235W",
             "description": "Designed for students who have or wish to study, live or work outside of their home country. Presents sociological perspectives on globalization and intercultural communication as well as the steps needed to prepare for a valuable and safe experience abroad.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -166,7 +188,7 @@
         },
         {
             "name": "Topics in Rural Sociology - Behavioral Science",
-            "number": "3303",
+            "number": "RU_SOC 3303",
             "description": "Organized study of selected topics. Subjects and earnable credit vary from semester to semester. May be repeated.",
             "prerequisites": "None Listed",
             "hours": "2-3Recommended: 6 hours of Rural Sociology or SOCIOL 1000, or junior standing",
@@ -175,7 +197,7 @@
         },
         {
             "name": "Topics in Rural Sociology - Social Science",
-            "number": "3304",
+            "number": "RU_SOC 3304",
             "description": "Organized study of selected topics. Subjects and earnable credit vary from semester to semester. May be repeated.",
             "prerequisites": "None Listed",
             "hours": "2-3Recommended: 6 hours Rural Sociology or Sociology, or junior standing",
@@ -184,7 +206,7 @@
         },
         {
             "name": "Society, Agriculture and Natural Resources",
-            "number": "3310",
+            "number": "RU_SOC 3310",
             "description": "Explore the human dimensions of agriculture and natural resources through an overview of key areas in natural resource social science. Diverse conceptual approaches and empirical research topics related to society-natural resource interactions are included.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -193,25 +215,29 @@
         },
         {
             "name": "Sociology of Food and Nutrition",
-            "number": "3325",
+            "number": "RU_SOC 3325",
             "description": "This class explores individual food choices and larger social forces.  Topics include: world hunger, food and the environment; food choices and culture, class and personal identity; the effects of social stigmas, advertising trends, and government regulations on body image; new social movements for sustainable food systems.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ENGLSH 1000 and junior or senior standing or instructor's permission",
-            "connections": "None Listed"
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Sociology of Food and Nutrition - Writing Intensive",
-            "number": "3325W",
+            "number": "RU_SOC 3325W",
             "description": "This class explores individual food choices and larger social forces.  Topics include: world hunger, food and the environment; food choices and culture, class and personal identity; the effects of social stigmas, advertising trends, and government regulations on body image; new social movements for sustainable food systems.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ENGLSH 1000 and junior or senior standing or instructor's permission",
-            "connections": "None Listed"
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Practicum in Rural Sociology",
-            "number": "3940",
+            "number": "RU_SOC 3940",
             "description": "Independent research or professional experience under faculty supervision. Projects must be arranged by student and faculty member prior to registration.",
             "prerequisites": "departmental consent",
             "hours": "3",
@@ -220,7 +246,7 @@
         },
         {
             "name": "Social Research I - Writing Intensive",
-            "number": "3950W",
+            "number": "RU_SOC 3950W",
             "description": "(same as SOCIOL 3950W). Introduction to principles of methodology; theory and research; survey of basic research designs and perspectives; preparation for understanding and conducting social research. Required for Sociology majors.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -229,25 +255,30 @@
         },
         {
             "name": "Social Statistics",
-            "number": "4120",
+            "number": "RU_SOC 4120",
             "description": "(same as SOCIOL 4120; cross-leveled with RU_SOC 7120, SOCIOL 7120). Descriptive statistics and bivariate quantitative analysis techniques commonly used by social scientists. Includes coverage of parametric and non-parametric methods. Introduction to computer analysis.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "SOCIOL 2950",
-            "connections": "None Listed"
+            "connections": [
+                "SOCIOL 2950"
+            ]
         },
         {
             "name": "Topics in Rural Sociology",
-            "number": "4301",
+            "number": "RU_SOC 4301",
             "description": "Current and new topics not currently offered in applied and/or theoretical areas in Rural Sociology. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "RU_SOC 1000 or SOCIOL 1000 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
         },
         {
             "name": "American Community Studies",
-            "number": "4325",
+            "number": "RU_SOC 4325",
             "description": "(cross-leveled with RU_SOC 7325). An introduction to the study of American communities.  The course starts with community theories and then focuses on a wide variety of historic and contemporary community studies such as Plainville, Middletown, Sidewalk and others.  Seminar format.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -256,16 +287,19 @@
         },
         {
             "name": "Social Change and Development",
-            "number": "4335",
+            "number": "RU_SOC 4335",
             "description": "(same as SOCIOL 4335; cross-leveled with SOCIOL 7335, RUR_SOC 7335). Nature of social change and development. Emphasizes sociological theories of social change and development contrasting them with approaches from the disciplines.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "RU_SOC 1000 or SOCIOL 1000 and junior standing",
-            "connections": "None Listed"
+            "connections": [
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
         },
         {
             "name": "Building Communities from the Grassroots",
-            "number": "4341",
+            "number": "RU_SOC 4341",
             "description": "(same as PEA_ST 4341; cross-leveled with RU_SOC 7341). Introduction and application of basic community development concepts, methods and practical skills for involving and empowering local citizens and leaders effectively in community-based efforts regardless of the issue.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -274,7 +308,7 @@
         },
         {
             "name": "Empowering Communities for the Future",
-            "number": "4342",
+            "number": "RU_SOC 4342",
             "description": "(cross-leveled with RU_SOC 7342). Focuses on the professional practice and applications of community-based development including participatory action research, community economic development, organizational development, use of technology, citizen education and integration of practice. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -283,7 +317,7 @@
         },
         {
             "name": "Creating Capacity for Dynamic Communities",
-            "number": "4343",
+            "number": "RU_SOC 4343",
             "description": "(cross-leveled with RU_SOC 7374), Addresses community and citizen power; large group intervention processes for change; facilitating small group process; community organizing; community sustainability, dealing with poverty and disenfranchisement; community conflict resolution; ethics; and integration into practice. Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -292,7 +326,7 @@
         },
         {
             "name": "Environmental Sociology",
-            "number": "4370",
+            "number": "RU_SOC 4370",
             "description": "(same as SOCIOL 4370; cross-leveled with SOCIOL 7370, RU_SOC 7370). An interdisciplinary examination of domestic and international environmental issues focusing on social, cultural, and policy dimensions. Perspectives of the social sciences and humanities are included.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -301,7 +335,7 @@
         },
         {
             "name": "Social Statistics",
-            "number": "7120",
+            "number": "RU_SOC 7120",
             "description": "(same as SOCIOL 7120; cross-leveled with RU_SOC 4120, SOCIOL 4120). Descriptive statistics and bivariate quantitative analysis techniques commonly used by social scientists. Includes coverage of parametric and non-parametric methods. Introduction to computer analysis.",
             "prerequisites": "SOCIOL 2950",
             "hours": "3",
@@ -312,7 +346,7 @@
         },
         {
             "name": "Topics in Rural Sociology",
-            "number": "7301",
+            "number": "RU_SOC 7301",
             "description": "Current and new topics not currently offered in applied and/or theoretical areas in Rural Sociology. Graded on A-F basis only.",
             "prerequisites": "RU_SOC 1000 or SOCIOL 1000 or equivalent, RU_SOC 4301",
             "hours": "3",
@@ -325,7 +359,7 @@
         },
         {
             "name": "American Community Studies",
-            "number": "7325",
+            "number": "RU_SOC 7325",
             "description": "(cross-leveled with RU_SOC 4325). An introduction to the study of American communities.  The course starts with community theories and then focuses on a wide variety of historic and contemporary community studies such as Plainville, Middletown, Sidewalk and others.  Seminar format.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -334,7 +368,7 @@
         },
         {
             "name": "Social Change and Development",
-            "number": "7335",
+            "number": "RU_SOC 7335",
             "description": "(same as SOCIOL 7335; cross-leveled with SOCIOL 4335, RU_SOC 4335). Nature of social change and development. Emphasizes sociological theories of social change and development contrasting them with approaches from other disciplines.",
             "prerequisites": "RU_SOC 1000 or SOCIOL 1000",
             "hours": "3",
@@ -346,7 +380,7 @@
         },
         {
             "name": "Building Communities from the Grassroots",
-            "number": "7341",
+            "number": "RU_SOC 7341",
             "description": "(cross-leveled with RU_SOC 4341). Introduction and application of basic community development concepts, methods and practical skills for involving and empowering local citizens and leaders effectively in community-based efforts regardless of the issue.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -355,7 +389,7 @@
         },
         {
             "name": "Empowering Communities for the Future",
-            "number": "7342",
+            "number": "RU_SOC 7342",
             "description": "(cross-leveled with RU_SOC 7342). Focuses on the professional practice and applications of community-based development including participatory action research, community economic development, organizational development, use of technology, citizen education and integration of practice. Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -364,7 +398,7 @@
         },
         {
             "name": "Creating Capacity for Dynamic Communities",
-            "number": "7343",
+            "number": "RU_SOC 7343",
             "description": "(cross-leveled with RU_SOC 4343). Addresses community and citizen power; large group intervention processes for change; facilitating small group process; community organizing; community sustainability, dealing with poverty and disenfranchisement; community conflict resolution; ethics; and integration into practice. Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -373,7 +407,7 @@
         },
         {
             "name": "Environmental Sociology",
-            "number": "7370",
+            "number": "RU_SOC 7370",
             "description": "(same as SOCIOL 7370; cross-leveled with SOCIOL 4370, RU_SOC 4370). An interdisciplinary examination of domestic and international environmental issues focusing on social, cultural, and policy dimensions. Perspectives of the social sciences and humanities are included.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -382,7 +416,7 @@
         },
         {
             "name": "Seminar on Issues in the Sociology of Agriculture and Natural Resources",
-            "number": "7445",
+            "number": "RU_SOC 7445",
             "description": "Issues in current research in the sociology of agriculture of developing and industrial nations. Links sociological theory with research in agriculture, examining contributions of applied research to sociological knowledge.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -391,7 +425,7 @@
         },
         {
             "name": "Community Social Structure",
-            "number": "7446",
+            "number": "RU_SOC 7446",
             "description": "(same as SOCIOL 7446). A comparative study of communities in different nations and in urban and rural areas. A primary focus of the course will be on social change in communities in response to changing economic, political, social, cultural, and ecological factors.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -400,7 +434,7 @@
         },
         {
             "name": "Problems in Rural Sociology",
-            "number": "8085",
+            "number": "RU_SOC 8085",
             "description": "Research for student capable of semi-independent work.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -409,7 +443,7 @@
         },
         {
             "name": "Research in Rural Sociology",
-            "number": "8090",
+            "number": "RU_SOC 8090",
             "description": "Research leading to thesis or dissertation. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -418,7 +452,7 @@
         },
         {
             "name": "Advanced Social Statistics",
-            "number": "8130",
+            "number": "RU_SOC 8130",
             "description": "(same as SOCIOL 8130). Introduction to multivariate analysis for social scientists. Emphasis on non-experimental applications of analysis of variance and correlation-regression. Computer applications emphasized.",
             "prerequisites": "RU_SOC 4120 or equivalent",
             "hours": "3",
@@ -429,7 +463,7 @@
         },
         {
             "name": "Seminar on Sustainable Development",
-            "number": "8287",
+            "number": "RU_SOC 8287",
             "description": "(same as SOCIOL 8287). An interdisciplinary examination of sustainable development focusing on social, economic, cultural and environmental dimensions of development.  International and domestic issues and approaches to sustainable development are included.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -438,7 +472,7 @@
         },
         {
             "name": "Program Development and Evaluation",
-            "number": "8430",
+            "number": "RU_SOC 8430",
             "description": "(same as AG_ED_LD 8430). Program development principles, teaching plans and evaluation principles applied to extension program development.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -447,7 +481,7 @@
         },
         {
             "name": "Political Ecology",
-            "number": "8435",
+            "number": "RU_SOC 8435",
             "description": "Political ecology is an analytical approach to environment  and natural resource issues at local, regional and global scales, emphasizing political, economic, cultural, social and historical factors and their relationship to ecological trends and processes.  Seminar format.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -456,16 +490,19 @@
         },
         {
             "name": "Community, Natural Resources and Sustainability",
-            "number": "8436",
+            "number": "RU_SOC 8436",
             "description": "A graduate seminar on conceptual and methodological (mixed methods) approaches to natural resource sustainability issues at the human community level. Focuses on theoretical, methodological, and empirical topics related to the interactions between community, natural resources and sustainability. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "RU_SOC 4310 or RU_SOC 7310",
-            "connections": "None Listed"
+            "connections": [
+                "RU_SOC 4310",
+                "RU_SOC 7310"
+            ]
         },
         {
             "name": "Agriculture, Food and Community",
-            "number": "8444",
+            "number": "RU_SOC 8444",
             "description": "Introduces key debates in the sociology of food and agriculture.  Includes research on the structure and history of the agriculture system and its impacts on farmers, communities and the natural environment.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -474,7 +511,7 @@
         },
         {
             "name": "Seminar on Contemporary Issues in Rural Sociology",
-            "number": "8447",
+            "number": "RU_SOC 8447",
             "description": "Seminar on Contemporary Issues in Rural Sociology",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -483,7 +520,7 @@
         },
         {
             "name": "Society and Ecosystems Research Seminar",
-            "number": "8448",
+            "number": "RU_SOC 8448",
             "description": "(same as AG_EC 8448 and NAT_R 8448). This seminar, capstone for the Graduate Certificate Program in Society and Ecosystems, exposes students to interdisciplinary research on interactions between social, economic and ecological systems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -492,7 +529,7 @@
         },
         {
             "name": "Research in Rural Sociology",
-            "number": "8450",
+            "number": "RU_SOC 8450",
             "description": "Research not expected to terminate in thesis or dissertation.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -501,7 +538,7 @@
         },
         {
             "name": "Research Methods and Design",
-            "number": "8510",
+            "number": "RU_SOC 8510",
             "description": "(same as AG_ED_LD 8510). A foundations course on quantitative research methodology and design principles for investigating problems in social and behavioral sciences.  A focus is on the language of research, purposes, validity  threats, and data collection methods.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -510,7 +547,7 @@
         },
         {
             "name": "Methods of Qualitative Research",
-            "number": "8540",
+            "number": "RU_SOC 8540",
             "description": "(same as AG_ED_LD 8540). Overview of philosophies, approaches toward, design, data collection, analysis and reporting of qualitative research.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -519,7 +556,7 @@
         },
         {
             "name": "Economic and Sociological Approaches to Collective Action",
-            "number": "8610",
+            "number": "RU_SOC 8610",
             "description": "(same as AG_EC 8610).  This course identifies analytical and methodological tools, including rational choice and social capital, to deal with practical problems of collective action in: agricultural cooperatives, rural community development, political interest groups and other mutuals.",
             "prerequisites": "AG_EC 8610",
             "hours": "3",
@@ -530,7 +567,7 @@
         },
         {
             "name": "Research in Rural Sociology",
-            "number": "9090",
+            "number": "RU_SOC 9090",
             "description": "Research leading to thesis or dissertation. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -539,7 +576,7 @@
         },
         {
             "name": "Seminar in Qualitative Methods in Sociology",
-            "number": "9287",
+            "number": "RU_SOC 9287",
             "description": "(same as SOCIOL 9287). Examination of various qualitative methods of research, including problem-formulation, access and interpretation of data, theory-generation, and preparation of research reports.",
             "prerequisites": "RU_SOC 8510 or instructor's consent",
             "hours": "3",
@@ -550,7 +587,7 @@
         },
         {
             "name": "Synthesis of Theory and Method in Sociology",
-            "number": "9437",
+            "number": "RU_SOC 9437",
             "description": "The purpose of the course is to provide the student with a critical understanding of the basic theoretical paradigms employed in the development of research projects in sociology. The course is designed for graduate students.",
             "prerequisites": "RU_SOC 4130 and RU_SOC 8510, or instructor's consent",
             "hours": "3",
@@ -562,7 +599,7 @@
         },
         {
             "name": "Community Survey Research",
-            "number": "9480",
+            "number": "RU_SOC 9480",
             "description": "(same as SOCIOL 9987). This course applies social science survey research methods to the unique kinds of problems that arise in the study of whole communities.",
             "prerequisites": "RU_SOC 8510 or equivalent",
             "hours": "3",
@@ -573,7 +610,7 @@
         },
         {
             "name": "Data Collection, Analysis and Interpretation",
-            "number": "9510",
+            "number": "RU_SOC 9510",
             "description": "(same as AG_ED_LD 9510). A quantitative methods course in measurement, data collection and analysis related to social and behavioral science research.  An applied approach is taken on instrumentation and analyzing data using descriptive and inferential statistics. Practical skills in data manipulation using SPSS are developed. Graded on A-F basis only.",
             "prerequisites": "AG_ED_LD 8510 or  RU_SOC 8510 or instructor's consent",
             "hours": "3",
@@ -585,7 +622,7 @@
         },
         {
             "name": "Seminar in Multivariate Analysis Techniques",
-            "number": "9837",
+            "number": "RU_SOC 9837",
             "description": "(same as SOCIOL 9837). Examination of various qualitative techniques of data analysis.",
             "prerequisites": "RU_SOC 8510 or instructor's consent",
             "hours": "3",

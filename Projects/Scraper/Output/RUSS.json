@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Elementary Russian I",
-            "number": "1100",
+            "number": "RUSS 1100",
             "description": "Five hours of classroom instruction, with one hour lab work weekly. For beginners with no prior knowledge of Russian.",
             "prerequisites": "None Listed",
             "hours": "6",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Elementary Russian II",
-            "number": "1200",
+            "number": "RUSS 1200",
             "description": "Five hours of classroom instruction, with one hour lab work weekly.",
             "prerequisites": "C- or better in RUSS 1100 or equivalent. or instructor consent",
             "hours": "6",
@@ -24,7 +24,7 @@
         },
         {
             "name": "Undergraduate Topics in Russian-General",
-            "number": "2001",
+            "number": "RUSS 2001",
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. May be repeated for credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -33,7 +33,7 @@
         },
         {
             "name": "Undergraduate Topics in Russian-Humanities",
-            "number": "2005",
+            "number": "RUSS 2005",
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. May be repeated for credit with departmental consent. No language credit.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Classics and Iconoclasts: An Introduction to Russian Literature",
-            "number": "2100",
+            "number": "RUSS 2100",
             "description": "Designed to introduce students to some of the major genres, issues, and approaches in the study of Russian literature.  Begins with the most classic of Russian authors, the so-called \"father of Russian literature\" Aleksandr Pushkin, then moves on to two \"classics\" from the 19th century (Gogol, Chekhov) and two \"iconoclasts\" from the first part of the 20th (Mayakovsky, Kharms).  Covers a range of genres, including poetry, short story, and drama, as well as letters, essays and manifestoes.  Course reading list includes secondary essays that both shed light on specific texts/authors as well as provide models for critical and theoretical approaches to literature, with an emphasis on Russian Formalism.  Readings and discussions in English; no knowledge of Russian language or literature required.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -51,7 +51,7 @@
         },
         {
             "name": "Classics and Iconoclasts: An Introduction to Russian Literature - Writing Intensive",
-            "number": "2100W",
+            "number": "RUSS 2100W",
             "description": "Designed to introduce students to some of the major genres, issues, and approaches in the study of Russian literature.  Begins with the most classic of Russian authors, the so-called \"father of Russian literature\" Aleksandr Pushkin, then moves on to two \"classics\" from the 19th century (Gogol, Chekhov) and two \"iconoclasts\" from the first part of the 20th (Mayakovsky, Kharms).  Covers a range of genres, including poetry, short story, and drama, as well as letters, essays and manifestoes.  Course reading list includes secondary essays that both shed light on specific texts/authors as well as provide models for critical and theoretical approaches to literature, with an emphasis on Russian Formalism.  Readings and discussions in English; no knowledge of Russian language or literature required.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -60,7 +60,7 @@
         },
         {
             "name": "Russia: Enigma Wrapped in Mystery",
-            "number": "2120",
+            "number": "RUSS 2120",
             "description": "Broad introduction to the study of Russia as a discipline; designed to acquaint the student with a wide range of topics connected to the study of Russia.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Second-Year Russian I",
-            "number": "2130",
+            "number": "RUSS 2130",
             "description": "Students will solidify their command of Russian grammar and begin developing their reading skills.",
             "prerequisites": "RUSS 1200, equivalent, or instructor's consent",
             "hours": "4",
@@ -80,7 +80,7 @@
         },
         {
             "name": "Second-Year Russian II",
-            "number": "2160",
+            "number": "RUSS 2160",
             "description": "Continuation of RUSS 2130.",
             "prerequisites": "RUSS 2130 or equivalent, or instructor's consent",
             "hours": "4",
@@ -91,7 +91,7 @@
         },
         {
             "name": "Between Heaven and Earth: Russian Civilization",
-            "number": "2310",
+            "number": "RUSS 2310",
             "description": "Survey of Russian culture from the Christianization of the Slavic peoples to late imperial period. No foreign language credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Between Heaven and Earth: Russian Civilization - Writing Intensive",
-            "number": "2310W",
+            "number": "RUSS 2310W",
             "description": "Survey of Russian culture from the Christianization of the Slavic peoples to late imperial period. No foreign language credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -109,7 +109,7 @@
         },
         {
             "name": "The Arts of Survival",
-            "number": "2320",
+            "number": "RUSS 2320",
             "description": "Historical, social, and artistic topics. No foreign language credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -118,7 +118,7 @@
         },
         {
             "name": "The Arts of Survival",
-            "number": "2320W",
+            "number": "RUSS 2320W",
             "description": "Historical, social, and artistic topics. No foreign language credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -127,7 +127,7 @@
         },
         {
             "name": "Russia and America as Comparative Civilizations",
-            "number": "2330",
+            "number": "RUSS 2330",
             "description": "Analyzes similar developments in the arts, architecture, literature, and film of Russia and America.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -136,7 +136,7 @@
         },
         {
             "name": "The Supreme Measure: Capital Punishment in Russian History and Literature",
-            "number": "2570",
+            "number": "RUSS 2570",
             "description": "Highlights historical, ethical, and religious aspects of capital punishment across the span of Russian history. Provides an opportunity to explore a difficult topic using material unknown to most students; a serious course in literary history. Develops critical thinking skills.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -145,7 +145,7 @@
         },
         {
             "name": "The Art of Soviet and Russian Cinema",
-            "number": "2865",
+            "number": "RUSS 2865",
             "description": "(same as FILM_S 2865) Topics (e.g. Distorted Picture: Post-War Cinema in the Soviet State, Cinema in the Soviet Times and Beyond, etc.) announced at time of registration. Only 6 hours may be taken towards major.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -154,7 +154,7 @@
         },
         {
             "name": "The Art of Soviet and Russian Cinema - Writing Intensive",
-            "number": "2865W",
+            "number": "RUSS 2865W",
             "description": "(same as FILM_S 2865) Topics (e.g. Distorted Picture: Post-War Cinema in the Soviet State, Cinema in the Soviet Times and Beyond, etc.) announced at time of registration. Only 6 hours may be taken towards major.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -163,7 +163,7 @@
         },
         {
             "name": "Topics in Russian-General",
-            "number": "3001",
+            "number": "RUSS 3001",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
             "prerequisites": "sophomore standing",
             "hours": "1-3",
@@ -172,7 +172,7 @@
         },
         {
             "name": "Topics in Russian-Humanities",
-            "number": "3005",
+            "number": "RUSS 3005",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
             "prerequisites": "sophomore standing",
             "hours": "1-3",
@@ -181,7 +181,7 @@
         },
         {
             "name": "Topics in Russian-Humanities - Writing Intensive",
-            "number": "3005W",
+            "number": "RUSS 3005W",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
             "prerequisites": "sophomore standing",
             "hours": "1-3",
@@ -190,7 +190,7 @@
         },
         {
             "name": "Intermediate Russian",
-            "number": "3130",
+            "number": "RUSS 3130",
             "description": "Normally taken as 5th semester of Russian language sequence.",
             "prerequisites": "Grade of C- or higher in RUSS 2160 or RUSS 3160 or instructor's consent",
             "hours": "3",
@@ -202,7 +202,7 @@
         },
         {
             "name": "Intermediate Conversation and Composition",
-            "number": "3160",
+            "number": "RUSS 3160",
             "description": "Further develops oral command of Russian as well as listening comprehension and some letter writing skills.",
             "prerequisites": "Grade of C- or higher in RUSS 2160 or RUSS 3130 or instructor's consent",
             "hours": "3",
@@ -214,7 +214,7 @@
         },
         {
             "name": "Heroes of Their Times",
-            "number": "3310",
+            "number": "RUSS 3310",
             "description": "Examines selected works by the major Russian writers of the first half of the nineteenth century. Reading and lectures in English.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -223,7 +223,7 @@
         },
         {
             "name": "Matters of Life and Death",
-            "number": "3320",
+            "number": "RUSS 3320",
             "description": "Analyzes the major works of Tolstoy and Dostoevsky. Readings and lectures in English.",
             "prerequisites": "sophomore standing or instructor's consent",
             "hours": "3",
@@ -232,7 +232,7 @@
         },
         {
             "name": "Decline, Fall, and Resurrection in Modern Russian Literature",
-            "number": "3330",
+            "number": "RUSS 3330",
             "description": "Analysis of the major trends in Russian literature and related cultural developments from 1890 to 1930. Readings and lectures in English.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -241,7 +241,7 @@
         },
         {
             "name": "The Split Tree of Russian Literature",
-            "number": "3350",
+            "number": "RUSS 3350",
             "description": "Analyzes the divided tradition of Russian literature since 1930 in the works of such authors as Nabokov, Pasternak, Bulgakov, and Solzhenitsyn. Readings and lectures in English.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -250,7 +250,7 @@
         },
         {
             "name": "Sinners, Saints, and Madmen: 19th Century Russian Literature",
-            "number": "3380",
+            "number": "RUSS 3380",
             "description": "Introduction to foundational periods (Sentimentalism, Romanticism, Realism and its decline), narratives, and authors of 19th century Russian literary tradition.  Traces development of the \"Russian\" short story and novel forms, as well as the all-important \"Petersburg\" theme.",
             "prerequisites": "ENGLSH 1000; sophomore standing or instructor's consent",
             "hours": "3",
@@ -261,7 +261,7 @@
         },
         {
             "name": "True Fictions: Russian Prose since 1900",
-            "number": "3390",
+            "number": "RUSS 3390",
             "description": "Survey of Russian prose fiction of the twentieth and early twenty-first century.  During this time Russia experienced a series of drastic changes in society and culture, and as often happens the artists responded more rapidly and insightfully than anyone else.  This was a time of radical experimentation with the very nature of literature, and we will ready and examine some of the fascinating results.  Course gives a short history of Russian prose fiction after 1900, offers a theory of analytical reading of imaginative prose, and hones the skills of intelligent writing about evaluative reading.  Readings, lecture and discussion in English; no previous knowledge of Russian literature is assumed.",
             "prerequisites": "sophomore standing, or instructor's consent",
             "hours": "3",
@@ -270,7 +270,7 @@
         },
         {
             "name": "True Fictions: Russian Prose since 1900 - Writing Intensive",
-            "number": "3390W",
+            "number": "RUSS 3390W",
             "description": "Survey of Russian prose fiction of the twentieth and early twenty-first century.  During this time Russia experienced a series of drastic changes in society and culture, and as often happens the artists responded more rapidly and insightfully than anyone else.  This was a time of radical experimentation with the very nature of literature, and we will ready and examine some of the fascinating results.  Course gives a short history of Russian prose fiction after 1900, offers a theory of analytical reading of imaginative prose, and hones the skills of intelligent writing about evaluative reading.  Readings, lecture and discussion in English; no previous knowledge of Russian literature is assumed.",
             "prerequisites": "sophomore standing, or instructor's consent",
             "hours": "3",
@@ -279,7 +279,7 @@
         },
         {
             "name": "Russian Classics I",
-            "number": "3630",
+            "number": "RUSS 3630",
             "description": "Reading and discussion of selected works by major Russian writers of the nineteenth century. Course conducted in Russian. May be taken before or after RUSS 3640.",
             "prerequisites": "RUSS 3130 or RUSS 3160 or instructor's consent",
             "hours": "3",
@@ -291,7 +291,7 @@
         },
         {
             "name": "Russian Classics II",
-            "number": "3640",
+            "number": "RUSS 3640",
             "description": "Reading and discussion of selected works by major Russian writers of the twentieth century. Course conducted in Russian. May be taken before or after RUSS 3630.",
             "prerequisites": "RUSS 3130 or RUSS 3160 or instructor's consent",
             "hours": "3",
@@ -303,7 +303,7 @@
         },
         {
             "name": "Russian Women and Film",
-            "number": "3870",
+            "number": "RUSS 3870",
             "description": "(same as FILM_S 3870 or WGST 3870).  Traces image(s) of the Russian woman in 20th-century Russia as constructed in Russian, Soviet and late-Soviet film.  Discusses heroines of pre-revolutionary melodrama and \"new Soviet man and woman\" of the 20s.  Considers war-time re-alignment of gender roles in defense of motherland and their subtle revamping in post-war and post-Stalinist period, and the shifting relations between women and men, women and women, and women and the State.  Emphasizes cultural-historical and ideological status of women as reflected in onscreen image(s) in Russian film.  Designed to serve as an introduction to film studies and to 20th-century Russian culture more generally.  Conducted in English (all films have English subtitles).",
             "prerequisites": "sophomore standing or instructor's consent",
             "hours": "3",
@@ -312,7 +312,7 @@
         },
         {
             "name": "Russian and Soviet Cinema",
-            "number": "3890",
+            "number": "RUSS 3890",
             "description": "(same as FILM_S 3890). Survey and analysis of selected Soviet films. Emphasis on film-making as a form of art. English or subtitled. Second screenings by arr. Some films may run over 2 hrs. No foreign language credit.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -321,7 +321,7 @@
         },
         {
             "name": "Service Learning in Russian Studies",
-            "number": "3895",
+            "number": "RUSS 3895",
             "description": "Service learning offers students a chance to put into practice what they have learned in theory. Students work as teacher-aids or tutors in foreign language/culture classes at area schools. Does not meet Arts and   Science foundation requirements. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "2",
@@ -330,7 +330,7 @@
         },
         {
             "name": "Honors in Russian",
-            "number": "3896",
+            "number": "RUSS 3896",
             "description": "Special problems in Slavic literature or linguistics.",
             "prerequisites": "departmental consent of  Honors director",
             "hours": "1-3",
@@ -339,7 +339,7 @@
         },
         {
             "name": "Topics in Russian-General",
-            "number": "4001",
+            "number": "RUSS 4001",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -348,7 +348,7 @@
         },
         {
             "name": "Topics in Russian-Humanities",
-            "number": "4005",
+            "number": "RUSS 4005",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.  ",
             "prerequisites": " instructor's consent,",
             "hours": "1-3",
@@ -357,7 +357,7 @@
         },
         {
             "name": "Topics in Russian-Humanities - Writing Intensive",
-            "number": "4005W",
+            "number": "RUSS 4005W",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated for credit with departmental consent.  ",
             "prerequisites": " instructor's consent,",
             "hours": "1-3",
@@ -366,7 +366,7 @@
         },
         {
             "name": "Intensive Beginning Russian",
-            "number": "4070",
+            "number": "RUSS 4070",
             "description": "Designed to lead quickly to a reading knowledge of Russian. Cannot be taken to fulfill undergraduate language requirement. Intended for graduate students in other departments who plan to conduct research in Russian.",
             "prerequisites": "instructor's consent required",
             "hours": "3",
@@ -375,7 +375,7 @@
         },
         {
             "name": "Advanced Russian Conversation",
-            "number": "4160",
+            "number": "RUSS 4160",
             "description": "Advanced syntax, idiomatic constructions, and vocabulary building.",
             "prerequisites": "RUSS 3130 or RUSS 3160 or instructor's consent",
             "hours": "3",
@@ -387,7 +387,7 @@
         },
         {
             "name": "Special Readings in Russian",
-            "number": "4350",
+            "number": "RUSS 4350",
             "description": "Special Readings in Slavic literature or linguistics.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -396,7 +396,7 @@
         },
         {
             "name": "Russian Poetry",
-            "number": "4420",
+            "number": "RUSS 4420",
             "description": "Survey of readings in Russian poetry from its beginnings to present.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -405,7 +405,7 @@
         },
         {
             "name": "Russian Drama",
-            "number": "4430",
+            "number": "RUSS 4430",
             "description": "Selected readings in and discussions of major Russian plays of the nineteenth and twentieth century.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -414,7 +414,7 @@
         },
         {
             "name": "Russian Drama - Writing Intensive",
-            "number": "4430W",
+            "number": "RUSS 4430W",
             "description": "Selected readings in and discussions of major Russian plays of the nineteenth and twentieth century.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -423,7 +423,7 @@
         },
         {
             "name": "Russian Prose",
-            "number": "4435",
+            "number": "RUSS 4435",
             "description": "Explores the development of prose writing in modern Russian letters, paying special attention to native generic designations. Considers dual imagery of realist/naturalist and romantic/fantastic approaches. Studies diverse examples: rasskaz (story), the povest' (tale), the novella, novel essay early 19th c. through 20th c. Considers ways in which literature can itself stand as a philosophical form.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -432,7 +432,7 @@
         },
         {
             "name": "The Russian Novel",
-            "number": "4440",
+            "number": "RUSS 4440",
             "description": "Selected readings and seminar discussion of major novelists of the 19th and 20th centuries.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -441,7 +441,7 @@
         },
         {
             "name": "The Art and Life of Pushkin",
-            "number": "4510",
+            "number": "RUSS 4510",
             "description": "Gives a conceptual thematic overview of Alexander Pushkin's lyrical poetry, as well as some dramatic work and prose. Special attention paid to the parallel development of his artistic and religious beliefs. Poetry read in Russian; prose and dramatic poems in Russian and English.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -450,7 +450,7 @@
         },
         {
             "name": "Nikolai Gogol",
-            "number": "4520",
+            "number": "RUSS 4520",
             "description": "Study of the life and art of Nikolai Gogol. Includes biographical overview, Ukrainian stories, dynamics of folklore, local dialect, and the process of literary creation. Considers St. Petersburg stories, novels, and plays.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -459,7 +459,7 @@
         },
         {
             "name": "Dostoevsky",
-            "number": "4530",
+            "number": "RUSS 4530",
             "description": "Introduction to the works of Fyodor Dostoevsky, including selections from both the shorter works and the major novels.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -468,7 +468,7 @@
         },
         {
             "name": "Tolstoy's Fiction and Truth",
-            "number": "4540",
+            "number": "RUSS 4540",
             "description": "Provides a conceptual overview and analysis of two masterpieces of Tolstoy's art. Acquaints students with the complex and hidden connections between Tolstoy's artistic methods and religious beliefs.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -477,7 +477,7 @@
         },
         {
             "name": "Nabokov's Russian Fiction",
-            "number": "4550",
+            "number": "RUSS 4550",
             "description": "Systematic analysis of Vladimir Nabokov's fiction, both novels and short stories. Emphasis on the artistic properties of prose. Lectures and class discussion in English. Readings in Russian (English translations for undergraduate students).",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -486,7 +486,7 @@
         },
         {
             "name": "Internship in Russian",
-            "number": "4730",
+            "number": "RUSS 4730",
             "description": "Supervised introduction to the methodology of the teaching of elementary Russian; conducted in a classroom environment.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -495,7 +495,7 @@
         },
         {
             "name": "Blogging the World: The Web in Cultural Context",
-            "number": "4820",
+            "number": "RUSS 4820",
             "description": "(same as GERMAN 4820. FRENCH 4820). Innovative interdisciplinary course addresses issues of access to international news and specific cultural context working in cross-disciplinary teams. Students in journalism, foreign language, international studies, political science and various other disciplines track cultural developments and information on no-US Web sites, blogs and digital social networks along with exploring various historical forms of communication that preceded the digital era of the Web.  Students analyze the potential and limitations/ effects of blogs and the web in specific contemporary cultural contexts and as part of the broader historical evolution of the web.  The course is taught in English.  The goal of this course is two-fold; students learn the particulars of web blogging, explore various features of the contemporary social network landscape while focusing on the concept of culture, in particular the cultures of Europe and the US.  Questions asked are: what is culture? What is common or popular right now in other cultures? And how do new social networks amplify or alter certain features or culture across national and international contests?",
             "prerequisites": "sophomore standing required",
             "hours": "3",
@@ -504,7 +504,7 @@
         },
         {
             "name": "Blogging the World: The Web in Cultural Context - Writing Intensive",
-            "number": "4820W",
+            "number": "RUSS 4820W",
             "description": "(same as GERMAN 4820, FRENCH 4820). Innovative interdisciplinary course addresses issues of access to international news and specific cultural context working in cross-disciplinary teams. Students in journalism, foreign language, international studies, political science and various other disciplines track cultural developments and information on no-US Web sites, blogs and digital social networks along with exploring various historical forms of communication that preceded the digital era of the Web.  Students analyze the potential and limitations/ effects of blogs and the web in specific contemporary cultural contexts and as part of the broader historical evolution of the web.  The course is taught in English.  The goal of this course is two-fold; students learn the particulars of web blogging, explore various features of the contemporary social network landscape while focusing on the concept of culture, in particular the cultures of Europe and the US.  Questions asked are: what is culture? What is common or popular right now in other cultures? And how do new social networks amplify or alter certain features or culture across national and international contests?",
             "prerequisites": "sophomore standing required",
             "hours": "3",
@@ -513,16 +513,19 @@
         },
         {
             "name": "Honors Thesis in Russian",
-            "number": "4896",
+            "number": "RUSS 4896",
             "description": "Intended for Russian majors in their final year of study who have completed the majority of course requirements within the major and are prepared to engage in an independent research project that culminates in a 25-40 page thesis paper.  To be considered for honors thesis, the student should be in his/her final year of the major; must have completed at least three courses in literature, one of which must be at the 4000 level.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
             "recommendation": "Russian major; senior standing, have a minimum cumulative GPA to 3.3, and a GPA of 3.5 or above within the major, and completion of an independent reading course the previous semester (e.g. RUSS 3896; RUSS 4350)",
-            "connections": "None Listed"
+            "connections": [
+                "RUSS 3896",
+                "RUSS 4350"
+            ]
         },
         {
             "name": "Problems in Russian and Slavonic Studies",
-            "number": "7085",
+            "number": "RUSS 7085",
             "description": "Special problems in Slavic literature or linguistics.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -531,7 +534,7 @@
         },
         {
             "name": "Seminar in Russian",
-            "number": "7087",
+            "number": "RUSS 7087",
             "description": "Course content varies.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -540,7 +543,7 @@
         },
         {
             "name": "Topics in 19th Century Russian Literature-General",
-            "number": "7105",
+            "number": "RUSS 7105",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -549,7 +552,7 @@
         },
         {
             "name": "Topics in 20th Century Russian Literature",
-            "number": "7205",
+            "number": "RUSS 7205",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -558,7 +561,7 @@
         },
         {
             "name": "Topics in Slavic Linguistics",
-            "number": "7305",
+            "number": "RUSS 7305",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -567,7 +570,7 @@
         },
         {
             "name": "Russian Literary History",
-            "number": "7310",
+            "number": "RUSS 7310",
             "description": "A study of the major works of Russian literature in relation to their representations in literary history.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -576,7 +579,7 @@
         },
         {
             "name": "Special Readings in Russian",
-            "number": "7350",
+            "number": "RUSS 7350",
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -585,7 +588,7 @@
         },
         {
             "name": "Topics in Slavic Literatures",
-            "number": "7405",
+            "number": "RUSS 7405",
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -594,7 +597,7 @@
         },
         {
             "name": "Russian Poetry",
-            "number": "7420",
+            "number": "RUSS 7420",
             "description": "Survey of readings in Russian poetry from its beginnings to present.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -603,7 +606,7 @@
         },
         {
             "name": "Russian Drama",
-            "number": "7430",
+            "number": "RUSS 7430",
             "description": "Selected readings in and discussions of major Russian plays of the nineteenth and twentieth century.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -612,7 +615,7 @@
         },
         {
             "name": "Russian Prose",
-            "number": "7435",
+            "number": "RUSS 7435",
             "description": "Explores the development of prose writing in modern Russian letters, paying special attention to native generic designations. Considers dual imagery of realist/naturalist and romantic/fantastic approaches. Studies diverse examples: rasskaz (story), the povest' (tale), the novella, novel essay, early 19th c. through 20th c. Considers ways in which literature can itself stand as a philosophical form.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -621,7 +624,7 @@
         },
         {
             "name": "The Russian Novel",
-            "number": "7440",
+            "number": "RUSS 7440",
             "description": "Selected readings and seminar discussion of major novelists of the 19th and 20th centuries.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -630,7 +633,7 @@
         },
         {
             "name": "Nikolai Gogol",
-            "number": "7520",
+            "number": "RUSS 7520",
             "description": "Study of the life and art of Nikolai Gogol. Includes biographical overview, Ukrainian stories, dynamics of folklore, local dialect, and the process of literary creation. Considers St. Petersburg stories, novels, and plays.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -639,7 +642,7 @@
         },
         {
             "name": "Dostoevsky",
-            "number": "7530",
+            "number": "RUSS 7530",
             "description": "Introduction to the works of Fyodor Dostoevsky, including selections from both the shorter works and the major novels.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -648,7 +651,7 @@
         },
         {
             "name": "Tolstoy's Fiction and Truth",
-            "number": "7540",
+            "number": "RUSS 7540",
             "description": "Provides a conceptual overview and analysis of two masterpieces of Tolstoy's art. Acquaints students with the complex and hidden connections between Tolstoy's artistic methods and religious beliefs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -657,7 +660,7 @@
         },
         {
             "name": "Nabokov's Russian Fiction",
-            "number": "7550",
+            "number": "RUSS 7550",
             "description": "Systematic analysis of Vladimir Nabokov's fiction, both novels and short stories. Emphasis on the artistic properties of prose. Lectures and class discussion in English. Readings in Russian.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -666,7 +669,7 @@
         },
         {
             "name": "Internship in Russian",
-            "number": "7730",
+            "number": "RUSS 7730",
             "description": "Supervised introduction to the methodology of the teaching of elementary Russian; conducted in a classroom environment.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -675,7 +678,7 @@
         },
         {
             "name": "Blogging the World: The Web in Cultural Context",
-            "number": "7820",
+            "number": "RUSS 7820",
             "description": "(same as GERMAN 7820 and FRENCH 7820). Innovative interdisciplinary course addresses issues of access to international news and specific cultural context.  Working in cross-disciplinary teams, students in journalism, foreign language, international studies, political science and various other disciplines track cultural developments and information on non-US Web sites, blogs and digital social networks along with exploring various historical forms of communication that preceded the digital era of the Web.  Students analyze the potential and limitations/effects of blogs and the web in specific contemporary cultural contexts and as part of the broader historical evolution of the web.  The course is taught in English.  The goal of this course is two-fold:  students learn the particulars of web blogging, explore various features of the contemporary social network landscape while focusing on the concepts of culture, in particular the cultures of Europe and the US.  Questions asked are: what is culture?  What is common or popular right now in other cultures? And how do new social networks amplify or alter certain features or culture across national and international contexts?",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -684,7 +687,7 @@
         },
         {
             "name": "Distorted Picture",
-            "number": "7975",
+            "number": "RUSS 7975",
             "description": "(same as FILM_S 7975) Considers strategies and stylistic devices employed by East European and Soviet directors to produce artistically worthy films under censorship.  Discusses how artists adapted methods, boldness of expression, thematic content, and technical sophistication.  Attention paid to production techniques.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -693,7 +696,7 @@
         },
         {
             "name": "Research in Russian",
-            "number": "8050",
+            "number": "RUSS 8050",
             "description": "Translations or creative work not leading to thesis.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -702,7 +705,7 @@
         },
         {
             "name": "Problems in Russian and Slavonic Studies",
-            "number": "8085",
+            "number": "RUSS 8085",
             "description": "Special problems in Slavic literature or linguistics.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -711,7 +714,7 @@
         },
         {
             "name": "Thesis Research in Russian",
-            "number": "8090",
+            "number": "RUSS 8090",
             "description": "Independent research leading to a Master's thesis. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-6",
@@ -720,7 +723,7 @@
         },
         {
             "name": "Topics in 19th Century Russian Literature-General",
-            "number": "8105",
+            "number": "RUSS 8105",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -729,7 +732,7 @@
         },
         {
             "name": "Topics in 20th Century Russian Literature",
-            "number": "8205",
+            "number": "RUSS 8205",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -738,7 +741,7 @@
         },
         {
             "name": "Russian Intellectual History and Critical Theory I",
-            "number": "8220",
+            "number": "RUSS 8220",
             "description": "Survey of Russian literary and cultural criticism of the 18th and 19th centuries. Course texts will include representative critical essays as well as selected literary texts. May be taken before or after RUSS 8230.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -747,7 +750,7 @@
         },
         {
             "name": "Russian Intellectual History and Critical Theory II",
-            "number": "8230",
+            "number": "RUSS 8230",
             "description": "Survey of Russian literary and cultural criticism of the 20th century. Course texts will include representative critical essays as well as selected literary texts. May be taken before or after RUSS 8220.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -756,7 +759,7 @@
         },
         {
             "name": "Topics in Slavic Linguistics",
-            "number": "8305",
+            "number": "RUSS 8305",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -765,7 +768,7 @@
         },
         {
             "name": "Topics in Slavic Literatures",
-            "number": "8405",
+            "number": "RUSS 8405",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -774,7 +777,7 @@
         },
         {
             "name": "The Art and Life of Pushkin",
-            "number": "8510",
+            "number": "RUSS 8510",
             "description": "Gives a conceptual thematic overview of Alexander Pushkin's lyrical poetry, as well as some dramatic work and prose. Special attention paid to the parallel development of his artistic and religious beliefs. Poetry read in Russian; prose and dramatic poems in Russian and English.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -783,7 +786,7 @@
         },
         {
             "name": "Old Russian Literature",
-            "number": "8560",
+            "number": "RUSS 8560",
             "description": "Considers the genres, periodization, and development of Russian literature from the beginnings of literacy to the end of the Rurikovich dynasty. Emphasis on literary genres and their evolution. Readings in English or in Russian.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -792,7 +795,7 @@
         },
         {
             "name": "Russian Symbolism",
-            "number": "8570",
+            "number": "RUSS 8570",
             "description": "Study of the history, aesthetics, and creative works associated with the Symbolist movement in Russian literature and art. Primary emphasis on poetry drama, and prose fiction.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -801,7 +804,7 @@
         },
         {
             "name": "Pasternak",
-            "number": "8580",
+            "number": "RUSS 8580",
             "description": "Presents the life-long work of Boris Pasternak in three stages: early, interbellum, and late.  Special attention to the evolution of poetics, with close analysis of selected poems. Includes theory of poetic expression.  Requires a grasp of the main principles of Western versification (prosody, tropes, metaphor, rhyme, euphony), and history of Russian poetry.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -810,7 +813,7 @@
         },
         {
             "name": "Old Church Slavonic",
-            "number": "8650",
+            "number": "RUSS 8650",
             "description": "Designed to familiarize student with the phonological system, inflectional morphology and most important literature of the oldest recorded Slavic language. Comparisons of OCS to modern Slavic languages.",
             "prerequisites": "None Listed",
             "hours": "3",

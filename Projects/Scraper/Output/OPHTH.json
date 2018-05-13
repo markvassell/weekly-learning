@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "ABS Age-Related Mechanism of Degeneration",
-            "number": "6321",
+            "number": "OPHTH 6321",
             "description": "ABS Age-Related Mechanism of Degeneration",
             "prerequisites": "None Listed",
             "hours": "5-10",
@@ -13,7 +13,7 @@
         },
         {
             "name": "ABS  Ophthalmology Research",
-            "number": "6323",
+            "number": "OPHTH 6323",
             "description": "ABS  Ophthalmology Research",
             "prerequisites": "None Listed",
             "hours": "5-10",
@@ -22,7 +22,7 @@
         },
         {
             "name": "ABS Ophthalmology Research and Review",
-            "number": "6325",
+            "number": "OPHTH 6325",
             "description": "ABS Ophthalmology Research and Review",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Ophthalmology",
-            "number": "6585",
+            "number": "OPHTH 6585",
             "description": "Ophthalmology",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Introduction to Ophthalmology",
-            "number": "6936",
+            "number": "OPHTH 6936",
             "description": "Welcome to the Ophthalmology Elective. This curriculum is designed to introduce you to the specialty of ophthalmology, which involves the recognition, diagnosis, and management of diseases of the eye. Students will work in the outpatient setting seeing patients at the University Eye Institute. Students will participate in didactic sessions each week. During this 2 week elective, students will become familiar with the screening eye examination, learn to perform a more comprehensive ocular examination, learn about common ocular abnormalities and treatments, and become familiar with the common ophthalmic instruments.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",

@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Topics in General Studies",
-            "number": "3301",
+            "number": "G_STDY 3301",
             "description": "Experimental and/or interdisciplinary. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Internship in General Studies",
-            "number": "4940",
+            "number": "G_STDY 4940",
             "description": "Internship limited to students pursuing the Bachelor of General Studies degree. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Special Project in General Studies",
-            "number": "4950",
+            "number": "G_STDY 4950",
             "description": "With advisor's approval, student works with a faculty member on a major reading, research, or creative project, usually of interdisciplinary nature.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Readings in General Studies",
-            "number": "4960",
+            "number": "G_STDY 4960",
             "description": "Independent readings with supervisory faculty member. May be repeated to a maximum of six hours.",
             "prerequisites": "Open only to General Studies majors",
             "hours": "1-6",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Directed Readings in General Studies",
-            "number": "4970",
+            "number": "G_STDY 4970",
             "description": "Independent readings with supervisory faculty member; this course serves as the student's capstone experience.",
             "prerequisites": "Open only to General Studies majors only",
             "hours": "1-6",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Internship in General Studies",
-            "number": "4971",
+            "number": "G_STDY 4971",
             "description": "Internship experience which serves as the student's capstone experience.  Program advisor must approve internship.  Section 2 of this course will be designated for Service Learning Capstone experience.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-6",

@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Recital Attendance for Undergraduate Music Majors",
-            "number": "1091",
+            "number": "MUS_GENL 1091",
             "description": "Required attendance of eleven music events from the Music Department listing. 0 credit, and may be repeated until the total degree requirement is satisfactorily met. No tuition charged.  Graded on S/U basis only.",
             "prerequisites": "Undergraduate music or music education majors only",
             "hours": "0",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Topics in Music-Humanities",
-            "number": "3005",
+            "number": "MUS_GENL 3005",
             "description": "Organized study of selected topics in music. Subjects and credit variable. May be repeated for additional credit with departmental consent.",
             "prerequisites": "junior standing in Music and instructor's consent",
             "hours": "1-99",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Topics in Music-Humanities - Honors",
-            "number": "3005H",
+            "number": "MUS_GENL 3005H",
             "description": "Organized study of selected topics in music. Subjects and credit variable. May be repeated for additional credit with departmental consent.",
             "prerequisites": "junior standing in Music and instructor's consent. Honors eligibility required",
             "hours": "1-99",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Problems in Music",
-            "number": "3085",
+            "number": "MUS_GENL 3085",
             "description": "Independent investigation leading to a paper or project. May be repeated for credit. Sections are: Music Theory, Music Composition, Music History, Music Performance/Pedagogy.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Problems in Music - Writing Intensive",
-            "number": "3085W",
+            "number": "MUS_GENL 3085W",
             "description": "Independent investigation leading to a paper or project. May be repeated for credit. Sections are: Music Theory, Music Composition, Music History, Music Performance/Pedagogy.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Topics in Music-Humanities",
-            "number": "4005",
+            "number": "MUS_GENL 4005",
             "description": "Organized study of selected topics in music. Subjects and credit variable. May be repeated for additional credit with departmental consent.",
             "prerequisites": "junior standing in Music and instructor's consent",
             "hours": "1-99",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Topics in Music-Humanities - Honors",
-            "number": "4005H",
+            "number": "MUS_GENL 4005H",
             "description": "Organized study of selected topics in music. Subjects and credit variable. May be repeated for additional credit with departmental consent.",
             "prerequisites": "junior standing in Music and instructor's consent. Honors eligibility required",
             "hours": "1-99",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Topics in Music-Humanities - Writing Intensive",
-            "number": "4005W",
+            "number": "MUS_GENL 4005W",
             "description": "Organized study of selected topics in music. Subjects and credit variable. May be repeated for additional credit with departmental consent.",
             "prerequisites": "junior standing in Music and instructor's consent",
             "hours": "1-99",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Music Travel Course",
-            "number": "4029",
+            "number": "MUS_GENL 4029",
             "description": "(cross-leveled with MUS_GENL 7029). Experience designed to broaden music students' perspectives on music in different social and/or cultural context(s). Participant bears cost of the course.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Career Development for Musicians",
-            "number": "4510",
+            "number": "MUS_GENL 4510",
             "description": "Examination of professional opportunities available in the Creative Economy; development of a framework for career planning, professional portfolio, and personal business plan.",
             "prerequisites": "sophomore standing and instructor's consent",
             "hours": "2",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Principles of Entrepreneurship for Musicians",
-            "number": "4512",
+            "number": "MUS_GENL 4512",
             "description": "Provisions of a solid foundation of the core principles of entrepreneurial practice:  creation of new ventures, the decisions leading to their development, and the factors that lead to their success.  Students identify a career objective and develop a framework for achieving it.",
             "prerequisites": "MUS_GENL 4510; sophomore standing or instructor's consent",
             "hours": "1",
@@ -105,7 +105,7 @@
         },
         {
             "name": "Arts Marketing for Musicians",
-            "number": "4514",
+            "number": "MUS_GENL 4514",
             "description": "Exploration of marketing the arts in the 21st Century.  Students formulate a marketing plan for a project or career goal, including establishing a competitive advantage, identifying target markets, formulating marketing strategy, and measuring outcomes.",
             "prerequisites": "MUS_GENL 4510; Sophomore standing or instructor's consent",
             "hours": "1",
@@ -116,7 +116,7 @@
         },
         {
             "name": "Grant Writing for Musicians",
-            "number": "4516",
+            "number": "MUS_GENL 4516",
             "description": "(cross-leveled with MUS_GENL 7516). Exploration of the nuts and bolts of grant writing, including resources for freelance performers and teachers, and alternative fundraising strategies for individual venture ideas.  Students identify a grant opportunity and draft a funding proposal for a real or imagined project.",
             "prerequisites": "MUS_GENL 4510; sophomore standing or instructor's consent",
             "hours": "1",
@@ -127,7 +127,7 @@
         },
         {
             "name": "Music Industry Survey",
-            "number": "4518",
+            "number": "MUS_GENL 4518",
             "description": "In-depth survey of the commercial Music industry world, with emphasis on career opportunities within the recording, performing, music retail, and music management sectors.",
             "prerequisites": "MUS_GENL 4510 and sophomore standing",
             "hours": "1",
@@ -138,7 +138,7 @@
         },
         {
             "name": "Non-Profit Management in the Arts",
-            "number": "4520",
+            "number": "MUS_GENL 4520",
             "description": "Introduction to management strategy and its application within the not-for-profit arts sector.",
             "prerequisites": "MUS_GENL 4510, sophomore standing or instructor's consent",
             "hours": "1",
@@ -149,7 +149,7 @@
         },
         {
             "name": "Community Engagement in the Arts",
-            "number": "4522",
+            "number": "MUS_GENL 4522",
             "description": "Introduction to community-based arts and their relationship to personal branding in the non-profit arts sector.",
             "prerequisites": "MUS_GENL 4510, sophomore standing, or instructor's consent",
             "hours": "1",
@@ -160,7 +160,7 @@
         },
         {
             "name": "Entrepreneurship, Leadership and Advocacy in the Arts",
-            "number": "4530",
+            "number": "MUS_GENL 4530",
             "description": "Seminar investigating advocacy methods, the application of leadership within non-profit arts organizations, arts policy and implications for artists in the 21st century.  Writing and research-based work is a heavy component.",
             "prerequisites": "MUS_GENL 4510 and sophomore standing",
             "hours": "2",
@@ -171,7 +171,7 @@
         },
         {
             "name": "Music Entrepreneurship Practicum",
-            "number": "4540",
+            "number": "MUS_GENL 4540",
             "description": "(cross-leveled with MUS_GENL 7540).  Students either A) design and execute an entrepreneurial music leadership project in the community, or B) complete an internship (and accompanying report) with an approved partner organization, supervised by the instructor.",
             "prerequisites": "MUS_GENL 4510, sophomore standing or instructor's consent",
             "hours": "1-2",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Movement and Wellness for Musicians",
-            "number": "4550",
+            "number": "MUS_GENL 4550",
             "description": "(cross-leveled with MUS_GENL 7550). Students will actively engage with various somatic practices with the goal of holistically improving musical performance.",
             "prerequisites": "Instructor's consent",
             "hours": "1",
@@ -191,7 +191,7 @@
         },
         {
             "name": "Topics in Music",
-            "number": "7005",
+            "number": "MUS_GENL 7005",
             "description": "Organized study of selected topics in music. Subjects and credit variable. May be repeated with departmental consent.",
             "prerequisites": "departmental consent",
             "hours": "1-99",
@@ -200,7 +200,7 @@
         },
         {
             "name": "Music Travel Course",
-            "number": "7029",
+            "number": "MUS_GENL 7029",
             "description": "(cross-leveled with MUS_GENL 4029).  Experience designed to broaden music students' perspectives on music in different social and/or cultural context(s). Participant bears cost of the course.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -209,7 +209,7 @@
         },
         {
             "name": "Career Development for Musicians",
-            "number": "7510",
+            "number": "MUS_GENL 7510",
             "description": "Examination of professional opportunities available in the Creative Economy; development of a framework for career planning, professional portfolio, and personal business plan.",
             "prerequisites": "instructor's consent",
             "hours": "2",
@@ -218,7 +218,7 @@
         },
         {
             "name": "Principles of Entrepreneurship for Musicians",
-            "number": "7512",
+            "number": "MUS_GENL 7512",
             "description": "Provision of a solid foundation of the core principles of entrepreneurial practice: creation of new ventures, the decisions leading to their development, and the factors that lead to their success. Students identify a career objective and develop a framework for achieving it.",
             "prerequisites": "MUS_GENL 7510 and instructor's consent",
             "hours": "1",
@@ -229,7 +229,7 @@
         },
         {
             "name": "Arts Marketing for Musicians",
-            "number": "7514",
+            "number": "MUS_GENL 7514",
             "description": "Exploration of marketing the arts in the 21st Century. Students formulate a marketing plan for a project or career goal, including establishing a competitive advantage, identifying target markets, formulating marketing strategy, and measuring outcomes.",
             "prerequisites": "MUS_GENL 7510 and instructor's consent",
             "hours": "1",
@@ -240,7 +240,7 @@
         },
         {
             "name": "Grant Writing for Musicians",
-            "number": "7516",
+            "number": "MUS_GENL 7516",
             "description": "(cross-leveled with MUS_GENL 4516). Explorations of the nuts and bolts of grant writing, including resources for freelance performers and teachers, and alternative fundraising strategies for individual venture ideas.  Students identify a grant opportunity and draft a funding proposal for a real or imagined project.",
             "prerequisites": "MUS_GENL 7510; instructor's consent",
             "hours": "1",
@@ -251,7 +251,7 @@
         },
         {
             "name": "Music Industry Survey",
-            "number": "7518",
+            "number": "MUS_GENL 7518",
             "description": "In-depth survey of the commercial music industry world, with emphasis on career opportunities within the recording, performing, music retail, and music management sectors.",
             "prerequisites": "MUS_GENL 7510 or instructor's consent",
             "hours": "1",
@@ -262,7 +262,7 @@
         },
         {
             "name": "Non-Profit Management in the Arts",
-            "number": "7520",
+            "number": "MUS_GENL 7520",
             "description": "Introduction to management strategy and its application within the not-for-profit arts sector.",
             "prerequisites": "MUS_GENL 7510 or instructor's consent",
             "hours": "1",
@@ -273,7 +273,7 @@
         },
         {
             "name": "Community Engagement in the Arts",
-            "number": "7522",
+            "number": "MUS_GENL 7522",
             "description": "Introduction to community-based arts and their relationship to personal branding in the non-profit arts sector.",
             "prerequisites": "MUS_GENL 7510 or instructor's consent",
             "hours": "1",
@@ -284,7 +284,7 @@
         },
         {
             "name": "Entrepreneurship, Leadership and Advocacy in the Arts",
-            "number": "7530",
+            "number": "MUS_GENL 7530",
             "description": "Seminar investigating advocacy methods, the application of leadership within non-profit arts organizations, arts policy and implications for artists in the 21st century.  Writing and research-based work is a heavy component.",
             "prerequisites": "MUS_GENL 7510 or instructor's consent",
             "hours": "2",
@@ -295,7 +295,7 @@
         },
         {
             "name": "Music Entrepreneurship Practicum",
-            "number": "7540",
+            "number": "MUS_GENL 7540",
             "description": "(cross-leveled with MUS_GENL 4540). Students either A) design and execute an entrepreneurial music leadership project in the community, or B) complete an internship (and accompanying report) with an approved partner organization, supervised by the instructor.",
             "prerequisites": "MUS_GENL 7510 or instructor's consent",
             "hours": "1-2",
@@ -306,7 +306,7 @@
         },
         {
             "name": "Movement and Wellness for Musicians",
-            "number": "7550",
+            "number": "MUS_GENL 7550",
             "description": "(cross-leveled with MUS_GENL 4550).  Students will actively engage with various somatic practices with the goal of holistically improving musical performance.",
             "prerequisites": "Instructor's consent",
             "hours": "1",
@@ -315,7 +315,7 @@
         },
         {
             "name": "Problems in Music",
-            "number": "8085",
+            "number": "MUS_GENL 8085",
             "description": "Independent investigation leading to a paper or project. May be repeated for credit. Sections are: Music Theory, Music Composition, Music History, Music Performance/Pedagogy.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -324,7 +324,7 @@
         },
         {
             "name": "Research in Music",
-            "number": "8090",
+            "number": "MUS_GENL 8090",
             "description": "Thesis course. May be repeated for additional credit. Sections are: Music Theory, Music Composition, Music History. Performance/Pedagogy.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",

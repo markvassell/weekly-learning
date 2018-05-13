@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Conservation Studies",
-            "number": "1040",
+            "number": "NAT_R 1040",
             "description": "A one-week field experience in natural resource management issues-soil and water conservation, air pollution, fish and wildlife habitat requirements, importance of forest ecosystems. Limited to high school students who have completed their junior year and taken the PSAT or equivalent.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Ecology and Conservation of Natural Resources",
-            "number": "1060",
+            "number": "NAT_R 1060",
             "description": "Introduction to the principles of resource and conservation describing the foundation of the variety of natural resources and conservation practices used to protect and maintain these resources.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Ecology and Renewable Resource Management",
-            "number": "1070",
+            "number": "NAT_R 1070",
             "description": "Introduction to ecological principles and their relationship to resource use and management.",
             "prerequisites": "restricted to Natural Resources majors",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Topics in Natural Resources - Biological/Physical/Mathematical",
-            "number": "2002",
+            "number": "NAT_R 2002",
             "description": "Organized study of selected topics. Subjects and credit may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Topics in Natural Resources - Social Science",
-            "number": "2004",
+            "number": "NAT_R 2004",
             "description": "Organized study of selected topics. Subjects and credit may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Outdoor Recreation Consortium",
-            "number": "2080",
+            "number": "NAT_R 2080",
             "description": "Outdoor Recreation Consortium is a collaborative course taught by MU, North Carolina State University, Penn State University, East Carolina University, Texas A&M University and Western Illinois University. The course uses Great Smoky Mountains National Park as a case study for understanding the relationship between ecosystem management, natural resource management, tourism, and outdoor recreation. This course is based around a one week trip to the Smokies. Graded on A-F basis only.",
             "prerequisites": "NAT_R 1070 or P_R_TR 2111 or ENV_SC 1100 and permission of instructor",
             "hours": "2",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Issues in Natural Resources and the Environment",
-            "number": "2160",
+            "number": "NAT_R 2160",
             "description": "This course provides an introduction to ecological and environmental challenges in natural resource management in our rapidly changing world. Topical discussions will provide students with informed perspectives of several contemporary issues that affect the sustainability of our natural resources.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -71,7 +71,7 @@
         },
         {
             "name": "Topics in Natural Resources",
-            "number": "3001",
+            "number": "NAT_R 3001",
             "description": "Organized study of selected topics.  Subjects may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -80,7 +80,7 @@
         },
         {
             "name": "Natural Resource Biometrics",
-            "number": "3110",
+            "number": "NAT_R 3110",
             "description": "Sampling methods and analysis as applied to a variety of natural resources, including fisheries, range, recreation, forests, water and wildlife.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Public Relations for Natural Resource Managers",
-            "number": "3220",
+            "number": "NAT_R 3220",
             "description": "Introduction to the practical nature of public relations for those entering natural resources careers, emphasis on communication with target audiences through news media, publications and exhibits.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -98,7 +98,7 @@
         },
         {
             "name": "Hydrologic Measurement Techniques",
-            "number": "3290",
+            "number": "NAT_R 3290",
             "description": "Students will be introduced to field methods and tools used by water resource and environmental science professionals.  Students will sample and measure hydrologic and environmental variables, learn about data storage systems, and access and analyze data. Course may be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "MATH 1100 or permission of instructor",
             "hours": "1",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Hydrologic Measurement Techniques - Writing Intensive",
-            "number": "3290W",
+            "number": "NAT_R 3290W",
             "description": "Students will be introduced to field methods and tools used by water resource and environmental science professionals.  Students will sample and measure hydrologic and environmental variables, learn about data storage systems, and access and analyze data. Course may be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "MATH 1100 or permission of instructor",
             "hours": "1",
@@ -120,7 +120,7 @@
         },
         {
             "name": "Problems in Natural Resources",
-            "number": "4000",
+            "number": "NAT_R 4000",
             "description": "Problems in Natural Resources",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -129,7 +129,7 @@
         },
         {
             "name": "Topics in Natural Resources",
-            "number": "4001",
+            "number": "NAT_R 4001",
             "description": "Organized study of selected topics.  Subjects may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -138,7 +138,7 @@
         },
         {
             "name": "Foundations of Environmental Education",
-            "number": "4024",
+            "number": "NAT_R 4024",
             "description": "(same as ENV_SC 4024; cross-leveled with NAT_R 7024). This course provides a theoretical foundation to environmental education (EE). The purpose of this course is to develop the knowledge and skills for developing quality, age-appropriate EE for students in both formal and non-formal education setting. The emphasis is on EE curriculum materials, resources, and programs that can be used with students in settings at classrooms, nature centers, museums, and parks. This course involves training in the Missouri Department of Conservation Discover Nature School educational materials, and in observing and teaching EE lessons in a local nature center. Graded on A-F basis only.",
             "prerequisites": "BIO_SC 1010 or ENV_SC 1100 or NAT_R 1060 or NAT_R 1070 or NAT_R 2160 or Instructor's consent",
             "hours": "3",
@@ -153,7 +153,7 @@
         },
         {
             "name": "Hydrologic and Water Quality Modeling",
-            "number": "4320",
+            "number": "NAT_R 4320",
             "description": "(same as ENV_SC 4320).  Introduction to models for simulating hydrologic and water quality processes. Emphasis is placed on watersheds to provide experience with the use of simulation models for natural resource decision making.",
             "prerequisites": "ENV_SC 1100 or SOIL 2100",
             "hours": "3",
@@ -165,7 +165,7 @@
         },
         {
             "name": "Introduction to Geographic Information Systems",
-            "number": "4325",
+            "number": "NAT_R 4325",
             "description": "(cross-leveled with NAT_R 7325). The course will cover basic theoretical and technical issues in GIS, discuss processing geographic information for research and application, emphasis on the nature of spatial information, data models, input, manipulation and storage, and spatial analytic techniques.",
             "prerequisites": "NAT_R 1070 or GEOG 2840; NAT_R 1080 and NAT_R 1090; instructor's consent",
             "hours": "3",
@@ -179,7 +179,7 @@
         },
         {
             "name": "Natural Resource Policy/Administration",
-            "number": "4353",
+            "number": "NAT_R 4353",
             "description": "Principles of policy formation and analysis; relationship of organizational goals to structure, planning and budgeting. Historical background of present natural resource policies; examines current policy issues.",
             "prerequisites": "senior standing or instructor's consent",
             "hours": "3",
@@ -188,7 +188,7 @@
         },
         {
             "name": "GIS Applications",
-            "number": "4365",
+            "number": "NAT_R 4365",
             "description": "Introduces logical thinking and techniques in applying GIS to practical problems. Covers general GIS functionalities, Arc View Spatial Analyst including georeference, terrain analysis, hydrological analysis, grid, and remote sensing image processing.",
             "prerequisites": "GEOG 3040, NAT_R 1080 and NAT_R 1090",
             "hours": "3",
@@ -201,7 +201,7 @@
         },
         {
             "name": "Landscape Ecology and GIS Analysis I",
-            "number": "4385",
+            "number": "NAT_R 4385",
             "description": "(same as GEOG 4810). Examination of the landscape-scale approach to biodiversity, ecosystem dynamics, and habitat management. Particular emphasis on the use of Geographic Information Systems to analyze the spatial dimension of ecological patterns and processes.",
             "prerequisites": "GEOG 3040",
             "hours": "3",
@@ -212,7 +212,7 @@
         },
         {
             "name": "Natural Resources Internship",
-            "number": "4940",
+            "number": "NAT_R 4940",
             "description": "Supervised professional experience with an approved public or private organization. May be repeated for credit. Graded on S/U basis only.",
             "prerequisites": "School of Natural Resources majors only, instructor's consent",
             "hours": "1-12",
@@ -221,7 +221,7 @@
         },
         {
             "name": "Resource Practicum in Natural Resources",
-            "number": "4970",
+            "number": "NAT_R 4970",
             "description": "Multidisciplinary planning of a natural resource management program.",
             "prerequisites": "School of Natural Resources majors only and senior standing",
             "hours": "3",
@@ -230,7 +230,7 @@
         },
         {
             "name": "Topics in Natural Resources",
-            "number": "7001",
+            "number": "NAT_R 7001",
             "description": "Organized study of selected topics.  Subjects may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -239,7 +239,7 @@
         },
         {
             "name": "Foundations of Environmental Education",
-            "number": "7024",
+            "number": "NAT_R 7024",
             "description": "(cross-leveled with NAT_R 4024, ENV_SC 4024). This course provides a theoretical foundation to environmental education (EE). The purpose of this course is to develop the knowledge and skills for developing quality, age-appropriate EE for students in both formal and non-formal education setting. The emphasis is on EE curriculum materials, resources, and programs that can be used with students in settings at classrooms, nature centers, museums, and parks. This course involves training in the Missouri Department of Conservation Discover Nature School educational materials, and in observing and teaching EE lessons in a local nature center. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -248,7 +248,7 @@
         },
         {
             "name": "Hydrologic and Water Quality Modeling",
-            "number": "7320",
+            "number": "NAT_R 7320",
             "description": "(same as ENV_SC 7320). Introduction to models for simulating hydrologic and water quality processes. Emphasis is placed on Missouri watersheds to provide experience with the use of simulation models for natural resource decision making.",
             "prerequisites": "NAT_R 1080 and NAT_R  1090 and SOIL 2100 or equivalent",
             "hours": "3",
@@ -261,7 +261,7 @@
         },
         {
             "name": "Introduction to Geographic Information Systems",
-            "number": "7325",
+            "number": "NAT_R 7325",
             "description": "(cross-leveled with NAT_R 4325). The course will cover basic theoretical and technical issues in GIS, discuss processing geographic information for research and application, emphasis on the nature of spatial information, data models, input, manipulation and storage, and spatial analytic techniques.",
             "prerequisites": "NAT_R 1070 or GEOG 2840; NAT_R 1080 and NAT_R 1090; instructor's consent",
             "hours": "3",
@@ -275,7 +275,7 @@
         },
         {
             "name": "Natural Resource Policy/Administration",
-            "number": "7353",
+            "number": "NAT_R 7353",
             "description": "Principles of policy formation and analysis; relationship of organizational goals to structure, planning and budgeting. Historical background of present natural resource policies; examines current policy issues.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -284,7 +284,7 @@
         },
         {
             "name": "GIS Applications",
-            "number": "7365",
+            "number": "NAT_R 7365",
             "description": "Introduces logical thinking and techniques in applying GIS to practical problems. Cover general GIS functionalities, Arc View Spatial Analyst including georeference, terrain analysis, hydrological analysis, grid, and remote sensing image processing.",
             "prerequisites": "GEOG 3040, NAT_R 1080 and NAT_R 1090, or instructor's consent",
             "hours": "3",
@@ -297,7 +297,7 @@
         },
         {
             "name": "Landscape Ecology and GIS Analysis I",
-            "number": "7385",
+            "number": "NAT_R 7385",
             "description": "(same as GEOG 7810). Examination of the landscape-scale approach to biodiversity, ecosystem dynamics, and habitat management. Particular emphasis on the use of Geographic Information Systems to analyze the spatial dimension of ecological patterns and processes.",
             "prerequisites": "GEOG 3040, or instructor's consent",
             "hours": "3",
@@ -308,7 +308,7 @@
         },
         {
             "name": "Topics in Natural Resources",
-            "number": "8001",
+            "number": "NAT_R 8001",
             "description": "Organized study of selected topics.  Subjects may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -317,7 +317,7 @@
         },
         {
             "name": "Masters Non-Thesis Research in Natural Resources",
-            "number": "8050",
+            "number": "NAT_R 8050",
             "description": "Research credits associated with a non-thesis M.S. project.  May be repeated for credit.  Graded on S/U basis only.",
             "prerequisites": "restricted to Masters students in the School of Natural Resources",
             "hours": "1-10",
@@ -326,7 +326,7 @@
         },
         {
             "name": "Master Thesis Research in Natural Resources",
-            "number": "8090",
+            "number": "NAT_R 8090",
             "description": "Research credits leading to M.Sc. thesis.  May be repeated for credit.  Graded on S/U basis only.",
             "prerequisites": "Restricted to Masters students in the School of Natural Resources",
             "hours": "1-10",
@@ -335,7 +335,7 @@
         },
         {
             "name": "Hydrologic Measurement and Synthesis",
-            "number": "8290",
+            "number": "NAT_R 8290",
             "description": "Students are introduced to methods fundamental to measuring hydrologic processes, and assessing physical data, including field measurement, and data logging and acquisition information systems.  Students will gain experience analyzing and synthesizing hydrologic data using tools commonly used by water resource professionals.  May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "MATH 1100, STAT 2530, PHYSCS 1210.  If deficient in prerequisite courses, or unsure of qualification, contact instructor for consent",
             "hours": "2",
@@ -348,19 +348,21 @@
         },
         {
             "name": "Landscape Ecology and GIS Analysis II",
-            "number": "8395",
+            "number": "NAT_R 8395",
             "description": "(same as GEOG 8815). Provide students with principles and applications of landscape ecology and firm understandings of spatial analysis techniques using GIS. Discuss metrics for spatial pattern and models for landscape-scale dynamics.",
             "prerequisites": "NAT_R 4365; FOREST 4320 or equivalent; basic statistics; instructor's consent",
             "hours": "3",
             "recommendation": "GEOG 4810 or GEOG 7810",
             "connections": [
                 "FOREST 4320",
-                "NAT_R 4365"
+                "NAT_R 4365",
+                "GEOG 4810",
+                "GEOG 7810"
             ]
         },
         {
             "name": "Applied Research Methodology",
-            "number": "8416",
+            "number": "NAT_R 8416",
             "description": "Interrelated roles or logic, observation experiment in scientific method, research components, ethical aspects, scientific publication and communication, and research direction.",
             "prerequisites": "instructor's consent",
             "hours": "2",
@@ -369,7 +371,7 @@
         },
         {
             "name": "Society and Ecosystems Research Seminar",
-            "number": "8448",
+            "number": "NAT_R 8448",
             "description": "(same as AG_EC 8448 and RU_SOC 8448). This seminar, capstone for the Graduate Certificate Program in Society and Ecosystems, exposes students to interdisciplinary research on interactions between social, economic and ecological systems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -378,7 +380,7 @@
         },
         {
             "name": "Topics in Natural Resources",
-            "number": "9001",
+            "number": "NAT_R 9001",
             "description": "Organized study of selected topics.  Subjects and topics may vary from semester to semester. Graded on S/U basis only.",
             "prerequisites": "instructor's consent. Restricted to School of Natural Resources Graduate Students",
             "hours": "1-10",
@@ -387,7 +389,7 @@
         },
         {
             "name": "Graduate Seminar in Natural Resources",
-            "number": "9087",
+            "number": "NAT_R 9087",
             "description": "Graduate seminar in Natural Resources.  May be repeated for credit.  Graded on S/U basis only.  ",
             "prerequisites": "  restricted to PhD students in the School of Natural Resources",
             "hours": "1-10",
@@ -396,7 +398,7 @@
         },
         {
             "name": "Dissertation Research in Natural Resources",
-            "number": "9090",
+            "number": "NAT_R 9090",
             "description": "Research leading to a dissertation and Ph.D. in the School of Natural Resources.  Graded on S/U basis only.",
             "prerequisites": "Restricted to PhD students in the School of Natural Resources",
             "hours": "1-10",
@@ -405,7 +407,7 @@
         },
         {
             "name": "Ecohydrology: Contemporary Topics",
-            "number": "9490",
+            "number": "NAT_R 9490",
             "description": "A series of discussions centered on primary literature within disciplines relevant to the participants.  All Natural Resources disciplines are encouraged to participate (e.g., ecology, wildlife, fisheries, recreation/tourism, hydrology, atmospheric sciences, soils, etc.) with emphasis on interdisciplinary research (i.e. integrated natural, social and/or physical scientific research).  May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",

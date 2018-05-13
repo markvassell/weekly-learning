@@ -168,26 +168,40 @@ if __name__ == "__main__":
             class_name[0] = class_name[0].replace("\xa0", " ")
             code, number = class_name[0].split(' ')
             number = number.replace("_", "")
-            class_name[0] = number
+            #class_name[0] = number
 
 
-            connections = []
+            req_connections = []
+            rec_connections = []
             direct_connection_data = []
             class_description = info.find('p', {'class': 'courseblockdesc'}).text
             class_description = clean_course_description(class_description)
 
             for code in departments_list:
-                points = [m.start() for m in re.finditer(r'(?={})'.format(re.escape(code)), class_description[2])]
-                if len(points) > 0:
-                    connections.append([len(code), points])
+                req_points = [m.start() for m in re.finditer(r'(?={})'.format(re.escape(code)), class_description[2])]
+                rec_points = [m.start() for m in re.finditer(r'(?={})'.format(re.escape(code)), class_description[3])]
+                if len(req_points) > 0:
+                    req_connections.append([len(code), req_points])
+
+                if len(rec_points) > 0:
+                    rec_connections.append([len(code), rec_points])
+
 
             # Check if there are any courses connected with the current course
-            if len(connections) > 0:
-                for data in connections:
+            if len(req_connections) > 0:
+                for data in req_connections:
                     word_len = int(data[0])
                     for info in data[1]:
                         start = int(info)
                         direct_connection_data.append(class_description[2][start: start + word_len + 5])
+
+            if len(rec_connections) > 0:
+                for data in rec_connections:
+                    word_len = int(data[0])
+                    for info in data[1]:
+                        start = int(info)
+                        direct_connection_data.append(class_description[3][start: start + word_len + 5])
+
 
             # If there a no other class with a connection to the current one then mark it down as none listed
             if len(direct_connection_data) == 0:
@@ -196,7 +210,7 @@ if __name__ == "__main__":
             class_list.append(
                 {
                     "name": class_name[1],
-                    "number": class_name[0].replace('_', ''),
+                    "number": class_name[0],
                     "description": class_description[0],
                     "prerequisites": class_description[2],
                     "hours": class_description[1],

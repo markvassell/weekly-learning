@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "General Anthropology",
-            "number": "1000",
+            "number": "ANTHRO 1000",
             "description": "General survey course in fields of anthropological concern: archaeology, cultural anthropology, physical anthropology, linguistics; emphasizes underlying concepts, principles. Examples from peoples of the world.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "General Anthropology - Honors",
-            "number": "1000H",
+            "number": "ANTHRO 1000H",
             "description": "General survey course in fields of anthropological concern: archaeology, cultural anthropology, physical anthropology, linguistics; emphasizes underlying concepts, principles. Examples from peoples of the world.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Topics in Anthropology - General",
-            "number": "1001",
+            "number": "ANTHRO 1001",
             "description": "Problems, topics, issues, or review of research in any areas of anthropology and/or experimental development of new content areas at a freshman level.  Specific content will vary and will be announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Topics in Anthropology - Biological/Physical/Mathematics",
-            "number": "1002",
+            "number": "ANTHRO 1002",
             "description": "Problems, topics, issues, or review of research in any areas of anthropology and/or experimental development of new content areas at a freshman level.  Specific content will vary and will be announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Topics in Anthropology - Behavioral",
-            "number": "1003",
+            "number": "ANTHRO 1003",
             "description": "Problems, topics, issues, or review of research in any areas of anthropology and/or experimental development of new content areas at a freshman level.  Specific content will vary and will be announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Topics in Anthropology - Social Science",
-            "number": "1004",
+            "number": "ANTHRO 1004",
             "description": "Problems, topics, issues, or review of research in any areas of anthropology and/or experimental development of new content areas at a freshman level.  Specific content will vary and will be announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Topics in Anthropology - Humanities",
-            "number": "1005",
+            "number": "ANTHRO 1005",
             "description": "Problems, topics, issues, or review of research in any areas of anthropology and/or experimental development of new content areas at a freshman level.  Specific content will vary and will be announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Human Language",
-            "number": "1060",
+            "number": "ANTHRO 1060",
             "description": "(same as LINGST 1060, C_S_D 1060 and ENGLSH 1060). General introduction to various aspects of linguistic study. Elementary analysis of language data with some attention to application of linguistic study to other disciplines.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Introduction to Folklore Genres",
-            "number": "1150",
+            "number": "ANTHRO 1150",
             "description": "(same as ENGLSH 1700).  Course focus is on genres of folklore in both historic and contemporary contexts, as well as in people's daily lives.  Genres include narrative, proverbs, oral poetry and rhyme, riddles, jokes, legends, epics, material culture and intangible expressive culture.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Significant Discoveries of Archaeology",
-            "number": "1200",
+            "number": "ANTHRO 1200",
             "description": "Detailed consideration of approximately 20 archaeological discoveries and conclusions, from the field and the laboratory, which have been of surpassing importance for an understanding of human origins, behavior, culture and past experiences on earth.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Multiculturalism: An Introduction",
-            "number": "1300",
+            "number": "ANTHRO 1300",
             "description": "Examines contemporary multiculturalism (and its origins) globally; introduces key concepts; uses diverse, extended cross-cultural and American examples; and emphasizes complexity of cultures, practicality of issues, and change.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Deviance: A Cross-Cultural Perspective",
-            "number": "1350",
+            "number": "ANTHRO 1350",
             "description": "Cross-cultural studies of problem behavior with emphasis on violence, suicide, sexual misconduct, drug use and mental disorder.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Monkeys, Apes and Humans",
-            "number": "1500",
+            "number": "ANTHRO 1500",
             "description": "For those with little or no background in anthropology. Surveys the ecology and behavior of major nonhuman primate groups, and how these relate to the evolution of human behavior.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -121,7 +121,7 @@
         },
         {
             "name": "Monkeys, Apes and Humans - Writing Intensive",
-            "number": "1500W",
+            "number": "ANTHRO 1500W",
             "description": "For those with little or no background in anthropology. Surveys the ecology and behavior of major nonhuman primate groups, and how these relate to the evolution of human behavior.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -130,7 +130,7 @@
         },
         {
             "name": "Topics in Anthropology-General",
-            "number": "2001",
+            "number": "ANTHRO 2001",
             "description": "Problems, topics, issues or review of research in any area of anthropology (including its relationships with other areas) and/or experimental development of new content areas at an undergraduate level. Specific content will vary and will be announced in advance. May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -139,7 +139,7 @@
         },
         {
             "name": "Topics in Anthropology-Biological/Physical/Mathematics",
-            "number": "2002",
+            "number": "ANTHRO 2002",
             "description": "Problems, topics, issues or review of research in any area of anthropology (including its relationships with other areas) and/or experimental development of new content areas at an undergraduate level. Specific content will vary and will be announced in advance. May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -148,7 +148,7 @@
         },
         {
             "name": "Topics in Anthropology - Behavioral",
-            "number": "2003",
+            "number": "ANTHRO 2003",
             "description": "Problems, topics, issues or review of research in any area of anthropology (including its relationships with other areas) and/or experimental development of new content areas at an undergraduate level. Specific content will vary and will be announced in advance. May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -157,7 +157,7 @@
         },
         {
             "name": "Topics in Anthropology - Social Science",
-            "number": "2004",
+            "number": "ANTHRO 2004",
             "description": "Problems, topics, issues or review of research in any area of anthropology (including its relationships with other areas) and/or experimental development of new content areas at an undergraduate level. Specific content will vary and will be announced in advance. May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -166,7 +166,7 @@
         },
         {
             "name": "Topics in Anthropology - Humanities",
-            "number": "2005",
+            "number": "ANTHRO 2005",
             "description": "Problems, topics, issues or review of research in any area of anthropology (including its relationships with other areas) and/or experimental development of new content areas at an undergraduate level. Specific content will vary and will be announced in advance. May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -175,7 +175,7 @@
         },
         {
             "name": "Fundamentals of Archaeology with Laboratory",
-            "number": "2020",
+            "number": "ANTHRO 2020",
             "description": "Introduces the methodological and theoretical underpinnings of archaeology. The goals of archaeological research, and the techniques used to extract data from the archaeological record are discussed. The lab involves hands-on experience with archaeological materials. No credit for both ANTHRO 2020 and ANTHRO 2021.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -184,7 +184,7 @@
         },
         {
             "name": "Fundamentals of Archaeology",
-            "number": "2021",
+            "number": "ANTHRO 2021",
             "description": "Introduces the methodological and theoretical underpinnings of archaeology. The goals of archaeological research, and the techniques used to extract data from the archaeological record are discussed. No credit for both ANTHRO 2020 and ANTHRO 2021.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -193,7 +193,7 @@
         },
         {
             "name": "Fundamentals of Archaeology Lab",
-            "number": "2022",
+            "number": "ANTHRO 2022",
             "description": "Involves hands-on experience with archaeological materials. No credit given to students who have taken ANTHRO 2020.",
             "prerequisites": "must have completed ANTHRO 2021",
             "hours": "1",
@@ -204,7 +204,7 @@
         },
         {
             "name": "Cultural Anthropology",
-            "number": "2030",
+            "number": "ANTHRO 2030",
             "description": "Analysis of human cultures with emphasis on both constant and variable factors at different levels of social complexity; contact between cultures, and cultural influences on individual behavior.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -213,7 +213,7 @@
         },
         {
             "name": "Cultural Anthropology - Writing Intensive",
-            "number": "2030W",
+            "number": "ANTHRO 2030W",
             "description": "Analysis of human cultures with emphasis on both constant and variable factors at different levels of social complexity; contact between cultures, and cultural influences on individual behavior.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -222,7 +222,7 @@
         },
         {
             "name": "Anthropological Linguistics",
-            "number": "2040",
+            "number": "ANTHRO 2040",
             "description": "(same as LINGST 2040). Language in relation to other aspects of human behavior. Introduction to description and analysis of the basic units of language. Emphasis on non-Indo-European and preliterate languages.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -231,7 +231,7 @@
         },
         {
             "name": "Introduction to Biological Anthropology with Laboratory",
-            "number": "2050",
+            "number": "ANTHRO 2050",
             "description": "A survey of biological anthropology. Primary emphasis on the biological evidence for human evolution. Major topics include human paleontology, primate behavior and human variation. Three hours lecture and two hours lab. No credit for both ANTHRO 2050 and ANTHRO 2051. Math Reasoning Proficiency Course.",
             "prerequisites": "MATH 1100 or MATH 1160",
             "hours": "5",
@@ -243,7 +243,7 @@
         },
         {
             "name": "Introduction to Biological Anthropology",
-            "number": "2051",
+            "number": "ANTHRO 2051",
             "description": "A survey of biological anthropology. Primary emphasis on the biological evidence for human evolution. Major topics include human paleontology, primate behavior and human variation. No credit for both ANTHRO 2050 and ANTHRO 2051.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -252,7 +252,7 @@
         },
         {
             "name": "Biological Anthropology Laboratory",
-            "number": "2052",
+            "number": "ANTHRO 2052",
             "description": "Laboratory exercises dealing with human genetics, non-human primates, the human fossil record, and human variation. Credit not given for students who have taken ANTHRO 2050. Math Reasoning Proficiency Course.",
             "prerequisites": "ANTHRO 2051 (or equivalent) and MATH 1100",
             "hours": "2",
@@ -264,7 +264,7 @@
         },
         {
             "name": "Indigenous Religions",
-            "number": "2100",
+            "number": "ANTHRO 2100",
             "description": "(same as REL_ST 2100). Explores the central aspects of religious life in indigenous communities. Focusing on specific native communities, it considers individual and group identity and the meaning of the sacred.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -273,7 +273,7 @@
         },
         {
             "name": "Indigenous Religions - Honors",
-            "number": "2100H",
+            "number": "ANTHRO 2100H",
             "description": "(same as REL_ST 2100H). Explores the central aspects of religious life in indigenous communities. Focusing on specific native communities, it considers individual and group identity and the meaning of the sacred.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -282,16 +282,18 @@
         },
         {
             "name": "Introduction to Folklore Field Research",
-            "number": "2150",
+            "number": "ANTHRO 2150",
             "description": "(same as ENGLSH 2700). Course will focus on the specifics of how to identify, collect, preserve and document folklore within communities.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ENGLSH 1000",
-            "connections": "None Listed"
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "World Archaeology",
-            "number": "2215",
+            "number": "ANTHRO 2215",
             "description": "Major events in cultural evolution such as control of fire, invention of ceramic and metallurgical technologies, colonization of Australia and the Americas, development of agriculture, and emergence of complex sociopolitical organization are described in all regions of the world.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -300,7 +302,7 @@
         },
         {
             "name": "Anthropology of War",
-            "number": "2300",
+            "number": "ANTHRO 2300",
             "description": "Anthropological approaches to tribal and modern war; theories of war's origins; relation to ecology, economy, gender, belief systems, politics; transformation of tribal warfare by state expansion; peace.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -309,7 +311,7 @@
         },
         {
             "name": "Hunters and Gatherers",
-            "number": "2340",
+            "number": "ANTHRO 2340",
             "description": "Exploration of how different hunter-gatherer groups interact with their physical and social environment. Topics include food acquisition, allocation of labor, reproduction and family life, and deciding where to live and when to move.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -318,7 +320,7 @@
         },
         {
             "name": "Primate Anatomy and Evolution",
-            "number": "2500",
+            "number": "ANTHRO 2500",
             "description": "This course will explore why primates (and humans) are built the way they are, how they evolved, and what their anatomy tells us about their biology. We will cover basic primate anatomy and ecology, and then survey the fossil record of primate evolution.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -327,7 +329,7 @@
         },
         {
             "name": "Forensic Anthropology",
-            "number": "2520",
+            "number": "ANTHRO 2520",
             "description": "This course will introduce students to how biological anthropologists apply expertise in human osteology, skeletal variation and plasticity, skeletal pathology, body decomposition, and archaeological recovery of evidence to medicolegal investigations.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -336,7 +338,7 @@
         },
         {
             "name": "Human Evolution through Film and Literature",
-            "number": "2530",
+            "number": "ANTHRO 2530",
             "description": "This course will use recent films and novels as starting points to introduce students to concepts in human biology, history and evolution. Topics will range broadly from genetics and mutation to primatology to paleoanthropology and the human fossil record.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -345,7 +347,7 @@
         },
         {
             "name": "Parents and Offspring",
-            "number": "2570",
+            "number": "ANTHRO 2570",
             "description": "A comparative investigation of the evolution of parental behaviors and family interactions in humans and other primates.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -354,7 +356,7 @@
         },
         {
             "name": "Evolution of Human Sexuality",
-            "number": "2580",
+            "number": "ANTHRO 2580",
             "description": "Biological and cultural aspects of human reproduction are examined from the perspective of evolutionary and ecological theory.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -363,7 +365,7 @@
         },
         {
             "name": "Evolution of Human Sexuality - Writing Intensive",
-            "number": "2580W",
+            "number": "ANTHRO 2580W",
             "description": "Biological and cultural aspects of human reproduction are examined from the perspective of evolutionary and ecological theory.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -372,7 +374,7 @@
         },
         {
             "name": "Introduction to Field Methods in Archaeology",
-            "number": "2800",
+            "number": "ANTHRO 2800",
             "description": "Techniques of field research and laboratory analysis through field experience.",
             "prerequisites": "ANTHRO 2020 or ANTHRO 2021 or instructor's consent",
             "hours": "1-6",
@@ -384,7 +386,7 @@
         },
         {
             "name": "Analyzing Artifacts",
-            "number": "2825",
+            "number": "ANTHRO 2825",
             "description": "A brief introduction to the main methods used to analyze artifacts.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -393,7 +395,7 @@
         },
         {
             "name": "Research Skills in Anthropology",
-            "number": "2950",
+            "number": "ANTHRO 2950",
             "description": "Participation in faculty research activities. Course coordinator matches students with participating faculty. Three hours of research activities per week per credit hour. May be repeated to a maximum of nine hours.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -402,7 +404,7 @@
         },
         {
             "name": "Topics in Anthropology - General",
-            "number": "3001",
+            "number": "ANTHRO 3001",
             "description": "Problems, topics, issues, or review of research in any area of anthropology and/or experimental development of new content areas.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -411,7 +413,7 @@
         },
         {
             "name": "Topics in Anthropology-Biological/Physical/Mathematics",
-            "number": "3002",
+            "number": "ANTHRO 3002",
             "description": "Problems, topics, issues or review of research in any area of anthropology and/or experimental development of new content areas. May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -420,7 +422,7 @@
         },
         {
             "name": "Topics in Anthropology - Behavioral Science",
-            "number": "3003",
+            "number": "ANTHRO 3003",
             "description": "Problems, topics, issues or review of research in any area of anthropology and/or experimental development of new content areas. May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -429,7 +431,7 @@
         },
         {
             "name": "Topics in Anthropology - Social Science",
-            "number": "3004",
+            "number": "ANTHRO 3004",
             "description": "Problems, topics, issues or review of research in any area of anthropology and/or experimental development of new content areas. May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -438,7 +440,7 @@
         },
         {
             "name": "Topics in Anthropology - Humanities",
-            "number": "3005",
+            "number": "ANTHRO 3005",
             "description": "Problems, topics, issues or review of research in any area of anthropology and/or experimental development of new content areas. May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -447,7 +449,7 @@
         },
         {
             "name": "American Folklore",
-            "number": "3150",
+            "number": "ANTHRO 3150",
             "description": "(same as ENGLSH 3700). Regional and ethnic American folklore, with emphasis on analysis of folklore in context. Book reports and two analytical papers based on student field research required.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -456,7 +458,7 @@
         },
         {
             "name": "The Evolution of Human Nature",
-            "number": "3340",
+            "number": "ANTHRO 3340",
             "description": "(same as ANTHRO 3340H, ANTHRO 3340HW, GN_HON 3241H). We will investigate the topic of human nature, asking such questions as: What are we like? Why do we behave the way we do? Are we inherently selfish or social? Do we have a unitary \"self\" or are we made up of many (and sometimes contradictory) selves? Is there a single \"human\" nature or are there distinct \"male\" and \"female\" natures? Does human nature vary across cultures? Insights come from fields ranging from genetics to literature. The concept of \"human nature\" is fiercely contested and debated both within and between academic disciplines. We will be focusing on the scientific study of human nature, seeking naturalistic explanations by formulating and testing hypotheses. In particular, we will use evolutionary theory to unify explanations from disparate disciplines like biology, psychology, and anthropology. In each class, we will discuss one specific topic like sex or violence and seek to make sense of it from both the proximate level (what triggers the behavior and how does it develop?) and the ultimate level (why and how did our evolutionary history imbue us with the capacity?). Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -465,7 +467,7 @@
         },
         {
             "name": "The Evolution of Human Nature - Honors",
-            "number": "3340H",
+            "number": "ANTHRO 3340H",
             "description": "(same as GN_HON 3241H, ANTHRO 3340, ANTHRO 3340HW). We will investigate the topic of human nature, asking such questions as: What are we like? Why do we behave the way we do? Are we inherently selfish or social? Do we have a unitary \"self\" or are we made up of many (and sometimes contradictory) selves? Is there a single \"human\" nature or are there distinct \"male\" and \"female\" natures? Does human nature vary across cultures? Insights come from fields ranging from genetics to literature. The concept of \"human nature\" is fiercely contested and debated both within and between academic disciplines. We will be focusing on the scientific study of human nature, seeking naturalistic explanations by formulating and testing hypotheses. In particular, we will use evolutionary theory to unify explanations from disparate disciplines like biology, psychology, and anthropology. In each class, we will discuss one specific topic like sex or violence and seek to make sense of it from both the proximate level (what triggers the behavior and how does it develop?) and the ultimate level (why and how did our evolutionary history imbue us with this capacity?). Graded on A-F basis only.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -474,7 +476,7 @@
         },
         {
             "name": "The Evolution of Human Nature - Honors/Writing Intensive",
-            "number": "3340HW",
+            "number": "ANTHRO 3340HW",
             "description": "(same as ANTHRO 3340, ANTHRO 3340H GN_HON 3241H).  We will investigate the topic of human nature, asking such questions as: What are we like? Why do we behave the way we do? Are we inherently selfish or social? Do we have a unitary \"self\" or are we made up of many (and sometimes contradictory) selves? Is there a single \"human\" nature or are there distinct \"male\" and \"female\" natures? Does human nature vary across cultures? Insights come from fields ranging from genetics to literature. The concept of \"human nature\" is fiercely contested and debated both within and between academic disciplines. We will be focusing on the scientific study of human nature, seeking naturalistic explanations by formulating and testing hypotheses. In particular, we will use evolutionary theory to unify explanations from disparate disciplines like biology, psychology, and anthropology. In each class, we will discuss one specific topic like sex or violence and seek to make sense of it from both the proximate level (what triggers the behavior and how does it develop?) and the ultimate level (why and how did our evolutionary history imbue us with the capacity?). Graded on A-F basis only.",
             "prerequisites": "Honors Eligibility Required",
             "hours": "3",
@@ -483,7 +485,7 @@
         },
         {
             "name": "Native American Religions",
-            "number": "3380",
+            "number": "ANTHRO 3380",
             "description": "(same as REL_ST 3380). Investigation of religious lives of the native peoples of the Americas through cultural contact with modernity. Perspectives based on historical, anthropological and native texts.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -492,7 +494,7 @@
         },
         {
             "name": "Native American Religions - Honors",
-            "number": "3380H",
+            "number": "ANTHRO 3380H",
             "description": "(same as REL_ST 3380H). Investigation of religious lives of the native peoples of the Americas through cultural contact with modernity. Perspectives based on historical, anthropological and native texts.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -501,7 +503,7 @@
         },
         {
             "name": "Culture as Communication",
-            "number": "3470",
+            "number": "ANTHRO 3470",
             "description": "(same as COMMUN 3470, LINGST 3470). Study of the influence of culture on communication processes. Examines topics such as the impact of values, languages, and nonverbal behavior on intercultural interaction.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -510,7 +512,7 @@
         },
         {
             "name": "Indian Cinema",
-            "number": "3490",
+            "number": "ANTHRO 3490",
             "description": "(same as AR_H_A 3790, S_A_ST 3490 and FILM_S 3490). Indian Cinema provides an overview of the key genres and themes of Indian film, including Bollywood, art cinema/parallel cinema, Indian regional cinemas, and diasporan cinema. The course combines film studies, anthropological, historical, and visual culture analyses to provide a holistic view of Indian culture and society through cinema.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -519,7 +521,7 @@
         },
         {
             "name": "Human Biology and Life History",
-            "number": "3540",
+            "number": "ANTHRO 3540",
             "description": "A general survey of human biology, focusing on the development of the individual from infancy to adult and the biology of human populations.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -528,7 +530,7 @@
         },
         {
             "name": "Plagues and Peoples",
-            "number": "3560",
+            "number": "ANTHRO 3560",
             "description": "Overview of the ecology of human host-pathogen interactions and the influence of human culture on the transmission and spread of infectious diseases through time and in different environments.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -537,7 +539,7 @@
         },
         {
             "name": "Plagues and Peoples - Writing Intensive",
-            "number": "3560W",
+            "number": "ANTHRO 3560W",
             "description": "Overview of the ecology of human host-pathogen interactions and the influence of human culture on the transmission and spread of infectious diseases through time and in different environments.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -546,7 +548,7 @@
         },
         {
             "name": "North American Indian Culture",
-            "number": "3600",
+            "number": "ANTHRO 3600",
             "description": "Comparative study of American Indians north of Mexico, emphasizes eastern United States.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -555,7 +557,7 @@
         },
         {
             "name": "Peoples of Canada",
-            "number": "3610",
+            "number": "ANTHRO 3610",
             "description": "This course provides an anthropological approach to the culture and peoples of Canada.  The course will include in depth studies of several First Nations People, Quebec, various recent immigrant populations, and the modern popular culture of Canada.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -564,7 +566,7 @@
         },
         {
             "name": "Peoples of the Andes",
-            "number": "3660",
+            "number": "ANTHRO 3660",
             "description": "Archaeological and linguistic prehistory set the stage for the clash of Iberian and indigenous peoples whose descendants make up the Andean countries. Ethnographic studies provides a basis for their understanding.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -573,7 +575,7 @@
         },
         {
             "name": "Plants and People in Native America",
-            "number": "3680",
+            "number": "ANTHRO 3680",
             "description": "Explores the present and past interactions between people and the plant world, covering use of plants as foods, medicines, and in rituals, and reviewing the origin of major food plants.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -582,7 +584,7 @@
         },
         {
             "name": "Cultures of Europe",
-            "number": "3700",
+            "number": "ANTHRO 3700",
             "description": "Examines ethnic, linguistic, and folk cultural backgrounds of contemporary Europe and the articulation of local sociocultural units with national society and culture.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -591,7 +593,7 @@
         },
         {
             "name": "Cultures of Southeast Asia",
-            "number": "3780",
+            "number": "ANTHRO 3780",
             "description": "Survey of peoples and cultures of Southeast Asia; topics include regional geography and prehistory, European colonialism, economic and social organization, religious practices, changing status of women, urban and rural poverty, and environmental transformations.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -600,7 +602,7 @@
         },
         {
             "name": "Topics in Anthropology-General",
-            "number": "4001",
+            "number": "ANTHRO 4001",
             "description": "Problems, topics, issues, or review of research; experimental development of new content areas. Specific content varies depending on needs of faculty or students and will be announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -609,7 +611,7 @@
         },
         {
             "name": "Topics in Anthropology - Biological/Physical/Mathematics",
-            "number": "4002",
+            "number": "ANTHRO 4002",
             "description": "Problems, topics, issues, or review of research; experimental development of new content areas.  Specific content varies depending on needs of faculty or students and will be announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -618,7 +620,7 @@
         },
         {
             "name": "Topics in Anthropology - Behavioral Science",
-            "number": "4003",
+            "number": "ANTHRO 4003",
             "description": "Problems, topics, issues, or review of research; experimental development of new content areas.  Specific content varies depending on needs of faculty or students and will be announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -627,7 +629,7 @@
         },
         {
             "name": "Topics in Anthropology - Social Science",
-            "number": "4004",
+            "number": "ANTHRO 4004",
             "description": "Problems, topics, issues, or review of research; experimental development of new content areas.  Specific content varies depending on needs of faculty or students and will be announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -636,7 +638,7 @@
         },
         {
             "name": "Topics in Anthropology - Humanities",
-            "number": "4005",
+            "number": "ANTHRO 4005",
             "description": "Problems, topics, issues, or review of research; experimental development of new content areas.  Specific content varies depending on needs of faculty or students and will be announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -645,7 +647,7 @@
         },
         {
             "name": "Special Themes in Folklore",
-            "number": "4150",
+            "number": "ANTHRO 4150",
             "description": "(same as ENGLSH 4700; cross-leveled with ANTHRO 7150 and ENGLSH 7700). Intensive study in a selected area of folklore: folk narrative, folk song, myth, proverb, etc., folklore and literature, or the folklore of a particular group. May be repeated for a maximum of six hours with department's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -654,7 +656,7 @@
         },
         {
             "name": "Themes in African Diaspora Folklore",
-            "number": "4160",
+            "number": "ANTHRO 4160",
             "description": "(same as ENGLSH 4710 and BL_STU 4710; cross-leveled with ENGLSH 7710 and BL_STU 7710). Intensive study in a selected area of African Diaspora Folklore: folk narrative, folk song, myth, proverb, etc., folklore and literature, or the folklore of a particular group. ANTHRO 4150 and ANTHRO 4160 may be repeated for a maximum of six hours with instructor's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -663,16 +665,19 @@
         },
         {
             "name": "Environment and Archaeology",
-            "number": "4200",
+            "number": "ANTHRO 4200",
             "description": "(cross-leveled with ANTHRO 7200). Study of Quaternary environments and cultural systems. Focuses on North American records emphasizing climate and biologic components of regional ecosystems; regional environmental reconstruction.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ANTHRO 2020 or ANTHRO 2021",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 2020",
+                "ANTHRO 2021"
+            ]
         },
         {
             "name": "History of Archaeology",
-            "number": "4240",
+            "number": "ANTHRO 4240",
             "description": "(cross-leveled with ANTHRO 7240). Growth of archaeology worldwide since AD 1700. Emphases include intellectual and theoretical developments, field and laboratory techniques, and major figures in the history of the discipline.",
             "prerequisites": "ANTHRO 2020 or ANTHRO 2021 or instructor's consent",
             "hours": "3",
@@ -684,16 +689,19 @@
         },
         {
             "name": "Archaeology of Religion",
-            "number": "4280",
+            "number": "ANTHRO 4280",
             "description": "(same as REL_ST 4280; cross-leveled with ANTHRO 7280 and REL_ST 7280). Examines how anthropologists conceptualize religious behavior, and how archaeologists use material remains to examine past religious behavior, rituals, religious practitioners, cosmogonical constructs, worldview and ideology in the Americas.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ANTHRO 2020 or REL_ST 2100",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 2020",
+                "REL_ST 2100"
+            ]
         },
         {
             "name": "Comparative Social Organization",
-            "number": "4300",
+            "number": "ANTHRO 4300",
             "description": "(cross-leveled with ANTHRO 7300). Cross-cultural comparison, analysis of social structures. Role of kinship, age, sex, locality, economics, religion and other factors in determining relationships between individuals and groups cross-culturally.",
             "prerequisites": "ANTHRO 2030",
             "hours": "3",
@@ -704,7 +712,7 @@
         },
         {
             "name": "Ecological and Environmental Anthropology",
-            "number": "4320",
+            "number": "ANTHRO 4320",
             "description": "(cross-leveled with ANTHRO 7320). Cultural anthropological approaches to human-environment interaction; cultural adaptations to diverse environments; theoretical developments and current issues; cultural, social, and historical contexts of natural resource use.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -713,7 +721,7 @@
         },
         {
             "name": "Cultural Evolution and Change",
-            "number": "4340",
+            "number": "ANTHRO 4340",
             "description": "(cross-leveled with ANTHRO 7340). Alternative hypotheses about the relationship between culture and evolution are evaluated in light of ethnographic evidence.",
             "prerequisites": "ANTHRO 2030 or instructor's consent",
             "hours": "3",
@@ -724,7 +732,7 @@
         },
         {
             "name": "Psychological Anthropology",
-            "number": "4350",
+            "number": "ANTHRO 4350",
             "description": "(cross-leveled with ANTHRO 4350). Examines cross-cultural approaches to the study of perception, cognition, and personality; methods for gathering and validating data; examples from non-Western societies.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -733,7 +741,7 @@
         },
         {
             "name": "Medical Anthropology",
-            "number": "4360",
+            "number": "ANTHRO 4360",
             "description": "(cross-leveled with ANTHRO 7360), Cross-cultural study of belief systems concerning health and illness, practices of diagnosis and treatment, and roles of patients and practitioners. Several non-Western health care systems are studied in detail.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -742,7 +750,7 @@
         },
         {
             "name": "Anthropology of Gender",
-            "number": "4370",
+            "number": "ANTHRO 4370",
             "description": "(same as WGST 4370; cross-leveled with ANTHRO 7370 and WGST 7370). The Anthropology of Gender introduces the student to the variation in the relationships between male and females; and between men, women, and other genders from around the world.  The different approaches to understanding and modeling gender are discussed, as are specific case-studies from many different cultures.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -751,7 +759,7 @@
         },
         {
             "name": "Anthropological Theories of Religion",
-            "number": "4380",
+            "number": "ANTHRO 4380",
             "description": "(same as REL_ST 4380; cross-leveled with ANTHRO 7380 and REL_ST 7380).  Course provides a critical evaluation of anthropological explanations of various forms of traditional religious behavior such as magic, shamanism, divination, ritual, mythology, and witchcraft.  The anthropological explanations examined range from nineteenth century classics to the current approaches of today.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -760,7 +768,7 @@
         },
         {
             "name": "Anthropology of Shamanism",
-            "number": "4385",
+            "number": "ANTHRO 4385",
             "description": "(cross-leveled with ANTHRO 7385). Shamans are considered to be intermediates between this world and the spiritual world because they possess the power to communicate with spiritual beings and seek such beings to ask for their help with a variety of tasks such as healing, killing enemies, and weather control. Shamans are also the earliest ritual practitioners. Ancient cave paintings depict men dressed in animal skins, holding objects resembling the rattles used by modern shamans among northern hunting peoples. The cave art also has entopic imagery that is seen in the shaman's mind during his shamanic rituals. In this course we will look at shamanism through time and in many cultures. We will also discuss the early accounts of shamanism by priests, explorers and adventurers, and how anthropology has come to understand and study this phenomenon. Particular topics to be discussed include biological explanations for shamanic trances and visions, mental health concerning shamans, gender issues, and how shamans fit in with societal development and complexity. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -769,16 +777,19 @@
         },
         {
             "name": "Language and Culture",
-            "number": "4400",
+            "number": "ANTHRO 4400",
             "description": "(same as LINGST 4400; cross-leveled with ANTHRO 7400 and LINGST 7400). Interrelations between language, thought, culture, and society; role of language in cognition; methods and concepts of linguistics in cultural analysis.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ANTHRO 2040 or LINGST 2040",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 2040",
+                "LINGST 2040"
+            ]
         },
         {
             "name": "Gender, Language, and Communication",
-            "number": "4412",
+            "number": "ANTHRO 4412",
             "description": "(same as COMMUN 4412 and LINGST 4412; cross-leveled with COMMUN 7412 and LINGST 7412). Relationship among gender, language, nonverbal communication, and culture.",
             "prerequisites": "junior standing or departmental consent",
             "hours": "3",
@@ -787,7 +798,7 @@
         },
         {
             "name": "Historical Linguistics",
-            "number": "4420",
+            "number": "ANTHRO 4420",
             "description": "(same as LINGST 4420; cross-leveled with ANTHRO 7420 and LINGST 7420). Methods of tracing the history of languages by glottochronology, and by comparative and internal reconstructions; cultural and linguistic implications of such reconstructions and of areal linguistics.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -796,7 +807,7 @@
         },
         {
             "name": "Human Origins",
-            "number": "4500",
+            "number": "ANTHRO 4500",
             "description": "(cross-leveled with ANTHRO 7500). History and theory in the study of human paleontology.",
             "prerequisites": "ANTHRO 2050 or ANTHRO 2052 or instructor's consent",
             "hours": "5",
@@ -808,7 +819,7 @@
         },
         {
             "name": "Functional Morphology of the Human Skeleton",
-            "number": "4520",
+            "number": "ANTHRO 4520",
             "description": "(cross-leveled with ANTHRO 7520). This course will explore human functional morphology in a broad sense, i.e. will investigate how the form of various bodily systems influences their function and vice versa. In addition, the course is explicitly evolutionary in perspective; after the basic anatomy and function of a specific bodily region is introduced, we will cover how this functional unit has changed over the course of human evolutionary history. Lastly, we will be using the knowledge gained in lecture and from the text to critically analyze examples of research in human functional morphology. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -817,7 +828,7 @@
         },
         {
             "name": "Human Biological Variation",
-            "number": "4540",
+            "number": "ANTHRO 4540",
             "description": "(cross-leveled with ANTHRO 7540). Human biological variation both among and within living populations. Evolutionary, genetic, ecological, demographic and especially cultural factors which contribute to biological variation.",
             "prerequisites": "ANTHRO 2050 or ANTHRO 2051 or BIO_SC 1010",
             "hours": "3",
@@ -830,7 +841,7 @@
         },
         {
             "name": "Evolutionary Medicine",
-            "number": "4580",
+            "number": "ANTHRO 4580",
             "description": "(cross-leveled with ANTHRO 7580). Principles of modern evolutionary theory are applied to medical problems. Topics include: function of symptoms (fever, nausea, etc.); strategies of pathogens; senescence; cancer; phylogenetic constraints; mental disorders. Ideas will be actively discussed in class.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -839,7 +850,7 @@
         },
         {
             "name": "Ethnographic Studies of Selected Cultures",
-            "number": "4600",
+            "number": "ANTHRO 4600",
             "description": "(cross-leveled with ANTHRO 7600). Specific content varies with student interest, faculty availability. Will concentrate on peoples and cultures of one area such as East Asia, South Asia, Africa, North America, Mesoamerica, Oceania, Europe. Amplifies ethnographic knowledge gained in lower-level survey courses.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -848,25 +859,31 @@
         },
         {
             "name": "North American Archaeology",
-            "number": "4620",
+            "number": "ANTHRO 4620",
             "description": "(cross-leveled with ANTHRO 7620). Ancient peoples and development of American Indian culture.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ANTHRO 2020 or ANTHRO 2021",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 2020",
+                "ANTHRO 2021"
+            ]
         },
         {
             "name": "Prehistory of the Greater Southwest",
-            "number": "4640",
+            "number": "ANTHRO 4640",
             "description": "(cross-leveled with ANTHRO 7640). The course will introduce students to the archaeology of aboriginal peoples of the American Southwest and northwestern Mexico. The emphasis will be on prehistoric culture development from the Paleoindians to the arrival of the Spanish.  Ethnographic and modern peoples will be discussed as well.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ANTHRO 2020 or ANTHRO 2021",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 2020",
+                "ANTHRO 2021"
+            ]
         },
         {
             "name": "Prehistory of Mesoamerica",
-            "number": "4650",
+            "number": "ANTHRO 4650",
             "description": "(cross-leveled with ANTHRO 7650). Archaeology and prehistory of Mesoamerica (Mexico and Northern Central America). Emphasis on archaeological evidence for development of human societies from late Pleistocene hunting bands to complex agricultural civilizations encountered by Europeans in 1500s.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -875,16 +892,19 @@
         },
         {
             "name": "Archaeology of South America",
-            "number": "4670",
+            "number": "ANTHRO 4670",
             "description": "(cross-leveled with ANTHRO 7670). Development of culture in South America from the Pleistocene to European contact.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ANTHRO 2020 or ANTHRO 2021",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 2020",
+                "ANTHRO 2021"
+            ]
         },
         {
             "name": "Cultures and Peoples of the Amazon",
-            "number": "4680",
+            "number": "ANTHRO 4680",
             "description": "(cross-leveled with ANTHRO 7680). Ethnographic survey of indigenous Amazonian cultures.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -893,16 +913,19 @@
         },
         {
             "name": "Old World Prehistory",
-            "number": "4700",
+            "number": "ANTHRO 4700",
             "description": "(cross-leveled with ANTHRO 7700). Beginnings of culture in the Old World through the early Iron Age.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ANTHRO 2020 or ANTHRO 2021",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 2020",
+                "ANTHRO 2021"
+            ]
         },
         {
             "name": "Mesolithic, Neolithic, and Bronze Age Archaeology",
-            "number": "4720",
+            "number": "ANTHRO 4720",
             "description": "(cross-leveled with ANTHRO 7720). Analysis of both hunter-gatherer and food-producing prehistoric sociocultural systems in western Eurasia and adjacent areas from the end of the Pleistocene until the development of iron metallurgy. Includes the symbolic material of these periods.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -911,7 +934,7 @@
         },
         {
             "name": "Celtic and Iron Age Archaeology",
-            "number": "4740",
+            "number": "ANTHRO 4740",
             "description": "(cross-leveled with ANTHRO 7740). Analysis of the pre-and protohistoric sociocultural systems of the Celts and other iron-using tribal cultures of western Eurasia from the inception of an iron based technology until the full historic period. Includes the symbolic material of these cultures.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -920,7 +943,7 @@
         },
         {
             "name": "Asiatic Prehistory",
-            "number": "4770",
+            "number": "ANTHRO 4770",
             "description": "(cross-leveled with ANTHRO 7770). Prehistory and early cultures of Asia excluding the Near East. Emphasis on Northern Asia, China, Japan, South and Southeast Asia and Oceania.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -929,7 +952,7 @@
         },
         {
             "name": "Culture and Society in South Asia",
-            "number": "4790",
+            "number": "ANTHRO 4790",
             "description": "(same as S_A_ST 4790; cross-leveled with ANTHRO 7790 and S_A_ST 7790). Survey of the cultures, social organizations, and lived experience of people from across the Indian subcontinent.  Major topics include cast, kinship, gender, religion, village life, urbanization, public culture, popular culture, social change, and the South Asian diaspora.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -938,7 +961,7 @@
         },
         {
             "name": "Field Methods in Archaeology",
-            "number": "4800",
+            "number": "ANTHRO 4800",
             "description": "(cross-leveled with ANTHRO 7800). Techniques of archaeological excavation; field surveying, recording, care and interpretation of materials.",
             "prerequisites": "None Listed",
             "hours": "1-8",
@@ -947,7 +970,7 @@
         },
         {
             "name": "Paleoethnobotany",
-            "number": "4810",
+            "number": "ANTHRO 4810",
             "description": "(cross-leveled with ANTHRO 7810). Application of ethnobotanical approaches in archaeology; techniques to recover and interpret floral remains (macroremains, phytoliths, pollen); research questions in ethnobotany; integration of ethnobiological and archaeological data. Critique of original works in the field emphasized.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -956,7 +979,7 @@
         },
         {
             "name": "Zooarchaeology",
-            "number": "4820",
+            "number": "ANTHRO 4820",
             "description": "(cross-leveled with ANTHRO 7820). Survey of specialized techniques for archaeological faunal analysis, including zooarchaeological sampling, taphonomy, study of paleoecology, and recognition of domestication.",
             "prerequisites": "ANTHRO 2020 or ANTHRO 2022 or instructor's consent",
             "hours": "3",
@@ -968,7 +991,7 @@
         },
         {
             "name": "Stone Artifact Analysis",
-            "number": "4826",
+            "number": "ANTHRO 4826",
             "description": "(cross-leveled with ANTHRO 7826). Theory, methods, and techniques of studying lithic artifacts and deriving culturally meaningful interpretations. Emphasizes flaked artifacts. Includes physical examination, manufacture and experimentation with stone tools.",
             "prerequisites": "ANTHRO 2020 or ANTHRO 2022 or instructor's consent",
             "hours": "3",
@@ -980,7 +1003,7 @@
         },
         {
             "name": "Archaeological Analysis of Ceramics",
-            "number": "4828",
+            "number": "ANTHRO 4828",
             "description": "(cross-leveled with ANTHRO 7828). To introduce students to the basic methods and concepts used in the archaeological analysis of pottery.  By the end of the semester students will understand the various ways that pottery is created and how archaeologists can use ceramics to gain insights into everything from the organization of craft production to trade to symbolism.",
             "prerequisites": "ANTHRO 2020 or ANTHRO 2022",
             "hours": "3",
@@ -992,16 +1015,18 @@
         },
         {
             "name": "Ethnographic Methods",
-            "number": "4830",
+            "number": "ANTHRO 4830",
             "description": "(cross-leveled ANTHO 7830). Relation of problems to techniques; surveys techniques of gathering data; discusses their limitations and potentials.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ANTHRO 2030",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 2030"
+            ]
         },
         {
             "name": "The Comparative Method in Anthropology",
-            "number": "4840",
+            "number": "ANTHRO 4840",
             "description": "(cross-leveled with ANTHRO 7840). Comparative methods provide common ground for uniting bio-cultural anthropologists, archaeologists, and evolutionary biologists together in the investigation of human variation across time and space. It is an exciting time for comparative anthropology with the emergence of a large number of open-access databases covering many realms of biological, cultural, and linguistic variation. This class addresses many research opportunities that are opened up by these large collaborative efforts. Objectives are to develop research questions of interest to students, compile comparative databases necessary to answer those questions, and learn tools and software relevant for running analyses. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1010,7 +1035,7 @@
         },
         {
             "name": "Practical Phonetics for Fieldwork",
-            "number": "4850",
+            "number": "ANTHRO 4850",
             "description": "(same as LINGST 4850; cross-leveled with ANTHRO 7850 and LINGST 7850). Self-paced course using computer and tape recorded lessons from world's languages. Teaches practical articulatory and transcription phonetics. Weekly meeting with instructor to monitor progress, resolve questions.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1019,7 +1044,7 @@
         },
         {
             "name": "Techniques in Linguistic Analysis",
-            "number": "4860",
+            "number": "ANTHRO 4860",
             "description": "(same as LINGST 4860; cross-leveled with ANTHRO 7860 and LNGST 7860). Problems in analyzing data from various languages.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1028,7 +1053,7 @@
         },
         {
             "name": "Field Methods in Linguistics",
-            "number": "4870",
+            "number": "ANTHRO 4870",
             "description": "(same as LINGST 4870, ENGLSH 4670; cross-leveled with ANTHRO 7870, LINGST 7870, ENGLSH 7670). Intensive training in collection and analysis of data taken from a native speaker of non-Indo-European language.",
             "prerequisites": "instructor's consent",
             "hours": "4",
@@ -1037,7 +1062,7 @@
         },
         {
             "name": "Field Methods in Linguistics - Writing Intensive",
-            "number": "4870W",
+            "number": "ANTHRO 4870W",
             "description": "(same as LINGST 4870, ENGLSH 4670; cross-leveled with ANTHRO 7870, LINGST 7870, ENGLSH 7670). Intensive training in collection and analysis of data taken from a native speaker of non-Indo-European language.",
             "prerequisites": "instructor's consent",
             "hours": "4",
@@ -1046,7 +1071,7 @@
         },
         {
             "name": "Demographic Anthropology",
-            "number": "4880",
+            "number": "ANTHRO 4880",
             "description": "(cross-leveled with ANTHRO 7880). The major topics considered in this course are basic demographic analysis, including life tables, models for population growth and stable population theory; fertility analysis; disease and fertility; disease in human populations; and paleodemography. Math Reasoning Proficiency Course.",
             "prerequisites": "MATH 1100",
             "hours": "3",
@@ -1057,7 +1082,7 @@
         },
         {
             "name": "Anthropological Genetics",
-            "number": "4885",
+            "number": "ANTHRO 4885",
             "description": "(cross-leveled with ANTHRO 7885). Population genetics theory and methods applied to human and primate evolution and variation.",
             "prerequisites": "ANTHRO 2050, or ANTHRO 2051 and ANTHRO 2052, or BIO_SC 1500, or instructor's consent",
             "hours": "3",
@@ -1071,7 +1096,7 @@
         },
         {
             "name": "Human Skeletal Identification and Analysis",
-            "number": "4890",
+            "number": "ANTHRO 4890",
             "description": "(cross-leveled with ANTHRO 7890). Students interested in archaeology, physical anthropology, and law enforcement will learn human osteological methods of analysis applied to bioarchaeological problems and modern forensic techniques for personal identification.",
             "prerequisites": "ANTHRO 2050 or ANTHRO 2052 or instructor's consent",
             "hours": "5",
@@ -1083,16 +1108,18 @@
         },
         {
             "name": "Skeletal Biology",
-            "number": "4894",
+            "number": "ANTHRO 4894",
             "description": "(cross-leveled with ANTHRO 7894). This course is designed to provide students advanced and in-depth training in skeletal biology. Basic bone biology will be studied and advanced methods of skeletal analysis applicable to forensic anthropology and bioarchaeology will be explored.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ANTHRO 4890 or equivalent background in osteology and/ or anatomy",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 4890"
+            ]
         },
         {
             "name": "Internship in Anthropology",
-            "number": "4940",
+            "number": "ANTHRO 4940",
             "description": "(cross-leveled with ANTHRO 7940). Students will work for a semester in a community-based organization (NGO, nonprofit, for profit, or governmental). They will conduct a research study in coordination with that agency. Upon completion of the research study, students will prepare a final report to be given to the agency and turned in for course credit. The course coordinator will help students identify and make contact with interested organization and oversee their progress during the internship. Graded on S/U basis only.  Enrollment is limited to Anthropology Majors with Junior Standing or higher with a 3.5 GPA in Anthropology.",
             "prerequisites": "coordinator's consent",
             "hours": "3-6",
@@ -1101,7 +1128,7 @@
         },
         {
             "name": "Undergraduate Research in Anthropology",
-            "number": "4950",
+            "number": "ANTHRO 4950",
             "description": "Advanced research approved by and under the direction of a departmental faculty member. Enrollment limited to Juniors and Seniors.",
             "prerequisites": "instructor's consent",
             "hours": "2-8",
@@ -1110,7 +1137,7 @@
         },
         {
             "name": "Honors Research in Anthropology",
-            "number": "4950H",
+            "number": "ANTHRO 4950H",
             "description": "Individual study and research leading to Honors in Anthropology. In consultation with instructor, student works on Honors Thesis.  May be repeated for up to 6 credit hours. Enrollment is limited to Anthropology Majors with Junior Standing or higher, honors eligibility and a 3.5 GPA in Anthropology.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1119,7 +1146,7 @@
         },
         {
             "name": "Undergraduate Research in Anthropology - Honors/Writing Intensive",
-            "number": "4950HW",
+            "number": "ANTHRO 4950HW",
             "description": "Advanced research approved by and under the direction of a departmental faculty member. Enrollment limited to Juniors and Seniors with Honors Eligibility.",
             "prerequisites": "instructor's consent",
             "hours": "2-8",
@@ -1128,7 +1155,7 @@
         },
         {
             "name": "Undergraduate Readings in Anthropology",
-            "number": "4960",
+            "number": "ANTHRO 4960",
             "description": "Directed readings in ethnology, linguistics, archaeology, or physical anthropology not leading to thesis.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1137,7 +1164,7 @@
         },
         {
             "name": "Capstone Seminar in Anthropology",
-            "number": "4990",
+            "number": "ANTHRO 4990",
             "description": "Readings, discussions, and problems in the integration of the subfields of anthropology through theory and examples.",
             "prerequisites": "Anthropology major and senior standing, or instructor's consent",
             "hours": "3",
@@ -1146,7 +1173,7 @@
         },
         {
             "name": "Capstone Seminar in Anthropology - Writing Intensive",
-            "number": "4990W",
+            "number": "ANTHRO 4990W",
             "description": "Readings, discussions, and problems in the integration of the subfields of anthropology through theory and examples.",
             "prerequisites": "Anthropology major and senior standing, or instructor's consent",
             "hours": "3",
@@ -1155,7 +1182,7 @@
         },
         {
             "name": "Topics in Anthropology-General",
-            "number": "7001",
+            "number": "ANTHRO 7001",
             "description": "Problems, topics, issues, or review of research; experimental development of new contact areas. Specific content varies depending on needs of faculty or students and will be announced in advance.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1164,7 +1191,7 @@
         },
         {
             "name": "Special Themes in Folklore",
-            "number": "7150",
+            "number": "ANTHRO 7150",
             "description": "(same as ENGLSH 7700; cross-leveled with ANTHRO 4150 and ENGLSH 4700). Intensive study in a selected area of folklore: folk narrative, folk song, myth, proverb, etc., folklore and literature, or the folklore of a particular group. May be repeated for a maximum of six hours. Instructor's consent for repetition.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1173,7 +1200,7 @@
         },
         {
             "name": "Themes in African Diaspora Folklore",
-            "number": "7160",
+            "number": "ANTHRO 7160",
             "description": "(same as ENGLSH 7710 and BL_STU 7710; cross-leveled with ANTHRO 4160, ENGLSH 4710 and BL_STU 4710). Intensive study in a selected area of African Diaspora folklore: folk narrative, folk song, myth, proverb, etc., folklore and literature; or the folklore of a particular group. ENGLSH 7700 and ENGLSH 7710 may be repeated for a maximum of six hours with instructor's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1182,7 +1209,7 @@
         },
         {
             "name": "Environment and Archaeology",
-            "number": "7200",
+            "number": "ANTHRO 7200",
             "description": "(cross-leveled with ANTHRO 4200). Study of quaternary environments and cultural systems. Focuses on North American records emphasizing climate and biologic components of regional ecosystems; regional environmental reconstruction.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1191,7 +1218,7 @@
         },
         {
             "name": "History of Archaeology",
-            "number": "7240",
+            "number": "ANTHRO 7240",
             "description": "(cross-leveled with ANTHRO 4240). Growth of archaeology worldwide since AD 1700. Emphasis include intellectual and theoretical developments, field and laboratory techniques, and major figures in the history of the discipline.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1200,7 +1227,7 @@
         },
         {
             "name": "Archaeology of Religion",
-            "number": "7280",
+            "number": "ANTHRO 7280",
             "description": "(Same as REL_ST 7280; cross-leveled with ANTHRO 4280 and REL_ST 4280) This course examines how anthropologists conceptualize religious behavior, and how archaeologists use material remains to examine past religious behavior, rituals, religious practitioners, cosmological constructs, worldview and ideology in the Americas.",
             "prerequisites": "ANTHRO 2020 and/or REL_ST 2100",
             "hours": "3",
@@ -1212,7 +1239,7 @@
         },
         {
             "name": "Comparative Social Organization",
-            "number": "7300",
+            "number": "ANTHRO 7300",
             "description": "(cross-leveled with ANTHRO 4300). Cross-cultural comparison, analysis of social structures. Role of kinship, age, sex, locality, economics, religion and other factors in determining relationships between individuals and groups cross culturally.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1221,7 +1248,7 @@
         },
         {
             "name": "Ecological and Environmental Anthropology",
-            "number": "7320",
+            "number": "ANTHRO 7320",
             "description": "(cross-leveled with ANTHRO 4320). Cultural anthropological approaches to human-environment interaction; cultural adaptations to diverse environments; theoretical developments and current issues; cultural, social, and historical contexts of natural resource use.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1230,7 +1257,7 @@
         },
         {
             "name": "Cultural Evolution and Change",
-            "number": "7340",
+            "number": "ANTHRO 7340",
             "description": "(cross-leveled with ANTHRO 4340). Alternative hypotheses about the relationship between culture and evolution are evaluated in light of ethnographic evidence.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1239,7 +1266,7 @@
         },
         {
             "name": "Psychological Anthropology",
-            "number": "7350",
+            "number": "ANTHRO 7350",
             "description": "Examines cross-cultural approaches to the study of perception, cognition, and personality; methods for gathering and validating data; examples from non-Western societies.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1248,7 +1275,7 @@
         },
         {
             "name": "Medical Anthropology",
-            "number": "7360",
+            "number": "ANTHRO 7360",
             "description": "(cross-leveled with ANTHRO 4360). Cross-cultural study of belief systems concerning health and illness, practices of diagnosis and treatment, and roles of patients and practitioners. Several non-Western health care systems are studied in detail.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1257,7 +1284,7 @@
         },
         {
             "name": "Anthropology of Gender",
-            "number": "7370",
+            "number": "ANTHRO 7370",
             "description": "(same as WGST 7370; cross-leveled with ANTHRO 4370 and WGST 4370) The Anthropology of Gender Introduces the student to the variation in the relationships between males and females; and between men, women, and other genders from around the world.  The different approaches to understanding and modeling gender are discussed, as are specific case-studies from many different cultures.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1266,7 +1293,7 @@
         },
         {
             "name": "Anthropological Theory of Religions",
-            "number": "7380",
+            "number": "ANTHRO 7380",
             "description": "(same as REL_ST 7380; cross-leveled with ANTHRO 4380 and REL_ST 4380).  Course provides a critical evaluation of anthropological explanations of various forms of traditional religious behavior such as magic, shamanism, divination, ritual, mythology and witchcraft.  The anthropological explanations examined range from nineteenth century classics to the current approaches of today.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1275,7 +1302,7 @@
         },
         {
             "name": "Anthropology of Shamanism",
-            "number": "7385",
+            "number": "ANTHRO 7385",
             "description": "(cross-leveled with ANTHRO 4385). Shamans are considered to be intermediates between this world and the spiritual world because they possess the power to communicate with spiritual beings and seek such beings to ask for their help with a variety of tasks such as healing, killing enemies, and weather control. Shamans are also the earliest ritual practitioners. Ancient cave paintings depict men dressed in animal skins, holding objects resembling the rattles used by modern shamans among northern hunting peoples. The cave art also has entopic imagery that is seen in the shaman's mind during his shamanic rituals. In this course we will look at shamanism through time and in many cultures. We will also discuss the early accounts of shamanism by priests, explorers and adventurers, and how anthropology has come to understand and study this phenomenon. Particular topics to be discussed include biological explanations for shamanic trances and visions, mental health concerning shamans, gender issues, and how shamans fit in with societal development and complexity. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1284,7 +1311,7 @@
         },
         {
             "name": "Language and Culture",
-            "number": "7400",
+            "number": "ANTHRO 7400",
             "description": "(same as LINGST 7400; cross-leveled with ANTHRO 4400 and LINGST 4400). Interrelations between language, thought, culture, and society; role of language in cognition; methods and concepts of linguistics in cultural analysis.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1293,7 +1320,7 @@
         },
         {
             "name": "Gender, Language, and Communication",
-            "number": "7412",
+            "number": "ANTHRO 7412",
             "description": "(same as COMMUN 7412 and LINGST 7412; cross-leveled with ANTHRO 4412, COMMUN 4412 and LINGST 4412). Relationship among gender, language, nonverbal communication, and culture.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1302,7 +1329,7 @@
         },
         {
             "name": "Historical Linguistics",
-            "number": "7420",
+            "number": "ANTHRO 7420",
             "description": "(same as LINGST 7420; cross-leveled with ANTHRO 4420 and LINGST 4420). Methods of tracing the history of languages by glottochronology, and by comparative and internal reconstructions; cultural and linguistic implications of such reconstructions and of areal linguistics.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1311,7 +1338,7 @@
         },
         {
             "name": "Human Origins",
-            "number": "7500",
+            "number": "ANTHRO 7500",
             "description": "(cross-leveled with ANTHRO 4500). History and theory in the study of human paleontology.",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -1320,7 +1347,7 @@
         },
         {
             "name": "Functional Morphology of the Human Skeleton",
-            "number": "7520",
+            "number": "ANTHRO 7520",
             "description": "(cross-leveled with ANTHRO 4520). This course will explore human functional morphology in a broad sense, i.e. will investigate how the form of various bodily systems influences their function and vice versa. In addition, the course is explicitly evolutionary in perspective; after the basic anatomy and function of a specific bodily region is introduced, we will cover how this functional unit has changed over the course of human evolutionary history. Lastly, we will be using the knowledge gained in lecture and from the text to critically analyze examples of research in human functional morphology. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1329,7 +1356,7 @@
         },
         {
             "name": "Human Biological Variation",
-            "number": "7540",
+            "number": "ANTHRO 7540",
             "description": "(cross-leveled with ANTHRO 4540). Human biological variation both among and within living populations. Evolutionary, genetic, ecological, demographic and especially cultural factors which contribute to biological variation.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1338,7 +1365,7 @@
         },
         {
             "name": "Evolutionary Medicine",
-            "number": "7580",
+            "number": "ANTHRO 7580",
             "description": "(cross-leveled with ANTHRO 4580). Principles of modern evolutionary theory are applied to medical problems. Topics include: function of symptoms (fever, nausea, etc.); strategies of pathogens; senescence; cancer; phylogenetic constraints; mental disorders. Ideas will be actively discussed in class.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1347,7 +1374,7 @@
         },
         {
             "name": "Ethnographic Studies of Selected Cultures",
-            "number": "7600",
+            "number": "ANTHRO 7600",
             "description": "(cross-leveled with ANTHRO 4600). Specific content varies with student interest, faculty availability. Will concentrate on peoples and cultures of one area such as East Asia, South Asia, Africa, North America, Mesoamerica, Oceania, Europe. Amplifies ethnographic knowledge gained in lower-level survey courses.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1356,7 +1383,7 @@
         },
         {
             "name": "North American Archaeology",
-            "number": "7620",
+            "number": "ANTHRO 7620",
             "description": "(cross-leveled with ANTHRO 4620). Ancient peoples and development of American Indian culture.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1365,7 +1392,7 @@
         },
         {
             "name": "Prehistory of the Greater Southwest",
-            "number": "7640",
+            "number": "ANTHRO 7640",
             "description": "(cross-leveled with ANTHRO 4640). The course will introduce students to the archaeology of aboriginal peoples of the American southwest and northwestern Mexico.  The emphasis will be on prehistoric culture development from the Paleoindians to the arrival of the Spanish.  Ethnographic and modern peoples will be discussed as well.",
             "prerequisites": "ANTHRO 2020 or ANTHRO 2021",
             "hours": "3",
@@ -1377,7 +1404,7 @@
         },
         {
             "name": "Prehistory of Mesoamerica",
-            "number": "7650",
+            "number": "ANTHRO 7650",
             "description": "(cross-leveled with ANTHRO 4650). Covers the archaeology and prehistory of Mesoamerica (Mexico and Northern Central America). Emphasis on archaeological evidence for development of human societies from late Pleistocene hunting bands to complex agricultural civilizations encountered by Europeans in 1500s.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1386,7 +1413,7 @@
         },
         {
             "name": "Cultures and Peoples of the Amazon",
-            "number": "7680",
+            "number": "ANTHRO 7680",
             "description": "(cross-leveled with ANTHRO 4680). Ethnographic survey of indigenous Amazonian cultures",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1395,7 +1422,7 @@
         },
         {
             "name": "Old World Prehistory",
-            "number": "7700",
+            "number": "ANTHRO 7700",
             "description": "(cross-leveled with ANTHRO 4700). Beginnings of culture in the old world through the early Iron Age.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1404,7 +1431,7 @@
         },
         {
             "name": "Mesolithic, Neolithic, and Bronze Age Archaeology",
-            "number": "7720",
+            "number": "ANTHRO 7720",
             "description": "(cross-leveled with ANTHRO 4720). Analysis of both hunter-gatherer and food-producing prehistoric sociocultural systems in western Eurasia and adjacent areas from the end of the Pleistocene until the development of iron metallurgy. Includes the symbolic material of these periods.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1413,7 +1440,7 @@
         },
         {
             "name": "Celtic and Iron Age Archaeology",
-            "number": "7740",
+            "number": "ANTHRO 7740",
             "description": "(cross-leveled with ANTHRO 4740). Analysis of the pre-and protohistoric sociocultural systems of the Celts and other iron-using tribal cultures of western Eurasia from the inception of an iron based technology until the full historic period. Includes the symbolic material of these cultures.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1422,7 +1449,7 @@
         },
         {
             "name": "Asiatic Prehistory",
-            "number": "7770",
+            "number": "ANTHRO 7770",
             "description": "(cross-leveled with ANTHRO 4770). Survey of the prehistory and early cultures of Asia excluding the Near East. Emphasis on Northern Asia, China, Japan, South and Southeast Asia and Oceania.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1431,7 +1458,7 @@
         },
         {
             "name": "Cultures and Society in South Asia",
-            "number": "7790",
+            "number": "ANTHRO 7790",
             "description": "(same as S_A_ST 7790; cross-leveled with ANTHRO 4790 and S_A_ST 4790). ). Survey of the cultures, social organizations, and lived experience of people from across the Indian subcontinent.  Major topics include cast, kinship, gender, religion, village life, urbanization, public culture, popular culture, social change, and the South Asian Diaspora.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1440,7 +1467,7 @@
         },
         {
             "name": "Field Methods in Archaeology",
-            "number": "7800",
+            "number": "ANTHRO 7800",
             "description": "Techniques of archaeological excavation; field surveying, recording, care and interpretation of materials.",
             "prerequisites": "None Listed",
             "hours": "1-8",
@@ -1449,7 +1476,7 @@
         },
         {
             "name": "Paleoethnobotany",
-            "number": "7810",
+            "number": "ANTHRO 7810",
             "description": "(cross-leveled with ANTHRO 4810). Application of ethnobotanical approaches in archaeology; techniques to recover and interpret floral remains (macroremains, phytoliths, pollen); research questions in ethnobotany; integration of ethnobiological and archaeological data. Critique of original works in the field emphasized.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1458,7 +1485,7 @@
         },
         {
             "name": "Zooarchaeology",
-            "number": "7820",
+            "number": "ANTHRO 7820",
             "description": "(cross-leveled with ANTHRO 4820). Survey of specialized techniques for archaeological/faunal analysis, including zoo archaeological sampling, taphonomy study of paleoecology, and recognition of domestication.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1467,7 +1494,7 @@
         },
         {
             "name": "Stone Artifact Analysis",
-            "number": "7826",
+            "number": "ANTHRO 7826",
             "description": "(cross-leveled with ANTHRO 4826). Theory, methods, and techniques of studying lithic artifacts and deriving culturally meaningful interpretations. Emphasizes flaked artifacts. Includes physical examination, manufacture and experimentation with stone tools.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1476,7 +1503,7 @@
         },
         {
             "name": "Archaeological Analysis of Ceramics",
-            "number": "7828",
+            "number": "ANTHRO 7828",
             "description": "(cross-leveled with ANTHRO 4828). To introduce students to the basic methods and concepts used in the archaeological analysis of pottery.  By the end of the semester students will understand the various ways that pottery is created and how archaeologists can use ceramics to gain insights into everything from the organization of craft production to trade to symbolism.",
             "prerequisites": "ANTHRO 2020 and/or ANTHRO 2022",
             "hours": "3",
@@ -1488,7 +1515,7 @@
         },
         {
             "name": "Ethnographic Methods",
-            "number": "7830",
+            "number": "ANTHRO 7830",
             "description": "(cross-leveled with ANTHRO 4830). Relation of problems to techniques; surveys techniques of gathering data; discusses their limitations and potentials.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1497,7 +1524,7 @@
         },
         {
             "name": "The Comparative Method in Anthropology",
-            "number": "7840",
+            "number": "ANTHRO 7840",
             "description": "(cross-leveled with ANTHRO 4840). Comparative methods provide common ground for uniting bio-cultural anthropologists, archaeologists, and evolutionary biologists together in the investigation of human variation across time and space. It is an exciting time for comparative anthropology with the emergence of a large number of open-access databases covering many realms of biological, cultural, and linguistic variation. This class addresses many research opportunities that are opened up by these large collaborative efforts. Objectives are to develop research questions of interest to students, compile comparative databases necessary to answer those questions, and learn tools and software relevant for running analyses. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1506,7 +1533,7 @@
         },
         {
             "name": "Practical Phonetics for Fieldwork",
-            "number": "7850",
+            "number": "ANTHRO 7850",
             "description": "(same as LINGST 7850; cross-leveled with ANTHRO 4850 and LINGST 4850). Self-paced course using computer and tape recorded lessons from world's languages. Teaches practical articulatory and transcription phonetics. Weekly meeting with instructor to monitor progress, resolve questions.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1515,7 +1542,7 @@
         },
         {
             "name": "Techniques in Linguistic Analysis",
-            "number": "7860",
+            "number": "ANTHRO 7860",
             "description": "(same as LINGST 7860; cross-leveled with ANTHRO 4860 and LINGST 4860). Problems in analyzing data from various languages.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1524,7 +1551,7 @@
         },
         {
             "name": "Field Methods in Linguistics",
-            "number": "7870",
+            "number": "ANTHRO 7870",
             "description": "(same as LINGST 7870 and ENGLSH 7670; cross-leveled with ANTHRO, LINGST 4870 and ENGLSH 4870). Intensive training in collection and analysis of data taken from a native speaker of non-Indo-European language.",
             "prerequisites": "6 hours of Linguistics and instructor's consent",
             "hours": "4",
@@ -1533,7 +1560,7 @@
         },
         {
             "name": "Demographic Anthropology",
-            "number": "7880",
+            "number": "ANTHRO 7880",
             "description": "(cross-leveled with ANTHRO 4880). The major topics considered in this course are basic demographic analysis, including life tables, models for population growth and stable population theory; fertility analysis; disease and fertility; disease in human populations; and paleodemography.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1542,7 +1569,7 @@
         },
         {
             "name": "Anthropological Genetics",
-            "number": "7885",
+            "number": "ANTHRO 7885",
             "description": "(cross-leveled with ANTHRO 4885).  Population genetic theory and methods applied to human and primate evolution and variation.",
             "prerequisites": "ANTHRO 2050 and ANTHRO 2052 or BIO_SC 1500",
             "hours": "3",
@@ -1555,7 +1582,7 @@
         },
         {
             "name": "Human Skeletal Identification and Analysis",
-            "number": "7890",
+            "number": "ANTHRO 7890",
             "description": "(cross-leveled with ANTHRO 4890). Students interested in archaeology, physical anthropology, and law enforcement will learn human osteological methods of analysis applied to bioarchaelogical problems and modern forensic techniques for personal identification.",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -1564,7 +1591,7 @@
         },
         {
             "name": "Skeletal Biology",
-            "number": "7894",
+            "number": "ANTHRO 7894",
             "description": "(cross-leveled with ANTHRO 4894). This course is designed to provide students advanced and in-depth training in skeletal biology. Basic bone biology will be studied and advanced methods of skeletal analysis applicable to forensic anthropology and bioarchaeology will be explored.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1573,7 +1600,7 @@
         },
         {
             "name": "Internship in Anthropology",
-            "number": "7940",
+            "number": "ANTHRO 7940",
             "description": "Students will work for a semester in a community-based organization (NGO, nonprofit, for profit, or governmental). They will conduct a research study in coordination with that agency. Upon completion of the research study, students will prepare a final report to be given to the agency and turned in for course credit. The course coordinator will help students identify and make contact with interested organization and oversee their progress during the internship. Graded on S/U basis only.",
             "prerequisites": "coordinator's consent",
             "hours": "3-6",
@@ -1582,7 +1609,7 @@
         },
         {
             "name": "Introduction to Post-Graduate Anthropology",
-            "number": "7950",
+            "number": "ANTHRO 7950",
             "description": "How to succeed in graduate school and profession, and who is MU Anthropology. Introduces skills for success in graduate school, describes attributes of a professional anthropologist and how to find a job. Handouts and readings supplement discussions. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -1591,7 +1618,7 @@
         },
         {
             "name": "Graduate Readings in Anthropology",
-            "number": "7960",
+            "number": "ANTHRO 7960",
             "description": "Directed readings in ethnology, linguistics, archaeology, or physical anthropology not leading to thesis.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1600,7 +1627,7 @@
         },
         {
             "name": "Non Thesis Research in Anthropology",
-            "number": "7990",
+            "number": "ANTHRO 7990",
             "description": "Original research not leading to the preparation of a thesis or dissertation.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1609,7 +1636,7 @@
         },
         {
             "name": "Topics in Anthropology-General",
-            "number": "8001",
+            "number": "ANTHRO 8001",
             "description": "Problems, topics, issues, or review of research; experimental development of new content areas. Specific content varies depending on needs of faculty or students and is announced in advance.  May be repeated to a maximum of 9 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1618,7 +1645,7 @@
         },
         {
             "name": "History of Anthropology I",
-            "number": "8010",
+            "number": "ANTHRO 8010",
             "description": "Development of anthropological theories, methods, perspectives, major figures and contributions in cultural and linguistic subfields.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1627,7 +1654,7 @@
         },
         {
             "name": "History of Anthropology II",
-            "number": "8020",
+            "number": "ANTHRO 8020",
             "description": "Development of anthropological theories, methods, perspectives, major figures and contributions in archaeology and biological anthropology.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1636,7 +1663,7 @@
         },
         {
             "name": "Masters Thesis Research in Anthropology",
-            "number": "8090",
+            "number": "ANTHRO 8090",
             "description": "Advanced work leading to thesis. Graded on a S/U basis only.",
             "prerequisites": "consent of major advisor",
             "hours": "1-99",
@@ -1645,7 +1672,7 @@
         },
         {
             "name": "Seminar in Folklore",
-            "number": "8157",
+            "number": "ANTHRO 8157",
             "description": "(same as ENGLSH 8700 and REL_ST 8700). Roots of folklore scholarship and methodology; their evolution in modern approaches to the study of oral, traditional, verbal genres; and their performance in natural folk groups. May repeat to twelve hours with departments consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1654,7 +1681,7 @@
         },
         {
             "name": "Seminar in Ecological Adaptation",
-            "number": "8187",
+            "number": "ANTHRO 8187",
             "description": "Relationships and interactions between humans and their environments, with emphasis on the physical and cultural adaptations to environment. May be repeated to 9 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1663,7 +1690,7 @@
         },
         {
             "name": "Seminar in Ethnohistory",
-            "number": "8257",
+            "number": "ANTHRO 8257",
             "description": "Introduction to the uses of historical documents and historical methods in anthropological research. May be repeated to 6 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1672,7 +1699,7 @@
         },
         {
             "name": "Seminar in Theory and Methods in Archaeology",
-            "number": "8287",
+            "number": "ANTHRO 8287",
             "description": "Application of theory and conceptual frameworks to archaeological studies drawn from both Old and New Worlds. May be repeated to 6 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1681,7 +1708,7 @@
         },
         {
             "name": "Seminar in Psychological Anthropology",
-            "number": "8357",
+            "number": "ANTHRO 8357",
             "description": "Focuses on developments in psychological anthropology, cross-cultural psychology. Special attention on cognition, perception, socialization, personality assessment, psycho-cultural change, psycho-linguistics, psychometrics, within cross-cultural contexts. May be repeated to 6 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1690,7 +1717,7 @@
         },
         {
             "name": "Seminar in Health Anthropology",
-            "number": "8387",
+            "number": "ANTHRO 8387",
             "description": "We survey the field of health behaviors from an anthropological perspective. We ask, what are health behaviors? and what models have social scientists proposed to account for such actions? May be repeated to 6 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1699,7 +1726,7 @@
         },
         {
             "name": "Seminar in Anthropological Linguistics",
-            "number": "8487",
+            "number": "ANTHRO 8487",
             "description": "(same as LINGST 8487). Topics: Ethnolinguistics, linguistic prehistory, pidgin and Creole languages, linguistic theories and cultural and cultural analysis. French structural anthropology. May be repeated for 9 hours maximum.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1708,7 +1735,7 @@
         },
         {
             "name": "Seminar in Physical Anthropology",
-            "number": "8587",
+            "number": "ANTHRO 8587",
             "description": "Readings and discussion concerning current problems in human and nonhuman primate evolution, with emphasis on taxonomy, morphology, and behavior. May be repeated to 9 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1717,7 +1744,7 @@
         },
         {
             "name": "Seminar in Cultural Dynamics",
-            "number": "8687",
+            "number": "ANTHRO 8687",
             "description": "Focuses on geographical, topical, and/or theoretical developments within cultural anthropology. May be repeated to 6 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1726,7 +1753,7 @@
         },
         {
             "name": "Seminar in Old World Archaeology",
-            "number": "8787",
+            "number": "ANTHRO 8787",
             "description": "Intensive studies in application of anthropological concepts to problems in Old World archaeology and prehistory. May be repeated to 9 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1735,7 +1762,7 @@
         },
         {
             "name": "Scientific Writing in Anthropology",
-            "number": "8857",
+            "number": "ANTHRO 8857",
             "description": "Students will be taught to construct research papers that reflect logic, organization, and clarity.  Topics covered include outline preparation, syntax, punctuation, sentence construction, and correct reference citation.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1744,7 +1771,7 @@
         },
         {
             "name": "Seminar in Anthropological Methods",
-            "number": "8887",
+            "number": "ANTHRO 8887",
             "description": "Focuses on specific methods/techniques for collecting and analyzing data in archaeological, biological, linguistic, and/or cultural anthropology.  May be repeated to 6 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1753,7 +1780,7 @@
         },
         {
             "name": "Analyzing Anthropological Data I",
-            "number": "8888",
+            "number": "ANTHRO 8888",
             "description": "Provides students with the conceptual and analytic tools necessary to conduct and evaluate the analysis of anthropological data.  Examples gleaned from archaeology, bioanthropology, ethnography, and linguistics will provide a broad perspective of the application and utility of the various methods discussed.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1762,7 +1789,7 @@
         },
         {
             "name": "Analyzing Anthropological Data II",
-            "number": "8889",
+            "number": "ANTHRO 8889",
             "description": "This course introduces a variety of conceptual tools and advanced quantitative methods that anthropologists use to analyze their data.  It includes an introduction of common software packages used to manipulate and analyze anthropological data.",
             "prerequisites": "ANTHRO 8888 or grad-level intro stats or instructor's consent",
             "hours": "3",
@@ -1773,7 +1800,7 @@
         },
         {
             "name": "Graduate Readings in Anthropology",
-            "number": "8960",
+            "number": "ANTHRO 8960",
             "description": "Directed readings in ethnology, linguistics, archaeology, or physical anthropology not leading to thesis.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1782,7 +1809,7 @@
         },
         {
             "name": "Seminar in Formal Anthropological Research Design",
-            "number": "8987",
+            "number": "ANTHRO 8987",
             "description": "Methods of fitting statistical and formal research designs to quantitative and qualitative data discussed and illustrated, with research by participants. May be repeated to 9 hours maximum.",
             "prerequisites": "introductory course in statistics",
             "hours": "3",
@@ -1791,7 +1818,7 @@
         },
         {
             "name": "Non Thesis Research in Anthropology",
-            "number": "8990",
+            "number": "ANTHRO 8990",
             "description": "Original research not leading to the preparation of a dissertation.",
             "prerequisites": "consent of major advisor",
             "hours": "1-99",
@@ -1800,7 +1827,7 @@
         },
         {
             "name": "Doctoral Dissertation Research in Anthropology",
-            "number": "9090",
+            "number": "ANTHRO 9090",
             "description": "Advanced work leading to dissertation. Graded on a S/U basis only.",
             "prerequisites": "consent of major advisor",
             "hours": "1-99",

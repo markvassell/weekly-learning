@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Drop-In Child Care Programs",
-            "number": "1520",
+            "number": "H_D_FS 1520",
             "description": "Examination of appropriate planning for and experience in a drop-in child care program.",
             "prerequisites": "H_D_FS 3420 or equivalent and instructor's consent",
             "hours": "3",
@@ -15,7 +15,7 @@
         },
         {
             "name": "Foundations of Family Science",
-            "number": "1600",
+            "number": "H_D_FS 1600",
             "description": "Introduction to family studies discipline and profession. Introduces historical changes in families, diversity by race, ethnicity, class and sexual orientation, and interaction of families with neighborhoods, schools, the workplace, and larger systems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -24,7 +24,7 @@
         },
         {
             "name": "Foundations of Family Science - Honors",
-            "number": "1600H",
+            "number": "H_D_FS 1600H",
             "description": "Introduction to family studies discipline and profession. Introduces historical changes in families, diversity by race, ethnicity, class and sexual orientation, and interaction of families with neighborhoods, schools, the workplace, and larger systems.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -33,7 +33,7 @@
         },
         {
             "name": "Intimate Relationships and Marriage",
-            "number": "1610",
+            "number": "H_D_FS 1610",
             "description": "Examination of issues pertaining to intimate and marital relationships such as relationship foundation and dissolution processes, love, sex, behavioral scripts, and conflict. Diversity related to race, ethnicity, gender, and sexual orientation is explored.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Problems in Human Development and Family Science",
-            "number": "2085",
+            "number": "H_D_FS 2085",
             "description": "Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-30",
@@ -51,7 +51,7 @@
         },
         {
             "name": "Research Methods in Human Development and Family Science",
-            "number": "2200",
+            "number": "H_D_FS 2200",
             "description": "Introduction to research methods in the social sciences. Emphasis on both qualitative and quantitative methods, as well as applied research and program evaluation.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -60,7 +60,7 @@
         },
         {
             "name": "Multicultural Study of Children and Families",
-            "number": "2300",
+            "number": "H_D_FS 2300",
             "description": "Study of cultural variation in family life around the world and within America (e.g.: African-American, Hispanic American). Attention is paid to the external conditions that affect the internal workings of these families.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Principles of Human Development",
-            "number": "2400",
+            "number": "H_D_FS 2400",
             "description": "Concepts and principles basic to an understanding of human development and learning throughout the life span.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Principles of Human Development - Honors",
-            "number": "2400H",
+            "number": "H_D_FS 2400H",
             "description": "Concepts and principles basic to an understanding of human development and learning throughout the life span.",
             "prerequisites": "ENGLSH 1000.  Honors eligibility required",
             "hours": "4",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Principles of Human Development - Honors/Writing Intensive",
-            "number": "2400HW",
+            "number": "H_D_FS 2400HW",
             "description": "Concepts and principles basic to an understanding of human development and learning throughout the life span.",
             "prerequisites": "ENGLSH 1000.  Honors eligibility required",
             "hours": "4",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Principles of Human Development - Writing Intensive",
-            "number": "2400W",
+            "number": "H_D_FS 2400W",
             "description": "Concepts and principles basic to an understanding of human development and learning throughout the life span.",
             "prerequisites": "ENGLSH 1000",
             "hours": "4",
@@ -111,7 +111,7 @@
         },
         {
             "name": "Human Sexuality Across the Life Span",
-            "number": "2450",
+            "number": "H_D_FS 2450",
             "description": "An introductory survey of human sexuality including gender, love and intimacy, sexual expression and variation, sexual orientation, contraception, pregnancy and birth, sexually transmitted infections, sexual coercion, and sex in society.  Sexuality within the context of intimate relationships across the life course will be emphasized.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -120,7 +120,7 @@
         },
         {
             "name": "Observation, Assessment, and Curriculum Planning",
-            "number": "2510",
+            "number": "H_D_FS 2510",
             "description": "This course is fundamental for students in the emphasis area Child Development and Education and for other students planning to engage in work that requires observing young children to plan curriculum and assess their development.",
             "prerequisites": "H_D_FS 2400",
             "hours": "4",
@@ -131,7 +131,7 @@
         },
         {
             "name": "Child Development: Birth to 3 (Infant/Toddler)",
-            "number": "3050",
+            "number": "H_D_FS 3050",
             "description": "Child development from birth to age 3. Topics include growth patterns; influences of disabilities and risk factors; environmental factors and attachment; language acquisition; brain development; cognitive and social-emotional development; and perceptual and sensory motor skills.  Some course content overlaps with H_D_FS 3500.",
             "prerequisites": "Some sections may be restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI-ECE). Some sections may be restricted to HDFS, Pre-HDFS, and Education majors during Early Registration",
             "hours": "3",
@@ -142,7 +142,7 @@
         },
         {
             "name": "Problems in Human Development and Family Science",
-            "number": "3085",
+            "number": "H_D_FS 3085",
             "description": "Independent work on special problems in human development and family science.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-30",
@@ -151,7 +151,7 @@
         },
         {
             "name": "Research Experience in Human Development and Family Science",
-            "number": "3090",
+            "number": "H_D_FS 3090",
             "description": "Student training and engagement in research with a H_D_FS faculty member.  Students learn about the research process and methods, and develop research skills (e.g., data collection, entry, coding, analysis) through hands-on work.  Graded on S/U basis only.  May be repeated for credit.",
             "prerequisites": "H_D_FS 2200; instructor's consent",
             "hours": "1-30",
@@ -162,7 +162,7 @@
         },
         {
             "name": "Child Development 4-8 (Early Childhood)",
-            "number": "3150",
+            "number": "H_D_FS 3150",
             "description": "Physical, cognitive, social/emotional and personality growth and development during early childhood.  Topics include major theories of development and current research and ideas in conjunction with historical approaches to examining growth and development in ages 4-8.",
             "prerequisites": "Some sections may be restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI-ECE).  Some sections may be restricted to HDFS, Pre-HDFS, and Education majors during Early Registration",
             "hours": "3",
@@ -173,7 +173,7 @@
         },
         {
             "name": "Child Development 4-8 (Early Childhood) - Writing Intensive",
-            "number": "3150W",
+            "number": "H_D_FS 3150W",
             "description": "Physical, cognitive, social/emotional and personality growth and development during early childhood.  Topics include major theories of development and current research and ideas in conjunction with historical approaches to examining growth and development in ages 4-8.",
             "prerequisites": "Some sections may be restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI-ECE).  Some sections may be restricted to HDFS, Pre-HDFS, and Education majors during Early Registration",
             "hours": "3",
@@ -184,7 +184,7 @@
         },
         {
             "name": "Introduction to Early Childhood Education in a Mobile Society",
-            "number": "3250",
+            "number": "H_D_FS 3250",
             "description": "Role of a professional as a teacher, administrator, or advocate in early childhood programming.   Topics include professionalism and ethics; identifying child abuse; the role of an early childhood educator; program models and working with children and professional colleagues.",
             "prerequisites": "enrollment restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI_ECE)",
             "hours": "3",
@@ -195,7 +195,7 @@
         },
         {
             "name": "Child Guidance and Classroom Environments",
-            "number": "3350",
+            "number": "H_D_FS 3350",
             "description": "Examines developmentally appropriate practice in child guidance. Current guidance methods and programs will be covered.  Students will develop their own approach to guidance based upon course content.",
             "prerequisites": "enrollment is restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI_ECE)",
             "hours": "3",
@@ -206,7 +206,7 @@
         },
         {
             "name": "Early and Middle Childhood",
-            "number": "3420",
+            "number": "H_D_FS 3420",
             "description": "Emotional, cognitive, and physical development of the child before puberty. Observation is integral part of course. Cannot receive credit for more than one of the following: PSYCH 2410, H_D_FS 3420, or ESC_PS 2500.",
             "prerequisites": "Restricted to Education, HDFS and Pre-HDFS majors during preregistration period",
             "hours": "3",
@@ -215,7 +215,7 @@
         },
         {
             "name": "Early and Middle Childhood - Writing Intensive",
-            "number": "3420W",
+            "number": "H_D_FS 3420W",
             "description": "Emotional, cognitive, and physical development of the child before puberty. Observation is integral part of course. Cannot receive credit for more than one of the following: PSYCH 2410, H_D_FS 3420, or ESC_PS 2500.",
             "prerequisites": "Restricted to Education, HDFS and Pre-HDFS majors during preregistration period",
             "hours": "3",
@@ -224,7 +224,7 @@
         },
         {
             "name": "Adolescence and Young Adulthood",
-            "number": "3430",
+            "number": "H_D_FS 3430",
             "description": "Physical, intellectual, and psychosocial maturation of adolescents and young adults within the context of life long developmental sequelae.",
             "prerequisites": "Restricted to HDFS and Pre-HDFS majors during pre-registration period",
             "hours": "3",
@@ -233,7 +233,7 @@
         },
         {
             "name": "Adulthood and Aging",
-            "number": "3440",
+            "number": "H_D_FS 3440",
             "description": "Examination of biological, cognitive, psychological and social changes experienced across adulthood.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -242,7 +242,7 @@
         },
         {
             "name": "Health, Safety and Nutrition",
-            "number": "3450",
+            "number": "H_D_FS 3450",
             "description": "Topics include planning, promoting, and maintaining health and safe learning/care environments; understanding childhood illnesses and establishing healthy lifestyles; performing first aid; and maintaining care providers' health and safe relationships with others; identifying and reporting child abuse; nutrients for life; and safe food preparations.",
             "prerequisites": "enrollment is restricted to students admitted to the Great Plains Idea Early Childhood Education Program (GPI_ECE)",
             "hours": "3",
@@ -253,7 +253,7 @@
         },
         {
             "name": "Infant-Toddler Practicum",
-            "number": "3500",
+            "number": "H_D_FS 3500",
             "description": "Practical experience working with infants and toddlers, applying developmentally appropriate practice and theoretical perspectives. Emphasizes cognitive, social/emotional, creative and motor development; and staff and family relationships in child care settings. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "6Prerequisites or Corequisites: H_D_FS 3050 or H_D_FS 3420 or instructor's consent",
@@ -262,7 +262,7 @@
         },
         {
             "name": "Foundations of Community-Based Programs for Children and Youth",
-            "number": "3530",
+            "number": "H_D_FS 3530",
             "description": "Examines non-academic community-based programming for children and youth.  Experience working with these age groups.  Graded on A-F basis only.",
             "prerequisites": "H_D_FS 3420 or equivalent or instructor's consent",
             "hours": "3",
@@ -273,7 +273,7 @@
         },
         {
             "name": "Technology and Young Children",
-            "number": "3550",
+            "number": "H_D_FS 3550",
             "description": "Students will learn how electronic technology impacts the development of young children in educational, home and community environments, and how technology can be used to enhance teaching and learning.",
             "prerequisites": "enrollment is restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI_ECE)",
             "hours": "3",
@@ -284,7 +284,7 @@
         },
         {
             "name": "Partnering with Parents and Families",
-            "number": "3600",
+            "number": "H_D_FS 3600",
             "description": "Examination of stages of parenthood, caregiving styles, and the impact of relationships and culture on caregiving and its challenges. Development of applied skills working with parents and families in a service learning experience.  Graded on A-F basis only.",
             "prerequisites": "H_D_FS 1600 and H_D_FS 2400",
             "hours": "3",
@@ -296,7 +296,7 @@
         },
         {
             "name": "Diversity in the Lives of Young Children and Families",
-            "number": "3650",
+            "number": "H_D_FS 3650",
             "description": "In this course, students will explore cultural diversity in daily life and beliefs in families with young children.  The focus is on U.S. families, with attention to the multiple cultures from which they come.  Course content overlaps with H_D_FS 2300.  Not recommended for students to enroll in both courses. Students may not receive credit for both H_D_FS 3650 and H_D_FS 2300.",
             "prerequisites": "restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI-ECE)",
             "hours": "3",
@@ -307,7 +307,7 @@
         },
         {
             "name": "Preschool Practicum",
-            "number": "3700",
+            "number": "H_D_FS 3700",
             "description": "Practical experience working with children ages 2.5-5 years of age, applying developmentally appropriate practice and theoretical perspectives. Emphasizes cognitive, social and emotional, creative, and motor development, and family and staff relationships in a child care setting.   Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "6Prerequisites or Corequisites: H_D_FS 3150 or H_D_FS 3420 or instructor's consent",
@@ -316,7 +316,7 @@
         },
         {
             "name": "Student Teaching Prekindergarten",
-            "number": "3720",
+            "number": "H_D_FS 3720",
             "description": "Experience working with children (2-5 years), using general guidance principles and methods for fostering creativity.",
             "prerequisites": "H_D_FS 3420 or equivalent and instructor's consent",
             "hours": "6",
@@ -327,7 +327,7 @@
         },
         {
             "name": "Field Training Practicum",
-            "number": "3730",
+            "number": "H_D_FS 3730",
             "description": "Field training experiences under supervision. May be repeated for credit. Graded on S/U basis only.",
             "prerequisites": "advisor's consent",
             "hours": "3",
@@ -336,7 +336,7 @@
         },
         {
             "name": "Working with Families",
-            "number": "3750",
+            "number": "H_D_FS 3750",
             "description": "This course focuses on application of an ecological model to the understanding of variation in parental roles, perspectives, approaches, and challenges.  The course also provides an overview of effective communication strategies and parent education programs. Course content overlaps with H_D_FS 3600.  Not recommended for students to enroll in both courses. Students will not receive credit for both H_D_FS 3600 and H_D_FS 3750.",
             "prerequisites": "restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI-ECE)",
             "hours": "3",
@@ -347,7 +347,7 @@
         },
         {
             "name": "Children's Play",
-            "number": "3800",
+            "number": "H_D_FS 3800",
             "description": "This course is an examination of the complex phenomenon of play in children's lives.  Emphasis is placed on the value of play in developmental, social, and cultural contexts.  Topics include the exploration of play theories and supporting empirical evidence, play materials, various environments, violence and conflict resolution, and therapeutic uses of play.  Observation and assessment of children at play and analysis of play environments is required.",
             "prerequisites": "H_D_FS 2400, H_D_FS 3420, PSYCH 2410 or ESC_PS 2500 or equivalent, junior standing.  Enrollment is restricted to H_D_FS and Pre H_D_FS majors during preregistration period",
             "hours": "3",
@@ -363,7 +363,7 @@
         },
         {
             "name": "Practicum I: Child Observations in Classroom Environment",
-            "number": "3950",
+            "number": "H_D_FS 3950",
             "description": "Opportunity for Early Childhood Education teacher candidates to have a guided learning experience in a professional agency that provides services to children and families.  Some course content overlaps with LTC 4110.",
             "prerequisites": "restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI-ECE); H_D_FS 3050, H_D_FS 3150, H_D_FS 3250, H_D_FS 3350 and H_D_FS 3450",
             "hours": "3",
@@ -379,7 +379,7 @@
         },
         {
             "name": "Readings in Human Development and Family Science",
-            "number": "3960",
+            "number": "H_D_FS 3960",
             "description": "Readings in recent research; critical discussions.",
             "prerequisites": "None Listed",
             "hours": "1-30",
@@ -388,7 +388,7 @@
         },
         {
             "name": "Topics in Human Development and Family Science",
-            "number": "4001",
+            "number": "H_D_FS 4001",
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -397,7 +397,7 @@
         },
         {
             "name": "Problems in Human Development and Family Science",
-            "number": "4085",
+            "number": "H_D_FS 4085",
             "description": "Independent work on special problems in human development and family science. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-30",
@@ -406,7 +406,7 @@
         },
         {
             "name": "Advanced Research in Human Development and Family Science",
-            "number": "4090",
+            "number": "H_D_FS 4090",
             "description": "Advanced training and engagement in research with a H_D_FS faculty member.  Student develops research skills (e.g., data collection, entry, coding, analysis) and works semi-independently on own research project.  Graded on S/U basis only.  May be repeated for credit.",
             "prerequisites": "H_D_FS 2200 and H_D_FS 3090; instructor's consent",
             "hours": "1-30",
@@ -418,7 +418,7 @@
         },
         {
             "name": "Children in Health Care Settings",
-            "number": "4100",
+            "number": "H_D_FS 4100",
             "description": "Overview of the medical conditions and treatments commonly encountered by children and adolescents in health care settings and their typical reactions to them. Introduction to the philosophy and the role of the child life profession.",
             "prerequisites": "H_D_FS 2200, H_D_FS 2400 and H_D_FS 3420, or equivalent.  Restricted to Human Development and Family Studies and Pre- Human Development and Family Studies majors during pre-registration period",
             "hours": "3",
@@ -431,7 +431,7 @@
         },
         {
             "name": "Child Life Theory and Practice",
-            "number": "4110",
+            "number": "H_D_FS 4110",
             "description": "Focuses on theoretical foundations and principal intervention strategies used in Child Life professional practice.",
             "prerequisites": "H_D_FS 2200, H_D_FS 3420, H_D_FS 3500 or H_D_FS 3700, and instructor's consent",
             "hours": "3",
@@ -445,7 +445,7 @@
         },
         {
             "name": "Child Life Practicum",
-            "number": "4130",
+            "number": "H_D_FS 4130",
             "description": "Observation of Child Life staff at Children's Hospital and experience helping children and adolescents cope with hospitalization.",
             "prerequisites": "H_D_FS 3500 and H_D_FS 3700, consent required",
             "hours": "3",
@@ -457,7 +457,7 @@
         },
         {
             "name": "Development of Curriculum for Children Ages Birth to 3",
-            "number": "4150",
+            "number": "H_D_FS 4150",
             "description": "Students will learn and use assessment and documentation to inform curriculum; plan and evaluate developmentally appropriate activities; and learn about effective ways to share curriculum information with families.  Focus is on children ages birth to 3.",
             "prerequisites": "enrollment is restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI_ECE)",
             "hours": "3",
@@ -468,7 +468,7 @@
         },
         {
             "name": "Latino/a Youth and Families",
-            "number": "4200",
+            "number": "H_D_FS 4200",
             "description": "Current issues in theory, methods, and research in U.S. Latino/a youth and families are examined from a social and developmental psychological perspective.  The course is an advanced level study, with a particular focus on history, theories, methods, research, and applied social issues.  Topics will include, parenting, siblings, youth development and adjustment, stress, risky behaviors, gender issues, assessment, study design, cultural values, intervention programs, and immigration issues.",
             "prerequisites": "Pre-H_D_FS and H_D_FS majors must complete  H_D_FS 1600, H_D_FS 2200, H_D_FS 2300, H_D_FS 2400",
             "hours": "3",
@@ -484,7 +484,7 @@
         },
         {
             "name": "Development of Curriculum for Children 4-8",
-            "number": "4250",
+            "number": "H_D_FS 4250",
             "description": "Students will learn and use assessment and documentation to inform curriculum, plan and evaluate developmentally appropriate activities; and learn about effective ways to share curriculum information with families.  Focus is on children ages 4-8.",
             "prerequisites": "enrollment is restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI_ECE)",
             "hours": "3",
@@ -495,7 +495,7 @@
         },
         {
             "name": "Black Families",
-            "number": "4300",
+            "number": "H_D_FS 4300",
             "description": "(same as BL_STU 4300). Emphasis is on the unique social, economic, religious, educational, and political environments that have affected the structure and function of the Black family.",
             "prerequisites": "H_D_FS 2200 or equivalent, and junior standing",
             "hours": "3",
@@ -506,7 +506,7 @@
         },
         {
             "name": "Assessing Young Children and their Environments",
-            "number": "4350",
+            "number": "H_D_FS 4350",
             "description": "Use of appropriate assessment tools for children birth to 8. Using data to inform decisions about teaching and intervention.  Emphasis on the ethical use of assessments, validity of assessments, multicultural sensitivity and assessment for children with special needs.",
             "prerequisites": "enrollment is restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI_ECE)",
             "hours": "3",
@@ -517,7 +517,7 @@
         },
         {
             "name": "Childhood Death and Bereavement",
-            "number": "4400",
+            "number": "H_D_FS 4400",
             "description": "An exploration of issues that arise for children and families when facing life-threatening illness and death. The course also includes an examination of coping and helping strategies for dying and grieving children.",
             "prerequisites": "H_D_FS 2200, H_D_FS 2400, H_D_FS 3420 and instructor's consent. Restricted to HDFS and Pre-HDFS majors during pre-registration period",
             "hours": "3",
@@ -530,7 +530,7 @@
         },
         {
             "name": "Environmental Influences on Lifespan Cognition",
-            "number": "4420",
+            "number": "H_D_FS 4420",
             "description": "This course covers the change and growth of cognition through the lifespan with particular attention to how the environment influences cognition (including perception, language memory, attention executive functions, and problem solving).",
             "prerequisites": "Pre-HDFS and HDFS Majors must complete H_D_FS 1600, H_D_FS 2200, H_D_FS 2300, H_D_FS 2400 and H_D_FS 3420",
             "hours": "3",
@@ -545,7 +545,7 @@
         },
         {
             "name": "Understanding and Adapting for Developmental Differences",
-            "number": "4450",
+            "number": "H_D_FS 4450",
             "description": "This course focuses on knowledge of disability conditions, assessment and identification, interventions in inclusive environments, and collaborations among service providers.",
             "prerequisites": "enrollment is restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI_ECE)",
             "hours": "3",
@@ -556,7 +556,7 @@
         },
         {
             "name": "Practicum II: Child Observations in Classroom Environments",
-            "number": "4550",
+            "number": "H_D_FS 4550",
             "description": "Practicum in ECE is an opportunity for teacher candidates to have a guided learning experience in a professional agency that provides services to children and families, and allows teacher candidates to have the opportunity to use and implement theories and practices.  Course content overlaps with LTC 4110.  Not recommended for students to enroll in both courses.",
             "prerequisites": "restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI-ECE)",
             "hours": "3",
@@ -567,7 +567,7 @@
         },
         {
             "name": "Development and Administration of Child Services Programs",
-            "number": "4570",
+            "number": "H_D_FS 4570",
             "description": "The development of leadership and management skills for administering community-and hospital-based programs for children.  Includes an overview of office policy and procedure, staff and volunteer management, public relations, budgeting, accounts, accountability, and quality assurance.",
             "prerequisites": "Restricted to Pre-HDFS and HDFS Majors.  Must have also completed H_D_FS 1600, H_D_FS 2200, H_D_FS 2300, H_D_FS 2400 and H_D_FS 3700",
             "hours": "3",
@@ -582,7 +582,7 @@
         },
         {
             "name": "Stress and Resilience in Families",
-            "number": "4610",
+            "number": "H_D_FS 4610",
             "description": "Introduction to the study of stressor events in families, such as poverty, violence within families, substance abuse, and health problems. Emphasis is on both prevention and coping.",
             "prerequisites": "Pre-HDFS and HDFS majors must complete H_D_FS 1600, H_D_FS 2200, H_D_FS 2300 and H_D_FS 2400",
             "hours": "3",
@@ -596,7 +596,7 @@
         },
         {
             "name": "Family Interaction",
-            "number": "4620",
+            "number": "H_D_FS 4620",
             "description": "Analysis of intrafamilial interaction from a systems perspective; includes comparative study of family paradigms, family subsystems, goals, and resources, boundaries, and patterns of feedback.",
             "prerequisites": "Pre-HDFS and HDFS majors must complete H_D_FS 1600, H_D_FS 2200, H_D_FS 2300 and H_D_FS 2400",
             "hours": "3",
@@ -610,7 +610,7 @@
         },
         {
             "name": "The Process of Divorce",
-            "number": "4630",
+            "number": "H_D_FS 4630",
             "description": "Examination of theory and research related to marital dissolution. The impact of divorce on children and adults, and divorce intervention strategies are considered.",
             "prerequisites": "Pre-HDFS and HDFS majors must complete  H_D_FS 1600, H_D_FS 2200, H_D_FS 2300 and H_D_FS 2400",
             "hours": "3",
@@ -624,7 +624,7 @@
         },
         {
             "name": "Interpersonal Relationships",
-            "number": "4640",
+            "number": "H_D_FS 4640",
             "description": "In-depth examination of interpersonal relationships, including theoretical perspectives, research methods, relationship forms, relationship processes, and how context affects relationships. Students are introduced to the field of close relationships.",
             "prerequisites": "Pre-HDFS and HDFS majors must complete H_D_FS 1600, H_D_FS 2200, H_D_FS 2300 and H_D_FS 2400",
             "hours": "3",
@@ -638,7 +638,7 @@
         },
         {
             "name": "Administration/Supervision in Early Childhood Settings",
-            "number": "4650",
+            "number": "H_D_FS 4650",
             "description": "Exploration of issues surrounding the administration of ECE programs including identification of community needs, analysis of business opportunities, evaluation and appropriate use of quality programming, consideration of policy and equal responsibilities, and professionalism. Course content overlaps with H_D_FS 4750.  Not recommended for students to enroll in both courses. Students will not receive credit for both H_D_FS 4650 and H_D_FS 4750.",
             "prerequisites": "restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI-ECE)",
             "hours": "3",
@@ -649,7 +649,7 @@
         },
         {
             "name": "History of the Family in Russia",
-            "number": "4655",
+            "number": "H_D_FS 4655",
             "description": "Survey of family relations in Russia from the Kievan period. Materials drawn from child development and family studies, education, history, sociology, and literature.",
             "prerequisites": "3 hours in Social/Behavioral Sciences",
             "hours": "3",
@@ -658,7 +658,7 @@
         },
         {
             "name": "History of the Family in Russia - Honors",
-            "number": "4655H",
+            "number": "H_D_FS 4655H",
             "description": "Survey of family relations in Russia from the Kievan period. Materials drawn from child development and family studies, education, history, sociology, and literature.",
             "prerequisites": "3 hours in Social/Behavioral Sciences. Honor eligibility required",
             "hours": "3",
@@ -667,7 +667,7 @@
         },
         {
             "name": "Family Communication",
-            "number": "4680",
+            "number": "H_D_FS 4680",
             "description": "(same as COMMUN 4520).  Analysis of the functions and processes of communication within families.",
             "prerequisites": "junior standing or departmental consent.  May be restricted to Communication majors only during early registration",
             "hours": "3",
@@ -676,7 +676,7 @@
         },
         {
             "name": "Children and Families in Poverty",
-            "number": "4700",
+            "number": "H_D_FS 4700",
             "description": "Study of the extent, distribution, and implications of poverty on children and families. Examination of myths and realities, social conditions, policies, and programs that contribute to or reduce poverty and its consequences.",
             "prerequisites": "Pre-HDFS and HDFS majors must complete H_D_FS 1600, H_D_FS 2200, H_D_FS 2300 and H_D_FS 2400",
             "hours": "3",
@@ -690,7 +690,7 @@
         },
         {
             "name": "Child and Family Advocacy",
-            "number": "4720",
+            "number": "H_D_FS 4720",
             "description": "Study of the processes of social policies, legislation, and regulations affecting children and families at the local, state and federal levels. The course emphasizes current issues and need for citizen involvement.  There will be sections restricted to H_D_FS majors and to Education majors.  The H_D_FS section will be for 3 credits and the Education will be for 2 credits.",
             "prerequisites": "Pre-HDFS and HDFS majors must complete H_D_FS 1600, H_D_FS  2200, H_D_FS 2300 and H_D_FS 2400",
             "hours": "2-3",
@@ -704,7 +704,7 @@
         },
         {
             "name": "Parent-Child Relations Over the Life Course",
-            "number": "4740",
+            "number": "H_D_FS 4740",
             "description": "Examines the development, continuities, transitions, and discontinuities of parent-child relationships over the life course. Considers the influence of parents on children and children on parents.",
             "prerequisites": "H_D_FS 2200 or equivalent",
             "hours": "3",
@@ -715,7 +715,7 @@
         },
         {
             "name": "Practicum III",
-            "number": "4750",
+            "number": "H_D_FS 4750",
             "description": "This is a 15-week experience allowing the student to demonstrate practical application of developmentally appropriate early childhood teaching techniques and skills, teaching experience and developmental feedback.  Includes observation and evaluation of classroom experience. Course content overlaps with H_D_FS 3700 and LTC 4170.  Not recommended for students to enroll in both courses. Students will not receive credit for both H_D_FS 4750 and H_D_FS 3700 or H_D_FS 4750 and LTC 4170.",
             "prerequisites": "restricted to students admitted to the Great Plains IDEA Early Childhood Education Program (GPI-ECE). H_D_FS 3950, H_D_FS 4150, H_D_FS 4250, H_D_FS 4350, H_D_FS 4450 and H_D_FS 4550",
             "hours": "3",
@@ -732,7 +732,7 @@
         },
         {
             "name": "Program and Curriculum Design for FACS Education in Middle and Secondary Schools",
-            "number": "4800",
+            "number": "H_D_FS 4800",
             "description": "What should a teacher do about planning for student learning in FACS? Includes objectives, lesson designs, resources, learner diversity, thinking skills, reasoning processes, articulation, legislation.",
             "prerequisites": "ESC_PS 2010 and SPC_ED 2020 or equivalent. Admission to Phase II, and instructor's consent",
             "hours": "3",
@@ -744,7 +744,7 @@
         },
         {
             "name": "Assessment in Family and Consumer Sciences Education",
-            "number": "4820",
+            "number": "H_D_FS 4820",
             "description": "What should a teacher do to determine the extent to which program/lesson objectives have been achieved? Includes the selection, design, and use of a wide variety of assessment tools and techniques, and the impact of assessment on the evaluation of learners and program design.",
             "prerequisites": "admission into Phase II, H_D_FS 4800, and instructor's consent",
             "hours": "2",
@@ -755,7 +755,7 @@
         },
         {
             "name": "Methods of Teaching FACS in Middle and Secondary Schools",
-            "number": "4830",
+            "number": "H_D_FS 4830",
             "description": "What should a teacher do to help students achieve learner objectives? Includes classroom management strategies, choosing and using instructional methods to stimulate thinking skills and reasoning processes, communication skills, professionalism, and public relations.",
             "prerequisites": "admission into Phase II, and instructor's consent",
             "hours": "3",
@@ -764,7 +764,7 @@
         },
         {
             "name": "Field Experience in Family and Consumer Sciences",
-            "number": "4940",
+            "number": "H_D_FS 4940",
             "description": "Students will observe and assist in FACS classroom.",
             "prerequisites": "to be taken concurrently with H_D_FS 4800, and instructor's consent",
             "hours": "1",
@@ -775,7 +775,7 @@
         },
         {
             "name": "Field Experience in Family and Consumer Sciences",
-            "number": "4941",
+            "number": "H_D_FS 4941",
             "description": "Students will be involved in real-world experiences in a FACS classroom.",
             "prerequisites": "to be taken concurrently with H_D_FS 4830; requires instructor's consent",
             "hours": "1",
@@ -786,7 +786,7 @@
         },
         {
             "name": "Student Teaching FACS in Middle and Secondary Schools",
-            "number": "4942",
+            "number": "H_D_FS 4942",
             "description": "What guided practicum experiences will directly contribute to success as a classroom teacher? Students will teach for sixteen weeks within the state of Missouri under the supervision of an experienced FACS teacher.",
             "prerequisites": "H_D_FS 4800, H_D_FS 4820, H_D_FS 4830, ENGLSH 1000, admittance to Phase III, and instructor's consent",
             "hours": "1-15",
@@ -800,7 +800,7 @@
         },
         {
             "name": "Student Teaching FACS in Middle and Secondary Schools - Writing Intensive",
-            "number": "4942W",
+            "number": "H_D_FS 4942W",
             "description": "What guided practicum experiences will directly contribute to success as a classroom teacher? Students will teach for sixteen weeks within the state of Missouri under the supervision of an experienced FACS teacher.",
             "prerequisites": "H_D_FS 4800, H_D_FS 4820, H_D_FS 4830, ENGLSH 1000, admittance to Phase III, and instructor's consent",
             "hours": "1-15",
@@ -814,7 +814,7 @@
         },
         {
             "name": "Families and Lifespan Development Capstone",
-            "number": "4970",
+            "number": "H_D_FS 4970",
             "description": "Focus on integrating, extending, critiquing, and applying knowledge gained in the Families and Lifespan Development option within a family and lifespan development educational framework. Graded on A-F basis only.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "4",
@@ -823,7 +823,7 @@
         },
         {
             "name": "Families and Lifespan Development Capstone - Writing Intensive",
-            "number": "4970W",
+            "number": "H_D_FS 4970W",
             "description": "Focus on integrating, extending, critiquing, and applying knowledge gained in the Families and Lifespan Development option within a family and lifespan development educational framework. Graded on A-F basis only.",
             "prerequisites": "senior standing and instructor's consent",
             "hours": "4",
@@ -832,7 +832,7 @@
         },
         {
             "name": "Child Development and Education Capstone",
-            "number": "4971",
+            "number": "H_D_FS 4971",
             "description": "Practical experience working with young children (up to 10) in out-of-home care facilities. Program planning for children and working with parents. Lab hours required.",
             "prerequisites": "H_D_FS 2200, H_D_FS 3500 and H_D_FS 3700, or equivalent and instructor's consent",
             "hours": "9",
@@ -845,7 +845,7 @@
         },
         {
             "name": "Internship in Human Development and Family Science",
-            "number": "4993",
+            "number": "H_D_FS 4993",
             "description": "Internships or field training experiences under supervision. Graded on S/U basis only.",
             "prerequisites": "H_D_FS 2200 or equivalent and instructor's consent",
             "hours": "1-30",
@@ -856,7 +856,7 @@
         },
         {
             "name": "Topics in Human Development and Family Science",
-            "number": "7001",
+            "number": "H_D_FS 7001",
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -865,7 +865,7 @@
         },
         {
             "name": "Problems",
-            "number": "7085",
+            "number": "H_D_FS 7085",
             "description": "Independent work on special problems in human development and family studies. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -874,7 +874,7 @@
         },
         {
             "name": "Children in Health Care Settings",
-            "number": "7100",
+            "number": "H_D_FS 7100",
             "description": "Overview of the medical conditions and treatments commonly encountered by children and adolescents in health care settings and their typical reactions to them. Introduction to the philosophy and the role of the child life profession.",
             "prerequisites": "H_D_FS 2400 and H_D_FS 2420 or equivalent",
             "hours": "3",
@@ -886,7 +886,7 @@
         },
         {
             "name": "Child Life Theory and Practice",
-            "number": "7110",
+            "number": "H_D_FS 7110",
             "description": "Focuses on theoretical foundations and principal intervention strategies used in Child Life professional practice.",
             "prerequisites": "H_D_FS 3420 and H_D_FS 3500 and instructor's consent",
             "hours": "3",
@@ -898,7 +898,7 @@
         },
         {
             "name": "Child Life Practicum",
-            "number": "7130",
+            "number": "H_D_FS 7130",
             "description": "Observation of Child Life staff at Children's Hospital and experience helping children and adolescents cope with hospitalization.",
             "prerequisites": "H_D_FS 3500 and H_D_FS 3700, consent required",
             "hours": "3",
@@ -910,7 +910,7 @@
         },
         {
             "name": "Latino Families and Youth",
-            "number": "7200",
+            "number": "H_D_FS 7200",
             "description": "This course will cover the critical integration of theoretical, methodological, and empirical issues in Latino psychology using a cross-cultural, cross-ethnic perspective, including the increased sensitivity to issues and challenges facing Latino families and youth from a social science perspective. There will be a particular focus on selected topics in social and developmental psychology, as well as, understanding the relevance to other areas of study, to policy contexts, and to applied settings. Students will provide a written, integrative literature review and research proposal related to the course topic. The course will consist primarily of seminar discussions based on the textbook and additional readings. Students will lead class discussions based on the readings and their QRCs. Graded on A-F basis only.",
             "prerequisites": "Instructor's consent",
             "hours": "3",
@@ -919,7 +919,7 @@
         },
         {
             "name": "Foundations of Youth Development",
-            "number": "7231",
+            "number": "H_D_FS 7231",
             "description": "This course provides an introduction to the field of youth development and the professions that include youth work.  This course is designed to provide a foundation of knowledge that students will need to begin any course in the Great Plains IDEA Youth Development programs.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -928,7 +928,7 @@
         },
         {
             "name": "Basic Grant Development and Management",
-            "number": "7233",
+            "number": "H_D_FS 7233",
             "description": "This course introduces students to grant development and management.  This short-course is not intended to cover all aspects of grant development and management, but it will help students gain confidence in their grant development abilities and inspire them to learn more.   Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -937,7 +937,7 @@
         },
         {
             "name": "Adult Development",
-            "number": "7252",
+            "number": "H_D_FS 7252",
             "description": "This course presents a life-span, multidisciplinary developmental framework that considers sociohistorical influences, individual differences, and concern for promoting optimal functioning.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -946,7 +946,7 @@
         },
         {
             "name": "Physical Health and Aging",
-            "number": "7253",
+            "number": "H_D_FS 7253",
             "description": "This course identifies the basic physiologic changes during aging and their effects on health and disease.  The focus will be on successful aging with special emphasis on physical activity and nutrition.  Practical application to community settings is addressed.   Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -955,7 +955,7 @@
         },
         {
             "name": "Aging Policy",
-            "number": "7255",
+            "number": "H_D_FS 7255",
             "description": "Policy development in the context of the economic status of the elderly populations.  Retirement planning and the retirement decision; Social Security and public transfer programs for the elderly; intrafamily transfers to/from the elderly; private pensions; financing medical care for the elderly; prospects and issues for the for the future.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -964,7 +964,7 @@
         },
         {
             "name": "Environments and Aging",
-            "number": "7256",
+            "number": "H_D_FS 7256",
             "description": "Examination of attributes of physical environments that support special needs of older people and application of this knowledge to the design and management of housing, institutional settings, neighborhoods and communities.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -973,7 +973,7 @@
         },
         {
             "name": "Aging and the Family",
-            "number": "7257",
+            "number": "H_D_FS 7257",
             "description": "Theories and research related to personal and family adjustments in later life affecting older persons and their inter-generational relationships.  Related issues including demographics are also examined through the use of current literature.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -982,7 +982,7 @@
         },
         {
             "name": "Mental Health and Aging",
-            "number": "7259",
+            "number": "H_D_FS 7259",
             "description": "Student is introduced to the range of issues utilizing several theoretical perspectives and the systems framework.  Major mental, emotional, and psychiatric problems encountered in old age are examined, along with normal processes of aging individual's personality, mental and brain functions.   Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -991,7 +991,7 @@
         },
         {
             "name": "Women and Aging",
-            "number": "7260",
+            "number": "H_D_FS 7260",
             "description": "Women and aging is the study of theory, research and application of issues related to women and the aging experience. Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1000,7 +1000,7 @@
         },
         {
             "name": "Biological Principles of Aging",
-            "number": "7261",
+            "number": "H_D_FS 7261",
             "description": "This course will give an overview of the normal aging process of the human body systems, environmental factors influencing normal aging, diseases and disorders associated with aging.  A special topics unit will include but is not limited to interviews and observations dealing with the aging process in humans.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1009,7 +1009,7 @@
         },
         {
             "name": "Long-Term Care Administration",
-            "number": "7262",
+            "number": "H_D_FS 7262",
             "description": "Provides information for persons interested in leadership role in long-term care, or for those considering careers intersecting with senior living organizations. Also considers long-term care options.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1018,7 +1018,7 @@
         },
         {
             "name": "Black Families",
-            "number": "7300",
+            "number": "H_D_FS 7300",
             "description": "(same as BL_STU 7300). Emphasis is on the unique social, economic, religious, educational, and political environments that have affected the structure and function of the black families.",
             "prerequisites": "H_D_FS 2200 or equivalent",
             "hours": "3",
@@ -1029,7 +1029,7 @@
         },
         {
             "name": "Childhood Death and Bereavement",
-            "number": "7400",
+            "number": "H_D_FS 7400",
             "description": "An exploration of issues that arise for children and families when families when facing terminal illness or death. The course also includes an examination of coping and helping strategies for dying and grieving children.",
             "prerequisites": "H_D_FS 2400 and H_D_FS 3420",
             "hours": "3",
@@ -1041,7 +1041,7 @@
         },
         {
             "name": "Problems of Development in Multicultural Context",
-            "number": "7470",
+            "number": "H_D_FS 7470",
             "description": "Within the context of socio-cultural diversity, this course covers developmental problems from conception to early adulthood. Theoretical and empirical contributions to classification, assessment, intervention, and public policy are emphasized.",
             "prerequisites": "H_D_FS 2400, H_D_FS 1600, H_D_FS 2300, and H_D_FS 3420, or instructor's consent",
             "hours": "3",
@@ -1055,7 +1055,7 @@
         },
         {
             "name": "Developing Plans of Care for Community-Dwelling Older Adults",
-            "number": "7500",
+            "number": "H_D_FS 7500",
             "description": "This applied course focuses on conducting geriatric assessments across multiple domains in order to develop holistic plans of care for older adults. Designed for students with some familiarity with the large age-graded income and health programs (e.g., Social Security, Medicare), the course examines the broad range of community resource programs designed to support more specific medical, psychosocial, and functional needs. Although service delivery varies by community, students will be trained to seek out those that are locally provided, up to and including resources providing a transitional bridge to respite and long-term care services. Graded on A-F basis only.",
             "prerequisites": "Bachelor or Master's degree in Human Services, Social Work, Mental Health, Nursing, Physical Rehabilitation, or Psychology. Must be enrolled in Graduate Certificate in Geriatric Care Management Program",
             "hours": "3",
@@ -1064,7 +1064,7 @@
         },
         {
             "name": "Ethical, Legal, and Business Considerations in Geriatric Care Management",
-            "number": "7520",
+            "number": "H_D_FS 7520",
             "description": "This applied eight-week course addresses multiple issues that geriatric care managers must consider in their work with the vulnerable older population.  Topics include the ethics of care management, developing cultural and spiritual competencies, legal requirements in both the fee-for-service and nonprofit settings, as well as business aspects for those considering independent practice in this growing field, including national certification.  May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "H_D_FS 7500, H_D_FS 8012 and H_D_FS 7510; Bachelor or Master's degree in human services, social work, mental health, nursing, physical rehabilitation or psychology required; must be enrolled in Graduate Certificate in Geriatric Care Management program",
             "hours": "3",
@@ -1077,7 +1077,7 @@
         },
         {
             "name": "Program Development and Administration",
-            "number": "7570",
+            "number": "H_D_FS 7570",
             "description": "(cross-leveled with H_D_FS 4570). The development of leadership and management skills for administering community-based early childhood programs for children and their families.  Includes an overview of early childhood standards; budgeting, funding and financial matters; developing, equipping, and staffing a center; recruiting children and families; curriculum; health, safety, and nutrition; volunteer and staff development, and program evaluation.  Graded on A-F basis only.",
             "prerequisites": "H_D_FS 1600, H_D_FS 2200, H_D_FS 2300, H_D_FS 2400 and H_D_FS 3500 or H_D_FS 3700; Restricted to H_D_FS majors only",
             "hours": "3",
@@ -1094,7 +1094,7 @@
         },
         {
             "name": "Personal Financial Issues of Older Adults",
-            "number": "7583",
+            "number": "H_D_FS 7583",
             "description": "(same as FINPLN 7583).  Principles and practice of personal finance relevant to assessing and improving the financial security of older individuals.  Topics covered include sources of income, management of cash flow, credit use and abuse, risk exposure, investment management, housing, and financial planning.  Financial vulnerabilities of seniors will be explored.  Graded on A-F basis only.",
             "prerequisites": "Bachelor or Master's degree in human services, social work, mental health, nursing physical rehabilitation or psychology; must be enrolled in Graduate Certificate in Geriatric Care Management program.  May be repeated for credit",
             "hours": "3",
@@ -1103,7 +1103,7 @@
         },
         {
             "name": "Resilience in Families",
-            "number": "7600",
+            "number": "H_D_FS 7600",
             "description": "Exploration of the evolution of a resilience approach to the study of families and human development.  Using a lifespan approach, students will explore resilience across time as well as within special populations such as families experiencing crisis and trauma, culturally diverse families, and military families.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1112,7 +1112,7 @@
         },
         {
             "name": "Stress and Resilience in Families",
-            "number": "7610",
+            "number": "H_D_FS 7610",
             "description": "Introduction to the study of stressor events in families, such as poverty, violence within families, substance abuse, and health problems. Emphasis is on both prevention and coping.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1121,7 +1121,7 @@
         },
         {
             "name": "The Process of Divorce",
-            "number": "7630",
+            "number": "H_D_FS 7630",
             "description": "Examination of theory and research related to marital dissolution. The impact of divorce on children and adults, and divorce intervention strategies will be considered.",
             "prerequisites": "H_D_FS 1600, and H_D_FS 2200 or equivalent; or instructor's consent",
             "hours": "3",
@@ -1133,7 +1133,7 @@
         },
         {
             "name": "Interpersonal Relationships",
-            "number": "7640",
+            "number": "H_D_FS 7640",
             "description": "In-depth examination of interpersonal relationships, including theoretical perspectives, research methods, relationship forms, relationship processes, and how context affects relationships. Students will also be introduced to the field of close relationships.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1142,7 +1142,7 @@
         },
         {
             "name": "Family Crisis Intervention",
-            "number": "7650",
+            "number": "H_D_FS 7650",
             "description": "Individuals and families in crises are examined.  Focus is on grief and loss, substance abuse, family violence, and suicidal ideation.  Examination of evidence-based preventions and treatments and community resources for those affected by stress, trauma, and crises.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1151,7 +1151,7 @@
         },
         {
             "name": "Family Resource Management",
-            "number": "7690",
+            "number": "H_D_FS 7690",
             "description": "Survey course of personal finance and family resource management literature to provide an overview of how individual and family members develop and exercise their capacity to obtain and manage resources to meet life needs.  Resources include the self, other people, time, money, energy, material assets, space, and environment.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1160,7 +1160,7 @@
         },
         {
             "name": "Child and Family Advocacy",
-            "number": "7720",
+            "number": "H_D_FS 7720",
             "description": "Study of the processes of social policies, legislation, and regulations affecting children and families at the local, state and federal levels. The course emphasizes current issues and need for citizen involvement.  There will be sections restricted to Human Developmental and Family Studies majors and to Education majors.  The Human Developmental and Family Studies section will be for 3 credits and Education will be for 2 credits.",
             "prerequisites": "None Listed",
             "hours": "2-3",
@@ -1169,7 +1169,7 @@
         },
         {
             "name": "Physical Function and Older Adults",
-            "number": "7750",
+            "number": "H_D_FS 7750",
             "description": "(same as F_C_MD 7750, ARCHST 7640, HMI 7750, NURSE 7750, P_HLTH 7750, and SOC_WK 7752). This course takes an interdisciplinary approach to understanding and improving the physical function and independence of older adults and explores approaches to alleviate disabling conditions that interfere with physical function and quality of life in old age.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1178,7 +1178,7 @@
         },
         {
             "name": "Psychosocial Function and Older Adults",
-            "number": "7751",
+            "number": "H_D_FS 7751",
             "description": "(same as ARCHST 7650, F_C_MD 7751, HMI 7751, NURSE 7751, P_HLTH 7751 and SOC_WK 7751).  This course takes an Interdisciplinary approach to understanding the psychosocial function of older adults and explores approaches to alleviate disabling conditions that interfere with psychosocial function and quality of life in old age.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1187,7 +1187,7 @@
         },
         {
             "name": "Program and Curriculum Design for FACS Education in Middle and Secondary School",
-            "number": "7800",
+            "number": "H_D_FS 7800",
             "description": "What should a teacher do about planning for student learning in FACS? Includes objectives, lesson designs, resources, learner diversity, thinking skills, reasoning processes, articulation, legislation.",
             "prerequisites": "ESC_PS 2010 and  SPC_ED 4020 or equivalent. Admission to Phase II, and instructor's consent",
             "hours": "3",
@@ -1199,7 +1199,7 @@
         },
         {
             "name": "Assessment in Family and Consumer Sciences Education",
-            "number": "7820",
+            "number": "H_D_FS 7820",
             "description": "What should a teacher do to determine the extent to which program/lesson objectives have been achieved? Includes the selection, design, and use of a wide variety of assessment tools and techniques, and the impact of assessment on the evaluation of learners and program design.",
             "prerequisites": "admission into Phase II, H_D_FS 4800, and instructor's consent",
             "hours": "2",
@@ -1210,7 +1210,7 @@
         },
         {
             "name": "Methods of Teaching FACS in Middle and Secondary Schools",
-            "number": "7830",
+            "number": "H_D_FS 7830",
             "description": "What should a teacher do to help students achieve learner objectives? Includes classroom management strategies, choosing and using instructional methods to stimulate thinking skills and reasoning processes, communication skills, professionalism, and public relations.",
             "prerequisites": "admission into Phase II, and instructor's consent",
             "hours": "3",
@@ -1219,7 +1219,7 @@
         },
         {
             "name": "Field Experience in Family and Consumer Sciences Education",
-            "number": "7940",
+            "number": "H_D_FS 7940",
             "description": "Students will observe and assist in FACS classroom.",
             "prerequisites": "None Listed",
             "hours": "1Corequisites: H_D_FS 4800, and instructor's consent",
@@ -1228,7 +1228,7 @@
         },
         {
             "name": "Field Experience in Family and Consumer Sciences",
-            "number": "7941",
+            "number": "H_D_FS 7941",
             "description": "Students will be involved in real-world experiences in a FACS classroom.",
             "prerequisites": "None Listed",
             "hours": "1Corequisites: H_D_FS 4820, H_D_FS 4830, and  instructor's consent",
@@ -1237,7 +1237,7 @@
         },
         {
             "name": "Student Teaching FACS in Middle and Secondary Schools",
-            "number": "7942",
+            "number": "H_D_FS 7942",
             "description": "What guided practicum experiences will directly contribute to success as a classroom teacher? Students will teach for sixteen weeks within the state of Missouri under the supervision of an experienced FACS teacher.",
             "prerequisites": "H_D_FS 4800,H_D_FS 4820, H_D_FS 4830, instructor's consent",
             "hours": "15",
@@ -1250,7 +1250,7 @@
         },
         {
             "name": "Topics in Human Development and Family Science",
-            "number": "8001",
+            "number": "H_D_FS 8001",
             "description": "Selected current topics in field of interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -1259,7 +1259,7 @@
         },
         {
             "name": "Family Dynamics and Intervention",
-            "number": "8012",
+            "number": "H_D_FS 8012",
             "description": "(same as NURSE 8010). Theories of family function and dysfunction; techniques of assessment; models of family intervention. Practicum with selected families.",
             "prerequisites": "NURSE 7100",
             "hours": "3",
@@ -1270,7 +1270,7 @@
         },
         {
             "name": "Problems in Human Development and Family Science",
-            "number": "8085",
+            "number": "H_D_FS 8085",
             "description": "Independent work on special problems in human development and family science. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1279,7 +1279,7 @@
         },
         {
             "name": "Seminar in Human Development and Family Science",
-            "number": "8087",
+            "number": "H_D_FS 8087",
             "description": "Seminar in selected topics in human development and family science.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -1288,7 +1288,7 @@
         },
         {
             "name": "Research in Human Development and Family Science",
-            "number": "8090",
+            "number": "H_D_FS 8090",
             "description": "Independent research not leading to a thesis. Report required.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -1297,7 +1297,7 @@
         },
         {
             "name": "Foundations and Principles of Family and Community Services",
-            "number": "8100",
+            "number": "H_D_FS 8100",
             "description": "This course provides an introduction to the field of family studies and related professions that involve working with individuals and families in communities.  This course is designed to provide a foundation of knowledge that students will need in the Great Plains IDEA family and Community Services program.   This course is organized around theory, research, and practice of Family Studies.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1306,7 +1306,7 @@
         },
         {
             "name": "Developmental Perspectives on Health and Illness",
-            "number": "8110",
+            "number": "H_D_FS 8110",
             "description": "Seminar on child and adolescent development as applied to illness and hospitalization, with a focus on applying psychosocial research and theory in work with pediatric populations.  Graded on A-F only.  May be repeated for credit.",
             "prerequisites": "instructor consent; coursework in human development and experience with pediatric populations",
             "hours": "3",
@@ -1315,7 +1315,7 @@
         },
         {
             "name": "Research Methods in Human Development and Family Science",
-            "number": "8200",
+            "number": "H_D_FS 8200",
             "description": "Examination of the rationale for conducting scientific research; various research methods pertinent to the study of individuals over the life span, close relationships, marriages, and families; hypothesis formulation; selection of appropriate designs, instrumentation, and analysis.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1324,7 +1324,7 @@
         },
         {
             "name": "Theories of Human Development",
-            "number": "8210",
+            "number": "H_D_FS 8210",
             "description": "Major theories of life span human development. Attention given to structure, content, and major research critiqued for theoretical strengths.",
             "prerequisites": "6 hours of 300-level Behavioral Sciences courses or instructor's consent",
             "hours": "3",
@@ -1333,7 +1333,7 @@
         },
         {
             "name": "Family Theories",
-            "number": "8220",
+            "number": "H_D_FS 8220",
             "description": "Reviews existing family theories, their assumptions, values, propositions, and applications. Examines processes of theory testing and construction and linkages between theory and research.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1342,7 +1342,7 @@
         },
         {
             "name": "Gerontechnology",
-            "number": "8221",
+            "number": "H_D_FS 8221",
             "description": "Population aging is combining with technological advancement to create and change the world of modern older people, their families, and their communities.  This course takes an interdisciplinary approach to the understanding of the biological, environmental, and social spheres where technology and gerontology meet.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1351,7 +1351,7 @@
         },
         {
             "name": "Creativity and Aging",
-            "number": "8222",
+            "number": "H_D_FS 8222",
             "description": "What happens to creativity as a person ages?  This unique class will help students to understand developmental and pathological changes in the brain that can lead to changes in creative output over time.  Through hands-on experiences and direct association with older adults, students will grow an appreciation for creativity produced and inspired by older people.  This course is intended to provide experiences that will help the student to be able to create art programs for older adults.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1360,7 +1360,7 @@
         },
         {
             "name": "Management and Leadership",
-            "number": "8231",
+            "number": "H_D_FS 8231",
             "description": "This course serves as an overview of management and leadership concepts related to the operational and administrative competencies necessary in effective community-based family and youth organizations and agencies.  It is designed to provide students with foundational skills and knowledge to manage day-to-day functions related to organizational systems such as human resource management, financial management, risk management, strategic planning, governance and advisory structures, and marketing.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1369,7 +1369,7 @@
         },
         {
             "name": "Youth Professionals as Consumers of Research",
-            "number": "8232",
+            "number": "H_D_FS 8232",
             "description": "This course will help youth development professionals understand and evaluate the quality of research reports.  Students will learn the basics of quantitative and qualitative research approaches that will enable them to understand, evaluate, and critique research articles reported in newspaper, journals or other sources.    Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1378,7 +1378,7 @@
         },
         {
             "name": "Adolescents and their Families",
-            "number": "8234",
+            "number": "H_D_FS 8234",
             "description": "This course explores adolescent development in the context of the family.  The bi-directional influences between adolescents and their families will be examined.  Implications for professionals working with youth and families will be explored and highlighted.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1387,7 +1387,7 @@
         },
         {
             "name": "Administration and Program Management",
-            "number": "8235",
+            "number": "H_D_FS 8235",
             "description": "This course introduces students to the development, administration and management of youth-serving organizations.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1396,7 +1396,7 @@
         },
         {
             "name": "Federal and State Policies that Impact Youth Development",
-            "number": "8236",
+            "number": "H_D_FS 8236",
             "description": "This course examines various federal and state policies that effect developmental opportunities for youth.  Course participants will also examine not only how policies are developed, but also why.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1405,7 +1405,7 @@
         },
         {
             "name": "Youth Cultures and the Cultures of Youth",
-            "number": "8237",
+            "number": "H_D_FS 8237",
             "description": "This course examines the cultural contexts that affect youth from within and outside the family.  Students will study social, ethnic, and educational processes that affect youth, and they will examine how history has shaped the current cultural climate of the U.S.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1414,7 +1414,7 @@
         },
         {
             "name": "Program Design, Implementation and Evaluation",
-            "number": "8238",
+            "number": "H_D_FS 8238",
             "description": "The course will discuss program design, implementation, and outcome evaluation.  This course will focus on planning, designing logic models, and evaluating program.  Students will evaluate a community-based project.",
             "prerequisites": "graduate standing required.  Priority given to students in the Great Plains Idea Group master's and certificate programs",
             "hours": "3",
@@ -1423,7 +1423,7 @@
         },
         {
             "name": "Community Youth Development",
-            "number": "8239",
+            "number": "H_D_FS 8239",
             "description": "This course focuses on community youth development from a strength-based or developmental asset approach.  This approach encompasses both individual development and interrelationships with social environments.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1432,7 +1432,7 @@
         },
         {
             "name": "Youth Development",
-            "number": "8240",
+            "number": "H_D_FS 8240",
             "description": "This course introduces the developmental period of adolescence.  Emphasis will be on developmental tasks of this life stage and influences of family and home, school, peers and other contextual forces.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1441,7 +1441,7 @@
         },
         {
             "name": "Perspectives in Gerontology",
-            "number": "8251",
+            "number": "H_D_FS 8251",
             "description": "An overview of current aging issues including the prevailing focus of gerontology theory and research, critical social and political issues in aging, the interdisciplinary focus of gerontology, career opportunities, and aging in the future.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1450,7 +1450,7 @@
         },
         {
             "name": "Physical Health in Aging",
-            "number": "8253",
+            "number": "H_D_FS 8253",
             "description": "This course identifies the basic physiologic changes during aging and their effects on health and disease.  The focus will be on successful aging with special emphasis on physical activity and nutrition.  Practical application to community settings is addressed.  Priority given to students in the Great Plains Idea Group master's and certificate program.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1459,7 +1459,7 @@
         },
         {
             "name": "Gerontology Research Methods and Program Evaluation",
-            "number": "8254",
+            "number": "H_D_FS 8254",
             "description": "Overview of program evaluation, research methods and grant writing in gerontology.  Includes application of quantitative and qualitative methods in professional settings.  Priority given to students in the Great Plains Idea Group master's and certificate programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1468,7 +1468,7 @@
         },
         {
             "name": "Professional Seminar in Gerontology",
-            "number": "8258",
+            "number": "H_D_FS 8258",
             "description": "An integrative experience for gerontology students designed to be taken near the end of the degree program.  By applying knowledge gained in earlier course work, students strengthen skills in ethical decision-making behavior, apply these skills in gerontology-related areas such as advocacy, professionalism, family and workplace issues.",
             "prerequisites": "Completion of all other gerontology program coursework.  Priority given to students in the Great Plains Idea Group master's and certificate programs",
             "hours": "3",
@@ -1477,7 +1477,7 @@
         },
         {
             "name": "Advanced Seminar on Multicultural Families",
-            "number": "8300",
+            "number": "H_D_FS 8300",
             "description": "Advanced study of multicultural (racial, ethnic, social) families within American society. Attention is focused on each group's unique cultural heritage and social environment.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1486,7 +1486,7 @@
         },
         {
             "name": "Programs for Young Children",
-            "number": "8400",
+            "number": "H_D_FS 8400",
             "description": "An examination of program models that serve as a framework for curriculum in programs for children birth through age 5.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1495,7 +1495,7 @@
         },
         {
             "name": "Cognitive Development",
-            "number": "8420",
+            "number": "H_D_FS 8420",
             "description": "(same as PSYCH 8420). Study of the development of reasoning, perception and language.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1504,7 +1504,7 @@
         },
         {
             "name": "Temperament and Personality Development",
-            "number": "8430",
+            "number": "H_D_FS 8430",
             "description": "(same as PSYCH 8430). Intended for graduate students in psychology and related fields.  This course is a survey of theory and research in the area of temperament and personality development, with emphasis on child development. Prerequisitse: instructor's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1513,7 +1513,7 @@
         },
         {
             "name": "Social and Emotional Development",
-            "number": "8440",
+            "number": "H_D_FS 8440",
             "description": "(same as PSYCH 8440). Seminar on emotional and social development in children, with focus on research and theory on the impact of various family, school, and societal factors.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1522,7 +1522,7 @@
         },
         {
             "name": "Adolescence and Emerging Adulthood",
-            "number": "8450",
+            "number": "H_D_FS 8450",
             "description": "Seminar on development during adolescence and emerging adulthood from biological, cognitive, psychsocial, and cultural perspectives, and with a focus on health-related attitudes and behaviors.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1531,7 +1531,7 @@
         },
         {
             "name": "Life Course Perspective",
-            "number": "8460",
+            "number": "H_D_FS 8460",
             "description": "Seminar on the life course perspective, an interdisciplinary approach to the study of lives over time and the interplay between human lives and social institutions. Deals with how individual lives are shaped by social change and social structure.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1540,7 +1540,7 @@
         },
         {
             "name": "Identity Development",
-            "number": "8470",
+            "number": "H_D_FS 8470",
             "description": "Uses an Eriksonian framework to explore research regarding developmental tasks related to identity, such as attachment, self-esteem, moral behavior, achievement, and the formation of an abstract sense of self.  Also considers such issues as gender identity, ethnic identity, and sexual identity.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1549,7 +1549,7 @@
         },
         {
             "name": "Prosocial and Moral Development",
-            "number": "8500",
+            "number": "H_D_FS 8500",
             "description": "The course objective is to increase the understanding of the study of morality from psychological and developmental perspectives and the critical integration of theoretical, methodological, and empirical issues in moral psychology. It will also cover understanding the relevance of moral concepts and findings to other areas of study, policy contexts, and applied settings. Students will provide a written, integrative literature review and research proposal related to the course topic. Graded on A-F basis only.",
             "prerequisites": "Instructor's consent",
             "hours": "3",
@@ -1558,7 +1558,7 @@
         },
         {
             "name": "Parenting Education",
-            "number": "8510",
+            "number": "H_D_FS 8510",
             "description": "Study of theories, models, research and skills regarding parenting effectiveness and parent-child relations in the context of Western and Eastern cultures.  Included are comparisons of the relative strengths and weaknesses of various parenting approaches, historical perspective on parenthood and children, parenting roles, strategies for contemporary parenting, developmental interaction from infancy through adulthood and selected special concerns of parents.  A Bio-Ecological Systems approach will be utilized in this course.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1567,7 +1567,7 @@
         },
         {
             "name": "Lifespan Development",
-            "number": "8520",
+            "number": "H_D_FS 8520",
             "description": "This course covers the human development including the cognitive, social-emotional, motor, language, and moral domains from both a lifespan and a bio-ecological perspective.  Course content focuses on the major theories of development as well as current research on the micro-macro interrelationship.  Students who complete this course will have a better understanding of individual human developmental processes and their relationship with context and within family and community matters.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1576,7 +1576,7 @@
         },
         {
             "name": "Remarriage & Stepfamilies: Development, Dynamics, & Intervention",
-            "number": "8610",
+            "number": "H_D_FS 8610",
             "description": "The processes of remarriage and reconstituted family dynamics; special developmental needs and intervention models will be studied. The impact on children is considered.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1585,7 +1585,7 @@
         },
         {
             "name": "Work and Family",
-            "number": "8620",
+            "number": "H_D_FS 8620",
             "description": "Study of the interaction between paid labor, unpaid labor, and the American family. Heavy concentration is placed on the roles gender, race, and history play is the workplace and in the home.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1594,7 +1594,7 @@
         },
         {
             "name": "Gendered Relations in Families",
-            "number": "8630",
+            "number": "H_D_FS 8630",
             "description": "(same as WGST 8630).  From a feminist perspective, the roles of gender in shaping family life experience and of family life experience in shaping gender will be explored.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1603,7 +1603,7 @@
         },
         {
             "name": "Family Interaction",
-            "number": "8640",
+            "number": "H_D_FS 8640",
             "description": "Examination of intrafamilial interaction.  Includes an overview of theories used to study family interaction, critical review of the assessment of family interaction; and examination of contemporary research on family interaction focusing on intra and inter-generational relationships.",
             "prerequisites": "H_D_FS 1600 and H_D_FS 2200 or equivalent; or instructor's consent",
             "hours": "3",
@@ -1615,7 +1615,7 @@
         },
         {
             "name": "Children, Families and Public Policy",
-            "number": "8710",
+            "number": "H_D_FS 8710",
             "description": "Seminar on societal issues relating to children and families, with focus on the development of public policies.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1624,7 +1624,7 @@
         },
         {
             "name": "Poverty",
-            "number": "8770",
+            "number": "H_D_FS 8770",
             "description": "Implications of poverty for child, adult, and family functioning.  Poverty-related policies and programs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1633,7 +1633,7 @@
         },
         {
             "name": "Readings in Human Development and Family Science",
-            "number": "8960",
+            "number": "H_D_FS 8960",
             "description": "Readings in recent research; critical evaluation.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1642,7 +1642,7 @@
         },
         {
             "name": "Internship in Human Development and Family Science",
-            "number": "8972",
+            "number": "H_D_FS 8972",
             "description": "Internships and/or field training experiences under supervision.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1651,7 +1651,7 @@
         },
         {
             "name": "Research in Human Development and Family Science",
-            "number": "9090",
+            "number": "H_D_FS 9090",
             "description": "Independent research leading to thesis or dissertation. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -1660,7 +1660,7 @@
         },
         {
             "name": "Teaching Practicum",
-            "number": "9100",
+            "number": "H_D_FS 9100",
             "description": "Supervised experience in teaching various audiences, including college students, professionals, and community residents. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "2-6",
@@ -1669,7 +1669,7 @@
         },
         {
             "name": "Writing Research Proposals",
-            "number": "9130",
+            "number": "H_D_FS 9130",
             "description": "(same as NURSE 9132) This course teaches the components of writing a research proposal for external funding.  Graded on S/U basis only",
             "prerequisites": "H_D_FS  9200 and graduate level statistics course; instructor's consent;  PhD Students only",
             "hours": "3",
@@ -1680,7 +1680,7 @@
         },
         {
             "name": "Responsible Conduct of Research in Health and Social Sciences",
-            "number": "9131",
+            "number": "H_D_FS 9131",
             "description": "(same as NURSE 9131). This course examines professional research ethics including the rights of human subjects.  Graded on an S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -1689,7 +1689,7 @@
         },
         {
             "name": "Advanced Research Methods in Human Development and Family Science",
-            "number": "9200",
+            "number": "H_D_FS 9200",
             "description": "(same as NURSE 9410).  Examination of issues related to the study of individuals and their families: measurement, designs, and interpretation of statistical analyses. Statistics are placed in perspective through readings and discussions of the relationships between theory, research design, and data analyses.",
             "prerequisites": "H_D_FS 8200 or instructor's consent",
             "hours": "3",
@@ -1700,7 +1700,7 @@
         },
         {
             "name": "Research Practicum in Human Development and Family Science",
-            "number": "9210",
+            "number": "H_D_FS 9210",
             "description": "Independent research activities in conjunction with faculty. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "2-6",
@@ -1709,7 +1709,7 @@
         },
         {
             "name": "Macro Social Theory",
-            "number": "9400",
+            "number": "H_D_FS 9400",
             "description": "(same as SOC_WK 9400). An in-depth examination of human development and social environmental theories appropriate to social welfare practice in formal organizations, interorganizational combinations, communities, and larger political entities.  Students may not receive credit for both H_D_FS 9400 and SOC_WK 9400.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1718,7 +1718,7 @@
         },
         {
             "name": "Qualitative Methods",
-            "number": "9420",
+            "number": "H_D_FS 9420",
             "description": "(same as NURSE 9420).  Examines the following selected qualitative research approaches appropriate for the study of nursing phenomena and the extension or modification of scientific knowledge so as to be relevant to nursing: case study research methods, verbal qualitative approaches, and nonverbal qualitative approaches. Graded on A-F basis only.",
             "prerequisites": "NURSE 7150 and doctoral status (or permission of faculty)",
             "hours": "3",
@@ -1729,7 +1729,7 @@
         },
         {
             "name": "Meta Analysis Research",
-            "number": "9550",
+            "number": "H_D_FS 9550",
             "description": "(same as NURSE 9550). Examines quantitative synthesis including research questions, search strategies, coding issues, meta-analysis statistical procedures, and interpretation of findings. Emphasizes conceptual understanding and practical methods. Graded on A-F only basis.",
             "prerequisites": "6 hours of graduate statistics; H_D_FS 9200 or graduate level quantitative methods course",
             "hours": "3",
@@ -1740,7 +1740,7 @@
         },
         {
             "name": "Qualitative Systematic Reviews",
-            "number": "9560",
+            "number": "H_D_FS 9560",
             "description": "(same as SOC_WK 9560 and NURSE 9560). Examine and carry out elements of qualitative  systematic reviews: topic/problem identification, data collection, and analysis. Understand how to limit threats to validity and maximize generalizability.",
             "prerequisites": "H_D_FS 9420 or equivalent",
             "hours": "3",
@@ -1751,7 +1751,7 @@
         },
         {
             "name": "Social Welfare Policy Seminar",
-            "number": "9700",
+            "number": "H_D_FS 9700",
             "description": "(same as SOC_WK 9700) Critical examination of comparative models of social policy development; preparation of a professional social work policy analysis in the student's area of interest/specialization.",
             "prerequisites": "None Listed",
             "hours": "3",

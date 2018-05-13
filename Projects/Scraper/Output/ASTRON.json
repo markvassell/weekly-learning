@@ -4,25 +4,31 @@
     "courses": [
         {
             "name": "Introduction to Astronomy",
-            "number": "1010",
+            "number": "ASTRON 1010",
             "description": "Survey of methods of astronomy; description of the solar system, stellar astronomy, structure of the galaxy and the universe. Three hours of lecture and one hour of lab per week (scheduled by the instructor).  Satisfies physical science laboratory requirement.  Laboratory section: Survey of astronomical methods, instruments, observations and measurement techniques.",
             "prerequisites": "None Listed",
             "hours": "4",
             "recommendation": "MATH 1100 or MATH 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "MATH 1100",
+                "MATH 1120"
+            ]
         },
         {
             "name": "Introduction to Laboratory Astronomy",
-            "number": "1020",
+            "number": "ASTRON 1020",
             "description": "Laboratory supplement to Astronomy 1010. Satisfies physical science laboratory requirement. Survey of astronomical methods, instruments, observations and measurement techniques.",
             "prerequisites": "None Listed",
             "hours": "2",
             "recommendation": "MATH 1100 or MATH 1120",
-            "connections": "None Listed"
+            "connections": [
+                "MATH 1100",
+                "MATH 1120"
+            ]
         },
         {
             "name": "Introduction to Modern Astrophysics",
-            "number": "3010",
+            "number": "ASTRON 3010",
             "description": "(same as PHYSCS 3010). Elements of stellar, and galactic astrophysics. Interpretation of observations and physical conditions of various astronomical objects including stars, gaseous nubulea and, galaxies.",
             "prerequisites": "PHYSCS 2760",
             "hours": "3",
@@ -33,7 +39,7 @@
         },
         {
             "name": "Astrophysical Techniques",
-            "number": "4020",
+            "number": "ASTRON 4020",
             "description": "(same as PHYSCS 4020; cross-leveled with ASTRON 7020, PHYSCS 7020). Elements of modern astronomical instruments, observations and analysis, with the emphasis in the optical regime. Graded on A-F basis only.",
             "prerequisites": "PHYSCS 2760",
             "hours": "3",
@@ -44,19 +50,20 @@
         },
         {
             "name": "Solar System Science",
-            "number": "4180",
+            "number": "ASTRON 4180",
             "description": "(same as PHYSCS 4180, GEOL 4180; cross-leveled with ASTRON 7180, PHYSCS 7180, GEOL 7180).  Investigates physical states, interior structures and comparative geology of solar systems bodies:  planets, moons, asteroids, comets, sun. Solar system formation and evolution.",
             "prerequisites": "PHYSCS 2760 or PHYSCS 1220 or instructor's consent",
             "hours": "3",
             "recommendation": "MATH 1700",
             "connections": [
                 "PHYSCS 2760",
-                "PHYSCS 1220"
+                "PHYSCS 1220",
+                "MATH 1700"
             ]
         },
         {
             "name": "Stellar Astrophysics",
-            "number": "4250",
+            "number": "ASTRON 4250",
             "description": "(same as PHYSCS 4250). Basic astrophysics of stable and unusual stars, stellar systems. Investigates stellar dimensions, radiation, spectra, energy, evolution, populations; interstellar medium, stellar motions and aggregation.",
             "prerequisites": "PHYSCS 3150 or instructor's consent",
             "hours": "3",
@@ -67,18 +74,19 @@
         },
         {
             "name": "Galactic Astronomy",
-            "number": "4350",
+            "number": "ASTRON 4350",
             "description": "(same as PHYSCS 4350). Observational properties of normal galaxies and clusters of galaxies, Seyfert and emission-line structure and dynamics of galaxies; interacting galaxies, quasi-steller objects. Introduction to cosmology.",
             "prerequisites": "PHYSCS 3010 or instructor's consent",
             "hours": "3",
             "recommendation": "PHYSCS 4140",
             "connections": [
-                "PHYSCS 3010"
+                "PHYSCS 3010",
+                "PHYSCS 4140"
             ]
         },
         {
             "name": "Extragalactic Astronomy",
-            "number": "4360",
+            "number": "ASTRON 4360",
             "description": "(same as PHYSCS 4360; cross-leveled with ASTRON 7360).  This course introduces students to the most basic knowledge of extragalactic astronomy, starting from Milky Way and extending to the most distant universe.  Topics covered will include galaxy morphology and classification, groups and clusters of galaxies, active galactic nuclei, and galaxy formation and evolution.",
             "prerequisites": "PHYSCS 2760",
             "hours": "3",
@@ -89,7 +97,7 @@
         },
         {
             "name": "Interstellar Medium",
-            "number": "4460",
+            "number": "ASTRON 4460",
             "description": "(same as PHYSCS 4460). The course discusses observational properties and physical and chemical processes occurring in the interstellar medium.  Topics include interstellar diffuse and molecular clouds, HII regions, dust grains, interstellar chemistry, star formation, supernova remnants, and interstellar shock waves.",
             "prerequisites": "PHYSCS 2760",
             "hours": "3",
@@ -100,7 +108,7 @@
         },
         {
             "name": "Cosmochemistry",
-            "number": "4550",
+            "number": "ASTRON 4550",
             "description": "(same as PHYSCS 4550; cross-leveled with ASTRON 7550, PHYSICS 7550).  Cosmic dust, stardust, spectra, energy, interstellar medium, meteorites, astromineralogy.",
             "prerequisites": "PHYSCS 2760 or PHYSCS 1220 or instructor's consent",
             "hours": "3",
@@ -112,7 +120,7 @@
         },
         {
             "name": "Undergraduate Research in Astronomy",
-            "number": "4950",
+            "number": "ASTRON 4950",
             "description": "Special studies in astronomy; covers subjects not included in courses regularly offered.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -121,7 +129,7 @@
         },
         {
             "name": "Senior Thesis in Astronomy",
-            "number": "4960",
+            "number": "ASTRON 4960",
             "description": "Special studies for senior undergraduate students in astronomy. The course requires an oral or poster presentations, or faculty-guided writing of a senior thesis involving independent research. Departmental consent required for repetition.  Enrollment limited to students who have completed 3 credit hours of ASTRON 4950 or PHYSCS 4950.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -130,7 +138,7 @@
         },
         {
             "name": "Astrophysical Techniques",
-            "number": "7020",
+            "number": "ASTRON 7020",
             "description": "(same as PHYSCS 7020; cross-leveled with ASTRON 4020, PHYSCS 4020). Elements of modern astronomical instruments, observations and analysis, with the emphasis in the optical regime. Graded on A-F basis only.",
             "prerequisites": "PHYSCS 2760",
             "hours": "3",
@@ -141,7 +149,7 @@
         },
         {
             "name": "Solar System Science",
-            "number": "7180",
+            "number": "ASTRON 7180",
             "description": "(same as PHYSCS 7180, GEOL 7180; cross-leveled with ASTRON 4180, PHYSCS 4180, GEOL 4180).  Investigates physical states, interior structures and comparative geology of solar systems bodies:  planets, moons, asteroids, comets, sun. Solar system formation and evolution.",
             "prerequisites": "PHYSCS 1220 or PHYSCS 2760 or instructor's consent",
             "hours": "3",
@@ -153,7 +161,7 @@
         },
         {
             "name": "Extragalactic Astronomy",
-            "number": "7360",
+            "number": "ASTRON 7360",
             "description": "(same as PHYSCS 7360; cross-leveled with ASTRON 4360, PHYSICS 4360). This course introduces students to the most basic knowledge of extragalactic astronomy, starting from Milky Way and extending to the most distant universe.  Topics covered will include galaxy morphology and classification, groups and clusters of galaxies, active galactic nuclei, and galaxy formation and evolution.",
             "prerequisites": "PHYSCS 2760",
             "hours": "3",
@@ -164,7 +172,7 @@
         },
         {
             "name": "Cosmochemistry",
-            "number": "7550",
+            "number": "ASTRON 7550",
             "description": "(same as PHYSCS 7550; cross-leveled with ASTRON 4550, PHYSCS 4550).  Chemistry of cosmic dust and molecules.",
             "prerequisites": "PHYSCS 2760 or PHYSCS 1220; instructor's consent",
             "hours": "3",
@@ -176,7 +184,7 @@
         },
         {
             "name": "Interstellar Medium",
-            "number": "7750",
+            "number": "ASTRON 7750",
             "description": "(same as PHYSCS 7750; cross-leveled with ASTRON 4750, PHYSCS 4750). The course discusses observational properties and physical and chemical processes occurring in the interstellar medium.  Topics include interstellar diffuse and molecular clouds, HII regions, dust grains, interstellar chemistry, star formation, supernova remnants, and interstellar shock waves.",
             "prerequisites": "PHYSCS 1220 or PHYSCS 2760",
             "hours": "3",
@@ -188,7 +196,7 @@
         },
         {
             "name": "Topics in Astronomy and Astrophysics",
-            "number": "8301",
+            "number": "ASTRON 8301",
             "description": "(same as PHYSCS 8301). Selected topics from solar system, stellar galactic and extragalactic astronomy and astrophysics. May be repeated to a maximum of 6 hours.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -197,7 +205,7 @@
         },
         {
             "name": "College Science Teaching",
-            "number": "8310",
+            "number": "ASTRON 8310",
             "description": "(same as PHYSCS 8310, BIO_SC 8724 and LTC 8724). Study of learner characteristics, teaching strategies, and research findings related to teaching science at the post-secondary level.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -206,7 +214,7 @@
         },
         {
             "name": "Stellar Structure and Evolution",
-            "number": "8550",
+            "number": "ASTRON 8550",
             "description": "(same as PHYSCS 8550). Reviews of atomic and molecular spectra. Investigates quantum radiation law, emission and absorption processes, radiation transfer theory, continuous and discrete line spectra of stars, stellar composition.",
             "prerequisites": "ASTRON 4250, PHYSCS 4800, or instructor's consent",
             "hours": "3",

@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introduction to Occupational Therapy",
-            "number": "1000",
+            "number": "OC_THR 1000",
             "description": "Introductory course to provide students information about the occupational therapy profession. Registered therapists lecture on clinical aspects. Students participate in discussions on program requirements, placement, and trends in the profession.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Topics in Occupational Therapy",
-            "number": "2001",
+            "number": "OC_THR 2001",
             "description": "Organized study of selective topics in occupational therapy. Particular topics and credit hours may vary from semester to semester.  Repeatable upon consent of department.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Problems in Occupational Therapy",
-            "number": "2085",
+            "number": "OC_THR 2085",
             "description": "Independent investigation leading to the completion of a project or paper.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Topics in Occupational Therapy",
-            "number": "4001",
+            "number": "OC_THR 4001",
             "description": "Organized study of selective topics in occupational therapy. Particular topics and credit hours may vary from semester to semester.   Repeatable upon consent of department.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Problems in Occupational Therapy",
-            "number": "4085",
+            "number": "OC_THR 4085",
             "description": "Independent investigation leading to the completion of a project or paper.   Repeatable upon consent of department.",
             "prerequisites": "Instructor's consent",
             "hours": "1-99",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Clinical Kinesiology",
-            "number": "4220",
+            "number": "OC_THR 4220",
             "description": "(same as PH_THR 4250). This course for occupational therapy students examines the musculoskeletal system with special emphasis in body movements and the application of laws and biomechanical principles that govern movement in order to select and perform effective occupation-based treatment. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Applied Neurophysiology for Allied Health Students",
-            "number": "4240",
+            "number": "OC_THR 4240",
             "description": "(same as PH_THR 4240; cross-leveled with OC_THR 7240, PHY_THR 7240). Principles of basic neurophysiology, emphasizing correlation of structure and function of the nervous system. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Clinical Pathophysiology",
-            "number": "4270",
+            "number": "OC_THR 4270",
             "description": "(same as PH_THR 4270; cross-leveled with PH_THR 7270, OC_THR 7270).  Interdisciplinary and case-based examination of the pathophysiology, prevention and general health management of disease/injury across the lifespan encountered in occupational and physical therapy practice.   Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Foundations and Theory in Occupational Therapy",
-            "number": "4310",
+            "number": "OC_THR 4310",
             "description": "(cross-leveled with OC_THR 7310). History, contemporary practice, conceptual foundations, professional organizations and official documents of the OT profession are presented. Activity analysis, adaptation, and assistive technology are introduced in the context of promoting health and occupational participation. Graded on A-F only basis.",
             "prerequisites": "Restricted to Occupational Therapy students only",
             "hours": "4",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Adult Practice",
-            "number": "4350",
+            "number": "OC_THR 4350",
             "description": "(cross-leveled with OC_THR 7350). Analysis of major disability areas from an occupational perspective. Administration and interpretation of assessments and application of treatment theories and approaches for deficits in movement, sensation, cognition and perception.  Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy Students only",
             "hours": "4",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Principles of Assessment",
-            "number": "4390",
+            "number": "OC_THR 4390",
             "description": "(cross-leveled with OC_THR 7390). This course provides foundational knowledge of the occupational therapy evaluation process, including an understanding and application of practice theories and framework, an introduction and overview of psychometric properties of assessments and various types of assessments used throughout occupational therapy practice, and developing and using clinical reasoning to select assessments to determine limitations in occupational performance with individuals throughout the lifespan.  Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy students only",
             "hours": "4",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Human Development and Occupations I",
-            "number": "4420",
+            "number": "OC_THR 4420",
             "description": "(cross-leveled with OC_THR 7420). Overview of typical development from infancy through adolescence from an occupational perspective.  Emphasis on the impact of personal and contextual factors on occupational development in children and adolescents.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Fieldwork I - Occupations I",
-            "number": "4422",
+            "number": "OC_THR 4422",
             "description": "(cross-leveled with OC_THR 7422). Development of clinical observation skills via on-site observation of children with typical and atypical development.  Opportunities to develop professional behaviors, gather and organize data, plan and implement activities, and develop therapeutic relationships with children, care providers, and other team members.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1Recommended: Occupational Therapy students only",
@@ -121,7 +121,7 @@
         },
         {
             "name": "Pediatric Practice",
-            "number": "4450",
+            "number": "OC_THR 4450",
             "description": "Lecture and laboratory course designed which addresses Occupational Therapypediatric frames of reference and theories.  Common conditions seen in Occupational Therapy practice as well as interventions such as feeding, positioning, facilitation of movement and sensory strategies are also addressed.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -130,7 +130,7 @@
         },
         {
             "name": "Human Development and Occupations II",
-            "number": "4620",
+            "number": "OC_THR 4620",
             "description": "(cross-leveled with OC_THR 7620). Overview of biopsychosocial development and the aging process from young adulthood through older adulthood from an occupational perspective. Emphasis on the impact of client and contextual factors on occupational development and loss of occupations throughout the adult lifespan.  Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy students only",
             "hours": "2",
@@ -139,7 +139,7 @@
         },
         {
             "name": "Fieldwork I - Occupations II",
-            "number": "4622",
+            "number": "OC_THR 4622",
             "description": "(cross-leveled with OC_THR 7622). Development of evaluation and intervention skills via on-site interaction with older adults in a residential facility. Opportunities to gather data, plan/implement activities, document client performance, and develop therapeutic relationships with older adults and care providers. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1Recommended: Restricted to Occupational Therapy students only",
@@ -148,7 +148,7 @@
         },
         {
             "name": "Principles of Intervention",
-            "number": "4650",
+            "number": "OC_THR 4650",
             "description": "(cross-leveled with OC_THR 7650). This course provides a foundation to understanding common frames of reference and theory utilized in occupational therapy. Application of these frames of reference and theories will be utilized to assist students in the program to understand common conditions, their influence on health and wellness, and systematic ways to begin provision of intervention for future clinical practice.  Principles of intervention will be discussed across a variety of ages and conditions as a frame to understanding human occupation and ways to support meaningful participation.  Graded on A-F basis only.",
             "prerequisites": "OC_THR 4310 and  OC_THR 4520",
             "hours": "4",
@@ -160,7 +160,7 @@
         },
         {
             "name": "Musculoskeletal Intervention",
-            "number": "4670",
+            "number": "OC_THR 4670",
             "description": "(cross-leveled with OC_THR 7670). To gain entry level skills needed to evaluate and treat common upper extremity conditions, including acute injuries and cumulative trauma disorders. Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy Students only",
             "hours": "2",
@@ -169,7 +169,7 @@
         },
         {
             "name": "Functional Cognition",
-            "number": "4750",
+            "number": "OC_THR 4750",
             "description": "(cross-leveled with OC_THR 7750). This course provides an overview of theoretical models of cognitive function, an overview of an occupational therapy cognitive assessment framework and assessment tools, and an introduction to models of intervention for working with individuals with cognitive disabilities across the lifespan.    Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy Majors",
             "hours": "2",
@@ -178,7 +178,7 @@
         },
         {
             "name": "Community-Based Practice",
-            "number": "4770",
+            "number": "OC_THR 4770",
             "description": "Focus on role of occupational therapy in prevention, health and wellness.  Program development and evaluation completed through community needs assessment and completion of health promotion project.  Graded on A-F only basis.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -187,7 +187,7 @@
         },
         {
             "name": "Clinical Reasoning and Documentation",
-            "number": "4920",
+            "number": "OC_THR 4920",
             "description": "(cross-leveled with OC_THR 7921). Development of observation and assessment skills related to effective documentation of occupational therapy services.  Emphasizes exposure to various clinical settings, and third party payers, and legislative policies impacting documentation. Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy students only",
             "hours": "2",
@@ -196,7 +196,7 @@
         },
         {
             "name": "Fieldwork: Clinical",
-            "number": "4943",
+            "number": "OC_THR 4943",
             "description": "Clinical experience in occupational therapy settings. Emphasis on classroom to clinical transition.  Exposure to the occupational therapy process; assessment, planning, implementation.  Emphasis on professional communication and observational skills.   Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1Recommended: completion of 1st semester in major in professional curriculum; junior standing",
@@ -205,7 +205,7 @@
         },
         {
             "name": "Readings in Occupational Therapy",
-            "number": "4960",
+            "number": "OC_THR 4960",
             "description": "Directed readings of the literature and research in occupational therapy. Repeatable upon consent of department.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -214,7 +214,7 @@
         },
         {
             "name": "Research Methods",
-            "number": "4970",
+            "number": "OC_THR 4970",
             "description": "This course will use writing to explore basic concepts in research design and analysis. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -223,7 +223,7 @@
         },
         {
             "name": "Research Methods - Writing Intensive",
-            "number": "4970W",
+            "number": "OC_THR 4970W",
             "description": "This course will use writing to explore basic concepts in research design and analysis. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -232,7 +232,7 @@
         },
         {
             "name": "Research Project",
-            "number": "7000",
+            "number": "OC_THR 7000",
             "description": "Supervised experience in scientific investigation.  In this course students will develop hypotheses, establish protocols/procedures, collect/analyze data, and interpret results.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -241,7 +241,7 @@
         },
         {
             "name": "Topics in Occupational Therapy",
-            "number": "7001",
+            "number": "OC_THR 7001",
             "description": "Organized study of selected topics in occupational therapy. Particular topics and credit hours may vary from semester to semester.  Repeatable upon consent of department.  Course may be offered on S/U or A-F basis.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -250,7 +250,7 @@
         },
         {
             "name": "Research Project-Mentor Hours",
-            "number": "7005",
+            "number": "OC_THR 7005",
             "description": "Hours spent working with research mentor on research proposal. Emphasis on understanding project, designing project and collecting data for project.  May be repeated for credit. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1Corequisites: OC_THR 7000",
@@ -259,7 +259,7 @@
         },
         {
             "name": "Professional Issues",
-            "number": "7060",
+            "number": "OC_THR 7060",
             "description": "Introduction to the structures of the profession including professional associations, philosophical and ethical perspectives, the meaning of occupation and preparation for client contact.  Includes experiential instruction in surface anatomy and infection control. Graded on A-F basis only.",
             "prerequisites": "Acceptance into the occupational therapy program",
             "hours": "1",
@@ -268,7 +268,7 @@
         },
         {
             "name": "Problems in Occupational Therapy",
-            "number": "7085",
+            "number": "OC_THR 7085",
             "description": "Independent investigation leading to the completion of a project or paper.  Repeatable upon consent of department. May be offered on S/U or A-F basis.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -277,7 +277,7 @@
         },
         {
             "name": "Clinical Kinesiology",
-            "number": "7220",
+            "number": "OC_THR 7220",
             "description": "(same as PH_THR 7250).  This course for occupational therapy students examines the musculoskeletal system with special emphasis in body movement and the application of laws and biomechanical principles that govern movement in order to select and perform effective occupation-based treatment.  Acceptance into the occupational therapy program.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -286,7 +286,7 @@
         },
         {
             "name": "Applied Neurophysiology for the Allied Health Student",
-            "number": "7240",
+            "number": "OC_THR 7240",
             "description": "(same as PH_THR 7240; cross-leveled with OC_THR 4240, PH_THR 4240).  Principles of basic neurophysiology, emphasizing correlation of structure and function of the nervous system. Graded on A-F basis only",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -295,7 +295,7 @@
         },
         {
             "name": "Clinical Pathophysiology",
-            "number": "7270",
+            "number": "OC_THR 7270",
             "description": "(same as PH_THR 7270; cross-leveled with OC_THR 4270, PH_THR 4270). Interdisciplinary and case-based examination of the pathophysiology, prevention and general health management of disease/injury across the lifespan encountered in occupational and physical therapy practice. Graded on A-F basis only.",
             "prerequisites": "Admission to the Occupational Therapy Professional Program required",
             "hours": "3",
@@ -304,7 +304,7 @@
         },
         {
             "name": "Foundations and Theory in Occupational Therapy",
-            "number": "7310",
+            "number": "OC_THR 7310",
             "description": "(cross-leveled with OC_THR 4310). History, contemporary practice, conceptual foundations, professional organizations and official documents of the OT profession are presented. Activity analysis, adaptation, and assistive technology are introduced in the context of promoting health and occupational participation. Graded on A-F only basis.",
             "prerequisites": "Restricted to Occupational Therapy students only",
             "hours": "4",
@@ -313,7 +313,7 @@
         },
         {
             "name": "Adult Practice",
-            "number": "7350",
+            "number": "OC_THR 7350",
             "description": "(cross-leveled with OC_THR 4350). Analysis of major disability areas from an occupational perspective. Administration and interpretation of assessments and application of treatment theories and approached for deficits in movement, sensation, cognition, and perception. Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy Students only",
             "hours": "4",
@@ -322,7 +322,7 @@
         },
         {
             "name": "Lifespan Assessment",
-            "number": "7390",
+            "number": "OC_THR 7390",
             "description": "(cross-leveled with OC_THR 4390). Basic evaluation skills in occupational therapy practice across the lifespan are introduced.   This course provides an introduction of the essentials of occupational therapy evaluation: interviewing, screening, assessment, and report writing in general contexts across the lifespan.  Enrollees will also receive an introduction to basic clinical reasoning skills required for instrument selection, interpretation of findings, and application to treatment planning.  Graded on A-F basis only.",
             "prerequisites": "Restricted to occupational therapy students only",
             "hours": "4",
@@ -331,7 +331,7 @@
         },
         {
             "name": "Human Development and Occupations I",
-            "number": "7420",
+            "number": "OC_THR 7420",
             "description": "(cross-leveled with OC_THR 4420). Overview of typical development from infancy through adolescence from an occupational perspective.  Emphasis on the impact of personal and contextual factors on occupational development in children and adolescents.  Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy students only",
             "hours": "2",
@@ -340,7 +340,7 @@
         },
         {
             "name": "Fieldwork I - Occupations I",
-            "number": "7422",
+            "number": "OC_THR 7422",
             "description": "(cross-leveled with OC_THR 4422). Development of clinical observation skills via on-site observation of children with typical and atypical development.  Opportunities to develop professional behaviors, gather and organize data, plan and implement activities, and develop therapeutic relationships with children, care providers, and other team members.  Graded on S/U basis only.",
             "prerequisites": "Restricted to Occupational Therapy students only",
             "hours": "1",
@@ -349,7 +349,7 @@
         },
         {
             "name": "Pediatric Practice",
-            "number": "7450",
+            "number": "OC_THR 7450",
             "description": "Lecture and laboratory course designed which addresses Occupational Therapy pediatric frames of reference and theories.  Common conditions seen in Occupational Therapy practice as well as interventions such as feeding, positioning, facilitation of movement and sensory strategies are also addressed.   Graded on A-F basis only.",
             "prerequisites": "Admission to the Occupational Therapy professional program required",
             "hours": "4",
@@ -358,7 +358,7 @@
         },
         {
             "name": "Fundamentals of Occupational Therapy",
-            "number": "7520",
+            "number": "OC_THR 7520",
             "description": "This course will provide an overview of disability across the lifespan, including personal and professional interactions. Professional values, ethics and advocacy are also emphasized. Graded on A-F basis only.",
             "prerequisites": "Restricted to students who are currently enrolled in to the Occupational Therapy program",
             "hours": "4",
@@ -367,7 +367,7 @@
         },
         {
             "name": "Human Development and Occupations II",
-            "number": "7620",
+            "number": "OC_THR 7620",
             "description": "(cross-leveled with OC_THR 4620). Overview of biopsychosocial development and the aging process from young adulthood through older adulthood from an occupational perspective. Emphasis on the impact of client and contextual factors on occupational development and loss of occupations throughout the adult lifespan.  Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy students only",
             "hours": "2",
@@ -376,7 +376,7 @@
         },
         {
             "name": "Fieldwork I - Occupations II",
-            "number": "7622",
+            "number": "OC_THR 7622",
             "description": "(cross-leveled with OC_THR 4622). Development of evaluation and intervention skills via on-site interaction with older adults in a residential facility. Opportunities to gather data, plan/implement activities, document client performance, and develop therapeutic relationships with older adults and care providers.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1Recommended: Restricted to Occupational Therapy students only",
@@ -385,7 +385,7 @@
         },
         {
             "name": "Principles of Intervention",
-            "number": "7650",
+            "number": "OC_THR 7650",
             "description": "(cross-leveled with OC_THR 4650). This course provides a foundation to understanding common frames of reference and theory utilized in occupational therapy. Application of these frames of reference and theories will be utilized to assist students in the program to understand common conditions, their influence on health and wellness, and systematic ways to begin provision of intervention for future clinical practice.  Principles of intervention will be discussed across a variety of ages and conditions as a frame to understanding human occupation and ways to support meaningful participation.  Graded on A-F basis only.",
             "prerequisites": "OC_THR 4310 or OC_THR 7310 and OC_THR 4520 or OC_THR 7520.   Restricted to Occupational Therapy students only",
             "hours": "4",
@@ -399,7 +399,7 @@
         },
         {
             "name": "Musculoskeletal Intervention",
-            "number": "7670",
+            "number": "OC_THR 7670",
             "description": "(cross-leveled with OC_THR 4670). To gain entry level skills needed to evaluate and treat common upper extremity conditions, including acute injuries and cumulative trauma disorders. Graded on A-F basis only .",
             "prerequisites": "Restricted to Occupational Therapy Students only",
             "hours": "2",
@@ -408,7 +408,7 @@
         },
         {
             "name": "Functional Cognition",
-            "number": "7750",
+            "number": "OC_THR 7750",
             "description": "(cross-leveled with OC_THR 4750). This course provides an overview of theoretical models of cognitive function, an overview of an occupational therapy cognitive assessment framework and assessment tools, and an introduction to models of intervention for working with individuals with cognitive disabilities across the lifespan.    Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy Majors",
             "hours": "2",
@@ -417,7 +417,7 @@
         },
         {
             "name": "Community-Based Practice",
-            "number": "7770",
+            "number": "OC_THR 7770",
             "description": "Focus on role of occupational therapy in prevention, health and wellness.  Program development and evaluation completed through community needs assessment and completion of health promotion project.  Graded on A-F only basis.",
             "prerequisites": "Admission to the Occupational Therapy Professional Program",
             "hours": "3",
@@ -426,7 +426,7 @@
         },
         {
             "name": "Fieldwork I Application of Clinical Skills",
-            "number": "7920",
+            "number": "OC_THR 7920",
             "description": "Application of clinical reasoning.  Integration of theory into clinical practice.  Emphasis on treatment planning and implementation, outcome based intervention and professional communication.  Includes lecture, seminar, and field experience.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -435,7 +435,7 @@
         },
         {
             "name": "Clinical Reasoning and Documentation",
-            "number": "7921",
+            "number": "OC_THR 7921",
             "description": "(cross-leveled with OC_THR 4920). Development of observation and assessment skills related to effective documentation of occupational therapy services. Emphasizes exposure to various clinical settings, third party payers, and legislative policies impacting documentation.  Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy students only",
             "hours": "2",
@@ -444,7 +444,7 @@
         },
         {
             "name": "Readings in Occupational Therapy",
-            "number": "7960",
+            "number": "OC_THR 7960",
             "description": "Directed readings and critical evaluation of the literature and research in occupational therapy.  Repeatable upon consent of department.  May be offered on A-F or S/U basis.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -453,7 +453,7 @@
         },
         {
             "name": "Research Methods",
-            "number": "7970",
+            "number": "OC_THR 7970",
             "description": "This course will use writing to explore basic concepts in research design and analysis.  Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy Majors",
             "hours": "3",
@@ -462,7 +462,7 @@
         },
         {
             "name": "Fieldwork Level II-A",
-            "number": "7983",
+            "number": "OC_THR 7983",
             "description": "Advanced practicum in various community settings such as the school system, hospitals, rehabilitation centers and residential facilities.  Emphasis on hands-on experiences and translation of theory into practice. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "3-9",
@@ -471,7 +471,7 @@
         },
         {
             "name": "Fieldwork Level II-B",
-            "number": "7993",
+            "number": "OC_THR 7993",
             "description": "Advanced practicum in rehabilitation and various community settings for application of more specialized practice in community based settings.  Emphasis on critical analysis of human occupation, clinical reasoning, synthesis, and evidence based practice. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "3-9",
@@ -480,7 +480,7 @@
         },
         {
             "name": "Field Work 1 - Psychosocial Occupational Therapy Practice",
-            "number": "8000",
+            "number": "OC_THR 8000",
             "description": "Fieldwork experience in a setting focused on psychosocial aspects of occupational therapy, students to experience intervention in individual and group psychosocial treatments. Course may be repeated. Graded on A-F basis only.",
             "prerequisites": "Restricted to Occupational Therapy students onlyCorequisites: OC_THR 8003",
             "hours": "1",
@@ -491,7 +491,7 @@
         },
         {
             "name": "Leadership, Management and Policy",
-            "number": "8002",
+            "number": "OC_THR 8002",
             "description": "Management perspectives and organizational structure of occupational therapy services programs and the profession. Includes inter- and intra departmental relationships, management and supervision, standards, regulations, and ethical guidelines are emphasized.",
             "prerequisites": "None Listed",
             "hours": "2-3",
@@ -500,7 +500,7 @@
         },
         {
             "name": "Psychosocial Aspects of Occupational Therapy",
-            "number": "8003",
+            "number": "OC_THR 8003",
             "description": "This graduate course will examine the practice of occupational therapy in treating emotional and mental illnesses and related psychosocial dysfunction in the context of a variety of mental health treatment settings.  The course will cover advanced frames of reference, treatment strategies, assessments, service delivery, program planning and group facilitation.  In conjunction with didactic content students will actively explore these areas through hands on and practical learning experiences such as planning and leading groups, selecting and administering assessments, and developing a service delivery plan.  The student will be required to complete an assigned field experience and write a reflection paper to insight and new perspectives on mental illness.",
             "prerequisites": "Restricted to Occupational Therapy students only",
             "hours": "3",
@@ -509,7 +509,7 @@
         },
         {
             "name": "Advanced Adult Strategies",
-            "number": "8005",
+            "number": "OC_THR 8005",
             "description": "Analysis of major disability areas from an occupational perspective, focusing on advanced rehabilitative practice techniques.  Facilitates critical thinking and clinical reasoning skills utilizing a student-centered model.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -518,7 +518,7 @@
         },
         {
             "name": "Advanced Pediatric Strategies",
-            "number": "8006",
+            "number": "OC_THR 8006",
             "description": "Explore topics related to occupational therapy pediatric practice in medical and educational settings and advanced topics such as assistive technology, working with special populations and evidence based practice. Course graded on A-F basis only.",
             "prerequisites": "OC_THR 4420 or OC_THR 7420 and OC_THR 4450 or OC_THR 7450; Restricted to students in the Department of Occupational Therapy",
             "hours": "3",
@@ -532,7 +532,7 @@
         },
         {
             "name": "Problem-Based Cases",
-            "number": "8087",
+            "number": "OC_THR 8087",
             "description": "Synthesizes occupational therapy approaches to clinical scenarios across the lifespan and practice domains.  Integrates clinical reasoning, patient values and evidence-based decision making into the occupational therapy process.  Problem-based methodology emphasizes small group learning, problem solving, self/peer evaluation, and self-directed learning.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -541,7 +541,7 @@
         },
         {
             "name": "Synthesis Project",
-            "number": "8090",
+            "number": "OC_THR 8090",
             "description": "Write up scholarly manuscript for publication based on research conducted with research mentor.  Emphasis on writing:  introduction, literature review, analysis and interpretation of findings, and implication for field.  Presentation and dissemination of acquired information through poster session and manuscript.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -550,7 +550,7 @@
         },
         {
             "name": "Synthesis Project - Mentor Hours",
-            "number": "8095",
+            "number": "OC_THR 8095",
             "description": "Hours spent working with research mentor. Emphasis on data collection and analysis to complete synthesis project. Must be taken in conjunction with Synthesis Project course.",
             "prerequisites": "None Listed",
             "hours": "1Corequisites: OC_THR 8090.  Graded on S/U basis only",
@@ -559,7 +559,7 @@
         },
         {
             "name": "OT Clinical Practice I",
-            "number": "8950",
+            "number": "OC_THR 8950",
             "description": "Clinical course providing students with the occupational therapy process from assessment through discharge in a supervised setting. Course may be repeated. Graded on S/U basis only.",
             "prerequisites": "Restricted to Occupational Therapy Students only",
             "hours": "2",
@@ -568,7 +568,7 @@
         },
         {
             "name": "OT Clinical Practice II",
-            "number": "8999",
+            "number": "OC_THR 8999",
             "description": "This clinical course is designed to provide students an opportunity to advance skills in implementation of the occupational therapy process with individuals experiencing limitations in occupational performance. Through this hands-on experience, students will gain additional opportunities for application of theory, a deepened understanding of occupational therapy practice, and increase independence by identifying strengths and limitations during the evaluation process, developing and measuring client-centered goals, planning and executing interventions, implementing home programs, and preparing and performing discharge procedures.",
             "prerequisites": "Restricted to occupational therapy students only",
             "hours": "1",

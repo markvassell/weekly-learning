@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Topics in Animal Science",
-            "number": "1001",
+            "number": "AN_SCI 1001",
             "description": "Various courses offered on a preliminary basis to determine need for such offering prior to submission as a numbered course.  Various topics, credit arranged.  There may be prerequisites enforced depending on the topic.",
             "prerequisites": "None Listed",
             "hours": "1-4",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Animal Science",
-            "number": "1011",
+            "number": "AN_SCI 1011",
             "description": "Principles of animal science including importance of animal agriculture, genetics, anatomy, physiology and nutrition.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Animal Science - Honors",
-            "number": "1011H",
+            "number": "AN_SCI 1011H",
             "description": "Principles of animal science including importance of animal agriculture, genetics, anatomy, physiology and nutrition.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Introduction to Captive Wild Animal Management",
-            "number": "1012",
+            "number": "AN_SCI 1012",
             "description": "(same as F_W 1012). General introduction to housing, husbandry, behavior, genetics, nutrition, reproduction, animal health, and disease control of native and exotic species in zoological parks and other animal conservation facilities; emphasizes the role of captive animals in wildlife conservation.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Biotechnology in Animal Agriculture",
-            "number": "1013",
+            "number": "AN_SCI 1013",
             "description": "Concepts, discoveries, and applications of biotechnology ranging from the discovery of brewing and baking to animal cloning and genetic engineering are covered.  Students will acquire a foundation to understand how biotechnology affects agriculture and our everyday lives.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Animal Science Laboratory Practicum",
-            "number": "1065",
+            "number": "AN_SCI 1065",
             "description": "An introductory course in skill, related to the care and management of livestock and poultry plus a section dealing with meats and a section dealing with research methods.  Students will be expected to participate in hands-on learning development of fundamental skills and animal husbandry.  This class will include one 3 hour lab and 1 hour DIS per week.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Topics in Animal Science",
-            "number": "2001",
+            "number": "AN_SCI 2001",
             "description": "Various courses offered on a preliminary basis to determine need for such offering prior to submission as a numbered course.  Various topics, credit arranged.  There may be prerequisites enforced depending on the topic.",
             "prerequisites": "None Listed",
             "hours": "1-4",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Equine Practicum",
-            "number": "2045",
+            "number": "AN_SCI 2045",
             "description": "Focus on learning hands-on equine skills through the care of horses at the university's equine facility.  Experiential learning is emphasized.  Skills include: how to identify the general health and well-being of horses, recognize early onset of illness or lameness, understand basic feeding, housing, and daily care, and demonstrate the ability to handle and feed horses in a safe manner.  Monthly meetings, scheduled feed shifts, monthly journals, required skill assessments, and attendance at various educational activities are required.  Feed shift scheduling is determined around individual availability and no equine or animal experience is required.  To enroll, students should contact the instructor for an application.  Graded on A-F basis only.",
             "prerequisites": "Instructor consent required",
             "hours": "1-2",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Problems in Animal Science",
-            "number": "2085",
+            "number": "AN_SCI 2085",
             "description": "Library and laboratory study of assigned problems in animal breeding, nutrition, physiology or production and management. Planning, conduction and reporting to be in consultation with instructor.",
             "prerequisites": "instructor's consent",
             "hours": "1-5",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Equine Behavior and Training",
-            "number": "2095",
+            "number": "AN_SCI 2095",
             "description": "Students learn the psychology and ethology of equine behavior and how it relates to training.  The use and proper fitting of equipment is taught and students learn to teach horses to perform the basic movements needed prior to advancing to specialized training.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Global Animal Agriculture",
-            "number": "2110",
+            "number": "AN_SCI 2110",
             "description": "Animal Agriculture as influenced globally by political, religious cultural, economic and climatic factors.",
             "prerequisites": "sophomore standing",
             "hours": "2",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Sophomore Seminar: Societal Issues Facing Animal Agriculture",
-            "number": "2111",
+            "number": "AN_SCI 2111",
             "description": "Course designed to introduce students to key issues facing animal agriculture. Assignments focus on reading current publications associated with issues affecting the animal agriculture industry. Graded on A-F basis only.",
             "prerequisites": "ENGLSH 1000",
             "hours": "3",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Sophomore Seminar: Societal Issues Facing Animal Agriculture - Writing Intensive",
-            "number": "2111W",
+            "number": "AN_SCI 2111W",
             "description": "Course designed to introduce students to key issues facing animal agriculture. Assignments focus on reading current publications associated with issues affecting the animal agriculture industry. Graded on A-F basis only.",
             "prerequisites": "ENGLSH 1000",
             "hours": "3",
@@ -125,7 +125,7 @@
         },
         {
             "name": "Live Animal and Meat Evaluation",
-            "number": "2114",
+            "number": "AN_SCI 2114",
             "description": "(same as F_S 2114). The composition and quality meat produced from food animals is the driving component of livestock economic value. This course will teach the principles and procedures involved in evaluation, grading, selection, and economic value of meat animals and poultry and the carcasses they produce. This course is an excellent introduction and (or) prerequisite for all livestock production courses and will provide a baseline of information for students interested in livestock or meat judging.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -134,7 +134,7 @@
         },
         {
             "name": "Livestock Judging",
-            "number": "2115",
+            "number": "AN_SCI 2115",
             "description": "Comparative judging and evaluation; various classes of farm animals; particular reference to utility. Reference reading; illustrated lectures.",
             "prerequisites": "AN_SCI 1065",
             "hours": "3",
@@ -145,7 +145,7 @@
         },
         {
             "name": "Dairy Products Evaluation",
-            "number": "2131",
+            "number": "AN_SCI 2131",
             "description": "(same as F_S 2131) Sensory Evaluation and judging of dairy products.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -154,16 +154,18 @@
         },
         {
             "name": "Horse Selection and Evaluation",
-            "number": "2135",
+            "number": "AN_SCI 2135",
             "description": "Techniques of selecting and evaluating horses based on conformation and performance characteristics. Effects of conformation on soundness. Includes learning to organize observations on the relative merits of a group of horses into an oral presentation.",
             "prerequisites": "None Listed",
             "hours": "2",
             "recommendation": "AN_SCI 1065",
-            "connections": "None Listed"
+            "connections": [
+                "AN_SCI 1065"
+            ]
         },
         {
             "name": "Companion Animals",
-            "number": "2140",
+            "number": "AN_SCI 2140",
             "description": "(same as BIOMED 2140). Focus on companion dog, cat, and horse owners concerns re: health zoonoses, legal responsibilities, inbreeding, choice of breeds, behavioral problems and loss of companion animals.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -172,7 +174,7 @@
         },
         {
             "name": "Introduction to Ruminant Livestock Production",
-            "number": "2165",
+            "number": "AN_SCI 2165",
             "description": "This is an introductory theory course which provides fundamental understanding of ruminant livestock - beef cattle and diary cattle, production, management and associate industries. Graded on A-F basis only.",
             "prerequisites": "AN_SCI 1065",
             "hours": "3",
@@ -183,7 +185,7 @@
         },
         {
             "name": "Introduction to Monogastric Production",
-            "number": "2175",
+            "number": "AN_SCI 2175",
             "description": "Introductory course which provides fundamental understanding of hogs, horses and poultry. Graded on A-F basis only.",
             "prerequisites": "AN_SCI 1065",
             "hours": "3",
@@ -194,16 +196,19 @@
         },
         {
             "name": "Equine Facility Management and Marketing",
-            "number": "2195",
+            "number": "AN_SCI 2195",
             "description": "Focuses on learning equine facility management through student care and management of the University's equine facility and breeding herd. Students also learn handling techniques for a wide variety of horses and gain experience in general equine facility maintenance. Students will be responsible for marketing horses sold in the annual MU online horse auction. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AN_SCI 2135 and instructor's consent.  Cannot be taken at the same time as AN_SCI 2095",
-            "connections": "None Listed"
+            "connections": [
+                "AN_SCI 2135",
+                "AN_SCI 2095"
+            ]
         },
         {
             "name": "Topics in Animal Science",
-            "number": "3001",
+            "number": "AN_SCI 3001",
             "description": "Various courses offered on a preliminary basis to determine need for such offering prior to submission as a numbered course.  Various topics, credit arranged.  There may be prerequisites enforced depending on the topic.",
             "prerequisites": "None Listed",
             "hours": "1-4",
@@ -212,7 +217,7 @@
         },
         {
             "name": "Problems in Animal Science",
-            "number": "3085",
+            "number": "AN_SCI 3085",
             "description": "Current problems in animal breeding, nutrition, livestock production and management, meats. Assigned topics. In some cases student may undertake a project by outlining objectives, planning work, keeping records and summarizing results in written report. Some sections may be graded either on S/U or A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-6",
@@ -221,7 +226,7 @@
         },
         {
             "name": "Problems in Animal Science - Writing Intensive",
-            "number": "3085W",
+            "number": "AN_SCI 3085W",
             "description": "Current problems in animal breeding, nutrition, livestock production and management, meats. Assigned topics. In some cases student may undertake a project by outlining objectives, planning work, keeping records and summarizing results in written report. Some sections may be graded either on S/U or A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-6",
@@ -230,7 +235,7 @@
         },
         {
             "name": "Study Abroad: International Meat, Dairy and Enology",
-            "number": "3190",
+            "number": "AN_SCI 3190",
             "description": "(same as F_S 3190).  This study abroad course introduces students to the meat, dairy and wine industries in Germany or in New Zealand (destinations are on a rotational basis).  Students will visit small, medium and large-scale producers and learn about differences in comparisons to the US industries.  May be repeated once for credit.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -239,7 +244,7 @@
         },
         {
             "name": "Principles of Animal Nutrition",
-            "number": "3212",
+            "number": "AN_SCI 3212",
             "description": "The purpose of this course is to teach students the essential nutrients for animal life and to understand the basic principles of nutrition. Graded on A-F basis only.  Recommend:  1 course in biochemistry or at least 4 hours of chemistry and MATH 1100 or equivalent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -248,7 +253,7 @@
         },
         {
             "name": "Genetics of Agricultural Plants and Animals",
-            "number": "3213",
+            "number": "AN_SCI 3213",
             "description": "(same as PLNT_S 3213). Concepts of molecular, transmission, and population and quantitative genetics. Special emphasis given to breeding and biotechnological applications in plant and animal agriculture. ",
             "prerequisites": " MATH 1100 and one of the following: BIO_SC 1100 (or F_W 1100) or BIO_SC 1200 or BIO_SC 1500.",
             "hours": ": 3",
@@ -263,7 +268,7 @@
         },
         {
             "name": "Principles of Meat Science",
-            "number": "3214",
+            "number": "AN_SCI 3214",
             "description": "(same as F_S 3214). Study of the principles involved in the conversion of living animals to meat and by-products; efficient utilization of meat as a food.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -272,7 +277,7 @@
         },
         {
             "name": "Principles of Dairy Foods Science",
-            "number": "3231",
+            "number": "AN_SCI 3231",
             "description": "(same as F_S 3231). Technology, chemistry and microbiology related to milk and its transformation into fluid milk products, fermented dairy foods and spreads. (2 hours of lecture and two hours of laboratory per week.)",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -281,7 +286,7 @@
         },
         {
             "name": "Animal Feeds and Feeding",
-            "number": "3232",
+            "number": "AN_SCI 3232",
             "description": "Description of feed ingredients, formulation of diets, and animal feeding management.",
             "prerequisites": "AN_SCI 3212 and MATH 1100 or equivalent",
             "hours": "3",
@@ -293,7 +298,7 @@
         },
         {
             "name": "Principles and Applications of Animal Nutrition",
-            "number": "3242",
+            "number": "AN_SCI 3242",
             "description": "Fundamentals of animal nutrition, including digestion, absorption, metabolism, and function of nutrients; nutrient and energy requirements; feedstuffs used in livestock and companion animal nutrition; and integration of these principles with nutrition-based calculations to make nutritional management decisions. Graded on A-F basis only.",
             "prerequisites": "MATH 1100 or higher, CHEM 1320 or higher, Sophomore standing or higher",
             "hours": "4",
@@ -305,7 +310,7 @@
         },
         {
             "name": "Physiology of Domestic Animals",
-            "number": "3254",
+            "number": "AN_SCI 3254",
             "description": "A lecture and laboratory course that covers basic concepts of physiology and anatomy in vertebrate animals.",
             "prerequisites": "F_W 1100 or BIO_SC 1100 or BIO_SC 1500; CHEM 1320; MATH 1100",
             "hours": "5",
@@ -315,12 +320,15 @@
                 "BIO_SC 1500",
                 "CHEM 1320",
                 "F_W 1100",
-                "MATH 1100"
+                "MATH 1100",
+                "CHEM 1330",
+                "CHEM 2030",
+                "CHEM 2100"
             ]
         },
         {
             "name": "Physiology of Domestic Animals - Honors",
-            "number": "3254H",
+            "number": "AN_SCI 3254H",
             "description": "Basic concepts of physiology and anatomy as related to domestic animals.",
             "prerequisites": "BIO_SC 1010 and BIO_SC 1020 or BIO_SC 1500; CHEM 1310 and CHEM 1320; Honors eligibility required",
             "hours": "3",
@@ -335,7 +343,7 @@
         },
         {
             "name": "Physiology of Domestic Animals Laboratory",
-            "number": "3255",
+            "number": "AN_SCI 3255",
             "description": "This laboratory course covers the basic concepts of physiology as related to domestic animals.",
             "prerequisites": "BIO_SC 1010 and BIO_SC 1020 or BIO_SC 1500; CHEM 1310 and CHEM 1320; AN_SCI 3254 or equivalent",
             "hours": "2",
@@ -351,7 +359,7 @@
         },
         {
             "name": "Meat Animal Evaluation",
-            "number": "3275",
+            "number": "AN_SCI 3275",
             "description": "Meat animal evaluation highlights the relationships and limitations that exist when evaluating market and breeding animals and develops an appreciation for carcass excellence as it relates to production, merchandising and consumption. Some travel time and commitments will be necessary.",
             "prerequisites": "AN_SCI 2114 and AN_SCI 2115",
             "hours": "2",
@@ -363,7 +371,7 @@
         },
         {
             "name": "Topics in Animal Science",
-            "number": "4001",
+            "number": "AN_SCI 4001",
             "description": "Various courses offered on a preliminary basis to determine need for such offering prior to submission as a numbered course. Various topics, credit arranged.",
             "prerequisites": "instructor's consent",
             "hours": "1-4",
@@ -372,7 +380,7 @@
         },
         {
             "name": "Topics in Animal Science - Writing Intensive",
-            "number": "4001W",
+            "number": "AN_SCI 4001W",
             "description": "Various courses offered on a preliminary basis to determine need for such offering prior to submission as a numbered course. Various topics, credit arranged.",
             "prerequisites": "instructor's consent",
             "hours": "1-4",
@@ -381,7 +389,7 @@
         },
         {
             "name": "Pasture-Based Dairy Management",
-            "number": "4010",
+            "number": "AN_SCI 4010",
             "description": "(cross-leveled with AN_SCI 7010). The objective of the class is to give a broad overview of pasture-based dairying and instill a confidence for students evaluating if this type of animal agriculture is an occupation they want to pursue after graduation. The class is taught by experts from various departments in CAFNR and covers elements of dairy and forage production needed to be successful.  Materials from this class are also cross-species related where information can be used on other ruminant type operations.  Graded on A-F basis only.",
             "prerequisites": "restricted to Junior and Seniors",
             "hours": "2",
@@ -390,7 +398,7 @@
         },
         {
             "name": "Pasture Based Dairy Management Lab",
-            "number": "4011",
+            "number": "AN_SCI 4011",
             "description": "This course is a hands-on experience class taught over 4 days during spring break. The objective of the class is to give a broad overview of pasture-based dairying and instill a confidence for students evaluating if this type of animal agriculture is an occupation they want to pursue after graduation. The class is taught by experts from various departments in CAFNR and covers elements of dairy and forage production needed to be successful. Students will have the opportunity to interact with successful pasture-based dairy producers in Missouri and apply their experience from AN_SCI 4010 on real farm situations. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1Prerequisites or Corequisites: AN_SCI 4010",
@@ -399,7 +407,7 @@
         },
         {
             "name": "Monogastric Nutrition",
-            "number": "4312",
+            "number": "AN_SCI 4312",
             "description": "(same as NEP 4020; cross-leveled with AN_SCI 7312 and NUTRIT 7020). Principles of nutrition, feed formulation and recent research in poultry feeding. Graded on A-F basis only.",
             "prerequisites": "AN_SCI 3212",
             "hours": "3",
@@ -410,7 +418,7 @@
         },
         {
             "name": "Physiology of Reproduction",
-            "number": "4314",
+            "number": "AN_SCI 4314",
             "description": "(cross-leveled with AN_SCI 7314). Principles of animal reproduction with emphasis on endocrine control of reproductive processes.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: AN_SCI 3254",
@@ -419,7 +427,7 @@
         },
         {
             "name": "Physiology of Reproduction - Honors",
-            "number": "4314H",
+            "number": "AN_SCI 4314H",
             "description": "Principles of animal reproduction with emphasis on endocrine control of reproductive processes.",
             "prerequisites": "BIO_SC 1500;  Honors eligibility required",
             "hours": "3PrerequisitesorCorequisites:AN_SCI 3254",
@@ -430,7 +438,7 @@
         },
         {
             "name": "Applied Livestock Genetics",
-            "number": "4323",
+            "number": "AN_SCI 4323",
             "description": "Genetic principles applied to improvement of farm animals. Covers selection, prediction of genetic merit and mating systems. Math Reasoning Proficiency Course.",
             "prerequisites": "BIO_SC 1010, BIO_SC 1020 or BIO_SC 1500 and  MATH 1100",
             "hours": "2",
@@ -444,16 +452,23 @@
         },
         {
             "name": "Genomics of Plants and Animals",
-            "number": "4324",
+            "number": "AN_SCI 4324",
             "description": "(cross-leveled with AN_SCI 7324). Analysis of organisms at the level of the complete genome sequence.  Covers genome sequencing, assembly and annotation, as well as functional, evolutionary and computational genomics.",
             "prerequisites": "None Listed",
             "hours": "2",
             "recommendation": "BIO_SC 1010, BIO_SC 1020 or BIO_SC 1500, MATH 1100, AN_SCI 3213 /PLNT_S 3213 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AN_SCI 3213",
+                "BIO_SC 1010",
+                "BIO_SC 1020",
+                "BIO_SC 1500",
+                "MATH 1100",
+                "PLNT_S 3213"
+            ]
         },
         {
             "name": "Ruminant Nutrition",
-            "number": "4332",
+            "number": "AN_SCI 4332",
             "description": "(cross-leveled with AN_SCI 7332). Physiology, chemistry, microbiology and pathology of ruminants. Emphasizes the digestion, absorption, metabolism and utilization of nutrients.",
             "prerequisites": "AN_SCI 3212",
             "hours": "3",
@@ -464,7 +479,7 @@
         },
         {
             "name": "Processing Muscle Foods",
-            "number": "4344",
+            "number": "AN_SCI 4344",
             "description": "(same as F_S 4344; cross-leveled with AN_SCI 7344). Materials and technologies for the manufacture of muscle food products from red meats, poultry and seafood. Experience problem-solving through further processing of complex ingredients and develop skills by practicing operations in a pilot plant facility.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -473,7 +488,7 @@
         },
         {
             "name": "Physiology and Biochemistry of Muscle as Food",
-            "number": "4354",
+            "number": "AN_SCI 4354",
             "description": "(same as F_S 4354; cross-leveled with AN_SCI 7354). Basic concepts in muscle growth and development of livestock evaluating the effects of environment, welfare, nutrition and genetics regarding muscle metabolism, physiology, and the ultimate condition of muscle as food.",
             "prerequisites": "BIO_SC 1010 or equivalent or AN_SCI 3214 or instructor's consent",
             "hours": "3",
@@ -485,7 +500,7 @@
         },
         {
             "name": "Reproductive Management",
-            "number": "4384",
+            "number": "AN_SCI 4384",
             "description": "Reproductive management of cattle, swine and sheep; estrous synchronization; artificial insemination; embryo development and transfer; assisted reproductive technologies.",
             "prerequisites": "senior standing and AN_SCI 4314 and instructor's consent",
             "hours": "3",
@@ -496,7 +511,7 @@
         },
         {
             "name": "Equine Reproduction",
-            "number": "4386",
+            "number": "AN_SCI 4386",
             "description": "Focuses on reproductive management techniques and breeding in the horse. Topics include stallion collection and evaluation, artificial insemination, interpreting ultrasound images, teasing, parturition, and foal care. Graded on A-F basis only.",
             "prerequisites": "AN_SCI 3254 and AN_SCI 4314 or instructor's consent",
             "hours": "3",
@@ -508,16 +523,19 @@
         },
         {
             "name": "Equine Breeding Management",
-            "number": "4387",
+            "number": "AN_SCI 4387",
             "description": "Focuses on practical applications of reproductive management techniques and breeding in the horse.  Topics include stallion collection and evaluation, artificial insemination, interpreting ultrasound images, teasing, parturition, and foal care.  Students will gain hands-on experience in each of these areas.",
             "prerequisites": "instructor's consent",
             "hours": "5",
             "recommendation": "AN_SCI 2175 and AN_SCI 4314",
-            "connections": "None Listed"
+            "connections": [
+                "AN_SCI 2175",
+                "AN_SCI 4314"
+            ]
         },
         {
             "name": "Environmental Physiology",
-            "number": "4437",
+            "number": "AN_SCI 4437",
             "description": "Principles of environmental physiology and animal adaptation with emphasis on mechanisms of temperature regulation and related nutritional and metabolic-hormonal functions.",
             "prerequisites": "AN_SCI 3254",
             "hours": "3",
@@ -528,7 +546,7 @@
         },
         {
             "name": "Senior Seminar in Captive Wild Animal Management",
-            "number": "4910",
+            "number": "AN_SCI 4910",
             "description": "(same as F_W 4910). Investigates key issues in captive wild animal management, focusing on the role of animal caretakers in addressing the issues.  Students are required to formulate informed opinions regarding these topics and communicate effectively about the subject matter. Graded A-F only.",
             "prerequisites": "AN_SCI 1012 or F_W 1012 or instructor's consent; junior or senior standing",
             "hours": "1",
@@ -540,7 +558,7 @@
         },
         {
             "name": "Internship in Animal Science & Technology",
-            "number": "4940",
+            "number": "AN_SCI 4940",
             "description": "Off-campus training to develop technical skills and understanding of an area of animal science. Written reports required. Graded on an S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-12",
@@ -549,7 +567,7 @@
         },
         {
             "name": "Undergraduate Research in Animal Science",
-            "number": "4950",
+            "number": "AN_SCI 4950",
             "description": "Individually directed field or laboratory research culminating in a poster or oral presentation for upper-class students under faculty supervision.",
             "prerequisites": "At least sophomore standing or instructor's consent",
             "hours": "1-3",
@@ -558,7 +576,7 @@
         },
         {
             "name": "Molecular and Cellular Techniques in Animal Science",
-            "number": "4973",
+            "number": "AN_SCI 4973",
             "description": "A directed research project that employs current molecular and cellular technologies. Students will generate experimental data, analyze the data and draft a research report in the format of a scientific paper.",
             "prerequisites": "instructor's consent",
             "hours": "4",
@@ -567,7 +585,7 @@
         },
         {
             "name": "Beef Production and Management",
-            "number": "4975",
+            "number": "AN_SCI 4975",
             "description": "(cross-leveled with AN_SIC 7975). Systems of beef production: breeding, feeding, management of commercial and purebred beef cattle.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2165 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -580,7 +598,7 @@
         },
         {
             "name": "Beef Production and Management - Writing Intensive",
-            "number": "4975W",
+            "number": "AN_SCI 4975W",
             "description": "(cross-leveled with AN_SIC 7975). Systems of beef production: breeding, feeding, management of commercial and purebred beef cattle.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2165 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -593,7 +611,7 @@
         },
         {
             "name": "Dairy Production",
-            "number": "4976",
+            "number": "AN_SCI 4976",
             "description": "(cross-leveled with AN_SCI 7976). Applied dairy science; emphasis on nutrition and management; herd health, labor-saving equipment, buildings, quality products, organization of dairy enterprise, business and economic aspects.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2165, AN_SCI 3212, and AN_SCI 3232 or instructor's consent",
             "hours": "3",
@@ -607,7 +625,7 @@
         },
         {
             "name": "Dairy Production - Writing Intensive",
-            "number": "4976W",
+            "number": "AN_SCI 4976W",
             "description": "(cross-leveled with AN_SCI 7976). Applied dairy science; emphasis on nutrition and management; herd health, labor-saving equipment, buildings, quality products, organization of dairy enterprise, business and economic aspects.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2165, AN_SCI 3212, and AN_SCI 3232 or instructor's consent",
             "hours": "3",
@@ -621,7 +639,7 @@
         },
         {
             "name": "Horse Production",
-            "number": "4977",
+            "number": "AN_SCI 4977",
             "description": "(cross-leveled with AN_SCI 7977). Systems of horse production: breeding, feeding and management of horses.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2175 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -634,7 +652,7 @@
         },
         {
             "name": "Swine Production",
-            "number": "4978",
+            "number": "AN_SCI 4978",
             "description": "Systems of pork production: breeding, feeding, management of commercial and purebred swine.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2175 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -647,7 +665,7 @@
         },
         {
             "name": "Swine Production - Writing Intensive",
-            "number": "4978W",
+            "number": "AN_SCI 4978W",
             "description": "Systems of pork production: breeding, feeding, management of commercial and purebred swine.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2175 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -660,7 +678,7 @@
         },
         {
             "name": "Poultry Production",
-            "number": "4979",
+            "number": "AN_SCI 4979",
             "description": "(cross-leveled with AN_SCI 7979). Principles of housing systems, nutrition, management, business and production of commercial chickens and turkeys.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2175 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -673,7 +691,7 @@
         },
         {
             "name": "Poultry Production  Writing Intensive",
-            "number": "4979W",
+            "number": "AN_SCI 4979W",
             "description": "(cross-leveled with AN_SCI 7979). Principles of housing systems, nutrition, management, business and production of commercial chickens and turkeys.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2175 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -686,7 +704,7 @@
         },
         {
             "name": "Topics in Animal Science",
-            "number": "7001",
+            "number": "AN_SCI 7001",
             "description": "Various courses offered on a preliminary basis to determine need for such offering prior to submission as a numbered course. Various topics, credit arranged.",
             "prerequisites": "instructor's consent",
             "hours": "1-4",
@@ -695,7 +713,7 @@
         },
         {
             "name": "Pasture-Based Dairy Management",
-            "number": "7010",
+            "number": "AN_SCI 7010",
             "description": "(cross-leveled with AN_SCI 4010). The objective of the class is to give a broad overview of pasture-based dairying and instill a confidence for students evaluating if this type of animal agriculture is an occupation they want to pursue after graduation. The class is taught by experts from various departments in CAFNR and covers elements of dairy and forage production needed to be successful.  Materials from this class are also cross-species related where information can be used on other ruminant type operations.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -704,7 +722,7 @@
         },
         {
             "name": "Monogastric Nutrition",
-            "number": "7312",
+            "number": "AN_SCI 7312",
             "description": "(same as NUTRIT 7020 and NEP 7020; cross-leveled with AN_SCI 4312 and NEP 4020). Principles of nutrition, feed formulation and recent research in poultry feeding. Graded on A-F basis only.",
             "prerequisites": "AN_SCI 3212",
             "hours": "3",
@@ -715,7 +733,7 @@
         },
         {
             "name": "Physiology of Reproduction",
-            "number": "7314",
+            "number": "AN_SCI 7314",
             "description": "(cross-leveled with AN_SCI 4314). Principles of animal reproduction with emphasis on endocrine control of reproductive processes.",
             "prerequisites": "AN_SCI 3254 and BIO_SC 1500 or equivalent; or AN_SCI 3254 as a co-requisite and instructor's consent",
             "hours": "3",
@@ -728,7 +746,7 @@
         },
         {
             "name": "Applied Livestock Genetics",
-            "number": "7323",
+            "number": "AN_SCI 7323",
             "description": "(cross-leveled with AN_SCI 4323). Genetic principles applied to improvement of farm animals. Covers selection, prediction of genetic merit and mating systems.",
             "prerequisites": "BIO_SC 1010, BIO_SC 1020 or BIO_SC 1500 and MATH 1100",
             "hours": "2",
@@ -742,7 +760,7 @@
         },
         {
             "name": "Genomics of Plants and Animals",
-            "number": "7324",
+            "number": "AN_SCI 7324",
             "description": "(cross-leveled with AN_SCI 4323). Analysis of organisms at the level of the complete genome sequence.  Covers genome sequencing, assembly and annotation, as well as functional, evolutionary and computational genomics.",
             "prerequisites": "BIO_SC 1010, BIO_SC 1020 or BIO_SC 1500, MATH 1100, AN_SCI 3213 /PLNT_S 3213 or equivalent; and instructor's consent",
             "hours": "3",
@@ -758,7 +776,7 @@
         },
         {
             "name": "Ruminant Nutrition",
-            "number": "7332",
+            "number": "AN_SCI 7332",
             "description": "(cross-leveled with AN_SCI 4332). Physiology, chemistry, microbiology and pathology of ruminants. Emphasizes the digestion, absorption, metabolism and utilization of nutrients.",
             "prerequisites": "AN_SCI 3212",
             "hours": "3",
@@ -769,7 +787,7 @@
         },
         {
             "name": "Processing Muscle Foods",
-            "number": "7344",
+            "number": "AN_SCI 7344",
             "description": "(same as F_S 7344; cross-leveled with AN_SCI 4344, F_S 4344). Materials and technologies for the manufacture of muscle food products from red meats, poultry and seafood. Experience problem-solving through further processing of complex ingredients and develop skills by practicing operations in a pilot plant facility.",
             "prerequisites": "one Chemistry course",
             "hours": "3",
@@ -778,7 +796,7 @@
         },
         {
             "name": "Physiology and Biochemistry of Muscle as Food",
-            "number": "7354",
+            "number": "AN_SCI 7354",
             "description": "(same as F_S 7354; cross-leveled with AN_SCI 4354, F_S 4354). Basic concepts in muscle growth and development of livestock evaluating the effects of environment, welfare, nutrition and genetics regarding muscle metabolism, physiology, and the ultimate condition of muscle as food.",
             "prerequisites": "BIO_SC 1010 or equivalent or AN_SCI 3214 or instructor's consent",
             "hours": "3",
@@ -790,7 +808,7 @@
         },
         {
             "name": "Reproductive Management",
-            "number": "7384",
+            "number": "AN_SCI 7384",
             "description": "(cross-leveled with AN_SC 4384). Reproductive management of cattle, swine and sheep; estrous synchronization; artificial insemination; embryo development and transfer; assisted reproductive technologies.",
             "prerequisites": "AN_SCI 4314 and instructor's consent",
             "hours": "3",
@@ -801,7 +819,7 @@
         },
         {
             "name": "Environmental Physiology",
-            "number": "7437",
+            "number": "AN_SCI 7437",
             "description": "(cross-leveled with AN_SCI 4437). Principles of environmental physiology and animal adaptation with emphasis on mechanisms of temperature regulation and related nutritional and metabolic-hormonal functions.",
             "prerequisites": "AN_SCI 3254 or equivalent",
             "hours": "3",
@@ -812,7 +830,7 @@
         },
         {
             "name": "Beef Production and Management",
-            "number": "7975",
+            "number": "AN_SCI 7975",
             "description": "(cross-leveled with AN_SCI 4975). Systems of beef production: breeding, feeding, management of commercial and purebred beef cattle.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2165 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -825,7 +843,7 @@
         },
         {
             "name": "Dairy Production",
-            "number": "7976",
+            "number": "AN_SCI 7976",
             "description": "(cross-leveled with AN_SCI 4976). Applied dairy science; emphasis on nutrition and management; herd health, labor-saving equipment, buildings, quality products, organization of dairy enterprise, business and economic aspects.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2165, AN_SCI 3212 and AN_SCI 3232 or instructor's consent",
             "hours": "3",
@@ -839,7 +857,7 @@
         },
         {
             "name": "Horse Production",
-            "number": "7977",
+            "number": "AN_SCI 7977",
             "description": "(cross-leveled with AN_SCI 4977). Systems of horse production: breeding, feeding and management of horses.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2175 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -852,7 +870,7 @@
         },
         {
             "name": "Swine Production",
-            "number": "7978",
+            "number": "AN_SCI 7978",
             "description": "(same as AN_SCI 4978). Systems of pork production: breeding, feeding, management of commercial and purebred swine.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2175 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -865,7 +883,7 @@
         },
         {
             "name": "Poultry Production",
-            "number": "7979",
+            "number": "AN_SCI 7979",
             "description": "(cross-leveled with AN_SCI 4979). Principles of housing systems, nutrition, management, business and production of commercial chickens and turkeys.",
             "prerequisites": "AN_SCI 1065, AN_SCI 2175 and AN_SCI 3212 or instructor's consent",
             "hours": "3",
@@ -878,7 +896,7 @@
         },
         {
             "name": "Problems in Animal Science",
-            "number": "8085",
+            "number": "AN_SCI 8085",
             "description": "Advanced independent studies in fields not directly related to thesis or non-thesis degree research program. May be graded on S/U or A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-6",
@@ -887,7 +905,7 @@
         },
         {
             "name": "Seminar in Animal Science",
-            "number": "8087",
+            "number": "AN_SCI 8087",
             "description": "Critical consideration of research and other selected subjects in animal breeding, animal nutrition, reproductive physiology, growth and development and livestock production and management.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -896,7 +914,7 @@
         },
         {
             "name": "Thesis Research in Animal Science",
-            "number": "8090",
+            "number": "AN_SCI 8090",
             "description": "Investigations in animal breeding, animal nutrition, reproduction physiology, growth and development livestock production and management.  Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -905,7 +923,7 @@
         },
         {
             "name": "Reproductive Biology Seminar",
-            "number": "8413",
+            "number": "AN_SCI 8413",
             "description": "Presentation and discussion of selected topics from all phases of reproductive biology. Open to qualified students of graduate standing in the field of Reproductive Biology.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -914,7 +932,7 @@
         },
         {
             "name": "Meat Quality",
-            "number": "8414",
+            "number": "AN_SCI 8414",
             "description": "(same as F_S 8414). Discussion of factors affecting meat quality in beef, pork, lamb and poultry.  Graded on A-F basis only.",
             "prerequisites": "AN_SCI 3214 or equivalent",
             "hours": "3",
@@ -925,7 +943,7 @@
         },
         {
             "name": "Survey of Epigenetics",
-            "number": "8415",
+            "number": "AN_SCI 8415",
             "description": "This course will introduce graduate students to the basic concepts in epigenetics, including DNA methylation, histone modifications, epigenetic modifiers/transacting factors, non-coding RNAs, genomic imprinting, and dosage compensation.  The course is designed to be a combination of lectures, paper discussions, and research talks by invited faculty speakers from across campus.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -934,7 +952,7 @@
         },
         {
             "name": "Endocrinology",
-            "number": "8420",
+            "number": "AN_SCI 8420",
             "description": "Hormones of pituitary and endocrine glands; special reference to influence on growth, reproduction, milk secretion.",
             "prerequisites": "AN_SCI 7314 or equivalent",
             "hours": "3",
@@ -945,7 +963,7 @@
         },
         {
             "name": "Meat Investigations",
-            "number": "8424",
+            "number": "AN_SCI 8424",
             "description": "(same as F_S 8424). Discussions of scientific literature and hands-on experimentation with research techniques customarily used in the field of meat science.  Graded on A-F basis only.",
             "prerequisites": "F_S 3214 /AN_SCI 3214 or equivalent; instructor's consent",
             "hours": "3",
@@ -957,7 +975,7 @@
         },
         {
             "name": "Introduction to Bioinformatics Programming",
-            "number": "8430",
+            "number": "AN_SCI 8430",
             "description": "(same as PLNT_S 8430). This course provides the basics of programming and database development to students in the life sciences who have little prior programming experience. It covers Unix/Linux, Perl, MySQL, the relational database design process, and common data formats used in genome informatics. Students will learn how programming skills can enhance their ability to analyze large biological datasets, and will gain hands on experience with examples focused on genomics and bioinformatics. Graded on A-F basis only.",
             "prerequisites": "Instructor's consent",
             "hours": "4",
@@ -966,7 +984,7 @@
         },
         {
             "name": "Nutritional Biochemistry of Lipids",
-            "number": "8431",
+            "number": "AN_SCI 8431",
             "description": "(Same as NEP 8310 and NUTRIT 8310). Current concepts in the nutritional regulations of lipid metabolism. Emphasis on integrating information and interpreting current research data.",
             "prerequisites": "BIOCHM 4270 and BIOCHM 4272",
             "hours": "3",
@@ -978,7 +996,7 @@
         },
         {
             "name": "Nutrient Regulation of Gene Expression",
-            "number": "8438",
+            "number": "AN_SCI 8438",
             "description": "(same as NUTRIT 8438, NEP 8438 and BIOCHM 8438). This second semester of the graduate nutritional sciences core curriculum will cover nutritional biochemistry of minerals and on research literature, with an emphasis on in-depth coverage of several minerals that illustrate emerging themes in mineral nutritional biochemistry and nutrient regulation of gene expression. The course will be taught in tutorial format.",
             "prerequisites": "BIOCHM 4270 and BIOCHM 4272 and 1st semester Graduate Nutrition core curriculum",
             "hours": "3",
@@ -990,7 +1008,7 @@
         },
         {
             "name": "Livestock Production and Management Research Methods",
-            "number": "8441",
+            "number": "AN_SCI 8441",
             "description": "Techniques of experimentation, with application to livestock production and management. Exercises in methods of planning, conducting, analyzing, evaluating and reporting research.",
             "prerequisites": "STAT 4530/STAT 7530 or equivalent or instructor's consent",
             "hours": "3",
@@ -1002,7 +1020,7 @@
         },
         {
             "name": "Functional Genomics of Mammalian Genomes: Focus on Microarray",
-            "number": "8443",
+            "number": "AN_SCI 8443",
             "description": "The curriculum covers methods for functional genomics.  It explores experimental designs, data filtering, ANOVA analysis, power calculations, clustering and classification systems, and functional annotation of genes through lectures, and bioinformatics and regular laboratories. May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "BIO_SC 4974 and BIO_SC 4374 or equivalent courses, Anova analysis course (STAT 7530) or equivalent experience in using Anova analysis",
             "hours": "4",
@@ -1015,7 +1033,7 @@
         },
         {
             "name": "Recent Advances in Environmental and Endocrine Physiology",
-            "number": "8447",
+            "number": "AN_SCI 8447",
             "description": "Seminar. Presentation, discussion, and critical evaluation of current status of selected topics in environmental and endocrine physiology.",
             "prerequisites": "AN_SCI 3254 or equivalent",
             "hours": "1",
@@ -1026,7 +1044,7 @@
         },
         {
             "name": "Research in Animal Science",
-            "number": "8450",
+            "number": "AN_SCI 8450",
             "description": "Research in Animal Science",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -1035,7 +1053,7 @@
         },
         {
             "name": "Amino Acid Metabolism",
-            "number": "8472",
+            "number": "AN_SCI 8472",
             "description": "An in-depth study of amino acid metabolism and their relationship to animal nutrition.",
             "prerequisites": "BIOCHM 4270 and BIOCHM 4272",
             "hours": "2",
@@ -1047,7 +1065,7 @@
         },
         {
             "name": "Molecular and Network Evolution",
-            "number": "8633",
+            "number": "AN_SCI 8633",
             "description": "(same as BIO_SC 8633). Evolution of biological macromolecules and networks, including sequence analysis algorithms and theory, phylogenetics, gene duplication, genome evolution, principles of biological networks. Development of computational skills emphasized.",
             "prerequisites": "Instructor's consent required",
             "hours": "3",
@@ -1056,7 +1074,7 @@
         },
         {
             "name": "Science Outreach: Public Understanding of Science",
-            "number": "8725",
+            "number": "AN_SCI 8725",
             "description": "(same as BIO_SC 8725, PHYSCS 8350 and LTC 8725). Development of presentations to adult audiences on the science underlying issues of current interest.  May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "1-2",
@@ -1065,7 +1083,7 @@
         },
         {
             "name": "Topics in Animal Science",
-            "number": "9001",
+            "number": "AN_SCI 9001",
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1074,7 +1092,7 @@
         },
         {
             "name": "Dissertation Research in Animal Science",
-            "number": "9090",
+            "number": "AN_SCI 9090",
             "description": "Investigations in animal breeding, animal nutrition, livestock production and management. Dissertation required. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -1083,7 +1101,7 @@
         },
         {
             "name": "Genetics of Populations",
-            "number": "9423",
+            "number": "AN_SCI 9423",
             "description": "Introduction to quantitative genetics with application to animal and plant breeding.",
             "prerequisites": "STAT 4530 or STAT 7530",
             "hours": "4",
@@ -1095,7 +1113,7 @@
         },
         {
             "name": "Ruminant Nutrition",
-            "number": "9432",
+            "number": "AN_SCI 9432",
             "description": "(same as NUTRIT 8320). Physiology, chemistry, microbiology, pathology of ruminants. Emphasizes digestion, absorption, metabolism, utilization of nutrients. Lecture, laboratory, assigned readings.",
             "prerequisites": "AN_SCI 4332/AN_SCI 7332 or equivalent and BIOCHM 4270",
             "hours": "3",
@@ -1108,7 +1126,7 @@
         },
         {
             "name": "Gamete and Embryo Development",
-            "number": "9433",
+            "number": "AN_SCI 9433",
             "description": "A classical and molecular approach to spermatogenesis, oogenesis, fertilization and preimplantation development in the domestic species.",
             "prerequisites": "AN_SCI 4314/AN_SCI 7314 or BIO_SC 4984 or equivalent",
             "hours": "3",
@@ -1121,7 +1139,7 @@
         },
         {
             "name": "Gonadal Function",
-            "number": "9434",
+            "number": "AN_SCI 9434",
             "description": "(same as BIOMED 9434).",
             "prerequisites": "AN_SCI 4314, biochemistry or cell biology and AN_SCI 8420",
             "hours": "3",
@@ -1133,16 +1151,18 @@
         },
         {
             "name": "Placentation",
-            "number": "9435",
+            "number": "AN_SCI 9435",
             "description": "Provide students with current and in-depth information about the mechanisms involved in placental development and how the placenta (and placental products) influence maternal physiology - both locally at the placenta-uterine interface and systemically. All course topics will be covered in a comparative cross-species approach whenever possible. Emphasis will be placed on the most recent literature regarding the interactions taking place between the placenta and maternal system and how these interactions lead to the eventual birth of live young.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "It is preferred that students take AN_SCI 9433 prior to this class, but this is not an absolute requirement",
-            "connections": "None Listed"
+            "connections": [
+                "AN_SCI 9433"
+            ]
         },
         {
             "name": "Bioenergetics",
-            "number": "9441",
+            "number": "AN_SCI 9441",
             "description": "(same as NUTRIT 8400). Energetic interactions of animals and their physical and nutritional environments.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1151,7 +1171,7 @@
         },
         {
             "name": "Vitamins and Minerals",
-            "number": "9442",
+            "number": "AN_SCI 9442",
             "description": "Designed to provide students with an understanding of the chemical, metabolic, and functional role of vitamins and minerals in nutrition. While the primary focus will be on animals, comparative aspects to human nutrition will be discussed.",
             "prerequisites": "AN_SCI 3212, BIOCHM 4270 or equivalent",
             "hours": "4",
@@ -1163,7 +1183,7 @@
         },
         {
             "name": "Mycotoxins",
-            "number": "9452",
+            "number": "AN_SCI 9452",
             "description": "Designed to provide students with an understanding of the occurrence of mycotoxins, mechanisms of toxicity, analytical methodology, and approaches for ameliorating the toxic effects of mycotoxin in animals.",
             "prerequisites": "instructor's consent and courses in Nutrition and Biochemistry",
             "hours": "3",

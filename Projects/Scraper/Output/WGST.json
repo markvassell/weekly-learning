@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Topics in Women's and Gender Studies-General",
-            "number": "1001",
+            "number": "WGST 1001",
             "description": "Organized study of selected topics in women's and gender studies. Subjects and earnable credit may vary from semester to semester. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: sophomore standing",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Behavioral",
-            "number": "1003",
+            "number": "WGST 1003",
             "description": "Organized study of selected topics in women's and gender studies. Subjects and earnable credit may vary from semester to semester. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: sophomore standing",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Social Science",
-            "number": "1004",
+            "number": "WGST 1004",
             "description": "Organized study of selected topics in women's and gender studies. Subjects and earnable credit may vary from semester to semester. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: sophomore standing",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Humanities",
-            "number": "1005",
+            "number": "WGST 1005",
             "description": "Organized study of selected topics in women's and gender studies. Subjects and earnable credit may vary from semester to semester. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: sophomore standing",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Introduction to Women's and Gender Studies",
-            "number": "1120",
+            "number": "WGST 1120",
             "description": "Introduction to the basic issues of Western feminist thought through a study of classical and contemporary sources. Course will consider images, conditions, activities and visions of women as they vary historically and socially.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "The Female Experience: Body, Identity, and Culture",
-            "number": "1360",
+            "number": "WGST 1360",
             "description": "(same as SOCIOL 1360). Study of the experience of being female in American Culture. Course will focus on development of women's identities through such topics as: sexuality, reproduction, self-image, rape and health care.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "The Black Woman in America",
-            "number": "1500",
+            "number": "WGST 1500",
             "description": "(same as BL_STU 1500). Review and critique of a variety of materials about Black women from slavery to the social and philosophical impact of the Black woman's struggle on all women.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-General",
-            "number": "2001",
+            "number": "WGST 2001",
             "description": "Organized study of selected topics in women's and gender studies. Subjects and earnable credit may vary from semester to semester.  Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: sophomore standing and/or WGST 1120",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Behavioral",
-            "number": "2003",
+            "number": "WGST 2003",
             "description": "Organized study of selected topics in women's and gender studies. Subjects and earnable credit may vary from semester to semester.  Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: sophomore standing and/or WGST 1120",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Social Science",
-            "number": "2004",
+            "number": "WGST 2004",
             "description": "Organized study of selected topics in women's and gender studies. Subjects and earnable credit may vary from semester to semester.  Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: sophomore standing and/or WGST 1120",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Humanities",
-            "number": "2005",
+            "number": "WGST 2005",
             "description": "Organized study of selected topics in women's and gender studies. Subjects and earnable credit may vary from semester to semester.  Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: sophomore standing and/or WGST 1120",
@@ -103,16 +103,18 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Humanities - Honors",
-            "number": "2005H",
+            "number": "WGST 2005H",
             "description": "Organized study of selected topics in women's and gender studies. Subjects and earnable credit may vary from semester to semester.  Repeatable up to 6 hours.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-3",
             "recommendation": "sophomore standing and/or WGST 1120",
-            "connections": "None Listed"
+            "connections": [
+                "WGST 1120"
+            ]
         },
         {
             "name": "Gender and Identity: Understanding Intersectionality",
-            "number": "2010",
+            "number": "WGST 2010",
             "description": "Explores historical and contemporary dimensions of social inequality in gender, race, class and sexuality.  Uses an interdisciplinary lens and feminist analysis to analyze social, cultural, political and economic experiences of individuals and communities.  ",
             "prerequisites": " WGST 1120",
             "hours": ": 3",
@@ -123,7 +125,7 @@
         },
         {
             "name": "Feminist Theory",
-            "number": "2020",
+            "number": "WGST 2020",
             "description": "Introduces central themes and problems in feminist thought, including consciousness-raising, motherhood, class, race, sexuality, nationalism, and transnational feminism.",
             "prerequisites": "WGST 1120 or sophomore standing",
             "hours": "3",
@@ -134,7 +136,7 @@
         },
         {
             "name": "Gender Perspectives: Colonial Histories, Post-Colonial Challenges",
-            "number": "2030",
+            "number": "WGST 2030",
             "description": "Identifies and interrogates key gender issues in post-colonial countries with an acute awareness of their constructions through western and local knowledge, patriarchy, the nation-state, and globalization.  May be repeated for credit with different semester themes.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -143,7 +145,7 @@
         },
         {
             "name": "Perspectives on Empowerment",
-            "number": "2040",
+            "number": "WGST 2040",
             "description": "Women's Empowerment is a popular catch phrase in culture, politics and research. This course explores the meaning of empowerment, the ways empowerment is practiced in organizations and in the everyday lives of girls and women, and the challenges in empowering girls and women in contemporary society. May be repeated for credit with different semester themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -152,7 +154,7 @@
         },
         {
             "name": "Gender Perspectives: Issues in Public Health",
-            "number": "2050",
+            "number": "WGST 2050",
             "description": "Addresses issues of gender and public health in the US and abroad. Considers how race, class, gender, sexuality, and geopolitical context may impact health. May focus on specific health issues. May be repeated for credit with different semester themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -161,7 +163,7 @@
         },
         {
             "name": "Perspectives on Sexual and Gender Diversity",
-            "number": "2080",
+            "number": "WGST 2080",
             "description": "This interdisciplinary, cross-cultural course investigates modern constructions of sexed and gendered bodies, paying particular attention to those systems of gender-based oppression that suppress multiple gender identities and expressions. May be repeated for credit with different semester themes.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -170,16 +172,18 @@
         },
         {
             "name": "Introduction to Women's Literature",
-            "number": "2180",
+            "number": "WGST 2180",
             "description": "(same as ENGLSH 2180). A study of traditional and non-traditional literature written by women from the perspective of feminist themes-love, power, work, family and other relations. No more than six hours may be taken in the Introduction to Women's Literature series.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ENGLSH 1000",
-            "connections": "None Listed"
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Introduction to Women's Literature, Beginning to 1603",
-            "number": "2186",
+            "number": "WGST 2186",
             "description": "(same as ENGLSH 2186). See WGST 2180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -188,7 +192,7 @@
         },
         {
             "name": "Introduction to Women's Literature, 1603 to 1789",
-            "number": "2187",
+            "number": "WGST 2187",
             "description": "(same as ENGLSH 2187). See WGST 2180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -197,7 +201,7 @@
         },
         {
             "name": "Introduction to Women's Literature, 1789 to 1890",
-            "number": "2188",
+            "number": "WGST 2188",
             "description": "(same as ENGLSH 2188). See WGST 2180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -206,7 +210,7 @@
         },
         {
             "name": "Introduction to Women's Literature, 1890 to Present",
-            "number": "2189",
+            "number": "WGST 2189",
             "description": "(same as ENGLSH 2189). See WGST 2180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -215,7 +219,7 @@
         },
         {
             "name": "British Women Writers - Honors",
-            "number": "2200H",
+            "number": "WGST 2200H",
             "description": "Study of works by important British women writers.  We also consider the development of women's writing and the contribution of women writers to literature and to larger societal debates.  May be repeated for credit.",
             "prerequisites": "honors eligibility required",
             "hours": "3",
@@ -224,7 +228,7 @@
         },
         {
             "name": "Perspectives on Gender, Race, Class and Sexuality in the Americas",
-            "number": "2250",
+            "number": "WGST 2250",
             "description": "Introduction to the formation of identities in the Americas. Some areas covered are immigration, transnational identity, pop culture, literary expression, body image, spirituality, racism/sexism, assimilation, acculturation, and activism. May be repeated for credit with different semester themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -233,7 +237,7 @@
         },
         {
             "name": "Perspectives on Gender, Race, Class and Sexuality in the Americas - Writing Intensive",
-            "number": "2250W",
+            "number": "WGST 2250W",
             "description": "Introduction to the formation of identities in the Americas. Some areas covered are immigration, transnational identity, pop culture, literary expression, body image, spirituality, racism/sexism, assimilation, acculturation, and activism. May be repeated for credit with different semester themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -242,7 +246,7 @@
         },
         {
             "name": "Perspectives on Mass Media: Constructions of Gender, Race and Sexuality",
-            "number": "2260",
+            "number": "WGST 2260",
             "description": "Examines constructions of gender, race, class and sexuality in the US media in the twentieth and twenty first centuries. Emphasis placed on media's coverage and uses of various socially constructed identities. May be repeated for credit with different semester themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -251,7 +255,7 @@
         },
         {
             "name": "Perspectives on Gender and Popular Culture",
-            "number": "2340",
+            "number": "WGST 2340",
             "description": "Explores issues in popular culture in the 20th and 21st centuries with respect to feminism, gender, sexuality, race, class, and ability.  Areas of study may include television, movies, music, advertisements, magazines, fiction, newspapers, the internet, and social media.  May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -260,7 +264,7 @@
         },
         {
             "name": "French and Francophone Women Writers",
-            "number": "2370",
+            "number": "WGST 2370",
             "description": "(same as FRENCH 2370).  This course will address issues of race, gender and class in selected works originally written by women of different historical periods and geographical areas.  (metropolitan France, French colonies, and territories such as the Caribbean).",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -269,7 +273,7 @@
         },
         {
             "name": "Social History of U.S. Women",
-            "number": "2400",
+            "number": "WGST 2400",
             "description": "(same as HIST 2400). This course, the social history of US women, offers a general overview of US women, beginning with the colonial period up to the present day.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -278,7 +282,7 @@
         },
         {
             "name": "African American Women in History",
-            "number": "2410",
+            "number": "WGST 2410",
             "description": "(same as HIST 2410 and BL_STU 2410). Covers major issues affecting black women since their introduction into English-speaking North America to the present.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -287,7 +291,7 @@
         },
         {
             "name": "Philosophy and Gender",
-            "number": "2500",
+            "number": "WGST 2500",
             "description": "(same as PHIL 2500). A critical examination of central ideas and themes in feminist philosophical thought.  Topics may include:  sex, marriage, parenthood, reproduction, body image, pornography, prostitution.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -296,7 +300,7 @@
         },
         {
             "name": "Sexual Health Advocacy and Service Learning",
-            "number": "2960",
+            "number": "WGST 2960",
             "description": "Students will critically investigate sexuality and reproductive health within a cultural context including religious, political, social justice, familial, and societal influences.  Through assigned readings, reflection, experiential  learning, small group activities and  discussion, students will increase their awareness of sexual health issues, enhance self awareness, and learn how to effectively educate their peers surrounding issues of sexual health.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -305,7 +309,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-General",
-            "number": "3001",
+            "number": "WGST 3001",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: junior standing and/or WGST 1120",
@@ -314,7 +318,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Behavioral Sciences",
-            "number": "3003",
+            "number": "WGST 3003",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: junior standing and/or WGST 1120",
@@ -323,7 +327,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Social Sciences",
-            "number": "3004",
+            "number": "WGST 3004",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: junior standing and/or WGST 1120",
@@ -332,7 +336,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Humanities",
-            "number": "3005",
+            "number": "WGST 3005",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: junior standing and/or WGST 1120",
@@ -341,16 +345,18 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Humanities - Honors",
-            "number": "3005H",
+            "number": "WGST 3005H",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable up to 6 hours.",
             "prerequisites": "honors eligibility required",
             "hours": "1-3",
             "recommendation": "junior standing and/or WGST 1120",
-            "connections": "None Listed"
+            "connections": [
+                "WGST 1120"
+            ]
         },
         {
             "name": "Sexuality and Gender Theory",
-            "number": "3080",
+            "number": "WGST 3080",
             "description": "(same as ENGLSH 3080). Examination of major theoretical approaches and debates in the study of gender and sexuality, with particular attention to the intersection of culture, representation, and identity. May be repeated to 6 hours with departments consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -359,7 +365,7 @@
         },
         {
             "name": "Themes in Gender and Work",
-            "number": "3150",
+            "number": "WGST 3150",
             "description": "This is an interdisciplinary course on gender and work. The course addresses topics such as contemporary and historical feminist debates about gender and work; problems of gender inequality at the workplace; historical context of contemporary patterns of gender inequality at work; and how gender intersects with race, class, sexuality and other social categories to shape people's work lives.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -368,7 +374,7 @@
         },
         {
             "name": "Historical Survey of Women Writers",
-            "number": "3180",
+            "number": "WGST 3180",
             "description": "(same as ENGLSH 3180). A study of writing by women from the Middle Ages to the present.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -377,7 +383,7 @@
         },
         {
             "name": "Historical Survey of Women Writers - Writing Intensive",
-            "number": "3180W",
+            "number": "WGST 3180W",
             "description": "(same as ENGLSH 3180). A study of writing by women from the Middle Ages to the present.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -386,7 +392,7 @@
         },
         {
             "name": "U.S. Women's Political History, 1880-Present",
-            "number": "3220",
+            "number": "WGST 3220",
             "description": "(same as HIST 3220). This course explores American women's engagement with American politics (broadly defined) over the course of the twentieth century.  It addresses issues of political identity, organization, ideology, and division.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -395,7 +401,7 @@
         },
         {
             "name": "Themes in Sexual Politics",
-            "number": "3230",
+            "number": "WGST 3230",
             "description": "Explores transnational politics of sex/sexuality, examines the theoretical, historical, analytical, and socio-cultural context of race, gender and sexuality. Students learn and apply a transdisciplinary approach and analyze shifts in the field of sexuality studies. May be repeated for credit with different themes.",
             "prerequisites": "WGST 1120",
             "hours": "3",
@@ -406,7 +412,7 @@
         },
         {
             "name": "Nonprofit Work and the Pursuit of Social Justice",
-            "number": "3240",
+            "number": "WGST 3240",
             "description": "This course provides an overview of the work of nonprofit organizations.  It will be framed in a social justice paradigm and will explore women's role in nonprofit organizations, why women gravitate to nonprofits, and the implications of their work to achieve social justice.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -415,7 +421,7 @@
         },
         {
             "name": "Themes in Gender, Law and Justice",
-            "number": "3260",
+            "number": "WGST 3260",
             "description": "Course addresses issues related to gender, law and the justice system in the U.S. and /or globally. Topics may include history of women's rights in the U.S.; contemporary issues in law and justice such as incarceration, human trafficking, and gay marriage; and the ways race, class, sexuality and citizenship shape experiences of justice.  May be repeated for credit with different semester themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -424,7 +430,7 @@
         },
         {
             "name": "Themes in Masculinities",
-            "number": "3270",
+            "number": "WGST 3270",
             "description": "Explores how male experiences are shaped by gender expectations and social context, with emphasis on psychosocial challenges and privileges associated with negotiating masculine gender role expectations.  Evaluates the psychological impact of gender, especially in American popular culture, on diverse men and their families. Studies how gender interacts with other aspects of identity, such as race, religion, ethnicity, socioeconomic status, sexual orientation and non-conforming gender identity.  Course may be repeated for credit.  Recommended:  WGST 1120 and sophomore standing,",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -433,7 +439,7 @@
         },
         {
             "name": "Queer Theories/Identities",
-            "number": "3300",
+            "number": "WGST 3300",
             "description": "(same as SOCIOL 3300). Analysis of gay, lesbian, bisexual, transgender (GLBT) and queer identities in culture and society with an emphasis on the contributions of queer theory and other GLBT standpoint theories to sociology and the study of society.",
             "prerequisites": "SOCIOL 2200 or instructor's consent",
             "hours": "3",
@@ -444,7 +450,7 @@
         },
         {
             "name": "Queer Theories/Identities - Writing Intensive",
-            "number": "3300W",
+            "number": "WGST 3300W",
             "description": "(same as SOCIOL 3300). Analysis of gay, lesbian, bisexual, transgender (GLBT) and queer identities in culture and society with an emphasis on the contributions of queer theory and other GLBT standpoint theories to sociology and the study of society.",
             "prerequisites": "SOCIOL 2200 or instructor's consent",
             "hours": "3",
@@ -455,7 +461,7 @@
         },
         {
             "name": "Sociology of Gender",
-            "number": "3320",
+            "number": "WGST 3320",
             "description": "(same as SOCIOL 3320). Study of the ways in which femininities and masculinities are constructed in American society with particular attention to gender ideologies and the gendered nature of the social structure.",
             "prerequisites": "SOCIOL 1000 or SOCIOL 1360",
             "hours": "3",
@@ -467,7 +473,7 @@
         },
         {
             "name": "Themes in Gender and Religion",
-            "number": "3370",
+            "number": "WGST 3370",
             "description": "Students acquire a basic knowledge and understanding of gender in religious communities including the construction of women's/men's religious identities, their gender relations, societal roles and status.  Themes may explore how the organizational structures of religion can be a vehicle of oppression and a place for justice and autonomy; may explore the representation and practices of specific religions; or may address the intersections of gender, class, race, geopolitics, and religion.  May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -476,7 +482,7 @@
         },
         {
             "name": "Sex Radicals in U. S. History",
-            "number": "3430",
+            "number": "WGST 3430",
             "description": "(same as HIST 3430).  Survey of the history of sexuality in the United States.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -485,7 +491,7 @@
         },
         {
             "name": "Feminist Methodologies",
-            "number": "3450",
+            "number": "WGST 3450",
             "description": "This course is an opportunity to explore the difference that feminism makes in doing research.  Students can begin to identify the research tools and strategies suited to questions they want to pursue.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -494,7 +500,7 @@
         },
         {
             "name": "Themes in Sexuality and Literature",
-            "number": "3480",
+            "number": "WGST 3480",
             "description": "Examines sexuality and representations of sexuality in literature.  The specific topic will be announced at the time of registration.  May be repeated for credit with different semester themes.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -503,7 +509,7 @@
         },
         {
             "name": "Themes in Gender and Immigration",
-            "number": "3560",
+            "number": "WGST 3560",
             "description": "Explores current controversies in immigration in various locations. The course will cover a number of topics including nationalism and citizenship, national identity, identity and fluidity, social inequality and others. May be repeated for credit with different semester themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -512,7 +518,7 @@
         },
         {
             "name": "European Women in the 19th Century",
-            "number": "3570",
+            "number": "WGST 3570",
             "description": "(same as HIST 3570). Examines the history of European women from 1750 to 1900. The course focuses on how industrialization, the French Revolution and nation-formation changed women's role in the family, workplace and the state. Grading: exams, papers and discussions.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -521,7 +527,7 @@
         },
         {
             "name": "Themes in Feminism",
-            "number": "3650",
+            "number": "WGST 3650",
             "description": "Course may cover historical and contemporary understandings of feminism, feminist movements in the U.S. and globally, and key debates in feminism.  The specific topics will be announced at the time of registration.  May be repeated for credit with different semester themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -530,7 +536,7 @@
         },
         {
             "name": "Themes in Gender and Globalization",
-            "number": "3670",
+            "number": "WGST 3670",
             "description": "Introduces transnational feminist theories, considers the practices and material circumstances related to globalization, and explores how class, gender, place/nation, (dis) ability, sexuality and colonial practices complicate our understanding of globalization. May be repeated for credit with different semester themes.",
             "prerequisites": "WGST 1120",
             "hours": "3",
@@ -541,7 +547,7 @@
         },
         {
             "name": "Women and Religions",
-            "number": "3750",
+            "number": "WGST 3750",
             "description": "(same as REL_ST 3750). A rediscovery of the wealth of religious activity which women have created and enacted. Investigates women's roles and rituals in large-scale and local religions, including ancient Goddess religions, Hinduism, Buddhism, Judaism, Christianity, Islam, and African, South American, and native American groups.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -550,7 +556,7 @@
         },
         {
             "name": "Themes in Gender and the Politics of Representation",
-            "number": "3850",
+            "number": "WGST 3850",
             "description": "Examines the gendered politics of representation by analyzing film, literature, popular media, and/or other popular cultural texts. May be repeated for credit with different semester themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -559,7 +565,7 @@
         },
         {
             "name": "Russian Women and Film",
-            "number": "3870",
+            "number": "WGST 3870",
             "description": "(same as RUSS 3870 and FILM_S 3870)  Traces image(s) of the Russian woman in 20th-century Russia as constructed in Russian, Soviet and late-Soviet film.  Discusses heroines of pre-revolutionary melodrama and \"new Soviet man and woman\" of the 20s.  Considers war-time re-alignment of gender roles in defense of motherland and their subtle revamping in post-war and post-Stalinist period, and the shifting relations between women and men, women and women, and women and the State.  Emphasizes cultural-historical and ideological status of women as reflected in onscreen image(s) in Russian film.  Designed to serve as an introduction to film studies and to 20th-century Russian culture more generally.  Conducted in English (all films have English subtitles).",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -568,7 +574,7 @@
         },
         {
             "name": "Strategies for Effective Peer Education",
-            "number": "3960",
+            "number": "WGST 3960",
             "description": "Course is designed to promote effective presentation skills on a variety of heath topics, specifically sexual health.  Students will engage in experiential practice and skill building surrounding cultural competency, difficult discourses, discussion facilitation and behavior management.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -577,7 +583,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-General",
-            "number": "4001",
+            "number": "WGST 4001",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: junior standing and/or WGST 1120",
@@ -586,7 +592,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Behavioral Sciences",
-            "number": "4003",
+            "number": "WGST 4003",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: junior standing and/or WGST 1120",
@@ -595,7 +601,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Social Sciences",
-            "number": "4004",
+            "number": "WGST 4004",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: junior standing and/or WGST 1120",
@@ -604,7 +610,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Humanities",
-            "number": "4005",
+            "number": "WGST 4005",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable up to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-3Recommended: junior standing and/or WGST 1120",
@@ -613,7 +619,7 @@
         },
         {
             "name": "Studies in Feminist Thought",
-            "number": "4020",
+            "number": "WGST 4020",
             "description": "(same as BL_STU 4020; cross-leveled with WGST 7020). Examines recent problems and critical debates within feminist theory. May be repeated for credit with different semester themes.",
             "prerequisites": "WGST 2020",
             "hours": "3",
@@ -624,7 +630,7 @@
         },
         {
             "name": "Feminist Research and Criticism",
-            "number": "4110",
+            "number": "WGST 4110",
             "description": "(same as SOCIOL 4110) Examination of both feminist critique of traditional social research and recent, feminist-oriented research that attempts to answer these criticisms.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -633,7 +639,7 @@
         },
         {
             "name": "Women, Art and Society",
-            "number": "4120",
+            "number": "WGST 4120",
             "description": "(same as AR_H_A 4120).  Analysis of the careers and works of women artists, and images of women (by female and male artists), in selected eras.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -642,7 +648,7 @@
         },
         {
             "name": "Major Women Writers",
-            "number": "4180",
+            "number": "WGST 4180",
             "description": "(same as ENGLSH 4180). Study of a limited number (1-3) of significant writers to be read intensively using contemporary feminist critical theory. Repeatable with department's consent maximum of six hours for WGST 4180 and WGST 4480.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -651,7 +657,7 @@
         },
         {
             "name": "Themes in Literature by Women",
-            "number": "4181",
+            "number": "WGST 4181",
             "description": "(same as ENGLSH 4181 and BL_STU 4181). Examines works by a number of women writers with particular attention to their sociopolitical context. May repeat to six hours with department's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -660,7 +666,7 @@
         },
         {
             "name": "Major Women Writers, Beginning to 1603",
-            "number": "4186",
+            "number": "WGST 4186",
             "description": "(same as ENGLSH 4186). See WGST 4180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -669,7 +675,7 @@
         },
         {
             "name": "Major Women Writers, 1603-1789",
-            "number": "4187",
+            "number": "WGST 4187",
             "description": "(same as ENGLSH 4187). See WGST 4180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -678,7 +684,7 @@
         },
         {
             "name": "Major Women Writers, 1789-1890",
-            "number": "4188",
+            "number": "WGST 4188",
             "description": "(same as ENGLSH 4188). See WGST 4180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -687,7 +693,7 @@
         },
         {
             "name": "Major Women Writers, 1789-1890 - Writing Intensive",
-            "number": "4188W",
+            "number": "WGST 4188W",
             "description": "(same as ENGLSH 4188). See WGST 4180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -696,7 +702,7 @@
         },
         {
             "name": "Major Women Writers, 1890-Present",
-            "number": "4189",
+            "number": "WGST 4189",
             "description": "(same as ENGLSH 4189). See WGST 4180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -705,7 +711,7 @@
         },
         {
             "name": "Women, Development, and Globalization",
-            "number": "4230",
+            "number": "WGST 4230",
             "description": "(same as SOCIOL 4230, BL_STU 4230 and PEA_ST 4230). Examines the history and structure of \"development\" discourse and practices. Stresses the interconnections and impact on women globally. Reviews women's strategies in defining and instituting programs to improve quality of life in communities.",
             "prerequisites": "BL_STU 1332, BL_STU 2200; SOCIOL 2200; WGST 1332 or WGST 2010",
             "hours": "3",
@@ -720,7 +726,7 @@
         },
         {
             "name": "Social Perspectives on Gender and Emotion",
-            "number": "4235",
+            "number": "WGST 4235",
             "description": "(same as BL_STU 4235, SOCIOL 4235; cross-leveled with BL_STU 7235, SOCIOL 7235, WGST 7235).  Examines theories of affect and emotions, the social contexts and the implications for human development and behavior, with special emphasis on sex, gender, race, class and culture. Graded on A-F basis only.",
             "prerequisites": "WGST 1332 or WGST 1360; SOCIOL 1360 or SOCIOL 2300; BL_STU 1332 or BL_STU 2200; junior standing",
             "hours": "3",
@@ -736,7 +742,7 @@
         },
         {
             "name": "Adoption, Child Welfare and the Family, 1850-Present",
-            "number": "4310",
+            "number": "WGST 4310",
             "description": "(same as HIST 4310; cross-leveled with WGST 7310, HIST 7310). This interdisciplinary U.S. history course will address topics such as: changing legal and social meaning of adoption since 1850; historical connections between adoption and poverty, family, gender race, sexuality, class, fertility, identity; and more recent issues such as transnational adoption.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -745,16 +751,18 @@
         },
         {
             "name": "Studies in Gender and the Environment",
-            "number": "4350",
+            "number": "WGST 4350",
             "description": "(cross-leveled with WGST 7350). Explores how gendered social relations affect the relationship between human beings, non-human nature, and the environment.  Also examines how historically, the human relationship with nature has been governed by a dualism of culture and nature that enables both an ideology of technical control and the objectification of the environment and people.  Draws from ecological feminism, the environmental justice movement, feminist science studies, materialist feminism, and feminist dystopian fiction.  May be repeated for credit.",
             "prerequisites": "junior standing",
             "hours": "3",
             "recommendation": "WGST 1120",
-            "connections": "None Listed"
+            "connections": [
+                "WGST 1120"
+            ]
         },
         {
             "name": "Anthropology of Gender",
-            "number": "4370",
+            "number": "WGST 4370",
             "description": "(same as ANTHRO 4370). The Anthropology of Gender introduces the student to the variation in the relationships between male and females; and between men, women, and other genders from around the world.  The different approaches to understanding and modeling gender are discussed, as are specific case-studies from many different cultures.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -763,7 +771,7 @@
         },
         {
             "name": "Contemporary Issues in Domestic Violence",
-            "number": "4400",
+            "number": "WGST 4400",
             "description": "(same as SOC_WK 4400). This 3-hour course covers history of battered women's movement, violence theories, policy issues, prevention and intervention practice models for working with battered women, their children, and abusers. Graded on A-F basis only.",
             "prerequisites": "Junior or Senior standing required",
             "hours": "3",
@@ -772,7 +780,7 @@
         },
         {
             "name": "Studies in Gender, Culture, and Politics",
-            "number": "4420",
+            "number": "WGST 4420",
             "description": "Examines ethical issues, social policies and politics, and cultural practices affecting women in specific national and global contexts. May be repeated for credit with different semester themes.",
             "prerequisites": "junior standing or instructor's consent",
             "hours": "3",
@@ -781,7 +789,7 @@
         },
         {
             "name": "Major African Diaspora Women Writers",
-            "number": "4480",
+            "number": "WGST 4480",
             "description": "(same as BL_STU 4480 and ENGLSH 4480). Study of selected Africana Diaspora women writers, focusing on texts originally in English. Repeatable with department's consent.  Maximum of 6 hours for WGST 4180 and WGST 4480.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -790,7 +798,7 @@
         },
         {
             "name": "Major African Diaspora Women Writers, 1603 to 1789",
-            "number": "4487",
+            "number": "WGST 4487",
             "description": "(same as BL_STU 4487, ENGLSH 4487). See WGST 4480 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -799,7 +807,7 @@
         },
         {
             "name": "Major African Diaspora Women Writers, 1789 to 1890",
-            "number": "4488",
+            "number": "WGST 4488",
             "description": "(same as BL_STU 4488, ENGLSH 4488). See WGST 4480 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -808,7 +816,7 @@
         },
         {
             "name": "Major African Diaspora Women Writers, 1890 to Present",
-            "number": "4489",
+            "number": "WGST 4489",
             "description": "(same as BL_STU 4489, ENGLSH 4489). See WGST 4480 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -817,7 +825,7 @@
         },
         {
             "name": "Gender and Human Rights in Cross Cultural Perspective",
-            "number": "4550",
+            "number": "WGST 4550",
             "description": "(same as SOCIOL 4550 and PEA_ST 4550).  This course focuses on the global discourse on human rights and gender, emphasizing cross-cultural theories.  Course includes the meaning of rights, Western and nonwestern perspectives, feminist contributions, important substantive debates, violations, policymaking and activism.",
             "prerequisites": "WGST 1120 or SOCIOL 2200",
             "hours": "3",
@@ -829,7 +837,7 @@
         },
         {
             "name": "Gender and Human Rights in Cross Cultural Perspective - Writing Intensive",
-            "number": "4550W",
+            "number": "WGST 4550W",
             "description": "(same as SOCIOL 4550 and PEA_ST 4550).  This course focuses on the global discourse on human rights and gender, emphasizing cross-cultural theories.  Course includes the meaning of rights, Western and nonwestern perspectives, feminist contributions, important substantive debates, violations, policymaking and activism.",
             "prerequisites": "WGST 1120 or SOCIOL 2200",
             "hours": "3",
@@ -841,7 +849,7 @@
         },
         {
             "name": "Studies in Women and Health",
-            "number": "4600",
+            "number": "WGST 4600",
             "description": "A survey of international and domestic women's health issues; considers historical antecedents and specific effects of socio-cultural variables and economic development on women's health in developing and developed nations. May be repeated for credit with different semester themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -850,7 +858,7 @@
         },
         {
             "name": "Studies in Gender and Performance",
-            "number": "4640",
+            "number": "WGST 4640",
             "description": "Examines the relationship among gender, race, class, and/or sexuality, and performance.  Course materials may include theatre performance, visual art, literacy context, theoretical essays, films, and popular culture.  May be repeated for credit with different semester themes.",
             "prerequisites": "junior standing",
             "hours": "3",
@@ -859,7 +867,7 @@
         },
         {
             "name": "European Women in the 20th Century",
-            "number": "4660",
+            "number": "WGST 4660",
             "description": "(same as HIST 4660). Examines the history of European women from World War I to the present. The course focuses on wars, migration, and the changing nature of family, work and community.",
             "prerequisites": "junior standing",
             "hours": "3",
@@ -868,7 +876,7 @@
         },
         {
             "name": "Women and the Media",
-            "number": "4716",
+            "number": "WGST 4716",
             "description": "(same as JOURN 4716; cross-leveled with WGST 7716, JOURN 7716). Focus on portrayal of women in American mass media. Other goals: historical perspective on women as journalists; exposure to issues usually not covered by mass media; research and writing skills.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -877,7 +885,7 @@
         },
         {
             "name": "Women and Politics",
-            "number": "4730",
+            "number": "WGST 4730",
             "description": "(same as POL_SC 4730). This course examines women's political participation and public policies towards women in countries around the world.",
             "prerequisites": "junior standing",
             "hours": "3",
@@ -886,7 +894,7 @@
         },
         {
             "name": "Women, Religion and Culture",
-            "number": "4750",
+            "number": "WGST 4750",
             "description": "(same as REL_ST 4750). An advanced study of the role of women in religion, focusing on the methods of determining the significance of gender in religious life, sacred texts, symbols, rituals and/or beliefs. Traditions studied include Christianity, Islam, contemporary pagan communities, and Native American traditions.",
             "prerequisites": "REL_ST 3750 or WGST 3750",
             "hours": "3",
@@ -898,7 +906,7 @@
         },
         {
             "name": "Women's Folklore and Feminist Theory",
-            "number": "4780",
+            "number": "WGST 4780",
             "description": "(same as ENGLSH 4780). Examines folklore and artistic expression of women in relations to feminist theory and in multicultural contexts. Includes verbal genres (narrative/song) as well as material genres (quilting/arts).",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -907,7 +915,7 @@
         },
         {
             "name": "Women's and Gender Studies Abroad - Behavioral Science",
-            "number": "4873",
+            "number": "WGST 4873",
             "description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies curriculum and extend a global perspective to their study and/or career development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -916,7 +924,7 @@
         },
         {
             "name": "Women's and Gender Studies Abroad - Social Science",
-            "number": "4874",
+            "number": "WGST 4874",
             "description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies curriculum and extend a global perspective to their study and/or career development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -925,7 +933,7 @@
         },
         {
             "name": "Women's and Gender Studies Abroad - Humanities",
-            "number": "4875",
+            "number": "WGST 4875",
             "description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies  curriculum and extend a global perspective to their study and/or career development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -934,7 +942,7 @@
         },
         {
             "name": "Women's and Gender Studies Abroad - Humanities",
-            "number": "4875H",
+            "number": "WGST 4875H",
             "description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies  curriculum and extend a global perspective to their study and/or career development.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -943,7 +951,7 @@
         },
         {
             "name": "Internship in Women's and Gender Studies",
-            "number": "4940",
+            "number": "WGST 4940",
             "description": "Directed professional experience in appropriate feminist related agency  or organization. Graded on S/U basis only.",
             "prerequisites": "junior standing; departmental consent",
             "hours": "1-12",
@@ -952,7 +960,7 @@
         },
         {
             "name": "Special Readings in Women's and Gender Studies",
-            "number": "4965",
+            "number": "WGST 4965",
             "description": "Independent readings in women's and gender studies for highly qualified and motivated students. Topic selected in consultation with supervisory faculty member. Repeatable up to 6 hours.",
             "prerequisites": "junior standing or WGST 1120",
             "hours": "1-6",
@@ -963,7 +971,7 @@
         },
         {
             "name": "Capstone: Senior Research Seminar in Women's and Gender Studies",
-            "number": "4990",
+            "number": "WGST 4990",
             "description": "Seminar for senior students earning interdisciplinary B.A. with emphasis in WGST. Students will reflect knowledge and experience gained as WGST majors and explore taking that knowledge and experience out in the \"real world\".",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -972,7 +980,7 @@
         },
         {
             "name": "Capstone: Senior Research Seminar in Women's and Gender Studies - Writing Intensive",
-            "number": "4990W",
+            "number": "WGST 4990W",
             "description": "Seminar for senior students earning interdisciplinary B.A. with emphasis in WGST. Students will reflect knowledge and experience gained as WGST majors and explore taking that knowledge and experience out in the \"real world\".",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -981,7 +989,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-General",
-            "number": "7001",
+            "number": "WGST 7001",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable for credit.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -990,7 +998,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Behavioral Studies",
-            "number": "7003",
+            "number": "WGST 7003",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable for credit.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -999,7 +1007,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Social Science",
-            "number": "7004",
+            "number": "WGST 7004",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable for credit.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -1008,7 +1016,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Humanities",
-            "number": "7005",
+            "number": "WGST 7005",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable for credit.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -1017,7 +1025,7 @@
         },
         {
             "name": "Studies in Feminist Thought",
-            "number": "7020",
+            "number": "WGST 7020",
             "description": "(same as BL_STU 7020; cross-leveled with WGST 4020). Examines recent problems and critical debates within feminist theory.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1026,7 +1034,7 @@
         },
         {
             "name": "Feminist Research and Criticism",
-            "number": "7110",
+            "number": "WGST 7110",
             "description": "(same as SOCIOL 7110).  Examination of both feminist critique of traditional social research and recent, feminist-oriented research that attempts to answer these criticisms.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1035,7 +1043,7 @@
         },
         {
             "name": "Women, Art and Society",
-            "number": "7120",
+            "number": "WGST 7120",
             "description": "(same as AR_H_A 7120). Analysis of the careers and works of women artists, and images of women (by female and male artists), in selected eras.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1044,7 +1052,7 @@
         },
         {
             "name": "Major Women Writers",
-            "number": "7180",
+            "number": "WGST 7180",
             "description": "(same as ENGLSH 7180). Study of a limited number (1-3) of significant writers to be read intensively using contemporary feminist critical theory. Repeatable with department's consent maximum of six hours for WGST 7180 and WGST 7480.",
             "prerequisites": "two courses in British or American Literature",
             "hours": "3",
@@ -1053,7 +1061,7 @@
         },
         {
             "name": "Themes in Literature by Women",
-            "number": "7181",
+            "number": "WGST 7181",
             "description": "(same as ENGLSH 7181). Examines works by a number of women writers with particular attention to their sociopolitical context. May repeat to six hours with department's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1062,7 +1070,7 @@
         },
         {
             "name": "Major Women Writers, Beginning to 1603",
-            "number": "7186",
+            "number": "WGST 7186",
             "description": "(same as ENGLSH 7186). See WGST 7180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1071,7 +1079,7 @@
         },
         {
             "name": "Major Women Writers, 1603-1789",
-            "number": "7187",
+            "number": "WGST 7187",
             "description": "(same as ENGLSH 7187). See WGST 7180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1080,7 +1088,7 @@
         },
         {
             "name": "Major Women Writers, 1789-1890",
-            "number": "7188",
+            "number": "WGST 7188",
             "description": "(same as ENGLSH 7188). See WGST 7180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1089,7 +1097,7 @@
         },
         {
             "name": "Major Women Writers, 1890-Present",
-            "number": "7189",
+            "number": "WGST 7189",
             "description": "(same as ENGLSH 7189). See WGST 7180 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1098,7 +1106,7 @@
         },
         {
             "name": "Women, Development, and Globalization",
-            "number": "7230",
+            "number": "WGST 7230",
             "description": "(same as SOCIOL 7230). Examines the history and structure of \"development\" discourse and practices. Stresses the interconnections and impact on women globally. Reviews women's strategies in defining and instituting programs to improve quality of life in communities.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1107,7 +1115,7 @@
         },
         {
             "name": "Social Perspectives on Gender and Emotion",
-            "number": "7235",
+            "number": "WGST 7235",
             "description": "(same as BL_STU 7235, SOCIOL 7235; cross-leveled with SOCIOL 4235, BL_STU 4235, WGST 4235). Examines theories of affect and emotions, the social contexts and the implications for human development and behavior, with special emphasis on sex, gender, race, class and culture. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1116,7 +1124,7 @@
         },
         {
             "name": "Adoption, Child Welfare and the Family, 1850-present",
-            "number": "7310",
+            "number": "WGST 7310",
             "description": "(same as HIST 7310; cross-leveled with WGST 4310, HIST 4310). This interdisciplinary U.S. history course will address topics such as: changing legal and social meanings of adoption since 1850; historical connections between adoption and poverty, family, gender, race, sexuality, class, fertility, identity; and more recent issues such as transnational adoption.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1125,7 +1133,7 @@
         },
         {
             "name": "Studies in Gender and the Environment",
-            "number": "7350",
+            "number": "WGST 7350",
             "description": "(cross-leveled with WGST 4350). Explores how gendered social relations affect the relationship between human beings, non-human nature, and the environment.  Also examines how historically, the human relationship with nature has been governed by a dualism of culture and nature that enables both an ideology of technical control and the objectification of the environment and people.  Draws from ecological feminism, the environmental justice movement, feminist science studies, materialist feminism, and feminist dystopian fiction.  May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1134,7 +1142,7 @@
         },
         {
             "name": "Anthropology of Gender",
-            "number": "7370",
+            "number": "WGST 7370",
             "description": "(same as ANTHRO 7370)  The Anthropology of Gender Introduces the student to the variation in the relationships between males and females; and between men, women, and other genders from around the world.  The different approaches to understanding and modeling gender are discussed, as are specific case-studies from many different cultures.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1143,7 +1151,7 @@
         },
         {
             "name": "Contemporary Issues in Domestic Violence",
-            "number": "7400",
+            "number": "WGST 7400",
             "description": "(same as SOC_WK 7400; cross-leveled with WGST 4400, SOC_WK 4400).  Covers history of the domestic violence movement, intimate partner violence theories and data, legislative and organizational policy issues, and intervention models for practice with individuals who have experienced domestic violence including co-occurring issues such as trauma.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1152,7 +1160,7 @@
         },
         {
             "name": "Studies in Gender, Culture, and Politics",
-            "number": "7420",
+            "number": "WGST 7420",
             "description": "Examines ethical issues, social policies and politics, and cultural practices affecting women in specific national and global contexts.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1161,7 +1169,7 @@
         },
         {
             "name": "Major African Diaspora Women Writers",
-            "number": "7480",
+            "number": "WGST 7480",
             "description": "(same as BL_STU 7480 and ENGLSH 7480). Study of selected African Diaspora women writers, focusing on texts originally in English. Repeatable with department's consent. Maximum of 6 hours for WGST 7180 and WGST 7480.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1170,7 +1178,7 @@
         },
         {
             "name": "Major African Diaspora Women Writers, 1603 to 1789",
-            "number": "7487",
+            "number": "WGST 7487",
             "description": "(same as BL_STU 7487 and ENGLSH 7487). See WGST 7480 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1179,7 +1187,7 @@
         },
         {
             "name": "Major African Diaspora Women Writers, 1789 to 1890",
-            "number": "7488",
+            "number": "WGST 7488",
             "description": "(same as BL_STU 7488 and ENGLSH 7488). See WGST 7480 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1188,7 +1196,7 @@
         },
         {
             "name": "Major African Diaspora Women Writers, 1890 to Present",
-            "number": "7489",
+            "number": "WGST 7489",
             "description": "(same as BL_STU 7489 and ENGLSH 7489). See WGST 7480 for course description.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1197,7 +1205,7 @@
         },
         {
             "name": "Gender and Human Rights in Cross Cultural Perspective",
-            "number": "7550",
+            "number": "WGST 7550",
             "description": "(same as SOCIOL 7550 and PEA_ST 7550). Focuses on the global discourse on human rights and gender, emphasizing cross-cultural theories.  Course includes the meaning of human rights, western and nonwestern perspectives, feminist contributions, important substantive debates, violations, policymaking and activism.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1206,7 +1214,7 @@
         },
         {
             "name": "Studies in Women and Health",
-            "number": "7600",
+            "number": "WGST 7600",
             "description": "A survey of international and domestic women's health issues; considers historical antecedents and specific effects of socio-cultural variables and economic development on women's health in developing and developed nations.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1215,7 +1223,7 @@
         },
         {
             "name": "Studies in Gender and Performance",
-            "number": "7640",
+            "number": "WGST 7640",
             "description": "Examines the relationships among gender, race, class, and/or sexuality, and performance. Course materials may include theatre performance, visual art, literary texts, theoretical essays, films, and popular culture.  May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1224,7 +1232,7 @@
         },
         {
             "name": "European Women in the 20th Century",
-            "number": "7660",
+            "number": "WGST 7660",
             "description": "(same as HIST 7660). Examines the history of European women from World War I to the present. The course focuses on wars, migration, and the changing nature of family, work and community.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1233,7 +1241,7 @@
         },
         {
             "name": "Women and the Media",
-            "number": "7716",
+            "number": "WGST 7716",
             "description": "(same as JOURN 7716; cross-leveled with WGST 4716, JOURN 4716). Focus on portrayal of women in American mass media. Other goals: historical perspective on women as journalists; exposure to issues usually not covered by mass media; research and writing skills.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1242,7 +1250,7 @@
         },
         {
             "name": "Women, Religion and Culture",
-            "number": "7750",
+            "number": "WGST 7750",
             "description": "(same as REL_ST 7750). An advanced study of the role of women in religion, focusing on the methods of determining the significance of gender in religious life, sacred texts, symbols, rituals and/or beliefs. Traditions studied include Christianity, Islam, contemporary pagan communities, and Native American traditions.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1251,7 +1259,7 @@
         },
         {
             "name": "Women's Folklore and Feminist Theory",
-            "number": "7780",
+            "number": "WGST 7780",
             "description": "(same as ENGLSH 7780). Examines folklore and artistic expression of women in relations to feminist theory and in multicultural contexts. Includes verbal genres (narrative/song) as well as material genres (quilting/arts).",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1260,7 +1268,7 @@
         },
         {
             "name": "Women's and Gender Studies Abroad - Behavioral Science",
-            "number": "7873",
+            "number": "WGST 7873",
             "description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies curriculum and extend a global perspective to their study and/or career development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1269,7 +1277,7 @@
         },
         {
             "name": "Women's and Gender Studies Abroad-Social Science",
-            "number": "7874",
+            "number": "WGST 7874",
             "description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies curriculum and extend a global perspective to their study and/or career development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1278,7 +1286,7 @@
         },
         {
             "name": "Women's and Gender Studies Abroad - Humanities",
-            "number": "7875",
+            "number": "WGST 7875",
             "description": "This interdisciplinary study abroad course provides students the opportunity to study women's issues in the globe, to study in a foreign culture and augment their global competencies across the Women's and Gender Studies curriculum and extend a global perspective to their study and/or career development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1287,7 +1295,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-General",
-            "number": "8001",
+            "number": "WGST 8001",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -1296,7 +1304,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Behavioral",
-            "number": "8003",
+            "number": "WGST 8003",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -1305,7 +1313,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Social Science",
-            "number": "8004",
+            "number": "WGST 8004",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -1314,7 +1322,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies-Humanities",
-            "number": "8005",
+            "number": "WGST 8005",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. Repeatable.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -1323,7 +1331,7 @@
         },
         {
             "name": "Graduate Feminist Theory",
-            "number": "8020",
+            "number": "WGST 8020",
             "description": "This course will explore the texts and contexts of feminist theories including women of color socialist/Marxist feminism, queer theory, postmodern feminism, and feminist postcolonial theory.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1332,7 +1340,7 @@
         },
         {
             "name": "Seminar: Problems and Issues in Feminist Scholarship",
-            "number": "8040",
+            "number": "WGST 8040",
             "description": "This course is a broad based exploration of a range of current feminist scholarship, both multidisciplinary and interdisciplinary. Issues of identity and difference, community and change are explored through the complicating lenses of race and sexuality.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1341,7 +1349,7 @@
         },
         {
             "name": "New Directions in Feminist Theory",
-            "number": "8060",
+            "number": "WGST 8060",
             "description": "Offers an in-depth exploration of a recent direction in feminist theory. Students will learn a specific feminist approach to scholarship. Theory explored will change based on the semester and professor teaching the course.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1350,7 +1358,7 @@
         },
         {
             "name": "Women Writers of the African Diaspora",
-            "number": "8400",
+            "number": "WGST 8400",
             "description": "Closely studies the works of women writers in the African Diaspora.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1359,7 +1367,7 @@
         },
         {
             "name": "Readings in Feminist and Gender Studies",
-            "number": "8405",
+            "number": "WGST 8405",
             "description": "Graduate-level exploration of concentrated readings that address gender, sexuality, and/or feminist theory within a specific disciplinary area.  May be repeated for credit",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1368,7 +1376,7 @@
         },
         {
             "name": "Africana Theory and Literature Criticism: Black Feminist/Womanist Thought",
-            "number": "8410",
+            "number": "WGST 8410",
             "description": "Modern and contemporary Africana Diaspora criticism and theory including the diverse approaches to literary and cultural studies.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1377,7 +1385,7 @@
         },
         {
             "name": "Work and Family Seminar",
-            "number": "8620",
+            "number": "WGST 8620",
             "description": "(same as H_D_FS 8620).  Interaction of family life and income-producing work with attention to how these interconnections vary by social class, gender, race/ethnicity, and age.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1386,7 +1394,7 @@
         },
         {
             "name": "Gendered Relations in Families",
-            "number": "8630",
+            "number": "WGST 8630",
             "description": "(same as H_D_FS 8630).  From a feminist perspective, the roles of gender in shaping family life experience and of family life experience in shaping gender will be explored.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1395,7 +1403,7 @@
         },
         {
             "name": "Problems in Women's and Gender Studies",
-            "number": "8965",
+            "number": "WGST 8965",
             "description": "Directed individual study on selected topics for qualified graduate students. Plan of study subject to approval by supervising faculty.",
             "prerequisites": "departmental consent",
             "hours": "1-6",
@@ -1404,7 +1412,7 @@
         },
         {
             "name": "Topics in Women's and Gender Studies",
-            "number": "9001",
+            "number": "WGST 9001",
             "description": "Problems, topics, issues or review of research in any area of women's and gender studies and/or experimental development of new content areas. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -1413,7 +1421,7 @@
         },
         {
             "name": "Race, Gender, Ethnicity in Higher Education",
-            "number": "9440",
+            "number": "WGST 9440",
             "description": "(same as ED_LPA 9440).  Historical relationships of race, gender, and ethnic issues in United States higher education. Issues include: theory and research of curriculum and teaching, diversity within the academy, and leadership, governance, and policy.",
             "prerequisites": "None Listed",
             "hours": "3",

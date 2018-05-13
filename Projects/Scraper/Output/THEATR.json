@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Topics in Theatre - Humanities/Fine Arts",
-            "number": "1005",
+            "number": "THEATR 1005",
             "description": "Organized study of selected topics. Subject and credit may vary from semester to semester. May be repeated with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -13,7 +13,7 @@
         },
         {
             "name": "The Theatre in Society",
-            "number": "1100",
+            "number": "THEATR 1100",
             "description": "Examines the form and meaning of theatre in civilizations of the West from the ancient Greeks to modern times.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Voice and Articulation",
-            "number": "1200",
+            "number": "THEATR 1200",
             "description": "Techniques for improving speaking voice; theories underlying techniques. Attention to student's articulation, pronunciation, voice quality, general expressiveness.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -31,7 +31,7 @@
         },
         {
             "name": "World Theatre Workshop",
-            "number": "1250",
+            "number": "THEATR 1250",
             "description": "(same as BL_STU 1250). Provides a diverse ensemble of student performers, writers, and technicians with an intensive immersion in the process of theatrical production through the public presentation of dramatic literature that focuses on global issues of ethnicity and culture.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Beginning Scenic Construction",
-            "number": "1320",
+            "number": "THEATR 1320",
             "description": "This course examines, through theory and practice, the art and science of technical theatre. Students explore the methods, equipment, and materials used in executing scenery, properties, and lighting designs for the stage, and participate in the backstage operation of a theatrical production.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Beginning Costume Construction",
-            "number": "1340",
+            "number": "THEATR 1340",
             "description": "This course examines, through theory and practice, the art and science of costume technology in the theatre. Students explore the methods, equipment, and materials used in executing costume designs for the stage, and participate in the backstage operation of a theatrical production.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Stage Makeup",
-            "number": "1360",
+            "number": "THEATR 1360",
             "description": "Character analysis, facial anatomy, color for stage and television makeup. Practice in application.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Acting for Non-Majors",
-            "number": "1400",
+            "number": "THEATR 1400",
             "description": "Basic theory and practice of acting for the non theatre major.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Stage Movement for the Actor",
-            "number": "1420",
+            "number": "THEATR 1420",
             "description": "Basic work in the techniques that comprise movement training for the actor.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -85,7 +85,7 @@
         },
         {
             "name": "African-American Theatre History",
-            "number": "1720",
+            "number": "THEATR 1720",
             "description": "(same as BL_STU 1720). A historical and critical analysis of the evolution of African American cultural performance in the American theatre and entertainment industry.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Topics in Theatre - Humanities",
-            "number": "2005",
+            "number": "THEATR 2005",
             "description": "Organized study of selected topics. Subject and credit may vary from semester to semester. May be repeated with department consent.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -103,7 +103,7 @@
         },
         {
             "name": "African-American Cinema",
-            "number": "2150",
+            "number": "THEATR 2150",
             "description": "(same as BL_STU 2150). Study of the impact of cinema and the entertainment industry on the social perceptions of African-Americans and on African-American culture.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Introduction to Performance Studies",
-            "number": "2200",
+            "number": "THEATR 2200",
             "description": "This course focuses on the writing of adaptations for the stage through performance.  Students develop skills in critical reading, writing, listening, speaking and analysis of performance as they study oral and literary texts, autobiography and narratives.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -121,7 +121,7 @@
         },
         {
             "name": "Production Workshop I",
-            "number": "2300",
+            "number": "THEATR 2300",
             "description": "Work backstage in support of university theatre productions. Scenery, lighting, costumes, properties or other responsibilities. May be repeated. Graded on a S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -130,7 +130,7 @@
         },
         {
             "name": "Stage Management",
-            "number": "2330",
+            "number": "THEATR 2330",
             "description": "Study of the role of the theatre stage manager. Practice in becoming effective in planning and stage managing theatre productions. Graded on A/F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -139,7 +139,7 @@
         },
         {
             "name": "Stagecraft",
-            "number": "2360",
+            "number": "THEATR 2360",
             "description": "Fundamentals of properties and scenic construction stressing terminology and practical production experience.",
             "prerequisites": "THEATR 1320",
             "hours": "3",
@@ -150,7 +150,7 @@
         },
         {
             "name": "Performance Workshop",
-            "number": "2410",
+            "number": "THEATR 2410",
             "description": "Credit for performance in University Theatre Production. Must audition and be cast to receive credit. May be repeated. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -159,7 +159,7 @@
         },
         {
             "name": "Introduction to Theatre Design",
-            "number": "2510",
+            "number": "THEATR 2510",
             "description": "Design principles and elements as they relate to theatre performance. Use of drawing and creative 3-dimensional exercises to develop design concepts.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -168,7 +168,7 @@
         },
         {
             "name": "Introduction to Theatre History",
-            "number": "2710",
+            "number": "THEATR 2710",
             "description": "Survey of major periods emphasizing the produced play in its historical context.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -177,7 +177,7 @@
         },
         {
             "name": "Principles of Script Analysis",
-            "number": "2800",
+            "number": "THEATR 2800",
             "description": "Methodologies of script analysis for theatrical purposes. Extensive writing will be required.",
             "prerequisites": "ENGLSH 1000",
             "hours": "3",
@@ -188,7 +188,7 @@
         },
         {
             "name": "Principles of Script Analysis - Writing Intensive",
-            "number": "2800W",
+            "number": "THEATR 2800W",
             "description": "Methodologies of script analysis for theatrical purposes. Extensive writing will be required.",
             "prerequisites": "ENGLSH 1000",
             "hours": "3",
@@ -199,7 +199,7 @@
         },
         {
             "name": "Script Analysis for Theatre Majors",
-            "number": "2810",
+            "number": "THEATR 2810",
             "description": "Advanced methodologies of script analysis. Critical analysis of scripts for theatre, film, and performance, including the analysis of plots, characters, themes, and language. Students in this class view performances and read scripts, then analyze the connections between the scripts and performances through extensive writing exercises.",
             "prerequisites": "ENGLSH 1000",
             "hours": "3",
@@ -210,7 +210,7 @@
         },
         {
             "name": "Beginning Playwriting",
-            "number": "2920",
+            "number": "THEATR 2920",
             "description": "(same as ENGLSH 2560). Study and practice of playwriting fundamentals; emphasizes the one-act play.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -219,7 +219,7 @@
         },
         {
             "name": "Topics in Theatre - Humanities",
-            "number": "3005",
+            "number": "THEATR 3005",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -228,7 +228,7 @@
         },
         {
             "name": "Topics in Theatre - Honors - Humanities",
-            "number": "3005H",
+            "number": "THEATR 3005H",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated with departmental consent.",
             "prerequisites": "Instructor's consent and honors eligibility",
             "hours": "1-99",
@@ -237,7 +237,7 @@
         },
         {
             "name": "Summer Repertory Theatre",
-            "number": "3100",
+            "number": "THEATR 3100",
             "description": "Participation in production of Summer Repertory Theatre. May be repeated.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -246,7 +246,7 @@
         },
         {
             "name": "Performance of Literature",
-            "number": "3200",
+            "number": "THEATR 3200",
             "description": "(same as ENGLSH 3570 and COMMUN 3570). Analysis and oral interpretation of literary works. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -255,7 +255,7 @@
         },
         {
             "name": "Vocal Performance Technique",
-            "number": "3230",
+            "number": "THEATR 3230",
             "description": "This course develops the ability to use the voice as a creative and expressive instrument through a comprehensive study of speech and voice dynamics which include the exploration of proper breathing, relaxation, tonal placement, and non-regional articulation.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -264,7 +264,7 @@
         },
         {
             "name": "Production Workshop II",
-            "number": "3300",
+            "number": "THEATR 3300",
             "description": "Credit earned in a technical project in support of a University Theatre production. Scenery, costumes, properties, or other responsibilities.  May be repeated to total of 3 hours.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -273,7 +273,7 @@
         },
         {
             "name": "Costume Crafts",
-            "number": "3310",
+            "number": "THEATR 3310",
             "description": "To develop the skills and techniques needed in executing costume crafts, including millinery, corsetry, painting and dyeing, and embellishment.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -282,7 +282,7 @@
         },
         {
             "name": "Theatrical Patternmaking",
-            "number": "3320",
+            "number": "THEATR 3320",
             "description": "Patternmaking for the theatre.  Basic knowledge of sewing required.",
             "prerequisites": "THEATR 1340 or T_A_M 1200",
             "hours": "3",
@@ -294,7 +294,7 @@
         },
         {
             "name": "Advanced Costume Construction",
-            "number": "3330",
+            "number": "THEATR 3330",
             "description": "Learn advanced techniques in theatrical costuming through lecture, demonstration and practical application.",
             "prerequisites": "THEATR 1340 and instructor's consent",
             "hours": "3",
@@ -305,7 +305,7 @@
         },
         {
             "name": "Scene Painting",
-            "number": "3340",
+            "number": "THEATR 3340",
             "description": "Studio practice in techniques of painting scenery for the Theatre.",
             "prerequisites": "instructor's consent",
             "hours": "2",
@@ -314,7 +314,7 @@
         },
         {
             "name": "Acting I",
-            "number": "3420",
+            "number": "THEATR 3420",
             "description": "Basic theory, practice of acting, stage movement.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -323,16 +323,18 @@
         },
         {
             "name": "Acting II",
-            "number": "3430",
+            "number": "THEATR 3430",
             "description": "Script analysis, character and role development in modern and contemporary non-realistic theatrical forms. Rehearsal and presentation of scenes, based on contemporary dramatic and performance theory.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "THEATR 2800",
-            "connections": "None Listed"
+            "connections": [
+                "THEATR 2800"
+            ]
         },
         {
             "name": "Computer Graphics in Theatre Design",
-            "number": "3530",
+            "number": "THEATR 3530",
             "description": "The use of graphics and CAD software to create theatre designs. The course will progress from 2D CAD drafting to 3D image rendering.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -341,7 +343,7 @@
         },
         {
             "name": "Advanced Stage Makeup",
-            "number": "3540",
+            "number": "THEATR 3540",
             "description": "Advanced practical experience in stage makeup techniques. Projects might include: mask making, ventilation, advanced character applications. Practice in application. Graded on A-F basis only.",
             "prerequisites": "THEATR 1360 and instructor's consent",
             "hours": "2",
@@ -352,7 +354,7 @@
         },
         {
             "name": "Sound Design",
-            "number": "3550",
+            "number": "THEATR 3550",
             "description": "Beginning sound design for the theatre. Units include basics of researching, recording, and augmenting sound for the use in a theatrical production.",
             "prerequisites": "THEATR 1320 and instructor's consent",
             "hours": "3",
@@ -363,18 +365,19 @@
         },
         {
             "name": "Scene Design",
-            "number": "3560",
+            "number": "THEATR 3560",
             "description": "Theory/practice of scenic design for the theatre with emphasis on the evolutionary process of design from concept to reality.",
             "prerequisites": "THEATR 2510",
             "hours": "3",
             "recommendation": "THEATR 3530",
             "connections": [
-                "THEATR 2510"
+                "THEATR 2510",
+                "THEATR 3530"
             ]
         },
         {
             "name": "Theatrical Directing",
-            "number": "3600",
+            "number": "THEATR 3600",
             "description": "Theory and practice of play directing, script selection, casting, play analysis, rehearsal and performance.",
             "prerequisites": "THEATR 2800 and instructor's consent",
             "hours": "3",
@@ -385,7 +388,7 @@
         },
         {
             "name": "Theatrical Directing - Writing Intensive",
-            "number": "3600W",
+            "number": "THEATR 3600W",
             "description": "Theory and practice of play directing, script selection, casting, play analysis, rehearsal and performance.",
             "prerequisites": "THEATR 2800 and instructor's consent",
             "hours": "3",
@@ -396,25 +399,31 @@
         },
         {
             "name": "World Dramatic Literature",
-            "number": "3700",
+            "number": "THEATR 3700",
             "description": "(same as ENGLSH 3170). Survey of world drama from Greeks to present, focusing on structure, theory and performance.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "THEATR 2710 and THEATR 2800",
-            "connections": "None Listed"
+            "connections": [
+                "THEATR 2710",
+                "THEATR 2800"
+            ]
         },
         {
             "name": "World Dramatic Literature - Writing Intensive",
-            "number": "3700W",
+            "number": "THEATR 3700W",
             "description": "(same as ENGLSH 3170). Survey of world drama from Greeks to present, focusing on structure, theory and performance.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "THEATR 2710 and THEATR 2800",
-            "connections": "None Listed"
+            "connections": [
+                "THEATR 2710",
+                "THEATR 2800"
+            ]
         },
         {
             "name": "New American Theatre",
-            "number": "3750",
+            "number": "THEATR 3750",
             "description": "Survey of drama of the most recent decade as it documents contemporary mores and amplifies cultural themes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -423,7 +432,7 @@
         },
         {
             "name": "The Theatre Experience: From Page to Stage and Screen",
-            "number": "3770",
+            "number": "THEATR 3770",
             "description": "Stimulates critical thinking about theatrical performance, its relationship to the society of which it is a part, and its past and present significance as an art form, a cultural resource, a social institution, and a commercial enterprise.",
             "prerequisites": "Journalism Majors only",
             "hours": "3",
@@ -432,7 +441,7 @@
         },
         {
             "name": "Intermediate Playwriting",
-            "number": "3920",
+            "number": "THEATR 3920",
             "description": "(same as ENGLSH 3560). Intermediate study of the writing process as applied to theatre, leading to the creation of a full-length play to be considered for production.",
             "prerequisites": "THEATR 2920 or ENGLSH 2560",
             "hours": "3",
@@ -444,7 +453,7 @@
         },
         {
             "name": "Screenwriting for Television and Film",
-            "number": "3930",
+            "number": "THEATR 3930",
             "description": "(same as FILM_S 3930). Fundamentals of storytelling utilizing tools and structure used by television and film.",
             "prerequisites": "ENGLSH 1000",
             "hours": "3",
@@ -455,7 +464,7 @@
         },
         {
             "name": "Topics in Theatre - Humanities",
-            "number": "4005",
+            "number": "THEATR 4005",
             "description": "Organized study of selected topics. Topic and credit may vary semester to semester. May be repeated with department consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -464,19 +473,20 @@
         },
         {
             "name": "Acting III",
-            "number": "4220",
+            "number": "THEATR 4220",
             "description": "(cross-leveled with THEATR 7220). Period acting styles. Special projects in interpretation, rehearsal, creation of roles.",
             "prerequisites": "THEATR 3420 or THEATR 3430",
             "hours": "3",
             "recommendation": "THEATR 2800",
             "connections": [
                 "THEATR 3420",
-                "THEATR 3430"
+                "THEATR 3430",
+                "THEATR 2800"
             ]
         },
         {
             "name": "Theory and Practice of Theatre of the Oppressed",
-            "number": "4240",
+            "number": "THEATR 4240",
             "description": "(same as PEA_ST 4240). Theory and practice of Augusto Boal's liberatory interactive theatre process, including application of techniques of specific social issues.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -485,7 +495,7 @@
         },
         {
             "name": "Digital Media and Performance",
-            "number": "4280",
+            "number": "THEATR 4280",
             "description": "(cross-leveled with THEATR 7280). This course introduces students to the history and practice of the combination of live actors and digital media within the context of theatre and performance. Students learn about developments in the history of this topic as well as significant individuals, groups of artists, and theorists who have contributed to the field. Theories of performance are utilized as a way to understand subjects such as the development of computers and the Internet, the impact of technology and social media on society, virtual reality, telematics, robotics, and video games. Students create their own performances that combine live performances with digital media elements, and learn basic approaches to using computer software that is employed in creating these types of performances.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -494,7 +504,7 @@
         },
         {
             "name": "Musical Theatre Performance",
-            "number": "4460",
+            "number": "THEATR 4460",
             "description": "A practical study for the actor of theatrical songs through character analysis, lyric interpretation and movement. A performance course.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -503,7 +513,7 @@
         },
         {
             "name": "Stage Lighting Design",
-            "number": "4530",
+            "number": "THEATR 4530",
             "description": "Theory and practice of lighting for theatre production.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -512,7 +522,7 @@
         },
         {
             "name": "Theatrical Costume Design",
-            "number": "4570",
+            "number": "THEATR 4570",
             "description": "Basic practice in costume rendering using charcoal, crayon, ink, watercolor and other media. Costume history, both theatrical and general, will be surveyed. Basic problems of theatre design will be considered.",
             "prerequisites": "THEATR 1320 or THEATR 1340",
             "hours": "3",
@@ -524,7 +534,7 @@
         },
         {
             "name": "Advanced Directing",
-            "number": "4600",
+            "number": "THEATR 4600",
             "description": "(cross-leveled with THEATR 7600). Advanced principles of theatrical directing; emphasizes stylistic variations. May be repeated once.",
             "prerequisites": "THEATR 3600 and instructor's consent",
             "hours": "3",
@@ -535,7 +545,7 @@
         },
         {
             "name": "Introduction to Dramaturgy",
-            "number": "4650",
+            "number": "THEATR 4650",
             "description": "The course focuses on the practice of dramaturgy and the various functions currently performed by the artist/scholar identified as \"dramaturg\" including research, dramatic criticism/interpretation, new play development, marketing and educational outreach, and textual adaptation.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -544,7 +554,7 @@
         },
         {
             "name": "Studies in Theatre History",
-            "number": "4700",
+            "number": "THEATR 4700",
             "description": "Advanced survey of major periods, movements. Repeatable to a maximum of 6 hours with instructor's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -553,7 +563,7 @@
         },
         {
             "name": "American Musicals",
-            "number": "4720",
+            "number": "THEATR 4720",
             "description": "(same as MUS_H_LI 4376). Historical survey of the development of the 20th-Century American Musical in Theatre and Film.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -562,7 +572,7 @@
         },
         {
             "name": "Theatre Architecture",
-            "number": "4730",
+            "number": "THEATR 4730",
             "description": "Examines the renovation of existing buildings into workable theatre spaces. Includes history of theatre architecture.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -571,7 +581,7 @@
         },
         {
             "name": "Studies in Dramatic Theory",
-            "number": "4800",
+            "number": "THEATR 4800",
             "description": "Analysis of history, meaning and function of selected concepts of contemporary dramatic and performance theory.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -580,7 +590,7 @@
         },
         {
             "name": "Studies in Dramatic Literature",
-            "number": "4820",
+            "number": "THEATR 4820",
             "description": "(cross-leveled with THEATR 7820). Advanced survey of major movements, periods, writers. Repeatable to a maximum of 6 hours with instructor's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -589,7 +599,7 @@
         },
         {
             "name": "Studies in Dramatic Literature - Writing Intensive",
-            "number": "4820W",
+            "number": "THEATR 4820W",
             "description": "Advanced survey of major movements, periods, writers. Repeatable to a maximum of 6 hours with instructor's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -598,7 +608,7 @@
         },
         {
             "name": "Studies in Dramatic Criticism",
-            "number": "4830",
+            "number": "THEATR 4830",
             "description": "Survey of methods of criticism of scripts and performances.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -607,7 +617,7 @@
         },
         {
             "name": "Advanced Playwriting: Problems",
-            "number": "4920",
+            "number": "THEATR 4920",
             "description": "(same as ENGLSH 4560; cross-leveled with THEATR 7920 and ENGLSH 7560). Advanced study of the writing process as applied to theatre, including theory and practice of special playwriting problems and techniques.",
             "prerequisites": "THEATR 3920 or ENGLSH 3560",
             "hours": "3",
@@ -619,7 +629,7 @@
         },
         {
             "name": "Advanced Playwriting: Problems - Writing Intensive",
-            "number": "4920W",
+            "number": "THEATR 4920W",
             "description": "(same as ENGLSH 4560; cross-leveled with THEATR 7920 and ENGLSH 7560). Advanced study of the writing process as applied to theatre, including theory and practice of special playwriting problems and techniques.",
             "prerequisites": "THEATR 3920 or ENGLSH 3560",
             "hours": "3",
@@ -631,7 +641,7 @@
         },
         {
             "name": "Adaptation of Literature for the Stage",
-            "number": "4930",
+            "number": "THEATR 4930",
             "description": "(same as ENGLSH 4570; cross-leveled with THEATR 7930 and ENGLSH 7570). This upper-division course will explore adaptation principles and practices with a variety of forms of literature that were not originally written for the stage.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -640,7 +650,7 @@
         },
         {
             "name": "Adaptation of Literature for Film",
-            "number": "4935",
+            "number": "THEATR 4935",
             "description": "(same as FILM_S 4935 and ENGLSH 4935; cross-leveled with THEATR 7935, ENGLSH 7580 and FILM_S 7935).  This upper-division course will explore adaptation principles and practices with a variety of forms for literature that were not originally written for film.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -649,19 +659,20 @@
         },
         {
             "name": "Advanced Screenwriting: Styles",
-            "number": "4938",
+            "number": "THEATR 4938",
             "description": "(same as ENGLSH 4938; cross-leveled with THEATR 7938, ENGLSH 7938).  To develop advanced skills of screenwriting through a focus on a non-realistic, non-linear dramatic writing styles in development of a full-length screenplay. Areas of study will include techniques of magic realism, symbolism, expressionism, absurdism, surrealism/dada, mythic/fantasy, musicals, political docudrama, and science fiction.",
             "prerequisites": "THEATR 2920 or ENGLSH 2560",
             "hours": "3",
             "recommendation": "THEATR 3930",
             "connections": [
                 "ENGLSH 2560",
-                "THEATR 2920"
+                "THEATR 2920",
+                "THEATR 3930"
             ]
         },
         {
             "name": "Internship in Theatre",
-            "number": "4940",
+            "number": "THEATR 4940",
             "description": "Internship: Experimental learning as an actor, designer, technician, publicist/manager, or dramaturg with an approved theatre company.  Graded on S/U basis only.",
             "prerequisites": "departmental consent",
             "hours": "1-6",
@@ -670,7 +681,7 @@
         },
         {
             "name": "Directed Readings in Theatre",
-            "number": "4960",
+            "number": "THEATR 4960",
             "description": "Independent reading, reports.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -679,7 +690,7 @@
         },
         {
             "name": "Capstone in Theatre",
-            "number": "4990",
+            "number": "THEATR 4990",
             "description": "Theatre experiences and knowledge gained by students are connected through compilation of resume and portfolio. Student will meet with faculty jury to discuss his/her body of theatrical work. Required for senior theatre students.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -688,7 +699,7 @@
         },
         {
             "name": "Topics",
-            "number": "7005",
+            "number": "THEATR 7005",
             "description": "Organized study of selected topics. Topic and credit may vary semester to semester. May be repeated with department consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -697,7 +708,7 @@
         },
         {
             "name": "Acting III",
-            "number": "7220",
+            "number": "THEATR 7220",
             "description": "(cross-leveled with THEATR 7220). Period acting styles. Special projects in interpretation, rehearsal, creation of roles.",
             "prerequisites": "THEATR 2800 and THEATR 3420 or THEATR 3430",
             "hours": "3",
@@ -710,7 +721,7 @@
         },
         {
             "name": "Theory and Practice of Theatre of the Oppressed",
-            "number": "7240",
+            "number": "THEATR 7240",
             "description": "(same as PEA_ST 7240). Theory and practice of Augusto Boal's liberatory interactive theatre process, including application of techniques of specific social issues.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -719,7 +730,7 @@
         },
         {
             "name": "Digital Media and Performance",
-            "number": "7280",
+            "number": "THEATR 7280",
             "description": "(cross-leveled with THEATR 4280).  This course introduces students to the history and practice of the combination of live actors and digital media within the context of theatre and performance. Students learn about developments in the history of this topic as well as significant individuals, groups of artists, and theorists who have contributed to the field. Theories of performance are utilized as a way to understand subjects such as the development of computers and the Internet, the impact of technology and social media on society, virtual reality, telematics, robotics, and video games. Students create their own performances that combine live performances with digital media elements, and learn basic approaches to using computer software that is employed in creating these types of performances.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -728,7 +739,7 @@
         },
         {
             "name": "Stage Lighting Design",
-            "number": "7530",
+            "number": "THEATR 7530",
             "description": "Theory and practice of lighting for theatre production.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -737,7 +748,7 @@
         },
         {
             "name": "Advanced Directing",
-            "number": "7600",
+            "number": "THEATR 7600",
             "description": "(cross-leveled with THEATR 4600). Advanced principles of theatrical directing; emphasizes stylistic variations. May be repeated once.",
             "prerequisites": "THEATR 3600 and instructor's consent",
             "hours": "3",
@@ -748,7 +759,7 @@
         },
         {
             "name": "Studies in Theatre History",
-            "number": "7700",
+            "number": "THEATR 7700",
             "description": "Advanced survey of major periods, movements. Repeatable to a maximum of 6 hours with instructor's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -757,7 +768,7 @@
         },
         {
             "name": "History of American Theatre I",
-            "number": "7710",
+            "number": "THEATR 7710",
             "description": "Examination of theatrical literature and production from the beginnings to World War One.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -766,7 +777,7 @@
         },
         {
             "name": "History of the American Theatre II",
-            "number": "7720",
+            "number": "THEATR 7720",
             "description": "Examination of theatrical literature and production from World War One to the present.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -775,7 +786,7 @@
         },
         {
             "name": "Theatre Architecture",
-            "number": "7730",
+            "number": "THEATR 7730",
             "description": "Examines the renovation of existing buildings into workable theatre spaces. Includes history of theatre architecture.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -784,7 +795,7 @@
         },
         {
             "name": "Studies in Dramatic Theory",
-            "number": "7800",
+            "number": "THEATR 7800",
             "description": "Analysis of history, meaning and function of selected concepts of contemporary dramatic and performance theory.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -793,7 +804,7 @@
         },
         {
             "name": "Studies in Dramatic Literature",
-            "number": "7820",
+            "number": "THEATR 7820",
             "description": "Advanced survey of major movements, periods, writers. Repeatable to a maximum of 6 hours with instructor's consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -802,7 +813,7 @@
         },
         {
             "name": "Studies in Dramatic Criticism",
-            "number": "7830",
+            "number": "THEATR 7830",
             "description": "Survey of methods of criticism of scripts and performances.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -811,7 +822,7 @@
         },
         {
             "name": "Advanced Playwriting: Problems",
-            "number": "7920",
+            "number": "THEATR 7920",
             "description": "(same as ENGLSH 7560; cross-leveled with THEATR 4920 and ENGLSH 4560). Advanced study of the writing process as applied to theatre, including theory and practice of special playwriting problems and techniques.",
             "prerequisites": "THEATR 3920 or ENGLSH 3560",
             "hours": "3",
@@ -823,7 +834,7 @@
         },
         {
             "name": "Adaptation of Literature for the Stage",
-            "number": "7930",
+            "number": "THEATR 7930",
             "description": "(same as ENGLSH 7570; cross-leveled with THEATR 4930). Explores adaptation principles and practices with a variety of forms of literature that were not originally written for the stage.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -832,7 +843,7 @@
         },
         {
             "name": "Adaptation of Literature for Film",
-            "number": "7935",
+            "number": "THEATR 7935",
             "description": "(same as ENGLSH 7580 and FILM_S 7935; cross-leveled with THEATR 4935, FILM_S 4935 and ENGLSH 4935).  This upper-division course will explore adaptation principles and practices with a variety of forms of literature that were not originally written for film.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -841,7 +852,7 @@
         },
         {
             "name": "Advanced Screenwriting: Styles",
-            "number": "7938",
+            "number": "THEATR 7938",
             "description": "(same as ENGLSH 7938; cross-leveled with THEATR 4938, ENGLSH 4938).  To develop advanced skills of screenwriting through a focus on a non-realistic dramatic writing technique in the development of a full-length screenplay. Areas of study will include techniques of magic realism, symbolism, expressionism, absurdism, surrealism/dada, mythic/fantasy, musicals, political docudrama, and science fiction.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -850,7 +861,7 @@
         },
         {
             "name": "Introduction to Dramaturgy",
-            "number": "7950",
+            "number": "THEATR 7950",
             "description": "This course focuses on the practice of dramaturgy and the various functions currently performed by the artist/scholar identified as \"dramaturg\" including research, dramatic criticism/interpretation, new play development, marketing and educational outreach, and textual adaptation. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -859,7 +870,7 @@
         },
         {
             "name": "Directed Readings in Theatre",
-            "number": "7960",
+            "number": "THEATR 7960",
             "description": "Independent reading, reports.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -868,7 +879,7 @@
         },
         {
             "name": "Topics in Theatre",
-            "number": "8005",
+            "number": "THEATR 8005",
             "description": "Organized study of selected topics.  Topic and credit may vary from semester to semester.  May be repeated with department consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -877,7 +888,7 @@
         },
         {
             "name": "Research in Theatre",
-            "number": "8090",
+            "number": "THEATR 8090",
             "description": "Independent research of advanced nature leading to report. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -886,7 +897,7 @@
         },
         {
             "name": "Theatre Scholarship",
-            "number": "8100",
+            "number": "THEATR 8100",
             "description": "History, goals, and techniques of academic writing in theatre including research, types of studies, primary materials, interpretation, writing techniques, and publication.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -895,7 +906,7 @@
         },
         {
             "name": "Performance Ethnography",
-            "number": "8200",
+            "number": "THEATR 8200",
             "description": "This graduate seminar will explore intersections of the fields of ethnography and performance: both studies of ethnographic research conducted within a performance paradigm and the performance of ethnographic research. The class will explore major critical and theoretical issues about ethnography and performance, including the conflation and differences between the forms of ethnographic texts and traditional performance scripts, questions about what constitutes performance ethnography as a genre, the construction and deconstruction of identities and communities inherent in performance ethnography, strategies for creating and critiquing the performance of ethnographic research, ethical questions related to representation and the performance of ethnographic research, writing performance ethnography, and the staging of texts based on ethnographic research.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -904,7 +915,7 @@
         },
         {
             "name": "Problems in Theatre",
-            "number": "8385",
+            "number": "THEATR 8385",
             "description": "Individual study/project not leading to thesis or dissertation.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -913,7 +924,7 @@
         },
         {
             "name": "Backgrounds of Modern Theatre Practice",
-            "number": "8720",
+            "number": "THEATR 8720",
             "description": "Survey of modern performance theory, aesthetics and practice. Emphasis on European theatre since 1875. May be repeated or credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -922,7 +933,7 @@
         },
         {
             "name": "Seminar in Theatre History",
-            "number": "8787",
+            "number": "THEATR 8787",
             "description": "Selected problems in theatre history. May be repeated.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -931,7 +942,7 @@
         },
         {
             "name": "Graduate Seminar in Dramatic Literature",
-            "number": "8820",
+            "number": "THEATR 8820",
             "description": "This is a course that explores the influence of major playwrights and playwriting in society--specific playwrights and their works are determined by the course professor.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -940,7 +951,7 @@
         },
         {
             "name": "Seminar in Dramatic Theory and Criticism",
-            "number": "8887",
+            "number": "THEATR 8887",
             "description": "Selected topics in dramatic theory and criticism. May be repeated.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -949,7 +960,7 @@
         },
         {
             "name": "Directed Readings in Theatre",
-            "number": "8960",
+            "number": "THEATR 8960",
             "description": "Independent reading, reports.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -958,7 +969,7 @@
         },
         {
             "name": "Graduate Seminar in Playwriting",
-            "number": "8987",
+            "number": "THEATR 8987",
             "description": "(same as ENGLSH 8560). Seminar in theory, practice, and pedagogy of playwriting, students prepare a mid-term in playwriting theory, a full-length play, a research paper, and a syllabus and lesson plans for an undergraduate playwriting course.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -967,7 +978,7 @@
         },
         {
             "name": "Research in Theatre",
-            "number": "9090",
+            "number": "THEATR 9090",
             "description": "Research leading to thesis or dissertation. Graded on a S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",

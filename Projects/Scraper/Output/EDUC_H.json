@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Special Readings in Education Honors",
-            "number": "3050H",
+            "number": "EDUC_H 3050H",
             "description": "Directed study of literature and research reports in education.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-4",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Honors Seminar in Education Honors",
-            "number": "3060H",
+            "number": "EDUC_H 3060H",
             "description": "",
             "prerequisites": "Honors eligibility required",
             "hours": "1-2",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Special Practicum in Education Honors",
-            "number": "3070H",
+            "number": "EDUC_H 3070H",
             "description": "Directed practicum experience with students in educational settings.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-4",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Honors Research in Education Honors",
-            "number": "3080H",
+            "number": "EDUC_H 3080H",
             "description": "Joint research in education with a member of the education faculty.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-4",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Undergraduate Reading Honors",
-            "number": "4996H",
+            "number": "EDUC_H 4996H",
             "description": "This course is designed to introduce students to a variety of readings from a broad array of research, historical, contemporary and philosophical documents and writings.  Selection of topics and additional readings are determined by the faculty instructor for the course.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent; Honors eligibility required",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Honors Undergraduate Seminar I",
-            "number": "4997H",
+            "number": "EDUC_H 4997H",
             "description": "This class will consist of a 1 credit hour seminar.  The class is designed to allow undergraduates to develop the skills necessary to engage in practical research for application within the field of teaching and education. The cumulating assignment for the class is a proposal for a research poster or presentation to be presented at the undergraduate research fair held each year in May.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent; Honors eligibility required",
             "hours": "1",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Honors Undergraduate Seminar II",
-            "number": "4998H",
+            "number": "EDUC_H 4998H",
             "description": "The class will consist of a 1 credit hour seminar.  The class is designed to allow undergraduates to develop the skills necessary to engage in practical research for application within the field of teaching and education.  The cumulating assignment for the class is the production of a research poster or presentation at the undergraduate research fair held each year in May.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent; GPA of 3.5 or higher.  Honors eligibility required",
             "hours": "1",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Honors Undergraduate Research Seminar",
-            "number": "4999H",
+            "number": "EDUC_H 4999H",
             "description": "This class will be offered over 2 academic semesters and will consist of a 1-2 credit hour lab each semester with a College of Education faculty member working on an undergraduate research project.  This course is designed as part of the Honors sequence. Graded on A-F only.    Corequisites: EDUC_H 4997H and EDUC_H 4998H",
             "prerequisites": "instructor's consent; Honors eligibility required",
             "hours": "1-2",

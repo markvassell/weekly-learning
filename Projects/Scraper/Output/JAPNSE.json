@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Elementary Japanese I",
-            "number": "1100",
+            "number": "JAPNSE 1100",
             "description": "For beginners with no prior knowledge of Japanese.  Three hours of lecture instruction and three hours of practice/drill per week in small groups.",
             "prerequisites": "None Listed",
             "hours": "6",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Elementary Japanese II",
-            "number": "1200",
+            "number": "JAPNSE 1200",
             "description": "Three hours of lecture instruction and three hours of practice/drill per week in small groups.",
             "prerequisites": "C- or better in JAPNSE 1100, or equivalent",
             "hours": "6",
@@ -24,7 +24,7 @@
         },
         {
             "name": "Topics in Japanese-General",
-            "number": "2001",
+            "number": "JAPNSE 2001",
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -33,7 +33,7 @@
         },
         {
             "name": "Topics in Japanese - Humanities",
-            "number": "2005",
+            "number": "JAPNSE 2005",
             "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. No knowledge of Japanese required. No language credit.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Japanese Conversation and Composition",
-            "number": "2160",
+            "number": "JAPNSE 2160",
             "description": "",
             "prerequisites": "C- or better in JAPNSE 1200, or equivalent",
             "hours": "3",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Japanese Civilization I",
-            "number": "2310",
+            "number": "JAPNSE 2310",
             "description": "Survey of Japanese culture and arts before 1868. May be taken independently of JAPNSE 2320. No knowledge of Japanese required. No foreign language credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Japanese Civilization II",
-            "number": "2320",
+            "number": "JAPNSE 2320",
             "description": "Survey of Japanese culture and arts after 1868. May be taken independently of JAPNSE 2310. No knowledge of Japanese required. No foreign language credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -71,7 +71,7 @@
         },
         {
             "name": "The World of Japanese Business",
-            "number": "2330",
+            "number": "JAPNSE 2330",
             "description": "Designed to assist the student to achieve successful business contacts with Japanese counterparts by understanding the characteristics of Japanese business in cultural, economical, and practical contexts and by learning useful Japanese terms and expressions in business.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -80,7 +80,7 @@
         },
         {
             "name": "Problems in Japanese",
-            "number": "3085",
+            "number": "JAPNSE 3085",
             "description": "Supervised study in Japanese language and/or culture.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Intermediate Japanese Composition and Conversation",
-            "number": "3160",
+            "number": "JAPNSE 3160",
             "description": "Further develops oral command of Japanese as well as listening comprehension and further essay writing skills.",
             "prerequisites": "C- or better in JAPNSE 2160",
             "hours": "3",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Classical Japanese Literature (in translation)",
-            "number": "3320",
+            "number": "JAPNSE 3320",
             "description": "This course studies Classical Japanese Literature preceded by a brief historical survey of Japanese literature. Analyzes such works as \"The Tale of Genji\",  \"Essays in Idleness\", \"The Pillow Book\",  \"Hojoki\" and NO drama. Readings and lectures in English.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Modern Japanese Literature (in Translation)",
-            "number": "3360",
+            "number": "JAPNSE 3360",
             "description": "Surveys Japanese literature from 1868 to present. Analyzes works by such authors as Soseki, Tanizaki, Kawabata, Mishima, Oe, Murakami, and others. Readings and lectures in English.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -118,7 +118,7 @@
         },
         {
             "name": "Intermediate Readings in Japanese",
-            "number": "3370",
+            "number": "JAPNSE 3370",
             "description": "Develops reading and speaking skills and acquisition of more Kanji, vocabulary, and complex structures.",
             "prerequisites": "C- or better in JAPNSE 3160, or equivalent, or instructor's consent",
             "hours": "3",
@@ -129,7 +129,7 @@
         },
         {
             "name": "Intermediate Japanese II",
-            "number": "3380",
+            "number": "JAPNSE 3380",
             "description": "Continues development of intermediate reading, listening, speaking, and writing skills achieved in JAPNSE 3370, with attention to vocabulary acquisition, expansion of knowledge of kanji, and understanding of complex grammatical structures.  Authentic readings in Japanese literature and exercises using authentic multi-media materials also help students gain greater familiarity with Japanese culture.  Encourages development of student autonomy in language learning with the introduction and use of appropriate reference materials.",
             "prerequisites": "JAPNSE 3370",
             "hours": "3",
@@ -140,7 +140,7 @@
         },
         {
             "name": "Traditional Japanese Theatre",
-            "number": "3850",
+            "number": "JAPNSE 3850",
             "description": "Study of the history, scripts, and performance techniques of Japanese theatre from 14th century through late 19th century. Examines major plays (in English translations) and the culture that created them. Looks at staging and performance techniques of traditional puppet theatre. Course included stage performances and performances on campus and/or in the community.",
             "prerequisites": "sophomore standing or instructor's consent",
             "hours": "3",
@@ -149,7 +149,7 @@
         },
         {
             "name": "Japan and its Cinema",
-            "number": "3880",
+            "number": "JAPNSE 3880",
             "description": "Survey and analysis of selected Japanese films from the 1940s to present. Films will be viewed and discussed in terms of history, techniques, artistry, and social impact. English subtitles. No foreign language credit.",
             "prerequisites": "sophomore standing or instructor's consent",
             "hours": "3",
@@ -158,7 +158,7 @@
         },
         {
             "name": "Topics in Japanese - Humanities",
-            "number": "4005",
+            "number": "JAPNSE 4005",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Suitable for students who have taken JAPNSE 3370 or equivalent.",
             "prerequisites": "instructor's consent, sophomore standing",
             "hours": "1-3",
@@ -167,7 +167,7 @@
         },
         {
             "name": "Topics in Japanese - Humanities - Honors",
-            "number": "4005H",
+            "number": "JAPNSE 4005H",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Suitable for students who have taken JAPNSE 3370 or equivalent.",
             "prerequisites": "instructor's consent, sophomore standing; Honors eligibility required",
             "hours": "1-3",
@@ -176,7 +176,7 @@
         },
         {
             "name": "Advanced Japanese I",
-            "number": "4160",
+            "number": "JAPNSE 4160",
             "description": "Continues development of reading, listening, speaking, writing skills, with attention to vocabulary acquisition, expansion of knowledge of kanji, and understanding of complex grammatical structures.  Authentic readings in Japanese literature, exercises using authentic multi-media materials.  Encourages development of student autonomy in language learning with introduction and use of appropriate reference materials.",
             "prerequisites": "JAPNSE 3380 or equivalent, or instructor's consent",
             "hours": "3",
@@ -187,7 +187,7 @@
         },
         {
             "name": "Advanced Japanese II",
-            "number": "4180",
+            "number": "JAPNSE 4180",
             "description": "This course continues the development of reading, listening, speaking, and writing skills, with attention to vocabulary acquisition, expansion of knowledge of kanji, and understanding of complex grammatical structures.  Authentic readings in Japanese literature and exercises using authentic multimedia materials also help students gain greater familiarity with Japanese culture. The course encourages the development of student autonomy in language learning with the introduction and use of appropriate reference materials.",
             "prerequisites": "JAPNSE 4160",
             "hours": "3",

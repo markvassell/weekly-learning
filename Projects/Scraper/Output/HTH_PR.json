@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Topics in Health Professions",
-            "number": "1001",
+            "number": "HTH_PR 1001",
             "description": "Organized study of selected topics in Health Professions. Particular topics and credit may vary each semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Leadership in Health Care",
-            "number": "2000",
+            "number": "HTH_PR 2000",
             "description": "This course will cover a broad range of concepts in leadership and professional development.  Focus will be placed on knowledge and skills necessary for effective leadership in the Health Professions.  The first of two semesters series.  Graded on S/U basis only.",
             "prerequisites": "instructors consent",
             "hours": "1",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Topics in Health Professions",
-            "number": "2001",
+            "number": "HTH_PR 2001",
             "description": "Organized study of selected topics in health professions. Particular topics and earnable credit may vary from semester to semester.",
             "prerequisites": "sophomore standing and instructor's consent",
             "hours": "1-99",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Special Readings in Health Professions",
-            "number": "2960",
+            "number": "HTH_PR 2960",
             "description": "Directed study of literature and research reports in the health-related professions.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Problems in Health Professions",
-            "number": "4085",
+            "number": "HTH_PR 4085",
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Human Kinesiology",
-            "number": "4250",
+            "number": "HTH_PR 4250",
             "description": "(same as PH_THR 4250 and OC_THR 4250). Study of principles of physical laws, biomechanics and anatomic structure relative to human movement. Application through analysis of daily functional performance, exercise and sport.",
             "prerequisites": "PTH_AS 2201",
             "hours": "3",
@@ -60,7 +60,7 @@
         },
         {
             "name": "Health Policy for the Health Professional",
-            "number": "4310",
+            "number": "HTH_PR 4310",
             "description": "Seminar to facilitate understanding of health policy, the legislative process, and politics. Emphasis on health professions, including issues of workforce, funding, and advocacy in the context of current health policy issues.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Research Apprenticeship in Health Professions",
-            "number": "4950",
+            "number": "HTH_PR 4950",
             "description": "This course provides undergraduate students in the health professions and related disciplines experience with research in the health professions and related disciplines experience with research in the health professions.  Students will assist in the development and execution of research projects under the supervision of an SHP faculty member.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Topics in Health Professions",
-            "number": "7001",
+            "number": "HTH_PR 7001",
             "description": "Organized study of selected topics in health and/or healthcare. Topic and credit may vary from semester to semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -87,7 +87,7 @@
         },
         {
             "name": "Health Care in the United States",
-            "number": "7300",
+            "number": "HTH_PR 7300",
             "description": "Overview of financing, structure, and outcomes in the U.S. health care system. Contemporary health care issues, policy, and politics will be addressed. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -96,7 +96,7 @@
         },
         {
             "name": "Health Policy for the Health Professional",
-            "number": "7310",
+            "number": "HTH_PR 7310",
             "description": "Seminar to facilitate understanding of health policy, the legislative process, and politics. Emphasis on health professions, including issues of workforce, funding, and advocacy in the context of current health policy issues.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -105,7 +105,7 @@
         },
         {
             "name": "Topics in Health Professions",
-            "number": "8001",
+            "number": "HTH_PR 8001",
             "description": "Organized study of selected topics in health and/or healthcare. Topic and credit may vary from semester to semester.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Problems in Health Professions",
-            "number": "8085",
+            "number": "HTH_PR 8085",
             "description": "Individual study not leading to thesis or dissertation.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -123,7 +123,7 @@
         },
         {
             "name": "Directed Readings in Health Professions",
-            "number": "8960",
+            "number": "HTH_PR 8960",
             "description": "Selected readings on specific topics.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",

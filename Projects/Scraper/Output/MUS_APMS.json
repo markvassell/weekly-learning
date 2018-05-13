@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Studio Instruction for Majors",
-            "number": "1435",
+            "number": "MUS_APMS 1435",
             "description": "Acceptable as a secondary applied subject on B.S. in music education and B.M. degrees. Materials varies according to educational purpose. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Studio Instruction",
-            "number": "2455",
+            "number": "MUS_APMS 2455",
             "description": "Credit accepted toward all undergraduate music and music education degrees. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "1-5",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Studio Instruction",
-            "number": "3455",
+            "number": "MUS_APMS 3455",
             "description": "Accepted as upperclass credit only in Music Education, music theory, history, or composition.  May be repeated for credit.",
             "prerequisites": "8 hours and 4 semesters of MUS_APMS 2455 or equivalent; audition by committee, and instructor's consent",
             "hours": "1-3",
@@ -33,7 +33,7 @@
         },
         {
             "name": "Junior Recital",
-            "number": "3970",
+            "number": "MUS_APMS 3970",
             "description": "Preparation and presentation of Junior Recital. Appropriate applied music course to be taken concurrently. May be repeated for credit. Each recital must be approved by a committee at least two weeks before the recital.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Studio Instruction",
-            "number": "4455",
+            "number": "MUS_APMS 4455",
             "description": "For B.M. degrees in performance.  Study of pedagogy in studio class.  May be repeated for credit.",
             "prerequisites": "8 hours and 4 semesters of MUS_APMS 2455; audition; instructor's consent",
             "hours": "1-5",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Senior Recital",
-            "number": "4970",
+            "number": "MUS_APMS 4970",
             "description": "Preparation and presentation of Senior Recital. Appropriate applied music course to be taken concurrently. May be repeated for credit. Each recital must be approved by a committee at least two weeks before the recital.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Studio Instruction",
-            "number": "7435",
+            "number": "MUS_APMS 7435",
             "description": "For music teachers needing instruction in secondary instruments or voice. Maybe repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -71,7 +71,7 @@
         },
         {
             "name": "Studio Instruction",
-            "number": "7455",
+            "number": "MUS_APMS 7455",
             "description": "For graduate credit on M.A., M.Ed., and Ph.D. degrees. Study of pedagogy in studio class. May be repeated for credit.",
             "prerequisites": "audition; instructor's consent",
             "hours": "1-5",
@@ -80,7 +80,7 @@
         },
         {
             "name": "Studio Instruction",
-            "number": "8455",
+            "number": "MUS_APMS 8455",
             "description": "Required for graduate credit as major applied study on M.M. degree. Acceptable for graduate credit on M.A., M.Ed., Ed.D., and Ph.D. degrees. Maybe repeated for credit.",
             "prerequisites": "audition by committee and instructor's consent",
             "hours": "1-5",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Graduate Recital",
-            "number": "8970",
+            "number": "MUS_APMS 8970",
             "description": "Preparation and presentation of Graduate Recital. Appropriate applied music course to be taken concurrently. May be repeated for credit. Each recital must be approved by a committee at least two weeks before the recital.",
             "prerequisites": "None Listed",
             "hours": "1",

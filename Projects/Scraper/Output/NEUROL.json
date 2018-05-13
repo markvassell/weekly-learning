@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Neurology Clerkship",
-            "number": "6003",
+            "number": "NEUROL 6003",
             "description": "Students see patients with neurological disorders in the outpatient clinics, in hospital settings, and on consultation services.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Rural Neurology Clerkship",
-            "number": "6013",
+            "number": "NEUROL 6013",
             "description": "Rural Neurology Clerkship",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Springfield Neurology Clerkship",
-            "number": "6023",
+            "number": "NEUROL 6023",
             "description": "Students see patients with neurological disorders in the outpatient clinics, in hospital settings, and on consultation services.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "4",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Remediation Neurology Clerkship",
-            "number": "6103",
+            "number": "NEUROL 6103",
             "description": "Enrolled students are those who received an unsatisfactory grade in a Child Health Clerkship at any Mizzou Med location or site. This course gives the student an opportunity to rectify their deficiency.",
             "prerequisites": "NEUROL 6003 Neurology Clerkship, received unsatisfactory grade",
             "hours": "4",
@@ -42,7 +42,7 @@
         },
         {
             "name": "ABS Neurology Mech of Disease",
-            "number": "6301",
+            "number": "NEUROL 6301",
             "description": "ABS Neurology Mech of Disease",
             "prerequisites": "None Listed",
             "hours": "5-10",
@@ -51,7 +51,7 @@
         },
         {
             "name": "ABS Neurology Research",
-            "number": "6303",
+            "number": "NEUROL 6303",
             "description": "ABS Neurology Research",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -60,7 +60,7 @@
         },
         {
             "name": "ABS Neurology Research and Review",
-            "number": "6305",
+            "number": "NEUROL 6305",
             "description": "ABS Neurology Research and Review",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Adult Neurology - Rural",
-            "number": "6755",
+            "number": "NEUROL 6755",
             "description": "Adult Neurology - Rural",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Neurology - Rural",
-            "number": "6756",
+            "number": "NEUROL 6756",
             "description": "Rural Neurology general elective.",
             "prerequisites": "NEUROL 6003.  Restricted to fourth year medical students",
             "hours": "5",
@@ -89,7 +89,7 @@
         },
         {
             "name": "PEDIATRIC NEUROLOGY",
-            "number": "6829",
+            "number": "NEUROL 6829",
             "description": "Pediatric Neurology",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -98,7 +98,7 @@
         },
         {
             "name": "Neurology",
-            "number": "6845",
+            "number": "NEUROL 6845",
             "description": "Neurology",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -107,7 +107,7 @@
         },
         {
             "name": "Advanced Neurology",
-            "number": "6850",
+            "number": "NEUROL 6850",
             "description": "Advanced Neurology",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -116,7 +116,7 @@
         },
         {
             "name": "Epilepsy and Clinical Neurophysiology",
-            "number": "6918",
+            "number": "NEUROL 6918",
             "description": "The medical student will work as part of the ambulatory and inpatient epilepsy team. One week will be spent in the outpatient unit and one inpatient. The inpatient rotation will consist of rounding on epilepsy patients and being an integral part of patient care. A significant portion of the inpatient week will be spent in the Epilepsy Monitoring Unit. During the outpatient rotation, the student will rotate with one of two epileptologists and participate in their care.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",
@@ -125,7 +125,7 @@
         },
         {
             "name": "Neurology Outpatient Experience",
-            "number": "6921",
+            "number": "NEUROL 6921",
             "description": "The student will work as part of the ambulatory neurology team. During the outpatient rotation, the student will have an opportunity to participate in the care of patients with physicians specializing in the following: Epilepsy, Movement Disorders, Neuromuscular Disorders, Dementia and Behavioral Neurology, Multiple Sclerosis, Sleep Disorders, and Vascular Neurology.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",
@@ -134,7 +134,7 @@
         },
         {
             "name": "Neurology/Stroke Inpatient Experience",
-            "number": "6922",
+            "number": "NEUROL 6922",
             "description": "The student will work as part of the inpatient neurology team. During the rotation, the student will have an opportunity to participate in the care of patients on the general and stroke inpatient services. Students may elect to spend one week on each service or both weeks on either. Opportunities may be available to students in the following areas: Intensive/Critical Care Unit and Neuro-Interventional procedures.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",
@@ -143,7 +143,7 @@
         },
         {
             "name": "Neuromuscular Disorders",
-            "number": "6923",
+            "number": "NEUROL 6923",
             "description": "One week will be spent in the outpatient unit and one inpatient. The inpatient experience will consist of rounding on neuromuscular patients and being an integral part of patient care. A significant portion of the experience will be spent in Electromyography (EMG). During the outpatient experience, the student will rotate with one of three neuromuscular specialists and participate in patient care, and participate in MDA clinic.",
             "prerequisites": "successful completion of the first two years of medical school",
             "hours": "2",

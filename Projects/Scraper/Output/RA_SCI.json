@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introduction to Radiography",
-            "number": "1000",
+            "number": "RA_SCI 1000",
             "description": "Overview of radiography through small group discussions and onsite visitations in radiology departments. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Radiography Procedures I",
-            "number": "3110",
+            "number": "RA_SCI 3110",
             "description": "This course is an introduction to basic radiographic positioning and procedures. Specific radiographic procedures of the chest, upper extremity, shoulder girdle, pelvis and lower extremity are taught.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "2",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Fundamentals of Radiography",
-            "number": "3120",
+            "number": "RA_SCI 3120",
             "description": "Orientation to radiology department, ethics, psychodynamics of patient care, medical legal considerations and radiation safety procedures.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Basic Radiographic Skills",
-            "number": "3130",
+            "number": "RA_SCI 3130",
             "description": "Radiographic film processing techniques, intensifying screens and sensitometry will be discussed. The x-ray tube, x-ray production and some of the factors which affect the quantity and quality of the x-ray beam as well as the x-ray image will also be introduced.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "2",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Principles in Radiographic Exposure I",
-            "number": "3140",
+            "number": "RA_SCI 3140",
             "description": "Theory and principles of X-ray technique; correlation of factors with application.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Radiologic Pharmacology",
-            "number": "3150",
+            "number": "RA_SCI 3150",
             "description": "Pharmacological principles, biopharmaceutics, pharmacokinetics, pharmacodynamcis, drug classifications, drug names, administration routes, and infection prevention and control will be covered. Attention will be given to contrast agents relative to radiographic imaging. Ethical and legal implications will be explores.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Radiologic Physics",
-            "number": "3160",
+            "number": "RA_SCI 3160",
             "description": "Fundamental physics of electricity and radiant energy; principles of generation of electromagnetic radiation and applicable equipment; and principles of digital image capture, display and storage.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Imaging Modalities",
-            "number": "3170",
+            "number": "RA_SCI 3170",
             "description": "The study of radiographic and fluoroscopic equipment with attention to automatic exposure devices, image intensification, and imaging detectors. Consideration will be given to equipment in such modalities as computed tomography, magnetic resonance imaging, ultrasound, nuclear medicine and radiation therapy.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "2",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Radiography Procedures II",
-            "number": "3180",
+            "number": "RA_SCI 3180",
             "description": "Instruction in radiographic procedures of the upper and lower gastrointestinal system, urinary system, bony thorax, vertebral column, and cranium.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "2",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Radiography Procedures III",
-            "number": "3190",
+            "number": "RA_SCI 3190",
             "description": "Instructions in advanced radiographic imaging techniques with emphasis in trauma radiography, vascular studies and other specialty radiographic procedures.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "3",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Cardiovascular and Pulmonary Diagnostic Applications I",
-            "number": "3460",
+            "number": "RA_SCI 3460",
             "description": "(same as CDS 3460). Problem-based study of cardiopulmonary anatomy and physiology using current imaging methods. Emphasis given to assessment of the acutely distressed cardiac or pulmonary subject, emergency pulmonary support and vascular access techniques.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program",
             "hours": "3",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Clinical Education I",
-            "number": "3941",
+            "number": "RA_SCI 3941",
             "description": "First in a five-part series focusing on the application and evaluation of radiography in the clinical setting. Supervised clinical experience emphasizing radiographic procedures of the chest, abdomen, and extremities.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "3",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Clinical Education II",
-            "number": "3942",
+            "number": "RA_SCI 3942",
             "description": "Second in a five-part series focusing on the application and evaluation of radiography in the clinical setting. Supervised clinical experience emphasizing the development of technical skills and procedural knowledge of routine radiographic procedures,",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "3",
@@ -121,7 +121,7 @@
         },
         {
             "name": "Problems in Medical Imaging",
-            "number": "4085",
+            "number": "RA_SCI 4085",
             "description": "Supervise investigation in an aspect of medical imaging science usually culminating in a written report.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -130,7 +130,7 @@
         },
         {
             "name": "Sectional Anatomy",
-            "number": "4110",
+            "number": "RA_SCI 4110",
             "description": "(same as DMU 4312; cross-leveled with RA_SCI 7110, DMU 7312). A study of human anatomy using the sectional approach; anatomical structures will be related to modern medical imaging techniques. Graded on an A-F basis only.",
             "prerequisites": "instructor's consent required",
             "hours": "3",
@@ -139,7 +139,7 @@
         },
         {
             "name": "Magnetic Resonance Imaging: Physics and Procedures",
-            "number": "4140",
+            "number": "RA_SCI 4140",
             "description": "(cross-leveled with RA_SCI 7140). Magnetic Resonance imaging fundamentals, applications, instrumentation, physical principles. Basic imaging concepts including positioning, scanning protocols, contrast imaging, anatomy review, and pathological considerations. Graded on A-F basis only.",
             "prerequisites": "Acceptance into Radiologic Sciences",
             "hours": "5",
@@ -148,7 +148,7 @@
         },
         {
             "name": "Computed Tomography: Physics and Procedures",
-            "number": "4150",
+            "number": "RA_SCI 4150",
             "description": "(cross-leveled with RA_SCI 7150). Computed tomography imaging fundamentals, applications, instrumentation, physical principles. Applied concepts regarding patient care and CT imaging procedures. Graded on an A-F basis only.",
             "prerequisites": "Acceptance into Radiologic Sciences",
             "hours": "5",
@@ -157,7 +157,7 @@
         },
         {
             "name": "Radiation Safety",
-            "number": "4303",
+            "number": "RA_SCI 4303",
             "description": "(same as NU_ENG 4303). Types and origins of radiation; radiation detection and measurement; radiation interactions; shielding; dose calculations; federal, state and local regulations; and procedures for safe uses of radiation. Laboratory experiments in radiation measurements and protection.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -166,7 +166,7 @@
         },
         {
             "name": "Organization and Administration",
-            "number": "4440",
+            "number": "RA_SCI 4440",
             "description": "(same as RS_THR 4440 and CDS 4440). Examines design and operation of allied health service departments and educational programs, including facilities, personnel procedures, record systems, ethics, medical-legal aspects, interdepartmental relations and curriculum development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -175,7 +175,7 @@
         },
         {
             "name": "Clinical Education III",
-            "number": "4943",
+            "number": "RA_SCI 4943",
             "description": "Third in a five-part series focusing on the application and evaluation of radiography in the clinical setting. Supervised clinical experience emphasizing the transition to self-directed practice of routine radiographic procedures and the development of technical skills and procedural knowledge of more advanced radiographic procedures.",
             "prerequisites": "Acceptance into Radiologic Science, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "3",
@@ -184,7 +184,7 @@
         },
         {
             "name": "Clinical Education IV",
-            "number": "4944",
+            "number": "RA_SCI 4944",
             "description": "Fourth in a five-part series focusing on the application and evaluation of radiography in the clinical setting. Supervised clinical experience emphasizing self-directed clinical practice and the development of technical skills and procedural knowledge of more advanced radiographic procedures and modalities.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Science students only",
             "hours": "3",
@@ -193,7 +193,7 @@
         },
         {
             "name": "Clinical Education V",
-            "number": "4945",
+            "number": "RA_SCI 4945",
             "description": "Final clinical course. Supervised clinical experience emphasizing self-directed performance of complex radiographic procedures, continued competency in routine diagnostic radiography and the investigation of advanced modalities, while transitioning to reflective, critical, and strategic professional practice.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program. Restricted to Radiologic Sciences students only",
             "hours": "3",
@@ -202,7 +202,7 @@
         },
         {
             "name": "Advanced Medical Imaging Externship",
-            "number": "4946",
+            "number": "RA_SCI 4946",
             "description": "(cross-leveled with RA_SCI 7946). Supervised clinical experience in a medical imaging specialty with emphasis on patient care and technical practice.",
             "prerequisites": "Instructor's consent required.  Certification in a primary area of imaging.  An affiliation agreement between the University of Missouri Radiologic Sciences Program and the clinical facility. Satisfactory completion of all Clinical Screening Requirements",
             "hours": "3",
@@ -211,7 +211,7 @@
         },
         {
             "name": "Radiography Overview",
-            "number": "4947",
+            "number": "RA_SCI 4947",
             "description": "A comprehensive overview of all aspects of diagnostic radiology with emphasis on procedures, technique, radiation protection, positioning, radiographic anatomy and patient care.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program",
             "hours": "3",
@@ -220,7 +220,7 @@
         },
         {
             "name": "Imaging Pathology",
-            "number": "4980",
+            "number": "RA_SCI 4980",
             "description": "Etiology and processes of disease. Emphasis on pathology of body systems and the manifestation of pathology through imaging.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program",
             "hours": "3",
@@ -229,7 +229,7 @@
         },
         {
             "name": "Imaging Pathology - Writing Intensive",
-            "number": "4980W",
+            "number": "RA_SCI 4980W",
             "description": "Etiology and processes of disease. Emphasis on pathology of body systems and the manifestation of pathology through imaging.",
             "prerequisites": "Acceptance into Radiologic Sciences, Radiography Program",
             "hours": "3",
@@ -238,7 +238,7 @@
         },
         {
             "name": "Sectional Anatomy",
-            "number": "7110",
+            "number": "RA_SCI 7110",
             "description": "(same as DMU 7312; cross-leveled with RA_SCI 4110, DMU 4312). A study of human anatomy using the sectional approach; anatomical structures will be related to modern medical imaging techniques. Graded on A-F basis only.",
             "prerequisites": "Instructor consent required",
             "hours": "3",
@@ -247,7 +247,7 @@
         },
         {
             "name": "Magnetic Resonance Imaging: Physics and Procedures",
-            "number": "7140",
+            "number": "RA_SCI 7140",
             "description": "(cross-leveled with RA_SCI 4140). Magnetic Resonance imaging fundamentals, applications, instrumentation, physical principles. Basic imaging concepts including positioning, scanning protocols, contrast imaging, anatomy review, and pathological considerations. Graded on A-F basis only.",
             "prerequisites": "Instructor consent",
             "hours": "5",
@@ -256,7 +256,7 @@
         },
         {
             "name": "Computed Tomography: Physics and Procedures",
-            "number": "7150",
+            "number": "RA_SCI 7150",
             "description": "(cross-leveled with RA_SCI 4150). Computed tomography (CT) imaging fundamentals, applications, instrumentation, physical principles. Applied concepts regarding patient care and CT imaging procedures. Graded on an A-F basis only.",
             "prerequisites": "Instructor's consent required",
             "hours": "5",
@@ -265,7 +265,7 @@
         },
         {
             "name": "Radiation Safety",
-            "number": "7303",
+            "number": "RA_SCI 7303",
             "description": "(same as NU_ENG 7303). Types and origins of radiation; radiation detection and measurement; radiation interactions; shielding; dose calculations; federal, state and local regulations; and procedures for safe uses of radiation. Laboratory experiments in radiation measurements and protection.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -274,7 +274,7 @@
         },
         {
             "name": "Advanced Medical Imaging Externship",
-            "number": "7946",
+            "number": "RA_SCI 7946",
             "description": "(cross-leveled with RA_SCI 4946).   Supervised clinical experience in a medical imaging specialty with emphasis on patient care and technical practice.",
             "prerequisites": "Instructor's consent required. Certification in a primary area of imaging. An affiliation agreement between the University of Missouri Radiologic Sciences Program and the clinical facility. Satisfactory completion of all Clinical Screening Requirements",
             "hours": "3",

@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Contemporary Business Practices",
-            "number": "1010",
+            "number": "MANGMT 1010",
             "description": "Course coverage includes an overview of the accountancy, finance, management and marketing majors and careers in each of these fields as well as the integrated nature of business. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Vasey Academy on Leadership Issues",
-            "number": "1030",
+            "number": "MANGMT 1030",
             "description": "Business seminar course restricted to Vasey Academy scholars. Focus on leadership issues and on career opportunity exploration in key areas of business. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Contemporary Leadership Issues in Business",
-            "number": "1050",
+            "number": "MANGMT 1050",
             "description": "Course focuses on contemporary business leadership practices and includes an overview of the accountancy, finance, management and marketing majors and careers in each of these fields.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Principles of Management",
-            "number": "3000",
+            "number": "MANGMT 3000",
             "description": "Introduction to the basic concepts of management and organization; their application to operations and personnel management.",
             "prerequisites": "Completion of 45 semester hours",
             "hours": "3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Principles of Management - Honors",
-            "number": "3000H",
+            "number": "MANGMT 3000H",
             "description": "Introduction to the basic concepts of management and organization; their application to operations and personnel management.",
             "prerequisites": "Completion of 45 semester hours. Honors eligibility required",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Job Search Strategies",
-            "number": "3100",
+            "number": "MANGMT 3100",
             "description": "Provides relevant information and skills to help students interested in careers in business conduct an effective job search.  Topics covered include self-assessment, company research, preparing a resume, interview skills, networking skills, and negotiation skills.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Business and Society",
-            "number": "3200",
+            "number": "MANGMT 3200",
             "description": "This course emphasizes the ethical implications of managerial decisions and the relationships between businesses and stakeholder groups.  Major topics include corporate governance, social responsibility, rights and obligations, and international business.",
             "prerequisites": "Admission to upper level business program",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Business and Society - Honors",
-            "number": "3200H",
+            "number": "MANGMT 3200H",
             "description": "This course emphasizes the ethical implications of managerial decisions and the relationships between businesses and stakeholder groups.  Major topics include corporate governance, social responsibility, rights and obligations, and international business.",
             "prerequisites": "Admission to upper level business program; Honors eligibility required",
             "hours": "3",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Business and Society - Honors/Writing Intensive",
-            "number": "3200HW",
+            "number": "MANGMT 3200HW",
             "description": "This course emphasizes the ethical implications of managerial decisions and the relationships between businesses and stakeholder groups.  Major topics include corporate governance, social responsibility, rights and obligations, and international business.",
             "prerequisites": "Admission to upper level business program; Honors eligibility required",
             "hours": "3",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Business and Society - Writing Intensive",
-            "number": "3200W",
+            "number": "MANGMT 3200W",
             "description": "This course emphasizes the ethical implications of managerial decisions and the relationships between businesses and stakeholder groups.  Major topics include corporate governance, social responsibility, rights and obligations, and international business.",
             "prerequisites": "Admission to upper level business program",
             "hours": "3",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Introduction to Business Processes and Technologies",
-            "number": "3300",
+            "number": "MANGMT 3300",
             "description": "Introduces students to cross-functional business processes including both transactional and decision making forms. Current and emerging technologies used to facilitate efficient and effective action in these processes are explored.",
             "prerequisites": "ACCTCY 2258",
             "hours": "3",
@@ -105,7 +105,7 @@
         },
         {
             "name": "Introduction to Business Law",
-            "number": "3540",
+            "number": "MANGMT 3540",
             "description": "The legal aspects of business related to society--introduction to the legal system; constitutional, criminal, tort law; contracts and sales law cases and problems; administrative regulation of business and consumer issues.",
             "prerequisites": "completion of 30 semester hours",
             "hours": "3",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Diversity and Inclusion in Management",
-            "number": "3700",
+            "number": "MANGMT 3700",
             "description": "Discuss elements of diversity including race, gender, ethnicity, religion, sexual orientation, socioeconomic status, and age, among others, as these impact effective management in the workplace through a variety of workplace performance-related outcomes. Explore ways to contribute to, learn from, and benefit from a more diverse and inclusive work environment. Examine methods of optimizing human performance and potential in organizations. Create personal action plan to increase awareness, knowledge, skills and global perspective relative to diversity and inclusion. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -123,7 +123,7 @@
         },
         {
             "name": "Special Topics in Management",
-            "number": "3901",
+            "number": "MANGMT 3901",
             "description": "Study of a selected topic in management taken as part of an organized short-term study abroad program. Some sections of this course may be graded on either on A-F or S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -132,7 +132,7 @@
         },
         {
             "name": "Special Topics in Management - Honors",
-            "number": "3901H",
+            "number": "MANGMT 3901H",
             "description": "Study of a selected topic in management taken as part of an organized short-term study abroad program. Some sections of this course may be graded on either on A-F or S/U basis only.",
             "prerequisites": "instructor's consent.  Honors eligibility required",
             "hours": "1-3",
@@ -141,7 +141,7 @@
         },
         {
             "name": "Managing Across Cultures",
-            "number": "3910",
+            "number": "MANGMT 3910",
             "description": "Applying cultural dimensions to developing cross-cultural behavioral competencies utilizing code-switching training methods. For all persons interested in improving international person-to-person interactions.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -150,7 +150,7 @@
         },
         {
             "name": "Managing People in the Global Enterprise",
-            "number": "3920",
+            "number": "MANGMT 3920",
             "description": "Focuses on management of people in global organizations- especially for-profit enterprises. Topics include differences across countries in recruitment and selection, training and development, leadership and motivation, compensation, cross-cultural negotiation, and employment relations. The use of expatriates and host country nationals as managers is contrasted. Challenges involved in repatriating expatriates and their families after lengthy terms of service in foreign countries are explored. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -159,7 +159,7 @@
         },
         {
             "name": "Current Issues in International Management",
-            "number": "3975",
+            "number": "MANGMT 3975",
             "description": "Study of current issues and practices in international management taken as part of an organized short term study abroad program. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -168,7 +168,7 @@
         },
         {
             "name": "Operations Management",
-            "number": "4010",
+            "number": "MANGMT 4010",
             "description": "(cross-leveled with MANGMT 7010). Managerial analysis of operating problems, with emphasis on planning and control systems. Math Reasoning Proficiency Course.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -177,7 +177,7 @@
         },
         {
             "name": "Human Resource Management",
-            "number": "4020",
+            "number": "MANGMT 4020",
             "description": "(cross-leveled with MANGMT 7020) Introduction to strategies and best practices in attracting, retaining, developing, and compensating employees.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -186,7 +186,7 @@
         },
         {
             "name": "Organizational Behavior",
-            "number": "4030",
+            "number": "MANGMT 4030",
             "description": "(cross-leveled with MANGMT 7030). Examines theoretical constructs and research findings on human behavior in work organizations such as businesses, especially individual differences, dyadic relations and small group behavior.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -195,7 +195,7 @@
         },
         {
             "name": "Management of Service Operations",
-            "number": "4050",
+            "number": "MANGMT 4050",
             "description": "Managing services, especially the operation's activity in service firms. Includes determining the service package, forecasting service demand, managing demand, capacity analysis and management, scheduling, cost control, service quality, and human resource management. Standardization, franchising, and service automation addressed.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -204,7 +204,7 @@
         },
         {
             "name": "Project Management Fundamentals",
-            "number": "4060",
+            "number": "MANGMT 4060",
             "description": "Practical methods and techniques for managing projects with selective attention to human resource issues.  Includes project breakdown analysis, task network scheduling, resource allocation, and assessment/evaluation of project performance.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -213,7 +213,7 @@
         },
         {
             "name": "Total Quality Management",
-            "number": "4110",
+            "number": "MANGMT 4110",
             "description": "Introductory, comprehensive approach to quality planning, analysis, and control. Applications orientation. Integrates customer needs, product and service design and delivery, and continuous improvement into all organizational activities. Examines full range of behavioral, technical, and organizational aspects relating to quality.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -222,7 +222,7 @@
         },
         {
             "name": "Human Resource Management Law",
-            "number": "4120",
+            "number": "MANGMT 4120",
             "description": "Analysis and evaluation of legal and administrative regulations of terms of employment; Fair Labor Standards, discriminatory practices, safety and health regulations, other regulations.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -231,7 +231,7 @@
         },
         {
             "name": "Advanced Organizational Behavior",
-            "number": "4130",
+            "number": "MANGMT 4130",
             "description": "Based upon behavioral science concepts and research findings directed toward understanding and explaining human behavior within organizations. Case studies, individual or team projects.",
             "prerequisites": "MANGMT 4030",
             "hours": "3",
@@ -242,7 +242,7 @@
         },
         {
             "name": "Business Communication",
-            "number": "4140",
+            "number": "MANGMT 4140",
             "description": "The course provides the fundamentals of business communication skills, including written, oral communication, listening, multicultural communication, and teamwork skills, with an emphasis on written communication skills as a methods to communicate with important stockholders.",
             "prerequisites": "Restricted to Trulaske College of Business students admitted to upper levelCorequisites: MANGMT 3000",
             "hours": "3",
@@ -253,7 +253,7 @@
         },
         {
             "name": "Business Communication - Writing Intensive",
-            "number": "4140W",
+            "number": "MANGMT 4140W",
             "description": "The course provides the fundamentals of business communication skills, including written, oral communication, listening, multicultural communication, and teamwork skills, with an emphasis on written communication skills as a methods to communicate with important stockholders.",
             "prerequisites": "Restricted to Trulaske College of Business students admitted to upper levelCorequisites: MANGMT 3000",
             "hours": "3",
@@ -264,7 +264,7 @@
         },
         {
             "name": "Problems in Management",
-            "number": "4185",
+            "number": "MANGMT 4185",
             "description": "Undergraduate students may select topics for study and investigation.  Selected sections of this course may be graded either on A-F or S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-9",
@@ -273,7 +273,7 @@
         },
         {
             "name": "Topics in Management",
-            "number": "4201",
+            "number": "MANGMT 4201",
             "description": "(cross-leveled with MANGMT 7201). Selected current topics in management. Offered on an experimental, one-semester basis only.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -282,7 +282,7 @@
         },
         {
             "name": "Topics in Management",
-            "number": "4201H",
+            "number": "MANGMT 4201H",
             "description": "Selected current topics in management. Offered on an experimental, one-semester basis only.",
             "prerequisites": "will vary with different topics.  Honors eligibility required",
             "hours": "3",
@@ -291,7 +291,7 @@
         },
         {
             "name": "Topics in Management - Writing Intensive",
-            "number": "4201W",
+            "number": "MANGMT 4201W",
             "description": "(cross-leveled with MANGMT 7201). Selected current topics in management. Offered on an experimental, one-semester basis only.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -300,7 +300,7 @@
         },
         {
             "name": "Compensation Theory and Practice",
-            "number": "4220",
+            "number": "MANGMT 4220",
             "description": "Examines the empirical research and theory relating to the effect of compensation administration systems upon employee satisfaction and performance. Analysis of financial compensation systems and benefit programs in use in modern organizations.",
             "prerequisites": "MANGMT 4020",
             "hours": "3",
@@ -311,7 +311,7 @@
         },
         {
             "name": "Modern Manufacturing",
-            "number": "4310",
+            "number": "MANGMT 4310",
             "description": "Contemporary qualitative and quantitative analysis of automation systems for production and inventory; robotics, digital data matrix and Q/R coding, PLC overview; uncertainty, risk, and policy considerations; analysis of networks; management problems in application.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: MANGMT 4010",
@@ -320,7 +320,7 @@
         },
         {
             "name": "Selected Problems in Human Resource Management",
-            "number": "4320",
+            "number": "MANGMT 4320",
             "description": "Advanced studies in selected administrative and technical policies, practices in employee relations, with individual and group project work, research. Focuses on policy issues, research findings, advanced techniques.",
             "prerequisites": "MANGMT 4020",
             "hours": "3",
@@ -331,7 +331,7 @@
         },
         {
             "name": "Organizational Theory",
-            "number": "4330",
+            "number": "MANGMT 4330",
             "description": "(cross-leveled with MANGMT 7330).  Elements of the managerial process; emphasis on theory of organization structure and design and the impact of technology and culture on organization systems.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -340,7 +340,7 @@
         },
         {
             "name": "Organizational Theory - Honors",
-            "number": "4330H",
+            "number": "MANGMT 4330H",
             "description": "Elements of the managerial process; emphasis on theory of organization structure and design and the impact of technology and culture on organization systems.",
             "prerequisites": "Honors eligibility requiredCorequisites: MANGMT 3000",
             "hours": "3",
@@ -351,7 +351,7 @@
         },
         {
             "name": "Crisis Management",
-            "number": "4340",
+            "number": "MANGMT 4340",
             "description": "Management strategies for media relations, image and identify building, internal communication, government relations, and crisis communication are explored through case studies, film, literature, and current popular culture.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -360,7 +360,7 @@
         },
         {
             "name": "Leadership Development",
-            "number": "4350",
+            "number": "MANGMT 4350",
             "description": "Provides a comprehensive understanding of leadership development within the corporate environment.  Examines causes and outcomes of different styles of leadership that are designed to fit the needs of individuals and/or specific situations.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -369,7 +369,7 @@
         },
         {
             "name": "Collective Bargaining",
-            "number": "4420",
+            "number": "MANGMT 4420",
             "description": "Content, negotiation, administration of collective labor agreements and settlement of disputes.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -378,7 +378,7 @@
         },
         {
             "name": "Management of Electronic Commerce",
-            "number": "4450",
+            "number": "MANGMT 4450",
             "description": "An introduction to electronic commerce. Topics covered include definition and scope of e-commerce, tools and technologies used, strategies, and understanding of this dynamic field.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -387,7 +387,7 @@
         },
         {
             "name": "Electronic Commerce Security",
-            "number": "4460",
+            "number": "MANGMT 4460",
             "description": "Comprehensive introduction to the concepts, technologies, and applications of security in electronic commerce.  Topics include security policy, privacy, cryptography, types of attacks, protection, detection and response strategies.",
             "prerequisites": "ACCTCY 2258Corequisites: MANGMT 3000",
             "hours": "3",
@@ -399,7 +399,7 @@
         },
         {
             "name": "Business Data Communication and Networking",
-            "number": "4480",
+            "number": "MANGMT 4480",
             "description": "Introduction to fundamental principles of technical and managerial aspects of business data communications and networks.  Basic concepts and principles, protocol layers, content distribution, routing, LAN, wireless, security, network management, multimedia networking, and new developments.",
             "prerequisites": "ACCTCY 2258Corequisites: MANGMT 3000",
             "hours": "3",
@@ -411,7 +411,7 @@
         },
         {
             "name": "Change Management in Business",
-            "number": "4520",
+            "number": "MANGMT 4520",
             "description": "Provides a comprehensive understanding of the processes of change in the corporate environment.  Examines antecedents of change such as acquisitions, mergers, technology and new leadership as well as approaches to managing change using tools from organization development (OD).",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -420,7 +420,7 @@
         },
         {
             "name": "Legal Aspects of Business Organization and Operation",
-            "number": "4540",
+            "number": "MANGMT 4540",
             "description": "Includes agency and employment relationships, sole proprietorships, partnerships, and corporations, also operational aspects of business associations such as administrative regulation, taxation, bankruptcy, and trade regulation.",
             "prerequisites": "MANGMT 3540",
             "hours": "3",
@@ -431,7 +431,7 @@
         },
         {
             "name": "The Law of Commercial Credit Transactions",
-            "number": "4560",
+            "number": "MANGMT 4560",
             "description": "Purchase and sale of goods, services and real property-discussion includes drafts, notes, security agreements under the Uniform Commercial Code, and credit financing of real estate.",
             "prerequisites": "MANGMT 3540",
             "hours": "3",
@@ -442,7 +442,7 @@
         },
         {
             "name": "Database Management",
-            "number": "4610",
+            "number": "MANGMT 4610",
             "description": "This is an introductory course on database (DB) technology. It introduces such technology and provides hands-on experience in designing and developing DBs to meet organizational goals. Topics include database concepts such as entity-relationship modeling, data modeling, relational database development, SQL, application of popular database systems software, data warehousing, and selected advanced topics in business use of DBs. Students work in groups to develop a database system project for an organization of their choice. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -451,7 +451,7 @@
         },
         {
             "name": "Web Development Fundamentals",
-            "number": "4620",
+            "number": "MANGMT 4620",
             "description": "An introduction to the fundamentals of design, technology and project management aspects of developing websites.  Some web based programming languages including HTML, CSS, JavaScript and ASP/VBScript and an introduction to Adobe Photoshop and Macromedia Dreamweaver.",
             "prerequisites": "ACCTCY 2258Corequisites: MANGMT 3000",
             "hours": "3",
@@ -463,7 +463,7 @@
         },
         {
             "name": "Principles of Entrepreneurship",
-            "number": "4700",
+            "number": "MANGMT 4700",
             "description": "An introductory course designed to provide a solid foundation of the role of entrepreneurship.  The focus is on the creation of new ventures, the decisions leading to their development, and the factors that lead to their success.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -472,7 +472,7 @@
         },
         {
             "name": "The Entrepreneurial Process",
-            "number": "4710",
+            "number": "MANGMT 4710",
             "description": "This course deals with critical thinking, logic, emotional intelligence, ethics and a problem solving/decision making frame in the context of the entrepreneurial business phases:  opportunity identification; launch after gathering resources; managing growth and harvesting rewards.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -481,7 +481,7 @@
         },
         {
             "name": "Experiential Entrepreneurship",
-            "number": "4720",
+            "number": "MANGMT 4720",
             "description": "The course will engage students in experiences that develop entrepreneurial characteristics such as a passion for business, tenacity despite failure, self-determination, management of risk, self-confidence, creating opportunities, creativity, initiative, and detail orientation.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -490,7 +490,7 @@
         },
         {
             "name": "New Business Planning and Management",
-            "number": "4730",
+            "number": "MANGMT 4730",
             "description": "Analysis of the major functional areas of the start-up firm including accounting, finance, human resources, information systems, logistics, management, marketing, production/operations, purchasing and sales. Focus is also placed on generating ideas, scanning for environmental trends, and critically evaluating opportunities.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -499,7 +499,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Enterprise Conception",
-            "number": "4750",
+            "number": "MANGMT 4750",
             "description": "(same as IMSE 4750). Develop a new business and technology plan including marketing, finance, engineering, manufacturing, and production concepts in this joint College of Engineering and College of Business course.",
             "prerequisites": "sophomore standing or instructor's consent",
             "hours": "3",
@@ -508,7 +508,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Enterprise Design",
-            "number": "4760",
+            "number": "MANGMT 4760",
             "description": "(same as IMSE 4760). Expand on Management 4750 business/technology plan into an operations plan; advertising facilities layout, selling and distribution channels, product designs, accounting procedures, manufacturing processes, and prototypes.",
             "prerequisites": "MANGMT 4750; sophomore standing or instructor's consent",
             "hours": "3",
@@ -519,7 +519,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Enterprise Operation",
-            "number": "4770",
+            "number": "MANGMT 4770",
             "description": "(same as IMSE 4770). Perform the day-to-day operations for an enterprise by managing all business processes including finance, manufacturing, sales and delivery. ",
             "prerequisites": " Junior Standing",
             "hours": ": 3",
@@ -528,7 +528,7 @@
         },
         {
             "name": "Professional Management Internship",
-            "number": "4940",
+            "number": "MANGMT 4940",
             "description": "Provides experience with management activities in business organizations (or, occasionally, in a governmental or not-for-profit setting). Students are required to prepare and execute a plan of study approved by the instructor and to complete written assignments detailed in the plan. Course only satisfies a professional elective requirement of the program. Graded on S/U basis only.",
             "prerequisites": "COB student with a management concentration, and Internship Coordinator's consent",
             "hours": "3",
@@ -537,7 +537,7 @@
         },
         {
             "name": "Strategic Management",
-            "number": "4970",
+            "number": "MANGMT 4970",
             "description": "Enterprise-level case studies, simulations, similar exercises to integrate business functional decisions; assessment of environmental influences on business. Development, implementation of company strategies.",
             "prerequisites": "MANGMT 3000, MRKTNG 3000, FINANC 3000 and 93 credit hours earned. Open only to seniors admitted to a professional program in the CoB",
             "hours": "3",
@@ -550,7 +550,7 @@
         },
         {
             "name": "Strategic Management",
-            "number": "4970W",
+            "number": "MANGMT 4970W",
             "description": "Enterprise-level case studies, simulations, similar exercises to integrate business functional decisions; assessment of environmental influences on business. Development, implementation of company strategies.",
             "prerequisites": "MANGMT 3000, MRKTNG 3000, FINANC 3000 and 93 credit hours earned. Open only to seniors admitted to a professional program in the CoB",
             "hours": "3",
@@ -563,7 +563,7 @@
         },
         {
             "name": "Operations Management",
-            "number": "7010",
+            "number": "MANGMT 7010",
             "description": "(cross-leveled with MANGMT 4010). Managerial analysis of operating problems, with emphasis on planning and control systems.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -572,7 +572,7 @@
         },
         {
             "name": "Human Resource Management",
-            "number": "7020",
+            "number": "MANGMT 7020",
             "description": "(cross-leveled with MANGMT 4020) Introduction to strategies and best practices in attracting, selecting, retaining developing, and compensating employees.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -581,7 +581,7 @@
         },
         {
             "name": "Organizational Behavior",
-            "number": "7030",
+            "number": "MANGMT 7030",
             "description": "(cross-leveled with MANGMT 4030). Examines theoretical constructs and research findings on human behavior in work organizations such as businesses, especially individual differences, dyadic relations and small group behavior.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -590,7 +590,7 @@
         },
         {
             "name": "Topics in Management",
-            "number": "7201",
+            "number": "MANGMT 7201",
             "description": "(cross-leveled with MANGMT 4201). Selected current topics in management. Offered on an experimental, one-semester basis only.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -599,7 +599,7 @@
         },
         {
             "name": "Organizational Theory",
-            "number": "7330",
+            "number": "MANGMT 7330",
             "description": "(cross-leveled with MANGMT 4330). Elements of the managerial process; emphasis on theory of organization structure and design and the impact of technology and culture on organization systems.",
             "prerequisites": "None Listed",
             "hours": "3Corequisites: MANGMT 3000",
@@ -608,7 +608,7 @@
         },
         {
             "name": "Organizational Behavior and Management: The Individual",
-            "number": "7380",
+            "number": "MANGMT 7380",
             "description": "An examination of factors influencing behavior in organizations. An analysis of research, theory, and current practices dealing with managing people in work organizations. Focus on the individual within the organizational context.",
             "prerequisites": "None Listed",
             "hours": "1.5",
@@ -617,7 +617,7 @@
         },
         {
             "name": "Organizational Behavior and Management: Dyadic, Group and Organizational Processes",
-            "number": "7390",
+            "number": "MANGMT 7390",
             "description": "An examination of factors influencing behavior in organizations.  An Analysis of research, theory, and current practices dealing with managing people in work organizations.  Focus on dyadic, group and system-wide processes.  ",
             "prerequisites": "   MANGMT 7380",
             "hours": "1.5",
@@ -628,7 +628,7 @@
         },
         {
             "name": "Management Information Systems",
-            "number": "7410",
+            "number": "MANGMT 7410",
             "description": "A managerially-oriented, case-based introduction to information systems. Emphasizes how information systems technology can aid managers in improving organizational performance, group work, and personal productivity, thus providing competitive advantage.",
             "prerequisites": "None Listed",
             "hours": "1.5",
@@ -637,7 +637,7 @@
         },
         {
             "name": "Managerial Statistics",
-            "number": "7420",
+            "number": "MANGMT 7420",
             "description": "Overview of statistics as an aid in decision making.  Emphasis on summarizing data, statistical inference, sampling techniques, and regression based forecasting as applied to problems in business.",
             "prerequisites": "None Listed",
             "hours": "1.5",
@@ -646,7 +646,7 @@
         },
         {
             "name": "Operations Strategy",
-            "number": "7430",
+            "number": "MANGMT 7430",
             "description": "Introduction to Operations Management function within an organization- the function which controls key resources necessary to produce and deliver a firm's goods or services to customers.  Surveys strategic problems common to operations within complex organization. Emphasizes planning, control, and decision making to gain competitive advantage through operations-related activities.  Stresses concepts, models, and behaviors across technologies, sectors, and industries, rather than emphasizing a few specific conversion technologies.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -655,7 +655,7 @@
         },
         {
             "name": "Business Analytics",
-            "number": "7450",
+            "number": "MANGMT 7450",
             "description": "This course focuses on two areas of knowledge. One focus is on developing relevant statistical thinking skills, including an awareness and management of risk, and recognizing the type of statistical analysis that is appropriate for a given managerial problem. The other is on developing an understanding of the role of business analytics in the organization, at the managerial, tactical and strategic level. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -664,7 +664,7 @@
         },
         {
             "name": "Data Analysis for Managers",
-            "number": "7470",
+            "number": "MANGMT 7470",
             "description": "Statistical thinking approaches to address common business data and problems.  Analysis of real-world cases and unstructured data using statistical features of spreadsheet software and communication of results in managerial format. Graded A-F only.",
             "prerequisites": "Open to Crosby MBA students ONLYCorequisites: MANGMT 7420",
             "hours": "1.5",
@@ -675,7 +675,7 @@
         },
         {
             "name": "Managerial Analytics",
-            "number": "7480",
+            "number": "MANGMT 7480",
             "description": "Spreadsheet modeling procedures to address common business problems.  Analysis of real-world cases and unstructured problems using basic and advanced features software and communication of results in managerial format. Graded A-F only.",
             "prerequisites": "MANGMT 7420 and MANGMT 7470.  Open to Crosby MBA students ONLY",
             "hours": "1.5",
@@ -687,7 +687,7 @@
         },
         {
             "name": "Legal Aspects of Business Organization and Operation",
-            "number": "7540",
+            "number": "MANGMT 7540",
             "description": "Includes agency and employment relationships, sole proprietorships, partnerships, and corporations, also operational aspects of business associations such as administrative regulation, taxation, bankruptcy, and trade regulation.",
             "prerequisites": "MANGMT 3540. Restricted to COB students",
             "hours": "3",
@@ -698,7 +698,7 @@
         },
         {
             "name": "Introduction to Strategic Management",
-            "number": "7970",
+            "number": "MANGMT 7970",
             "description": "Examines through case analysis and simulation how business-level managers overseeing a profit center in a specific industry set direction for a firm's activities in that industry and develop policies to implement that direction. Emphasis is on aligning business strategy with overarching corporate strategy (in diversified firms) and integrating functional perspectives (marketing, operations, finance, R&D, purchasing, human resources, etc.) by effectively resolving conflicts in these perspectives when formulating effective strategy. Focus is also placed on balancing short-term efficiency in a business unit with long-term effectiveness through cultivating continuous innovation processes that redefine the business unit over time.",
             "prerequisites": "Open to Crosby MBA students only",
             "hours": "1.5",
@@ -707,7 +707,7 @@
         },
         {
             "name": "Topics in Management",
-            "number": "8001",
+            "number": "MANGMT 8001",
             "description": "Selected current topics in management.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -716,7 +716,7 @@
         },
         {
             "name": "Entrepreneurship and Media of the Future",
-            "number": "8054",
+            "number": "MANGMT 8054",
             "description": "(same as JOURN 8054). This course will give students an intense hands-on experience in working with real entrepreneurs on complex business problems in the journalism field.  Example companies are the Associated Press, Kachingle, the Chicago Sun-Times, Spot-Us and the Media Policy Center.  The goal is to offer a solution or solutions to the stated problem, and to present these ideas in a competitive, symposium environment.  Graded on A-F basis only.",
             "prerequisites": "graduate standing in Journalism or MBA program",
             "hours": "3",
@@ -725,7 +725,7 @@
         },
         {
             "name": "Problems in Management",
-            "number": "8085",
+            "number": "MANGMT 8085",
             "description": "Graduate students may select topics for study and investigation. Selected sections of the course may be offered either on A-F or S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -734,7 +734,7 @@
         },
         {
             "name": "Exploring the Digital Globe",
-            "number": "8100",
+            "number": "MANGMT 8100",
             "description": "Impacts of technological change and globalization are explored from the perspective of business, law and journalism.  The first course required for the \"CDiG certificate\".  Issues involving electronic commerce, digitization and globalization will be analyzed through online and in-class projects, class discussion and guest lectures.",
             "prerequisites": "enrollment in CDiG Graduate Certificate Program or instructor's consent",
             "hours": "3",
@@ -743,7 +743,7 @@
         },
         {
             "name": "Commercialization of Life Science Innovations",
-            "number": "8200",
+            "number": "MANGMT 8200",
             "description": "This course will provide educational content and experiences that equip course participants to navigate the main pathways for commercialization of biomedical innovations.  Students will also learn how to access sources of capital for R&D and develop an understanding of the role of FDA approval and the processes for approval of different types of biomedical products.  Students will become familiar with quality assurance programs required in the biomedical industry.  Students will also become familiar with the most common business models for biomedical companies and the importance of product development and commercialization alliances.  Graded on A-F basis only.",
             "prerequisites": "admitted to certificate program; director approval",
             "hours": "3",
@@ -752,7 +752,7 @@
         },
         {
             "name": "Business and Society",
-            "number": "8300",
+            "number": "MANGMT 8300",
             "description": "Interdependence of the business firm and its social, political, and legal environment; interrelationships with governments, interest groups, and the larger society; role of business in formulation of community, regional, national, and foreign policy.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -761,7 +761,7 @@
         },
         {
             "name": "Strategic Human Resource Management",
-            "number": "8310",
+            "number": "MANGMT 8310",
             "description": "Analysis of research and practice in planning for attracting, selecting, developing, and disciplining of employees at work.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -770,7 +770,7 @@
         },
         {
             "name": "Management of Labor Relations",
-            "number": "8320",
+            "number": "MANGMT 8320",
             "description": "Managerial approaches to collective bargaining. Negotiation, grievances, agreement administration; emphasis on recent developments.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -779,7 +779,7 @@
         },
         {
             "name": "Current Issues in Human Resource Management",
-            "number": "8330",
+            "number": "MANGMT 8330",
             "description": "Exploration of current trends, issues, and controversies involving the managing of human resources in organizations, with an emphasis on how human resources can provide competitive advantage. Considers multiple perspectives, including that of employers, employees, and other stakeholders.",
             "prerequisites": "MANGMT 8310 or MANGMT 7380 and MNGMT 7390",
             "hours": "3",
@@ -791,7 +791,7 @@
         },
         {
             "name": "Human Resource Law",
-            "number": "8335",
+            "number": "MANGMT 8335",
             "description": "The study of best HR practices from a legal point of view, including avoiding employer liability related to recruiting, interviewing, hiring, classifying, supervising and terminating employees.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -800,7 +800,7 @@
         },
         {
             "name": "Organizational Design",
-            "number": "8340",
+            "number": "MANGMT 8340",
             "description": "Principles of effective organizational design contingent upon contextual factors such as an organization's size, technology, and environment; dimensions of organizational structure; overall forms of organizational design.",
             "prerequisites": "None Listed",
             "hours": "1.5",
@@ -809,7 +809,7 @@
         },
         {
             "name": "Organizational Culture",
-            "number": "8345",
+            "number": "MANGMT 8345",
             "description": "Concept of culture in an organizational context; models of organizational culture; culture's relationships with individual behavior, organizational effectiveness, and organizational changed, especially change related to strategy implementation and to mergers and acquisitions.",
             "prerequisites": "None Listed",
             "hours": "1.5",
@@ -818,7 +818,7 @@
         },
         {
             "name": "Organizational Analysis and Change in the Public Sector",
-            "number": "8350",
+            "number": "MANGMT 8350",
             "description": "Investigates the social and psychological dynamics of organizational diagnosis, feedback and learning, intervention, planned change. Students study organizational life from the viewpoint of experienced organizational analysts and consultants. The predominant theoretical approach offered in this course is clinical and psychodynamic.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -827,7 +827,7 @@
         },
         {
             "name": "Negotiations",
-            "number": "8360",
+            "number": "MANGMT 8360",
             "description": "A structured overview of negotiations; includes the development of improved negotiation skills. Topics include power, distributive negotiations, integrative negotiations, maneuvers, tactics, strategies, conflict, complex negotiations, mediation, and negotiation ethics.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -836,7 +836,7 @@
         },
         {
             "name": "Managerial Leadership",
-            "number": "8370",
+            "number": "MANGMT 8370",
             "description": "An examination of the historical conceptions, definitions, theories, and research findings in the managerial leadership literature.  The application of this literature to the development of analytical and leadership skills.",
             "prerequisites": "MANGMT 7380 and MANGMT 7390",
             "hours": "3",
@@ -848,7 +848,7 @@
         },
         {
             "name": "Management Science Modeling",
-            "number": "8400",
+            "number": "MANGMT 8400",
             "description": "Application of management science modeling procedures to organizational decision making.  Topics include mathematical programming, queuing, and network models.  Stresses managerial point of view with analysis of problems and interpretation of computer solutions.",
             "prerequisites": "MANGMT 7420",
             "hours": "1.5",
@@ -859,7 +859,7 @@
         },
         {
             "name": "Decision Making and Risk",
-            "number": "8410",
+            "number": "MANGMT 8410",
             "description": "Managerial approaches to decision making under risk and uncertainty with emphasis on decision analysis, spreadsheet simulation, and computer solutions via other management science models.  Discussion of rational and behavioral decision making and procedures for assessing risk and uncertainty.",
             "prerequisites": "MANGMT 7400 or equivalent",
             "hours": "1.5",
@@ -870,7 +870,7 @@
         },
         {
             "name": "Decision Support Systems",
-            "number": "8420",
+            "number": "MANGMT 8420",
             "description": "The theory, methodology and implementation of Decision Support Systems (DSS). Topics include the DSS concept, applications, organizational issues, hardware and software technology, developmental methodology, data-model-user relationships, user interfaces, implementation strategies, and evaluation procedures. Includes hands-on building of a DSS.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -879,7 +879,7 @@
         },
         {
             "name": "Database Management",
-            "number": "8430",
+            "number": "MANGMT 8430",
             "description": "Data management, including database development, access, and administration. A focus on key issues and principles of managing organizational data, such as developing data models, creating relational databases, and formulating and executing queries.",
             "prerequisites": "completion of or concurrent enrollment in MANGMT 7410",
             "hours": "3",
@@ -890,7 +890,7 @@
         },
         {
             "name": "Topics in Electronic Commerce",
-            "number": "8440",
+            "number": "MANGMT 8440",
             "description": "Fundamental principles of the technical and managerial aspects of business telecommunications.  Basic concepts of telecommunication technology, TCP/IP architecture, LAN, WAN ZoS, client/server, security, wireless, issues related to the operational and strategic use of the technology, networked applications, and new developments in the area.",
             "prerequisites": "MANGMT 7410 and one other MIS course; departmental consent",
             "hours": "3",
@@ -901,7 +901,7 @@
         },
         {
             "name": "Information Resource Management",
-            "number": "8450",
+            "number": "MANGMT 8450",
             "description": "Management issues and techniques involving information system/ resource activities, with a focus on computer-based resources and IS development activities. Includes management of IS professionals and project teams, user relationships, emerging technologies, and planning processes. ",
             "prerequisites": " completion of one required E-Commerce (MANGMT 8440, MANGMT 8430) or IT (MANGMT 8460, MANGMT 8001: Web Programming) MBA concentration course.",
             "hours": ": 3",
@@ -915,7 +915,7 @@
         },
         {
             "name": "Systems Approach to Business Application Development",
-            "number": "8460",
+            "number": "MANGMT 8460",
             "description": "Design and implementation of transaction-based business applications systems, utilizing structured analysis and design concepts. Course will emphasize database development and implementation and computer programming.",
             "prerequisites": "completion of or concurrent enrollment in MANGMT 7410",
             "hours": "3",
@@ -926,7 +926,7 @@
         },
         {
             "name": "Business Telecommunications",
-            "number": "8470",
+            "number": "MANGMT 8470",
             "description": "Fundamental principles of the technical and managerial aspects of business telecommunication.  Basic concepts of telecommunication technology, TCP/IP architecture, LAN, WAN, QoS, client/server, security, wireless, issues related to the operational and strategic use of the technology, networked applications, and new developments in the area.",
             "prerequisites": "MANGMT 7410 and one other MIS course; departmental consent",
             "hours": "3",
@@ -937,7 +937,7 @@
         },
         {
             "name": "Web Development",
-            "number": "8480",
+            "number": "MANGMT 8480",
             "description": "An advanced introduction to the fundamentals of design, technology and project management aspects of developing websites.  Several programming languages including HTML, CSS, JavaScript, CGI/Perl, PHP and ASP/VBScript and on introduction to Adobe Photoshop and Macromedia Dreamweaver. Requires Visual Basic knowledge.",
             "prerequisites": "Visual Basic knowledge; departmental consent",
             "hours": "3",
@@ -946,7 +946,7 @@
         },
         {
             "name": "Project Management",
-            "number": "8510",
+            "number": "MANGMT 8510",
             "description": "An advanced introduction to methods and techniques for managing projects, with selective attention to human resource issues as required.  Includes project breakdown analysis, task network scheduling, resource allocation, and assessment/evaluation of project performance.",
             "prerequisites": "departmental consent",
             "hours": "1-3",
@@ -955,7 +955,7 @@
         },
         {
             "name": "Entrepreneurial Ventures",
-            "number": "8540",
+            "number": "MANGMT 8540",
             "description": "Analysis of management challenges facing entrepreneurial startups and alternative strategic responses to those challenges. Views issues from multiple functional perspectives to design cross-functional solutions to entrepreneurial problems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -964,7 +964,7 @@
         },
         {
             "name": "Launching a High-Growth Venture",
-            "number": "8550",
+            "number": "MANGMT 8550",
             "description": "An experiential learning course using a business plan competition to simulate planning and securing capital for high-growth ventures.  Participants with management, marketing or finance interests learn skills for preparing and presenting business plans to investors.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -973,7 +973,7 @@
         },
         {
             "name": "Legal Strategies for Entrepreneurs",
-            "number": "8560",
+            "number": "MANGMT 8560",
             "description": "The study of how legal decisions affect a business organization of various transitional states of development, from start up to going public.  Designed for both MBA and Law students, who work together planning legal transitions of a business.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -982,7 +982,7 @@
         },
         {
             "name": "Corporate Governance and Professional Accountability",
-            "number": "8900",
+            "number": "MANGMT 8900",
             "description": "Corporate governance (CG) is the set of processes, customs, policies, laws, and institutions affecting how a company is directed, administered or controlled. CG includes the relationships among the many stakeholders involved and the goals by which the corporation is governed. In contemporary business corporations, the main external stakeholder groups are shareholders, debtholders, trade creditors, suppliers, customers and communities affected by the corporation's activities. Internal stakeholders are the board of directors, executives, and other employees. This course will illustrate some of these key relationships, including how they can go wrong and the trade-offs managers have to make to manage all of these relationships. This course can be seen as a course on the professional responsibilities of business leaders. It is based on the assumption that business, like law and medicine, is a profession whose practitioners carry out essential functions in society. When individuals enter the profession, they undertake to fulfill a distinctive set of responsibilities that go with their chosen role. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -991,7 +991,7 @@
         },
         {
             "name": "Strategy and Global Competitiveness",
-            "number": "8970",
+            "number": "MANGMT 8970",
             "description": "Investigates alternative goals of business enterprises relative to internal resources and external environment; development and implementation of policies and strategies to achieve objectives. Cases, computer simulations, and/or field research may supplement published materials.",
             "prerequisites": "MANGMT 7970 for the 1.5 credit hour version of the course. Open to MBA Students only",
             "hours": "1-3",
@@ -1002,7 +1002,7 @@
         },
         {
             "name": "Research Methods in the Organization Sciences",
-            "number": "9010",
+            "number": "MANGMT 9010",
             "description": "Identifying research questions, critiquing research ideas, planning, conducting, and communicating research using experimental, cross-sectional, survey and qualitative methods.",
             "prerequisites": "PhD student or instructor's consent",
             "hours": "3",
@@ -1011,7 +1011,7 @@
         },
         {
             "name": "Seminar in Micro Organizational Behavior",
-            "number": "9020",
+            "number": "MANGMT 9020",
             "description": "Examination of theory and research on individuals within an organizational context, including individual perceptions, personality, attitudes, motivation, affect and behavior, and influences on outcomes such as job satisfaction and performance.",
             "prerequisites": "PhD students and instructor's consent",
             "hours": "3",
@@ -1020,7 +1020,7 @@
         },
         {
             "name": "Seminar in Macro Organizational Behavior",
-            "number": "9030",
+            "number": "MANGMT 9030",
             "description": "This course is designated to introduce students to content areas within the organizational behavior literature.  Topics in \"macro\" organizational behavior will be covered, including groups and teams, organizational culture, and national culture.  We will also cover a number of topics outside of traditional organizational behavior topics, including negotiation and social conflict, creativity, empowerment, and other topics as the instructor sees fit.  Readings will consist of a combination of recent and classic journal articles on the topics.",
             "prerequisites": "PhD Students and instructor's consent",
             "hours": "3",
@@ -1029,7 +1029,7 @@
         },
         {
             "name": "Seminar in Human Resource Management",
-            "number": "9040",
+            "number": "MANGMT 9040",
             "description": "Intensive study of current research, issues and methodology of the applied science of human resource management.  Topics include recruitment and selection, training, job performance and performance feedback, and career success.",
             "prerequisites": "PhD student or instructor's consent",
             "hours": "3",
@@ -1038,7 +1038,7 @@
         },
         {
             "name": "Seminar in Organization Theory",
-            "number": "9050",
+            "number": "MANGMT 9050",
             "description": "Focuses on the organization as the subject of analysis with coverage of the effectiveness structure, environment, culture, and development of organizations.",
             "prerequisites": "PhD student or instructor's consent",
             "hours": "3",
@@ -1047,7 +1047,7 @@
         },
         {
             "name": "Seminar in Corporate Strategy",
-            "number": "9060",
+            "number": "MANGMT 9060",
             "description": "The doctoral seminar in strategy focuses on the topics of strategy content research (what strategies are used by firms, and what is their effect on performance, corporate and competitive strategy, etc.) but also considering important related research streams of strategy process and implementation.",
             "prerequisites": "PhD student or instructor's consent",
             "hours": "3",
@@ -1056,7 +1056,7 @@
         },
         {
             "name": "Seminar in Entrepreneurship",
-            "number": "9080",
+            "number": "MANGMT 9080",
             "description": "The doctoral seminar in Entrepreneurship is intended to provide students with a broad coverage of the literature.  It focuses on the foundations and \"cutting edge\" research in entrepreneurship content research.  Topics covered in the course include:  a theoretical overview of entrepreneurship, identification of opportunities, the decision to exploit opportunities, resource assembly and new markets, founders and entrepreneurial teams, venture capital and venture capitalists, entrepreneurship and efficient governance, initial public offerings (IPOs), new ventures (strategy, growth, performance), entrepreneurial networks and alliances, and international entrepreneurship.",
             "prerequisites": "PhD student or instructor's consent",
             "hours": "3",
@@ -1065,7 +1065,7 @@
         },
         {
             "name": "Seminar in Management",
-            "number": "9087",
+            "number": "MANGMT 9087",
             "description": "Intensive studies of current research and issues. Readings, independent investigations, reports.",
             "prerequisites": "open to Ph.D. students, or instructor's consent",
             "hours": "1-99",
@@ -1074,7 +1074,7 @@
         },
         {
             "name": "Research in Management",
-            "number": "9090",
+            "number": "MANGMT 9090",
             "description": "Thesis research for Ph.D. degree. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -1083,7 +1083,7 @@
         },
         {
             "name": "Topics Seminar in Management",
-            "number": "9101",
+            "number": "MANGMT 9101",
             "description": "Reading and critical evaluation of selected current management literature and research. May be repeated.",
             "prerequisites": "Ph.D. students only",
             "hours": "1-3",

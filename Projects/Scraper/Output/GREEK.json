@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Elementary Ancient Greek I",
-            "number": "1100",
+            "number": "GREEK 1100",
             "description": "Study of forms, grammar, syntax. Early attention to reading in simple Attic prose.",
             "prerequisites": "None Listed",
             "hours": "5",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Elementary Ancient Greek I - Honors",
-            "number": "1100H",
+            "number": "GREEK 1100H",
             "description": "Study of forms, grammar, syntax. Early attention to reading in simple Attic prose.",
             "prerequisites": "Honors eligibility required",
             "hours": "5",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Elementary Ancient Greek II",
-            "number": "1200",
+            "number": "GREEK 1200",
             "description": "Continuation of GREEK 1100. Readings in Attic prose.",
             "prerequisites": "GREEK 1100",
             "hours": "5",
@@ -33,7 +33,7 @@
         },
         {
             "name": "Elementary Ancient Greek II - Honors",
-            "number": "1200H",
+            "number": "GREEK 1200H",
             "description": "Continuation of GREEK 1100H. Readings in Attic prose.",
             "prerequisites": "GREEK 1100, Honors eligibility required",
             "hours": "5",
@@ -44,7 +44,7 @@
         },
         {
             "name": "Greek Reading",
-            "number": "2000",
+            "number": "GREEK 2000",
             "description": "Selected works of Greek literature.",
             "prerequisites": "GREEK 1200",
             "hours": "3",
@@ -55,7 +55,7 @@
         },
         {
             "name": "Greek Reading - Honors",
-            "number": "2000H",
+            "number": "GREEK 2000H",
             "description": "Selected works of Greek literature.",
             "prerequisites": "GREEK 1200, Honors eligibility required",
             "hours": "3",
@@ -66,7 +66,7 @@
         },
         {
             "name": "Intensive Beginning Greek II - Honors",
-            "number": "4120H",
+            "number": "GREEK 4120H",
             "description": "Continuation of GREEK 4110H. Attention to ability to read rapidly and accurately. Course meets five hours weekly for three hours credit.",
             "prerequisites": "graduate standing and Honors eligibility required",
             "hours": "3",
@@ -75,7 +75,7 @@
         },
         {
             "name": "Intermediate Readings",
-            "number": "4300",
+            "number": "GREEK 4300",
             "description": "Selected advanced readings in prose and poetry. Introduction to Homer.",
             "prerequisites": "GREEK 2000",
             "hours": "3",
@@ -86,124 +86,150 @@
         },
         {
             "name": "The Greek New Testament",
-            "number": "4350",
+            "number": "GREEK 4350",
             "description": "(same as REL_ST 4650). Readings in the Greek New Testament and similar literature, e.g., the Septuagint. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Homer",
-            "number": "4400",
+            "number": "GREEK 4400",
             "description": "Reading, discussion, and literary analysis of Iliad and Odyssey.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Greek Stylistics",
-            "number": "4500",
+            "number": "GREEK 4500",
             "description": "Study and practice of Greek prose, with special consideration to basic problems: abstract expression, word order, sentence structure and use of common rhetorical devices.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Topics in Greek",
-            "number": "4505",
+            "number": "GREEK 4505",
             "description": "Topics course involving Greek texts. May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Greek Tragedy",
-            "number": "4510",
+            "number": "GREEK 4510",
             "description": "Selected works of Aeschylus, Sophocles, Euripides, with special attention to language, style, ideas, and dramatic techniques.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Greek Comedy",
-            "number": "4520",
+            "number": "GREEK 4520",
             "description": "Selected plays of Aristophanes and Menander, with special attention to cultural contexts.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Greek Lyric Poetry",
-            "number": "4530",
+            "number": "GREEK 4530",
             "description": "Selected readings from lyric poets, with attention to verse forms, and dialects.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Greek Oratory",
-            "number": "4540",
+            "number": "GREEK 4540",
             "description": "Selections from Greek orators, with emphasis on Lysias and Demosthenes.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Greek Philosophers",
-            "number": "4550",
+            "number": "GREEK 4550",
             "description": "Emphasis on readings and analysis of selected texts of major Greek philosophers.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Greek Historians",
-            "number": "4560",
+            "number": "GREEK 4560",
             "description": "Reading and analysis of selected texts of major Greek historians.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Greek Epigraphy",
-            "number": "4570",
+            "number": "GREEK 4570",
             "description": "Introduction to study of Greek inscriptions and their contribution to the understanding of other aspects of ancient culture.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Survey of Greek Literature",
-            "number": "4700",
+            "number": "GREEK 4700",
             "description": "Greek literature from origins to end of Roman period; emphasis on authors not covered in other courses, to provide general view of styles and genres.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Special Readings in Greek",
-            "number": "4960",
+            "number": "GREEK 4960",
             "description": "Readings in authors and texts not covered in other courses.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GREEK 4300",
-            "connections": "None Listed"
+            "connections": [
+                "GREEK 4300"
+            ]
         },
         {
             "name": "Intermediate Readings in Greek",
-            "number": "7300",
+            "number": "GREEK 7300",
             "description": "Selected advanced readings in prose and poetry. Introduction to Homer.",
             "prerequisites": "GREEK 2000 or equivalent.  Available to students for graduate credit in departments other than Classical Studies",
             "hours": "3",
@@ -214,7 +240,7 @@
         },
         {
             "name": "The Greek New Testament",
-            "number": "7350",
+            "number": "GREEK 7350",
             "description": "(same as REL_ST 7650). Readings in the Greek New Testament and similar literature, e.g., the Septuagint. Graduate students read significantly more Greek than do undergraduates and testing is accordingly more rigorous. Graded on A-F basis only.",
             "prerequisites": "GREEK 4300 or instructor's consent",
             "hours": "3",
@@ -225,7 +251,7 @@
         },
         {
             "name": "Homer",
-            "number": "7400",
+            "number": "GREEK 7400",
             "description": "Reading, discussion, and literary analysis of Iliad and Odyssey.",
             "prerequisites": "two years Classical Greek or equivalent",
             "hours": "3",
@@ -234,7 +260,7 @@
         },
         {
             "name": "Greek Stylistics",
-            "number": "7500",
+            "number": "GREEK 7500",
             "description": "Study and practice of general Greek prose tendencies, with special consideration to basic problems: abstract expression, word order, sentence structure and use of common rhetorical devices.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -243,7 +269,7 @@
         },
         {
             "name": "Topics in Greek",
-            "number": "7505",
+            "number": "GREEK 7505",
             "description": "Organized study of selected authors or eras. Subject and earnable credit vary from semester to semester.",
             "prerequisites": "two years of Classical Greek or equivalent",
             "hours": "1-99",
@@ -252,7 +278,7 @@
         },
         {
             "name": "Greek Tragedy",
-            "number": "7510",
+            "number": "GREEK 7510",
             "description": "Selected works of Aeschylus, Sophocles, Euripides, with special attention to language, style, ideas, and dramatic techniques.",
             "prerequisites": "wo years Classical Greek or equivalent",
             "hours": "3",
@@ -261,7 +287,7 @@
         },
         {
             "name": "Greek Comedy",
-            "number": "7520",
+            "number": "GREEK 7520",
             "description": "Selected plays of Aristophanes and Menander, with special attention to cultural contexts.",
             "prerequisites": "two years Classical Greek or equivalent",
             "hours": "3",
@@ -270,7 +296,7 @@
         },
         {
             "name": "Greek Lyric Poetry",
-            "number": "7530",
+            "number": "GREEK 7530",
             "description": "Selected readings from lyric poets, with attention to verse forms, and dialects.",
             "prerequisites": "two years Classical Greek or equivalent",
             "hours": "3",
@@ -279,7 +305,7 @@
         },
         {
             "name": "Greek Oratory",
-            "number": "7540",
+            "number": "GREEK 7540",
             "description": "Selections from Greek orators, with emphasis on Lysias and Demosthenes.",
             "prerequisites": "two years Classical Greek or equivalent",
             "hours": "3",
@@ -288,7 +314,7 @@
         },
         {
             "name": "Greek Philosophers",
-            "number": "7550",
+            "number": "GREEK 7550",
             "description": "Emphasis on readings and analysis of selected texts of major Greek philosophers.",
             "prerequisites": "two years Classical Greek or equivalent",
             "hours": "3",
@@ -297,7 +323,7 @@
         },
         {
             "name": "Greek Historians",
-            "number": "7560",
+            "number": "GREEK 7560",
             "description": "Reading and analysis of selected texts of major Greek historians.",
             "prerequisites": "two years Classical Greek or equivalent",
             "hours": "3",
@@ -306,7 +332,7 @@
         },
         {
             "name": "Greek Epigraphy",
-            "number": "7570",
+            "number": "GREEK 7570",
             "description": "Introduction to study of Greek inscriptions and their contribution to the understanding of other aspects of ancient culture.",
             "prerequisites": "GREEK 2000",
             "hours": "3",
@@ -317,7 +343,7 @@
         },
         {
             "name": "Survey of Greek Literature",
-            "number": "7700",
+            "number": "GREEK 7700",
             "description": "Greek literature from origins to end of Roman period; emphasis on authors not covered in other courses, to provide general view of styles and genres.",
             "prerequisites": "two years Classical Greek or equivalent",
             "hours": "3",
@@ -326,7 +352,7 @@
         },
         {
             "name": "Special Readings in Greek",
-            "number": "7960",
+            "number": "GREEK 7960",
             "description": "Readings in authors and texts not covered in other courses.",
             "prerequisites": "departmental consent and two years Classical Greek or equivalent",
             "hours": "1-3",
@@ -335,7 +361,7 @@
         },
         {
             "name": "Proseminar in Greek Texts",
-            "number": "8000",
+            "number": "GREEK 8000",
             "description": "This is a seminar-level introduction to Greek literary and historical texts. The emphasis in this course will be on wide and intensive reading, with the objective of helping the new graduate student quickly develop a sound literary and linguistic competence.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -344,7 +370,7 @@
         },
         {
             "name": "Greek Rough Guide",
-            "number": "8010",
+            "number": "GREEK 8010",
             "description": "Intensive exploration of Greek Literature from its earliest appearance through the Roman period.  Emphasis upon texts as both literary and cultural artifacts whose interpretation requires familiarity with the historical and archaeological legacy of antiquity as well as modern exegetical strategies.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -353,7 +379,7 @@
         },
         {
             "name": "Greek Historiography",
-            "number": "8100",
+            "number": "GREEK 8100",
             "description": "(same as HIST 8500). Study of the major contemporary historians of Classical Greece and their methodology. Differential readings available to both students with a reading knowledge of Greek and also those without Greek.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -362,7 +388,7 @@
         },
         {
             "name": "Seminar in Greek Drama",
-            "number": "9287",
+            "number": "GREEK 9287",
             "description": "May be repeated to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -371,7 +397,7 @@
         },
         {
             "name": "Seminar in Greek Lyric Poetry",
-            "number": "9387",
+            "number": "GREEK 9387",
             "description": "Seminar in Greek Lyric Poetry.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -380,7 +406,7 @@
         },
         {
             "name": "Seminar in the Greek Philosophers",
-            "number": "9487",
+            "number": "GREEK 9487",
             "description": "Seminar in the Greek Philosophers.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -389,7 +415,7 @@
         },
         {
             "name": "Seminar in the Greek Historians",
-            "number": "9587",
+            "number": "GREEK 9587",
             "description": "Seminar in the Greek Historians.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -398,7 +424,7 @@
         },
         {
             "name": "Seminar in Greek Epic Poetry",
-            "number": "9687",
+            "number": "GREEK 9687",
             "description": "Seminar in Greek Epic Poetry.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -407,7 +433,7 @@
         },
         {
             "name": "Seminar on the Age of Pericles",
-            "number": "9787",
+            "number": "GREEK 9787",
             "description": "Study of Greek culture of mid-fifth century B.C., including law, religion, art, philosophy, science, and other aspects of the culture, to give students an integrated view of life of the period.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -416,7 +442,7 @@
         },
         {
             "name": "Seminar in Special Fields",
-            "number": "9887",
+            "number": "GREEK 9887",
             "description": "Seminar in Special Fields.",
             "prerequisites": "None Listed",
             "hours": "3",

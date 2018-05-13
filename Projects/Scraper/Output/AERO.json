@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "The Foundations of the United States Air Force",
-            "number": "1100",
+            "number": "AERO 1100",
             "description": "Introduces the Air Force and Air Force ROTC. Topics include professional appearance, military customs and courtesies, core values, equal opportunity and treatment, officer opportunities, group leadership problems. Applies communicative skills. Leadership lab.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -13,7 +13,7 @@
         },
         {
             "name": "The Foundations of the United States Air Force",
-            "number": "1200",
+            "number": "AERO 1200",
             "description": "Continues the introduction to the Air Force and Air Force ROTC. Topics include Air Force origins, organizations, major commands, installations, sister services (Army and Navy), group leadership problems. Applies communicative skills. Leadership lab.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -22,7 +22,7 @@
         },
         {
             "name": "The Evolution of USAF Air and Space Power",
-            "number": "2100",
+            "number": "AERO 2100",
             "description": "A survey course designed to facilitate the transition from Air Force ROTC cadet to Air Force ROTC officer candidate. Explores Air Force heritage, Air Force leaders and Air Power doctrine.  Applies communicative skills. Leadership lab.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -31,7 +31,7 @@
         },
         {
             "name": "The Evolution of USAF Air and Space Power",
-            "number": "2200",
+            "number": "AERO 2200",
             "description": "Continues the examination of air and space power from the Vietnam era through the present.  Topics include the Vietnam War, the Persian Gulf War, and overseas contingency operations. Applies communicative skills. Leadership lab.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Air Force Leadership Studies",
-            "number": "3100",
+            "number": "AERO 3100",
             "description": "An integrated leadership and management survey course emphasizing development of the individual as an Air Force leader. Special topics include situational leadership, principle centered leadership, corrective supervision and counseling. Leadership lab.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Air Force Leadership Studies",
-            "number": "3200",
+            "number": "AERO 3200",
             "description": "Air Force leadership principles are examined from the foundation developed in AERO 3100.  Ethical decision making, personal core values, and character development are discussed.  Military evaluation systems are outlined.  Leadership lab.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "National Security Affairs/Preparation for Active Duty",
-            "number": "4100",
+            "number": "AERO 4100",
             "description": "Examines the national security process, regional studies, Air Force and joint doctrine.  Special topics include the military as a profession and civilian control of the military.  Continued emphasis on communicative skills. Leadership lab.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "National Security Affairs/Preparation for Active Duty",
-            "number": "4200",
+            "number": "AERO 4200",
             "description": "Examines civilian control of the military, officership, the military justice system, and current issues affecting military professionalism. Continued refinement of communicative skills. Leadership laboratory.",
             "prerequisites": "None Listed",
             "hours": "3",

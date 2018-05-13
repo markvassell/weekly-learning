@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Undergraduate Topics in Art History and Archaeology- Humanities",
-            "number": "1005",
+            "number": "AR_H_A 1005",
             "description": "Special studies in Art History and Archaeology.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Introduction to Museum of Art and Archaeology, UMC",
-            "number": "1010",
+            "number": "AR_H_A 1010",
             "description": "This course is a brief introduction to the Museum of Art and Archaeology on Francis Quadrangle.  Special attention will be given to the history of the Museum, to its operation and to its collection.  Guest lecturers from the from the Museum will provide first hand accounts of their contributions to the day-to-day operations of the Museum and to the academic mission of the University.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Giotto and the Arena Chapel",
-            "number": "1020",
+            "number": "AR_H_A 1020",
             "description": "This course is a brief introduction to one of the major monuments of western art, the Area (or Scrovegni) Chapel of Giotto di Bondone.  Special attention will be given to stories about him by Renaissance authors.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Early Works of Michelangelo",
-            "number": "1030",
+            "number": "AR_H_A 1030",
             "description": "This course is a brief introduction to the life and work of Michelangelo.  Special attention will be given to his early works and to stories about him, especially those by Giorgio Vasari in his Lives of the Artist, Florence, 1568.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Rembrandt",
-            "number": "1040",
+            "number": "AR_H_A 1040",
             "description": "This course is a brief introduction to the life and work of the seventeenth-century Dutch painter Rembrandt van Rijn.  Special attention is give to the appreciation of his art by his contemporaries.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Undergraduate Topics in Art History and Archaeology",
-            "number": "1105",
+            "number": "AR_H_A 1105",
             "description": "Special studies in Art History and Archaeology.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Ancient and Medieval Art",
-            "number": "1110",
+            "number": "AR_H_A 1110",
             "description": "Introductory survey of the architecture, sculpture and painting of the ancient Near East, Greece, Rome, Byzantium and Medieval Europe.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Ancient & Medieval Art - Honors",
-            "number": "1110H",
+            "number": "AR_H_A 1110H",
             "description": "Introductory survey of the architecture, sculpture and painting of the ancient Near East, Greece, Rome, Byzantium and Medieval Europe.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Ancient and Medieval Art - Writing Intensive",
-            "number": "1110W",
+            "number": "AR_H_A 1110W",
             "description": "Introductory survey of the architecture, sculpture and painting of the ancient Near East, Greece, Rome, Byzantium and Medieval Europe.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Renaissance through Modern Art",
-            "number": "1120",
+            "number": "AR_H_A 1120",
             "description": "Introductory survey of architecture, sculpture and painting of Europe and America from the Renaissance to Modern times.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Renaissance through Modern Art - Honors",
-            "number": "1120H",
+            "number": "AR_H_A 1120H",
             "description": "Introductory survey of architecture, sculpture and painting of Europe and America from the Renaissance to Modern times.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Renaissance through Modern Art - Writing Intensive",
-            "number": "1120W",
+            "number": "AR_H_A 1120W",
             "description": "Introductory survey of architecture, sculpture and painting of Europe and America from the Renaissance to Modern times.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Introduction to Asian Arts",
-            "number": "1230",
+            "number": "AR_H_A 1230",
             "description": "(same as HIST 1820, REL_ST 1820, S_A_ST 1152). This course is an introduction to the literature and visual arts of Asia through selected master works. It focuses principally on India and China and investigates the distinctive features of their cultures.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -121,7 +121,7 @@
         },
         {
             "name": "Topics Art History and Archaeology - Humanities",
-            "number": "2005",
+            "number": "AR_H_A 2005",
             "description": "Study of special topics in Art History and Archaeology.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -130,7 +130,7 @@
         },
         {
             "name": "The Art of the Book",
-            "number": "2150",
+            "number": "AR_H_A 2150",
             "description": "Introduction to the illustrated book as a locus of artistic style, cultural currency, and visual literacy.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -139,7 +139,7 @@
         },
         {
             "name": "The Art of the Book - Writing Intensive",
-            "number": "2150W",
+            "number": "AR_H_A 2150W",
             "description": "Introduction to the illustrated book as a locus of artistic style, cultural currency, and visual literacy.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -148,7 +148,7 @@
         },
         {
             "name": "Introduction to the Arts of Islam",
-            "number": "2230",
+            "number": "AR_H_A 2230",
             "description": "Architecture, decorative arts and painting of the Muslim world from the seventh to the 19th century. The formation of Islamic art and its relationships with religion, philosophy and symbolism.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -157,7 +157,7 @@
         },
         {
             "name": "Introduction to the Arts of Islam - Writing Intensive",
-            "number": "2230W",
+            "number": "AR_H_A 2230W",
             "description": "Architecture, decorative arts and painting of the Muslim world from the seventh to the 19th century. The formation of Islamic art and its relationships with religion, philosophy and symbolism.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -166,7 +166,7 @@
         },
         {
             "name": "Ancient Technology",
-            "number": "2410",
+            "number": "AR_H_A 2410",
             "description": "Engineering, architecture, and military technology in the ancient world.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -175,7 +175,7 @@
         },
         {
             "name": "African-American Visual Culture",
-            "number": "2720",
+            "number": "AR_H_A 2720",
             "description": "(same as BL_STU 2720) This course introduces students to African-American art history, visual culture, and material culture in the cultural, political, and historical contexts. Specific focuses may include Harlem Renaissance, the Black Arts Movement, and other topics.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -184,7 +184,7 @@
         },
         {
             "name": "African-American Visual Culture - Writing Intensive",
-            "number": "2720W",
+            "number": "AR_H_A 2720W",
             "description": "(same as BL_STU 2720) This course introduces students to African-American art history, visual culture, and material culture in the cultural, political, and historical contexts. Specific focuses may include Harlem Renaissance, the Black Arts Movement, and other topics.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -193,7 +193,7 @@
         },
         {
             "name": "American Art and Architecture",
-            "number": "2830",
+            "number": "AR_H_A 2830",
             "description": "Architecture, sculpture, painting of America from 17th century to present day.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -202,7 +202,7 @@
         },
         {
             "name": "American Art and Architecture - Writing Intensive",
-            "number": "2830W",
+            "number": "AR_H_A 2830W",
             "description": "Architecture, sculpture, painting of America from 17th century to present day.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -211,7 +211,7 @@
         },
         {
             "name": "Introduction to Visual Culture",
-            "number": "2850",
+            "number": "AR_H_A 2850",
             "description": "Introduction to the problems of understanding, analyzing, and writing about visual culture.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -220,7 +220,7 @@
         },
         {
             "name": "Introduction to Visual Culture - Writing Intensive",
-            "number": "2850W",
+            "number": "AR_H_A 2850W",
             "description": "Introduction to the problems of understanding, analyzing, and writing about visual culture.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -229,7 +229,7 @@
         },
         {
             "name": "The Lives of Objects",
-            "number": "2860",
+            "number": "AR_H_A 2860",
             "description": "Introduction to the problems of understanding, analyzing and writing about decorative arts, design history, and material culture.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -238,7 +238,7 @@
         },
         {
             "name": "The Lives of Objects - Writing Intensive",
-            "number": "2860W",
+            "number": "AR_H_A 2860W",
             "description": "Introduction to the problems of understanding, analyzing and writing about decorative arts, design history, and material culture.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -247,7 +247,7 @@
         },
         {
             "name": "Archaeological Methods",
-            "number": "2940",
+            "number": "AR_H_A 2940",
             "description": "Methods of excavating various types of sites; recording, preserving their materials.",
             "prerequisites": "instructor's consent",
             "hours": "2-6",
@@ -256,7 +256,7 @@
         },
         {
             "name": "Special Readings in Art History and Archeology",
-            "number": "2960",
+            "number": "AR_H_A 2960",
             "description": "Independent readings and research selected in consultation with supervisory faculty.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -265,7 +265,7 @@
         },
         {
             "name": "Topics in Art History and Archaeology- Humanities",
-            "number": "3005",
+            "number": "AR_H_A 3005",
             "description": "Selected studies in various facets of art history and archaeology.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -274,7 +274,7 @@
         },
         {
             "name": "Topics in Art History and Archaeology- Humanities - Honors",
-            "number": "3005H",
+            "number": "AR_H_A 3005H",
             "description": "Selected studies in various facets of art history and archaeology.  Enrollment limited to students with Honor's eligibility.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -283,7 +283,7 @@
         },
         {
             "name": "Study Abroad in Art History and Archaeology",
-            "number": "3010",
+            "number": "AR_H_A 3010",
             "description": "Instruction in art history, architecture, or archaeology takes place in a foreign country or countries.  Trips are led and taught by University of Missouri faculty.",
             "prerequisites": "departmental consent",
             "hours": "3-6",
@@ -292,7 +292,7 @@
         },
         {
             "name": "Art and Gender in Antiquity",
-            "number": "3120",
+            "number": "AR_H_A 3120",
             "description": "Comparative survey of Egypt, Greece, and Rome, focusing on gender construction and cultural perception through material resources.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -301,115 +301,140 @@
         },
         {
             "name": "Near Eastern and Egyptian Art and Archaeology",
-            "number": "3210",
+            "number": "AR_H_A 3210",
             "description": "General survey of material culture of the Near East and Egypt from the earliest times to the early Iron Age.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1110 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1110"
+            ]
         },
         {
             "name": "Greek Art and Archaeology",
-            "number": "3310",
+            "number": "AR_H_A 3310",
             "description": "General survey of material culture in Greece from earliest times to the Hellenistic period.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1110 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1110"
+            ]
         },
         {
             "name": "Roman Art and Archaeology",
-            "number": "3410",
+            "number": "AR_H_A 3410",
             "description": "General survey of material culture in the Roman world from earliest times through the 3rd century.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1110 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1110"
+            ]
         },
         {
             "name": "Byzantine and Islamic Art and Archaeology",
-            "number": "3510",
+            "number": "AR_H_A 3510",
             "description": "General survey of the visual world of the Middle Ages in southwest Asia and the east Mediterranean, from late antiquity through the rise of the Ottoman empire.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1110 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1110"
+            ]
         },
         {
             "name": "Byzantine and Islamic Art and Archaeology - Writing Intensive",
-            "number": "3510W",
+            "number": "AR_H_A 3510W",
             "description": "General survey of the visual world of the Middle Ages in southwest Asia and the east Mediterranean, from late antiquity through the rise of the Ottoman empire.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1110 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1110"
+            ]
         },
         {
             "name": "Early Medieval Art and Archaeology",
-            "number": "3520",
+            "number": "AR_H_A 3520",
             "description": "An investigation of the arts of western Europe during the first millennium, when the unifying traditions of Rome were transformed by the diverse cultures of her Northern neighbors.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1110 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1110"
+            ]
         },
         {
             "name": "Early Medieval Art and Archaeology - Writing Intensive",
-            "number": "3520W",
+            "number": "AR_H_A 3520W",
             "description": "An investigation of the arts of western Europe during the first millennium, when the unifying traditions of Rome were transformed by the diverse cultures of her Northern neighbors.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1110 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1110"
+            ]
         },
         {
             "name": "Late Medieval Art",
-            "number": "3530",
+            "number": "AR_H_A 3530",
             "description": "General survey of European art and architecture from the 11th through the 14th centuries.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1110 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1110"
+            ]
         },
         {
             "name": "Late Medieval Art - Writing Intensive",
-            "number": "3530W",
+            "number": "AR_H_A 3530W",
             "description": "General survey of European art and architecture from the 11th through the 14th centuries.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1110 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1110"
+            ]
         },
         {
             "name": "Italian Renaissance Art",
-            "number": "3620",
+            "number": "AR_H_A 3620",
             "description": "General survey of the architecture, painting and sculpture of Italy from the 14th through the 16th century.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1110 or AR_H_A 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1110",
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "Northern Renaissance Art",
-            "number": "3630",
+            "number": "AR_H_A 3630",
             "description": "General survey of northern European art and architecture from the late 14th through the late 16th century.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "Baroque Art",
-            "number": "3640",
+            "number": "AR_H_A 3640",
             "description": "General survey of 17th century European architecture, painting and sculpture.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "Cities in the Western Imagination",
-            "number": "3720",
+            "number": "AR_H_A 3720",
             "description": "Interdisciplinary introduction to the forms, functions, and meanings of cities in Europe and the Americas from ancient to modern times; plans and predictions for the future also considered.  Emphasis is placed on cities as fields for imaginative activity on the part of those who have designed, built, used, and interpreted them.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -418,61 +443,73 @@
         },
         {
             "name": "Eighteenth Century European Art",
-            "number": "3730",
+            "number": "AR_H_A 3730",
             "description": "General survey of 18th-century European painting, sculpture and architecture.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "Eighteenth Century European Art - Writing Intensive",
-            "number": "3730W",
+            "number": "AR_H_A 3730W",
             "description": "General survey of 18th-century European painting, sculpture and architecture.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "Nineteenth Century European Art",
-            "number": "3740",
+            "number": "AR_H_A 3740",
             "description": "General survey of 19th-century European painting, sculpture and architecture.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "Nineteenth Century European Art - Writing Intensive",
-            "number": "3740W",
+            "number": "AR_H_A 3740W",
             "description": "General survey of 19th-century European painting, sculpture and architecture.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "Modern Art in Europe and America",
-            "number": "3750",
+            "number": "AR_H_A 3750",
             "description": "General survey of international directions in painting, sculpture, and architecture from 1885 to ca. 1940.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "Contemporary Art",
-            "number": "3760",
+            "number": "AR_H_A 3760",
             "description": "General survey of painting, sculpture, and architecture from the Second World War to the present.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "The Ancient World on Film",
-            "number": "3775",
+            "number": "AR_H_A 3775",
             "description": "(same as CL_HUM 3775 and FILM_S 3775) This course explores how classical antiquity has been represented in twentieth and twenty-first-century film, with particular emphasis on the ways in which ancient narratives and iconography have been appropriated by filmmakers to address contemporary cultural issues.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -481,7 +518,7 @@
         },
         {
             "name": "Architecture in Film",
-            "number": "3780",
+            "number": "AR_H_A 3780",
             "description": "(same as FILM_S 3780) Filmmakers use architecture to convey meaning on symbolic, psychological, and ideological levels.  Using architectural history and theory, in conjunction with weekly film screenings from a variety of genres, this course explores how architecture operates within film.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -490,7 +527,7 @@
         },
         {
             "name": "Arts and Artists on Film",
-            "number": "3785",
+            "number": "AR_H_A 3785",
             "description": "(same as FILM_S 3785)  This course explores representations of art and artists in film, including documentary films, fictionalized films, and films made by artists.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -499,7 +536,7 @@
         },
         {
             "name": "Indian Cinema",
-            "number": "3790",
+            "number": "AR_H_A 3790",
             "description": "(same as ANTHRO 3490, S_A_ST 3490 and FILM_S 3490).   Indian Cinema provides an overview of the key genres and themes of Indian film, including Bollywood, art cinema/parallel cinema, Indian regional cinemas, and diasporan cinema. The course combines film studies, anthropological, historical, and visual culture analyses to provide a holistic view of Indian culture and society through cinema.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -508,34 +545,42 @@
         },
         {
             "name": "American Art and Culture, 1500-1820",
-            "number": "3830",
+            "number": "AR_H_A 3830",
             "description": "General survey of American visual culture - painting, sculpture, architecture-between 1500 and 1820.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120"
+            ]
         },
         {
             "name": "American Art and Culture, 1820-1913",
-            "number": "3840",
+            "number": "AR_H_A 3840",
             "description": "General survey of American visual culture - painting, sculpture, architecture, photography - between 1820-1913.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or AR_H_A 2830 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120",
+                "AR_H_A 2830"
+            ]
         },
         {
             "name": "American Art and Culture, 1913-Present",
-            "number": "3850",
+            "number": "AR_H_A 3850",
             "description": "General survey of American visual culture - painting, sculpture, architecture, photography, advertising, film, new media - between 1913 and the present.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AR_H_A 1120 or AR_H_A 2830 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "AR_H_A 1120",
+                "AR_H_A 2830"
+            ]
         },
         {
             "name": "Topics in Art History and Archaeology-Humanities",
-            "number": "4005",
+            "number": "AR_H_A 4005",
             "description": "Special studies in art history/archaeology; covers subjects not included in regularly offered courses.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -544,7 +589,7 @@
         },
         {
             "name": "Gender and the Arts",
-            "number": "4120",
+            "number": "AR_H_A 4120",
             "description": "(same as WGST 4120; cross-leveled with WGST 7120, AR_H_A 7120). Exploration of the relationship between the visual arts and constructions of gender and sexuality in selected eras.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -553,7 +598,7 @@
         },
         {
             "name": "Archaeology of the Aegean Bronze Age",
-            "number": "4320",
+            "number": "AR_H_A 4320",
             "description": "(cross-leveled with AR_H_A 7320). Analysis of the material culture of Greek prehistoric civilizations from 3000 to 1000 B.C.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -562,7 +607,7 @@
         },
         {
             "name": "Greek Architecture",
-            "number": "4340",
+            "number": "AR_H_A 4340",
             "description": "(cross-leveled with AR_H_A 7340). Survey of the art of building in the Aegean and Classical world from earliest times to the Hellenistic period.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -571,7 +616,7 @@
         },
         {
             "name": "Greek Pottery",
-            "number": "4350",
+            "number": "AR_H_A 4350",
             "description": "(cross-leveled with AR_H_A 7350). Examination of pottery and vase painting with an emphasis on production, iconography, and social context.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -580,7 +625,7 @@
         },
         {
             "name": "Greek Sculpture",
-            "number": "4360",
+            "number": "AR_H_A 4360",
             "description": "(cross-leveled with AR_H_A 7360). Survey of sculptor's art in Aegean and Classical world from earliest times to Hellenistic period.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -589,7 +634,7 @@
         },
         {
             "name": "Minor Arts of Antiquity",
-            "number": "4420",
+            "number": "AR_H_A 4420",
             "description": "(cross-leveled with AR_H_A 7420). Discussion of selected minor arts and crafts of the Greco-Roman world.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -598,7 +643,7 @@
         },
         {
             "name": "Roman Architecture",
-            "number": "4440",
+            "number": "AR_H_A 4440",
             "description": "(cross_leveled with AR_H_A 7440). The history of Roman architecture, origin and development of forms and techniques, major monuments in Rome and its provinces through the 3rd century after Christ.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -607,7 +652,7 @@
         },
         {
             "name": "Roman Sculpture",
-            "number": "4460",
+            "number": "AR_H_A 4460",
             "description": "(cross-leveled with AR_H_A 7460). The origins and development of sculpture in the Roman Republic and the Roman Empire.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -616,7 +661,7 @@
         },
         {
             "name": "Late Antique Art and Archaeology",
-            "number": "4490",
+            "number": "AR_H_A 4490",
             "description": "(cross-leveled with AR_H_A 7490). Exploration of the material culture of the Mediterranean world from the 3rd century to Iconoclasm.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -625,7 +670,7 @@
         },
         {
             "name": "Byzantine Art and Archaeology",
-            "number": "4510",
+            "number": "AR_H_A 4510",
             "description": "(cross-leveled with AR_H_A 7510). Exploration of the material culture of the east Mediterranean between the 6th and 15th centuries.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -634,7 +679,7 @@
         },
         {
             "name": "Art and Archaeology of Early Medieval Europe",
-            "number": "4520",
+            "number": "AR_H_A 4520",
             "description": "(cross-leveled with AR_H_A 7520). Exploration of the material culture of western Europe from the 5th century to c. 1000.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -643,7 +688,7 @@
         },
         {
             "name": "Romanesque Art and Architecture",
-            "number": "4530",
+            "number": "AR_H_A 4530",
             "description": "(cross-leveled with AR_H_A 7530).  Exploration of topics in the art and architecture of Europe from the 10th through the 12th centuries.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -652,7 +697,7 @@
         },
         {
             "name": "Gothic Art and Architecture",
-            "number": "4540",
+            "number": "AR_H_A 4540",
             "description": "(cross-leveled with AR_H_A 7540). Exploration of topics in the art and architecture of the 12th through the 14th century.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -661,7 +706,7 @@
         },
         {
             "name": "Michelangelo and the High Renaissance",
-            "number": "4620",
+            "number": "AR_H_A 4620",
             "description": "(cross-leveled with AR_H_A 7620). Sculpture, architecture, paintings, and drawings of Michelangelo in the context of his times.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -670,7 +715,7 @@
         },
         {
             "name": "The Renaissance Artist",
-            "number": "4630",
+            "number": "AR_H_A 4630",
             "description": "(cross-leveled with AR_H_A 7630). Lectures, readings, discussions and a research paper related to the Renaissance artist. Focus will be on representations of the artist in art and literature from ca. 1300 to ca. 1650.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -679,7 +724,7 @@
         },
         {
             "name": "Renaissance and Baroque Architecture",
-            "number": "4640",
+            "number": "AR_H_A 4640",
             "description": "(cross-leveled with AR_H_A 7640). Problems in European architectural history from the 15th through the 18th century.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -688,7 +733,7 @@
         },
         {
             "name": "Venetian Painting",
-            "number": "4650",
+            "number": "AR_H_A 4650",
             "description": "(cross-leveled with AR_H_A 7650). Survey of Venetian Painting from the 14th through the 18th century.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -697,7 +742,7 @@
         },
         {
             "name": "Art and Ideas in the Northern Renaissance",
-            "number": "4660",
+            "number": "AR_H_A 4660",
             "description": "(cross-leveled with AR_H_A 7660). Discussion of selected topics in painting and sculpture and their artistic and cultural relationships from the 14th through the 16th century in northern Europe.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -706,7 +751,7 @@
         },
         {
             "name": "Baroque Figural Arts",
-            "number": "4670",
+            "number": "AR_H_A 4670",
             "description": "(cross-leveled with AR_H_A 7670). Painting and sculpture of Italy in the 17th century.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -715,7 +760,7 @@
         },
         {
             "name": "The Arts of the Rococo",
-            "number": "4710",
+            "number": "AR_H_A 4710",
             "description": "(cross-leveled with AR_H_A 7710). This course explores European Art from approximately 1710 to 1770, focusing on art associated with two different social sectors: The early modern aristocratic court culture whose artistic predilections had formed the European norm, and the increasingly powerful merchant classes whose newfound wealth enabled new artistic genres and styles to proliferate.  Our inquiry begins with an exploration of the rococo as an ornamental style; we examine its origins in Italian garden architecture and subsequent transformation into a decoration for both French palatial interiors and German Churches.  We then launch a succession of case studies of important artists, media, and objects in order to assess the varied ways that diverse social identities were deflected through the periods' art an architecture.  Students will pursue a research topic on rococo art for their semester project.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -724,7 +769,7 @@
         },
         {
             "name": "Revolution and Romanticism: Art C. 1800",
-            "number": "4720",
+            "number": "AR_H_A 4720",
             "description": "(cross-leveled with AR_H_A 7720). This course examines European art from circa 1780 to 1820, focusing on art made in conjunction with the major events of the French Revolution, its aftermath, and its global repercussions. May be repeated for credit.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -733,7 +778,7 @@
         },
         {
             "name": "Realism Through Post-Impressionism",
-            "number": "4730",
+            "number": "AR_H_A 4730",
             "description": "(cross-leveled with AR_H_A 7730). Styles and issues in nineteenth-century art.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -742,7 +787,7 @@
         },
         {
             "name": "Modern Architecture",
-            "number": "4740",
+            "number": "AR_H_A 4740",
             "description": "(cross-leveled with AR_H_A 7740). Problems in the history of architecture from the late 18th century to the present.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -751,7 +796,7 @@
         },
         {
             "name": "Contemporary World Architecture",
-            "number": "4750",
+            "number": "AR_H_A 4750",
             "description": "(cross-leveled with AR_H_A 7750). This course will study key themes, events, and figures in architectural theory and practice from around the world since the 1960s.  As with any course treating such a large body of material, this one will be selective topical rather than comprehensive in nature.  The format will include lectures, discussions based on reading, writing, and research assignments, films, and field trips.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -760,7 +805,7 @@
         },
         {
             "name": "Modern Sculpture",
-            "number": "4760",
+            "number": "AR_H_A 4760",
             "description": "(cross-leveled with AR_H_A 7760). Sculpture in Europe and the U.S. ca. 1880 to the present, with special emphasis on changing definitions of the medium.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -769,7 +814,7 @@
         },
         {
             "name": "Advanced Course in Contemporary Art",
-            "number": "4780",
+            "number": "AR_H_A 4780",
             "description": "(cross-leveled with AR_H_A 7780). Topics in European and American painting and sculpture after 1950.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -778,7 +823,7 @@
         },
         {
             "name": "American Material Culture",
-            "number": "4820",
+            "number": "AR_H_A 4820",
             "description": "(cross-leveled with AR_H_A 7820). An exploration of American material culture from a multidisciplinary perspective.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -787,7 +832,7 @@
         },
         {
             "name": "American Architecture",
-            "number": "4840",
+            "number": "AR_H_A 4840",
             "description": "(cross-leveled with AR_H_A 7840). An exploration of architecture and urbanism from the colonial period to the present.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -796,7 +841,7 @@
         },
         {
             "name": "Special Readings in Art History and Archaeology",
-            "number": "4960",
+            "number": "AR_H_A 4960",
             "description": "Independent readings and research selected in consultation with supervisory faculty.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -805,7 +850,7 @@
         },
         {
             "name": "Capstone: Art History and Archaeology",
-            "number": "4970",
+            "number": "AR_H_A 4970",
             "description": "Students will write an expanded, guided research paper. The Capstone student will consult on a regular basis with the professor responsible for the course and will make an oral presentation of the paper in the course. Must be taken in conjunction with a 4000-level Art History and Archaeology course.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -814,7 +859,7 @@
         },
         {
             "name": "Internship",
-            "number": "4980",
+            "number": "AR_H_A 4980",
             "description": "A one-semester or full summer intensive internship for departmental majors with specific projects and responsibilities to be arranged by the student in cooperation with a faculty member and an appropriate agent of the museum involved. May be taken as an elective only. May be repeated for a maximum of 6 hours credit.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -823,7 +868,7 @@
         },
         {
             "name": "Honors Proseminar I",
-            "number": "4996",
+            "number": "AR_H_A 4996",
             "description": "Research methods, bibliography, use and criticism of source material.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -832,7 +877,7 @@
         },
         {
             "name": "Honors Reading and Research I",
-            "number": "4999",
+            "number": "AR_H_A 4999",
             "description": "Individual research projects in preparation of senior thesis.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -841,7 +886,7 @@
         },
         {
             "name": "Topics in Art History and Archaeology",
-            "number": "7005",
+            "number": "AR_H_A 7005",
             "description": "Special studies in art history or archaeology; covers subjects not included in regularly offered courses.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -850,7 +895,7 @@
         },
         {
             "name": "Gender and the Arts",
-            "number": "7120",
+            "number": "AR_H_A 7120",
             "description": "(same as WGST 7120; cross-leveled with AR_H_A 4120, WGST 4120). Exploration of the relationship between the visual arts and constructions of gender and sexuality in selected eras.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -859,7 +904,7 @@
         },
         {
             "name": "Museum Studies",
-            "number": "7130",
+            "number": "AR_H_A 7130",
             "description": "Functions and history of museums and interrelations among departments, including those of director, curator, registrar, education, conservation, and marketing. Topics include acquisitions policies; public outreach; role of architecture; and philosophical and legal issues pertaining to administration of museums.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -868,7 +913,7 @@
         },
         {
             "name": "Historic Preservation",
-            "number": "7170",
+            "number": "AR_H_A 7170",
             "description": "(same as HIST 7450). Survey of the historic preservation movement and techniques by faculty and guest speakers active in the field.",
             "prerequisites": "instructor's consent",
             "hours": "3-9",
@@ -877,7 +922,7 @@
         },
         {
             "name": "Archaeology of the Aegean Bronze Age",
-            "number": "7320",
+            "number": "AR_H_A 7320",
             "description": "(cross-leveled with AR_H_A 4320).  Analysis of the material culture of Greek prehistoric civilizations from 3000 to 1000 B.C.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -886,7 +931,7 @@
         },
         {
             "name": "Greek Architecture",
-            "number": "7340",
+            "number": "AR_H_A 7340",
             "description": "(cross-leveled with AR_H_A 4340).  Survey of the art of building in the Aegean and Classical world from earliest times to the Hellenistic period.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -895,7 +940,7 @@
         },
         {
             "name": "Greek Pottery",
-            "number": "7350",
+            "number": "AR_H_A 7350",
             "description": "(cross-leveled with AR_H_A 4350).  Examination of pottery and vase painting with an emphasis on production, iconography, and social context.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -904,7 +949,7 @@
         },
         {
             "name": "Greek Sculpture",
-            "number": "7360",
+            "number": "AR_H_A 7360",
             "description": "(cross-leveled with AR_H_A 4360).  Survey of sculptor's art in Aegean and Classical world from earliest times to Hellenistic period.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -913,7 +958,7 @@
         },
         {
             "name": "Minor Arts of Antiquity",
-            "number": "7420",
+            "number": "AR_H_A 7420",
             "description": "(cross-leveled with AR_H_A 4420).  Discussion of selected minor arts and crafts of the Greco-Roman world.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -922,7 +967,7 @@
         },
         {
             "name": "Roman Architecture",
-            "number": "7440",
+            "number": "AR_H_A 7440",
             "description": "(cross-leveled with AR_H_A 4440).  The history of Roman architecture, origin and development of forms and techniques, major monuments in Rome and its provinces through the 3rd century after Christ.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -931,7 +976,7 @@
         },
         {
             "name": "Roman Sculpture",
-            "number": "7460",
+            "number": "AR_H_A 7460",
             "description": "(cross-leveled with AR_H_A 4460).  The origins and development of sculpture in the Roman Republic and the Roman Empire.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -940,7 +985,7 @@
         },
         {
             "name": "Late Antique Art and Archaeology",
-            "number": "7490",
+            "number": "AR_H_A 7490",
             "description": "(cross-leveled with AR_H_A 4490).  Exploration of the material culture of the Mediterranean world from the 3rd century to Iconoclasm.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -949,7 +994,7 @@
         },
         {
             "name": "Byzantine Art and Archaeology",
-            "number": "7510",
+            "number": "AR_H_A 7510",
             "description": "(cross-leveled with AR_H_A 4510). Exploration of the material culture of the east Mediterranean between the 6th and 15th centuries.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -958,7 +1003,7 @@
         },
         {
             "name": "Art and Archaeology of Early Medieval Europe",
-            "number": "7520",
+            "number": "AR_H_A 7520",
             "description": "(cross-leveled with AR_H_A 4520). Exploration of the material culture of western Europe from the 5th century to c. 1000.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -967,7 +1012,7 @@
         },
         {
             "name": "Romanesque Art and Architecture",
-            "number": "7530",
+            "number": "AR_H_A 7530",
             "description": "(cross-leveled with AR_H_A 4530).  Exploration of topics in the art and architecture of Europe from the 10th through the 12th centuries.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -976,7 +1021,7 @@
         },
         {
             "name": "Gothic Art and Architecture",
-            "number": "7540",
+            "number": "AR_H_A 7540",
             "description": "(cross-leveled with AR_H_A 4540). Exploration of topics in the art and architecture of the 12th through the 14th century.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -985,7 +1030,7 @@
         },
         {
             "name": "Michelangelo and the High Renaissance",
-            "number": "7620",
+            "number": "AR_H_A 7620",
             "description": "(cross-leveled with AR_H_A 4620).  Sculpture, architecture, paintings, and drawings of Michelangelo in the context of his times.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -994,7 +1039,7 @@
         },
         {
             "name": "The Renaissance Artist",
-            "number": "7630",
+            "number": "AR_H_A 7630",
             "description": "(cross-leveled with AR_H_A 4630).  Lectures, readings, discussions and a research paper related to the Renaissance artist. Focus will be on representations of the artist in art and literature from ca. 1300 to ca. 1650.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1003,7 +1048,7 @@
         },
         {
             "name": "Renaissance and Baroque Architecture",
-            "number": "7640",
+            "number": "AR_H_A 7640",
             "description": "(cross-leveled with AR_H_A 4640).  Problems in European architectural history from the 15th through the 18th century.",
             "prerequisites": "departmental consent",
             "hours": "3",
@@ -1012,7 +1057,7 @@
         },
         {
             "name": "Venetian Painting",
-            "number": "7650",
+            "number": "AR_H_A 7650",
             "description": "(cross-leveled with AR_H_A 4650).  Survey of Venetian painting from the 14th through the 18th century.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1021,7 +1066,7 @@
         },
         {
             "name": "Art and Ideas in the Northern Renaissance",
-            "number": "7660",
+            "number": "AR_H_A 7660",
             "description": "(cross-leveled with AR_H_A 4660). Discussion of selected topics in painting and sculpture and their artistic and cultural relationships from the 14th through the 16th century in northern Europe.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1030,7 +1075,7 @@
         },
         {
             "name": "Baroque Figural Arts",
-            "number": "7670",
+            "number": "AR_H_A 7670",
             "description": "(cross-leveled with AR_H_A 4670).  Painting and sculpture of Italy in the 17th century.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1039,7 +1084,7 @@
         },
         {
             "name": "The Arts of the Rococo",
-            "number": "7710",
+            "number": "AR_H_A 7710",
             "description": "(cross-leveled with AR_H_A 4710).  This course explores European art from 1710 to 1770, beginning with an exploration of the rococo as an ornamental language and then moving to case studies of artists, media, and objects in order to assess how social identities were expressed through design.",
             "prerequisites": "AR_H_A 8110 and instructor's consent",
             "hours": "3",
@@ -1050,7 +1095,7 @@
         },
         {
             "name": "Revolution and Romanticism",
-            "number": "7720",
+            "number": "AR_H_A 7720",
             "description": "(cross-leveled with AR_H_A 4720).  This course examines European art from circa 1780 to 1820, focusing on art made in conjunction with the major events of the French Revolution, its aftermath, and its global repercussions.",
             "prerequisites": "AR_H_A 8110 and instructor's consent",
             "hours": "3",
@@ -1061,7 +1106,7 @@
         },
         {
             "name": "Realism Through Post-Impressionism",
-            "number": "7730",
+            "number": "AR_H_A 7730",
             "description": "(cross-leveled with AR_H_A 4730).  Styles and issues in nineteenth-century art.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1070,7 +1115,7 @@
         },
         {
             "name": "Modern Architecture",
-            "number": "7740",
+            "number": "AR_H_A 7740",
             "description": "(cross-leveled with AR_H_A 4740).  Problems in the history of architecture from the late 18th century to the present.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1079,7 +1124,7 @@
         },
         {
             "name": "Contemporary World Architecture",
-            "number": "7750",
+            "number": "AR_H_A 7750",
             "description": "(cross-leveled with AR_H_A 4750).  This course will study key themes, events, and figures in architectural theory and practice from around the world since the 1960s.  As with any course treating such a large body of material, this one will be selective, topical rather than comprehensive in nature.  The format will include lectures, discussions based on reading, writing, and research assignments, films and field trips.  Graded A-F only.",
             "prerequisites": "AR_H_A 1120 and instructor's consent",
             "hours": "3",
@@ -1090,7 +1135,7 @@
         },
         {
             "name": "Modern Sculpture",
-            "number": "7760",
+            "number": "AR_H_A 7760",
             "description": "(cross-leveled with AR_H_A 4760).  Sculpture in Europe and the U.S. ca. 1880 to the present, with special emphasis on changing definitions of the medium.",
             "prerequisites": "departmental consent",
             "hours": "3",
@@ -1099,7 +1144,7 @@
         },
         {
             "name": "Advanced Course in Contemporary Art",
-            "number": "7780",
+            "number": "AR_H_A 7780",
             "description": "(cross-leveled with AR_H_A 4780).  Topics in European and American painting and sculpture after 1950.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1108,7 +1153,7 @@
         },
         {
             "name": "American Material Culture",
-            "number": "7820",
+            "number": "AR_H_A 7820",
             "description": "(cross-leveled with AR_H_A 4820).  An exploration of American material culture from a multidisciplinary perspective.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1117,7 +1162,7 @@
         },
         {
             "name": "American Architecture",
-            "number": "7840",
+            "number": "AR_H_A 7840",
             "description": "(cross-leveled with AR_H_A 4840).  An exploration of architecture from the colonial period to the present.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1126,7 +1171,7 @@
         },
         {
             "name": "Archaeological Methods",
-            "number": "7940",
+            "number": "AR_H_A 7940",
             "description": "(cross-leveled with AR_H_A 4940).  Methods of excavating various types of sites; recording, preserving their materials.",
             "prerequisites": "instructor's consent",
             "hours": "2-6",
@@ -1135,7 +1180,7 @@
         },
         {
             "name": "Special Readings in Art History or Archaeology",
-            "number": "7960",
+            "number": "AR_H_A 7960",
             "description": "Independent readings and research selected in consultation with supervisory faculty.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1144,7 +1189,7 @@
         },
         {
             "name": "Internship in Art History and Archaeology",
-            "number": "7980",
+            "number": "AR_H_A 7980",
             "description": "A one semester or full summer intensive internship with specific projects and responsibilities to be arranged by the student and the program director.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1153,7 +1198,7 @@
         },
         {
             "name": "Master's Tutorial",
-            "number": "8070",
+            "number": "AR_H_A 8070",
             "description": "Consultation with faculty advisory and preparation of a scholarly essay based on a graduate research paper. Graded on S/U basis only.",
             "prerequisites": "AR_H_A 8110, and other graduate courses in Art History & Archaeology",
             "hours": "1",
@@ -1164,7 +1209,7 @@
         },
         {
             "name": "Readings for MA Thesis in Art History and Archaeology",
-            "number": "8080",
+            "number": "AR_H_A 8080",
             "description": "Reading, critical evaluation of literature of special fields of art history and/or archaeology.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1173,7 +1218,7 @@
         },
         {
             "name": "Master's Thesis Research and Thesis",
-            "number": "8090",
+            "number": "AR_H_A 8090",
             "description": "Individual research leading to preparation of the M.A. thesis Graded on a S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1182,7 +1227,7 @@
         },
         {
             "name": "Introduction to Graduate Study",
-            "number": "8110",
+            "number": "AR_H_A 8110",
             "description": "Research methods, bibliography, use and criticism of source material. Required of graduate students in Art History and Archaeology who have not had AR_H_A 4996.",
             "prerequisites": "departmental consent",
             "hours": "3",
@@ -1191,7 +1236,7 @@
         },
         {
             "name": "Theories and Methodologies in Art History and Archaeology",
-            "number": "8120",
+            "number": "AR_H_A 8120",
             "description": "Literature of art and archaeology in terms of works of leading European and American art historians, archaeologists.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1200,7 +1245,7 @@
         },
         {
             "name": "Museum Studies Seminar",
-            "number": "8130",
+            "number": "AR_H_A 8130",
             "description": "Appropriate means for care and display of artifacts. Topics include: accessioning, cataloging, retrieval of information, and laws and ethics of collecting; the museum environment and its monitoring; condition reports, shipping and storage, and conservation. Field trips.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1209,7 +1254,7 @@
         },
         {
             "name": "Art Theory and Criticism",
-            "number": "8140",
+            "number": "AR_H_A 8140",
             "description": "Theoretical and critical literature of art from earliest times to the present.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1218,7 +1263,7 @@
         },
         {
             "name": "Historic Preservation Seminar",
-            "number": "8170",
+            "number": "AR_H_A 8170",
             "description": "Research techniques to solve research problems and conduct field recording in historic preservation, material culture, historic architecture, and cultural heritage studies.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1227,7 +1272,7 @@
         },
         {
             "name": "Seminar in Greek Art and Archaeology",
-            "number": "8320",
+            "number": "AR_H_A 8320",
             "description": "Special subjects of study assigned for individual research; discussion of reports by seminar members.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1236,7 +1281,7 @@
         },
         {
             "name": "Seminar in Roman Art and Archaeology",
-            "number": "8420",
+            "number": "AR_H_A 8420",
             "description": "Special subjects of study assigned for individual research; discussion of reports by seminar members.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1245,7 +1290,7 @@
         },
         {
             "name": "Ancient/Medieval Topography",
-            "number": "8440",
+            "number": "AR_H_A 8440",
             "description": "(same as CLASS 8440). Descriptive and historical analysis of a selected city or site. Subject varies.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1254,7 +1299,7 @@
         },
         {
             "name": "Seminar in Late Antique Art and Archaeology",
-            "number": "8490",
+            "number": "AR_H_A 8490",
             "description": "Special subjects of study assigned for individual research; discussion of reports by seminar members.",
             "prerequisites": "AR_H_A 7490 or equivalent",
             "hours": "3",
@@ -1265,7 +1310,7 @@
         },
         {
             "name": "Seminar in Medieval Art and Archaeology",
-            "number": "8520",
+            "number": "AR_H_A 8520",
             "description": "Specific subjects of study will be assigned to students for presentation in relation to broader questions of the cultural/ historical phenomena of the time, from ca 700 to ca 1400.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1274,7 +1319,7 @@
         },
         {
             "name": "Seminar in Renaissance Art",
-            "number": "8620",
+            "number": "AR_H_A 8620",
             "description": "Special subjects of study assigned for Northern or Southern Renaissance for individual research, discussion of reports by seminar members.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -1283,7 +1328,7 @@
         },
         {
             "name": "Seminar in 18th Century Art",
-            "number": "8710",
+            "number": "AR_H_A 8710",
             "description": "Special subjects of study in 18th century art assigned for individual research; reports to be presented and discussed by seminar members.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1292,7 +1337,7 @@
         },
         {
             "name": "Seminar in 19th Century Art",
-            "number": "8720",
+            "number": "AR_H_A 8720",
             "description": "Special subjects of study in 19th century art assigned for individual research; reports to be presented and discussed by seminar members.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1301,7 +1346,7 @@
         },
         {
             "name": "Seminar in Modern Architecture",
-            "number": "8740",
+            "number": "AR_H_A 8740",
             "description": "Special subjects of study assigned for individual research; discussion of reports by seminar members.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1310,7 +1355,7 @@
         },
         {
             "name": "Seminar in Modern and Contemporary Art",
-            "number": "8750",
+            "number": "AR_H_A 8750",
             "description": "Special subjects of study assigned for individual research; discussion of reports by seminar members.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1319,7 +1364,7 @@
         },
         {
             "name": "Seminar in American Art",
-            "number": "8800",
+            "number": "AR_H_A 8800",
             "description": "Special subjects of study assigned for individual research; discussion of reports by seminar members.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1328,7 +1373,7 @@
         },
         {
             "name": "Readings for PhD Dissertation in Art History and Archaeology",
-            "number": "9080",
+            "number": "AR_H_A 9080",
             "description": "Reading, critical evaluation of literature of special fields of art history and/or archaeology.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -1337,7 +1382,7 @@
         },
         {
             "name": "Doctoral Dissertation Research in Art History and Archaeology",
-            "number": "9090",
+            "number": "AR_H_A 9090",
             "description": "Individual research leading to preparation of the Ph.D. dissertation. Graded on a S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",

@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introduction to Industrial Engineering",
-            "number": "1000",
+            "number": "IMSE 1000",
             "description": "Introduction to industrial engineering profession, the Industrial and Manufacturing Systems Engineering department, and the core topics of industrial engineering. Introduction to problem solving, ethics and industrial engineering design and analysis techniques.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Experimental Course",
-            "number": "1010",
+            "number": "IMSE 1010",
             "description": "For freshman-level students. Content and credit to be listed in the Schedule of Courses.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Undergraduate Seminar",
-            "number": "1087",
+            "number": "IMSE 1087",
             "description": "Seminars are held monthly to provide a forum for departmental communication of upcoming opportunities (jobs, speakers, deadlines, etc.), speakers from industry to provide educational context, and student interaction. Required every semester of enrollment for graduation. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "0",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Fundamentals of Systems Design and Analysis",
-            "number": "2030",
+            "number": "IMSE 2030",
             "description": "Develop an understanding of a systems approach to the design and operation of modern industrial organizations: systems structure and function, system specification, structured problem solving and system design methodology.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Probability and Statistics for Engineers",
-            "number": "2110",
+            "number": "IMSE 2110",
             "description": "Introduction to data analysis, probability concepts, random variables, parameter estimation and hypothesis testing.",
             "prerequisites": "MATH 1500. Restricted to Engineering Students who are non-IMSE majors",
             "hours": "3",
@@ -52,7 +52,7 @@
         },
         {
             "name": "Linear Algebra for Engineers",
-            "number": "2210",
+            "number": "IMSE 2210",
             "description": "Study of quantitative methods necessary for analysis, modeling and design of optimal industrial systems.",
             "prerequisites": "MATH 1700",
             "hours": "3",
@@ -63,7 +63,7 @@
         },
         {
             "name": "Introduction to Information Technologies",
-            "number": "2410",
+            "number": "IMSE 2410",
             "description": "A survey of current technologies and their use.  Different technologies will be reviewed. Examples: web search strategies, common application tools, searching and sorting on the WWW, upcoming trends and directions in information technologies. This is a web-based self-study course with instructor's guidance.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -72,7 +72,7 @@
         },
         {
             "name": "Engineering Economic Analysis",
-            "number": "2710",
+            "number": "IMSE 2710",
             "description": "Fundamentals of engineering economic decision making.  Includes time value of money, breakeven analysis, capital budgeting, replacement, after-tax analysis, inflation, risk, sensitivity analysis and multi-attribute analysis.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -81,7 +81,7 @@
         },
         {
             "name": "Performance Measurement and Ergonomics",
-            "number": "2810",
+            "number": "IMSE 2810",
             "description": "Design of man-machine systems considering capabilities and limitations of the human component. Method of measuring human performance in man-machine systems; includes lab.",
             "prerequisites": "IMSE 2110",
             "hours": "3",
@@ -92,7 +92,7 @@
         },
         {
             "name": "Topics in Industrial and Manufacturing Systems Engineering",
-            "number": "3001",
+            "number": "IMSE 3001",
             "description": "Current and new technical developments in industrial engineering.  May be repeated to 6 hours.",
             "prerequisites": "instructor's consent",
             "hours": "0-4",
@@ -101,7 +101,7 @@
         },
         {
             "name": "Manufacturing and Supply Systems",
-            "number": "3030",
+            "number": "IMSE 3030",
             "description": "Provide a structured approach for the design and optimization of a system throughout its lifecycle: techniques following the logical sequence of strategic analysis, system design, implementation, and monitoring.",
             "prerequisites": "IMSE 2030",
             "hours": "3",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Probability Models for Engineers",
-            "number": "3110",
+            "number": "IMSE 3110",
             "description": "Introduction to probability concept and theory, random variables, discrete and continuous probability distributions, joint probability distributions.",
             "prerequisites": "MATH 1500. Restricted to IMSE students only",
             "hours": "3",
@@ -124,7 +124,7 @@
         },
         {
             "name": "Ergonomics and Workstation Design",
-            "number": "3810",
+            "number": "IMSE 3810",
             "description": "Ergonomics and human factors theories applied to the design of man-machine systems.  Discussion of ergonomic methods for measurement, assessment, and evaluation, with major topics including workstation design, environmental stresses, and workplace safety.  Includes lab.",
             "prerequisites": "Restricted to IMSE students and ENGINR 1200",
             "hours": "3",
@@ -136,7 +136,7 @@
         },
         {
             "name": "Ergonomics and Workstation Design - Writing Intensive",
-            "number": "3810W",
+            "number": "IMSE 3810W",
             "description": "Ergonomics and human factors theories applied to the design of man-machine systems.  Discussion of ergonomic methods for measurement, assessment, and evaluation, with major topics including workstation design, environmental stresses, and workplace safety.  Includes lab.",
             "prerequisites": "Restricted to IMSE students and ENGINR 1200",
             "hours": "3",
@@ -148,7 +148,7 @@
         },
         {
             "name": "Topics in Industrial and Manufacturing Systems Engineering",
-            "number": "4001",
+            "number": "IMSE 4001",
             "description": "Current and new technical developments in industrial engineering.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -157,7 +157,7 @@
         },
         {
             "name": "Problems in Industrial Engineering",
-            "number": "4085",
+            "number": "IMSE 4085",
             "description": "Supervised investigation in industrial engineering presented in form of an engineering report.",
             "prerequisites": "None Listed",
             "hours": "1-4",
@@ -166,7 +166,7 @@
         },
         {
             "name": "Engineering Statistics",
-            "number": "4110",
+            "number": "IMSE 4110",
             "description": "Understanding and application of statistical analysis techniques. Emphasis on hypothesis testing, regression analysis, analysis of variance (ANOVA) and design of experiments (DOE).",
             "prerequisites": "Restricted to IMSE students or by Departmental consent. Grade of C- or better in IMSE 3110",
             "hours": "3",
@@ -178,7 +178,7 @@
         },
         {
             "name": "Linear Optimization",
-            "number": "4210",
+            "number": "IMSE 4210",
             "description": "(cross-leveled with IMSE 7210). Theory and application of linear optimization.",
             "prerequisites": "Restricted to IMSE students. Grade of C- or better in IMSE 2210",
             "hours": "3",
@@ -190,7 +190,7 @@
         },
         {
             "name": "Optimization Modeling and Computational Methods",
-            "number": "4220",
+            "number": "IMSE 4220",
             "description": "(cross-leveled with IMSE 7220). Modeling and solution techniques for mathematical optimization, including linear, nonlinear, integer, and stochastic programming. Emphasis on formulation of models for most-efficient use of solution algorithms.  Graded on A-F basis only.",
             "prerequisites": "IMSE 3110, IMSE 4210",
             "hours": "3",
@@ -202,7 +202,7 @@
         },
         {
             "name": "Operations Research Models",
-            "number": "4230",
+            "number": "IMSE 4230",
             "description": "Formulates probabilistic models and determines optimal control policies for queuing and inventory systems. Introduces Markov chains and dynamic programming.",
             "prerequisites": "Restricted to IMSE students or by Departmental consent. Grade of C- or better in IMSE 2210 and IMSE 3110",
             "hours": "3",
@@ -215,7 +215,7 @@
         },
         {
             "name": "Systems Simulation",
-            "number": "4280",
+            "number": "IMSE 4280",
             "description": "Discrete-event stochastic systems modeling and experimentation using simulation software.  Statistical design and analysis including distribution fitting and alternative comparison methodologies.",
             "prerequisites": "Restricted to IMSE students.  INFOTC 1040 or CMP_SC 1050.  Grade of C- or better in IMSE 4110",
             "hours": "3",
@@ -229,7 +229,7 @@
         },
         {
             "name": "Integrated Production Systems Design",
-            "number": "4310",
+            "number": "IMSE 4310",
             "description": "Design and operation of production systems, including lean six sigma concepts, just-in-time/kanban, facility layout and material flow issues.",
             "prerequisites": "Restricted to IMSE students or by Departmental consent. IMSE 4210, IMSE 4280",
             "hours": "3",
@@ -242,7 +242,7 @@
         },
         {
             "name": "Material Flow and Logistics System Design",
-            "number": "4330",
+            "number": "IMSE 4330",
             "description": "Modeling and analysis of structural and operational issues associated with material-flow system design including facility location, warehouse/inventory systems, and distribution/transportation systems.",
             "prerequisites": "IMSE 4210 and IMSE 4280",
             "hours": "3",
@@ -254,7 +254,7 @@
         },
         {
             "name": "Production and Operations Analysis",
-            "number": "4350",
+            "number": "IMSE 4350",
             "description": "Quantitative methods for forecasting, scheduling, and production control in manufacturing and service systems. Use of Enterprise Resource Planning (ERP) systems.",
             "prerequisites": "Restricted to IMSE students or by Departmental consent. IMSE 4210 and IMSE 4230",
             "hours": "3",
@@ -267,7 +267,7 @@
         },
         {
             "name": "Supply Chain Engineering",
-            "number": "4360",
+            "number": "IMSE 4360",
             "description": "(cross-leveled with IMSE 7360). Modeling and analysis of supply chain network design and management issues including integration of production, inventory control, supplier selection, risk management and logistics network design. Graded on A-F basis only.",
             "prerequisites": "IMSE 4350",
             "hours": "3",
@@ -278,7 +278,7 @@
         },
         {
             "name": "Six Sigma Methodology",
-            "number": "4380",
+            "number": "IMSE 4380",
             "description": "(cross-leveled with IMSE 7380). An overview of the Six Sigma DMAIC methodology for analyzing and improving processes. Requires completing a Six Sigma Green Belt project. Graded on A-F basis only.",
             "prerequisites": "Grade of C or better in IMSE 2110 or IMSE 4110 or STAT 4710",
             "hours": "3",
@@ -291,7 +291,7 @@
         },
         {
             "name": "Lean Six Sigma Green Belt Project",
-            "number": "4385",
+            "number": "IMSE 4385",
             "description": "Application of the Lean Six Sigma methodology in an industry-based project. ",
             "prerequisites": " IMSE 4310",
             "hours": "1",
@@ -302,7 +302,7 @@
         },
         {
             "name": "Management Information Systems Design",
-            "number": "4410",
+            "number": "IMSE 4410",
             "description": "MIS concepts and management issues, HTML for web pages and eShop (front-office operations), back-office operations using relational databases, introduction to SQL.",
             "prerequisites": "Restricted to IMSE students. INFOTC 1040 or CMP_SC 1050 and junior standing required",
             "hours": "3",
@@ -315,7 +315,7 @@
         },
         {
             "name": "Web-Based Information Systems",
-            "number": "4420",
+            "number": "IMSE 4420",
             "description": "Data models, design of databases using E-R, UML (Access/Oracle), web databases, web servers and interfaces (Visual Basic, JavaScript), E-commerce infrastructure (PDM, STEP, XML), data mining for management information and services.",
             "prerequisites": "IMSE 4410 and instructor's consent",
             "hours": "3",
@@ -326,7 +326,7 @@
         },
         {
             "name": "Computer Aided Design and Manufacturing",
-            "number": "4550",
+            "number": "IMSE 4550",
             "description": "(cross-leveled with IMSE 7550).  Product realization process from design, process planning, to manufacturing. Includes CE, DFS/DFM, CAD, CAPP, CNC, and survey of manufacturing methods.",
             "prerequisites": "Restricted to IMSE students; Junior Standing",
             "hours": "4",
@@ -337,7 +337,7 @@
         },
         {
             "name": "Introduction to Rapid Prototyping",
-            "number": "4560",
+            "number": "IMSE 4560",
             "description": "(cross-leveled with IMSE 4560). Course covers all five MU systems: FDM, SLS, SLA, Polyjet, 3DP.  Students will learn fundamental rapid prototyping and related concepts, and design and produce models from each system.  Graded on A-F basis only.",
             "prerequisites": "Sophomore standing or higher",
             "hours": "3",
@@ -346,7 +346,7 @@
         },
         {
             "name": "Computer Integrated Manufacturing Control",
-            "number": "4570",
+            "number": "IMSE 4570",
             "description": "Implementation of computer integrated manufacturing (CIM) and automation at the shop floor level. Covers essential components of machine sensing and actuation (including programmable robots), information representation and processing, data communication and networking.",
             "prerequisites": "Junior Standing",
             "hours": "3",
@@ -355,7 +355,7 @@
         },
         {
             "name": "Industrial Energy Efficiency and Management",
-            "number": "4580",
+            "number": "IMSE 4580",
             "description": "(cross-leveled with IMSE 7580). Introduction to the fundamentals of industrial energy efficiency and management. Covers the essential concepts, best practices, management systems and current standards to achieve and improve energy efficiency in industrial settings, and utilizes hands-on experiences involving real assessment and analysis of industrial site visits and projects.",
             "prerequisites": "IMSE 2030 or instructor's consent",
             "hours": "3",
@@ -366,7 +366,7 @@
         },
         {
             "name": "Engineering Quality Control",
-            "number": "4610",
+            "number": "IMSE 4610",
             "description": "Analysis of quality in manufacturing including control charts, sampling plans, process capability, experimental design; introduction to system reliability.  Overview of Six Sigma and DMAIC methodology.",
             "prerequisites": "Restricted to IMSE students or by Departmental consent. IMSE 4110",
             "hours": "3",
@@ -378,7 +378,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Enterprise Conception",
-            "number": "4750",
+            "number": "IMSE 4750",
             "description": "(same as MANGMT 4750). Develop a new business and technology plan including marketing, finance, engineering, manufacturing, and production concepts in this joint College of Engineering and College of Business course.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -387,7 +387,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Enterprise Conception-Honors",
-            "number": "4755H",
+            "number": "IMSE 4755H",
             "description": "Develop a new business and technology plan including marketing, finance, engineering, manufacturing, and production concepts in this joint College of Engineering and College of Business course.",
             "prerequisites": "sophomore standing. Honors eligibility required",
             "hours": "3",
@@ -396,7 +396,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Enterprise Design",
-            "number": "4760",
+            "number": "IMSE 4760",
             "description": "(same as MANGMT 4760). Expand on IMSE 4750 business/technology plan into an operations plan; advertising facilities layout, selling and distribution channels, product designs, accounting procedures, manufacturing processes, and prototypes.",
             "prerequisites": "IMSE 4750",
             "hours": "3",
@@ -407,7 +407,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Enterprise Design-Honors",
-            "number": "4765H",
+            "number": "IMSE 4765H",
             "description": "(same as MANGMT 4765H). Expand on IMSE 4755H business/technology plan into an operations plan; advertising facilities layout, selling and distribution channels, product designs, accounting procedures, manufacturing processes, and prototypes.",
             "prerequisites": "IMSE 4755H. Honors eligibility required",
             "hours": "3",
@@ -418,7 +418,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Enterprise  Operations",
-            "number": "4770",
+            "number": "IMSE 4770",
             "description": "(same as MANGMT 4770). Perform the day-to-day operations for an enterprise by managing all business processes including finance, manufacturing, sales and delivery. ",
             "prerequisites": " Junior Standing",
             "hours": ": 3",
@@ -427,7 +427,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Enterprise Operations-Honors",
-            "number": "4775H",
+            "number": "IMSE 4775H",
             "description": "Perform the day-to-day operations for an enterprise by managing all business processes including finance, manufacturing, sales and delivery.",
             "prerequisites": "Junior Standing. Honors eligibility required",
             "hours": "3",
@@ -436,7 +436,7 @@
         },
         {
             "name": "Cognitive Ergonomics",
-            "number": "4810",
+            "number": "IMSE 4810",
             "description": "(cross-leveled with IMSE 7810). This course will cover the study of empirical research in Cognitive ergonomics and Human-Computer Interaction (HCI). Students will learn cognitive information processing, mental workload, human reliability, and empirical methods in HCI research. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -445,7 +445,7 @@
         },
         {
             "name": "Industrial Engineering Internship",
-            "number": "4910",
+            "number": "IMSE 4910",
             "description": "An industry-based learning experience that provides opportunities to apply industrial engineering skills, concepts and theories in a practical context. Requires submission of an internship plan for prior approval and a final oral presentation / written report at the completion of the internship. Graded on A-F basis only.",
             "prerequisites": "instructor and departmental consent",
             "hours": "3",
@@ -454,7 +454,7 @@
         },
         {
             "name": "Industrial Engineering COOP",
-            "number": "4920",
+            "number": "IMSE 4920",
             "description": "An industry-based learning experience that provides opportunities to apply industrial engineering skills, concepts and theories in a practical context. Requires submission of a COOP plan for prior approval and a final oral presentation / written report at the completion of the COOP. Graded on A-F basis only.",
             "prerequisites": "instructor and departmental consent",
             "hours": "3",
@@ -463,7 +463,7 @@
         },
         {
             "name": "Capstone Design I",
-            "number": "4970",
+            "number": "IMSE 4970",
             "description": "Overview of professional engineering issues such as ethics, team dynamics, communication, and project management.  Includes team-based industrial assessments to develop skills in problem/opportunity identification.  Graded on A-F basis only.",
             "prerequisites": "Restricted to IMSE students; Senior Standing, IMSE 2030; IMSE 2710",
             "hours": "1",
@@ -476,7 +476,7 @@
         },
         {
             "name": "Capstone Design I - Writing Intensive",
-            "number": "4970W",
+            "number": "IMSE 4970W",
             "description": "Overview of professional engineering issues such as ethics, team dynamics, communication, and project management.  Includes team-based industrial assessments to develop skills in problem/opportunity identification.  Graded on A-F basis only.",
             "prerequisites": "Restricted to IMSE students; Senior Standing, IMSE 2030; IMSE 2710",
             "hours": "1",
@@ -489,7 +489,7 @@
         },
         {
             "name": "Capstone Design II",
-            "number": "4980",
+            "number": "IMSE 4980",
             "description": "Industry-based team design experience structured to integrate material presented throughout the Industrial and Manufacturing Systems Engineering curriculum.  Must immediately follow IMSE 4970.",
             "prerequisites": "Restricted to IMSE student; IMSE 3810, IMSE 4310, and  IMSE 4970",
             "hours": "3",
@@ -503,7 +503,7 @@
         },
         {
             "name": "Capstone Design II - Writing Intensive",
-            "number": "4980W",
+            "number": "IMSE 4980W",
             "description": "Industry-based team design experience structured to integrate material presented throughout the Industrial and Manufacturing Systems Engineering curriculum.  Must immediately follow IMSE 4970.",
             "prerequisites": "Restricted to IMSE student;. IMSE 3810, IMSE 4310, and  IMSE 4970",
             "hours": "3",
@@ -517,7 +517,7 @@
         },
         {
             "name": "Undergraduate Research in Industrial Engineering",
-            "number": "4990",
+            "number": "IMSE 4990",
             "description": "Independent investigation or project in industrial engineering. May be repeated to 6 hours.",
             "prerequisites": "None Listed",
             "hours": "0-6",
@@ -526,7 +526,7 @@
         },
         {
             "name": "Undergraduate Research Industrial Engineering - Honors",
-            "number": "4995",
+            "number": "IMSE 4995",
             "description": "Independent investigation or project in industrial engineering. May be repeated to 6 hours. Enrollment limited to receiving departmental honors",
             "prerequisites": "Restricted to IMSE students only",
             "hours": "0-6",
@@ -537,7 +537,7 @@
         },
         {
             "name": "Topics in Industrial and Manufacturing Systems Engineering",
-            "number": "7001",
+            "number": "IMSE 7001",
             "description": "Current and new technical developments in industrial engineering.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -546,7 +546,7 @@
         },
         {
             "name": "Engineering Statistics",
-            "number": "7110",
+            "number": "IMSE 7110",
             "description": "Understanding and application of statistical analysis of techniques.  Emphasis on hypothesis testing, regression analysis, analysis of variance (ANOVA) and design of experiments (DOE).",
             "prerequisites": "grade of C- or better in IMSE 3110",
             "hours": "3",
@@ -557,7 +557,7 @@
         },
         {
             "name": "Linear Optimization",
-            "number": "7210",
+            "number": "IMSE 7210",
             "description": "(cross-leveled with IMSE 4210). Theory and application of linear optimization.",
             "prerequisites": "IMSE 2210",
             "hours": "3",
@@ -568,7 +568,7 @@
         },
         {
             "name": "Optimization Modeling and Computational Methods",
-            "number": "7220",
+            "number": "IMSE 7220",
             "description": "(cross-leveled with IMSE 4220). Modeling and solution techniques for mathematical optimization, including linear, nonlinear, integer, and stochastic programming. Emphasis on formulation of models for most-efficient use of solution algorithms.  Graded on A-F basis only.",
             "prerequisites": "IMSE 3110, IMSE 4210",
             "hours": "3",
@@ -580,7 +580,7 @@
         },
         {
             "name": "Operations Research Models",
-            "number": "7230",
+            "number": "IMSE 7230",
             "description": "Formulates probabilistic models and determines optimal control policies for queuing and inventory systems. Introduces Markov chains and dynamic programming.",
             "prerequisites": "grade of C- or better in  IMSE 2110 and IMSE 3110",
             "hours": "3",
@@ -592,7 +592,7 @@
         },
         {
             "name": "Systems Simulation",
-            "number": "7280",
+            "number": "IMSE 7280",
             "description": "Discrete-event stochastic systems modeling and experimentation using simulation software.  Statistical design and analysis including distribution fitting and alternative comparison methodologies.  Graded on A-F basis only.",
             "prerequisites": "grade of C- or better in IMSE 4110, INFOTC 1040 or CMP_SC 1050",
             "hours": "3",
@@ -605,7 +605,7 @@
         },
         {
             "name": "Integrated Production Systems Design",
-            "number": "7310",
+            "number": "IMSE 7310",
             "description": "Design and operation of production systems, including lean production concepts, just-in-time / kanban, facility layout and material flow issues.",
             "prerequisites": "IMSE 4210, IMSE 4280",
             "hours": "3",
@@ -617,7 +617,7 @@
         },
         {
             "name": "Material Flow and Logistics System Design",
-            "number": "7330",
+            "number": "IMSE 7330",
             "description": "Modeling and analysis of structural and operational issues associated with material-flow system design including facility location, warehouse/inventory systems, and distribution/transportation systems.",
             "prerequisites": "IMSE 4210, IMSE 4280",
             "hours": "3",
@@ -629,7 +629,7 @@
         },
         {
             "name": "Production and Operations Analysis",
-            "number": "7350",
+            "number": "IMSE 7350",
             "description": "Quantitative methods for forecasting, scheduling, and production control in manufacturing and service systems. Use of Enterprise Resource Planning (ERP) systems.",
             "prerequisites": "IMSE 4210 and IMSE 4230",
             "hours": "3",
@@ -641,7 +641,7 @@
         },
         {
             "name": "Supply Chain Engineering",
-            "number": "7360",
+            "number": "IMSE 7360",
             "description": "(cross-leveled with IMSE 4360). Modeling and analysis of supply chain network design and management issues including integration of production, inventory control, supplier selection, risk management and logistics network design. Graded on A-F basis only.",
             "prerequisites": "IMSE 4350",
             "hours": "3",
@@ -652,7 +652,7 @@
         },
         {
             "name": "Six Sigma Methodology",
-            "number": "7380",
+            "number": "IMSE 7380",
             "description": "(cross-leveled with IMSE 4380).  An overview of the Six Sigma DMAIC methodology for analyzing and improving processes. Requires completing a Six Sigma Green Belt project. Graded on A-F basis only.",
             "prerequisites": "Grade of C or better in IMSE 2110 or IMSE 4110 or STAT 4710",
             "hours": "3",
@@ -665,7 +665,7 @@
         },
         {
             "name": "Lean Six Sigma Green Belt Project",
-            "number": "7385",
+            "number": "IMSE 7385",
             "description": "Application of the Lean Six Sigma methodology in an industry-based project.",
             "prerequisites": "IMSE 4310",
             "hours": "1",
@@ -676,7 +676,7 @@
         },
         {
             "name": "Management Information Systems Design",
-            "number": "7410",
+            "number": "IMSE 7410",
             "description": "MIS concepts and management issues, HTML for web pages and eShop (front office operation), back-office operations using relational databases, introduction for SQL. Graded on A-F basis only.",
             "prerequisites": "INFOTC 1040 or CMP_SC 1050",
             "hours": "3",
@@ -688,7 +688,7 @@
         },
         {
             "name": "Web-Based Information Systems",
-            "number": "7420",
+            "number": "IMSE 7420",
             "description": "Data models, design of databases using E-R, UML (Access/Oracle), web databases, web servers and interfaces (Visual Basic, JavaScript), E-commerce infrastructure (PDM, STEP, XML), data mining for management information and services.",
             "prerequisites": "IMSE 4410 and instructor's consent",
             "hours": "3",
@@ -699,7 +699,7 @@
         },
         {
             "name": "Computer Aided Design and Manufacturing",
-            "number": "7550",
+            "number": "IMSE 7550",
             "description": "(cross-leveled with IMSE 4550). Product realization process from design, process planning, to manufacturing. Includes CE, DFS/DFM, CAD, CAPP, CNC, and survey of manufacturing methods.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -708,7 +708,7 @@
         },
         {
             "name": "Introduction to Rapid Prototyping",
-            "number": "7560",
+            "number": "IMSE 7560",
             "description": "(cross-leveled with IMSE 4560). Course covers all five MU systems: FDM, SLS, SLA, Polyjet, 3DP. Students will learn fundamental rapid prototyping and related concepts, and design and produce models from each system. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -717,7 +717,7 @@
         },
         {
             "name": "Computer Integrated Manufacturing Control",
-            "number": "7570",
+            "number": "IMSE 7570",
             "description": "Implementation of computer integrated manufacturing (CIM) and automation at the shop floor level. Covers essential components of machine sensing and actuation (including programmable robots), information representation and processing, data communication and networking.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -726,7 +726,7 @@
         },
         {
             "name": "Industrial Energy Efficiency and Management",
-            "number": "7580",
+            "number": "IMSE 7580",
             "description": "(cross-leveled with IMSE 4580). Introduction to the fundamentals of industrial energy efficiency and management. Covers the essential concepts, best practices, management systems and current standards to achieve and improve energy efficiency in industrial settings, and utilizes hands-on experiences involving real assessment and analysis of industrial site visits and projects.",
             "prerequisites": "IMSE 2030 or instructor's consent",
             "hours": "3",
@@ -737,7 +737,7 @@
         },
         {
             "name": "Engineering Quality Control",
-            "number": "7610",
+            "number": "IMSE 7610",
             "description": "Analysis of quality in manufacturing including control charts, sampling plans, process capability, experimental design; introduction to system reliability. Overview of Six Sigma and DMAIC methodology.",
             "prerequisites": "IMSE 4110 or IMSE 7110",
             "hours": "3",
@@ -749,7 +749,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Advanced Enterprise Conception",
-            "number": "7750",
+            "number": "IMSE 7750",
             "description": "Develop a new business and technology plan (including marketing, finance, engineering, manufacturing, and production concepts) in this joint College of Engineering/College of Business course.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -758,7 +758,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Advanced Enterprise Design",
-            "number": "7760",
+            "number": "IMSE 7760",
             "description": "Expand on IMSE 7750 business and technology plan into a business operation plan: advertising designs, facilities layout, selling and distribution channels, product designs, accounting procedures, manufacturing processes, and product prototypes.",
             "prerequisites": "IMSE 7750",
             "hours": "3",
@@ -769,7 +769,7 @@
         },
         {
             "name": "Entrepreneurial Innovation Management: Advanced Enterprise Operations",
-            "number": "7770",
+            "number": "IMSE 7770",
             "description": "Perform the day-to-day operations for an enterprise by managing all business processes including finance, manufacturing, sales, and delivery.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -778,7 +778,7 @@
         },
         {
             "name": "Cognitive Ergonomics and Decision Making",
-            "number": "7810",
+            "number": "IMSE 7810",
             "description": "(cross-leveled with IMSE 4810). This course will cover the study of empirical research in cognitive ergonomics and Human-Computer Interaction (HCI). Students will learn cognitive information processing, mental workload, human reliability, decision-making, and empirical methods in HCI research. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -787,7 +787,7 @@
         },
         {
             "name": "Advanced Topics in Industrial & Manufacturing Systems Engineering",
-            "number": "8001",
+            "number": "IMSE 8001",
             "description": "Current and new technical developments in industrial engineering.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -796,7 +796,7 @@
         },
         {
             "name": "Advanced Manufacturing and Supply Systems",
-            "number": "8030",
+            "number": "IMSE 8030",
             "description": "The design, regulation, and optimization of manufacturing and supply systems through systems analysis.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -805,7 +805,7 @@
         },
         {
             "name": "Research Methods in Industrial & Manufacturing System Engineering",
-            "number": "8070",
+            "number": "IMSE 8070",
             "description": "Development of research approach. Selection of topic area including techniques of literature search with special emphasis on problem definition. Topics pertinent to planning, organizing and carrying out industrial engineering research or design project.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -814,7 +814,7 @@
         },
         {
             "name": "Problems in Industrial and Manufacturing Systems Engineering",
-            "number": "8085",
+            "number": "IMSE 8085",
             "description": "Supervised investigation in industrial engineering to be presented in the form of an engineering report.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -823,7 +823,7 @@
         },
         {
             "name": "Industrial Engineering Graduate Seminar",
-            "number": "8087",
+            "number": "IMSE 8087",
             "description": "Selected topics in industrial engineering; oral presentations and engineering reports. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "0",
@@ -832,7 +832,7 @@
         },
         {
             "name": "Engineering Experimentation",
-            "number": "8110",
+            "number": "IMSE 8110",
             "description": "Application of advanced statistical methods for the analysis of engineering design and experimental problems.",
             "prerequisites": "IMSE 4110 or IMSE 7110",
             "hours": "3",
@@ -844,7 +844,7 @@
         },
         {
             "name": "Operations Research-Discrete Models",
-            "number": "8210",
+            "number": "IMSE 8210",
             "description": "Applications of discrete operations research methods, including linear programming, fuzzy sets, integer programming, and meta-heuristics.",
             "prerequisites": "IMSE 4210 or IMSE 7210",
             "hours": "3",
@@ -856,7 +856,7 @@
         },
         {
             "name": "Nonlinear Optimization",
-            "number": "8220",
+            "number": "IMSE 8220",
             "description": "Introduces computational non-linear mathematical programming procedures their use in solving complex industrial systems design problems.",
             "prerequisites": "IMSE 4210 or IMSE 7210",
             "hours": "3",
@@ -868,7 +868,7 @@
         },
         {
             "name": "Operations Research-Stochastic Models",
-            "number": "8230",
+            "number": "IMSE 8230",
             "description": "Theory and applications of stochastic processes; includes continuous time Markov chain, Markov decision process, queueing theory, and stochastic manufacturing systems.",
             "prerequisites": "IMSE 4230 or IMSE 7230",
             "hours": "3",
@@ -880,7 +880,7 @@
         },
         {
             "name": "Advanced Systems Simulation",
-            "number": "8280",
+            "number": "IMSE 8280",
             "description": "Theory and practice of dynamic modeling and statistical experimentation.",
             "prerequisites": "IMSE 4280",
             "hours": "3",
@@ -891,7 +891,7 @@
         },
         {
             "name": "Advanced Integrated Production Systems",
-            "number": "8310",
+            "number": "IMSE 8310",
             "description": "Advanced study of the design and operation of flow shop, job shop, and cell-based production systems, including scheduling, layout and material flow issues.",
             "prerequisites": "IMSE 4310 or IMSE 7310",
             "hours": "3",
@@ -903,7 +903,7 @@
         },
         {
             "name": "Supply Chain Modeling and Analysis",
-            "number": "8370",
+            "number": "IMSE 8370",
             "description": "Theory and application of supply chain networks, integration of production and inventory control methods.",
             "prerequisites": "IMSE 8210, IMSE 8230",
             "hours": "3",
@@ -915,7 +915,7 @@
         },
         {
             "name": "Advanced Management Information Systems Design",
-            "number": "8410",
+            "number": "IMSE 8410",
             "description": "Develops requirements for management information, staffing, cost estimating, evaluation, and the design of management communication systems; includes case studies.",
             "prerequisites": "IMSE 4410",
             "hours": "3",
@@ -926,7 +926,7 @@
         },
         {
             "name": "Advanced CAD/CAM",
-            "number": "8550",
+            "number": "IMSE 8550",
             "description": "Covers the state-of-the-art in CAD/CAM and explores the latest developments, residual problems, and new direction in CAD/CAM. Includes sculptured surface modeling, rapid prototyping and manufacturing, integrated process planning, shape analysis, machine intelligence.",
             "prerequisites": "IMSE 4550 or IMSE 7550",
             "hours": "3",
@@ -938,7 +938,7 @@
         },
         {
             "name": "Advanced Quality Systems",
-            "number": "8610",
+            "number": "IMSE 8610",
             "description": "Advanced process control charts, empirical model-building, fractional factorial designs and Taguchi techniques as tools for process and product improvement, professional ethics in quality management; TQM and ISO 9000.",
             "prerequisites": "IMSE 4610, IMSE 8110",
             "hours": "3",
@@ -950,7 +950,7 @@
         },
         {
             "name": "Strategic Enterprise Management",
-            "number": "8730",
+            "number": "IMSE 8730",
             "description": "Topics including enterprise strategies, process and content models, strategy implementation, value chain analysis, business processes, systems engineering approaches, business process reengineering, and dynamic systems modeling.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -959,7 +959,7 @@
         },
         {
             "name": "Human Factors",
-            "number": "8810",
+            "number": "IMSE 8810",
             "description": "Human factors inputs, outputs and environment and their influence on design and evaluation of man and machine systems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -968,7 +968,7 @@
         },
         {
             "name": "Health Care Systems Design and Analysis",
-            "number": "8850",
+            "number": "IMSE 8850",
             "description": "Health care systems design principles and major problems, basic organization within health care system, alternative system design strategies, factors affecting design process success.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -977,7 +977,7 @@
         },
         {
             "name": "Research-Masters Thesis in Industrial Engineering",
-            "number": "8990",
+            "number": "IMSE 8990",
             "description": "Independent investigation in field of industrial engineering to be presented as a thesis. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -986,7 +986,7 @@
         },
         {
             "name": "Advanced Linear Optimization",
-            "number": "9210",
+            "number": "IMSE 9210",
             "description": "Advanced study of linear programming, including optimization and its application including large-scale optimization, primal-dual methods, decomposition, interior point methods, convex analysis, and integer programming. ",
             "prerequisites": " IMSE 4210 or IMSE 7210",
             "hours": ": 3",
@@ -998,7 +998,7 @@
         },
         {
             "name": "Stochastic Service Systems",
-            "number": "9230",
+            "number": "IMSE 9230",
             "description": "Development and application of stochastic models in the design of service systems in which either demands for service or services supplies, or both, have a probabilistic nature.",
             "prerequisites": "STAT 4750, IMSE 8230",
             "hours": "3",
@@ -1010,7 +1010,7 @@
         },
         {
             "name": "Dynamic Programming",
-            "number": "9250",
+            "number": "IMSE 9250",
             "description": "Introduces theory and computational aspects of dynamic programming; its application to sequential decision problems.",
             "prerequisites": "IMSE 4210 or IMSE 7210 and IMSE 4230 or IMSE 7230",
             "hours": "3",
@@ -1024,7 +1024,7 @@
         },
         {
             "name": "Integer and Combinatorial Optimization",
-            "number": "9260",
+            "number": "IMSE 9260",
             "description": "Theory, solution methodology, and application of integer and sombinatorial optimization.",
             "prerequisites": "IMSE 8210",
             "hours": "3",
@@ -1035,7 +1035,7 @@
         },
         {
             "name": "Research-Doctoral Dissertation in Industrial Engineering",
-            "number": "9990",
+            "number": "IMSE 9990",
             "description": "Independent investigation in field of industrial engineering to be presented as a dissertation. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",

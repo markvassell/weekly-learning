@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introduction to Agribusiness Management",
-            "number": "1010",
+            "number": "AG_EC 1010",
             "description": "Agribusiness and agricultural economics touches many parts of business, agriculture, the environment and other areas. This course is designed to help students successfully make the adjustment to college/MU, provide an overview of the Department of Agricultural and Applied Economics degree programs and, enhance professional and career development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Survey of Global Agribusiness",
-            "number": "1011",
+            "number": "AG_EC 1011",
             "description": "Economic, social and political forces and trends and the impact on U.S. and global agribusinesses. Global production, consumption trade, and investment patterns in agriculture-food sector. Developing management strategy in changing economic political environment.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Applied Microeconomics",
-            "number": "1041",
+            "number": "AG_EC 1041",
             "description": "Introduction to the microeconomic principles and their application to decision-making in agribusinesses. Consumer decision analysis, producer goals and optimization and the market environment where they meet and trade. Applications to current issues.  Students who complete AG_EC 1041 may not have credit for ECONOM 1014.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Applied Macroeconomics",
-            "number": "1042",
+            "number": "AG_EC 1042",
             "description": "Introduction to macroeconomic principles and their application to agriculture-food sector and natural resource issues. Using macroeconomic principles in decision making and in evaluating national and regional economic problems and issues.  Students who complete AG_EC 1042 may not have credit for ECONOM 1015.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Applied Computer Applications",
-            "number": "1200",
+            "number": "AG_EC 1200",
             "description": "This course is an applied problem based learning opportunity for students to gain Excel spreadsheet related skills critical to careers in agriculture, food and natural resources. Students will learn intermediate and advanced spreadsheet skills essential for problem solving and decision making in these biologically influenced fields.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "For the Love of Food: Global Food System Debate",
-            "number": "2050",
+            "number": "AG_EC 2050",
             "description": "This course is designed to develop students' understanding of the food system from farm to plate and the consumer's role in the global food system. Gaining a knowledge base on food system dynamics will allow students to better understand the societal and policy making processes behind food production. Each week we will discuss key topics and issues facing the food system today. This class will help students develop critical thinking skills to address challenges in the global food system.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -58,25 +58,29 @@
         },
         {
             "name": "Environmental Economics and Policy",
-            "number": "2070",
+            "number": "AG_EC 2070",
             "description": "(same as ENV_ST 2070). Examines current environmental and natural resource issues using a systems perspective and key economic concepts. Explores connections between the environment and the economy based on problems at the local, national, and international levels.",
             "prerequisites": "sophomore standing",
             "hours": "3",
             "recommendation": "ENGLSH 1000",
-            "connections": "None Listed"
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Environmental Economics and Policy - Writing Intensive",
-            "number": "2070W",
+            "number": "AG_EC 2070W",
             "description": "(same as ENV_ST 2070). Examines current environmental and natural resource issues using a systems perspective and key economic concepts. Explores connections between the environment and the economy based on problems at the local, national, and international levels.",
             "prerequisites": "sophomore standing",
             "hours": "3",
             "recommendation": "ENGLSH 1000",
-            "connections": "None Listed"
+            "connections": [
+                "ENGLSH 1000"
+            ]
         },
         {
             "name": "Quantitative Applications in Agricultural Economics",
-            "number": "2123",
+            "number": "AG_EC 2123",
             "description": "Familiarize students with the use of calculus and other quantitative tools in developing and analyzing fundamental economic concepts.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014 and MATH 1400",
             "hours": "3",
@@ -89,7 +93,7 @@
         },
         {
             "name": "Introduction to Environmental Law",
-            "number": "2156",
+            "number": "AG_EC 2156",
             "description": "Environmental issues from a legal perspective, using current controversies from both the USA and other countries. Major environmental laws dealing with water, air, noise, endangered species, waste disposal, and land use.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -98,31 +102,35 @@
         },
         {
             "name": "The Agricultural Marketing System",
-            "number": "2183",
+            "number": "AG_EC 2183",
             "description": "Analysis of marketing systems that transforms agricultural products into food products. Examines functions and institutions in marketing and distributing food from both micro and macro perspectives.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014",
             "hours": "3",
             "recommendation": "AG_EC 1042 or ECONOM 1015",
             "connections": [
                 "AG_EC 1041",
-                "ECONOM 1014"
+                "ECONOM 1014",
+                "AG_EC 1042",
+                "ECONOM 1015"
             ]
         },
         {
             "name": "The Agricultural Marketing System - Writing Intensive",
-            "number": "2183W",
+            "number": "AG_EC 2183W",
             "description": "Analysis of marketing systems that transforms agricultural products into food products. Examines functions and institutions in marketing and distributing food from both micro and macro perspectives.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014",
             "hours": "3",
             "recommendation": "AG_EC 1042 or ECONOM 1015",
             "connections": [
                 "AG_EC 1041",
-                "ECONOM 1014"
+                "ECONOM 1014",
+                "AG_EC 1042",
+                "ECONOM 1015"
             ]
         },
         {
             "name": "Agricultural Sales",
-            "number": "2223",
+            "number": "AG_EC 2223",
             "description": "Principles of salesmanship in agricultural input and output markets; buyer motivations; time and territory management; communication models and techniques; planning and executing sales calls; after-sale service.",
             "prerequisites": "AG_EC 1041 or AG_EC 1042 or ECONOM 1014 or ECONOM 1015 and sophomore standing",
             "hours": "3",
@@ -136,7 +144,7 @@
         },
         {
             "name": "Statistical Analysis",
-            "number": "2225",
+            "number": "AG_EC 2225",
             "description": "Elementary statistical inference. Math Reasoning Proficiency Course.",
             "prerequisites": "MATH 1100",
             "hours": "3",
@@ -147,7 +155,7 @@
         },
         {
             "name": "Practicum in Agricultural Economics",
-            "number": "2940",
+            "number": "AG_EC 2940",
             "description": "Off-campus integrated working and learning experience for departmental majors and minors. Application of economic concepts in business or government.  Graded on S/U basis only.",
             "prerequisites": "Instructor's consent",
             "hours": "1-3",
@@ -156,7 +164,7 @@
         },
         {
             "name": "International Agribusiness",
-            "number": "3150",
+            "number": "AG_EC 3150",
             "description": "This course covers the primary factors that shape the business environment for food and agricultural firms conducting business across borders.  The course examines how culture, institutions and public policy affect business operations and business strategies.",
             "prerequisites": "AG_EC 2183",
             "hours": "3",
@@ -167,7 +175,7 @@
         },
         {
             "name": "New Products Marketing",
-            "number": "3224",
+            "number": "AG_EC 3224",
             "description": "Learning experience to develop skills in marketing new agriculture products. To include market analysis, goals and objectives, action plan, financial evaluation and monitoring and measurement. In small groups, students will develop complete marketing plan for a new product.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014",
             "hours": "3",
@@ -179,7 +187,7 @@
         },
         {
             "name": "New Products Marketing - Writing Intensive",
-            "number": "3224W",
+            "number": "AG_EC 3224W",
             "description": "Learning experience to develop skills in marketing new agriculture products. To include market analysis, goals and objectives, action plan, financial evaluation and monitoring and measurement. In small groups, students will develop complete marketing plan for a new product.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014",
             "hours": "3",
@@ -191,7 +199,7 @@
         },
         {
             "name": "Agricultural and Rural Economic Policy",
-            "number": "3230",
+            "number": "AG_EC 3230",
             "description": "Study and analysis of past and present government policies affecting agriculture and rural economy.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014 and AG_EC 1042 or ECONOM 1015",
             "hours": "3",
@@ -205,7 +213,7 @@
         },
         {
             "name": "Ethical Issues in Agriculture",
-            "number": "3241",
+            "number": "AG_EC 3241",
             "description": "The study of how economics, philosophy, and science inform on and impact important ethical problems in agriculture, such as the environment, biotechnology, animal welfare, farm structure, the role of agribusiness, development, sustainability, and agriculture-related public policy. Course may be repeated once for credit.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014 and junior standing",
             "hours": "3",
@@ -217,7 +225,7 @@
         },
         {
             "name": "Ethical Issues in Agriculture - Writing Intensive",
-            "number": "3241W",
+            "number": "AG_EC 3241W",
             "description": "The study of how economics, philosophy, and science inform on and impact important ethical problems in agriculture, such as the environment, biotechnology, animal welfare, farm structure, the role of agribusiness, development, sustainability, and agriculture-related public policy. Course may be repeated once for credit.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014 and junior standing",
             "hours": "3",
@@ -229,7 +237,7 @@
         },
         {
             "name": "Agribusiness and Biotechnology Law",
-            "number": "3256",
+            "number": "AG_EC 3256",
             "description": "Legal concepts applicable to agribusiness and biotech firms. To include contracts, torts, product liability, warranties, corporate farming laws, UCC, corporations/partnerships/limited liability companies, labor laws, patent copyrights/trademark laws, international and ethical perspectives.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -238,7 +246,7 @@
         },
         {
             "name": "Rural and Agricultural Law",
-            "number": "3257",
+            "number": "AG_EC 3257",
             "description": "Everyday practical legal problems facing rural residents, farmers, agribusiness, and local government. Laws include statutes, common law (cases), customs, and administrative regulations. Topics include corporate/contract farming, right-to-farm, leases, fence laws, estate planning and water rights.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -247,7 +255,7 @@
         },
         {
             "name": "General Farm Management",
-            "number": "3260",
+            "number": "AG_EC 3260",
             "description": "Economics and management principles applied to planning and operating farm businesses. Includes enterprise combination, resource acquisition, water management, profit maximizing techniques and annual adjustments to changing conditions.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014",
             "hours": "3",
@@ -259,7 +267,7 @@
         },
         {
             "name": "Conservation and Use of Protected Areas",
-            "number": "3270",
+            "number": "AG_EC 3270",
             "description": "Evaluation of socioeconomic, cultural and ecological values influencing the development and management of protected areas including parks, forests, wildlife refuges, wilderness and wild/scenic rivers.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014 and AG_EC 2070",
             "hours": "3",
@@ -272,7 +280,7 @@
         },
         {
             "name": "International Agricultural Development",
-            "number": "3271",
+            "number": "AG_EC 3271",
             "description": "Examines world food problem; analyzes its causes; economic and noneconomic policy alternatives for modernizing agriculture in less-developed countries.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014 and AG_EC 1042 or ECONOM 1015",
             "hours": "3",
@@ -286,7 +294,7 @@
         },
         {
             "name": "International Food Trade and Policy",
-            "number": "3272",
+            "number": "AG_EC 3272",
             "description": "Examines food trade; develops economic analyses of trade impacts on domestic agricultural policies; examines international trade agreements; and interface of trade and environment.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014 and AG_EC 1042 or ECONOM 1015",
             "hours": "3",
@@ -300,7 +308,7 @@
         },
         {
             "name": "Agribusiness Finance",
-            "number": "3282",
+            "number": "AG_EC 3282",
             "description": "Application of the concepts and methods of finance to the management of agribusiness firms, including cooperatives. Special attention is given to the working capital needs of agribusiness and to the specialized lending institutions in the agricultural economy.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014 and ACCTCY 2036 or ACCTCY 2026",
             "hours": "3",
@@ -309,12 +317,14 @@
                 "ACCTCY 2036",
                 "ACCTCY 2026",
                 "AG_EC 1041",
-                "ECONOM 1014"
+                "ECONOM 1014",
+                "ACCTCY 2037",
+                "ACCTCY 2027"
             ]
         },
         {
             "name": "Fundamentals of Entrepreneurship",
-            "number": "3283",
+            "number": "AG_EC 3283",
             "description": "Introduce students to entrepreneurial way of thinking.  Entrepreneurship is a way of thinking about identifying/creating opportunities and transforming those opportunities into new businesses, new institutions, or solutions to problems.  Students will participate in the process of formulating and evaluating solutions to problems and  identifying and exploiting opportunities.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014 and ACCTCY 2036 or ACCTCY 2026. Restricted to Agricultural Economics and Agribusiness Management majors during early registration",
             "hours": "3",
@@ -328,7 +338,7 @@
         },
         {
             "name": "Problems in Agricultural Economics",
-            "number": "3285",
+            "number": "AG_EC 3285",
             "description": "Supervised study in a specialized phase of agricultural economics. Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -337,7 +347,7 @@
         },
         {
             "name": "Economics of Managerial Decision Making",
-            "number": "3286",
+            "number": "AG_EC 3286",
             "description": "Introduces tools and concepts from price theory, game theory, industrial organization and organizational economics, and applies them to managerial decision making activities for businesses in the agrifood system and for natural resource and environmental management.",
             "prerequisites": "AG_EC 2123 and AG_EC 2183",
             "hours": "3",
@@ -349,51 +359,56 @@
         },
         {
             "name": "Agricultural Marketing and Procurement",
-            "number": "3294",
+            "number": "AG_EC 3294",
             "description": "Content of course focuses on marketing issues in the agriculture supply chain. Topics covered include price discovery, basis, futures/options, contracting, logistics, and management decision making.",
             "prerequisites": "AG_EC 2183",
             "hours": "3",
             "recommendation": "AG_EC 2225 or STAT 2500",
             "connections": [
-                "AG_EC 2183"
+                "AG_EC 2183",
+                "AG_EC 2225",
+                "STAT 2500"
             ]
         },
         {
             "name": "Real Money: Speculative Trading for Beginners",
-            "number": "3295",
+            "number": "AG_EC 3295",
             "description": "Familiarize students with the learning components of commodity future/option trading.  Students learn through involvement by investing in a commodity pool and trading futures/options.  Students apply both fundamental and technical analysis.  Students taking this course are required to invest from $200 to $600 in $200 increments.  Students cannot lose more money than invested.",
             "prerequisites": "AG_EC 2183",
             "hours": "3",
             "recommendation": "AG_EC 3294",
             "connections": [
-                "AG_EC 2183"
+                "AG_EC 2183",
+                "AG_EC 3294"
             ]
         },
         {
             "name": "In the Money with Options Trading",
-            "number": "3296",
+            "number": "AG_EC 3296",
             "description": "This online course focuses on learning the basics of trading options market contracts. Students will be investing/contributing members of the University of Missouri Educational Marketing Club. Students will be introduced to principles of price forecasting using technical and fundamental analysis and will study a variety of trading strategies.",
             "prerequisites": "AG_EC 3295",
             "hours": "2",
             "recommendation": "AG_EC 3294",
             "connections": [
-                "AG_EC 3295"
+                "AG_EC 3295",
+                "AG_EC 3294"
             ]
         },
         {
             "name": "Technical Trading Tactics",
-            "number": "3297",
+            "number": "AG_EC 3297",
             "description": "Learn the tactics of technical trading through student investment and commodity futures contracts. Technical Trading Tactics will provide students with tools to support trade recommendations based on technical analysis. Each student invests real money as a learning incentive and will complete one trade recommendation during the course.",
             "prerequisites": "AG_EC 3295",
             "hours": "1",
             "recommendation": "AG_EC 3294",
             "connections": [
-                "AG_EC 3295"
+                "AG_EC 3295",
+                "AG_EC 3294"
             ]
         },
         {
             "name": "Economic History of Agriculture",
-            "number": "3321",
+            "number": "AG_EC 3321",
             "description": "Emphasizes Europe and U.S. historical interpretation; usefulness in evaluating present and probable future developments in agriculture.",
             "prerequisites": "AG_EC 1041 or ECONOM 1014",
             "hours": "3",
@@ -405,7 +420,7 @@
         },
         {
             "name": "Rural Entrepreneurship II",
-            "number": "3383",
+            "number": "AG_EC 3383",
             "description": "Rural Entrepreneurship II is designed for students that realize they may need to create their own career or opportunity if they want to return to their rural community and for students who would like to better understand how to create that option in their career choice set.",
             "prerequisites": "AG_EC 3283",
             "hours": "3",
@@ -416,7 +431,7 @@
         },
         {
             "name": "In-Service Course in Agricultural Economics",
-            "number": "4110",
+            "number": "AG_EC 4110",
             "description": "(cross-leveled with AG_EC 7110). A. Profit Maximizing Principles B. Farm Planning C. Farm Records and Analysis D. Business Management E. Using Computers in Farm Management Decision Making.  Basic principles of farm management. Applications of principles and subject matter in successful classroom presentation primarily for high school teachers. Course is offered in sections A-E as listed, for 2 hours each.",
             "prerequisites": "instructor's consent.  Recommended AG_EC 3260",
             "hours": "2-10",
@@ -427,7 +442,7 @@
         },
         {
             "name": "Understanding the Agricultural Policy Process",
-            "number": "4230",
+            "number": "AG_EC 4230",
             "description": "The goal of this course is to prepare students for a career in agricultural policy and will build the skill set needed in the agricultural policy environment.",
             "prerequisites": "AG_EC 3230",
             "hours": "3",
@@ -438,7 +453,7 @@
         },
         {
             "name": "Agricultural Prices",
-            "number": "4251",
+            "number": "AG_EC 4251",
             "description": "(cross-leveled with AG_EC 7251). Variations in prices of agricultural products; underlying factors.",
             "prerequisites": "AG_EC 2123 and AG_EC 2225 or STAT 2500",
             "hours": "3",
@@ -451,7 +466,7 @@
         },
         {
             "name": "Agricultural Risk Management",
-            "number": "4295",
+            "number": "AG_EC 4295",
             "description": "(cross-leveled with AG_EC 7295). This class will examine the range of risks business face and explore ways of characterizing and evaluating those risks.",
             "prerequisites": "AG_EC 2183 and AG_EC 2225 or STAT 2500",
             "hours": "3",
@@ -464,7 +479,7 @@
         },
         {
             "name": "Topics in Agricultural Economics",
-            "number": "4301",
+            "number": "AG_EC 4301",
             "description": "Current and new topics not currently offered in applied and/or theoretical areas in Agricultural Economics.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -473,7 +488,7 @@
         },
         {
             "name": "Topics in Agricultural Economics",
-            "number": "4301H",
+            "number": "AG_EC 4301H",
             "description": "Current and new topics not currently offered in applied and/or theoretical areas in Agricultural Economics.",
             "prerequisites": "honors eligibility required",
             "hours": "1-6",
@@ -482,7 +497,7 @@
         },
         {
             "name": "Local Economic Analysis",
-            "number": "4310",
+            "number": "AG_EC 4310",
             "description": "(cross-leveled with AG_EC 7310).  Economic based theory, including multipliers and how local economies are affected by external events.  Methods for local economic analysis: trends, location quotients, shift-share, and retail analyses.",
             "prerequisites": "Instructor's consent",
             "hours": "1",
@@ -491,16 +506,18 @@
         },
         {
             "name": "Rural Real Estate Appraisal",
-            "number": "4340",
+            "number": "AG_EC 4340",
             "description": "(cross-leveled with AG_EC 7340). Principles, techniques, practices of rural real estate appraisal. Field trips.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AG_EC 3260",
-            "connections": "None Listed"
+            "connections": [
+                "AG_EC 3260"
+            ]
         },
         {
             "name": "Environmental Law and Policy",
-            "number": "4356",
+            "number": "AG_EC 4356",
             "description": "(cross-leveled with AG_EC 7356). Legislative, administrative, and common law dealing with the environment. Introduces the fundamental concepts and classic issues underlying the body of law and policy dealing with the environment. Includes air and water quality, endangered species preservation, land use, and waste disposal.",
             "prerequisites": "instructor's consent.  Recommended AG_EC 3256, senior or graduate standing. For non-law students",
             "hours": "3",
@@ -511,7 +528,7 @@
         },
         {
             "name": "Internship Opportunities",
-            "number": "4940",
+            "number": "AG_EC 4940",
             "description": "Combines study, observation, and employment in a public agency or private firm in marketing, farm management, or credit. Staff supervision and evaluation. Reports required.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -520,7 +537,7 @@
         },
         {
             "name": "Planning the Farm Business",
-            "number": "4962",
+            "number": "AG_EC 4962",
             "description": "(cross-leveled with AG_EC 7962). Economic analysis and planning of the farm business and its organization. Applications of computerized management techniques to farm business including resource acquisition, tax management, enterprise analysis, and business analysis through farm records and budgets.",
             "prerequisites": "AG_EC 3260",
             "hours": "3",
@@ -531,7 +548,7 @@
         },
         {
             "name": "Agribusiness Management Strategy",
-            "number": "4971",
+            "number": "AG_EC 4971",
             "description": "(cross-leveled with AG_EC 7971). Analysis of industry forces in agriculture and food sector. Assessing risks and firms' capabilities. Development of firm's competitive strategy, including vertical integration, diversification, international business option, and financial planning and performance measurement.",
             "prerequisites": "AG_EC 3282 or FINANC 3000 and AG_EC 3286 or MANGMT 3000",
             "hours": "3",
@@ -545,7 +562,7 @@
         },
         {
             "name": "Agribusiness Management Strategy - Writing Intensive",
-            "number": "4971W",
+            "number": "AG_EC 4971W",
             "description": "(cross-leveled with AG_EC 7971). Analysis of industry forces in agriculture and food sector. Assessing risks and firms' capabilities. Development of firm's competitive strategy, including vertical integration, diversification, international business option, and financial planning and performance measurement.",
             "prerequisites": "AG_EC 3282 or FINANC 3000 and AG_EC 3286 or MANGMT 3000",
             "hours": "3",
@@ -559,7 +576,7 @@
         },
         {
             "name": "Agri-Food Business and Cooperative Management",
-            "number": "4972",
+            "number": "AG_EC 4972",
             "description": "(cross-leveled with AG_EC 7972). Risk management in the global agrifood chain, including managing the unique uncertainties of biological production processes, global market analysis, and government intervention, of risk management tools and institutions unique to strategic decision making in agribusiness and cooperative firms.",
             "prerequisites": "AG_EC 4971 and AG_EC 3286 or MANGMT 3000",
             "hours": "3",
@@ -567,12 +584,13 @@
             "connections": [
                 "AG_EC 4971",
                 "AG_EC 3286",
-                "MANGMT 3000"
+                "MANGMT 3000",
+                "AG_EC 3256"
             ]
         },
         {
             "name": "Strategic Entrepreneurship in Agri-Food",
-            "number": "4983",
+            "number": "AG_EC 4983",
             "description": "Strategic entrepreneurship is the search for opportunities to generate income streams from innovation, development of new markets, and altering the rivalry positions in existing markets.",
             "prerequisites": "AG_EC 3283 and AG_EC 3282 or FINANC 3000",
             "hours": "3",
@@ -585,18 +603,19 @@
         },
         {
             "name": "Economic Analysis of Policy and Regulation",
-            "number": "4990",
+            "number": "AG_EC 4990",
             "description": "(cross-leveled with AG_EC 7990). Apply economic concepts and tools to analyze the policy-making process and the implications of policy for individuals, firms, markets and society. Policy topics include, among other things, agricultural support programs, environmental policy, international trade, international development, and agribusiness regulation.",
             "prerequisites": "AG_EC 4251",
             "hours": "3",
             "recommendation": "ECONOM 4351",
             "connections": [
-                "AG_EC 4251"
+                "AG_EC 4251",
+                "ECONOM 4351"
             ]
         },
         {
             "name": "Economics of Agricultural Production and Distribution",
-            "number": "4995",
+            "number": "AG_EC 4995",
             "description": "(cross-leveled with AG_EC 7995). Applies economic principles to agricultural production including price theory, linear programming and uncertainty.",
             "prerequisites": "ECONOM 3251 and AG_EC 2225 or STAT 2500",
             "hours": "3",
@@ -609,7 +628,7 @@
         },
         {
             "name": "In-Service Course in Agricultural Economics",
-            "number": "7110",
+            "number": "AG_EC 7110",
             "description": "(cross-leveled with AG_EC 4110). A. Profit Maximizing Principles B. Farm Planning C. Farm Records and Analysis D. Business Management E. Using Computers in Farm Management Decision Making. Basic principles of farm management. Applications of principles and subject matter in successful classroom presentation primarily for high school teachers. Course is offered in sections A-E as listed, for 2 hours each. ",
             "prerequisites": "None Listed",
             "hours": "2-10",
@@ -618,7 +637,7 @@
         },
         {
             "name": "Agricultural Prices",
-            "number": "7251",
+            "number": "AG_EC 7251",
             "description": "(cross-leveled with AG_EC 4251). Variations in prices of agricultural products; underlying factors.",
             "prerequisites": "AG_EC 2123 and AG_EC 2225 or STAT 2500",
             "hours": "3",
@@ -631,7 +650,7 @@
         },
         {
             "name": "Agricultural Risk Management",
-            "number": "7295",
+            "number": "AG_EC 7295",
             "description": "(cross-leveled with AG_EC 4295). This class will examine the range of risks businesses face and explore ways of characterizing and evaluating those risks.",
             "prerequisites": "AG_EC 2183 and AG_EC 2225 or STAT 2500",
             "hours": "3",
@@ -644,7 +663,7 @@
         },
         {
             "name": "Topics in Agricultural Economics",
-            "number": "7301",
+            "number": "AG_EC 7301",
             "description": "Current and new topics not currently offered in applied and/or theoretical areas in Agricultural Economics.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -653,7 +672,7 @@
         },
         {
             "name": "Local Economics Analysis",
-            "number": "7310",
+            "number": "AG_EC 7310",
             "description": "(cross-leveled with AG_EC 4310). Economic based theory, including multipliers and how local economies are affected by external events.  Methods for local economic analysis: trends, location quotients, shift-share, and retail analyses.  On-line course.",
             "prerequisites": "Instructor's consent",
             "hours": "1",
@@ -662,16 +681,18 @@
         },
         {
             "name": "Rural Real Estate Appraisal",
-            "number": "7340",
+            "number": "AG_EC 7340",
             "description": "(cross-leveled with AG_EC 4340). Principles, techniques, practices of rural real estate appraisal. Field trips.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "AG_EC 3260",
-            "connections": "None Listed"
+            "connections": [
+                "AG_EC 3260"
+            ]
         },
         {
             "name": "Environmental Law and Policy",
-            "number": "7356",
+            "number": "AG_EC 7356",
             "description": "(cross-leveled with AG_EC 4356). Legislative, administrative, and common law dealing with the environment. Introduces the fundamental concepts and classic issues underlying the body of law and policy dealing with the environment. Includes air and water quality, endangered species preservation, land use, and waste disposal.",
             "prerequisites": "Instructor's consent. Recommended  AG_EC 3256, senior or graduate standing.  For non-law students",
             "hours": "3",
@@ -682,7 +703,7 @@
         },
         {
             "name": "Internship Experiences in Agricultural Economics",
-            "number": "7940",
+            "number": "AG_EC 7940",
             "description": "Combines study, observation, and employment in a public agency or private firm in marketing, farm management, or credit. Staff supervision and evaluation. Reports required. Graded on S/U basis only.",
             "prerequisites": "2.5 GPA; 75 hours of course work and instructor's consent",
             "hours": "1-3",
@@ -691,7 +712,7 @@
         },
         {
             "name": "Planning the Farm Business",
-            "number": "7962",
+            "number": "AG_EC 7962",
             "description": "(cross-leveled with AG_EC 4962). Economic analysis and planning of the farm business and its organization. Applications of computerized management techniques to farm business including resource acquisition, tax management, enterprise analysis, and business analysis through farm records and budgets.",
             "prerequisites": "AG_EC 3260",
             "hours": "3",
@@ -702,7 +723,7 @@
         },
         {
             "name": "Agribusiness Management Strategy",
-            "number": "7971",
+            "number": "AG_EC 7971",
             "description": "(cross-leveled with AG_EC 4971). Analysis of industry forces in agriculture and food sector. Assessing risks and firms capabilities. Development of firm's competitive strategy, including vertical integration, diversification, international business option, and financial planning and performance measurement.",
             "prerequisites": "AG_EC 3282 or FINANC 3000 and AG_EC 3286 or MANGMT 3000",
             "hours": "3",
@@ -716,7 +737,7 @@
         },
         {
             "name": "Agri-Food Business and Cooperative Management",
-            "number": "7972",
+            "number": "AG_EC 7972",
             "description": "(cross-leveled with AG_EC 4972). Risk management in the global agrifood chain, including managing the unique uncertainties of biological production processes, global market analysis, and government intervention, of risk management tools and institutions unique to strategic decision making in agribusiness and cooperative firms.",
             "prerequisites": "AG_EC 4971 and AG_EC 3286 or MANGMT 3000",
             "hours": "3",
@@ -724,23 +745,25 @@
             "connections": [
                 "AG_EC 4971",
                 "AG_EC 3286",
-                "MANGMT 3000"
+                "MANGMT 3000",
+                "AG_EC 3256"
             ]
         },
         {
             "name": "Economic Analysis of Policy and Regulation",
-            "number": "7990",
+            "number": "AG_EC 7990",
             "description": "(cross-leveled with AG_EC 4990). Apply economic concepts and tools to analyze the policy-making process and the implications of policy for individuals, firms, markets and society. Policy topics include, among other things, agricultural support programs, environmental policy, international trade, international development, and agribusiness regulation.",
             "prerequisites": "AG_EC 4251",
             "hours": "3",
             "recommendation": "ECONOM 4351",
             "connections": [
-                "AG_EC 4251"
+                "AG_EC 4251",
+                "ECONOM 4351"
             ]
         },
         {
             "name": "Economics of Agricultural Production and Distribution",
-            "number": "7995",
+            "number": "AG_EC 7995",
             "description": "(cross-leveled with Applies economic principles to agricultural production including price theory, linear programming and uncertainty. ",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -749,7 +772,7 @@
         },
         {
             "name": "Advanced Topics in Economics",
-            "number": "8001",
+            "number": "AG_EC 8001",
             "description": "Analyzes economic logic problems. Current agricultural economic problems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -758,7 +781,7 @@
         },
         {
             "name": "Research Methodology",
-            "number": "8010",
+            "number": "AG_EC 8010",
             "description": "Students explore the roles of theory and methods in economics research, develop a program of research, and critique published research.  Students also study the scientific methods and the research process, including problem definition, research design, data collection and analysis, and generalization.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -767,7 +790,7 @@
         },
         {
             "name": "Advanced Production Economics",
-            "number": "8024",
+            "number": "AG_EC 8024",
             "description": "Production function analyses and advanced theory of the firm as applied to agricultural production problems. Concepts of input demand, production supply, quality, time and technology, dynamic analysis and production under uncertainty.",
             "prerequisites": "MATH 1500, AG_EC 4995; ECONOM 8451; STAT 4510 or ECONOM 8472",
             "hours": "3",
@@ -782,7 +805,7 @@
         },
         {
             "name": "Economics of Institutions and Organizations",
-            "number": "8050",
+            "number": "AG_EC 8050",
             "description": "This course expands upon the fundamental principles of neo-classical economics by relaxing traditional behavioral and informational assumptions and by introducing the importance of transaction costs and institutions for economic analysis.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -791,7 +814,7 @@
         },
         {
             "name": "Mathematical Modeling for Social Scientist",
-            "number": "8060",
+            "number": "AG_EC 8060",
             "description": "Introduction to mathematical programming, emphasizing problem formulation and solution interpretation. Computer applications are stressed.",
             "prerequisites": "STAT 4510",
             "hours": "3",
@@ -802,7 +825,7 @@
         },
         {
             "name": "Masters Problems in Agricultural Economics",
-            "number": "8085",
+            "number": "AG_EC 8085",
             "description": "Supervised study, research in specialized phases of agricultural economics.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -811,7 +834,7 @@
         },
         {
             "name": "Seminar in Agricultural Economics",
-            "number": "8087",
+            "number": "AG_EC 8087",
             "description": "Lectures, reports on economic problems in agriculture.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -820,7 +843,7 @@
         },
         {
             "name": "Masters Thesis Research in Agricultural Economics",
-            "number": "8090",
+            "number": "AG_EC 8090",
             "description": "Independent investigation of advanced nature, leading to dissertation. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -829,7 +852,7 @@
         },
         {
             "name": "Theory of Markets",
-            "number": "8210",
+            "number": "AG_EC 8210",
             "description": "Development of theories of monopolistic, monopolistic competition; application to agricultural markets. Market structure influence on price, nonprice competition in buying, selling of farm products and inputs.",
             "prerequisites": "ECONOM 7351",
             "hours": "3",
@@ -840,7 +863,7 @@
         },
         {
             "name": "Regional Development Issues and Analysis",
-            "number": "8350",
+            "number": "AG_EC 8350",
             "description": "(same as PUB_AF 8350).  Examines theories of regional growth and development and methods for analysis with applications to current policy issues.  Topics include firm location, new economic geography and agglomeration theory, clusters, human capital, migration, social capital, tax and development incentives, and sustainable regional development.",
             "prerequisites": "ECONOM 7351 or PUB_AF 8190 or equivalent",
             "hours": "3",
@@ -852,7 +875,7 @@
         },
         {
             "name": "Natural Resource and Environmental Economics",
-            "number": "8410",
+            "number": "AG_EC 8410",
             "description": "Contemporary natural resource/environmental problems; natural resource capacity, alternative economic theories, property rights, externalities, market failures, efficient use of exhaustible and renewable resources, and economics of environmental pollution.",
             "prerequisites": "ECONOM 7351",
             "hours": "3",
@@ -863,7 +886,7 @@
         },
         {
             "name": "International Agricultural Development Policy",
-            "number": "8430",
+            "number": "AG_EC 8430",
             "description": "An analytical review of economic policies directed toward stimulating agricultural development in the world's low income countries.",
             "prerequisites": "ECONOM 7351 and ECONOM 7353",
             "hours": "3",
@@ -875,7 +898,7 @@
         },
         {
             "name": "Society and Ecosystems Research Seminar",
-            "number": "8448",
+            "number": "AG_EC 8448",
             "description": "(same as RU_SOC 8448 and NAT_R 8448). This seminar, capstone for the Graduate Certificate Program in Society and Ecosystems, exposes students to interdisciplinary research on interactions between social, economic and ecological systems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -884,7 +907,7 @@
         },
         {
             "name": "Masters Non Thesis Research",
-            "number": "8450",
+            "number": "AG_EC 8450",
             "description": "Independent investigation of advanced nature. Report required.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -893,7 +916,7 @@
         },
         {
             "name": "Economics of Transaction and Contracting",
-            "number": "8520",
+            "number": "AG_EC 8520",
             "description": "This course focuses on the economic incentives underlying transaction relationships and develops and implements a framework for analyzing contract documents governing various kinds of transactions.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -902,7 +925,7 @@
         },
         {
             "name": "Economic and Sociological Approaches to Collective Action",
-            "number": "8610",
+            "number": "AG_EC 8610",
             "description": "(same as RU_SOC 8610).  This course identifies analytical and methodological tools, including rational choice and social capital, to deal with practical problems of collective action in: agricultural cooperatives, rural community development, political interest groups and other mutuals.",
             "prerequisites": "AG_EC 7972",
             "hours": "3",
@@ -913,7 +936,7 @@
         },
         {
             "name": "International Comparative Rural Policy",
-            "number": "8860",
+            "number": "AG_EC 8860",
             "description": "(same as PUB_AF 8860).  Compares the rural policy objectives and implementation  strategies of various countries, and assesses these policies in terms of economic, social, environmental outcomes and their implications for international relations.  Includes 2-weeks of study Abroad.  May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -922,7 +945,7 @@
         },
         {
             "name": "Advanced Topics in Economics II",
-            "number": "9001",
+            "number": "AG_EC 9001",
             "description": "Analyzes economic logic problems. Current agricultural economic problems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -931,7 +954,7 @@
         },
         {
             "name": "Advanced Microeconomics Theory and Applications I",
-            "number": "9040",
+            "number": "AG_EC 9040",
             "description": "First semester course that rigorously examines the microeconomic theory of producer and consumer behavior, combined with applications of the theoretical concepts to empirical economic research on agricultural, business, development, and environmental issues. Graded on A-F basis only.",
             "prerequisites": "ECONOM 7351 or instructors consent",
             "hours": "3",
@@ -942,7 +965,7 @@
         },
         {
             "name": "Advanced Microeconomics Theory and Applications II",
-            "number": "9042",
+            "number": "AG_EC 9042",
             "description": "Second semester advanced micro theory covering choice under uncertainty, industry structure, game theory, information econ, and political economy of regulation. Includes applications of micro models to issues in agricultural, natural resource, and development sectors.",
             "prerequisites": "AG_EC 9040",
             "hours": "3",
@@ -953,7 +976,7 @@
         },
         {
             "name": "Doctoral Problems in Agricultural Economics",
-            "number": "9085",
+            "number": "AG_EC 9085",
             "description": "Supervised study, research in specialized phases of agricultural economics.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -962,7 +985,7 @@
         },
         {
             "name": "Doctoral Dissertation Research in Agricultural Economics",
-            "number": "9090",
+            "number": "AG_EC 9090",
             "description": "Independent investigation of advanced nature, leading to dissertation. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -971,7 +994,7 @@
         },
         {
             "name": "Advanced Price Analysis",
-            "number": "9220",
+            "number": "AG_EC 9220",
             "description": "Applies economic theory and quantitative methods to analyze agricultural price issues. Examines problem formulation, estimation, and model evaluation applied to demand and supply situations.",
             "prerequisites": "ECONOM 8451 or ECONOM 8472; STAT 4510",
             "hours": "3",
@@ -984,7 +1007,7 @@
         },
         {
             "name": "Welfare and Consumption Economics",
-            "number": "9230",
+            "number": "AG_EC 9230",
             "description": "Introduces welfare economic principles; application to problems of resource allocation. Appraises economic policies, programs; consumers' choice; measurement of consumption; living standards; household decisions and markets relation.",
             "prerequisites": "ECONOM 8451 or instructor's consent",
             "hours": "3",
@@ -995,7 +1018,7 @@
         },
         {
             "name": "Food, Agricultural and Rural Policy",
-            "number": "9265",
+            "number": "AG_EC 9265",
             "description": "Application of welfare economics theory to food, agricultural and rural development policy analysis.  Historical perspective and economics analysis of contemporary issues in national and international policy and institutions.",
             "prerequisites": "ECONOM 7351 and AG_EC 9230",
             "hours": "3",
@@ -1007,7 +1030,7 @@
         },
         {
             "name": "Regional Economic Theory and Methods",
-            "number": "9320",
+            "number": "AG_EC 9320",
             "description": "Theory of spatial economics: Central place theory, spatial labor markets, location theory, social accounting matrices, input-output, computable general equilibrium, geographic information systems and regional econometric models.",
             "prerequisites": "ECONOM 7351, ECONOM 7353, and matrix algebra",
             "hours": "3",
@@ -1019,7 +1042,7 @@
         },
         {
             "name": "Econometrics I",
-            "number": "9475",
+            "number": "AG_EC 9475",
             "description": "Emphasis is given to special estimation problems which occur in integrating the theory with various types of economic data.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1028,7 +1051,7 @@
         },
         {
             "name": "Econometrics II",
-            "number": "9476",
+            "number": "AG_EC 9476",
             "description": "(same as ECONOM 9476).",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -1037,7 +1060,7 @@
         },
         {
             "name": "Economics of Agribusiness Firm",
-            "number": "9510",
+            "number": "AG_EC 9510",
             "description": "This course builds on transaction cost-based theories and tools to study the economic underpinnings of intra-firm organization, firm boundaries, and the structure of inter-firm transactions.",
             "prerequisites": "AG_EC 8050",
             "hours": "3",
@@ -1048,7 +1071,7 @@
         },
         {
             "name": "Economics of Agribusiness Markets",
-            "number": "9520",
+            "number": "AG_EC 9520",
             "description": "Relationships of neoclassical and new institutional economics to designing organizational strategy and structure. Internal coordination and structure, organizational boundaries, and competitiveness and sustainability of food system organizations.",
             "prerequisites": "AG_EC 8050",
             "hours": "3",

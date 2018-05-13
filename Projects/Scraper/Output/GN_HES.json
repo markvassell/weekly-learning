@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introduction to Human Environmental Sciences",
-            "number": "1100",
+            "number": "GN_HES 1100",
             "description": "Introduction to Human Environmental Sciences",
             "prerequisites": "None Listed",
             "hours": "1",

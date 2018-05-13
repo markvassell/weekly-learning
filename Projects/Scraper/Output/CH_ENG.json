@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introduction to Chemical Engineering",
-            "number": "1000",
+            "number": "CH_ENG 1000",
             "description": "Orientation course for freshmen-level students. Introduction to careers and opportunities in chemical engineering, basic engineering principles, simple calculations.",
             "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: MATH 1500, CHEM 1320",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Introduction to Chemical Engineering - Honors",
-            "number": "1000H",
+            "number": "CH_ENG 1000H",
             "description": "Orientation course for freshmen-level students. Introduction to careers and opportunities in chemical engineering, basic engineering principles, simple calculations.",
             "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: MATH 1500, CHEM 1320.  Honors eligibility required",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Chemistry and Chemical Technology I",
-            "number": "1320",
+            "number": "CH_ENG 1320",
             "description": "Covers fundamental principals of chemistry, gases, engineering materials, electrochemistry, and applications with instruction including numerical modeling.  Graded on A/F basis only. May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: MATH 1500",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Chemistry and Chemical Technology II",
-            "number": "1330",
+            "number": "CH_ENG 1330",
             "description": "Covers fundamentals principals of chemistry, gases, engineering materials, electrochemistry, and applications with instruction including numerical modeling.  May be repeated for credit.  Graded on A/F basis only.",
             "prerequisites": "CH_ENG 1320 or CHEM 1320 and MATH 1500Corequisites: MATH 1500",
             "hours": "3",
@@ -45,7 +45,7 @@
         },
         {
             "name": "Advanced Experimental Course",
-            "number": "2001",
+            "number": "CH_ENG 2001",
             "description": "Content and number of credit hours to be listed in Schedule of Courses.",
             "prerequisites": "sophomore standing",
             "hours": "1-99",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Introduction to Energy Technology and Sustainability",
-            "number": "2118",
+            "number": "CH_ENG 2118",
             "description": "An introductory course on energy technology and those resources and practices that allow for sustainable commercialization. Graded on A-F basis only.",
             "prerequisites": "sophomore standing in engineering",
             "hours": "3",
@@ -63,7 +63,7 @@
         },
         {
             "name": "Mass and Energy Balance",
-            "number": "2225",
+            "number": "CH_ENG 2225",
             "description": "Industrial stoichiometry, material and energy balances, thermophysics, thermochemistry; related topics.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: PHYSCS 2750, CHEM 2100",
@@ -72,7 +72,7 @@
         },
         {
             "name": "Engineering Process Computations and Laboratory",
-            "number": "2226",
+            "number": "CH_ENG 2226",
             "description": "Introduction to the effective use of computer software with emphasis on chemical engineering applications, which include solutions for systems of algebraic equations using matrix methods;   solutions of ordinary differential equations and partial differential equations and visualization of those solutions; linear, multilinear, and nonlinear regression for data analysis; 2D and 3D plotting, symbolic calculations, process control simulations, and text processing.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: MATH 1700, CH_ENG 2225",
@@ -81,7 +81,7 @@
         },
         {
             "name": "Principles of Chemical Engineering I",
-            "number": "3234",
+            "number": "CH_ENG 3234",
             "description": "Fluid flow, heat and mass transfer. A comprehensive treatment of the transport processes related to chemical engineering operations, with focus on both theory and applications.",
             "prerequisites": "grade of C- or better in CH_ENG 2225",
             "hours": "4",
@@ -92,7 +92,7 @@
         },
         {
             "name": "Principles of Chemical Engineering II",
-            "number": "3235",
+            "number": "CH_ENG 3235",
             "description": "Separation processes in chemical engineering, including: Evaporation, absorption, distillation, extraction, leaching, membrane separation, and drying.",
             "prerequisites": "CH_ENG 3234",
             "hours": "3",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Chemical Engineering Laboratory I",
-            "number": "3243",
+            "number": "CH_ENG 3243",
             "description": "Laboratory study of some principal unit operations of chemical engineering.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: CH_ENG 2226 and CH_ENG 3235",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Chemical Engineering Laboratory I - Writing Intensive",
-            "number": "3243W",
+            "number": "CH_ENG 3243W",
             "description": "Laboratory study of some principal unit operations of chemical engineering.",
             "prerequisites": "None Listed",
             "hours": "3Prerequisites or Corequisites: CH_ENG 2226 and CH_ENG 3235",
@@ -121,7 +121,7 @@
         },
         {
             "name": "Chemical Engineering Thermodynamics I",
-            "number": "3261",
+            "number": "CH_ENG 3261",
             "description": "Study of thermodynamics, with particular reference to chemical engineering applications.",
             "prerequisites": "grade of C or better in CH_ENG 2225",
             "hours": "3",
@@ -132,7 +132,7 @@
         },
         {
             "name": "Chemical Engineering Thermodynamics II",
-            "number": "3262",
+            "number": "CH_ENG 3262",
             "description": "Chemical thermodynamics, with emphasis on mixtures. Multicomponent systems and phase diagrams; excess properties; chemical potential, fugacity, and activity; models of non-ideal mixtures; phase and surface equilibria; chemical reaction equilibria.",
             "prerequisites": "CH_ENG 3261, MATH 2300",
             "hours": "3PrerequisitesorCorequisites:CHEM 2110",
@@ -144,7 +144,7 @@
         },
         {
             "name": "Chemical Process Safety and Professional Ethics",
-            "number": "3307",
+            "number": "CH_ENG 3307",
             "description": "A course focused on important technical fundamentals of chemical process safety and their application including professional ethics considerations. Graded on A-F basis only.",
             "prerequisites": "CH_ENG 3234, CH_ENG 3261 or instructor's consent",
             "hours": "3",
@@ -156,7 +156,7 @@
         },
         {
             "name": "Topics in Chemical Engineering",
-            "number": "4001",
+            "number": "CH_ENG 4001",
             "description": "Current and new technical developments in chemical engineering.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -165,7 +165,7 @@
         },
         {
             "name": "Problems in Chemical Engineering",
-            "number": "4085",
+            "number": "CH_ENG 4085",
             "description": "Directed study of chemical engineering problems.",
             "prerequisites": "instructor's consent",
             "hours": "2-4",
@@ -174,7 +174,7 @@
         },
         {
             "name": "Hazardous Waste Management",
-            "number": "4220",
+            "number": "CH_ENG 4220",
             "description": "(same as CV_ENG 4220; cross-leveled with CH_ENG 7220, CV_ENG 7220). Engineering principles involved in handling, collection, transportation, processing and disposal of hazardous waste, waste minimization, legislation on hazardous wastes and groundwater contamination.",
             "prerequisites": "junior standing",
             "hours": "3",
@@ -183,7 +183,7 @@
         },
         {
             "name": "Engineering Research Calculations and Reporting",
-            "number": "4226",
+            "number": "CH_ENG 4226",
             "description": "(cross-leveled with CH_ENG 7226). Application and analysis of engineering calculations in MS Excel, Matlab, and project-specific software including applications of calculus, experiential learning, and supervised research. Must have research advisor define at least one experiment and review at least one report.  Graded on A-F basis only.",
             "prerequisites": "MATH 4100",
             "hours": "3",
@@ -194,7 +194,7 @@
         },
         {
             "name": "Design of Experiments and Statistical Quality Control for Process Engineers",
-            "number": "4270",
+            "number": "CH_ENG 4270",
             "description": "(same as BIOL_EN 4270; cross-leveled with CH_ENG 7270, BIOL_EN 7270).  A practical statistical tool box for experimenters:  process means, effects of variables, factorial experiments, and statistical quality control.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -203,7 +203,7 @@
         },
         {
             "name": "Pollution Prevention",
-            "number": "4285",
+            "number": "CH_ENG 4285",
             "description": "Identify, analyze, and solve energy, water, and raw materials inefficiencies common to industrial processes and facilities. Graded on A-F basis only.",
             "prerequisites": "CHEM 1320, ENGINR 2300 or CH_ENG 3261, MATH 2300, and PHYSCS 2760",
             "hours": "3",
@@ -218,7 +218,7 @@
         },
         {
             "name": "Advanced Engineering Math",
-            "number": "4306",
+            "number": "CH_ENG 4306",
             "description": "(same as NU_ENG 4306). Applies ordinary and partial differential equations to engineering problems; Fourier's series; determinants and matrices; Laplace transforms; analog computer techniques.",
             "prerequisites": "MATH 4100",
             "hours": "3",
@@ -229,7 +229,7 @@
         },
         {
             "name": "Chemodynamics",
-            "number": "4311",
+            "number": "CH_ENG 4311",
             "description": "(cross-leveled with CH_ENG 7311). Environmental movement of chemicals in air, water, and soil; designed to introduce students to the basic principles and techniques useful for the prediction of the movement and fate chemicals in ecosystems.",
             "prerequisites": "CH_ENG 3234 or instructor's consent",
             "hours": "3",
@@ -240,7 +240,7 @@
         },
         {
             "name": "Air Pollution Control",
-            "number": "4312",
+            "number": "CH_ENG 4312",
             "description": "(cross-leveled with CH_ENG 7312). Modeling of urban air pollution and control techniques. Topics treated are plume dispersion theories, photochemistry, methods of monitoring, methods of industrial abatement and legal aspects.",
             "prerequisites": "CH_ENG 3234 or instructor's consent",
             "hours": "3",
@@ -251,7 +251,7 @@
         },
         {
             "name": "Introduction to Bioprocess Engineering",
-            "number": "4315",
+            "number": "CH_ENG 4315",
             "description": "(same as BIOL_EN 4315; cross-leveled with CH_ENG 7315, BIOL_EN 7315).  This general introduction to bioprocess engineering covers the fundamentals of microbiology and biochemistry in the context of a biomass refinery.  Analyses proceed through the use of mass balances, energy balances, and empirical or theoretical models.",
             "prerequisites": "BIOL_EN 2180 (for Biological Engineering students) or CH_ENG 2225 (for Chemical Engineering students) or instructor's consent",
             "hours": "3",
@@ -263,7 +263,7 @@
         },
         {
             "name": "Biomass Refinery Operations",
-            "number": "4316",
+            "number": "CH_ENG 4316",
             "description": "(same as BIOL_EN 4316; cross-leveled with CH_ENG 7316, BIOL_EN 4316).  Design and operation of processes for conversion and/or fractionation of biomass and associated upstream and downstream unit operations.  Emphasis on separations and product recovery.",
             "prerequisites": "BIOL_EN 2180 (for Biological Engineering students) or CH_ENG 2225 (for Chemical Engineering students) or  instructor's consent",
             "hours": "3",
@@ -275,7 +275,7 @@
         },
         {
             "name": "Chemical Processing in Semiconductor Device",
-            "number": "4317",
+            "number": "CH_ENG 4317",
             "description": "(cross-leveled with CH_ENG 7317). This course covers the current plasma processing methods used to produce semiconductor devices with emphasis on memory devices. The physics and chemistry of how plasmas are formed, sustained and interact with the semiconductor wafers being processed. Plasma chemistry and the chemical reactions used in plasma etching are discussed.",
             "prerequisites": "MATH 4100 or MATH 7100",
             "hours": "3",
@@ -287,7 +287,7 @@
         },
         {
             "name": "Energy Technology and Sustainability",
-            "number": "4318",
+            "number": "CH_ENG 4318",
             "description": "An introductory course on energy technology, resources, practices, and common calculations used for energy analysis. May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -296,7 +296,7 @@
         },
         {
             "name": "Introduction to Polymer Materials",
-            "number": "4319",
+            "number": "CH_ENG 4319",
             "description": "(cross-leveled with CH_ENG 7319). An introduction to the structure and properties of polymers. Solution properties, molecular weight determination and rheological behavior are studied. Manufacturing and processing techniques are considered.",
             "prerequisites": "CH_ENG 3262 and CHEM 2110",
             "hours": "3",
@@ -308,7 +308,7 @@
         },
         {
             "name": "Introduction to Ceramics",
-            "number": "4321",
+            "number": "CH_ENG 4321",
             "description": "(cross-leveled with CH_ENG 7321). Introductory course in ceramics materials, crystal structure, processes and properties.  The course content and level of presentation would allow an entry level engineering to be conversant with the terminology and concepts of ceramic science and engineering.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -317,7 +317,7 @@
         },
         {
             "name": "Transport Phenomena",
-            "number": "4335",
+            "number": "CH_ENG 4335",
             "description": "(cross-leveled with CH_ENG 7335). Integrated study of momentum, heat and mass transport.",
             "prerequisites": "CH_ENG 3235, and MATH 4100 or MATH 7100",
             "hours": "3",
@@ -330,7 +330,7 @@
         },
         {
             "name": "Special Reading in Chemical Engineering",
-            "number": "4345",
+            "number": "CH_ENG 4345",
             "description": "Individually supervised special reading leading to an engineering report.",
             "prerequisites": "senior standing",
             "hours": "2-5",
@@ -339,7 +339,7 @@
         },
         {
             "name": "Chemical Reaction Engineering and Technology",
-            "number": "4363",
+            "number": "CH_ENG 4363",
             "description": "Reactor design and optimization; rate equations; thermal effects in reactor.",
             "prerequisites": "CH_ENG 2226, CH_ENG 3262, or instructor's consent",
             "hours": "3",
@@ -351,7 +351,7 @@
         },
         {
             "name": "Process Control Methods and Laboratory",
-            "number": "4370",
+            "number": "CH_ENG 4370",
             "description": "State-space modeling, simulation, and experimental validation; stability analysis; feedback design and experimental studies; methods for disturbance rejection.",
             "prerequisites": "CH_ENG 2226",
             "hours": "3",
@@ -362,7 +362,7 @@
         },
         {
             "name": "Chemical Engineering Design I",
-            "number": "4385",
+            "number": "CH_ENG 4385",
             "description": "The course presents optimum design methods, cost estimation, material selection and other relevant areas for the design of chemical plants. In addition, chemical safety and risk assessment will be covered.",
             "prerequisites": "CH_ENG 2226, CH_ENG 3235, CH_ENG 3262, PHYSCS 2760, CHEM 2110",
             "hours": "3",
@@ -377,7 +377,7 @@
         },
         {
             "name": "Electrochemical Reaction Engineering Science",
-            "number": "4464",
+            "number": "CH_ENG 4464",
             "description": "(cross-leveled with CH_ENG 7464). Phenomenological behavior of electrochemical processes (battery emphasis).  Theoretical interpretations of diffusion and reaction processes including system modeling.  Graded on A-F basis only.",
             "prerequisites": "CH_ENG 3261 or MAE 2300 or CHEM 3310 or instructor's consent",
             "hours": "3",
@@ -390,7 +390,7 @@
         },
         {
             "name": "Process Synthesis and Design",
-            "number": "4980",
+            "number": "CH_ENG 4980",
             "description": "(cross-leveled with CH_ENG 7980). Continuation of CH_ENG 4385: application of chemical analysis and modeling to a capstone design project.",
             "prerequisites": "CH_ENG 4363, CH_ENG 4385",
             "hours": "3",
@@ -402,7 +402,7 @@
         },
         {
             "name": "Process Synthesis and Design - Writing Intensive",
-            "number": "4980W",
+            "number": "CH_ENG 4980W",
             "description": "(cross-leveled with CH_ENG 7980). Continuation of CH_ENG 4385: application of chemical analysis and modeling to a capstone design project.",
             "prerequisites": "CH_ENG 4363, CH_ENG 4385",
             "hours": "3",
@@ -414,7 +414,7 @@
         },
         {
             "name": "Undergraduate Research in Chemical Engineering",
-            "number": "4990",
+            "number": "CH_ENG 4990",
             "description": "Directed study of chemical engineering problems.",
             "prerequisites": "instructor's consent",
             "hours": "2-4",
@@ -423,7 +423,7 @@
         },
         {
             "name": "Undergraduate Research in Chemical Engineering - Honors",
-            "number": "4995",
+            "number": "CH_ENG 4995",
             "description": "Individual research for a senior thesis; research is supervised by the chemical engineering faculty. The thesis is to be defended before the departmental Honors committee.",
             "prerequisites": "senior standing",
             "hours": "3-6",
@@ -432,7 +432,7 @@
         },
         {
             "name": "Topics in Chemical Engineering",
-            "number": "7001",
+            "number": "CH_ENG 7001",
             "description": "Current and new technical developments in chemical engineering.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -441,7 +441,7 @@
         },
         {
             "name": "Hazardous Waste Management",
-            "number": "7220",
+            "number": "CH_ENG 7220",
             "description": "(same as CV_ENG 7220; cross-leveled with CH_ENG 4220, CV_ENG 4220). Engineering principles involved in handling, collection transportation, processing and disposal of hazardous waste minimization, legislation on hazardous wastes and groundwater contamination.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -450,7 +450,7 @@
         },
         {
             "name": "Engineering Research Calculations and Reporting",
-            "number": "7226",
+            "number": "CH_ENG 7226",
             "description": "(cross_leveled with CH_ENG 4226). Application and analysis of engineering calculations in MS Excel, Matlab, and project-specific software including applications of calculus, experiential learning, and supervised research. Must have research advisor define at least one experiment and review at least one report. Graded on A-F basis only.",
             "prerequisites": "MATH 4100",
             "hours": "3",
@@ -461,7 +461,7 @@
         },
         {
             "name": "Design of Experiments and Statistical Quality Control for Process Engineers",
-            "number": "7270",
+            "number": "CH_ENG 7270",
             "description": "(same as BIOL_EN 7270; cross-leveled with CH_ENG 4270, BIOL_EN 4270).  A practical statistical tool box for experimenters:  process means, effects of variables, factorial experiments, and statistical quality control.",
             "prerequisites": "experience with Excel or instructor's consent",
             "hours": "3",
@@ -470,7 +470,7 @@
         },
         {
             "name": "Chemodynamics",
-            "number": "7311",
+            "number": "CH_ENG 7311",
             "description": "(cross-leveled with CH_ENG 4311). Environmental movement of chemicals in air, water, and soil; designed to introduce students to the basic principles and techniques useful for the prediction of the movement and fate chemicals in ecosystems.",
             "prerequisites": "CH_ENG 3234 or instructor's consent",
             "hours": "3",
@@ -481,7 +481,7 @@
         },
         {
             "name": "Air Pollution Control",
-            "number": "7312",
+            "number": "CH_ENG 7312",
             "description": "(cross-leveled with CH_ENG 4312). Modeling of urban air pollution and control techniques. Topics treated are plume dispersion theories, photochemistry, methods of monitoring, methods of industrial abatement and legal aspects.",
             "prerequisites": "CH_ENG 3234 or instructor's consent",
             "hours": "3",
@@ -492,7 +492,7 @@
         },
         {
             "name": "Introduction to Bioprocess Engineering",
-            "number": "7315",
+            "number": "CH_ENG 7315",
             "description": "(same as BIOL_EN 7315; cross-leveled with CH_ENG 4315, BIOL_EN 4315). This General introduction to bioprocess engineering covers the fundamentals of microbiology and biochemistry in the context of a biomass refinery.  Analysis proceed through the use of mass balances, energy balances, and empirical or theoretical models.",
             "prerequisites": "BIOL_EN 2180 (for biological engineering students) or CH_ENG 2225 (for chemical engineering students) or instructor's consent",
             "hours": "3",
@@ -504,7 +504,7 @@
         },
         {
             "name": "Biomass Refinery Operation",
-            "number": "7316",
+            "number": "CH_ENG 7316",
             "description": "(same as BIOL_EN 7316; cross-leveled with CH_ENG 4316, BIOL_EN 4316).  Design and operation of processes for conversion and/or fractionation of biomass and associated upstream and downstream unit operations.  Emphasis on separations and product recovery.",
             "prerequisites": "BIOL_EN 2180 or CH_ENG 2225 or instructor's consent",
             "hours": "3",
@@ -516,7 +516,7 @@
         },
         {
             "name": "Chemical Processing in Semiconductor Device",
-            "number": "7317",
+            "number": "CH_ENG 7317",
             "description": "(cross-leveled with CH_ENG 4317). This course covers the current plasma processing methods used to produce semiconductor devices with emphasis on memory devices. The physics and chemistry of how plasmas are formed, sustained and interact with the semiconductor wafers being processed. Plasma chemistry and the chemical reactions used in plasma etching are discussed.",
             "prerequisites": "MATH 4100 or MATH 7100",
             "hours": "3",
@@ -528,7 +528,7 @@
         },
         {
             "name": "Introduction to Polymer Materials",
-            "number": "7319",
+            "number": "CH_ENG 7319",
             "description": "(cross-leveled with CH_ENG 7319). An introduction to the structure and properties of polymers. Solution properties, molecular weight determination and rheological behavior are studied. Manufacturing and processing techniques are considered.",
             "prerequisites": "CH_ENG 3262 and CHEM 2110",
             "hours": "3",
@@ -540,7 +540,7 @@
         },
         {
             "name": "Introduction to Ceramic Material",
-            "number": "7321",
+            "number": "CH_ENG 7321",
             "description": "(cross-leveled with CH_ENG 4321). Introductory course in ceramics materials, crystal structure, processes and properties.  The course content and level of presentation would allow an entry-level engineer to be conversant with the terminology and concepts of ceramics science and engineering.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -549,7 +549,7 @@
         },
         {
             "name": "Transport Phenomena",
-            "number": "7335",
+            "number": "CH_ENG 7335",
             "description": "(cross-leveled with CH_ENG 4335). Integrated study of momentum, heat and mass transport.",
             "prerequisites": "CH_ENG 3235, and MATH 4100 or MATH 7100",
             "hours": "3",
@@ -562,7 +562,7 @@
         },
         {
             "name": "Electrochemical Reaction Engineering Science",
-            "number": "7464",
+            "number": "CH_ENG 7464",
             "description": "(cross-leveled with CH_ENG 4464). Phenomenological behavior of electrochemical processes (battery emphasis).  Theoretical interpretations of diffusion and reaction processes including system modeling.  Graded on A-F basis only.",
             "prerequisites": "CH_ENG 3261 or MAE 2300 or CHEM 3310 or instructor's consent",
             "hours": "3",
@@ -575,7 +575,7 @@
         },
         {
             "name": "Synthesis and Design of Chemical Process",
-            "number": "7980",
+            "number": "CH_ENG 7980",
             "description": "(cross-leveled with CH_ENG 4980). This is a heuristics-based design course intended to assist students in bringing together capabilities from previous course.  An emphasis is placed on the creation process of design.  Graded on A-F basis only.  ",
             "prerequisites": " CH_ENG 4363, CH_ENG 4385",
             "hours": ": 3",
@@ -587,7 +587,7 @@
         },
         {
             "name": "Advanced Topics in Chemical Engineering",
-            "number": "8001",
+            "number": "CH_ENG 8001",
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -596,7 +596,7 @@
         },
         {
             "name": "Advanced Plasma Processing",
-            "number": "8029",
+            "number": "CH_ENG 8029",
             "description": "Concepts and techniques in novel plasma processing: plasma characteristics, plasma sputtering, plasma enhanced chemical vapor deposition (PECVD), plasma etching, plasma treatment, plasma fabrication of nano-structured materials and diamondlike films, biomedical applications.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -605,7 +605,7 @@
         },
         {
             "name": "Problems in Chemical Engineering",
-            "number": "8085",
+            "number": "CH_ENG 8085",
             "description": "Supervised investigation in chemical engineering to be presented in the form of a report.",
             "prerequisites": "instructor's consent",
             "hours": "1-5",
@@ -614,7 +614,7 @@
         },
         {
             "name": "Seminar in Chemical Engineering",
-            "number": "8087",
+            "number": "CH_ENG 8087",
             "description": "Reviews investigations and projects of importance in chemical engineering.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -623,7 +623,7 @@
         },
         {
             "name": "Advanced Ceramic Materials",
-            "number": "8230",
+            "number": "CH_ENG 8230",
             "description": "(same as BIOL_EN 8230 and MAE 8230). To provide an advanced level understanding between processing, properties, and microstructure of ceramic materials.  Topics include crystallography, defect chemistry, transport properties, microstructure, and forming methods.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -632,7 +632,7 @@
         },
         {
             "name": "Plasma Polymerization",
-            "number": "8320",
+            "number": "CH_ENG 8320",
             "description": "Fundamental aspects of polymer formation in plasma state: gas ionization, reaction kinetics, plasma characteristics and operational parameters of plasma reactors. Properties of plasma - synthesized ultrathin films and their utilization also discussed.",
             "prerequisites": "CH_ENG 4319 or instructor's consent",
             "hours": "3",
@@ -643,7 +643,7 @@
         },
         {
             "name": "Advanced Heat and Momentum Transfer",
-            "number": "8336",
+            "number": "CH_ENG 8336",
             "description": "Advanced study of these transport phenomena.",
             "prerequisites": "CH_ENG 3235 or instructor's consent",
             "hours": "3",
@@ -654,7 +654,7 @@
         },
         {
             "name": "Advanced Mass Transfer",
-            "number": "8337",
+            "number": "CH_ENG 8337",
             "description": "Advanced study of mass transfer.",
             "prerequisites": "CH_ENG 4336 or instructor's consent",
             "hours": "3",
@@ -665,7 +665,7 @@
         },
         {
             "name": "Analysis of Equilibrium Stage Processes",
-            "number": "8338",
+            "number": "CH_ENG 8338",
             "description": "Advanced study of stage processes.",
             "prerequisites": "CH_ENG 2226, CH_ENG 3235 and CH_ENG 3262",
             "hours": "3",
@@ -678,7 +678,7 @@
         },
         {
             "name": "Membranes and Membrane Processes",
-            "number": "8429",
+            "number": "CH_ENG 8429",
             "description": "Thermodynamics and mass transfer of membrane separation processes; Concentration-Driven Processes; Pressure-Driven Processes; Electromembrane Processes; Biological Membrane Processes; Membrane Polymers; Preparation of Membranes; Membrane Separation Application (potable and ultrapure water, effluent treatment, gas separations, electrochemistry, dialysis therapeutic, and other applications).",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -687,7 +687,7 @@
         },
         {
             "name": "Advanced Chemical Engineering Thermodynamics I",
-            "number": "8451",
+            "number": "CH_ENG 8451",
             "description": "Advanced thermodynamics; particular reference to its application to chemical engineering.",
             "prerequisites": "CH_ENG 3262 or instructor's consent",
             "hours": "3",
@@ -698,7 +698,7 @@
         },
         {
             "name": "Advanced Chemical Engineering Thermodynamics II",
-            "number": "8452",
+            "number": "CH_ENG 8452",
             "description": "Introduction to the methods of statistical thermodynamics and statistical mechanics.  The method of ensembles, Maxwell-Boltzmann statistics, the kinetic theory of gases, and theories of liquids.  Applications of statistical mechanics to the prediction of physical and chemical properties such as rate coefficients, diffusion coefficients, and conductivities.  Graded A-F only.",
             "prerequisites": "CH_ENG 8451 or instructor's consent",
             "hours": "3",
@@ -709,7 +709,7 @@
         },
         {
             "name": "Chemical Reaction Engineering Science",
-            "number": "8463",
+            "number": "CH_ENG 8463",
             "description": "Phenomenological behavior of catalysts. Theoretical interpretations for heterogeneous and homogeneous catalysts.",
             "prerequisites": "CH_ENG 4363",
             "hours": "3",
@@ -720,7 +720,7 @@
         },
         {
             "name": "Process Optimization Methods in Chemical Engineering",
-            "number": "8471",
+            "number": "CH_ENG 8471",
             "description": "Steady-state and unsteady-state optimization techniques applied to chemical processes.",
             "prerequisites": "CH_ENG 2226",
             "hours": "3",
@@ -731,7 +731,7 @@
         },
         {
             "name": "Research-Masters Thesis in Chemical Engineering",
-            "number": "8990",
+            "number": "CH_ENG 8990",
             "description": "Independent investigation in chemical engineering, to be presented as a thesis. Graded on a S/U basis only.",
             "prerequisites": "Masters candidate",
             "hours": "1-99",
@@ -740,7 +740,7 @@
         },
         {
             "name": "Research-Doctoral Dissertation in Chemical Engineering",
-            "number": "9990",
+            "number": "CH_ENG 9990",
             "description": "Independent investigation in chemical engineering, to be presented as a thesis. Graded on a S/U basis only.  candidate",
             "prerequisites": "Ph.D",
             "hours": "1-99",

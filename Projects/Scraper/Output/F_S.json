@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introduction to Viticulture and Enology",
-            "number": "1010",
+            "number": "F_S 1010",
             "description": "This course will give a general overview of growing grapes (viticulture) and winemaking (enology) with an emphasis on Missouri wines and wineries.  This course is the first course in a sequence of courses in the viticulture and enology track of the food science degree program.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Food Science and Nutrition",
-            "number": "1030",
+            "number": "F_S 1030",
             "description": "Basic principles of science and technology as applied to the problem of providing safe, nutritious, and desirable food for man.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Live Animal and Meat Evaluation",
-            "number": "2114",
+            "number": "F_S 2114",
             "description": "(same as AN_SCI 2114). The composition and quality meat produced from food animals is the driving component of livestock economic value. This course will teach the principles and procedures involved in evaluation, grading, selection, and economic value of meat animals and poultry and the carcasses they produce. This course is an excellent introduction and (or) prerequisite for all livestock production courses and will provide a baseline of information for students interested in livestock or meat judging.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Dairy Products Evaluation",
-            "number": "2131",
+            "number": "F_S 2131",
             "description": "(same as AN_SCI 2131). Sensory Evaluation and judging of dairy products.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Elements of Food Microbiology",
-            "number": "2172",
+            "number": "F_S 2172",
             "description": "Introductory microbiology course stressing basic principles as related to foods.",
             "prerequisites": "Sophomore standing. Restricted to Food Science Students during Early Registration",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Grapes and Wines of the World",
-            "number": "2195",
+            "number": "F_S 2195",
             "description": "(same as PLNT_S 2195).  Explores the world of wine through study of viticultural principles and practices, wine styles, classifying wine, the winemaking process and New World and Old World wine regions. Learn wine tasting skills and experience wines from around the world. World wine consumption, social and physical health benefits of moderate wine consumption.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Seminar in Professional Development",
-            "number": "2199",
+            "number": "F_S 2199",
             "description": "Readings and discussion related to professional development for the industry.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Study Abroad: International Meat, Dairy and Enology",
-            "number": "3190",
+            "number": "F_S 3190",
             "description": "(same as AN_SCI 3190). This study abroad course introduces students to the meat, dairy and wine industries in Germany or in New Zealand (destinations are on a rotational basis).  Students will visit small, medium and large-scale producers and learn about differences in comparison to the US industries. May be repeated once for credit.  ",
             "prerequisites": " instructor's consent",
             "hours": ": 3",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Study Abroad: International Meat, Dairy and Enology - Honors",
-            "number": "3190H",
+            "number": "F_S 3190H",
             "description": "(same as AN_SCI 3190). This study abroad course introduces students to the meat, dairy and wine industries in Germany or in New Zealand (destinations are on a rotational basis).  Students will visit small, medium and large-scale producers and learn about differences in comparison to the US industries. May be repeated once for credit. Enrollment is limited to Honors eligible students.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Kitchen Chemistry",
-            "number": "3210",
+            "number": "F_S 3210",
             "description": "This course is targeted at current Food Science, Hospitality Management, Nutrition or Biochemistry students who wish to study the application of scientific principles to the practice of cooking. This on-line summer class assumes students have access to a working kitchen. Video cooking projects are submitted weekly. Graded on A-F basis only.",
             "prerequisites": "CHEM 1100 or higher",
             "hours": "3",
@@ -96,7 +96,7 @@
         },
         {
             "name": "Principles of Meat Science",
-            "number": "3214",
+            "number": "F_S 3214",
             "description": "(same as AN_SCI 3214). Study of the principles involved in the conversion of living animals to meat and by-products; efficient utilization of meat as a food.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -105,7 +105,7 @@
         },
         {
             "name": "Principles of Dairy Foods Science",
-            "number": "3231",
+            "number": "F_S 3231",
             "description": "(same as AN_SCI 3231). Technology, chemistry and microbiology related to milk and its transformation into fluid milk products, fermented dairy foods and spreads. (2 hours of lecture and two hours of laboratory per week.)",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Principles of Viticulture I",
-            "number": "3240",
+            "number": "F_S 3240",
             "description": "(same as PLNT_S 3240). Grapevine growth, development, selection, propagation, training systems, pruning, and harvesting; vineyard site selection, design, and development. Graded on A-F basis only.  ",
             "prerequisites": " F_S 1010 and one of the following: F_S 2195 or PLNT_S 2195 or PLNT_S 2100 or SOIL 2100 or PLNT_S 2110 or PLNT_S 2125.",
             "hours": ": 4",
@@ -131,7 +131,7 @@
         },
         {
             "name": "Physical Principles for Food Processing",
-            "number": "3250",
+            "number": "F_S 3250",
             "description": "Introduction to basic engineering concepts used to process raw materials: Energy balance, Pipe flow, Viscosity, Heat exchange, Refrigeration.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -140,7 +140,7 @@
         },
         {
             "name": "Problems in Food Science",
-            "number": "3385",
+            "number": "F_S 3385",
             "description": "Supervised study in a specialized phase of food science and nutrition.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -149,7 +149,7 @@
         },
         {
             "name": "Food Industry Senior Seminar",
-            "number": "4199",
+            "number": "F_S 4199",
             "description": "The course explores the structure and the various branches of the food industry.  Emphasis is placed on industry trends and the manufacture of specific selected food products and their ingredients. Graded on A-F basis only.",
             "prerequisites": "F_S 1030 or equivalent, F_S 2199 or equivalent; junior or senior standing",
             "hours": "1",
@@ -161,7 +161,7 @@
         },
         {
             "name": "Topics in Food Science",
-            "number": "4301",
+            "number": "F_S 4301",
             "description": "Instruction in specific subject matter areas in the field of food science and nutrition.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -170,7 +170,7 @@
         },
         {
             "name": "Food Chemistry and Analysis",
-            "number": "4310",
+            "number": "F_S 4310",
             "description": "(cross-leveled with F_S 7310).  Structure, composition and chemical properties of food.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -179,16 +179,18 @@
         },
         {
             "name": "Investigation of Food Properties",
-            "number": "4311",
+            "number": "F_S 4311",
             "description": "(cross-leveled with F_S 7311). Study of the chemical and physical properties of foods and the interaction of food components.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "F_S 4310 or equivalent, or instructor's consent",
-            "connections": "None Listed"
+            "connections": [
+                "F_S 4310"
+            ]
         },
         {
             "name": "Food Chemistry and Analysis Laboratory",
-            "number": "4315",
+            "number": "F_S 4315",
             "description": "(cross-leveled with F_S 7315)The quantitative determination of the constituents of food.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -197,7 +199,7 @@
         },
         {
             "name": "Food Chemistry and Analysis Laboratory - Writing Intensive",
-            "number": "4315W",
+            "number": "F_S 4315W",
             "description": "(cross-leveled with F_S 7315). The quantitative determination of the constituents of food.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -206,7 +208,7 @@
         },
         {
             "name": "Principles of Food Processing",
-            "number": "4330",
+            "number": "F_S 4330",
             "description": "(same as AG_S_M 4330; cross-leveled with F_S 7330, AG_S_M 7330). Introduction to basic engineering concepts used to process raw materials. Principle topics include energy, material balance, fluid flow, heat transfer, refrigeration and freezing, and preservation.",
             "prerequisites": "MATH 1100 and AG_S_M 1040 or PHYSCS 1210",
             "hours": "3",
@@ -219,7 +221,7 @@
         },
         {
             "name": "Technology of Dairy Products and Ingredients",
-            "number": "4331",
+            "number": "F_S 4331",
             "description": "(cross-leveled with F_S 7331). Technology, chemistry, and nutrition of dairy foods as well as functional properties of dairy ingredients.",
             "prerequisites": "F_S 3231 or equivalent",
             "hours": "3",
@@ -230,7 +232,7 @@
         },
         {
             "name": "Principles of Viticulture II",
-            "number": "4340",
+            "number": "F_S 4340",
             "description": "(same as PLNT_S 4340). Environmental and biological factors influencing vine physiology and winegrape quality.  Irrigation, canopy management, pest and disease control, budgets and current trends in viticulture. Graded on A-F basis only.",
             "prerequisites": "F_S 3240 or PLNT_S 3240",
             "hours": "4",
@@ -242,7 +244,7 @@
         },
         {
             "name": "Processing Muscle Foods",
-            "number": "4344",
+            "number": "F_S 4344",
             "description": "(same as  AN_SCI 4344; cross-leveled with F_S 7344, AN_SCI 7344). Materials and technologies for the manufacture of muscle food products from red meats, poultry and seafood. Experience problem-solving through further processing of complex ingredients and develop skills by practicing operations in a pilot plant facility.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -251,7 +253,7 @@
         },
         {
             "name": "Principles of Viticulture and Winemaking",
-            "number": "4345",
+            "number": "F_S 4345",
             "description": "(same as PLNT_S 4345; cross-leveled with PLNT_S 7345, F_S 7345). This course will cover the basics needed by viticulturists and winemakers to understand grape vine growth and vineyard considerations along with winemaking principles. Viticultural topics will include grapevine growth and development, vineyard design and development, cultivar selection, grapevine propagation, training systems, and harvest and pruning. Winemaking topics will include sensory analysis of grapes, chemical, microbiological and technological aspects of winemaking, and the analytical methods used for juice and wine analysis. Graded on A-F basis only.",
             "prerequisites": "BIO_SC 1010 or BIO_SC 1020 or BIO_SC 1030",
             "hours": "3",
@@ -264,7 +266,7 @@
         },
         {
             "name": "Physiology and Biochemistry of Muscle as Food",
-            "number": "4354",
+            "number": "F_S 4354",
             "description": "(same as AN_SCI 4354; F_S 7354, AN_SCI 7354). Basic concepts in muscle growth and development of livestock evaluating the effects of environment, welfare, nutrition and genetics regarding muscle metabolism, physiology, and the ultimate condition of muscle as food.",
             "prerequisites": "BIO_SC 1010 or equivalent or F_S 3214 or instructor's consent",
             "hours": "3",
@@ -276,7 +278,7 @@
         },
         {
             "name": "Food Microbiology",
-            "number": "4370",
+            "number": "F_S 4370",
             "description": "(cross-leveled with F_S 7370).  Study of bacteria, yeast and molds. Includes dominant flora, public health significance, characterization of organisms, examination of foods representative of major food groups, spoilage, preservation, food fermentations and physiological groups.",
             "prerequisites": "F_S 2172",
             "hours": "3",
@@ -287,7 +289,7 @@
         },
         {
             "name": "Food Microbiology Laboratory",
-            "number": "4375",
+            "number": "F_S 4375",
             "description": "(cross-leveled with F_S 7375). Examination of foods for microorganisms and characterization of major species.",
             "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: F_S 4370",
@@ -296,7 +298,7 @@
         },
         {
             "name": "Sensory Analysis of Food and Beverages",
-            "number": "4380",
+            "number": "F_S 4380",
             "description": "(cross-leveled with F_S 7380). Methodological principles of the sensory analysis of food and beverages.",
             "prerequisites": "F_S 1030; junior or senior standing",
             "hours": "3",
@@ -307,7 +309,7 @@
         },
         {
             "name": "Problems in Food Science",
-            "number": "4385",
+            "number": "F_S 4385",
             "description": "Advanced problems in a selected field of food science and nutrition.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -316,7 +318,7 @@
         },
         {
             "name": "Optimization and Management of Food and Agricultural Systems",
-            "number": "4390",
+            "number": "F_S 4390",
             "description": "(same as AG_S_M 4390, HSP_MGMT 4390; cross-leveled with F_S 7390; AG_S_M 7390, HSP_MGMT 7390). This course is designed to introduce the student to the concept of layers and interacting systems within an operation and the analytical methods of modeling and simulation to make effective management decisions for optimal system design and function.",
             "prerequisites": "MATH 1100",
             "hours": "3",
@@ -327,7 +329,7 @@
         },
         {
             "name": "Principles of Winemaking and Wine Chemical Analysis",
-            "number": "4440",
+            "number": "F_S 4440",
             "description": "(cross-leveled with F_S 7440). The theoretical and practical basics needed by enologists/winemakers including sensory analysis of grapes; chemical, microbiological and technological aspects of winemaking; and the analytical methods used for juice and wine analysis. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -336,7 +338,7 @@
         },
         {
             "name": "Cellar Operations and Special Vinifications",
-            "number": "4441",
+            "number": "F_S 4441",
             "description": "(cross-leveled with F_S 7441). The theoretical and practical basics needed by winemakers to supervise the operations of the winemaking, wine stabilization and packaging equipment.  The theoretical and practical basics needed by winemakers to make special wines including rose, dessert, carbonic maceration, and sparkling wines. Graded on A-F basis only.",
             "prerequisites": "F_S 4440",
             "hours": "3",
@@ -347,7 +349,7 @@
         },
         {
             "name": "Field Training",
-            "number": "4940",
+            "number": "F_S 4940",
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -356,7 +358,7 @@
         },
         {
             "name": "Internship in Food Science",
-            "number": "4941",
+            "number": "F_S 4941",
             "description": "Combines study, observation and employment in an area of food science and nutrition. Written reports, faculty evaluation.",
             "prerequisites": "instructor's consent",
             "hours": "1-6",
@@ -365,7 +367,7 @@
         },
         {
             "name": "Food Product Development",
-            "number": "4970",
+            "number": "F_S 4970",
             "description": "(cross-leveled with F_S 7970). Capstone course integrating the various disciplines of food science to create new food products.",
             "prerequisites": "Junior or Senior standing, or instructor's consent.  ENGLSH 1000 required if course is taught Writing Intensive",
             "hours": "3",
@@ -376,7 +378,7 @@
         },
         {
             "name": "Food Product Development - Writing Intensive",
-            "number": "4970W",
+            "number": "F_S 4970W",
             "description": "Capstone course integrating the various disciplines of food science to create new food products.",
             "prerequisites": "Junior or Senior standing, or instructor's consent.  ENGLSH 1000 required if course is taught Writing Intensive",
             "hours": "3",
@@ -387,7 +389,7 @@
         },
         {
             "name": "Food Quality Assurance",
-            "number": "4980",
+            "number": "F_S 4980",
             "description": "(cross-leveled with F_S 7360). Capstone course integrating various food science disciplines to comply with regulations concerned with protection of the nation's food supply.  Applies practices to insure consumers of healthful foods.",
             "prerequisites": "Junior or Senior standing or instructor's consent",
             "hours": "3",
@@ -396,7 +398,7 @@
         },
         {
             "name": "Food Chemistry and Analysis",
-            "number": "7310",
+            "number": "F_S 7310",
             "description": "(cross-leveled with F_S 4310). Structure, composition and chemical properties of food.",
             "prerequisites": "5 hours Chemistry or Biochemistry",
             "hours": "4",
@@ -405,7 +407,7 @@
         },
         {
             "name": "Investigation of Food Properties",
-            "number": "7311",
+            "number": "F_S 7311",
             "description": "(cross-leveled with F_S 4311). Study of the chemical and physical properties of foods and the interaction of food components. Lecture.",
             "prerequisites": "F_S 4310 or F_S 7310 or equivalent, or instructor's consent",
             "hours": "3",
@@ -417,7 +419,7 @@
         },
         {
             "name": "Food Chemistry and Analysis Laboratory",
-            "number": "7315",
+            "number": "F_S 7315",
             "description": "(cross-leveled with F_S 4315). The quantitative determination of the constituents of food.",
             "prerequisites": "F_S 4310 or concurrent enrollment",
             "hours": "3",
@@ -428,7 +430,7 @@
         },
         {
             "name": "Principles of Food Processing",
-            "number": "7330",
+            "number": "F_S 7330",
             "description": "(same as AG_S_M 7330; cross-leveled with F_S 4330, AG_S_M 4330). Basic principles of food processing, with emphasis on blanching, pasteurization, commercial sterilization, refrigeration, freezing, concentration, dehydration and packing. Impacts of processing on product quality are evaluated.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -437,7 +439,7 @@
         },
         {
             "name": "Technology of Dairy Products and Ingredients",
-            "number": "7331",
+            "number": "F_S 7331",
             "description": "(cross-leveled with F_S 4331). Technology, chemistry, and nutrition of dairy foods as well as functional properties of dairy ingredients.",
             "prerequisites": "one Chemistry course and F_S 3231 or equivalent",
             "hours": "3",
@@ -448,7 +450,7 @@
         },
         {
             "name": "Processing Muscle Foods",
-            "number": "7344",
+            "number": "F_S 7344",
             "description": "(same as AN_SCI 7344; cross-leveled with F_S 4344, AN_SCI 4344).  Materials and technologies for the manufacture of muscle food products from red meats, poultry and seafood. Experience problem-solving through further processing of complex ingredients and develop skills by practicing operations in a pilot plant facility.",
             "prerequisites": "one Chemistry course",
             "hours": "3",
@@ -457,7 +459,7 @@
         },
         {
             "name": "Principles of Viticulture and Winemaking",
-            "number": "7345",
+            "number": "F_S 7345",
             "description": "(same as PLNT_S 7345; cross-leveled with PLNT_S 4345, F_S 4345). This course will cover the basics needed by viticulturists and winemakers to understand grape vine growth and vineyard considerations along with winemaking principles. Viticultural topics will include grapevine growth and development, vineyard design and development, cultivar selection, grapevine propagation, training systems, and harvest and pruning. Winemaking topics will include sensory analysis of grapes, chemical, microbiological and technological aspects of winemaking, and the analytical methods used for juice and wine analysis. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -466,7 +468,7 @@
         },
         {
             "name": "Physiology and Biochemistry of Muscle as Food",
-            "number": "7354",
+            "number": "F_S 7354",
             "description": "(same as AN_SCI 7354; cross-leveled with F_S 4354, AN_SCI 4354). Basic concepts in muscle growth and development of livestock evaluating the effects of environment, welfare, nutrition and genetics regarding muscle metabolism, physiology, and the ultimate condition of muscle as food.",
             "prerequisites": "BIO_SC 1010 or equivalent or F_S 3214 or instructor's consent",
             "hours": "3",
@@ -478,7 +480,7 @@
         },
         {
             "name": "Food Quality Assurance",
-            "number": "7360",
+            "number": "F_S 7360",
             "description": "(cross-leveled with F_S 4980). Capstone course integrating various food science disciplines to comply with regulations concerned with protection of the nation's food supply.  Applies practices to insure consumers of healthful foods.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -487,7 +489,7 @@
         },
         {
             "name": "Food Microbiology",
-            "number": "7370",
+            "number": "F_S 7370",
             "description": "(cross-leveled with F_S 4370). Study of bacteria, yeast and molds. Includes dominant flora, public health significance, characterization of organisms, examination of foods representative of major food groups, spoilage, preservation, food fermentations and physiological groups.",
             "prerequisites": "F_S 2172 and one Biochemistry course or concurrent enrollment",
             "hours": "3",
@@ -498,7 +500,7 @@
         },
         {
             "name": "Food Microbiology Laboratory",
-            "number": "7375",
+            "number": "F_S 7375",
             "description": "(cross-leveled with F_S 4375). Examination of foods for microorganisms and characterization of major species.",
             "prerequisites": "F_S 4370 or concurrent enrollment",
             "hours": "2",
@@ -509,7 +511,7 @@
         },
         {
             "name": "Sensory Analysis of Food and Beverages",
-            "number": "7380",
+            "number": "F_S 7380",
             "description": "(cross-leveled with F_S 4380). Methodological principles of the sensory analysis of food and beverages.",
             "prerequisites": "F_S 1030; junior or senior standing",
             "hours": "3",
@@ -520,7 +522,7 @@
         },
         {
             "name": "Optimization and Management of Food and Agriculture Systems",
-            "number": "7390",
+            "number": "F_S 7390",
             "description": "(same as AG_S_M 7390, HSP_MGMT 7390; cross-leveled with F_S 4390, AG_S_M 4390, HSP_MGMT 4390). This course is designed to introduce the student to the concept of layers and interacting systems within an operation and the analytical methods of modeling and simulation to make effective management decisions for optimal system design and function.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -529,7 +531,7 @@
         },
         {
             "name": "Principles of Winemaking and Wine Chemical Analysis",
-            "number": "7440",
+            "number": "F_S 7440",
             "description": "(cross-leveled with F_S 4440). The theoretical and practical basics needed by enologist/winemakers including sensory analysis of grapes; chemical, microbiological and technological aspects of winemaking; and the analytical methods used for juice and wine analysis. Graded on A-F basis only.",
             "prerequisites": "5 hours inorganic chemistry and organic chemistry or concurrent, or instructor's consent",
             "hours": "4",
@@ -538,7 +540,7 @@
         },
         {
             "name": "Cellar Operations and Special Vinifications",
-            "number": "7441",
+            "number": "F_S 7441",
             "description": "(cross-leveled with F_S 4441). The theoretical and practical basics needed by winemakers to supervise the operations of the winemaking, wine stabilization and packaging equipment.  The theoretical and practical basics needed by winemakers to make special wines including rose, dessert, carbonic maceration, and sparkling wines. Graded on A-F basis only.",
             "prerequisites": "5 credit hours inorganic chemistry and organic chemistry and F_S 4440 or instructor's consent",
             "hours": "3",
@@ -549,7 +551,7 @@
         },
         {
             "name": "Internship in Food Science",
-            "number": "7941",
+            "number": "F_S 7941",
             "description": "Combines study, observation and employment in an area of food science and nutrition. Written reports, faculty evaluation.",
             "prerequisites": "One Food Science course and instructor's consent",
             "hours": "1-6",
@@ -558,7 +560,7 @@
         },
         {
             "name": "Food Product Development",
-            "number": "7970",
+            "number": "F_S 7970",
             "description": "Capstone course integrating the various disciplines of food science to create new food products.",
             "prerequisites": "ENGLSH 1000, and instructor's consent",
             "hours": "3",
@@ -569,7 +571,7 @@
         },
         {
             "name": "Non-Thesis Research in Food Science",
-            "number": "8050",
+            "number": "F_S 8050",
             "description": "Original investigations, usually in connection with one of the research projects of Agricultural Experiment Station. Written report required.",
             "prerequisites": "Restricted to Food Science MS Students Only",
             "hours": "1-99",
@@ -578,7 +580,7 @@
         },
         {
             "name": "Problems in Food Science",
-            "number": "8085",
+            "number": "F_S 8085",
             "description": "Individual studies include a minor research problems.",
             "prerequisites": "Restricted to Food Science MS Students only",
             "hours": "1-99",
@@ -587,7 +589,7 @@
         },
         {
             "name": "Seminar in Food Science",
-            "number": "8087",
+            "number": "F_S 8087",
             "description": "Provides students with opportunities for development in depth of advanced aspects of food science through reviews of research in progress and of current scientific publications. ",
             "prerequisites": " Masters standing",
             "hours": "1",
@@ -596,7 +598,7 @@
         },
         {
             "name": "Research in Food Science",
-            "number": "8090",
+            "number": "F_S 8090",
             "description": "Original investigations, usually in connection with one of the research projects of Agricultural Experiment Station. Written report required.  Graded on S/U basis only.",
             "prerequisites": "Restricted to Food Science MS Students Only",
             "hours": "1-99",
@@ -605,7 +607,7 @@
         },
         {
             "name": "Strategic Human Resource Management in Hospitality",
-            "number": "8253",
+            "number": "F_S 8253",
             "description": "This course is designed to help graduate students pursuing a managerial position in the Hospitality Industry to understand the value and the competitive advantage that strategic human resource management provide.",
             "prerequisites": "HSP MGMT 4253 or equivalent and instructors consent",
             "hours": "3",
@@ -614,7 +616,7 @@
         },
         {
             "name": "Service Operations Management: Revenue Management",
-            "number": "8263",
+            "number": "F_S 8263",
             "description": "This course offers an opportunity for students to learn the theory, concepts, and knowledge applied in service operations management. Students will find them useful in trying to cope with the dilemmas faced by operating managers in the hospitality industry. Especially, the course focuses on revenue management.",
             "prerequisites": "HSP_MGMT 3153 or instructor's consent",
             "hours": "3",
@@ -625,7 +627,7 @@
         },
         {
             "name": "Advanced Hospitality Marketing",
-            "number": "8273",
+            "number": "F_S 8273",
             "description": "This course provides students with an advanced-level view of marketing strategies in the hospitality.  The course encompasses analytical readings on segmentation and positioning, relationship marketing, marketing-mix development, and other strategic approaches applicable to hospitality industries.",
             "prerequisites": "HSP_MGMT 4273 or equivalent and instructors consent",
             "hours": "3",
@@ -636,7 +638,7 @@
         },
         {
             "name": "Topics in Food Science",
-            "number": "8401",
+            "number": "F_S 8401",
             "description": "Specialized topics in the area of food science and nutrition.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -645,7 +647,7 @@
         },
         {
             "name": "Research Methods in Food Science",
-            "number": "8402",
+            "number": "F_S 8402",
             "description": "(same as BIOL_EN 8402). Introduction to research. Defining research problems, developing hypotheses, searching scientific literature, designing experiments, presenting data, writing scientific papers and theses, making oral presentations.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -654,7 +656,7 @@
         },
         {
             "name": "Advanced Food Microbiology and Biotechnology",
-            "number": "8404",
+            "number": "F_S 8404",
             "description": "Covers basic principles in biotechnology and applied food microbiology, including current topics of interest in food biotechnology.  May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -663,7 +665,7 @@
         },
         {
             "name": "Advanced Microbiology of Foods",
-            "number": "8405",
+            "number": "F_S 8405",
             "description": "Principles of microbial physiology, taxonomy, analytical methods applied to study of microorganisms added to foods and those causing food spoilage or food-borne illness. Roles of microorganisms in manufacture/distribution of foods.",
             "prerequisites": "F_S 4370 or equivalent",
             "hours": "3",
@@ -674,7 +676,7 @@
         },
         {
             "name": "Food Chemistry II",
-            "number": "8410",
+            "number": "F_S 8410",
             "description": "Study of chemical content of food, emphasizing aspects that exist uniquely in food.",
             "prerequisites": "F_S 4310 or equivalent",
             "hours": "4",
@@ -685,7 +687,7 @@
         },
         {
             "name": "Meat Quality",
-            "number": "8414",
+            "number": "F_S 8414",
             "description": "(same as AN_SCI 8414). Discussion of factors affecting meat quality in beef, pork, lamb and poultry. Graded on A-F basis only.",
             "prerequisites": "F_S 3214 or equivalent",
             "hours": "3",
@@ -696,7 +698,7 @@
         },
         {
             "name": "Field Training in Food Science",
-            "number": "8419",
+            "number": "F_S 8419",
             "description": "Internships and/or field experiences under supervision.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -705,7 +707,7 @@
         },
         {
             "name": "Meat Investigations",
-            "number": "8424",
+            "number": "F_S 8424",
             "description": "(same as AN_SCI 8424). Discussion of literature, special reports, assigned readings, techniques, interpretation of results.",
             "prerequisites": "F_S 4344 and F_S 4310 or equivalent",
             "hours": "3",
@@ -717,7 +719,7 @@
         },
         {
             "name": "Functional Foods and Nutraceuticals",
-            "number": "8440",
+            "number": "F_S 8440",
             "description": "Principles and challenges involved in developing foods with health benefits beyond basic nutrition; efficacy, safety, regulatory and marketing aspects of functional foods and nutraceutical; current controversies and evidence of therapeutic properties of functional foods and Dietary supplements. Graded on A-F basis only.",
             "prerequisites": "BIOCHM 3630 or equivalent and F_S 4310 or equivalent, or instructor's consent",
             "hours": "3",
@@ -729,7 +731,7 @@
         },
         {
             "name": "Food Biopolymers",
-            "number": "8460",
+            "number": "F_S 8460",
             "description": "Study of physical, chemical, and functional properties of food biopolymers and their applications in food and other industries. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -738,7 +740,7 @@
         },
         {
             "name": "Problems in Food Science",
-            "number": "9085",
+            "number": "F_S 9085",
             "description": "Individual studies includes minor research problems.",
             "prerequisites": "Food Science PhD students",
             "hours": "1-99",
@@ -747,7 +749,7 @@
         },
         {
             "name": "Seminar in Food Science",
-            "number": "9087",
+            "number": "F_S 9087",
             "description": "Provides students with opportunities for development in depth of advanced aspects of food science through reviews of research in progress and of current scientific publications. ",
             "prerequisites": " PhD standing",
             "hours": "1",
@@ -756,7 +758,7 @@
         },
         {
             "name": "Research in Foods Science",
-            "number": "9090",
+            "number": "F_S 9090",
             "description": "Original investigation of advanced nature, leading to dissertation. Graded on a S/U basis only.",
             "prerequisites": "Food Science PhD students",
             "hours": "1-99",
@@ -765,7 +767,7 @@
         },
         {
             "name": "Advanced Research Methods in Food and Hospitality Systems",
-            "number": "9402",
+            "number": "F_S 9402",
             "description": "This course provides doctoral students with introduction and review of research methods available for use in the study of food science, hospitality management and agricultural system management.  Hence, the emphasis of this course is on empirical studies in the field, and will examine research conducted by scholars in the  academic area.  This course assists as baseline preparation for graduate students' continuing work in the graduate program.  Specifically, the course provides students with knowledge and research experience in regard to 1) research fundamentals and backgrounds, 2) types of research, and 3) data analysis.",
             "prerequisites": "Introductory research method course or statistics course; instructor's consent required",
             "hours": "3",
@@ -774,7 +776,7 @@
         },
         {
             "name": "Advanced Food Quality Assurance",
-            "number": "9460",
+            "number": "F_S 9460",
             "description": "Analyzes concepts of integrating laws, TQM and statistical process control into HACCP and ISO systems required for the quality of the global food industry.",
             "prerequisites": "F_S 4980 or equivalent and one Statistics course",
             "hours": "3",
@@ -785,7 +787,7 @@
         },
         {
             "name": "Advanced Food Technology",
-            "number": "9470",
+            "number": "F_S 9470",
             "description": "To understand the physical and chemical changes that occur during the processing and storage of food; study the quality and safety issues of foods and learn traditional and recent advances in food science and technology.",
             "prerequisites": "F_S 4310, or equivalent or instructor's consent",
             "hours": "3",

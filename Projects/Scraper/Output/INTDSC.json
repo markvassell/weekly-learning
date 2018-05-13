@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Proseminar in Interdisciplinary Studies",
-            "number": "1001",
+            "number": "INTDSC 1001",
             "description": "Lecture/discussion survey of time-management, note taking techniques, in the context of the three courses that are part of a Freshman Interest Group. Regular use of library, electronic mail and computing facilities is stressed. Elective credit only; students cannot receive credit for INTDSC 2001 and INTDSC 1001 or INTDSC 1150. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "University Freshmen Seminar",
-            "number": "1020",
+            "number": "INTDSC 1020",
             "description": "(same as SSC 1020). To maximize student's potential to achieve academic success and to adjust responsibly to the individual and interpersonal challenges presented by collegiate life.  Attainment of an appropriate balance between personal freedom and social responsibility underlies all seminar activities. No credit for students who have earned credit for AFNR 1115, INTDSC 1001,IS_LT 1110, ED_LPA 3100 or an equivalent first year orientation course at another institution.  Credit restrictions that apply to orientation classes apply to this course.  Students are not allowed to be enrolled in SSC 1020 and SSC 1150 in the same semester.",
             "prerequisites": "Restricted to freshman only",
             "hours": "1",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Internship",
-            "number": "1940",
+            "number": "INTDSC 1940",
             "description": "Limited to freshmen/sophomores who are \"undecided\" or otherwise not accepted into a major. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "0-1",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Proseminar in Interdisciplinary Studies",
-            "number": "2001",
+            "number": "INTDSC 2001",
             "description": "Lecture/discussion survey of a range of issues of special importance for transfer students new to the University.  Elective credit only; no credit for INTDSC 1001 and/or SSC 1150.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Internship in Interdisciplinary Studies",
-            "number": "2940",
+            "number": "INTDSC 2940",
             "description": "Internship limited to students pursuing the BA in Interdisciplinary Studies degree. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Readings in Interdisciplinary Studies",
-            "number": "2960",
+            "number": "INTDSC 2960",
             "description": "Independent readings with supervisory faculty member. Open only to Interdisciplinary Studies majors. May be repeated up to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Internship in Interdisciplinary Studies",
-            "number": "4940",
+            "number": "INTDSC 4940",
             "description": "Internship limited to students pursuing the BA in Interdisciplinary Studies degree. Graded on S/U basis only.",
             "prerequisites": "departmental Consent Required",
             "hours": "1-6",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Readings in Interdisciplinary Studies",
-            "number": "4960",
+            "number": "INTDSC 4960",
             "description": "Independent readings with supervisory faculty member. Open only to Interdisciplinary Studies majors. May be repeated up to a maximum of 6 hours.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Service Learning Project.",
-            "number": "4970",
+            "number": "INTDSC 4970",
             "description": "Independent readings with supervisory faculty member; Students will engage in service activities, directly relevant to their areas of academic emphasis, in community not-for-profit agencies. At the same time as participants work in the community, they will research their agency and organization, undergo mock employment interviews, create a cover letter and resume based on the professional skills they have gained through their service, and reflect on careers and leadership in public service. Graded on A-F basis only.",
             "prerequisites": "restricted to Interdisciplinary, General Studies and International Studies students",
             "hours": "3-6",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Service Learning Project. - Writing Intensive",
-            "number": "4970W",
+            "number": "INTDSC 4970W",
             "description": "Independent readings with supervisory faculty member; Students will engage in service activities, directly relevant to their areas of academic emphasis, in community not-for-profit agencies. At the same time as participants work in the community, they will research their agency and organization, undergo mock employment interviews, create a cover letter and resume based on the professional skills they have gained through their service, and reflect on careers and leadership in public service. Graded on A-F basis only.",
             "prerequisites": "restricted to Interdisciplinary, General Studies and International Studies students",
             "hours": "3-6",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Capstone Internship in Interdisciplinary Studies",
-            "number": "4971",
+            "number": "INTDSC 4971",
             "description": "Internship experience which serves as the student's capstone experience.  Program advisor must approve internships.   Section 2 of this course will be designated for Service Learning Capstone experience. Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-6",

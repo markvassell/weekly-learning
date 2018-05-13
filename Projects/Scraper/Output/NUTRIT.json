@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Monogastric Nutrition",
-            "number": "7020",
+            "number": "NUTRIT 7020",
             "description": "(same as AN_SCI 7312 and NEP 7020; cross-leveled with AN_SCI 4312 and NEP 4020). Principles of nutrition, feed formulation and recent research in poultry feeding. Graded on A-F basis only.",
             "prerequisites": "AN_SCI 3212 and BIOCHM 3630",
             "hours": "3",
@@ -16,7 +16,7 @@
         },
         {
             "name": "Problems in Nutrition",
-            "number": "7085",
+            "number": "NUTRIT 7085",
             "description": "Problems in Nutrition.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -25,7 +25,7 @@
         },
         {
             "name": "Masters Seminar in Nutrition",
-            "number": "7087",
+            "number": "NUTRIT 7087",
             "description": "Masters Seminar in Nutrition.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Readings in Nutrition",
-            "number": "7150",
+            "number": "NUTRIT 7150",
             "description": "Readings in current nutrition research. Graded on S/U basis only.",
             "prerequisites": "15 hours work in field and instructor's consent",
             "hours": "1",
@@ -43,7 +43,7 @@
         },
         {
             "name": "Nutrition During the Life Cycle",
-            "number": "7350",
+            "number": "NUTRIT 7350",
             "description": "Nutritional, physiological and environmental influences on the aging process of man from conception through senescence.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -52,7 +52,7 @@
         },
         {
             "name": "Medical Dietetics",
-            "number": "7390",
+            "number": "NUTRIT 7390",
             "description": "Medical dietetics.",
             "prerequisites": "None Listed",
             "hours": "3-12",
@@ -61,7 +61,7 @@
         },
         {
             "name": "Amino Acid and Protein Metabolism",
-            "number": "7650",
+            "number": "NUTRIT 7650",
             "description": "Amino acid and protein metabolism.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Comparative Nutrition and Metabolism",
-            "number": "8060",
+            "number": "NUTRIT 8060",
             "description": "Comparative Nutrition and Metabolism..",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -79,7 +79,7 @@
         },
         {
             "name": "Masters Research in Nutrition",
-            "number": "8090",
+            "number": "NUTRIT 8090",
             "description": "Investigation in any area of experimental nutrition. Thesis required. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -88,7 +88,7 @@
         },
         {
             "name": "Nutritional Biochemistry of Lipids",
-            "number": "8310",
+            "number": "NUTRIT 8310",
             "description": "(same as NEP 8310 and  AN_SCI 8431). Current concepts in the nutritional regulations of lipid metabolism. Emphasis on integrating information and interpreting current research data.",
             "prerequisites": "BIOCHM 4270 and BIOCHM 4272",
             "hours": "3",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Ruminant Nutrition",
-            "number": "8320",
+            "number": "NUTRIT 8320",
             "description": "(same as AN_SCI 9432). Physiology, chemistry, microbiology, pathology of ruminants. Emphasizes digestion, absorption, metabolism, utilization of nutrients. Lecture, laboratory, assigned readings.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Nutrition in Human Health",
-            "number": "8340",
+            "number": "NUTRIT 8340",
             "description": "(same as NEP 8340.) Nutritional aspects of maintaining human health with emphasis on chronic disease prevention. Grades based on classroom participation and four exams.",
             "prerequisites": "BIOCHM 4270 and BIOCHM 4272; 4000-level nutrition course",
             "hours": "3",
@@ -121,7 +121,7 @@
         },
         {
             "name": "Nutritional Biochemistry of Carbohydrates",
-            "number": "8360",
+            "number": "NUTRIT 8360",
             "description": "(same as BIOCHM 8360 and NEP 8360). Current concepts with in-depth coverage of selected examples of key regulatory steps controlling carbohydrate metabolism; emphasizing molecular mechanisms. Based entirely on research literature and taught in a tutorial format.",
             "prerequisites": "BIOCHM 4270 and BIOCHM 4272 and 4000-level nutrition course and departmental consent",
             "hours": "3",
@@ -133,7 +133,7 @@
         },
         {
             "name": "Molecular Biology of Mineral Nutrition",
-            "number": "8390",
+            "number": "NUTRIT 8390",
             "description": "(same as BIOCHM 8390 and NEP 8390). Current concepts of metal ion transport, intracellular metal trafficking and metal-dependent regulation of gene expression. Based entirely on research literature and taught in a tutorial format.",
             "prerequisites": "BIOCHM 4270 and BIOCHM 4272; 4000-level nutrition course",
             "hours": "3",
@@ -145,7 +145,7 @@
         },
         {
             "name": "Bioenergetics",
-            "number": "8400",
+            "number": "NUTRIT 8400",
             "description": "(same as AN_SCI 9441) . Bioenergetics.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -154,7 +154,7 @@
         },
         {
             "name": "Nutrient Regulation of Gene Expression",
-            "number": "8438",
+            "number": "NUTRIT 8438",
             "description": "(same as AN_SCI 8438, BIOCHM 8438 and NEP 8438). Current concepts with in-depth coverage of several minerals that illustrate themes in molecular mineral nutrition. Based entirely on research literature and taught in a tutorial format.",
             "prerequisites": "BIOCHM 4270 and BIOCHM 4272; 4000-level nutrition course",
             "hours": "3",
@@ -166,7 +166,7 @@
         },
         {
             "name": "Investigations in Experimental Nutrition",
-            "number": "8500",
+            "number": "NUTRIT 8500",
             "description": "Written report required.",
             "prerequisites": "None Listed",
             "hours": "1-6",
@@ -175,7 +175,7 @@
         },
         {
             "name": "Doctorate Seminar in Nutrition",
-            "number": "9087",
+            "number": "NUTRIT 9087",
             "description": "Doctorate seminar in nutrition.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -184,7 +184,7 @@
         },
         {
             "name": "Doctorate Research in Nutrition",
-            "number": "9090",
+            "number": "NUTRIT 9090",
             "description": "Investigation in any area of experimental nutrition. Thesis required. Graded on a S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-99",

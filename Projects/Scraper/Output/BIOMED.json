@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Biomedical Career Explorations",
-            "number": "1010",
+            "number": "BIOMED 1010",
             "description": "An introduction to the variety of career possibilities within the growing field of biomedical sciences.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Topics in Veterinary Biomedical Science",
-            "number": "2001",
+            "number": "BIOMED 2001",
             "description": "May be repeated 2 times for credit. Graded on A-F basis only.  ",
             "prerequisites": " instructor's consent",
             "hours": "1-99",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Problems in Biomedical Research",
-            "number": "2085",
+            "number": "BIOMED 2085",
             "description": "Assignment of special Topics for Research training in biomedical research.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Biomedical Terminology",
-            "number": "2110",
+            "number": "BIOMED 2110",
             "description": "Life science etymology (Greek for \"true meaning\", means the study of word dervation) taught by classroom presentation and discussion.  The course organization is based primarily on common themes of Greek and Latin terms along with historical reasons for current usage.  The application of these terms is for all biomedical sciences and life sciences.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Veterinary Medical Terminology",
-            "number": "2111",
+            "number": "BIOMED 2111",
             "description": "Veterinary Medical Terminology is an extension of Biomedical Sciences 2110, Biomedical Terminology.  The course organization is lecture, based primarily on domestic species and common themes of Greek and Latin terms.  In addition, major veterinary medical eponyms, acronyms, and medical and surgical instruments are included. Graded on A-F basis only.",
             "prerequisites": "BIOMED 2110 or instructor's consent",
             "hours": "1",
@@ -51,7 +51,7 @@
         },
         {
             "name": "Essentials of Animal Handling and Physical Restraint",
-            "number": "2120",
+            "number": "BIOMED 2120",
             "description": "Fundamentals of handling and physical restraint of domestic large and small animals, laboratory animals, and common non-domestic pets.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -60,7 +60,7 @@
         },
         {
             "name": "Companion Animals",
-            "number": "2140",
+            "number": "BIOMED 2140",
             "description": "(same as AN_SCI 2140). FCompanion animals form an important part of our society. They serve us, provide companionship and many become members of our families. This class focuses primarily on dogs, cats, and horses. Topics covered include: the pet industry, breeds, wellness, management, care, training, zoonotic diseases, evolution and domestication, toxicology, nutrition, reproduction, genetics, human animal interactions, companion animal enterprise, and biomedical research. Students may enroll in one of two sections: service learning section or traditional course section.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Microbiology for the Health Sciences",
-            "number": "2210",
+            "number": "BIOMED 2210",
             "description": "Introductory course for students in the applied health curricula.  Presents biomolecules of life, enzyme interaction, physiology and structure of representative organisms. Emphasizes bacteria, viruses, fungi and protozoa of health significance. Graded on A-F basis only.",
             "prerequisites": "CHEM 1100 or equivalent and instructor's consent",
             "hours": "5",
@@ -80,7 +80,7 @@
         },
         {
             "name": "Animal Sanitation and Disease Prevention",
-            "number": "2230",
+            "number": "BIOMED 2230",
             "description": "Preventative measures for diseases and parasites of farm animals.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Domestic Animal Behavior",
-            "number": "2235",
+            "number": "BIOMED 2235",
             "description": "An examination of the effects of domestication on the behavior of companion and food animal species. Comparisons to similar animals in feral or wild conditions will be made. The causes, development and potential treatments of abnormal behavior will also be examined. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -98,7 +98,7 @@
         },
         {
             "name": "Biology of Healthy Living",
-            "number": "2420",
+            "number": "BIOMED 2420",
             "description": "(same as PH_THR 2420 and  NEP 2420). Biology of inactivity as a casual factor in chronic disease.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -107,7 +107,7 @@
         },
         {
             "name": "Internship in Biomedical Sciences",
-            "number": "2940",
+            "number": "BIOMED 2940",
             "description": "Supervised work experience to develop technical skills and enhance student knowledge in an area of biomedical science.  Not intended for more than 50% independent research.  Graded on S/U basis only.",
             "prerequisites": "sophomore standing and instructor's consent",
             "hours": "1-6",
@@ -116,7 +116,7 @@
         },
         {
             "name": "Specialty Careers for Veterinary Technicians",
-            "number": "3000",
+            "number": "BIOMED 3000",
             "description": "Specialty careers for veterinary technicians are jobs which required knowledge and skills beyond those needed in primary care clinical veterinary practice. This course will explore veterinary technician specialties, the education required, and the advantages of advanced academic training. Course graded on A-F basis only.",
             "prerequisites": "AAS degree in veterinary technology or instructors consent required",
             "hours": "1",
@@ -125,7 +125,7 @@
         },
         {
             "name": "Topics in Biomedical Sciences",
-            "number": "3001",
+            "number": "BIOMED 3001",
             "description": "Topics in Biomedical Sciences.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -134,7 +134,7 @@
         },
         {
             "name": "Problems in Biomedical Science",
-            "number": "3085",
+            "number": "BIOMED 3085",
             "description": "Assignment of special topics for research training in biomedical research.",
             "prerequisites": "DVM degree and instructor's consent",
             "hours": "1-99",
@@ -143,7 +143,7 @@
         },
         {
             "name": "Biomedical Pathophysiology",
-            "number": "3100",
+            "number": "BIOMED 3100",
             "description": "Pathophysiology is the study of changes in the body resulting from disease. This course requires knowledge of normal anatomy and physiology. A comparative approach is used involving both domestic animal and human examples. Course graded on A-F basis only.",
             "prerequisites": "AN_SCI 3254 or BIO_SC 3700 or equivalent, AAS or equivalent degree from AVMA-accredited program or instructor's consent",
             "hours": "3",
@@ -155,7 +155,7 @@
         },
         {
             "name": "Comparative Hematology",
-            "number": "3200",
+            "number": "BIOMED 3200",
             "description": "Hematology is the study of blood cells in health and disease. Emphasis in this course is placed on the changes associated with disease. Transfusion medicine and coagulation disorders will also be included. Course graded on A-F basis only.",
             "prerequisites": "AN_SCI 3254 or BIO_SC 3700 or equivalent, AAS or equivalent degree from AVMA-accredited program or instructor's consent",
             "hours": "3",
@@ -167,7 +167,7 @@
         },
         {
             "name": "Elements of Comparative Anatomy",
-            "number": "3219",
+            "number": "BIOMED 3219",
             "description": "This course is designed to give students an introduction to and appreciation for comparative anatomy of various species encountered in animal science, veterinary technology and veterinary medicine.  Detailed and labeled photos of dissected specimens are used to aid instruction. Graded on A-F basis only.",
             "prerequisites": "five hours of biological science or zoology or equivalent or instructor's consent or an AAS degree in veterinary technology",
             "hours": "3",
@@ -176,7 +176,7 @@
         },
         {
             "name": "Parasitology",
-            "number": "3250",
+            "number": "BIOMED 3250",
             "description": "(same as BIO_SC 3250)  Parasitism is considered as a fundamental type of interspecies interaction. Identifying characteristics, life cycle, and resulting disease caused by the common parasites of domestic animals, common laboratory animals, selected wildlife, and humans are described.  Special emphasis is given to parasites that can be transmitted from animals to man.",
             "prerequisites": "8 hours of biology or instructor's consent",
             "hours": "3",
@@ -185,7 +185,7 @@
         },
         {
             "name": "Animal Welfare and Ethics",
-            "number": "3300",
+            "number": "BIOMED 3300",
             "description": "An introductory examination of ethical issues related to animal welfare, including animal use for food, research, and companionship, plus contemporary issues affecting companion animals, farm animals, and horses.  Topics related to animal pain and legal status will also be discussed. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -194,7 +194,7 @@
         },
         {
             "name": "Equine Health Topics",
-            "number": "3310",
+            "number": "BIOMED 3310",
             "description": "An in-depth examination of equine disease and health topics that are pertinent to today's horse owner and veterinarian. The course will integrate horse management practices with disease recognition, control and prevention. Students will learn how to recognize problems and when to call a veterinarian. Emerging disease problems such as West Nile Virus will be examined as well as topics of continuing concern. Graded on A-F basis only.",
             "prerequisites": "AN_SCI 4977 or equivalent or instructor's consent",
             "hours": "3",
@@ -205,7 +205,7 @@
         },
         {
             "name": "Comparative Microscopic Anatomy",
-            "number": "3320",
+            "number": "BIOMED 3320",
             "description": "The course will provide students with a background in the structure of body organs at the microscopic level.  The material will emphasize structure-function relationship of cells and organs using material from diverse animal species, including human, that exemplify unique adaptations to environmental or physiological requirements.",
             "prerequisites": "BIO_SC 1500 or equivalent",
             "hours": "3",
@@ -216,7 +216,7 @@
         },
         {
             "name": "Comparative Pharmacology",
-            "number": "3326",
+            "number": "BIOMED 3326",
             "description": "An introduction to terminology used in pharmacology.  Mechanisms of drug administration, absorption, distribution, metabolism, and excretion are described.  Treatment modalities in animals and humans are compared.  Basics of drug actions and the medicolegal aspects of pharmacology are discussed.",
             "prerequisites": "an AAS degree in veterinary technology or AN_SCI 3254 or BIO_SC 3700, or equivalent, or instructor's consent",
             "hours": "3",
@@ -228,7 +228,7 @@
         },
         {
             "name": "Topics in Biomedical Sciences",
-            "number": "4001",
+            "number": "BIOMED 4001",
             "description": "Topics in Biomedical Sciences.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -237,7 +237,7 @@
         },
         {
             "name": "Life Sciences Research",
-            "number": "4010",
+            "number": "BIOMED 4010",
             "description": "(cross-leveled with BIOMED 7010, V_BSCI 7010). A review of basic laboratory animal and non-animal research models and procedures commonly used in the life sciences area in academia and drug/chemical industry. Graded on A-F basis only.",
             "prerequisites": "Biology or Cell Biology; junior standing required",
             "hours": "3",
@@ -246,19 +246,21 @@
         },
         {
             "name": "Veterinary Clinical Chemistry",
-            "number": "4100",
+            "number": "BIOMED 4100",
             "description": "(cross-leveled with V_PBIO 7100). This course is designed to hone the skills of the practicing veterinary technician, veterinary student, or veterinarian and assumes some basic knowledge of normal serum chemistry and urinalysis results.  The review of normal will be minimal and emphasis will be placed on clinical serum chemistry and urinalysis findings associated with diseases.  The graduate level course will include discussion of ancillary tests and more extensive case interpretations.",
             "prerequisites": "An AAS or equivalent degree in veterinary technology from an American Veterinary Medical Association accredited programs;  Undergraduate physiology on mammals (AN_SCI 3254, BIO_SC 3700, or equivalent",
             "hours": "3",
             "recommendation": "BIOMED 2110 and BIOMED 3200 or instructor's consent",
             "connections": [
                 "AN_SCI 3254",
-                "BIO_SC 3700"
+                "BIO_SC 3700",
+                "BIOMED 2110",
+                "BIOMED 3200"
             ]
         },
         {
             "name": "Veterinary Cytology",
-            "number": "4110",
+            "number": "BIOMED 4110",
             "description": "(cross-leveled with V_PBIO 7110). This course of Veterinary Cytology is designed to hone the skills of the practicing Veterinary Technician, Veterinary Student, or Veterinarian and assumes some basic knowledge of microscope usage and normal hematology.  The review of normal cells will be minimal and emphasis will be placed on findings associated with inflammatory and neoplastic diseases.  The graduate level course will include discussion of ancillary tests, special stains and treatment alternatives.  The focus will be on canine and feline diseases but some common equine and bovine disease.  ",
             "prerequisites": "  An AAS or equivalent degree in veterinary technology from an American Veterinary Medical Association-accredited program, or instructor's consent",
             "hours": ": 2Recommended: BIOMED 3200 and BIOMED 2110",
@@ -267,7 +269,7 @@
         },
         {
             "name": "Principles of Toxicology",
-            "number": "4120",
+            "number": "BIOMED 4120",
             "description": "(cross-leveled with V_PBIO 7120). This course will provide an introduction to the general principles of toxicology, including the history and scope of the field; risk assessment and management; mechanisms of toxicology; the disposition of toxicants; non-target organ-directed toxicity; toxic responses of specific target organs; and various toxicological application, such as environmental toxicology.",
             "prerequisites": "one year of college chemistry and biology, each or instructor's consent",
             "hours": "3",
@@ -276,7 +278,7 @@
         },
         {
             "name": "Veterinary Public Health and Community Practice",
-            "number": "4200",
+            "number": "BIOMED 4200",
             "description": "Veterinary Public Health is the field of veterinary medicine that deals with food production and safety, zoonosis (animal to human) disease control, prevent and control of environmental contamination, and the role of animals in society. Graded on A-F basis only.",
             "prerequisites": "AN_SCI 3254 or BIO_SC 3700 or equivalent, AAS or equivalent degree from AVMA-accredited program or instructors consent",
             "hours": "3",
@@ -288,7 +290,7 @@
         },
         {
             "name": "Animal Issues in Disasters",
-            "number": "4210",
+            "number": "BIOMED 4210",
             "description": "(cross-leveled with V_PBIO 7210). This course describes the various aspects of responding to disasters that involve animals.  Government involvement, legal requirements, effects on the human-animal bond, preparation for disasters of different kinds, and impacts on animal-related businesses will be discussed.",
             "prerequisites": "an AAS in veterinary technology from an American Veterinary Medical Association accredited program, or equivalent training, or instructor's consent",
             "hours": "1",
@@ -297,7 +299,7 @@
         },
         {
             "name": "Clinical Veterinary Neurology",
-            "number": "4300",
+            "number": "BIOMED 4300",
             "description": "Clinical veterinary neurology will review the neurologic examination, common neurologic diseases and techniques to properly care for the neurologic patient.  The course organization is based primarily on neuroanatomic localization of disease. Graded on A-F basis only.",
             "prerequisites": "AAS in Veterinary Technology or BIOMED 3219 and 3100 or instructor's consent; junior or senior standing",
             "hours": "3",
@@ -308,7 +310,7 @@
         },
         {
             "name": "Fundamentals of Small Animal Emergency and Critical Care",
-            "number": "4320",
+            "number": "BIOMED 4320",
             "description": "(cross-leveled with V_BSCI 7320). This course will provide students with the knowledge and skills to assist in small animal medical emergency and critical care facilities.",
             "prerequisites": "An AAS in veterinary technology from an American Veterinary Medical Association accredited program, or equivalent training, or instructor's consent",
             "hours": "3",
@@ -317,7 +319,7 @@
         },
         {
             "name": "Veterinary Cell Biology",
-            "number": "4333",
+            "number": "BIOMED 4333",
             "description": "(same as V_BSCI 5506). Course material stresses cell biology as related to animal health and medical issues. A comprehensive course overviewing molecular and biochemical issues of cell function especially as related to medicine and the underlying molecular causes of disease.",
             "prerequisites": "BIO_SC 1500, or equivalent, 1 course in biochemistry or 4 credit hours in chemistry; or instructor's consent",
             "hours": "4",
@@ -328,7 +330,7 @@
         },
         {
             "name": "Veterinary Surgical Nursing",
-            "number": "4400",
+            "number": "BIOMED 4400",
             "description": "Veterinary Surgical Nursing will enable the student to properly identify, care for, and maintain surgical equipment.  The course will also prepare the student to learn surgical anatomy as will as the potential complications of common clinical setting surgeries. Graded on A-F basis only.",
             "prerequisites": "BIOMED 2111, BIOMED 3219, and BIOMED 3100, or instructor's consent",
             "hours": "3",
@@ -341,7 +343,7 @@
         },
         {
             "name": "Small Animal Physical Rehabilitation",
-            "number": "4410",
+            "number": "BIOMED 4410",
             "description": "This course will review the science of veterinary rehabilitation, assessment of rehabilitation patients, and the techniques used to treat these patients. Graded on A-F basis only.",
             "prerequisites": "AAS degree in veterinary technology or BIOMED 2110 or HTH_PR 2190 or equivalent, plus BIOMED 3219 or PTH_AS 2201 or equivalent, or instructor's permission",
             "hours": "3",
@@ -355,7 +357,7 @@
         },
         {
             "name": "Equine Critical Care and Nursing",
-            "number": "4500",
+            "number": "BIOMED 4500",
             "description": "This course provides advanced information for veterinary technicians, veterinary assistants, and pre-veterinary students wishing to enhance and focus their understanding of equine critical care and nursing concepts. Course graded on A-F basis only.",
             "prerequisites": "AN_SCI 2095 and AN_SCI 3254 or BIO_SC 3700 or equivalents, AAS or equivalent degree from AVMA-accredited program or instructor's consent",
             "hours": "3",
@@ -368,7 +370,7 @@
         },
         {
             "name": "Equine Clinical Anatomy: Forelimbs",
-            "number": "4510",
+            "number": "BIOMED 4510",
             "description": "(cross-leveled with V_BSCI 7510). Basic foundation in selected aspects of equine clinical anatomy from veterinary technicians, pre-veterinary students, and other students wishing to enhance their understanding of anatomical structures of the horse's forelimbs.",
             "prerequisites": "five hours of biologic science or zoology, or equivalent, or instructor's consent, or an AAS or equivalent degree in veterinary technology from an American Veterinary Medical Association accredited program",
             "hours": "1",
@@ -377,7 +379,7 @@
         },
         {
             "name": "Equine Clinical Practice",
-            "number": "4520",
+            "number": "BIOMED 4520",
             "description": "This course is an introduction to a common medical conditions of the horse.  Emphasis will be placed on the presenting complaint and the veterinarians approach to diagnosis, treatment, and prognosis.",
             "prerequisites": "BIOMED 2110, BIOMED 2111 and AN_SCI 4977 or their equivalents, or an associate's degree in veterinary technology, or instructor's consent",
             "hours": "1",
@@ -390,7 +392,7 @@
         },
         {
             "name": "Internship in Veterinary Medical Technical Specialties",
-            "number": "4993",
+            "number": "BIOMED 4993",
             "description": "Supervised work experience in the MU Veterinary Medical Teaching Hospital of affiliated veterinary medical specialty practices or in MU laboratory animal facilities to develop technical skills and knowledge relevant to becoming a specialist in veterinary medical technology.  A written report and oral presentation are required.  Graded on S/U basis only.",
             "prerequisites": "junior standing, an AAS degree from an AVMA accredited veterinary technical program or its equivalent, and instructor's consent",
             "hours": "1-6",
@@ -399,7 +401,7 @@
         },
         {
             "name": "Life Sciences Research",
-            "number": "7010",
+            "number": "BIOMED 7010",
             "description": "(same as V_BSCI 7010; cross-leveled with BIOMED 4010). A review of basic laboratory animal and non-animal research models and procedures commonly used in the life sciences area in academia and drug/chemical industry. Graded on A-F basis only.",
             "prerequisites": "Biology or Cell Biology",
             "hours": "3",
@@ -408,7 +410,7 @@
         },
         {
             "name": "Research - Biomedical Sciences",
-            "number": "9090",
+            "number": "BIOMED 9090",
             "description": "Research hours for BMS doctoral students continuous enrollment.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -417,7 +419,7 @@
         },
         {
             "name": "Gonadal Function",
-            "number": "9434",
+            "number": "BIOMED 9434",
             "description": "(same as AN_SCI 9434). Survey of current and in-depth mechanisms involved in ovarian, testicular, and epididymal function. Emphasis will be given to comparative differences in gonadal functions among domestic animals.",
             "prerequisites": "AN_SCI 4314 or equivalent, a course in endocrinology, and biochemistry or cell biology",
             "hours": "3",

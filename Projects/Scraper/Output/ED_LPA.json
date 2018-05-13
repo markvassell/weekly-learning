@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Foundations of Education",
-            "number": "3100",
+            "number": "ED_LPA 3100",
             "description": "Focus on developing a theoretical and conceptual knowledge of leadership. In addition, skill building-exercises will take place through group case studies and role playing exercises allowing each student to identify and achieve methods for personal development.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Inquiring into Schools, Community and Society II",
-            "number": "4060",
+            "number": "ED_LPA 4060",
             "description": "(same as ED_LPA 7060). Required 3 hour course for students pursuing teacher certification.  Designed to transition students into the teaching internship through study of teacher roles, school organizations and cultures, and community contexts.",
             "prerequisites": "LTC 2040",
             "hours": "3",
@@ -24,7 +24,7 @@
         },
         {
             "name": "Inquiring into Schools, Community and Society II",
-            "number": "7060",
+            "number": "ED_LPA 7060",
             "description": "(same as ED_LPA 4060). Required 3 hours course for students pursuing teacher certification.  Designed to transition students into the teaching internship through study of teacher roles, school organizations and cultures, and community contexts.  ",
             "prerequisites": " LTC 2040 and LTC 7040",
             "hours": ": 3",
@@ -36,7 +36,7 @@
         },
         {
             "name": "Problems in Educational Leadership and Policy Analysis",
-            "number": "7085",
+            "number": "ED_LPA 7085",
             "description": "Problems in Educational Leadership and Policy Analysis",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -45,7 +45,7 @@
         },
         {
             "name": "Topics in Educational Leadership and Policy Analysis",
-            "number": "7301",
+            "number": "ED_LPA 7301",
             "description": "Group study of topics in educational leadership, policy analysis, and higher and continuing education.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Sociology of Education",
-            "number": "7458",
+            "number": "ED_LPA 7458",
             "description": "(same as SOCIOL 7410; cross-leveled with SOCIOL 4410). Contexts, structures and processes of schooling; effects on class, race, ethnicity and gender; social change, educational policy, and organizational dynamics; higher education and the economy.",
             "prerequisites": "SOCIOL 1000 or equivalent",
             "hours": "3",
@@ -65,7 +65,7 @@
         },
         {
             "name": "College Teaching with Technology I",
-            "number": "7822",
+            "number": "ED_LPA 7822",
             "description": "Examines the use of educational technologies, both class room based (e.g., student response systems) and online (e.g., course management's systems), to assist in the dissemination of course resources and the facilitation of student interaction.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -74,7 +74,7 @@
         },
         {
             "name": "College Teaching with Technology II",
-            "number": "7823",
+            "number": "ED_LPA 7823",
             "description": "Integrates learning technologies into the traditional framework of a face-to-face course by creating a course website and developing technical proficiency with relevant educational technologies.",
             "prerequisites": "College Teaching I or instructor's consent",
             "hours": "1",
@@ -83,7 +83,7 @@
         },
         {
             "name": "Learning, Curriculum and Assessment for School Leaders",
-            "number": "8409",
+            "number": "ED_LPA 8409",
             "description": "Addresses assessment, learning and curriculum and the integration of the instructional and assessment processes. Topics include authentic assessment, curriculum alignment, cognition and learning, instructional approaches, and application of student learning theory to the curriculum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -92,7 +92,7 @@
         },
         {
             "name": "Learning Cultures",
-            "number": "8410",
+            "number": "ED_LPA 8410",
             "description": "Integrates the themes of building a common purpose to enhance school culture, empowering teachers and students, and diversity. Topics include importance of shared mission and vision, the use of group processes and collaboration, the intricacies of school culture, and ethical and moral leadership.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -101,7 +101,7 @@
         },
         {
             "name": "Professional Development for Learning",
-            "number": "8411",
+            "number": "ED_LPA 8411",
             "description": "Focuses on the professional development and reflection on practice. Topics include organizational actions and personal responsibility, life-long learning, and public education in a democratic society.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -110,7 +110,7 @@
         },
         {
             "name": "School Improvement",
-            "number": "8412",
+            "number": "ED_LPA 8412",
             "description": "This course addresses the topics of organizational management and personal inquiry. It covers issues such as organizational effectiveness, organizing for an effective school environment, legal and fiscal decision-making and responsibilities of school leaders, creating an environment where stakeholders acquire and utilized data to inform decisions and practice, and where action research methods are utilized to evaluate and inform practice.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -119,7 +119,7 @@
         },
         {
             "name": "Internship",
-            "number": "8413",
+            "number": "ED_LPA 8413",
             "description": "The internship experience provides the opportunity for the student to assume a leadership role associated with instructional improvement.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-11",
@@ -128,7 +128,7 @@
         },
         {
             "name": "Current Issues in Site-Level Leadership",
-            "number": "8414",
+            "number": "ED_LPA 8414",
             "description": "This course is designed to introduce students to the rigors of the principalship. Topics will include issues affecting beginning principals, school cultures, and the use of technology for communication and research.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -137,7 +137,7 @@
         },
         {
             "name": "Leadership for Collaborative Cultures",
-            "number": "8415",
+            "number": "ED_LPA 8415",
             "description": "This course will instill an understanding of major components of purposeful, systemic change, interpersonal relationships, communication and organizational management. The development of an appreciation of diversity, equity, and democracy for all students will be an ongoing theme of the course.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -146,7 +146,7 @@
         },
         {
             "name": "Foundations of School Leadership",
-            "number": "8416",
+            "number": "ED_LPA 8416",
             "description": "School leader knowledge of student learning theory and related instructional practices is the focus of this course. The problem-based learning format will include topics on school culture, leadership communication, technology, and conflict resolution. Issues concerning professional relationships are also addressed.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -155,7 +155,7 @@
         },
         {
             "name": "Site-Level Organization and Leadership",
-            "number": "8417",
+            "number": "ED_LPA 8417",
             "description": "Student will study state and national regulations that affect Missouri school policies. The student will develop a database on various legal issues. A study of middle level education will conclude with on-site evaluation of a local middle school.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -164,7 +164,7 @@
         },
         {
             "name": "Supervision for Learning Environments",
-            "number": "8418",
+            "number": "ED_LPA 8418",
             "description": "Students are prepared to articulate, recognize, and support classroom practices that reflect the most current principles of learning. Effective instructional strategies that link this knowledge to practice will be entered into a computer database.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -173,7 +173,7 @@
         },
         {
             "name": "Structures and Processes for Effective Schools",
-            "number": "8419",
+            "number": "ED_LPA 8419",
             "description": "Emphasis is placed on the Missouri Comprehensive Guidance Program and positive strategies for working with challenging students. A continuation of the study of state and national legal and policy issues will focus on special programs and services.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Curriculum for Site-Level Leadership",
-            "number": "8420",
+            "number": "ED_LPA 8420",
             "description": "Student and program assessment are the primary topics for this course on curricular leadership. Class participants are engaged in the development of authentic experiences using technology to develop and apply the testing and assessment knowledge appropriate to school leaders.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -191,7 +191,7 @@
         },
         {
             "name": "Action Research in School Leadership",
-            "number": "8421",
+            "number": "ED_LPA 8421",
             "description": "Databases on legal and policy issues are completed and merged into a single database and placed on the specialist program web site. Site and classroom level action research is investigated, concluding with an assessment of local action research efforts in area schools.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -200,7 +200,7 @@
         },
         {
             "name": "Advanced Problems of Leadership Practice",
-            "number": "8422",
+            "number": "ED_LPA 8422",
             "description": "This pre-internship course is a study of team building, program assessment, and site-based management. Addressing problems through a comprehensive school improvement approach with practicing principal will serve to prepare the students for internship experiences.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -209,7 +209,7 @@
         },
         {
             "name": "Advanced Leadership for Learning Environments",
-            "number": "8423",
+            "number": "ED_LPA 8423",
             "description": "Students will demonstrate their understanding of instructional improvement for all teachers and students by designing and defending a comprehensive strategy for instructional changes in a simulated school. The ongoing study of learning principles and effective instructional practices will be concluded.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -218,7 +218,7 @@
         },
         {
             "name": "Education Politics and Policymaking",
-            "number": "8424",
+            "number": "ED_LPA 8424",
             "description": "This course examines the politics and policymaking process of education in the United States, paying particular attention to the influence of various institutions and actors at local, state, and federal levels. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -227,7 +227,7 @@
         },
         {
             "name": "Curriculum Leadership",
-            "number": "8428",
+            "number": "ED_LPA 8428",
             "description": "A study of research, theory, and skills necessary for curriculum leadership in educational organizations. Course includes generic curriculum management processes, design trends, controversial issues multi-media, innovative instructional techniques, and program evaluation.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -236,7 +236,7 @@
         },
         {
             "name": "School Law and Finance for Principal Leadership",
-            "number": "8430",
+            "number": "ED_LPA 8430",
             "description": "Designed to engage learners in examination of the legal (judicial and legislative)system, school law, and finance policies that govern public schools and their  fiscal resources in the United States and the State of Missouri.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -245,7 +245,7 @@
         },
         {
             "name": "Leadership for Data-Driven Change",
-            "number": "8431",
+            "number": "ED_LPA 8431",
             "description": "This course instructs school leaders on how to use data for school improvement. Students will: identify reliable sources of data; develop, implement, and monitor strategic School Improvement Plans using data; analyze data using technology; and describe evidence-based strategies that respond to data analysis. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -254,7 +254,7 @@
         },
         {
             "name": "Introduction to Improvement Systems in Education",
-            "number": "8432",
+            "number": "ED_LPA 8432",
             "description": "This course explores tools and techniques of comprehensive school improvement systems, including theoretical, historical, and empirical frameworks in the field. Intended for school administrators, board members, and teacher-leaders involved in school improvement.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -263,7 +263,7 @@
         },
         {
             "name": "Education Toward Bi/Multilingualism: Theory, Policy, and Practice",
-            "number": "8653",
+            "number": "ED_LPA 8653",
             "description": "(same as LTC 8653).  Overview of the theory, policy, and practice of using at least two languages in education to develop children's bi/multilingualism. Key topics include: (1) models of bilingual/multilingual education; (2) policy and politics of language education in the U.S. and international contexts; (3) psycholinguistic and sociocultural perspectives on bi/multilingual language development, as related to schooling; and (4) evaluation and assessment issues in bi/multilingual education.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -272,7 +272,7 @@
         },
         {
             "name": "Discourse Analysis in Education",
-            "number": "8955",
+            "number": "ED_LPA 8955",
             "description": "(same as LTC 8955). This course introduces the theories and methods of discourse analysis, including conversation, critical discourse, and multimodal. Students will analyze the role of context and ethics, as they transcribe and analyze discourse, especially from analytical settings. Graded on A-F basis only.",
             "prerequisites": "ESC_PS 8957 and ESC_PS 9620",
             "hours": "3",
@@ -284,7 +284,7 @@
         },
         {
             "name": "Qualitative Methods in Educational Research I",
-            "number": "8957",
+            "number": "ED_LPA 8957",
             "description": "(same as LTC 8957 and ESC_PS 8957).  This course provides a practical introduction to qualitative research and its applications in education and social sciences.   Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -293,7 +293,7 @@
         },
         {
             "name": "Research in Educational Leadership and Policy Analysis",
-            "number": "9090",
+            "number": "ED_LPA 9090",
             "description": "Graded on a S/U basis only.",
             "prerequisites": "departmental consent",
             "hours": "1-99",
@@ -302,7 +302,7 @@
         },
         {
             "name": "Problems in Educational Leadership and Policy Analysis",
-            "number": "9095",
+            "number": "ED_LPA 9095",
             "description": "",
             "prerequisites": "instructor's consent",
             "hours": "1-99",
@@ -311,7 +311,7 @@
         },
         {
             "name": "Social Theory in Education",
-            "number": "9400",
+            "number": "ED_LPA 9400",
             "description": "Students will examine the relationship of society and education through a variety of theoretical perspectives and empirical studies.  These theories deal with the relation of education to society as a whole, and the relation between education and the state.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -320,7 +320,7 @@
         },
         {
             "name": "Educational Leadership",
-            "number": "9401",
+            "number": "ED_LPA 9401",
             "description": "Critical examination of key leadership theories and their application to various educational contexts. Includes consideration of research methods and designs appropriate for the study of leadership and the spectrum of lenses through which educational leadership is studied.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -329,7 +329,7 @@
         },
         {
             "name": "Educational Policy Analysis",
-            "number": "9402",
+            "number": "ED_LPA 9402",
             "description": "Course centers on developing multiple understandings of the education policy making process. Theoretical constructs used to advance those understandings are eclectic in nature, drawing from the fields of political science, history, sociology and economics.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -338,7 +338,7 @@
         },
         {
             "name": "Organizational Analysis",
-            "number": "9403",
+            "number": "ED_LPA 9403",
             "description": "Analysis of organizational characteristics and principles in educational organizations. Topics include: Organizational theories and models, organizational culture, communication, innovation, planning, leadership, power and influence, and external environment influences.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -347,7 +347,7 @@
         },
         {
             "name": "Inquiry into Educational Leadership and Policy Analysis",
-            "number": "9404",
+            "number": "ED_LPA 9404",
             "description": "A critical overview of theory development, research paradigms, and research ethics in the department of Educational Leadership and Policy Analysis. Required for all ELPA Ph.D. students.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -356,7 +356,7 @@
         },
         {
             "name": "Seminar in Educational Leadership and Policy Analysis",
-            "number": "9405",
+            "number": "ED_LPA 9405",
             "description": "Seminar in Educational Leadership and Policy Analysis",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -365,7 +365,7 @@
         },
         {
             "name": "Seminar in Educational Administration",
-            "number": "9406",
+            "number": "ED_LPA 9406",
             "description": "Seminar in Educational Administration",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -374,7 +374,7 @@
         },
         {
             "name": "Seminar in Educational Policy",
-            "number": "9407",
+            "number": "ED_LPA 9407",
             "description": "Seminar in Educational Policy",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -383,7 +383,7 @@
         },
         {
             "name": "Seminar in Higher  Education",
-            "number": "9408",
+            "number": "ED_LPA 9408",
             "description": "Seminar in Higher  Education",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -392,7 +392,7 @@
         },
         {
             "name": "Introduction to Research Design",
-            "number": "9409",
+            "number": "ED_LPA 9409",
             "description": "This course provides an introduction to quantitative, qualitative, and mixed methods research, with an emphasis on the epistemological and ontological issues that inform our choice of research methods.  This course is intended for first year doctoral students.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -401,7 +401,7 @@
         },
         {
             "name": "Superintendent: Instructional Leadership",
-            "number": "9424",
+            "number": "ED_LPA 9424",
             "description": "Effective superintendents understand educational core knowledge of curriculum, instructional and assessment.  They establish an exception for the use of best instructional practices for all students among both the educational and public communities.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -410,7 +410,7 @@
         },
         {
             "name": "School Budget Development and Fiscal Management",
-            "number": "9427",
+            "number": "ED_LPA 9427",
             "description": "This course includes an overview of school finance programs of the 50 states, including special funds for exceptional children and compensatory education. Various aspects of planning, accounting, auditing, and reporting related to budget development and fiscal management are covered.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -419,7 +419,7 @@
         },
         {
             "name": "Superintendent: Communication, Team Leadership",
-            "number": "9429",
+            "number": "ED_LPA 9429",
             "description": "Effective superintendents negotiate political and cultural challenges to lead diverse, socially-just school systems.  Reflective practices that enhance competence in public board member, and district personnel relationships are essential skills.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -428,7 +428,7 @@
         },
         {
             "name": "Superintendent: Fiscal, Legal Leadership",
-            "number": "9430",
+            "number": "ED_LPA 9430",
             "description": "Effective superintendents efficiently manage finances and ensure that rules, regulations, and policies adhere to statutory/case law.  Fiscal and legal practices ensure equity of educational experiences for all students.  Open to all graduate students.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -437,7 +437,7 @@
         },
         {
             "name": "Topics in Educational Leadership and Policy Analysis",
-            "number": "9437",
+            "number": "ED_LPA 9437",
             "description": "Topics in Educational Leadership and Policy Analysis",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -446,7 +446,7 @@
         },
         {
             "name": "Applying Higher Education Research to Practice",
-            "number": "9439",
+            "number": "ED_LPA 9439",
             "description": "This course introduces quantitative, qualitative, and mixed within a student affairs context. Students will become familiar with, and able to critique research. Course graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -455,7 +455,7 @@
         },
         {
             "name": "Race, Gender, and Ethnicity in Higher Education",
-            "number": "9440",
+            "number": "ED_LPA 9440",
             "description": "(same as WGST 9440). Historical and current issues of race, gender, and ethnicity in colleges and universities in the U.S.  Issues include: students, faculty, and staff experiences of diversity, access and equity, and salience of diversity in a higher education setting.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -464,7 +464,7 @@
         },
         {
             "name": "The Adult Learner",
-            "number": "9441",
+            "number": "ED_LPA 9441",
             "description": "The identification of learning, motivation and participation patterns among adults will be examined. Learning theories and adult development life-cycle and stage research data will be explored as well as their implications for practice.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -473,7 +473,7 @@
         },
         {
             "name": "Curriculum Philosophy and Development in Higher Education",
-            "number": "9442",
+            "number": "ED_LPA 9442",
             "description": "A study of the philosophical foundations of postsecondary curricula, current trends and issues, and approaches to curriculum reforms and revisions.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -482,7 +482,7 @@
         },
         {
             "name": "Program Planning in Higher Education",
-            "number": "9444",
+            "number": "ED_LPA 9444",
             "description": "Analysis of program planning and evaluation in higher education. Topics include: conceptualizations of program planning, situational analysis, needs assessment, priority setting, marketing and promotion, and program evaluation.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -491,7 +491,7 @@
         },
         {
             "name": "College Student Development",
-            "number": "9445",
+            "number": "ED_LPA 9445",
             "description": "Emphasis on college student development theory and its application in student affairs work.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -500,7 +500,7 @@
         },
         {
             "name": "Student Affairs Administration",
-            "number": "9446",
+            "number": "ED_LPA 9446",
             "description": "History, philosophy, theory, and issues pertinent to student affairs work.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -509,7 +509,7 @@
         },
         {
             "name": "College Student Culture and Environment",
-            "number": "9447",
+            "number": "ED_LPA 9447",
             "description": "This course examines the characteristics and outcomes of American undergraduates, and the aspects of the college environment the differentially influence students.  Topics include: theoretical models of students change, campus climate and cultures, learning communities, institutional differences, and conditions for success.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -518,7 +518,7 @@
         },
         {
             "name": "College Teaching",
-            "number": "9448",
+            "number": "ED_LPA 9448",
             "description": "Designed to introduce students to theories and practices central to teaching in a higher education setting.  Teaching related to institutional contexts and disciplines will be considered.  Teaching and learning theories will be introduced.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -527,7 +527,7 @@
         },
         {
             "name": "History of Higher Education in the United States",
-            "number": "9449",
+            "number": "ED_LPA 9449",
             "description": "A study of the transformation of the English college tradition to what higher education is currently in the United States. The emphasis is on how institutions of higher learning changed to meet the needs of the nation or failed to do so.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -536,7 +536,7 @@
         },
         {
             "name": "Administration and Governance of Higher Education",
-            "number": "9450",
+            "number": "ED_LPA 9450",
             "description": "Principles of administration, academic culture and environment, and structures of governance of higher education will be explored.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -545,7 +545,7 @@
         },
         {
             "name": "Higher Education Finance",
-            "number": "9451",
+            "number": "ED_LPA 9451",
             "description": "How students pay for college and how institutions finance their operations is explored through the lens of economics.  Topics include: Theories of student access, tuition and financial aid policy, institutional costs and revenue patterns, and resource allocation models.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -554,7 +554,7 @@
         },
         {
             "name": "Overview of Higher Education",
-            "number": "9452",
+            "number": "ED_LPA 9452",
             "description": "This course provides an overview of American Higher education. Emphasis is placed on how these institutions currently operate and what issues dominate current discussions of academe.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -563,7 +563,7 @@
         },
         {
             "name": "Continuing Education for the Professions",
-            "number": "9453",
+            "number": "ED_LPA 9453",
             "description": "Comparative study of education for the professions. Examination of professions as occupations, approaches and goals of preparatory and continuing education, professionals as adult learners and influence of intra-profession issues and societal exchange on education.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -572,7 +572,7 @@
         },
         {
             "name": "Introduction to Post-Secondary Law",
-            "number": "9454",
+            "number": "ED_LPA 9454",
             "description": "Examination of the legal structure within which higher education operates. Includes consideration of legal analysis of case law, institutional responsibilities under the law, and analysis of legal issues within postsecondary education.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -581,7 +581,7 @@
         },
         {
             "name": "The Community College",
-            "number": "9455",
+            "number": "ED_LPA 9455",
             "description": "An overview of the community college. Topics include historical roots and development of the community college, organization and governance, finance, students, faculty, administrators, curriculum, social role, and recurring and emerging issues.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -590,7 +590,7 @@
         },
         {
             "name": "The Professoriate",
-            "number": "9456",
+            "number": "ED_LPA 9456",
             "description": "Overview of faculty roles and work in U.S. colleges and universities.  Explores institutional and disciplinary differences and seeks to prepare future faculty for academic life.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -599,7 +599,7 @@
         },
         {
             "name": "Higher Education Policy",
-            "number": "9457",
+            "number": "ED_LPA 9457",
             "description": "An overview of current higher education policy issues facing governmental bodies and institutions. An emphasis is placed on investigating both the policy-making and policy-evaluation processes through multiple theoretical lenses. Specific topics explored include access, equity, and accountability within the higher education setting.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -608,7 +608,7 @@
         },
         {
             "name": "Comparative and International Education",
-            "number": "9459",
+            "number": "ED_LPA 9459",
             "description": "Theories, methods and issues in the field of comparative and international education.  Topics cover PK-16 education and include globalization, centralization and decentralization, equity and equity, teaching and student learning, and social context of education.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -617,7 +617,7 @@
         },
         {
             "name": "Philosophic Theory in Education",
-            "number": "9460",
+            "number": "ED_LPA 9460",
             "description": "Examines major ideological movements in modern education; their social antecedents and philosophic underpinnings.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -626,7 +626,7 @@
         },
         {
             "name": "Ethics in Education",
-            "number": "9461",
+            "number": "ED_LPA 9461",
             "description": "Explores the ethical dimensions of work within and related to educational settings focusing on dilemmas that occur in professional practice, theories that inform thinking about ethical issues, and frameworks that guide ethical decision making.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -635,7 +635,7 @@
         },
         {
             "name": "History of U.S. Education Policy",
-            "number": "9462",
+            "number": "ED_LPA 9462",
             "description": "Provides overview of major US education issues (primary K-12), explores analytic tools for studying history of education and introduces multiple ways of constructing the history of a particular movement reform or era in education.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -644,7 +644,7 @@
         },
         {
             "name": "Politics of Education",
-            "number": "9463",
+            "number": "ED_LPA 9463",
             "description": "Focuses on politics of education in the United States, attending to the influence of various institutions and actors at local, state, and federal levels. Students will examine current reforms in PK-12 education and their impact on the future of education.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -653,7 +653,7 @@
         },
         {
             "name": "Theory and Practice in Multicultural Education",
-            "number": "9464",
+            "number": "ED_LPA 9464",
             "description": "Designed to give educational professionals a better understanding of the theoretical foundations of multicultural education as well as current practices in this field.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -662,7 +662,7 @@
         },
         {
             "name": "Policy Analysis Using Large Data Bases",
-            "number": "9465",
+            "number": "ED_LPA 9465",
             "description": "Intends to develop students' capacity to process national level large databases and to conduct policy-related research.",
             "prerequisites": "an understanding of inferential statistics and experience with SPSS and SAS program",
             "hours": "3",
@@ -671,7 +671,7 @@
         },
         {
             "name": "Education Leadership Inquiry IV",
-            "number": "9469",
+            "number": "ED_LPA 9469",
             "description": "Developing and writing research proposals and conducting pilot studies.  Knowledge and skills in writing the research report and sharing research with others.",
             "prerequisites": "ED_LPA 9471, ED_LPA 9472 and ED_LPA 9473. Open only to students in Ed.D. Program in Educational Leadership",
             "hours": "1",
@@ -684,7 +684,7 @@
         },
         {
             "name": "Organizational Analysis for Educational Leadership",
-            "number": "9470",
+            "number": "ED_LPA 9470",
             "description": "Schools of organizational theory, six frames to analyze organizations and their underlying concepts, organizational change and leadership for change, and rationale for reframing organizations.",
             "prerequisites": "Open only to students in Ed.D. program in Educational Leadership",
             "hours": "4",
@@ -693,7 +693,7 @@
         },
         {
             "name": "Educational Leadership Inquiry I",
-            "number": "9471",
+            "number": "ED_LPA 9471",
             "description": "Introductory seminar on evaluating research using, APA Publication guidelines, writing scholarly publications, and using computer technology for literature searches.",
             "prerequisites": "Open only to students in Ed.D. Program in Educational Leadership",
             "hours": "2",
@@ -702,7 +702,7 @@
         },
         {
             "name": "Educational Leadership Inquiry II",
-            "number": "9472",
+            "number": "ED_LPA 9472",
             "description": "MU Graduate School policies related to doctoral research, use of multiple search sources, human subjects review process, and research ethics.",
             "prerequisites": "Open only to students in Ed.D. program in Educational Leadership",
             "hours": "1",
@@ -711,7 +711,7 @@
         },
         {
             "name": "Educational Leadership Inquiry III",
-            "number": "9473",
+            "number": "ED_LPA 9473",
             "description": "Knowledge and skills in applying planning procedures for development and implementation of future dissertation research.",
             "prerequisites": "Open only to students in Ed.D. Program in Educational Leadership",
             "hours": "1",
@@ -720,7 +720,7 @@
         },
         {
             "name": "Professional Seminar I",
-            "number": "9474",
+            "number": "ED_LPA 9474",
             "description": "Focuses on diversity and ethics in educational leadership and educational organizations. Students learn about professional development, professional practice, and professional service. May be repeated for credit.",
             "prerequisites": "Open only to students in Ed.D. Program in Educational Leadership",
             "hours": "1",
@@ -729,7 +729,7 @@
         },
         {
             "name": "Professional Seminar II",
-            "number": "9475",
+            "number": "ED_LPA 9475",
             "description": "Problem-based learning via the Internet to make decisions involving professional practice and problem solving. The UCEA Internet program, Information Environment for School Leader Preparation, is used. May be repeated for credit.",
             "prerequisites": "Open only to students in Ed.D. Program in Educational Leadership",
             "hours": "1",
@@ -738,7 +738,7 @@
         },
         {
             "name": "Leadership Theory and Practice",
-            "number": "9476",
+            "number": "ED_LPA 9476",
             "description": "An advanced study of leadership theories, concepts, and inquiry as applied to educational organizations. Explores power and authority in organizations, leader effectiveness, and organizational reform.",
             "prerequisites": "Open only to students in Ed.D. Program in Educational Leadership",
             "hours": "3",
@@ -747,7 +747,7 @@
         },
         {
             "name": "Leadership Theory and Practice Application",
-            "number": "9477",
+            "number": "ED_LPA 9477",
             "description": "Focuses on building understanding of the conduct of leadership in organizations through application and extension of leadership theories in practice.",
             "prerequisites": "Open only to students in Ed.D. Program in Educational Leadership",
             "hours": "1",
@@ -756,7 +756,7 @@
         },
         {
             "name": "Policy Analysis for Educational Leadership",
-            "number": "9478",
+            "number": "ED_LPA 9478",
             "description": "Analysis and investigation of educational policy utilizing various knowledge bases; organizational politics and culture's impact on policy processes; interpretation and application of policy-making activities.",
             "prerequisites": "Open only to students in Ed.D. Program in Ed. Leadership",
             "hours": "4",
@@ -765,7 +765,7 @@
         },
         {
             "name": "Content and Context of Learning",
-            "number": "9479",
+            "number": "ED_LPA 9479",
             "description": "Students develop the knowledge and skills for examining designing, and implementing organizational, classroom, and training conditions that support quality learning experiences for learners.",
             "prerequisites": "Open only to students in Ed.D. Program in Educational Leadership",
             "hours": "3",
@@ -774,7 +774,7 @@
         },
         {
             "name": "Team Building and Group Dynamics",
-            "number": "9480",
+            "number": "ED_LPA 9480",
             "description": "Stages of group development, team building and maintenance, team/group structures, team performance, problem-based learning as team process, and empowerment through development of self-managed teams.",
             "prerequisites": "Open only to students in Ed.D. Program in Educational Leadership",
             "hours": "1",
@@ -783,7 +783,7 @@
         },
         {
             "name": "Internship in Educational Leadership and Policy Analysis",
-            "number": "9481",
+            "number": "ED_LPA 9481",
             "description": "Some sections may be graded on A-F or S/U basis only.",
             "prerequisites": "departmental consent",
             "hours": "1-99",
@@ -792,7 +792,7 @@
         },
         {
             "name": "Quantitative Tools for Applied Research in Educational Leadership",
-            "number": "9482",
+            "number": "ED_LPA 9482",
             "description": "General introduction to quantitative methods of data analysis. Develop concepts of measurement, design, and analysis.  The focus is on data driven decision marking and using various quantitative methods to investigate problems of educational leadership practice. Graded on A-F basis only.",
             "prerequisites": "Only students in the Statewide Cooperative Ed.D. program in Educational Leadership can enroll",
             "hours": "3",
@@ -801,7 +801,7 @@
         },
         {
             "name": "Qualitative Tools for Applied Research in Eductional Leadership",
-            "number": "9483",
+            "number": "ED_LPA 9483",
             "description": "Students will learn about a number of qualitative research designs that leaders can use to critically examine research questions in their practice. They will also learn to analyze educational issues and execute processes to effectively explore those issues. Graded on A-F basis only.",
             "prerequisites": "Restricted to students in the Statewide Cooperative Ed.D. Program in Educational Leadership",
             "hours": "3",
@@ -810,7 +810,7 @@
         },
         {
             "name": "Program Evaluation and Planning for Educational Leaders",
-            "number": "9484",
+            "number": "ED_LPA 9484",
             "description": "Participants develop thorough knowledge of theoretical underpinnings of selected approaches to program planning and evaluation and their necessary integration. Affords participants the opportunity to plan, conduct and deliver the results of a program evaluation to actual client. Graded on A-F basis only.",
             "prerequisites": "Only students in the Statewide Cooperative Ed.D. Program in Educational Leadership can enroll",
             "hours": "3",
@@ -819,7 +819,7 @@
         },
         {
             "name": "Qualitative Methods in Educational Research II",
-            "number": "9620",
+            "number": "ED_LPA 9620",
             "description": "(same as ESC_PS 9620 and LTC 9620).  This course constructs a conceptual and methodological bridge between the understandings of qualitative research developed in Qualitative Methods I and more advanced study of theories, designs, and methods.  The focus is on theory, approaches to data analysis, and interpretation.  Graded on A-F basis only.",
             "prerequisites": "ESC_PS 8957",
             "hours": "3",

@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Human Language",
-            "number": "1060",
+            "number": "LINGST 1060",
             "description": "(same as ANTHRO 1060, C_S_D 1060, ENGLSH 1060).  General introduction to various aspects of linguistic study. Elementary analysis of language data, with some attention to application of linguistic study to other disciplines.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Topics in Linguistics-General",
-            "number": "2001",
+            "number": "LINGST 2001",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "consent of chair",
             "hours": "1-99",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Anthropological Linguistics",
-            "number": "2040",
+            "number": "LINGST 2040",
             "description": "(same as ANTHRO 2040). Language in relation to other aspects of human behavior. Introduction to description and analysis of the basic units of language. Emphasis on non-Indo-European and preliterate languages.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Languages of Africa",
-            "number": "2601",
+            "number": "LINGST 2601",
             "description": "(same as BL_STU 2601 and ENGLSH 2601). Introduction to the diversity of the 2000+ African languages, including first-hand experience exploring a few in detail with native speakers.  Features of African languages are compared with others of the world.  Political and social aspects of language in Africa are discussed.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Elementary Logic",
-            "number": "2700",
+            "number": "LINGST 2700",
             "description": "(same as PHIL 2700). Introduces a symbolic language for representing the structure of arguments. Presents precise rules for demonstrating the validity of arguments. Covers natural deduction for sentence and predicate logic. Develops skill in constructing derivations.",
             "prerequisites": "grade of C or higher in MATH 1100 or MATH 1120",
             "hours": "3",
@@ -52,16 +52,18 @@
         },
         {
             "name": "Introduction to Cognitive Science",
-            "number": "2820",
+            "number": "LINGST 2820",
             "description": "(same as PSYCH 2820 and PHIL 2820).  Cognitive science is the interdisciplinary study of the mind.  After an overview of the foundations of cognitive science as a whole, we will see what particular sectors of it have to say about mental capacities such as vision, language, categorization, and social cognition.",
             "prerequisites": "sophomore standing required",
             "hours": "3",
             "recommendation": "PSYCH 1000",
-            "connections": "None Listed"
+            "connections": [
+                "PSYCH 1000"
+            ]
         },
         {
             "name": "Topics in Linguistics-General",
-            "number": "3001",
+            "number": "LINGST 3001",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "consent of chair",
             "hours": "1-99",
@@ -70,7 +72,7 @@
         },
         {
             "name": "American Phonetics",
-            "number": "3010",
+            "number": "LINGST 3010",
             "description": "(same as C_S_D 3010). Analysis of production and acoustics of the sounds of speech with an emphasis on American English; practice in broad and narrow transcription using the International Phonetic Alphabet.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -79,7 +81,7 @@
         },
         {
             "name": "Anatomy and Physiology of the Speech Mechanism",
-            "number": "3210",
+            "number": "LINGST 3210",
             "description": "(same as C_S_D 3210). Introduction to anatomical and functional aspects of the speech mechanism.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -88,7 +90,7 @@
         },
         {
             "name": "Speech Acoustics",
-            "number": "3220",
+            "number": "LINGST 3220",
             "description": "(same as C_S_D 3220).  An introduction to the acoustic aspects of speech as they relate to the respiratory, phonatory, resonatory, and articulatory systems.",
             "prerequisites": "None Listed",
             "hours": "2",
@@ -97,7 +99,7 @@
         },
         {
             "name": "Culture as Communication",
-            "number": "3470",
+            "number": "LINGST 3470",
             "description": "(same as ANTHRO 3470, COMMUN 3470). Study of the influence of culture on communication processes. Examines topics such as the impact of values, languages, and nonverbal behavior on intercultural interaction.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -106,7 +108,7 @@
         },
         {
             "name": "Survey of Minority and Creole Languages of the U.S. and the Caribbean",
-            "number": "3710",
+            "number": "LINGST 3710",
             "description": "(same as SPAN 3710 and FRENCH 3710). Analysis of the state of the minority languages of the U.S. and the Creole languages of the Caribbean with particular attention to the social status of these languages and speakers' attitudes toward them in context of ethnic, cultural, and national identity (taught in English).",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -115,7 +117,7 @@
         },
         {
             "name": "Spanish Phonetics",
-            "number": "3721",
+            "number": "LINGST 3721",
             "description": "(same as SPAN 3721). Introductory course to the study of Spanish phonological, phonetic and spelling systems, practice of pronunciation, phonetic transcriptions, and introduction to the variation of Spanish pronunciation in the Hispanic world.  The course is conducted in Spanish.",
             "prerequisites": "SPAN 2160",
             "hours": "3",
@@ -126,7 +128,7 @@
         },
         {
             "name": "Topics in Linguistics-General",
-            "number": "4001",
+            "number": "LINGST 4001",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "consent of chair",
             "hours": "1-99",
@@ -135,7 +137,7 @@
         },
         {
             "name": "Topics in Linguistics-General - Writing Intenisve",
-            "number": "4001W",
+            "number": "LINGST 4001W",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "consent of chair",
             "hours": "1-99",
@@ -144,7 +146,7 @@
         },
         {
             "name": "Philosophy of Language",
-            "number": "4100",
+            "number": "LINGST 4100",
             "description": "(same as PHIL 4100).  Examination of contemporary views of the relationship between language, minds, and the world.",
             "prerequisites": "sophomore standing and PHIL 2700 or instructor's consent",
             "hours": "3",
@@ -155,7 +157,7 @@
         },
         {
             "name": "Advanced Logic",
-            "number": "4110",
+            "number": "LINGST 4110",
             "description": "(same as PHIL 4110; cross-leveled with LINGST 7110). Presents the method of truth trees for sentence and predicate logic. Examines proofs concerning the decidability, soundness, and completeness of formal systems. Emphasizes the theory of formal systems.",
             "prerequisites": "sophomore standing and PHIL 2700; or instructor's consent",
             "hours": "3",
@@ -166,7 +168,7 @@
         },
         {
             "name": "Introduction to Old English",
-            "number": "4200",
+            "number": "LINGST 4200",
             "description": "(same as ENGLSH 4200). A beginning study of the Old English or Anglo-Saxon language in its cultural context, with emphasis on gaining a reading knowledge.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -175,16 +177,19 @@
         },
         {
             "name": "Language and Culture",
-            "number": "4400",
+            "number": "LINGST 4400",
             "description": "(same as ANTHRO 4400). Interrelations between language, thought, culture, and society; role of language in cognition; methods and concepts of linguistics in cultural analysis.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "ANTHRO 2040 or LINGST 2040",
-            "connections": "None Listed"
+            "connections": [
+                "ANTHRO 2040",
+                "LINGST 2040"
+            ]
         },
         {
             "name": "Gender, Language and Communication",
-            "number": "4412",
+            "number": "LINGST 4412",
             "description": "(same as COMMUN 4412 and ANTHRO 4412). Relationships among gender, language, nonverbal communication, and culture.",
             "prerequisites": "junior standing or departmental consent",
             "hours": "3",
@@ -193,7 +198,7 @@
         },
         {
             "name": "Language and Discourse",
-            "number": "4415",
+            "number": "LINGST 4415",
             "description": "(same as COMMUN 4415). Analysis of the rules of social interaction and the functions of language in discourse.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -202,7 +207,7 @@
         },
         {
             "name": "Historical Linguistics",
-            "number": "4420",
+            "number": "LINGST 4420",
             "description": "(same as ANTHRO 4420). Methods of tracing the history of languages by glottochronology, and by comparative and internal reconstructions; cultural and linguistic implications of such reconstructions and of areal linguistics.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -211,7 +216,7 @@
         },
         {
             "name": "Structure of American English",
-            "number": "4600",
+            "number": "LINGST 4600",
             "description": "(same as ENGLSH 4600). Introduction to English linguistics. Study of the grammar and pronunciation of contemporary English, with the major focus on syntax.",
             "prerequisites": "junior standing",
             "hours": "3",
@@ -220,7 +225,7 @@
         },
         {
             "name": "History of the English Language",
-            "number": "4610",
+            "number": "LINGST 4610",
             "description": "(same as ENGLSH 4610). Historical changes in the grammar and pronunciation of the English language from Old English to the present. Introduction to Indo-European origins of English.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -229,16 +234,19 @@
         },
         {
             "name": "Regional and Social Dialects of American English",
-            "number": "4620",
+            "number": "LINGST 4620",
             "description": "(same as ENGLSH 4620). The study of regional and social variation in pronunciation, vocabulary, and syntax of American English.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "LINGST 4600 and LINGST 4610 or equivalent",
-            "connections": "None Listed"
+            "connections": [
+                "LINGST 4600",
+                "LINGST 4610"
+            ]
         },
         {
             "name": "Phonology",
-            "number": "4630",
+            "number": "LINGST 4630",
             "description": "(same as ENGLSH 4630). Survey of the sound patterns of English, with some comparison to other languages. ",
             "prerequisites": " ENGLSH 4600 or equivalent",
             "hours": ": 3",
@@ -249,7 +257,7 @@
         },
         {
             "name": "Syntax",
-            "number": "4640",
+            "number": "LINGST 4640",
             "description": "(same as ENGLSH 4640). Study of the properties of phrase and sentence-level grammar, emphasizing English, with some comparison to other languages.",
             "prerequisites": "LINGST 4600",
             "hours": "3",
@@ -260,7 +268,7 @@
         },
         {
             "name": "Principles of Teaching English as a Second Language",
-            "number": "4650",
+            "number": "LINGST 4650",
             "description": "(same as LTC 4460). Linguistic and pedagogical principles of teaching English to speakers of other languages.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -269,7 +277,7 @@
         },
         {
             "name": "History of the French Language",
-            "number": "4710",
+            "number": "LINGST 4710",
             "description": "(same as FRENCH 4710). Study of the French language from its Latin origin to the present.  The course includes a survey of the external, social, political, and historical factors that have affected the development of French, followed by diachronic study of the internal structural features of the language.",
             "prerequisites": "FRENCH 3420 and FRENCH 3430",
             "hours": "3",
@@ -281,7 +289,7 @@
         },
         {
             "name": "History of the Spanish Language",
-            "number": "4711",
+            "number": "LINGST 4711",
             "description": "(same as SPAN 4711). Diachronic analysis of phonological morphological, and syntactical systems of Spanish, from Vulgar Latin to contemporary dialects.",
             "prerequisites": "SPAN 3420 and SPAN 3430",
             "hours": "3",
@@ -293,7 +301,7 @@
         },
         {
             "name": "Structure of Modern French",
-            "number": "4720",
+            "number": "LINGST 4720",
             "description": "(same as FRENCH 4720). An introductory presentation of the phonological and syntactic systems of contemporary standard French.",
             "prerequisites": "FRENCH 3160",
             "hours": "3",
@@ -304,7 +312,7 @@
         },
         {
             "name": "Structure of Modern Spanish",
-            "number": "4721",
+            "number": "LINGST 4721",
             "description": "(same as SPAN 4721). Synchronic analysis of phonology morphology and syntax of spoken Spanish dialects.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -313,7 +321,7 @@
         },
         {
             "name": "Spanish Across the Continents",
-            "number": "4722",
+            "number": "LINGST 4722",
             "description": "(same as SPAN 4722).  This course focuses on the effects of migratory movements on language change, considering the Spanish spoken in Latin America, Puerto Rico, Spain and the USA.  The class sharpens awareness and recognition of the linguistic diversity of the Spanish-speaking regions of the world.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -322,7 +330,7 @@
         },
         {
             "name": "Language and Society",
-            "number": "4723",
+            "number": "LINGST 4723",
             "description": "(same as SPAN 4723). This class surveys linguistic and social issues pertaining to Spanish in the U.S. (past, present and future).  Topics include bilingualism, code switching (a.k.a. Spanglish), first language attrition, linguistic identity, and the role of Spanish in Education, services and media.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -331,7 +339,7 @@
         },
         {
             "name": "Linguistic Theory and Language Acquisition",
-            "number": "4730",
+            "number": "LINGST 4730",
             "description": "The goal of this class is to study the implications of current linguistic theory for contemporary research on second language acquisition. In particular, the hypothesis that second language acquisition follows some of the same principles as first language acquisition is explored. Course is taught in English.",
             "prerequisites": "LINGST 4720, LINGST 4721, or LINGST 4600",
             "hours": "3",
@@ -344,7 +352,7 @@
         },
         {
             "name": "Interdisciplinary Introduction to NLP",
-            "number": "4740",
+            "number": "LINGST 4740",
             "description": "(same as CMP_SC 4740; cross-leveled with LINGST 7740). The goal of this course is to enable students to develop substantive NLP applications.  Focus on current structural and statistical techniques for the parsing and interpretation of texts.",
             "prerequisites": "senior standing",
             "hours": "3",
@@ -353,7 +361,7 @@
         },
         {
             "name": "Psycholinguistics",
-            "number": "4810",
+            "number": "LINGST 4810",
             "description": "(same as C_S_D 4810). Examination of the knowledge and processes that underlie the human ability to produce and understand language.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -362,7 +370,7 @@
         },
         {
             "name": "Speech Perception",
-            "number": "4820",
+            "number": "LINGST 4820",
             "description": "(same as C_S_D 4820). Selected topics in the perceptual processing of spoken language.",
             "prerequisites": "senior standing",
             "hours": "3",
@@ -371,7 +379,7 @@
         },
         {
             "name": "Practical Phonetics for Fieldwork",
-            "number": "4850",
+            "number": "LINGST 4850",
             "description": "(same as ANTHRO 4850). Self-paced course using computer and tape recorded lessons from world's languages. Teaches practical articulatory and transcription phonetics. Weekly meeting with instructor to monitor progress, resolve questions.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -380,7 +388,7 @@
         },
         {
             "name": "Techniques in Linguistic Analysis",
-            "number": "4860",
+            "number": "LINGST 4860",
             "description": "(same as ANTHRO 4860). Problems in analyzing data from various languages.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -389,7 +397,7 @@
         },
         {
             "name": "Field Methods in Linguistics",
-            "number": "4870",
+            "number": "LINGST 4870",
             "description": "(same as ANTHRO 4870 and ENGLSH 4670). Intensive training in collection and analysis of data taken from a native speaker of non-Indo-European language.",
             "prerequisites": "instructor's consent",
             "hours": "4",
@@ -398,7 +406,7 @@
         },
         {
             "name": "Field Methods in Linguistics - Writing Intensive",
-            "number": "4870W",
+            "number": "LINGST 4870W",
             "description": "(same as ANTHRO 4870 and ENGLSH 4670). Intensive training in collection and analysis of data taken from a native speaker of non-Indo-European language.",
             "prerequisites": "instructor's consent",
             "hours": "4",
@@ -407,7 +415,7 @@
         },
         {
             "name": "Special Readings in Linguistics",
-            "number": "4960",
+            "number": "LINGST 4960",
             "description": "Independent study through readings, conferences, reports.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -416,7 +424,7 @@
         },
         {
             "name": "Studies in Linguistics",
-            "number": "4970",
+            "number": "LINGST 4970",
             "description": "Topic varies according to instructor.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -425,7 +433,7 @@
         },
         {
             "name": "Honors Thesis in Linguistics",
-            "number": "4991",
+            "number": "LINGST 4991",
             "description": "Based on an original research project in theoretical or applied linguistics. Topic, director, and second reader approved by Linguistics Committee, College of Arts and Science.",
             "prerequisites": "qualification for Honors degree",
             "hours": "3",
@@ -434,18 +442,21 @@
         },
         {
             "name": "Philosophy of Language",
-            "number": "7100",
+            "number": "LINGST 7100",
             "description": "(same as PHIL 7100).  Examination of contemporary views of the relationship between language, minds, and the world.",
             "prerequisites": "PHIL 2700 or instructor's consent",
             "hours": "3",
             "recommendation": "Some work in PHIL 1000, PHIL 3000 or PHIL 3200",
             "connections": [
-                "PHIL 2700"
+                "PHIL 2700",
+                "PHIL 1000",
+                "PHIL 3000",
+                "PHIL 3200"
             ]
         },
         {
             "name": "Advanced Logic",
-            "number": "7110",
+            "number": "LINGST 7110",
             "description": "(same as PHIL 7110; cross-leveled with LINGST 4110). Presents the method of truth trees for sentence and predicate logic. Examines proofs concerning the decidability, soundness, and completeness for formal systems. Emphasizes the theory of formal systems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -454,7 +465,7 @@
         },
         {
             "name": "Introduction to Old English",
-            "number": "7200",
+            "number": "LINGST 7200",
             "description": "(same as ENGLSH 7200). A beginning study of the Old English or Anglo-Saxon language in its cultural context, with emphasis on gaining a reading knowledge.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -463,7 +474,7 @@
         },
         {
             "name": "Language and Culture",
-            "number": "7400",
+            "number": "LINGST 7400",
             "description": "(same as ANTHRO 7400). Interrelations between language, thought, culture, and society; role of language in cognition; methods and concepts of linguistics in cultural analysis. ",
             "prerequisites": " ANTHRO 2040 or LINGST 2040 or equivalent",
             "hours": ": 3",
@@ -475,7 +486,7 @@
         },
         {
             "name": "Gender, Language, and Communication",
-            "number": "7412",
+            "number": "LINGST 7412",
             "description": "(same as COMMUN 7412 and ANTHRO 7412). Relationships among gender, language, nonverbal communication, and culture.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -484,7 +495,7 @@
         },
         {
             "name": "Language and Discourse",
-            "number": "7415",
+            "number": "LINGST 7415",
             "description": "(same as COMMUN 7415). Analysis of the rules of social interaction and the functions of language in discourse.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -493,7 +504,7 @@
         },
         {
             "name": "Historical Linguistics",
-            "number": "7420",
+            "number": "LINGST 7420",
             "description": "(same as ANTHRO 7420). Methods of tracing the history of languages by glottochronology, and by comparative and internal reconstructions; cultural and linguistic implications of such reconstructions and of areal linguistics.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -502,7 +513,7 @@
         },
         {
             "name": "Structure of American English",
-            "number": "7600",
+            "number": "LINGST 7600",
             "description": "(same as ENGLSH 7600). Introduction to English linguistics. Study of the grammar and pronunciation of contemporary English, with the major focus on syntax.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -511,7 +522,7 @@
         },
         {
             "name": "History of the English Language",
-            "number": "7610",
+            "number": "LINGST 7610",
             "description": "(same as ENGLSH 7610). Historical changes in the grammar and pronunciation of the English language from Old English to the present. Introduction to Indo-European origins of English.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -520,7 +531,7 @@
         },
         {
             "name": "Regional and Social Dialects of American English",
-            "number": "7620",
+            "number": "LINGST 7620",
             "description": "(same as ENGLSH 7620). The study of regional and social variation in pronunciation, vocabulary, and syntax of American English.",
             "prerequisites": "LINGST 4600 or LINGST 7600 and LINGST 7610 or equivalent",
             "hours": "3",
@@ -533,7 +544,7 @@
         },
         {
             "name": "Phonology",
-            "number": "7630",
+            "number": "LINGST 7630",
             "description": "(same as ENGLSH 7630). Survey of the sound patterns of English, with some comparison to other languages.",
             "prerequisites": "LINGST 7600 or another introductory course in linguistics or phonetics",
             "hours": "3",
@@ -544,7 +555,7 @@
         },
         {
             "name": "Syntax",
-            "number": "7640",
+            "number": "LINGST 7640",
             "description": "(same as ENGLSH 7640). Study of the properties of phrase-and sentence-level grammar, emphasizing English, with some comparison to other languages.",
             "prerequisites": "LINGST 4600 or another comparable linguistics course",
             "hours": "3",
@@ -555,7 +566,7 @@
         },
         {
             "name": "Principles of Teaching English as a Second Language",
-            "number": "7650",
+            "number": "LINGST 7650",
             "description": "(cross-leveled with LINGST 4650). Linguistic and pedagogical principles of teaching English to speakers of other languages.",
             "prerequisites": "LINGST 7600 and LINGST 7610 or equivalent",
             "hours": "3",
@@ -567,7 +578,7 @@
         },
         {
             "name": "History of the French Language",
-            "number": "7710",
+            "number": "LINGST 7710",
             "description": "(same as FRENCH 7710).",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -576,7 +587,7 @@
         },
         {
             "name": "History of the Spanish Language",
-            "number": "7711",
+            "number": "LINGST 7711",
             "description": "(same as SPAN 7711). Diachronic analysis of Spanish phonology, morphology, and syntax from Vulgar Latin to modern period.",
             "prerequisites": "completed with passing grade any Linguistics course 3000 or above or by instructor's consent",
             "hours": "3",
@@ -585,7 +596,7 @@
         },
         {
             "name": "Structure of Modern French",
-            "number": "7720",
+            "number": "LINGST 7720",
             "description": "(same as FRENCH 7720). An introductory presentation of the phonological and syntactic systems of contemporary standard French.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -594,7 +605,7 @@
         },
         {
             "name": "Structure of Modern Spanish",
-            "number": "7721",
+            "number": "LINGST 7721",
             "description": "(same as SPAN 7721). Synchronic analysis of phonology morphology and syntax of spoken Spanish dialects.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -603,7 +614,7 @@
         },
         {
             "name": "Linguistic Theory and Language Acquisition",
-            "number": "7730",
+            "number": "LINGST 7730",
             "description": "(same as RM_LAN 7730).  The goal of this class is to study the implications of current linguistic theory for contemporary research on second language acquisition. In particular, the hypothesis that second language acquisition follows some of the same principles as first language acquisition is explored. Course is taught in English.",
             "prerequisites": "LINGST 7720, LINGST 7721, LINGST 7600 or LINGST 7860",
             "hours": "3",
@@ -617,7 +628,7 @@
         },
         {
             "name": "Interdisciplinary Introduction to Natural Language Processing",
-            "number": "7740",
+            "number": "LINGST 7740",
             "description": "(same as CMP_SC 7740; cross-leveled with LINGST 4740). The goal of this course is to enable students to develop substantive NLP applications. Focus on current structural and statistical techniques for the parsing and interpretation of text.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -626,7 +637,7 @@
         },
         {
             "name": "Psycholinguistics",
-            "number": "7810",
+            "number": "LINGST 7810",
             "description": "(same as C_S_D 7810). Examines the knowledge and processes that underlie the human ability to produce and understand language.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -635,7 +646,7 @@
         },
         {
             "name": "Speech Perception",
-            "number": "7820",
+            "number": "LINGST 7820",
             "description": "(same as C_S_D 7820).  Selected topics in the perceptual processing of speech sounds and spoken language.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -644,7 +655,7 @@
         },
         {
             "name": "Practical Phonetics for Fieldwork",
-            "number": "7850",
+            "number": "LINGST 7850",
             "description": "(same as ANTHRO 7850). Self-paced course using computer and tape recorded lessons from world's languages. Teaches practical articulatory and transcription phonetics. Weekly meeting with instructor to monitor progress, resolve questions.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -653,7 +664,7 @@
         },
         {
             "name": "Techniques in Linguistic Analysis",
-            "number": "7860",
+            "number": "LINGST 7860",
             "description": "(same as ANTHRO 7860). Problems in analyzing data from various languages. ",
             "prerequisites": " introductory course in Linguistics or instructor's consent",
             "hours": ": 3",
@@ -662,7 +673,7 @@
         },
         {
             "name": "Field Methods in Linguistics",
-            "number": "7870",
+            "number": "LINGST 7870",
             "description": "(same as ANTHRO 7870 and ENGLSH 7670). Intensive training in collection and analysis of data taken from a native speaker of non-Indo-European language.",
             "prerequisites": "9 hours in Linguistics",
             "hours": "4",
@@ -671,7 +682,7 @@
         },
         {
             "name": "Problems",
-            "number": "8000",
+            "number": "LINGST 8000",
             "description": "Independent study through readings, analysis of special linguistic problems, reports.",
             "prerequisites": "one Advanced Linguistics course and instructor's consent",
             "hours": "3",
@@ -680,7 +691,7 @@
         },
         {
             "name": "Speech Science",
-            "number": "8100",
+            "number": "LINGST 8100",
             "description": "(same as C_S_D 8100). Introduction to the physiological and acoustic aspects of speech production; instrumentation for speech analysis including computer-based speech processing techniques.",
             "prerequisites": "C_S_D 3010, C_S_D 3210, and C_S_D 3230 or equivalents",
             "hours": "4",
@@ -693,7 +704,7 @@
         },
         {
             "name": "Speech Physiology",
-            "number": "8110",
+            "number": "LINGST 8110",
             "description": "(same as C_S_D 8110). Analysis of physiological features associated with speech subsystems; theories of encoding with special emphasis on speech motor control mechanisms.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -702,7 +713,7 @@
         },
         {
             "name": "Bilingualism and Language Contact",
-            "number": "8120",
+            "number": "LINGST 8120",
             "description": "(same as SPAN 8120 and FRENCH 8120). Global analysis of the study of Bilingualism from a combined sociocultural, sociolinguistic and psycholinguistic perspective based on current research and examination of various phenomena of language contact (taught in Eng.).",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -711,7 +722,7 @@
         },
         {
             "name": "Seminar in Anthropological Linguistics",
-            "number": "8487",
+            "number": "LINGST 8487",
             "description": "(same as ANTHRO 8487). Topics: Ethnolinguistics, linguistic prehistory, pidgin and Creole languages, linguistic theories and cultural and cultural analysis. French structural anthropology. May be repeated for 9 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -720,7 +731,7 @@
         },
         {
             "name": "Seminar in the English Language",
-            "number": "8600",
+            "number": "LINGST 8600",
             "description": "(same as ENGLSH 8600). Descriptive and historical studies of the English language. Topics (e.g., The Germanic Origins, Modern Syntactic Analysis) announced at time of registration. May be repeated up to twelve hours with departmental approval.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -729,7 +740,7 @@
         },
         {
             "name": "History of the German Language",
-            "number": "8615",
+            "number": "LINGST 8615",
             "description": "(same as GERMAN 8615).",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -738,7 +749,7 @@
         },
         {
             "name": "Middle High German",
-            "number": "8625",
+            "number": "LINGST 8625",
             "description": "(same as GERMAN 8625).",
             "prerequisites": "None Listed",
             "hours": "3",

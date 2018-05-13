@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introductory Meteorology",
-            "number": "1050",
+            "number": "GEOG 1050",
             "description": "(same as ATM_SC 1050). Physical processes of atmosphere in relation to day-to-day changes in weather.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Regions and Nations of the World I",
-            "number": "1100",
+            "number": "GEOG 1100",
             "description": "Introductory analysis for general education. Regional character, spatial relationships, major problems of Europe, North America (United States and Canada) and Latin America. Organized around basic concepts in field of geography.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Regions and Nations of the World I - Honors",
-            "number": "1100H",
+            "number": "GEOG 1100H",
             "description": "Introductory analysis for general education. Regional character, spatial relationships, major problems of Europe, North America (United States and Canada) and Latin America. Organized around basic concepts in field of geography.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Regions and Nations of the World II",
-            "number": "1200",
+            "number": "GEOG 1200",
             "description": "Introductory analysis for general education. Regional character, spatial relationships, problems of environment and development of the former Soviet Union, Pacific World, South and East Asia, Africa and Middle East.  Organized around basic concepts in the field of geography. May be taken independently of GEOG 1100.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Regions and Nations General Honors",
-            "number": "1205H",
+            "number": "GEOG 1205H",
             "description": "",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Introduction to the Humanized Earth",
-            "number": "1550",
+            "number": "GEOG 1550",
             "description": "Examines human culture as a geographical element; the power of culture and human institutions in human-environmental interaction and the creation of agriculture, folk culture, popular culture, cities, and a broad range of cultural landscapes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Climate Change: Science and Public Policy",
-            "number": "1600",
+            "number": "GEOG 1600",
             "description": "This course will explore the role of physical science, environmental politics and public policy in shaping contemporary debate concerning climate change, mitigation, and adaptation strategies.  We will examine the scientific rationale and statistical basis underwriting the concept of climate change, why aspects of the science remain controversial, the prospects of institutional action and the difficulties inherent in developing public policies targeting mitigation and adaptation.   Course includes a role-laying simulation where students will play roles based on 2009 climate negations in Copenhagen, Denmark.  Graded on A-F basis only.",
             "prerequisites": "freshman and sophomores only",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Digital Earth: Introduction to the Geospatial Technologies",
-            "number": "1800",
+            "number": "GEOG 1800",
             "description": "Introduction to technologies used to map a changing world, with an emphasis on digital mapping explorations of human and environmental interactions on Earth.  Course includes lab and fieldwork to introduce geographic information data collection and analysis techniques.  Graded on A/F basis only.  May be repeated for credit.",
             "prerequisites": "Freshman and sophomore standing or instructor's consent",
             "hours": "3",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Global Environmental Change",
-            "number": "1840",
+            "number": "GEOG 1840",
             "description": "Course uses a geographic framework to study patterns and processes related to global environmental change.  Topics include environmental reconstruction, water resources, human-environment interactions, glaciers, fire, and climate.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Our Dynamic Planet in Film",
-            "number": "1900",
+            "number": "GEOG 1900",
             "description": "This course focuses on using documentary films (e.g., Planet Earth) as a medium for studying how global environmental change is impacting all spheres of our dynamic planet. To ensure a more complete understanding of course material, films are supplemented with active lectures and discussions of assigned readings from both periodicals and peer-reviewed literature that emphasize key points illustrated in the films. In doing so, this course synthesizes material from numerous fields of study that fall under the burgeoning umbrella field of global change ecology. This synthetic approach is used to highlight the formidable linkages on Earth between the non-living and living, thus permitting students to gain an appreciation and holistic understanding of how global environmental change is impacting Earth processes responsible for creating both our current landscapes and the remarkable diversity of life that inhabit them.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Exploring Geography",
-            "number": "2010",
+            "number": "GEOG 2010",
             "description": "We are all explorers. As children, we grew up testing the boundaries of our known worlds and trying to understand what was beyond. Geography gives us the means to formalize this impulse to explore the world around us, both local and distant. It allows us to make sense of the ways in which space and relationships between objects drives much of human, social, and environmental interaction. In this course, we will illustrate some of the principle ways in which Geographers investigate, explain, and map meaning, pushing the boundaries of what we know as individuals and society. Using a combination of discussion and field exercises, students will be asked to engage with a number of critical societal issues that have geographical elements at their core. Examples include the Geography of crime, imagining place, the city of the future, environmental change, terrorism, human trafficking, drones, and sustainability.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -103,7 +103,7 @@
         },
         {
             "name": "United States and Canada",
-            "number": "2120",
+            "number": "GEOG 2120",
             "description": "Intensive examination of selected areas and distributions. Regional systems, problems and planning.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Geography of Missouri",
-            "number": "2130",
+            "number": "GEOG 2130",
             "description": "Physical, human, economic, and political geography of Missouri; regions of the state; geography applied to current state issues.",
             "prerequisites": "GEOG 1100",
             "hours": "3",
@@ -123,7 +123,7 @@
         },
         {
             "name": "Geography of Europe",
-            "number": "2210",
+            "number": "GEOG 2210",
             "description": "Survey of Europe's lands and peoples; emphasis on historical areal relationships as reflected in Europe's changing economic and political organization.",
             "prerequisites": "sophomore standing",
             "hours": "3",
@@ -132,7 +132,7 @@
         },
         {
             "name": "Geography of East Asia",
-            "number": "2260",
+            "number": "GEOG 2260",
             "description": "Cultural, physical and economic geography of China, Japan, and Korea, with emphasis on China. Landscape analysis, determination of regional identities, and study of political forces evident in the development of the contemporary scene are stressed.",
             "prerequisites": "GEOG 1200",
             "hours": "3",
@@ -143,7 +143,7 @@
         },
         {
             "name": "Geography of Asia",
-            "number": "2270",
+            "number": "GEOG 2270",
             "description": "(same as  S_A_ST 2270). An introductory survey of the geography of Asia from India through Southeast Asia to China and Japan, emphasizing factors contributing to cultural similarities and variations, conflicts of interest, and current development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -152,7 +152,7 @@
         },
         {
             "name": "Race, Democracy, and Violence in Cuba and Haiti",
-            "number": "2280",
+            "number": "GEOG 2280",
             "description": "(same as PEA_ST 2280, SOCIOL 2280). A sociological approach to understand race/ethnicity, identity, citizenship, human rights, violence, and political and economic systems in the Caribbean. Comparisons of the culture, politics, and historical trajectories of Cuba and Haiti using Post-Colonial and Feminist theories. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -161,7 +161,7 @@
         },
         {
             "name": "Race, Democracy, and Violence in Cuba and Haiti - Writing Intensive",
-            "number": "2280W",
+            "number": "GEOG 2280W",
             "description": "(same as PEA_ST 2280W, SOCIOL 2280W). A sociological approach to understand race/ethnicity, identity, citizenship, human rights, violence, and political and economic systems in the Caribbean. Comparisons of the culture, politics, and historical trajectories of Cuba and Haiti using Post-Colonial and Feminist theories. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -170,7 +170,7 @@
         },
         {
             "name": "South America",
-            "number": "2340",
+            "number": "GEOG 2340",
             "description": "Physical environment and culture in the regional development of South America.",
             "prerequisites": "one course in Geography or instructor's consent",
             "hours": "3",
@@ -179,7 +179,7 @@
         },
         {
             "name": "Themes in the Geography of Africa South of the Sahara",
-            "number": "2450",
+            "number": "GEOG 2450",
             "description": "(same as BL_STU 2450).  Major concepts of African geography in current and historical perspective. Case studies of major African countries.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -188,7 +188,7 @@
         },
         {
             "name": "Geography of Cemeteries",
-            "number": "2580",
+            "number": "GEOG 2580",
             "description": "Cemeteries have a discernible spatial and temporal pattern providing a foundation for geographical study.  Migration, demographics, spatial analysis and basic mapping skills will be used to investigate cemeteries and their pattern.",
             "prerequisites": "freshman and sophomores only",
             "hours": "3",
@@ -197,7 +197,7 @@
         },
         {
             "name": "Climate, Landforms and Vegetation: Introduction to Physical Geography",
-            "number": "2610",
+            "number": "GEOG 2610",
             "description": "Examination of the interacting natural systems that comprise the Earth's physical environment, including the atmosphere, biosphere, and landforms.  Focus on relating fundamental physical, chemical and ecological processes to the global geographic patterns they produce.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -206,7 +206,7 @@
         },
         {
             "name": "Environmental Geography",
-            "number": "2660",
+            "number": "GEOG 2660",
             "description": "Historical perspectives on the human agency in transforming the earth, with emphasis on international environmental problems. Topics include basic biogeography; environmental impacts of population growth, underdevelopment and overdevelopment; and new approaches to management of global resources.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -215,7 +215,7 @@
         },
         {
             "name": "Economic Geography",
-            "number": "2710",
+            "number": "GEOG 2710",
             "description": "Geographical location and organization of world's major economic activities. Emphasizes agricultural and industrial patterns, commodity flows, transport networks, geographical principles of market and industrial location, internal spatial organization of cities, land-use models, geographic aspects of economics growth.",
             "prerequisites": "GEOG 1100 or  GEOG 1200 or sophomore standing",
             "hours": "3",
@@ -227,7 +227,7 @@
         },
         {
             "name": "The City",
-            "number": "2720",
+            "number": "GEOG 2720",
             "description": "Study of cities: origin, development, distribution; social, economic, and demographic significance. Consideration of theories of structure, urban hierarchies, and land use planning.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -236,7 +236,7 @@
         },
         {
             "name": "Topics in Geography-Social Science",
-            "number": "2904",
+            "number": "GEOG 2904",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "sophomore standing, departmental consent for repetition",
             "hours": "1-3",
@@ -245,7 +245,7 @@
         },
         {
             "name": "Topics in Geography-Social Science - Writing Intensive",
-            "number": "2904W",
+            "number": "GEOG 2904W",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
             "prerequisites": "sophomore standing, departmental consent for repetition",
             "hours": "1-3",
@@ -254,7 +254,7 @@
         },
         {
             "name": "Introduction to Geographic Information Systems GIS",
-            "number": "3040",
+            "number": "GEOG 3040",
             "description": "(same as  CV_ENG 3050). Introduces theory, concepts and techniques related to the creation, manipulation, processing, and basic analysis of spatial data using GIS.  Data management, current data models, GIS applications and course topics are reinforced through hands-on computer laboratory exercises.",
             "prerequisites": "sophomore standing or instructor's consent",
             "hours": "3",
@@ -263,7 +263,7 @@
         },
         {
             "name": "Mexico, Central America, and the Caribbean",
-            "number": "3140",
+            "number": "GEOG 3140",
             "description": "Physical environment and culture in the regional development of Mexico, Central America, and the Caribbean.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -272,7 +272,7 @@
         },
         {
             "name": "Southeast Asia",
-            "number": "3260",
+            "number": "GEOG 3260",
             "description": "(same as S_A_ST 3260). Physical, cultural, historical and regional geography of Southeast Asia, with an introduction to East Asian geography. Emphasizes the problems of tradition and development.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -281,7 +281,7 @@
         },
         {
             "name": "Geography of the Middle East",
-            "number": "3270",
+            "number": "GEOG 3270",
             "description": "Cultural, physical and historical geography of Middle East, with emphasis on cultural adaptations to environments and conflicts over the resources.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -290,7 +290,7 @@
         },
         {
             "name": "Geography of South Asia",
-            "number": "3280",
+            "number": "GEOG 3280",
             "description": "(same as S_A_ST 3280). Topical and regional analysis of India, Pakistan, Sri Lanka. Historical development of distinctive cultural regions. Relations with neighboring areas. Impact of Westernization on economic activities, settlements, population.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -299,7 +299,7 @@
         },
         {
             "name": "Geography of Russia and the Newly Independent States of Eurasia",
-            "number": "3290",
+            "number": "GEOG 3290",
             "description": "Geographic analysis of social, economic and political issues confronting Russia and the NIS, including environmental problems, economic interdependence and prospects for regional economic development, population change and migration, inter-ethnic relations and ethno-territorial conflict.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -308,7 +308,7 @@
         },
         {
             "name": "Special Problems in Geography",
-            "number": "3385",
+            "number": "GEOG 3385",
             "description": "Independent investigation leading to a paper or project. May be repeated to a maximum of 6 hours.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -317,7 +317,7 @@
         },
         {
             "name": "Geography of Africa",
-            "number": "3450",
+            "number": "GEOG 3450",
             "description": "Major concepts of African geography in current and historical perspective.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -326,7 +326,7 @@
         },
         {
             "name": "Digital Indigenous Studies",
-            "number": "3496",
+            "number": "GEOG 3496",
             "description": "(same as PEA_ST 3496).  This course introduces students to Indigenous studies in a digital world.  The course begins with study of Indigenous sovereignty and representation, and moves quickly to critical and theoretical readings in new media, tracing both the historical impact of digital technologies (such as GIS) on Native communities, and the ways that both urban and rural Native communities have engaged in innovative digital projects that expand the way we understand information and storytelling in digital environments.  The course materials will cover a wide range of platforms and audio-visual genres, from documentary, community video, and animation productions, to GIS, video games, and social media sites. Students will engage with both scholars and artists working with new media through a program of public lectures, classroom visits, and Skype interviews.  All interview will be archived as podcasts from the course website.  Students will write weekly short response papers and produce independent audio-visual projects over the course of the semester, with opportunities to revise their work leading up to substantial final projects.  The course will also integrate community outreach into the curriculum through online participation of students from the Kiowa Kids, an Indigenous language immersion and storytelling program.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -335,7 +335,7 @@
         },
         {
             "name": "Digital Indigenous Studies - Honors",
-            "number": "3496H",
+            "number": "GEOG 3496H",
             "description": "(same as PEA_ST 3496H).  This course introduces students to Indigenous studies in a digital world.  The course begins with study of Indigenous sovereignty and representation, and moves quickly to critical and theoretical readings in new media, tracing both the historical impact of digital technologies (such as GIS) on Native communities, and the ways that both urban and rural Native communities have engaged in innovative digital projects that expand the way we understand information and storytelling in digital environments.  The course materials will cover a wide range of platforms and audio-visual genres, from documentary, community video, and animation productions, to GIS, video games, and social media sites. Students will engage with both scholars and artists working with new media through a program of public lectures, classroom visits, and Skype interviews.  All interview will be archived as podcasts from the course website.  Students will write weekly short response papers and produce independent audio-visual projects over the course of the semester, with opportunities to revise their work leading up to substantial final projects.  The course will also integrate community outreach into the curriculum through online participation of students from the Kiowa Kids, an Indigenous language immersion and storytelling program.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -344,7 +344,7 @@
         },
         {
             "name": "Digital Indigenous Studies - Writing Intensive",
-            "number": "3496W",
+            "number": "GEOG 3496W",
             "description": "(same as PEA_ST 3496).  This course introduces students to Indigenous studies in a digital world.  The course begins with study of Indigenous sovereignty and representation, and moves quickly to critical and theoretical readings in new media, tracing both the historical impact of digital technologies (such as GIS) on Native communities, and the ways that both urban and rural Native communities have engaged in innovative digital projects that expand the way we understand information and storytelling in digital environments.  The course materials will cover a wide range of platforms and audio-visual genres, from documentary, community video, and animation productions, to GIS, video games, and social media sites. Students will engage with both scholars and artists working with new media through a program of public lectures, classroom visits, and Skype interviews.  All interview will be archived as podcasts from the course website.  Students will write weekly short response papers and produce independent audio-visual projects over the course of the semester, with opportunities to revise their work leading up to substantial final projects.  The course will also integrate community outreach into the curriculum through online participation of students from the Kiowa Kids, an Indigenous language immersion and storytelling program.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -353,7 +353,7 @@
         },
         {
             "name": "Historical Geography of North America",
-            "number": "3510",
+            "number": "GEOG 3510",
             "description": "Analysis of selected geographical patterns and themes in the continent's past. Focus is explicitly geographical, stressing extensive use of maps and recent scholarly work by historical geographers.",
             "prerequisites": "junior standing, or instructor's consent",
             "hours": "3",
@@ -362,7 +362,7 @@
         },
         {
             "name": "Geographies of Sexualities",
-            "number": "3540",
+            "number": "GEOG 3540",
             "description": "(Same as WGST 3540) This class will explore the relationship of sexuality and space.  The class will focus on the ways that sexuality creates particular spaces, and the ways that sexuality and space shape one another in the midst of nation, gender, religion, race, class, and generation.",
             "prerequisites": "Sophomore standing required",
             "hours": "3",
@@ -371,7 +371,7 @@
         },
         {
             "name": "Native American Geographies",
-            "number": "3560",
+            "number": "GEOG 3560",
             "description": "A survey of the Native American geographies in the United States.  Historical and contemporary topics are covered employing cross-cultural perspectives including some philosophical views of the Earth and society, sense of place, memory, sacred land, colonialism and GIS representations, and natural resources.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -380,7 +380,7 @@
         },
         {
             "name": "Native American Geographies - Writing Intensive",
-            "number": "3560W",
+            "number": "GEOG 3560W",
             "description": "A survey of the Native American geographies in the United States.  Historical and contemporary topics are covered employing cross-cultural perspectives including some philosophical views of the Earth and society, sense of place, memory, sacred land, colonialism and GIS representations, and natural resources.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -389,7 +389,7 @@
         },
         {
             "name": "Climates of the World",
-            "number": "3600",
+            "number": "GEOG 3600",
             "description": "(same as ATM_SC 3600). A study of the world distribution of climates based on \"cause and effect\" relationships. Special attention is given to the impacts of climate on humanity.",
             "prerequisites": "GEOG 1050 or equivalent or graduate standing",
             "hours": "3",
@@ -400,7 +400,7 @@
         },
         {
             "name": "Physical Geography of the United States",
-            "number": "3610",
+            "number": "GEOG 3610",
             "description": "Study of natural regions of the United States by integrating topics from landforms, geology, climate, soils, vegetation, resources, and land use.",
             "prerequisites": "GEOG 2610",
             "hours": "3",
@@ -411,7 +411,7 @@
         },
         {
             "name": "Earth Surface Systems",
-            "number": "3630",
+            "number": "GEOG 3630",
             "description": "Systematic study of landforms geomorphic processes governing them. Provides a foundation for the theoretical, technical, and practical understanding of environmental systems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -420,7 +420,7 @@
         },
         {
             "name": "Geography and Planning",
-            "number": "3740",
+            "number": "GEOG 3740",
             "description": "Emphasis on geographic techniques for gathering and generating environmental information for planners. Principles of land use planning will be applied to selected regions.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -429,7 +429,7 @@
         },
         {
             "name": "Geography of the World's Religions",
-            "number": "3760",
+            "number": "GEOG 3760",
             "description": "(same as REL_ST 3760).  Explores the significance of place in the origin, diffusion, distribution and practice of religions, emphasizing imprints of religion on the cultural landscape and connections between culture, politics, economics, and religion.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -438,7 +438,7 @@
         },
         {
             "name": "Geography of the World's Religions - Writing Intensive",
-            "number": "3760W",
+            "number": "GEOG 3760W",
             "description": "(same as REL_ST 3760).  Explores the significance of place in the origin, diffusion, distribution and practice of religions, emphasizing imprints of religion on the cultural landscape and connections between culture, politics, economics, and religion.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -447,7 +447,7 @@
         },
         {
             "name": "World Political Geography: Patterns and Processes",
-            "number": "3780",
+            "number": "GEOG 3780",
             "description": "(same as PEA_ST 3780). Geographic factors in the development of political boundaries traditions, and societal perspectives. Spatial patterns and geopolitical processes are explored in selected regions of the world.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -456,25 +456,30 @@
         },
         {
             "name": "Geography of Travel and Tourism",
-            "number": "3800",
+            "number": "GEOG 3800",
             "description": "This course examines the fundamentals of the geography of tourism and travel in both foreign and domestic contexts. During the past few decades, tourism has been a fast growing industry around the world, although tourism can easily be negatively influenced by terrorism, natural disasters, and economic downturns. During the semester we'll look at several common types of tourism and focus on the positive and negative impacts of tourism upon local cultures, the environment, and economic development. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GEOG 1100 or GEOG 1200 or sophomore standing",
-            "connections": "None Listed"
+            "connections": [
+                "GEOG 1100",
+                "GEOG 1200"
+            ]
         },
         {
             "name": "Remote Sensing",
-            "number": "3830",
+            "number": "GEOG 3830",
             "description": "Introduction to the principles of remote sensing of the environment. Digital imagery from spacecraft, conventional and high-altitude aerial photography, thermal imaging, and microwave remote sensing.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GEOG 2840",
-            "connections": "None Listed"
+            "connections": [
+                "GEOG 2840"
+            ]
         },
         {
             "name": "Cartography",
-            "number": "3840",
+            "number": "GEOG 3840",
             "description": "Principles of computer-assisted cartography. Automated cartographic display. \"Hands on\" experience with computer-mapping software and hardware systems. Role of computers in map design. Digital encoding of geographic data.",
             "prerequisites": "GEOG 2840",
             "hours": "3",
@@ -485,7 +490,7 @@
         },
         {
             "name": "Topics in Geography - Social Science",
-            "number": "3904",
+            "number": "GEOG 3904",
             "description": "Organized study of selected topics.  Subjects and earnable credit may vary from semester to semester.  May be repeated up to 6 hours credit with departmental consent.",
             "prerequisites": "sophomore standing",
             "hours": "1-12",
@@ -494,7 +499,7 @@
         },
         {
             "name": "The Geospatial Sciences in National Security",
-            "number": "4130",
+            "number": "GEOG 4130",
             "description": "(Same as CV_ENG 4175). This course explores the critical contribution of the geospatial sciences in the collection, processing, visualization and analysis of geospatial information related to national security.  May be repeated for credit.",
             "prerequisites": "junior standing or above required",
             "hours": "3",
@@ -503,7 +508,7 @@
         },
         {
             "name": "Special Readings in Geography",
-            "number": "4390",
+            "number": "GEOG 4390",
             "description": "Independent readings selected in consultation with supervisory faculty member. May be repeated to a maximum of 6 hours.",
             "prerequisites": "instructor's consent and independent study contract",
             "hours": "1-3",
@@ -512,7 +517,7 @@
         },
         {
             "name": "Environmental Biophysics",
-            "number": "4520",
+            "number": "GEOG 4520",
             "description": "(same as ATM_SC 4520). Students will learn techniques and principles used to describe the microenvironment of living organisms and use quantitative expressions to estimate missing values, and mass transfer laws to estimate flux of energy, water and gas.",
             "prerequisites": "College Physics and Calculus I",
             "hours": "3",
@@ -521,7 +526,7 @@
         },
         {
             "name": "Selected Themes in Cultural Geography",
-            "number": "4550",
+            "number": "GEOG 4550",
             "description": "Case studies in the patterns and processes of human-environmental interactions. Study of the cultural forces responsible for the continual transformation of the earth's cultural landscapes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -530,7 +535,7 @@
         },
         {
             "name": "Resources and Indigenous Peoples",
-            "number": "4560",
+            "number": "GEOG 4560",
             "description": "This is a survey of indigenous peoples' struggle to control and use natural resources, to have a say in determining the path of economic development, and to restrain the destructive tendencies of colonialism and capitalism, challenging traditional state-to-state relations.",
             "prerequisites": "Junior standing required",
             "hours": "3",
@@ -539,16 +544,18 @@
         },
         {
             "name": "Biogeography: Global Patterns of Life",
-            "number": "4620",
+            "number": "GEOG 4620",
             "description": "Analysis of the patterns and processes of plant distribution in the contemporary landscape, stressing environmental influences and vegetation dynamics, particularly as they relate to North American vegetation.",
             "prerequisites": "None Listed",
             "hours": "3",
             "recommendation": "GEOG 2610",
-            "connections": "None Listed"
+            "connections": [
+                "GEOG 2610"
+            ]
         },
         {
             "name": "River and Stream Dynamics",
-            "number": "4630",
+            "number": "GEOG 4630",
             "description": "Systematic study of river mechanics, stream-channel form, river management and restoration. Provides a theoretical and practical understanding of stream systems.",
             "prerequisites": "GEOG 2610 and GEOG 3630, or instructor's consent",
             "hours": "3",
@@ -560,7 +567,7 @@
         },
         {
             "name": "Spatial Analysis in Geography",
-            "number": "4710",
+            "number": "GEOG 4710",
             "description": "Application of statistical methods to geographic research. Prepares students to utilize advanced methodologies and models in spatial analysis. Includes computer analysis of geographical data.Math Reasoning Proficiency Course",
             "prerequisites": "MATH 1100 or MATH 1120",
             "hours": "3",
@@ -572,7 +579,7 @@
         },
         {
             "name": "Seminar in Geography Education",
-            "number": "4720",
+            "number": "GEOG 4720",
             "description": "Study and research on fundamental themes in geography. Integration of these themes into regional and systematic approaches to the teaching of geography. Enrollment is restricted to students pursuing or considering careers in teaching.",
             "prerequisites": "junior standing and instructor's consent",
             "hours": "3",
@@ -581,7 +588,7 @@
         },
         {
             "name": "Location Analysis and Site Selection",
-            "number": "4740",
+            "number": "GEOG 4740",
             "description": "(same as CV_ENG 4185).  An overview of location analysis in regional planning and spatial decision support, this course focuses on the use of Geographic Information Science (GIS) and location analysis methods in addressing regional service needs.  May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -590,7 +597,7 @@
         },
         {
             "name": "Migration and Immigration",
-            "number": "4770",
+            "number": "GEOG 4770",
             "description": "Explores demographic, economic, and social issues surrounding immigration and migration. The course focuses on the global labor migration system, immigration to the United States, and internal migration within the US, as well as the linkages between these systems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -599,7 +606,7 @@
         },
         {
             "name": "Selected Themes in Political Geography",
-            "number": "4780",
+            "number": "GEOG 4780",
             "description": "Study of basic writing, dominant geographers, case studies, bibliographies and development of research methods.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -608,7 +615,7 @@
         },
         {
             "name": "Geographic Information Systems for the Social Sciences",
-            "number": "4790",
+            "number": "GEOG 4790",
             "description": "Designed for social science students interested in learning about the tools available in GIS for linking to and analyzing spatial qualitative data.  Uses multiple data sources (qualitative and quantitative),  applied within a social context, using spatial investigation procedures to detect geographical trends in data sets.  Primary focus is on how GIS can enhance social science research.",
             "prerequisites": "juniors and seniors only",
             "hours": "3",
@@ -617,7 +624,7 @@
         },
         {
             "name": "Landscape Ecology and GIS Analysis I",
-            "number": "4810",
+            "number": "GEOG 4810",
             "description": "(same as NAT_R 4385). Examination of the landscape-scale approach to biodiversity, ecosystem dynamics, and habitat management. Particular emphasis on the use of Geographic Information Systems to analyze the spatial dimension of ecological patterns and processes.",
             "prerequisites": "GEOG 3040, or instructor's consent",
             "hours": "3",
@@ -628,7 +635,7 @@
         },
         {
             "name": "Transportation Geography",
-            "number": "4850",
+            "number": "GEOG 4850",
             "description": "(same as CV_ENG 4155).  Introduction to fundamental concepts and modes of analysis in transportation geography.  Focus on descriptive, explanatory, as well as normative approaches.  Topics reviewed include spatial organization, transportation economics, spatial interaction, network analysis, location/allocation, and urban transportation planning.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -637,7 +644,7 @@
         },
         {
             "name": "Advanced Remote Sensing",
-            "number": "4860",
+            "number": "GEOG 4860",
             "description": "Advanced remote sensing to provide digital image processing techniques for satellite and airborne imagery; emphasis on spatial/spectral analysis, image classification and land use/land cover change detection.  Class project heavily involved.",
             "prerequisites": "GEOG 3830",
             "hours": "3",
@@ -648,7 +655,7 @@
         },
         {
             "name": "Topics in Geography-Social Science",
-            "number": "4904",
+            "number": "GEOG 4904",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Must get departmental Consent for repetition.",
             "prerequisites": "junior standing",
             "hours": "1-12",
@@ -657,7 +664,7 @@
         },
         {
             "name": "Topics in Geography-Social Science - Writing Intensive",
-            "number": "4904W",
+            "number": "GEOG 4904W",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Must get departmental Consent for repetition.",
             "prerequisites": "junior standing",
             "hours": "1-12",
@@ -666,7 +673,7 @@
         },
         {
             "name": "Advanced Geographic Information Systems (GIS II)",
-            "number": "4940",
+            "number": "GEOG 4940",
             "description": "(cross-leveled with GEOG 7940). Advanced study of geographic and spatial analysis and modeling utilizing Geographic Information Systems technology.  Focus on project management, research applications, and geostatistical analysis through independent research projects.",
             "prerequisites": "GEOG 3040 or instructor's permission",
             "hours": "3",
@@ -677,7 +684,7 @@
         },
         {
             "name": "Internship in Applied Geography and Cartography",
-            "number": "4945",
+            "number": "GEOG 4945",
             "description": "Regularized individual work experience with local, regional, state or national agencies, with guidance and readings supplied by faculty coordinator. May repeat to maximum of 6 hours.",
             "prerequisites": "Departmental consent required",
             "hours": "1-3",
@@ -686,7 +693,7 @@
         },
         {
             "name": "Senior Seminar in Geography",
-            "number": "4990",
+            "number": "GEOG 4990",
             "description": "A seminar in selected themes in Geography. Class will focus on research, writing, presenting, and discussing themes in contemporary geography. Required of all majors prior to graduation.",
             "prerequisites": "5 courses in geography or instructor's consent",
             "hours": "3",
@@ -695,7 +702,7 @@
         },
         {
             "name": "Honors in Geography",
-            "number": "4996H",
+            "number": "GEOG 4996H",
             "description": "Special work for Honors candidates in geography.  ",
             "prerequisites": "   Honors eligibility required",
             "hours": ": 3",
@@ -704,7 +711,7 @@
         },
         {
             "name": "Honors in Geography - Honors/Writing Intensive",
-            "number": "4996HW",
+            "number": "GEOG 4996HW",
             "description": "Special work for Honors candidates in geography.  ",
             "prerequisites": "   Honors eligibility required",
             "hours": ": 3",
@@ -713,7 +720,7 @@
         },
         {
             "name": "Honors in Geography",
-            "number": "4997H",
+            "number": "GEOG 4997H",
             "description": "Special work for Honors candidates in geography.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -722,7 +729,7 @@
         },
         {
             "name": "The Geospatial Sciences in National Security",
-            "number": "7130",
+            "number": "GEOG 7130",
             "description": "(Same as CV_ENG 7175). This course explores the critical contribution of the geospatial sciences in the collection, processing, visualization and analysis of geospatial information related to national security.May be repeated for credit.",
             "prerequisites": "junior standing or above required; instructor's consent",
             "hours": "3",
@@ -731,7 +738,7 @@
         },
         {
             "name": "Meteorology of the Biosphere",
-            "number": "7520",
+            "number": "GEOG 7520",
             "description": "(same as ATM_SC 7520). Energy balance and mass transfer microevnvironment of plants and animals.  Effects of weather events on plants and animal production discussed.",
             "prerequisites": "graduate standing and MATH 1400 or equivalent; one year of college physics; or instructor's consent",
             "hours": "3",
@@ -742,7 +749,7 @@
         },
         {
             "name": "Selected Themes in Cultural Geography",
-            "number": "7550",
+            "number": "GEOG 7550",
             "description": "Case studies in the patterns and processes of human-environmental interactions. Study of the cultural forces responsible for the continual transformation of the earth's cultural landscapes.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -751,7 +758,7 @@
         },
         {
             "name": "Resources and Indigenous Peoples",
-            "number": "7560",
+            "number": "GEOG 7560",
             "description": "This is a survey of indigenous peoples' struggle to control and use natural resources, to have a say in determining the path of economic development, and to restrain the destructive tendencies of colonialism and capitalism, challenging traditional state-to-state relations.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -760,7 +767,7 @@
         },
         {
             "name": "Biogeography: Global Patterns of Life",
-            "number": "7620",
+            "number": "GEOG 7620",
             "description": "Analysis of the patterns and processes of plant distribution in the contemporary landscape, stressing environmental influences and vegetation dynamics, particularly as they relate to North American vegetation.",
             "prerequisites": "GEOG 2610 or instructor's consent",
             "hours": "3",
@@ -771,7 +778,7 @@
         },
         {
             "name": "River and Stream Dynamics",
-            "number": "7630",
+            "number": "GEOG 7630",
             "description": "Systematic study of river mechanics, stream-channel form, river management and restoration. Provides a theoretical and practical understanding of stream systems.",
             "prerequisites": "GEOG 2610 and GEOG 3630, or instructor's consent",
             "hours": "3",
@@ -783,7 +790,7 @@
         },
         {
             "name": "Spatial Analysis in Geography",
-            "number": "7710",
+            "number": "GEOG 7710",
             "description": "Application of statistical methods to geographic research. Prepares students to utilize advanced methodologies and models in spatial analysis. Includes computer analysis of geographical data.",
             "prerequisites": "MATH 1100 or MATH 1120",
             "hours": "3",
@@ -795,7 +802,7 @@
         },
         {
             "name": "Seminar in Geography Education",
-            "number": "7720",
+            "number": "GEOG 7720",
             "description": "Study and research on fundamental themes in geography. Integration of these themes into regional and systematic approaches to the teaching of geography. Enrollment is restricted to students pursuing or considering careers in teaching.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -804,7 +811,7 @@
         },
         {
             "name": "Location Analysis and Site Selection",
-            "number": "7740",
+            "number": "GEOG 7740",
             "description": "(Same as CV_ENG 7185). An overview of location analysis in regional planning and spatial decision support, this course focuses on the use of Geographic Information Science (GIS) and location analysis methods in addressing regional service needs.  May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -813,7 +820,7 @@
         },
         {
             "name": "Migration and Immigration",
-            "number": "7770",
+            "number": "GEOG 7770",
             "description": "As fertility and mortality decline to record low levels, immigration and migration have become the primary components of population change.  Changes brought on by immigration to a country and the internal redistribution of population via migration pose challenges to governments, economic development, social and cultural relations, and environmental sustainability.  This course explores issues surrounding immigration and migration.  Beginning with the demographic overview of immigration, it focuses on the challenges faced by immigrant, sending, and receiving nations in the global migration system.  The second part of the course focuses on the array of issues surrounding immigration to the United States, including the socio-economic adaptation of immigrants, the economic and cultural impacts of immigration, and illegal immigration.  The third part of the course focuses on internal migration within migration within the US, discussing topics such as migration to the Sunbelt, Great Plains depopulation, poverty migration, migration to the suburbs, and migration's impact on community.  Linkages between domestic migration and immigration will also be explored.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -822,7 +829,7 @@
         },
         {
             "name": "Selected Themes in Political Geography",
-            "number": "7780",
+            "number": "GEOG 7780",
             "description": "Study of basic writing, dominant geographers, case studies, bibliographies and development of research methods.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -831,7 +838,7 @@
         },
         {
             "name": "Geographic Information Systems for the Social Sciences",
-            "number": "7790",
+            "number": "GEOG 7790",
             "description": "Designed for social science students interested in learning about the tools available in GIS for linking to an analyzing spatial qualitative data.  Uses multiple data sources (qualitative and quantitative), applied within a social context, using spatial investigation procedures to detect geographical trends in data sets.  Primary focus is on how GIS can enhance social science research.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -840,7 +847,7 @@
         },
         {
             "name": "Landscape Ecology and GIS Analysis I",
-            "number": "7810",
+            "number": "GEOG 7810",
             "description": "(same as NAT_R 7385). Examination of the landscape-scale approach to biodiversity, ecosystem dynamics, and habitat management. Particular emphasis on the use of Geographic Information Systems to analyze the spatial dimension of ecological patterns and processes.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -849,7 +856,7 @@
         },
         {
             "name": "Geographic Information Systems I",
-            "number": "7840",
+            "number": "GEOG 7840",
             "description": "Introductory study of theory, concepts and techniques related to basic analysis, creation and processing of geographic and spatial data using Geographic Information Systems (GIS).  Independent learning and computer-based laboratory exercises supplement theoretical lectures and discussion.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -858,7 +865,7 @@
         },
         {
             "name": "Transportation Geography",
-            "number": "7850",
+            "number": "GEOG 7850",
             "description": "(same as CV_ENG 7155). Introduction to fundamental concepts and modes of analysis in transportation geography.  Focus on descriptive, explanatory, as well as normative approaches.  Topics reviewed include spatial organization, transportation economics, spatial interaction, network analysis, location/allocation, and urban transportation planning.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -867,7 +874,7 @@
         },
         {
             "name": "Advanced Remote Sensing",
-            "number": "7860",
+            "number": "GEOG 7860",
             "description": "Advanced remote sensing to provide digital image processing techniques for satellite and airborne imagery; emphasis on spatial/spectral analysis, image classification and land use/land cover change detection.  Class project heavily involved.",
             "prerequisites": "GEOG 3830",
             "hours": "3",
@@ -878,7 +885,7 @@
         },
         {
             "name": "Topics in Geography-Social Science",
-            "number": "7904",
+            "number": "GEOG 7904",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.  May be repeated for credit with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-12",
@@ -887,7 +894,7 @@
         },
         {
             "name": "Advanced Geographic Information Systems (GIS II)",
-            "number": "7940",
+            "number": "GEOG 7940",
             "description": "(cross-leveled with GEOG 4940). Advanced study of geographic and spatial analysis and modeling utilizing Geographic Information Systems technology.  Focus on project management, research applications, and geostatistical analysis through independent research projects.",
             "prerequisites": "GEOG 7840 or instructor's consent",
             "hours": "3",
@@ -898,7 +905,7 @@
         },
         {
             "name": "Research in Geography",
-            "number": "8080",
+            "number": "GEOG 8080",
             "description": "Research not leading to thesis. May be repeated to a maximum of 6 hours.   Graded on S/U basis only.",
             "prerequisites": "instructor's consent",
             "hours": "1-6",
@@ -907,7 +914,7 @@
         },
         {
             "name": "Special Investigations in Geography",
-            "number": "8085",
+            "number": "GEOG 8085",
             "description": "Advanced studies to meet the needs of the individual student. May be repeated to a maximum of 6 hours.",
             "prerequisites": "instructor's consent and independent study contract",
             "hours": "1-3",
@@ -916,7 +923,7 @@
         },
         {
             "name": "Research in Geography",
-            "number": "8090",
+            "number": "GEOG 8090",
             "description": "Research leading to a thesis. May be repeated to a maximum of 8 hours.  Graded on S/U basis only.",
             "prerequisites": "instructor's consent and independent study contract",
             "hours": "1-8",
@@ -925,7 +932,7 @@
         },
         {
             "name": "Seminar in World Regional Geography I",
-            "number": "8100",
+            "number": "GEOG 8100",
             "description": "Problems in the teaching of world regional geography on college level.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -934,7 +941,7 @@
         },
         {
             "name": "Seminar in the Geography of Anglo-America",
-            "number": "8120",
+            "number": "GEOG 8120",
             "description": "Readings and research on problems in the geography of the United States and Canada.",
             "prerequisites": "restricted to graduate Geography majors or instructor's consent",
             "hours": "1-3",
@@ -943,7 +950,7 @@
         },
         {
             "name": "Seminar in World Regional Geography II",
-            "number": "8200",
+            "number": "GEOG 8200",
             "description": "Continuation of course GEOG 8100.",
             "prerequisites": "instructor's consent",
             "hours": "1",
@@ -952,7 +959,7 @@
         },
         {
             "name": "Seminar in the Geography of the Middle East",
-            "number": "8270",
+            "number": "GEOG 8270",
             "description": "Advanced readings and analysis of topics in the geography of the Middle East.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -961,7 +968,7 @@
         },
         {
             "name": "Seminar",
-            "number": "8710",
+            "number": "GEOG 8710",
             "description": "May be repeated to a maximum of 6 hours.",
             "prerequisites": "departmental consent",
             "hours": "1-3",
@@ -970,7 +977,7 @@
         },
         {
             "name": "Research Design",
-            "number": "8750",
+            "number": "GEOG 8750",
             "description": "Application of scientific methods in geographic research. Critical evaluation of current geographical methodology.",
             "prerequisites": "restricted to graduate geography majors graduate or instructor's consent",
             "hours": "3",
@@ -979,7 +986,7 @@
         },
         {
             "name": "Geographic Thought",
-            "number": "8760",
+            "number": "GEOG 8760",
             "description": "Discussion of the historic roots of the discipline, especially the ideas, theories and underlying philosophies that have defined Geography in the past century and a half. Students will also explore the philosophical and theoretical ideas that shape the way geographers approach the study of the world.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -988,7 +995,7 @@
         },
         {
             "name": "Landscape Ecology and GIS Analysis II",
-            "number": "8815",
+            "number": "GEOG 8815",
             "description": "(same as NAT_R 8395). Provide students with principles and applications of landscape ecology and firm understandings of spatial analysis techniques using GIS. Discuss metrics for spatial pattern and models for landscape-scale dynamics.",
             "prerequisites": "NAT_R 4365 or NAT_R 7385 and FOREST 4302 or FOREST 7302 or equivalent and basic statistics course or instructor's consent",
             "hours": "3",
@@ -997,12 +1004,14 @@
                 "FOREST 4302",
                 "FOREST 7302",
                 "NAT_R 4365",
-                "NAT_R 7385"
+                "NAT_R 7385",
+                "GEOG 4810",
+                "GEOG 7810"
             ]
         },
         {
             "name": "Field Geography",
-            "number": "8820",
+            "number": "GEOG 8820",
             "description": "Techniques of geographical investigation in the field.",
             "prerequisites": "restricted to graduate Geography majors or instructor's consent",
             "hours": "3",
@@ -1011,7 +1020,7 @@
         },
         {
             "name": "Seminar: Applied Remote Sensing",
-            "number": "8840",
+            "number": "GEOG 8840",
             "description": "Applied project in remote sensing.  Data selection, image processing, land use and land cover change, and quantitative biophysical information extraction from remotely sensed data.",
             "prerequisites": "GEOG 4830 or instructor's consent",
             "hours": "3",
@@ -1022,7 +1031,7 @@
         },
         {
             "name": "Topics in Geography-Biological/Physical/Mathematical",
-            "number": "8902",
+            "number": "GEOG 8902",
             "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.  May be repeated for credit with departmental consent.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",

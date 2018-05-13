@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Topics in Public Affairs",
-            "number": "4001",
+            "number": "PUB_AF 4001",
             "description": "Selected topics in public affairs.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Social Entrepreneurship",
-            "number": "4700",
+            "number": "PUB_AF 4700",
             "description": "(cross-leveled with PUB_AF 7700). This course will help illustrate social entrepreneurship in a broad sense and understand how it differs from entrepreneurship as understood in the private sector, social innovation and social enterprise. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Topics in Public Affairs",
-            "number": "7001",
+            "number": "PUB_AF 7001",
             "description": "Select current topics in public affairs. Graded on A-F basis only.",
             "prerequisites": "consent required",
             "hours": "3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Scientific and Technological Aspects Terrorism and Counter Terrorism",
-            "number": "7330",
+            "number": "PUB_AF 7330",
             "description": "(same as NU_ENG 7330). Terrorism has been a familiar tool of political conflict, and it has assumed greater importance during the past twenty years. This subject has been treated by political scientists in various forms, but the scientific and technological aspects of different forms of terrorism cannot be found in a single place. It is important for persons who propose counter measures to understand the basics of different types of terrorism such as for instance the nature of chemical agents, their properties such as toxicity, etc. in order to build better defense systems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Health Economics for Public Affairs",
-            "number": "7357",
+            "number": "PUB_AF 7357",
             "description": "(same as ECONOM 7357). This course analyzes the economics of health care in the United States with particular attention to the role of government.  It examines the demand for health care and the structure and consequences of public and private heath insurance; the supply of health care, including professional training, licensure, speculation and compensation, hospital competition and finance, and the determinants and consequences of technical change in medicine, as well as an examination of recent proposals and initiatives for health care reform.",
             "prerequisites": "PUB_AF 8190 or equivalent",
             "hours": "3",
@@ -51,7 +51,7 @@
         },
         {
             "name": "Law and Economics for Public Affairs",
-            "number": "7367",
+            "number": "PUB_AF 7367",
             "description": "(same as ECONOM 7367).  This course is a survey of economic analysis of American legal institutions.  Students will apply basic microeconomic, game theoretic and statistical concepts to the study of property, contracts, torts, the legal process, crime and the judiciary.",
             "prerequisites": "ECONOM 4351 or  ECONOM 3251 and STAT 2500, or equivalent",
             "hours": "3",
@@ -64,7 +64,7 @@
         },
         {
             "name": "Social Entrepreneurship",
-            "number": "7700",
+            "number": "PUB_AF 7700",
             "description": "(cross-leveled with PUB_AF 4700). This course will help illustrate social entrepreneurship in a broad sense and understand how it differs from entrepreneurship as understood in the private sector, social innovation and social enterprise. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -73,7 +73,7 @@
         },
         {
             "name": "Topics in Public Affairs",
-            "number": "8001",
+            "number": "PUB_AF 8001",
             "description": "Select current topics in public affairs.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Problems in Public Affairs",
-            "number": "8085",
+            "number": "PUB_AF 8085",
             "description": "Intensive study of an area of public affairs related to the student's special interest.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -91,7 +91,7 @@
         },
         {
             "name": "Collaborative Governance",
-            "number": "8150",
+            "number": "PUB_AF 8150",
             "description": "Political, economic, and social context of government and public service; examines theories and models of collaborative governance and implications for policy-making, public management, and public service delivery. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Organizational Dynamics and Leadership",
-            "number": "8160",
+            "number": "PUB_AF 8160",
             "description": "Focuses on understanding human action in administrative situations and on developing personal capacities for effective action in varied and difficult organizational situations. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Public Policy Processes and Strategies",
-            "number": "8170",
+            "number": "PUB_AF 8170",
             "description": "Processes through which public demands are generated, converted into public policy, and implemented.  Examines the intersection of politics, policy, and management as well as the diverse strategies and tools of public action.  Graded on A-F basis.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -118,7 +118,7 @@
         },
         {
             "name": "Environmental Policy",
-            "number": "8171",
+            "number": "PUB_AF 8171",
             "description": "This course is an introduction to U.S. environmental policy, focusing on important political institutions and political actors.  The course provides a survey of the primary laws, regulations, and policies that comprise pollution control and natural resource management policy.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -127,7 +127,7 @@
         },
         {
             "name": "Health Policy",
-            "number": "8172",
+            "number": "PUB_AF 8172",
             "description": "(same as P_HLTH 8300). This seminar will examine the health care system in the United States, including government funded programs, regulation of costs, and policies promoting health behaviors.  the course will examine historical development, recent trends, and methods of health policy analysis.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -136,7 +136,7 @@
         },
         {
             "name": "Education Governance, Finance and Policy",
-            "number": "8173",
+            "number": "PUB_AF 8173",
             "description": "The course centers on public policy processes as applied to governance, finance and policy in public education.  The administrative, political and economic dimensions of policy reform are emphasized.  A special focus is placed on developing tools for analyzing and critiquing policy rational, design and implementation.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -145,7 +145,7 @@
         },
         {
             "name": "Social Policy",
-            "number": "8174",
+            "number": "PUB_AF 8174",
             "description": "This seminar will examine the nature and extent of poverty in the U.S., its causes and consequences, and the antipoverty effects of existing and proposed government programs and policies.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -154,7 +154,7 @@
         },
         {
             "name": "Early Childhood Policy",
-            "number": "8175",
+            "number": "PUB_AF 8175",
             "description": "This course provides an understanding of early childhood development issues and their impact on policy formation. Will study different family situations in the US and other countries (e.g. maternal employment and job policies, divorce, child abuse and neglect) that may be a concern for child policy makers and analysis.  In addition we are going to examine the effects of different early childhood programs in the US and other countries around the world.  Also, US federal regulations that have an impact on child policy, such as the National Health Policy and Welfare reform will be examined.  Will use both qualitative and quantitative criteria to analyze these policies.  This course is applied in focus, so by the and of the semester students should be able to understand policy analysis and the trade-offs of implementing policy choices, as well as being able to develop analytical skills for early childhood and family policies in their work.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -163,7 +163,7 @@
         },
         {
             "name": "Energy Economics",
-            "number": "8177",
+            "number": "PUB_AF 8177",
             "description": "The course examines economic theory and empirical analyses of global energy supply and demand. It examines the role of non-renewable and renewable energy in the economy and trends in energy production and consumption. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -172,7 +172,7 @@
         },
         {
             "name": "Sustainable Energy Policy",
-            "number": "8178",
+            "number": "PUB_AF 8178",
             "description": "This course examines the concept of sustainability as it applies to energy production and consumption, and explores policy options for achieving sustainable energy use.",
             "prerequisites": "PUB_AF 8177",
             "hours": "3",
@@ -183,7 +183,7 @@
         },
         {
             "name": "Research Methods and Inquiry in Public Affairs I",
-            "number": "8180",
+            "number": "PUB_AF 8180",
             "description": "Introduction to research methods for graduate students in public affairs.  Topics include measurement, quantitative description, problem definition, the policy research process, and basic analytical tools commonly applied in public affairs. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -192,7 +192,7 @@
         },
         {
             "name": "Research Methods and Inquiry in Public Affairs II",
-            "number": "8181",
+            "number": "PUB_AF 8181",
             "description": "Advanced topics and applications in research methods for public affairs.  Topics include: multivariate analysis and other advanced quantitative techniques; evaluation of policy research products.",
             "prerequisites": "PUB_AF 8180 or permission of instructor",
             "hours": "3",
@@ -203,7 +203,7 @@
         },
         {
             "name": "Research Methods and Inquiry in Public Affairs - Mid Career",
-            "number": "8185",
+            "number": "PUB_AF 8185",
             "description": "Applications in research methods for graduate students in public affairs mid-career program.  Topics include: measurement; quantitative description; problem definition; the policy research processes; basic analytical tools commonly applied in public affairs; multivariate analysis and other advanced quantitative techniques; evaluation of policy research products. Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -212,7 +212,7 @@
         },
         {
             "name": "Economic Analysis for Public Affairs",
-            "number": "8190",
+            "number": "PUB_AF 8190",
             "description": "Application of tools of economic analysis to understand and interpret the behavior of government, consumers and producers. Sources of economic inefficiency, including market failures and limitations, and policy solutions. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -221,7 +221,7 @@
         },
         {
             "name": "Economic Analysis for Public Policy - Mid Career",
-            "number": "8195",
+            "number": "PUB_AF 8195",
             "description": "Application of tools of economic analysis to understand and interpret the behavior of government, consumers and producers.  Sources of economic inefficiency, including market failures and limitations , and policy solutions.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -230,7 +230,7 @@
         },
         {
             "name": "Public Service and Democracy",
-            "number": "8210",
+            "number": "PUB_AF 8210",
             "description": "This course examines some of the challenges of public service in a liberal democracy. It addresses basic questions about the design of institutions through which public power is exercised and about the ethical and administrative obligations of people who work within those institutions. The aim of the course is to provide students with tools for thinking about such questions, and practice addressing them.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -239,7 +239,7 @@
         },
         {
             "name": "MPA Capstone (Applied Project)",
-            "number": "8211",
+            "number": "PUB_AF 8211",
             "description": "Application of concepts and methods of public affairs to actual policy or management problems.  Diagnosis of problem or decision situation, collection of relevant data, development of alternative solutions, recommendations of proposed course of action.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -248,7 +248,7 @@
         },
         {
             "name": "Public Affairs Internship",
-            "number": "8280",
+            "number": "PUB_AF 8280",
             "description": "Gives students an opportunity to gain experience in government operations by providing supervised work with an agency at the local, state, or federal level of government or in nonprofit agencies. Graded on A-F basis.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -257,7 +257,7 @@
         },
         {
             "name": "Practicum in Public Affairs",
-            "number": "8282",
+            "number": "PUB_AF 8282",
             "description": "Supervised field experience in an approved community, public agency, or nonprofit organizations. Opportunity for observation and participation under the guidance of a qualified advisor. Formal study of advanced theories and techniques is integrated into the student's experience. Graded on A-F basis only.",
             "prerequisites": "advanced standing and instructor's consent required",
             "hours": "3-6",
@@ -266,7 +266,7 @@
         },
         {
             "name": "E-Democracy in Theory and Practice",
-            "number": "8310",
+            "number": "PUB_AF 8310",
             "description": "Examines the theory and practice of electronic democracy. Uses case studies to assess how information and communication technology affects public involvement in public decisions. Major topics include the methods and tools used in current e-democracy projects as well as the philosophical political, practical and institutional issues faced. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -275,7 +275,7 @@
         },
         {
             "name": "Spatial Analysis for Public Affairs",
-            "number": "8320",
+            "number": "PUB_AF 8320",
             "description": "Examines theoretical and empirical issues related to the spatial analysis of economic activity and local public issues. Major topics include the role of the public sector, the economics of public services, social accounting matrices, input-output analysis, econometric models of regional economies, and geographic information systems. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -284,7 +284,7 @@
         },
         {
             "name": "Informatics and Governance",
-            "number": "8330",
+            "number": "PUB_AF 8330",
             "description": "Provides students with a non-technical introduction to the design, implementation and management of information systems for local and regional governance. Surveys key issues for information professionals, including policy planning, design, procurement, staffing, applications and public access and participation. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -293,7 +293,7 @@
         },
         {
             "name": "Regional and Economic Development Policy",
-            "number": "8340",
+            "number": "PUB_AF 8340",
             "description": "Presents an overview of historical perspectives and current practice in regional development policy.  Explores various rationales for regional collaboration.  Topics include global and political context of development policy, theories of regional growth and development, regional governance, distribution of benefits and sustainable development.  Graded on A-F basis only",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -302,7 +302,7 @@
         },
         {
             "name": "Regional Development Issues and Analysis",
-            "number": "8350",
+            "number": "PUB_AF 8350",
             "description": "(same as AG_EC 8350).  Examines theories of regional growth and development and methods for analysis with applications to current policy issues.  Topics include firm location, new economic geography and agglomeration theory, clusters, human capital, migration, social capital, tax and development incentives, and sustainable regional development.  Graded on A-F basis only.",
             "prerequisites": "ECONOM 7351 or PUB_AF 8190 or equivalent",
             "hours": "3",
@@ -314,7 +314,7 @@
         },
         {
             "name": "Public Policy Workshop",
-            "number": "8410",
+            "number": "PUB_AF 8410",
             "description": "Application of policy analysis tools and methods onto a specific policy topic or problem.  Topics vary depending upon interests of the instructor. Graded on A-F basis only.",
             "prerequisites": "PUB_AF 8420 and PUB_AF 8430",
             "hours": "3",
@@ -326,7 +326,7 @@
         },
         {
             "name": "Public Program Evaluation",
-            "number": "8420",
+            "number": "PUB_AF 8420",
             "description": "Covers implementation and outcome evaluation models, research design strategies, and data collection methods used to assess the effectiveness of public programs and means of their improvement.  Graded on A/F basis only.",
             "prerequisites": "PUB_AF 8181 or equivalent",
             "hours": "3",
@@ -337,7 +337,7 @@
         },
         {
             "name": "Public Policy Analysis",
-            "number": "8430",
+            "number": "PUB_AF 8430",
             "description": "Uses economic logic and statistical techniques to design, analyze and evaluate public policy. Applies social choice theory, cost/benefit analysis, forecasting, regression analysis, trend analysis, time series methods, and other analytic techniques to policy decision. Graded on A-F basis.",
             "prerequisites": "PUB_AF 8181 and PUB_AF 8190 or equivalent, or permission of instructor",
             "hours": "3",
@@ -349,7 +349,7 @@
         },
         {
             "name": "Public Budgeting and Taxation",
-            "number": "8510",
+            "number": "PUB_AF 8510",
             "description": "Intensive study of the institutions, processes, politics, and social and economic impact of public taxation and expenditures.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -358,7 +358,7 @@
         },
         {
             "name": "Human Resources Management and Development in Public and Nonprofit Sector",
-            "number": "8520",
+            "number": "PUB_AF 8520",
             "description": "Examines the political, economic, and legal context of the personnel function, as well as the technical aspects of the personnel administrator's job. Stresses the dynamics of bureaucratic organizations. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -367,7 +367,7 @@
         },
         {
             "name": "Strategic Management of Public Service Organizations",
-            "number": "8530",
+            "number": "PUB_AF 8530",
             "description": "Presents the rationale for strategic planning, and techniques and processes to develop and implement strategic planning in the public sector. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -376,7 +376,7 @@
         },
         {
             "name": "Local Government Management",
-            "number": "8540",
+            "number": "PUB_AF 8540",
             "description": "Organization and division of service responsibility within local governments. Problems of managing delivery of services with special emphasis upon program implementation, productivity, planning, responsiveness. Graded on A-F basis.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -385,7 +385,7 @@
         },
         {
             "name": "Group Dynamics and Conflict Resolution",
-            "number": "8610",
+            "number": "PUB_AF 8610",
             "description": "Focuses on the study of group psychology in the context of communities and organizations. It provides a specific examination of the emergence and resolution of conflict. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -394,7 +394,7 @@
         },
         {
             "name": "Organizational Analysis and Change",
-            "number": "8620",
+            "number": "PUB_AF 8620",
             "description": "Investigates processes and methodologies of organizational diagnosis, intervention strategies, and the role of a change agent. Graded on A-F basis.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -403,7 +403,7 @@
         },
         {
             "name": "Organizational Change in a Community and Global Context",
-            "number": "8630",
+            "number": "PUB_AF 8630",
             "description": "Examines changing organizations in their task environments, which include communities and the global economy. The phenomenon of ambiguous boundaries between public and private as well as nonprofit sectors will be investigated as these profound changes impact organizational behavior. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -412,7 +412,7 @@
         },
         {
             "name": "The Nonprofit and Voluntary Sector",
-            "number": "8710",
+            "number": "PUB_AF 8710",
             "description": "Provides an overview of the history, function, size, scope, development, and management of the nonprofit sector. Historical, political, economic, and social perspectives are used to examine the meaning of voluntarism, charity, philanthropy, and the nonprofit sector. Graded on A-F basis.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -421,7 +421,7 @@
         },
         {
             "name": "Budgeting and Financial Management in the Nonprofit Sector",
-            "number": "8720",
+            "number": "PUB_AF 8720",
             "description": "Nature and environment of public and nonprofit financial administration. Principles of accountability for management of public and nonprofit funds; management and investment of cash balances; special problems related to long- and short-term debt. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -430,7 +430,7 @@
         },
         {
             "name": "Grant Writing I",
-            "number": "8830",
+            "number": "PUB_AF 8830",
             "description": "Provides students with knowledge regarding the process of seeking grant funding.  Students will work in small groups to complete a letter proposal.  They will experience the peer review process both as applicant and reviewer.  Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -439,7 +439,7 @@
         },
         {
             "name": "Grant Writing II",
-            "number": "8831",
+            "number": "PUB_AF 8831",
             "description": "Provides students with knowledge regarding the process of seeking grant funding. Students will work in small groups to complete a full-blown state or federal grant proposal. They will experience the peer review process both as applicant and reviewer. The course will cover a variety of funding sources and a range of funding types to provide students with an information base for preparing future grant applications.",
             "prerequisites": "PUB_AF 8830",
             "hours": "3",
@@ -450,7 +450,7 @@
         },
         {
             "name": "Sponsor Relationships",
-            "number": "8832",
+            "number": "PUB_AF 8832",
             "description": "Provides students with knowledge of the landscape and culture of grant seeking with an emphasis on understanding how private and public sector sponsors are in many ways, significantly different enterprises.  Students will gain an understanding of the pivotal role relationships play in grant seeking and gain an appreciation of the particularities and rigors of both public and private grant seeking.",
             "prerequisites": "Proposed Grant Writing 2 course",
             "hours": "3",
@@ -459,7 +459,7 @@
         },
         {
             "name": "Grant Award Management",
-            "number": "8833",
+            "number": "PUB_AF 8833",
             "description": "Provides students with knowledge regarding the process and policies entailed in managing grant awards.  Course content includes federal OMB circulars, basic human resource issues, project management strategies, reporting obligations, and project close-out.",
             "prerequisites": "Proposed Grant Writing 2 course",
             "hours": "3",
@@ -468,7 +468,7 @@
         },
         {
             "name": "Policies and Institutions of the European Union",
-            "number": "8850",
+            "number": "PUB_AF 8850",
             "description": "Policies and Institutions of the European Union",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -477,7 +477,7 @@
         },
         {
             "name": "International Comparative Rural Policy",
-            "number": "8860",
+            "number": "PUB_AF 8860",
             "description": "(same as AG_EC 8860).  Compares the rural policy objectives and implementation  strategies of various countries, and assesses these policies in terms of economic, social, environmental outcomes and their implications for international relations.  Includes 2-weeks of study Abroad.  May be repeated for credit.  Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -486,7 +486,7 @@
         },
         {
             "name": "Administrative Law",
-            "number": "8864",
+            "number": "PUB_AF 8864",
             "description": "(same as LAW 5310). Principles, factors and statutory provisions which govern availability of relief (both judicial and administrative) to persons or entities aggrieved by the actions or inactions of governmental officials or agencies. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -495,7 +495,7 @@
         },
         {
             "name": "Directed Individual Study",
-            "number": "9000",
+            "number": "PUB_AF 9000",
             "description": "Supervised readings and research in area of doctoral specialization.  Student must submit formal written proposal to doctoral supervising faculty member prior to registration.  May be repeated up to 6 hours.",
             "prerequisites": "PhD standing or permission of instructor",
             "hours": "3",
@@ -504,7 +504,7 @@
         },
         {
             "name": "Dissertation",
-            "number": "9090",
+            "number": "PUB_AF 9090",
             "description": "Independent research for Ph.D. dissertation. Graded on S/U basis only.",
             "prerequisites": "PhD standing or permission of instructor",
             "hours": "1-99",
@@ -513,7 +513,7 @@
         },
         {
             "name": "Governance and Public Affairs",
-            "number": "9150",
+            "number": "PUB_AF 9150",
             "description": "Examines theories of governance, the role of the state and other social institutions.  Other topics include administrative reform, the new public management, and the emergence of the multi-sector public service.  International comparative dimensions emphasized. Graded on A-F basis only.",
             "prerequisites": "PUB_AF 8150, PhD standing or permission of professor",
             "hours": "3",
@@ -524,7 +524,7 @@
         },
         {
             "name": "Organization Studies in Public Affairs",
-            "number": "9160",
+            "number": "PUB_AF 9160",
             "description": "Examines theories of public and nonprofit organizations, including classical and contemporary perspectives in organization science; individual and group behavior; leadership, power and influence; organization design and structure; and organizational culture. Graded on A-F basis only.",
             "prerequisites": "PhD standing or permission of instructor",
             "hours": "3",
@@ -533,7 +533,7 @@
         },
         {
             "name": "Policy Theory",
-            "number": "9170",
+            "number": "PUB_AF 9170",
             "description": "This seminar examines theories on the policy process, institutions, and delegation of power that influence public policy.  Topics covered may include agenda setting, policy design, implementation, legislative decision-making, state political institutions, and federalism.  Graded on A-F basis only.",
             "prerequisites": "PhD standing or permission of instructor",
             "hours": "3",
@@ -542,7 +542,7 @@
         },
         {
             "name": "Political Economy of Public Affairs",
-            "number": "9171",
+            "number": "PUB_AF 9171",
             "description": "Course focuses on formal theories of public decision-making, collective choice and strategic interaction of public actors in the policy process using tools such as welfare economics, social choice, game theory, logic of collective action, public choice, and principal agent models.  Graded on A-F basis only.",
             "prerequisites": "PhD standing or instructor's consent",
             "hours": "3",
@@ -551,7 +551,7 @@
         },
         {
             "name": "Advanced Research Methods for Public Affairs I",
-            "number": "9180",
+            "number": "PUB_AF 9180",
             "description": "Focuses on multiple regression analysis, the implications and treatment of serial correlation, heteroskedasticity, multicollinerarity, specification error, and measurement error.  Students estimate models, use diagnostic information, and interpret and present findings for public affairs. Graded on A-F basis only.",
             "prerequisites": "PUB_AF 8180 or equivalent, PhD standing or permission of instructor",
             "hours": "3",
@@ -562,7 +562,7 @@
         },
         {
             "name": "Advanced Research Methods for Public Affairs II",
-            "number": "9181",
+            "number": "PUB_AF 9181",
             "description": "The seminar examines statistical modeling tools for limited dependent variables and complex data situations, such as time-series cross-sectional data, clustered observations, and multilevel data.  Other topics include simultaneous equation modes and instrument variable in public affairs.  Graded on A-F basis only.",
             "prerequisites": "PUB_AF 9180 or equivalent, PhD standing or permission of instructor",
             "hours": "3",
@@ -573,7 +573,7 @@
         },
         {
             "name": "Logics of Inquiry in Public Affairs",
-            "number": "9182",
+            "number": "PUB_AF 9182",
             "description": "This course examines the philosophical foundations of social inquiry public affairs.  Topics include investigation of epistemological and methodological issues in development and use of social research, and exploration of the theoretical underpinnings of multiple paradigms in public affairs.  Graded on A-F basis only.",
             "prerequisites": "PhD standing or permission of instructor",
             "hours": "3",
@@ -582,7 +582,7 @@
         },
         {
             "name": "Public Affairs Research and Professional Development Seminar",
-            "number": "9183",
+            "number": "PUB_AF 9183",
             "description": "Research and professional development through participation in research seminars, colloquia, academic conferences, lectures, and professional workshops.  Students required to register every spring semester in residence.  Graded on S/U basis only.",
             "prerequisites": "PhD standing or permission of instructor",
             "hours": "1",
@@ -591,7 +591,7 @@
         },
         {
             "name": "Supervised Research",
-            "number": "9185",
+            "number": "PUB_AF 9185",
             "description": "Research experience directed by major professor designed to prepare doctoral students for independent scholarship in area of doctoral specialization.",
             "prerequisites": "PUB_AF 8150, PhD standing or permission of instructor",
             "hours": "3",
@@ -602,7 +602,7 @@
         },
         {
             "name": "Advanced Empirical Methods",
-            "number": "9446",
+            "number": "PUB_AF 9446",
             "description": "(same as ECONOM 9446).  Empirical and modeling techniques for evaluation of microeconomic policy questions. Graded A-F only.",
             "prerequisites": "Instructors consent or PUB_AF 8181, PUB_AF 9180, and PUB_AF 9181",
             "hours": "3",
@@ -615,12 +615,16 @@
         },
         {
             "name": "Topics in Microeconomic Policy Analysis",
-            "number": "9447",
+            "number": "PUB_AF 9447",
             "description": "(same as ECONOM 9447).  Applies the methods and techniques of microeconomics and to specific timely policy questions. Taught by applied-microeconomics faculty and focuses on current topics in labor economics, public economics, the economics of education, health economics, and other applied areas of microeconomics. Graded on A-F basis only.",
             "prerequisites": "Instructor's consent",
             "hours": "3",
             "recommendation": "PUB_AF 8181, PUB_AF 9180 and PUB_AF 9181",
-            "connections": "None Listed"
+            "connections": [
+                "PUB_AF 8181",
+                "PUB_AF 9180",
+                "PUB_AF 9181"
+            ]
         }
     ]
 }

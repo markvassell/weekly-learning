@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Full-Time Enrollment",
-            "number": "5120",
+            "number": "VMED_I 5120",
             "description": "Full-Time Enrollment",
             "prerequisites": "None Listed",
             "hours": "16-99",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Full-Time Enrollment",
-            "number": "5190",
+            "number": "VMED_I 5190",
             "description": "Full-Time Enrollment",
             "prerequisites": "None Listed",
             "hours": "16-99",

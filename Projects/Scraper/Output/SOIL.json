@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introduction to Soils",
-            "number": "2100",
+            "number": "SOIL 2100",
             "description": "(same as PLNT_S 2100). Introduction to soil sciences with emphasis placed on physical, biological, and chemical properties and application to land use, plant growth and environmental problems.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Soil Science Laboratory",
-            "number": "2106",
+            "number": "SOIL 2106",
             "description": "Laboratory application of fundamental soil science concepts.",
             "prerequisites": "None Listed",
             "hours": "2Corequisites: SOIL 2100",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Topics in Soil Science",
-            "number": "3001",
+            "number": "SOIL 3001",
             "description": "Organized study of selected topics in soil science.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Problems in Soil Science",
-            "number": "3085",
+            "number": "SOIL 3085",
             "description": "Special individualized research projects or readings in soil science.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Soils and the Environment",
-            "number": "3290",
+            "number": "SOIL 3290",
             "description": "(same as ENV_SC 3290). Addresses the role of soils and soil properties on environmental pollution and management. Emphasis will be placed on carbon, nitrogen, phosphorus, and sulfur transformations and transport in natural and disturbed ecosystems and soil management practices and technology to prevent or remediate environmental pollution.",
             "prerequisites": "SOIL 2100 and ENGLSH 1000",
             "hours": "3",
@@ -52,7 +52,7 @@
         },
         {
             "name": "Soils and the Environment - Writing Intensive",
-            "number": "3290W",
+            "number": "SOIL 3290W",
             "description": "(same as ENV_SC 3290). Addresses the role of soils and soil properties on environmental pollution and management. Emphasis will be placed on carbon, nitrogen, phosphorus, and sulfur transformations and transport in natural and disturbed ecosystems and soil management practices and technology to prevent or remediate environmental pollution.",
             "prerequisites": "SOIL 2100 and ENGLSH 1000",
             "hours": "3",
@@ -64,7 +64,7 @@
         },
         {
             "name": "Topics in Soil Science",
-            "number": "4001",
+            "number": "SOIL 4001",
             "description": "Organized study of selected topics in soil science.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -73,7 +73,7 @@
         },
         {
             "name": "Problems in Soil Science",
-            "number": "4085",
+            "number": "SOIL 4085",
             "description": "Special individualized non-thesis research projects or readings in soil science.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Environmental Soil Physics",
-            "number": "4305",
+            "number": "SOIL 4305",
             "description": "(same as ENV_SC 4305). Study of soil physical properties and processes important in solving environmental problems. Topics include soil solids, water content and energy, and transport of water, solutes, gas and heat.",
             "prerequisites": "SOIL 2100",
             "hours": "3",
@@ -93,7 +93,7 @@
         },
         {
             "name": "Environmental Soil Physics Laboratory",
-            "number": "4306",
+            "number": "SOIL 4306",
             "description": "(same as ENV_SC 4306). Introduction to the methodology and equipment for measurement of soil physical properties and processes.",
             "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: SOIL 4305",
@@ -102,18 +102,19 @@
         },
         {
             "name": "Soil Conservation",
-            "number": "4308",
+            "number": "SOIL 4308",
             "description": "Conservation of soil with respect to topsoil, soil productivity, and fertility.",
             "prerequisites": "SOIL 2100",
             "hours": "3",
             "recommendation": "AG_S_M 4420",
             "connections": [
-                "SOIL 2100"
+                "SOIL 2100",
+                "AG_S_M 4420"
             ]
         },
         {
             "name": "Environmental Soil Microbiology",
-            "number": "4312",
+            "number": "SOIL 4312",
             "description": "(same as ENV_SC 4312). Microbiology/ecology of life in the soil ecosystem. Emphasis is placed on the role of microbes in nutrient cycling, microbial pesticide/xenobiotic transformation bioremediation, etc.",
             "prerequisites": "SOIL 2100",
             "hours": "3",
@@ -124,7 +125,7 @@
         },
         {
             "name": "Soil Fertility and Plant Nutrition",
-            "number": "4313",
+            "number": "SOIL 4313",
             "description": "(same as PLNT_S 4313). Explanation of principles of delivery of plant nutrients to plants, discussion of the role of each essential nutrient in crop plants and introduction to the management of soil amendments.",
             "prerequisites": "SOIL 2100 or instructor's consent",
             "hours": "3",
@@ -135,7 +136,7 @@
         },
         {
             "name": "Soil Fertility and Plant Nutrition Laboratory",
-            "number": "4314",
+            "number": "SOIL 4314",
             "description": "(same as PLNT_S 4314). The application of elementary analytical procedures to the evaluation of the nutrient status of soils and crop plants.",
             "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: SOIL 4313",
@@ -144,7 +145,7 @@
         },
         {
             "name": "Environmental Soil Chemistry",
-            "number": "4318",
+            "number": "SOIL 4318",
             "description": "(same as ENV_SC 4318 and GEOL 4318). Study of chemical constituents and processes occurring in soils.  Topics include soil minerals, and weathering processes, organic matter, solution chemistry, oxidation-reduction reactions and adsorption processes.",
             "prerequisites": "SOIL 2100 or GEOL 2400, CHEM 1320 and CHEM 1330; junior standing or  instructor's consent",
             "hours": "3",
@@ -158,7 +159,7 @@
         },
         {
             "name": "Genesis of Soil Landscapes",
-            "number": "4320",
+            "number": "SOIL 4320",
             "description": "The co-evolution of soil landscapes. The role of water in the accumulation of parent materials and development of soil horizons. Factors and processes of soil genesis. Distribution of soil in their natural settings.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -167,7 +168,7 @@
         },
         {
             "name": "Precision Agriculture Science and Technology",
-            "number": "4360",
+            "number": "SOIL 4360",
             "description": "(same as AG_S_M 4360, PLNT_S 4360; cross-leveled with SOIL 7360, AG_S_M 7360, PLNT_S 7360). Precision agriculture is an information-based approach to farming whereby variability is managed to optimize crop production and reduce environmental pollution. This course provides an overview of precision agriculture technologies (like GIS, GPS, remote sensing), mapping methods, and case studies illustrating decisions and management.",
             "prerequisites": "PLNT_S 2100 or SOIL 2100, or PLNT_S 2110, or instructor's consent",
             "hours": "3",
@@ -180,7 +181,7 @@
         },
         {
             "name": "Soil Science Internship",
-            "number": "4940",
+            "number": "SOIL 4940",
             "description": "Supervised professional experience with an approved public or private organization. Course may be repeated for credit.  Graded on S/U basis only.",
             "prerequisites": "Soil and Atmospheric Sciences majors only, instructor's consent",
             "hours": "1-12",
@@ -189,7 +190,7 @@
         },
         {
             "name": "Undergraduate Research in Soil Science",
-            "number": "4950",
+            "number": "SOIL 4950",
             "description": "Research apprenticeship with a faculty mentor. Students are expected to develop initial concept for the research, design experiments, collect data, and analyze data with faculty input, oversight, and guidance.",
             "prerequisites": "SOIL 2100 and SOIL 2106, STAT 2530, or instructor's consent",
             "hours": "1-4",
@@ -202,7 +203,7 @@
         },
         {
             "name": "Topics in Soil Science",
-            "number": "7001",
+            "number": "SOIL 7001",
             "description": "Organized study of selected topics in soil science. Intended for graduate students.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -211,7 +212,7 @@
         },
         {
             "name": "Problems in Soil Science",
-            "number": "7085",
+            "number": "SOIL 7085",
             "description": "Special individualized non-thesis research projects or readings in soil science.",
             "prerequisites": "graduate standing",
             "hours": "1-99",
@@ -220,7 +221,7 @@
         },
         {
             "name": "Environmental Soil Physics",
-            "number": "7305",
+            "number": "SOIL 7305",
             "description": "(same as ENV_SC 7305). Study of soil physical properties and processes important in solving environmental problems. Topics include soil solids, water content and energy, and transport of water, solutes, gas and heat.",
             "prerequisites": "SOIL 2100, PHYSCS 1210 or equivalent",
             "hours": "3",
@@ -232,7 +233,7 @@
         },
         {
             "name": "Environmental Soil Physics Laboratory",
-            "number": "7306",
+            "number": "SOIL 7306",
             "description": "(same as ENV_SC 7306).  Introduction to the methodology and equipment for measurement of soil physical properties and properties and processes.",
             "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: SOIL 4305",
@@ -241,18 +242,19 @@
         },
         {
             "name": "Soil Conservation",
-            "number": "7308",
+            "number": "SOIL 7308",
             "description": "Conservation of soil with respect to topsoil, soil productivity, and fertility.",
             "prerequisites": "SOIL 2100",
             "hours": "3",
             "recommendation": "AG_S_M 4420",
             "connections": [
-                "SOIL 2100"
+                "SOIL 2100",
+                "AG_S_M 4420"
             ]
         },
         {
             "name": "Environmental Soil Microbiology",
-            "number": "7312",
+            "number": "SOIL 7312",
             "description": "(same as ENV_SC 7312). Microbiology/ecology of life in the soil ecosystem. Emphasis is placed on the role of microbes in nutrient cycling, microbial pesticide/xenobiotic transformations bioremediation, etc.",
             "prerequisites": "general microbiology, SOIL 2100, or instructor's consent",
             "hours": "3",
@@ -263,7 +265,7 @@
         },
         {
             "name": "Soil Fertility and Plant Nutrition",
-            "number": "7313",
+            "number": "SOIL 7313",
             "description": "(same as PLNT_S 7313). Explanation of principles of delivery of plant nutrients to plants, discussion of the role of each essential nutrient in crop plants and introduction to the management of soil amendments.",
             "prerequisites": "SOIL 2100 or instructor's consent",
             "hours": "3",
@@ -274,7 +276,7 @@
         },
         {
             "name": "Soil Fertility and Plant Nutrition Laboratory",
-            "number": "7314",
+            "number": "SOIL 7314",
             "description": "(same as PLNT_S 7314). The application of elementary analytical procedures to the evaluation of the nutrient status of soils and crop plants.",
             "prerequisites": "None Listed",
             "hours": "2Prerequisites or Corequisites: SOIL 7313",
@@ -283,7 +285,7 @@
         },
         {
             "name": "Environmental Soil Chemistry",
-            "number": "7318",
+            "number": "SOIL 7318",
             "description": "(same as GEOL 7318 and ENV_SC 7318). Study of chemical constituents and processes occurring in soils.  Topics include soil minerals, and weathering processes, organic matter, solution chemistry, oxidation-reduction reactions and adsorption processes.",
             "prerequisites": "SOIL 2100 or GEOL 2400,  CHEM 1320 and CHEM 1330; junior standing or instructor's consent",
             "hours": "3",
@@ -297,7 +299,7 @@
         },
         {
             "name": "Genesis of Soil Landscape",
-            "number": "7320",
+            "number": "SOIL 7320",
             "description": "The co-evolution of soil landscapes. The role of water in the accumulation of parent materials and development of soil horizons. Factors and processes of soil genesis. Distribution of soil in their natural settings.",
             "prerequisites": "introductory soil science or introductory geology or permission of instructor",
             "hours": "4",
@@ -306,7 +308,7 @@
         },
         {
             "name": "Precision Agriculture Science and Technology",
-            "number": "7360",
+            "number": "SOIL 7360",
             "description": "(same as AG_S_M 7360 and PLNT_S 7360; cross-leveled with SOIL 4360, AG_S_M 4360, PLNT_S 7360). Precision agriculture is an information-based approach to farming whereby variability is managed to optimize crop production and reduce environmental pollution. This course provides an overview of precision agriculture technologies (like GIS, GPS, remote sensing), mapping methods, and case studies illustrating decisions and management.",
             "prerequisites": "SOIL 2100, PLNT_S 2110 or instructor's consent",
             "hours": "3",
@@ -318,7 +320,7 @@
         },
         {
             "name": "Topics in Soil Science",
-            "number": "8001",
+            "number": "SOIL 8001",
             "description": "Organized study of selected topics in soil science. Intended for graduate students.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -327,7 +329,7 @@
         },
         {
             "name": "Problems in Soil Science",
-            "number": "8085",
+            "number": "SOIL 8085",
             "description": "Special individualized non-thesis research projects or readings in soil science.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -336,7 +338,7 @@
         },
         {
             "name": "Masters Research in Soil Science",
-            "number": "8090",
+            "number": "SOIL 8090",
             "description": "Original investigations in soil science for presentation in a thesis.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-10",
@@ -345,7 +347,7 @@
         },
         {
             "name": "Solute Transport in the Vadose Zone",
-            "number": "8400",
+            "number": "SOIL 8400",
             "description": "(same as ENV_SC 8400). Transport of water and solutes in geomedia with emphasis on development of the equations of flow.  Evaluation of analytical and numeral solutions to equations describing transport phenomena.",
             "prerequisites": "ENV_SC 7305 or SOIL 7305",
             "hours": "3",
@@ -357,7 +359,7 @@
         },
         {
             "name": "Nonthesis Research in Soil Science",
-            "number": "8450",
+            "number": "SOIL 8450",
             "description": "Research not expected to terminate in dissertation.",
             "prerequisites": "None Listed",
             "hours": "1-9",
@@ -366,7 +368,7 @@
         },
         {
             "name": "Chemistry of the Vadose Zone",
-            "number": "8500",
+            "number": "SOIL 8500",
             "description": "(same as ENV_SC 8500). Chemical reactions occurring in geomedia with emphasis on understanding molecular scale processes occurring at the solid-water interface, aqueous geochemistry, and soil organic matter.",
             "prerequisites": "SOIL 7318 or GEOL 7300 or instructor's consent",
             "hours": "3",
@@ -378,7 +380,7 @@
         },
         {
             "name": "Topics in Soil Science",
-            "number": "9001",
+            "number": "SOIL 9001",
             "description": "Organized study of selected topics in soil science. Intended for graduate students.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -387,7 +389,7 @@
         },
         {
             "name": "Problems in Soil Science",
-            "number": "9085",
+            "number": "SOIL 9085",
             "description": "Special individualized non-thesis research projects or readings in soil science.",
             "prerequisites": "None Listed",
             "hours": "1-99",
@@ -396,7 +398,7 @@
         },
         {
             "name": "Seminar in Soil Science",
-            "number": "9087",
+            "number": "SOIL 9087",
             "description": "In-depth development of advanced aspects of soil science through reviews of results of research in progress and current scientific publications.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -405,7 +407,7 @@
         },
         {
             "name": "Doctoral Research in Soil Science",
-            "number": "9090",
+            "number": "SOIL 9090",
             "description": "Original investigations in soil science for presentation in a dissertation.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1-10",
@@ -414,7 +416,7 @@
         },
         {
             "name": "Advanced Environmental Soil Physics",
-            "number": "9407",
+            "number": "SOIL 9407",
             "description": "(same as ENV_SC 9407).  Transport of mass and energy through soil with emphasis on development of the equations of flow. Evaluation of analytical and numerical solutions to differential equations describing transport phenomena.",
             "prerequisites": "SOIL 7305, MATH 4100 or MATH 7100, or equivalent",
             "hours": "3",
@@ -427,7 +429,7 @@
         },
         {
             "name": "Advanced Soil Fertility",
-            "number": "9414",
+            "number": "SOIL 9414",
             "description": "History and application of concepts of fertility and plant nutrition.",
             "prerequisites": "SOIL 7313 and PLNT_S 7315 or equivalent, 14 hours of college chemistry and five hours of calculus",
             "hours": "3",
@@ -439,7 +441,7 @@
         },
         {
             "name": "Advanced Environmental Soil Chemistry",
-            "number": "9418",
+            "number": "SOIL 9418",
             "description": "(same as ENV_SC 9418). Linking molecular-scale solution-phase and surface reactions with macroscopic chemical processes.  Fundamentals of aqueous surface and colloid chemistry will be discussed.",
             "prerequisites": "SOIL 7318 or GEOL 7300, and CHEM 3300",
             "hours": "3",
@@ -452,7 +454,7 @@
         },
         {
             "name": "Pedology",
-            "number": "9422",
+            "number": "SOIL 9422",
             "description": "Three one-hour lectures. Detailed study of processes of soil horizonization and current topics in soil genesis including quantitative assessment of spatial and temporal variability and application of GIS in landuse planning.",
             "prerequisites": "SOIL 7320, one statistics course beyond ANOVA",
             "hours": "3",

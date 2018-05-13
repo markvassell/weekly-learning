@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Independent Study-Service Learning",
-            "number": "1090",
+            "number": "SRV_LRN 1090",
             "description": "Students participate in community service activities, attend regular meetings, conduct research, submit four journals, a short bibliography and a research paper on their service in the community",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Independent Study-Service Learning - Honors",
-            "number": "1090H",
+            "number": "SRV_LRN 1090H",
             "description": "Students participate in community service activities, attend regular meetings, conduct research, submit four journals, a short bibliography and a research paper on their service in the community.",
             "prerequisites": "Honors eligibility required",
             "hours": "1-3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "MU Community Engagement Project",
-            "number": "2021",
+            "number": "SRV_LRN 2021",
             "description": "The MU Community Engagement Project offers students the opportunity to engage in academically-based community services; project sections include tutoring and mentoring, public health policy and outreach, international services, and community development.",
             "prerequisites": "None Listed",
             "hours": "2-3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "MU Community Engagement Project - Honors",
-            "number": "2021H",
+            "number": "SRV_LRN 2021H",
             "description": "The MU Community Engagement Project offers students the opportunity to engage in academically-based community services; project sections include tutoring and mentoring, public health policy and outreach, international services, and community development.",
             "prerequisites": "Honors eligibility required",
             "hours": "2-3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "MU Community Engagement Project - Honors/Writing Intensive",
-            "number": "2021HW",
+            "number": "SRV_LRN 2021HW",
             "description": "The MU Community Engagement Project offers students the opportunity to engage in academically-based community services; project sections include tutoring and mentoring, public health policy and outreach, international services, and community development.",
             "prerequisites": "Honors eligibility required",
             "hours": "2-3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "MU Community Engagement Project - Writing Intensive",
-            "number": "2021W",
+            "number": "SRV_LRN 2021W",
             "description": "The MU Community Engagement Project offers students the opportunity to engage in academically-based community services; project sections include tutoring and mentoring, public health policy and outreach, international services, and community development.",
             "prerequisites": "None Listed",
             "hours": "2-3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Civic Leaders Internship",
-            "number": "3028",
+            "number": "SRV_LRN 3028",
             "description": "Students in any major may enroll in 3-6 credit hour internships with state government offices and agencies.",
             "prerequisites": "consent and application required",
             "hours": "3-6",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Civic Leaders Internship - Honors",
-            "number": "3028H",
+            "number": "SRV_LRN 3028H",
             "description": "Students in any major may enroll in 3-6 credit hour internships with state government offices and agencies.",
             "prerequisites": "consent and application required. Honors eligibility required",
             "hours": "3-6",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Civic Leaders Internship - Honors/Writing Intensive",
-            "number": "3028HW",
+            "number": "SRV_LRN 3028HW",
             "description": "Students in any major may enroll in 3-6 credit hour internships with state government offices and agencies.",
             "prerequisites": "consent and application required. Honors eligibility required",
             "hours": "3-6",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Civic Leaders Internship - Writing Intensive",
-            "number": "3028W",
+            "number": "SRV_LRN 3028W",
             "description": "Students in any major may enroll in 3-6 credit hour internships with state government offices and agencies.",
             "prerequisites": "consent and application required",
             "hours": "3-6",

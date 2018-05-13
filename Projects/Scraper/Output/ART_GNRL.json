@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Introduction to Art",
-            "number": "1010",
+            "number": "ART_GNRL 1010",
             "description": "Basic practice in drawing, painting, design. Exploratory course for beginners.",
             "prerequisites": "Restricted to Non-majors only",
             "hours": "3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Appreciation of Art",
-            "number": "1020",
+            "number": "ART_GNRL 1020",
             "description": "Illustrated discussion with examples from varied historic and contemporary art fields on nature of art, functions, methods of creative expression. One section is writing intensive each semester and the other is NON writing intensive each semester.",
             "prerequisites": "ENGLSH 1000 may be required on some sections",
             "hours": "3",
@@ -24,7 +24,7 @@
         },
         {
             "name": "Appreciation of Art - Writing Intensive",
-            "number": "1020W",
+            "number": "ART_GNRL 1020W",
             "description": "Illustrated discussion with examples from varied historic and contemporary art fields on nature of art, functions, methods of creative expression. One section is writing intensive each semester and the other is NON writing intensive each semester.",
             "prerequisites": "ENGLSH 1000",
             "hours": "3",
@@ -35,7 +35,7 @@
         },
         {
             "name": "Basic 2-D Design",
-            "number": "1030",
+            "number": "ART_GNRL 1030",
             "description": "(Art Foundations) Study of the basic principles and elements of two-dimensional composition in art.  These principles of organization are the bases for expression and critical analysis of the visual arts.  Students will create several studio projects exploring design variables, while employing a range of tools and materials from drawing to digital methods.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -44,7 +44,7 @@
         },
         {
             "name": "Basic 3-D Design",
-            "number": "1040",
+            "number": "ART_GNRL 1040",
             "description": "A foundational course designed to familiarize students with the elements and principles of three-dimensional design as well as some of the materials, tools, processes and techniques used in the creation of sculptural art.  Study and development of formal aesthetic ideas, conceptual vocabulary and technical skills is emphasized.  Expendable materials fee required.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Color Theory",
-            "number": "2000",
+            "number": "ART_GNRL 2000",
             "description": "An investigation of various color systems and their application to art.",
             "prerequisites": "ART_GNRL 1030",
             "hours": "3",
@@ -64,7 +64,7 @@
         },
         {
             "name": "Topics in Art",
-            "number": "2001",
+            "number": "ART_GNRL 2001",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses.  Topics course are repeatable for up to 6 credits per individual topic.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -73,7 +73,7 @@
         },
         {
             "name": "Topics in Art - Honors",
-            "number": "2001H",
+            "number": "ART_GNRL 2001H",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses.  Topics courses are repeatable for up to 6 credits per individual topic. Enrollment limited to students with Honors Eligibility.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Topics in Art - Humanities",
-            "number": "2005",
+            "number": "ART_GNRL 2005",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses. Topics courses are repeatable for up to six credits per individual topic.",
             "prerequisites": "Instructor's consent",
             "hours": "1-3",
@@ -91,7 +91,7 @@
         },
         {
             "name": "Topics in Art - Humanities - Honors",
-            "number": "2005H",
+            "number": "ART_GNRL 2005H",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses. Topics courses are repeatable for up to six credits per individual topic. Enrollment limited to students with Honors Eligibility.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -100,7 +100,7 @@
         },
         {
             "name": "International Summer Study Abroad",
-            "number": "2020",
+            "number": "ART_GNRL 2020",
             "description": "A four-week study abroad in studio art with required participation in scheduled excursions to art-related sites.  Students create original art for review at schedule critiques in 1) Florence, Italy and surrounding cities, or 2) The Netherlands and Belgium.  May be repeated once for credit.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Context and Culture",
-            "number": "2030",
+            "number": "ART_GNRL 2030",
             "description": "The purpose of this course is to give journalism students a framework for engaging with the visual arts, with a focus on the 20th century and today.  Our goal is to conduct a foundation for thinking, talking and writing about the visual arts, especially works and movements that might be challenging for the novice to understand.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -118,7 +118,7 @@
         },
         {
             "name": "Context and Culture - Honors",
-            "number": "2030H",
+            "number": "ART_GNRL 2030H",
             "description": "The purpose of this course is to give journalism students a framework for engaging with the visual arts, with a focus on the 20th century and today.  Our goal is to conduct a foundation for thinking, talking and writing about the visual arts, especially works and movements that might be challenging for the novice to understand.",
             "prerequisites": "Honors eligibility required",
             "hours": "3",
@@ -127,7 +127,7 @@
         },
         {
             "name": "Sophomore Seminar",
-            "number": "2040",
+            "number": "ART_GNRL 2040",
             "description": "This course is a bridge between contemporary art practices and developing a strong independent studio practice. Students develop a foundational sense of being a visual artist from the perspective of studio practice, professional application and creating an artistic identity through contemporary theory and short critical writings. Students will learn how to document and create a digital platform for their work, as well as search for internships, residencies and other professional arts opportunities. Through lectures, demonstrations, student collaborations, and visits with the local arts community, students will create a sphere of professional influences. Graded on A-F basis only.",
             "prerequisites": "ART_GNRL 1030, ART_GNRL 1040 and ART_DRAW 1050",
             "hours": "3",
@@ -140,7 +140,7 @@
         },
         {
             "name": "Topics in Art",
-            "number": "3001",
+            "number": "ART_GNRL 3001",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses. Topics courses are repeatable for up to 6 credits per individual topic.  Enrollment limited to students with junior standing.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -149,7 +149,7 @@
         },
         {
             "name": "Topics in Art - Honors",
-            "number": "3001H",
+            "number": "ART_GNRL 3001H",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses.  Topics courses are repeatable for up to 6 credits per individual topic. Enrollment limited to students with Honors Eligibility.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -158,7 +158,7 @@
         },
         {
             "name": "Topics in Art - Humanities",
-            "number": "3005",
+            "number": "ART_GNRL 3005",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses. Topics courses are repeatable for up to six credits per individual topic.",
             "prerequisites": "Instructor's consent",
             "hours": "1-3",
@@ -167,7 +167,7 @@
         },
         {
             "name": "Topics in Art - Humanities Honors",
-            "number": "3005H",
+            "number": "ART_GNRL 3005H",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses. Topics courses are repeatable for up to six credits per individual topic. Enrollment limited to students with Honors Eligibility.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -176,7 +176,7 @@
         },
         {
             "name": "International Summer Study Abroad",
-            "number": "3020",
+            "number": "ART_GNRL 3020",
             "description": "A four-week study abroad in studio art with required participation in scheduled excursions to art-related sites.  Students create original art for review at scheduled critiques in 1) Florence, Italy and surrounding cities, or 2) The Netherlands and Belgium.  May be repeated once for credit.",
             "prerequisites": "instructor's consent",
             "hours": "4",
@@ -185,7 +185,7 @@
         },
         {
             "name": "Undergraduate Internship in Art",
-            "number": "3030",
+            "number": "ART_GNRL 3030",
             "description": "Special learning situations not covered by coursework. Credit standards pre-arranged with dept. Limit on total hours of problems courses applies. Enrollment limited to Art and Art Education majors with Junior Standing.",
             "prerequisites": "departmental consent",
             "hours": "1-3",
@@ -194,7 +194,7 @@
         },
         {
             "name": "Topics in Art",
-            "number": "4001",
+            "number": "ART_GNRL 4001",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses. Topics courses are repeatable for up to 6 credits per individual topic.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -203,7 +203,7 @@
         },
         {
             "name": "Topics in Art - Honors",
-            "number": "4001H",
+            "number": "ART_GNRL 4001H",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses. Topics courses are repeatable for up to 6 credits per individual topic. Enrollment limited to students with Honors Eligibility.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -212,7 +212,7 @@
         },
         {
             "name": "Topics in Art - Humanities",
-            "number": "4005",
+            "number": "ART_GNRL 4005",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses. Topics courses are repeatable for up to six credits per individual topic.",
             "prerequisites": "Instructor's consent",
             "hours": "1-3",
@@ -221,7 +221,7 @@
         },
         {
             "name": "Topics in Art - Humanities Honors",
-            "number": "4005H",
+            "number": "ART_GNRL 4005H",
             "description": "Special studies in studio art; covers subjects not included in regularly offered courses. Topics courses are repeatable for up to six credits per individual topic. Enrollment limited to students with Honors Eligibility.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -230,7 +230,7 @@
         },
         {
             "name": "Video Art and the Moving Image",
-            "number": "4030",
+            "number": "ART_GNRL 4030",
             "description": "(same as FILM_S 4030; cross-leveled with ART_GNRL 7030). Video as a fine art form intersection sculpture, performing arts, doc filmmaking, pop culture and the Internet. Theoretical and historical knowledge is integrated with studio practice. Students create video works in Final Cut Pro demonstrating technical ability and aesthetic vision. May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -239,7 +239,7 @@
         },
         {
             "name": "2-D Portfolio Development",
-            "number": "4040",
+            "number": "ART_GNRL 4040",
             "description": "This course will provide an intensive experience in the development of a portfolio of personal work outside the traditional media boundaries.  Students will explore media relevant to their particular needs and begin to explore the connections between their work and contemporary art and culture through readings, discussions and critiques.  Expendable Materials Fee Required. May be repeated t 6 credits. Enrollment limited to students with Junior Standing. Recommended: 3000-level or above course in one of the following media areas: Drawing, Painting or Printmaking.",
             "prerequisites": "instructor's consent required",
             "hours": "3",
@@ -248,7 +248,7 @@
         },
         {
             "name": "Performance Art",
-            "number": "4050",
+            "number": "ART_GNRL 4050",
             "description": "(cross-leveled with ART_GNRL 7050). This studio art course will survey the practices in Performance Art and its intersections with visual and media-based art, experimental theater, music and dance. Modules will include performance and: the object, culture, the mediatized body and alternative spaces. Graded on A-F basis only. May be repeated up to 9 hours maximum.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -257,7 +257,7 @@
         },
         {
             "name": "Senior Seminar in Art",
-            "number": "4975",
+            "number": "ART_GNRL 4975",
             "description": "A capstone course for the undergraduate art degree with emphasis on the production of a written statement relating to the students' visual research.",
             "prerequisites": "senior standing and ENGLSH 1000",
             "hours": "3",
@@ -268,7 +268,7 @@
         },
         {
             "name": "Senior Seminar in Art - Writing Intensive",
-            "number": "4975W",
+            "number": "ART_GNRL 4975W",
             "description": "A capstone course for the undergraduate art degree with emphasis on the production of a written statement relating to the students' visual research.",
             "prerequisites": "senior standing and ENGLSH 1000",
             "hours": "3",
@@ -279,7 +279,7 @@
         },
         {
             "name": "Design - Senior Seminar",
-            "number": "4976",
+            "number": "ART_GNRL 4976",
             "description": "Capstone for undergraduate art students who are interested in graphic design.  Emphasis placed on research and writing about the theory and practice of design.  Students connect with Graphic Design Alumni who are working in the field of design. All students will participate in a final, formal portfolio review.",
             "prerequisites": "senior standing and ENGLSH 1000",
             "hours": "3",
@@ -290,7 +290,7 @@
         },
         {
             "name": "Design - Senior Seminar - Writing Intensive",
-            "number": "4976W",
+            "number": "ART_GNRL 4976W",
             "description": "Capstone for undergraduate art students who are interested in graphic design.  Emphasis placed on research and writing about the theory and practice of design.  Students connect with Graphic Design Alumni who are working in the field of design. All students will participate in a final, formal portfolio review.",
             "prerequisites": "senior standing and ENGLSH 1000",
             "hours": "3",
@@ -301,7 +301,7 @@
         },
         {
             "name": "Graduate Art - Studio Practice and Critique",
-            "number": "7000",
+            "number": "ART_GNRL 7000",
             "description": "Art studio practice emphasis on individual creative expression. Course may be repeated for up to 15 credit hours. Expendable materials fee required. Graded on A-F basis only. ",
             "prerequisites": " Graduate Art Major",
             "hours": ": 3",
@@ -310,7 +310,7 @@
         },
         {
             "name": "Topics in Art",
-            "number": "7001",
+            "number": "ART_GNRL 7001",
             "description": "Special studies in studio art at the graduate level; covers subjects not included in regularly offered courses. Graded on A-F basis only.",
             "prerequisites": "instructor's consent",
             "hours": "3",
@@ -319,7 +319,7 @@
         },
         {
             "name": "Topics in Art - Humanities",
-            "number": "7005",
+            "number": "ART_GNRL 7005",
             "description": "Special studies in graduate level studio art; covers subjects not included in regularly offered courses.  Topics courses are repeatable for up to 6 credits per individual topics.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -328,7 +328,7 @@
         },
         {
             "name": "International Summer Study Abroad",
-            "number": "7020",
+            "number": "ART_GNRL 7020",
             "description": "A four-week study abroad in studio art with required participation in scheduled excursions to art-related sites.  Students create original art for review at scheduled critiques in 1) Florence, Italy and surrounding cities, or 2) The Netherlands and Belgium.  May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -337,7 +337,7 @@
         },
         {
             "name": "Video Art and the Moving Image",
-            "number": "7030",
+            "number": "ART_GNRL 7030",
             "description": "(cross-leveled with ART_GNRL 4030). Video as a fine art form intersecting sculpture, performing arts, doc filmmaking, pop culture and the Internet. Theoretical and historical knowledge is integrated with studio practice. Students create video works in final Cut Pro demonstrating technical ability and aesthetic vision. May be repeated for credit.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -346,7 +346,7 @@
         },
         {
             "name": "Performance Art",
-            "number": "7050",
+            "number": "ART_GNRL 7050",
             "description": "(cross-leveled with ART_GNRL 4050) This studio art course will survey the practices in Performance Art and its intersections with visual and media-based art, experimental theater, music and dance. Modules will include performance and: the object, culture, the mediatized body body, culture and alternative spaces. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -355,7 +355,7 @@
         },
         {
             "name": "Problems in Art",
-            "number": "7085",
+            "number": "ART_GNRL 7085",
             "description": "Individual study in a subject area to be proposed by the student and approved by the instructor.  The student will meet periodically on a regular basis with the instructor to review progress on the work assigned.  May be repeated for credit. Graded on A-F basis only.",
             "prerequisites": "for students with strong preparation in Art; departmental consent",
             "hours": "1-3",
@@ -364,7 +364,7 @@
         },
         {
             "name": "Graduate Art - Advanced Studio Practice and Critique",
-            "number": "8000",
+            "number": "ART_GNRL 8000",
             "description": "Continuation of ART_GNRL 7000. Art studio practice with emphasis on individual creative expression. Course may be repeated for up to 15 credit hours. Expendable materials fee required. Graded on A-F basis only. ",
             "prerequisites": " Graduate Art Major",
             "hours": ": 3",
@@ -373,7 +373,7 @@
         },
         {
             "name": "Topics in Art",
-            "number": "8001",
+            "number": "ART_GNRL 8001",
             "description": "Special studies in graduate level studio art; covers subjects not included in regularly offered courses.  Topics courses are repeatable for up to 6 credits per individual topic.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -382,7 +382,7 @@
         },
         {
             "name": "Topics in Art - Humanities",
-            "number": "8005",
+            "number": "ART_GNRL 8005",
             "description": "Special studies in graduate level studio art; covers subjects not included in regularly offered courses.  Topics courses are repeatable for up to 6 credits per individual topic.",
             "prerequisites": "instructor's consent",
             "hours": "1-3",
@@ -391,7 +391,7 @@
         },
         {
             "name": "International Summer Study Abroad",
-            "number": "8020",
+            "number": "ART_GNRL 8020",
             "description": "A four week study abroad in studio art with required participation in scheduled excursion to art-related sites.  Students create original art for review at schedule critiques in 1) Florence, Italy and surrounding cities, or 2) The Netherlands and Belgium.  May be repeated once for credit. Graded on A-F basis only.",
             "prerequisites": "None Listed",
             "hours": "4",
@@ -400,7 +400,7 @@
         },
         {
             "name": "Graduate Art - Theory and Context",
-            "number": "8070",
+            "number": "ART_GNRL 8070",
             "description": "Contextualizing artwork in culture, history, and theory.  May be repeated up to 18 hours for credit.  Graded on A-F basis only",
             "prerequisites": "Graduate Art standing",
             "hours": "3",
@@ -409,7 +409,7 @@
         },
         {
             "name": "MFA Thesis Exhibition Documentation",
-            "number": "8090",
+            "number": "ART_GNRL 8090",
             "description": "Preparation of materials deemed necessary to document in a permanent form the thesis exhibition. Credit will be granted upon the satisfactory completion of the document, which will be retained by the Department of Art. Required of all MFA candidates.  Graded on S/U basis only.",
             "prerequisites": "None Listed",
             "hours": "1",
@@ -418,7 +418,7 @@
         },
         {
             "name": "Graduate Studio Seminar",
-            "number": "9010",
+            "number": "ART_GNRL 9010",
             "description": "Practical and philosophical concerns of the visual artist. Mandated for all MFA candidates.",
             "prerequisites": "None Listed",
             "hours": "1-2",

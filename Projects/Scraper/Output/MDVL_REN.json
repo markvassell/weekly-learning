@@ -4,7 +4,7 @@
     "courses": [
         {
             "name": "Topics in Medieval and Renaissance Studies-Social Science",
-            "number": "2004",
+            "number": "MDVL_REN 2004",
             "description": "Organized study of selected medieval and Renaissance topics. Subjects and earnable credit may vary from semester to semester. Topics announced at time of enrollment. May be repeated for credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -13,7 +13,7 @@
         },
         {
             "name": "Topics in Medieval and Renaissance Studies-Humanities",
-            "number": "2005",
+            "number": "MDVL_REN 2005",
             "description": "Organized study of selected medieval and Renaissance topics. Subjects and earnable credit may vary from semester to semester. Topics announced at time of enrollment. May be repeated for credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "1-3",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Topics in Medieval and Renaissance Studies-Social Science",
-            "number": "3004",
+            "number": "MDVL_REN 3004",
             "description": "Organized study of selected medieval and Renaissance topics. Subjects and earnable credit may vary from semester to semester. Topics announced at time of enrollment. May be repeated for credit with departmental consent.",
             "prerequisites": "Instructor's consent",
             "hours": "1-3",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Topics in Medieval and Renaissance Studies-Humanities",
-            "number": "3005",
+            "number": "MDVL_REN 3005",
             "description": "Organized study of selected medieval and Renaissance topics. Subjects and earnable credit may vary from semester to semester. Topics announced at time of enrollment. May be repeated for credit with departmental consent.",
             "prerequisites": "Instructor's consent",
             "hours": "1-3",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Studies in Medieval and Renaissance Cultures-Social Science",
-            "number": "4104",
+            "number": "MDVL_REN 4104",
             "description": "(cross-leveled with MDVL_REN 7104). In-depth study of selected topics in medieval and Renaissance cultures. Subjects vary from semester to semester. Topics announced at time of enrollment. May be repeated for credit with departmental consent.",
             "prerequisites": "Junior standing or Instructor's consent",
             "hours": "3",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Studies in Medieval and Renaissance Cultures-Humanities",
-            "number": "4105",
+            "number": "MDVL_REN 4105",
             "description": "(cross-leveled with MDVL_REN 7105). In-depth study of selected topics in medieval and Renaissance cultures. Subjects vary from semester to semester. Topics announced at time of enrollment. May be repeated for credit with departmental consent.",
             "prerequisites": "Junior standing or Instructor's consent",
             "hours": "3",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Studies in Medieval and Renaissance Languages",
-            "number": "4411",
+            "number": "MDVL_REN 4411",
             "description": "(cross-leveled with MDVL_REN 7411). Study of a medieval or early modern language.",
             "prerequisites": "Instructors consent",
             "hours": "3",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Studies in Medieval and Renaissance Cultures-Social Science",
-            "number": "7104",
+            "number": "MDVL_REN 7104",
             "description": "(cross-leveled with MDVL_REN 4104). In-depth study of selected topics in medieval and Renaissance cultures. Subjects vary from semester to semester. Topics announced at time of enrollment. May be repeated for credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Studies in Medieval and Renaissance Cultures-Humanities",
-            "number": "7105",
+            "number": "MDVL_REN 7105",
             "description": "(cross-leveled with MDVL_REN 4105). In-depth study of selected topics in medieval and Renaissance cultures. Subjects vary from semester to semester. Topics announced at time of enrollment. May be repeated for credit with departmental consent.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Studies in Medieval and Renaissance Languages",
-            "number": "7411",
+            "number": "MDVL_REN 7411",
             "description": "(cross-leveled with MDVL_REN 4411). Study of a medieval or early modern language.",
             "prerequisites": "Instructor's consent",
             "hours": "3",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Monastic Worlds",
-            "number": "7535",
+            "number": "MDVL_REN 7535",
             "description": "(same as REL_ST 7535; cross-leveled with MDVL_REN 4535, REL_ST 4535). Monastic Worlds is an experiential learning course designed to serve as a Humanities Field School in medieval and early modern studies. It will be taught by faculty from UMKC and UMC through the Intercampus Course Sharing initiative. The class introduces students to humanities research methodology and the religious history and culture of premodern Europe and the contemporary Midwest by using the monastic communities as a focal point to learn about musicology, history, art history, literature, and religion. Following two weeks of online course modules, students will travel to the Benedictine communities of Conception Abbey in Conception, Missouri and Mount Saint Scholastica's in Atchison, Kansas, for additional face-to-face classes and research projects. On-site, students will participate in communal living and attend face-to-face classes on the historical and cultural worlds of medieval and early modern Europe. They will practice ethnography through observation of and participation in communal life of prayer, study, book production, and labor. Students will also have the opportunity to work with the manuscripts and rare books owned by these communities and visit the largest reliquary collection in North America, housed at the nearby Benedictine community of the Sisters of Perpetual Adoration in Clyde, MO. This course has an associated fee. Contact teaching faculty for this year's fee details. Graded on A/F basis only.",
             "prerequisites": "None Listed",
             "hours": "3",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Studies in Medieval and Renaissance Languages",
-            "number": "8411",
+            "number": "MDVL_REN 8411",
             "description": "Study of a medieval or early modern language.",
             "prerequisites": "Instructor's consent",
             "hours": "3",
