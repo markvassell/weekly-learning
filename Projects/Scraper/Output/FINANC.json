@@ -1,0 +1,891 @@
+{
+    "department_name": "Finance",
+    "department_code": "FINANC",
+    "courses": [
+        {
+            "name": "Principles of Finance",
+            "number": "FINANC 1000",
+            "description": "Financing business, consumer, and government activity; stocks, bonds, real estate, and financial markets; risk; insurance; inflation; cash and income management; capital accumulation and appreciation.",
+            "prerequisites": "Students admitted to COB upper level degree program cannot enroll",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Survey of Business Finance",
+            "number": "FINANC 2000",
+            "description": "An overview of the global financial system, financial markets, financial institutions, and principles of financial management.",
+            "prerequisites": "Students admitted to COB upper level degree program cannot enroll",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Corporate Finance",
+            "number": "FINANC 3000",
+            "description": "Financial decision-making in a corporate environment. Time value of money, capital budgeting, cost of capital, working capital management and financial instruments issued by the firm.",
+            "prerequisites": "Completed 45 semester hours; STAT 2500 (or STAT 2200 and STAT 1200 or STAT 1300 or STAT 1400); ACCTCY 2027 or ACCTCY 2037 or ACCTCY 2137H; ECONOM 1014 or ECONOM 1024; ECONOM 1015 or Econom 1051 or 1051H",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ACCTCY 2027",
+                "ACCTCY 2037",
+                "ACCTCY 2137",
+                "ECONOM 1014",
+                "ECONOM 1024",
+                "ECONOM 1015",
+                "STAT 2500",
+                "STAT 2200",
+                "STAT 1200",
+                "STAT 1300",
+                "STAT 1400"
+            ]
+        },
+        {
+            "name": "Personal Risk Management and Insurance",
+            "number": "FINANC 3300",
+            "description": "Teaches the importance of risk in personal endeavors and the intelligent handling of such risk. Life, health, auto, homeowner and liability risks are treated.",
+            "prerequisites": "sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Financial Management",
+            "number": "FINANC 4010",
+            "description": "Theory and techniques of financial management, study of firm valuation, dividend policy, capital budgeting and capital asset pricing.",
+            "prerequisites": "FINANC 3000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000"
+            ]
+        },
+        {
+            "name": "Investments",
+            "number": "FINANC 4020",
+            "description": "Security valuation and analysis, formulation of personal and professional investment programs.",
+            "prerequisites": "FINANC 3000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000"
+            ]
+        },
+        {
+            "name": "Investments - Honors",
+            "number": "FINANC 4020H",
+            "description": "Security valuation and analysis, formulation of personal and professional investment programs.",
+            "prerequisites": "FINANC 3000. Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000"
+            ]
+        },
+        {
+            "name": "Financial Intermediaries and Markets",
+            "number": "FINANC 4030",
+            "description": "Functions of intermediaries in the aggregation and allocation of funds, creation and transfer of assets, and distribution of risks. Regulation of financial institutions; financial institutions as instruments of public policy.",
+            "prerequisites": "FINANC 3000 and ECONOM 3229",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ECONOM 3229",
+                "FINANC 3000"
+            ]
+        },
+        {
+            "name": "Financial Management Policy",
+            "number": "FINANC 4110",
+            "description": "Application of the concepts and tools of finance to cases in working capital management, capital budgeting analysis and capital structure decisions.",
+            "prerequisites": "FINANC 4010",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 4010"
+            ]
+        },
+        {
+            "name": "Security Analysis",
+            "number": "FINANC 4120",
+            "description": "Classifies and analyzes securities, markets, industries. Formulation of investment policy for institutions, aggressive personal investors.",
+            "prerequisites": "FINANC 4020",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 4020"
+            ]
+        },
+        {
+            "name": "Management of Financial Institutions",
+            "number": "FINANC 4130",
+            "description": "Operating principles of major financial intermediaries, including commercial banking, savings, insuring, lending and investing institutions. Analysis of cases; study of current problems.  Some sections of the course may be graded on A-F or S/U graded basis only.",
+            "prerequisites": "FINANC 4030",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 4030"
+            ]
+        },
+        {
+            "name": "Problems in Finance",
+            "number": "FINANC 4185",
+            "description": "Independent study, reports on selected topics.  Some sections of this course may be offered A-F only or S/U only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Finance",
+            "number": "FINANC 4201",
+            "description": "Selected topics in finance, insurance or real estate. Offered on an experimental basis.  Some sections of this course may be offered A-F only or S/U only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Portfolio Management",
+            "number": "FINANC 4220",
+            "description": "Development and application of the principles of modern portfolio theory to financial assets. Analysis of the concepts of diversification, portfolio construction, portfolio revision, and use of types of financial assets in effective portfolio management.",
+            "prerequisites": "FINANC 4020",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 4020"
+            ]
+        },
+        {
+            "name": "Financial Modeling and Databases",
+            "number": "FINANC 4310",
+            "description": "Financial modeling and using online databases to retrieve data, data analysis, spreadsheet design, excel VBA programming, interpreting results. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Financial Futures and Options",
+            "number": "FINANC 4320",
+            "description": "A basic overview of financial futures and options markets. Topics include: theoretical pricing of financial futures contracts and stock options, institutional aspects of these markets, hedging, and speculative strategies.",
+            "prerequisites": "FINANC 4020",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 4020"
+            ]
+        },
+        {
+            "name": "Financial Ethics and Professional Standards",
+            "number": "FINANC 4450",
+            "description": "The course comprises an intensive study of the CFA Institute Code of Ethics and Standards of Professional Conduct and Global Investment Performance Standards. It also includes a review of corporate governance issues.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "FINANC 4010 or departmental consent",
+            "connections": [
+                "FINANC 4010"
+            ]
+        },
+        {
+            "name": "Principles of Real Estate",
+            "number": "FINANC 4500",
+            "description": "Principle factors influencing land use, practices in real estate business.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "FINANC 3000",
+            "connections": [
+                "FINANC 3000"
+            ]
+        },
+        {
+            "name": "Real Estate Appraisal",
+            "number": "FINANC 4510",
+            "description": "Procedures for valuing industrial, commercial, residential realty by market, income, replacement cost approaches. Case method, field investigations.",
+            "prerequisites": "FINANC 4500",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 4500"
+            ]
+        },
+        {
+            "name": "Real Estate Finance and Investment",
+            "number": "FINANC 4520",
+            "description": "Financing of residential, commercial, and industrial real estate and real estate development. Instruments, institutions, and markets; role of government agencies; investment qualities of real estate.",
+            "prerequisites": "FINANC 4500",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 4500"
+            ]
+        },
+        {
+            "name": "Real Estate Portfolio Analysis and REITs",
+            "number": "FINANC 4530",
+            "description": "Management of real estate portfolios and analysis of real estate investment trusts including financial statement analysis, cash flows, and valuation techniques.",
+            "prerequisites": "FINANC 3000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000"
+            ]
+        },
+        {
+            "name": "Investment Strategy of Warren Buffett",
+            "number": "FINANC 4620",
+            "description": "Survey and application of the investment philosophy and valuation methods of Warren Buffett.  ",
+            "prerequisites": "  FINANC 3000;",
+            "hours": ": 3Corequisites: FINANC 4020",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000"
+            ]
+        },
+        {
+            "name": "Introduction to Risk Management and Insurance",
+            "number": "FINANC 4630",
+            "description": "Basic principles of risk management and insurance focusing on operational risks faced by organizations. Covers terminology, sources, dimensions, characteristics, measurement, and assessment of risk along with design and implementation of techniques to mitigate and control risk.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: FINANC 2000 or FINANC 3000",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Principles of Commercial Property and Liability Insurance",
+            "number": "FINANC 4632",
+            "description": "The objective of this course is to examine the principles and key elements of commercial property and liability insurance. The primary emphasis will be on the property and liability loss exposures faced by organizations and the corresponding types of insurance for covering those loss exposures. This course qualifies students who make a \"B\" or better to receive credit for CPCU 552 Commercial Liability Risk Management and Insurance.",
+            "prerequisites": "FINANC 2000 or FINANC 3000 or FINANC 4630, or permission of the instructor",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 2000",
+                "FINANC 3000",
+                "FINANC 4630"
+            ]
+        },
+        {
+            "name": "Enterprise Risk Management",
+            "number": "FINANC 4640",
+            "description": "This course addresses the principles, concepts, key elements and applications of Enterprise Risk Management (ERM) to businesses and other organizations. The principal objective of this course is to prepare students to understand the principles of ERM and to be able to integrate sound risk management principles into their work.",
+            "prerequisites": "FINANC 4630, or permission of instructor",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 4630"
+            ]
+        },
+        {
+            "name": "Topics in International Finance",
+            "number": "FINANC 4710",
+            "description": "Available during study abroad session. Emphasis is on international corporate governance, foreign exchange risk management, international capital markets, balance of payments, international monetary system, and exchange rate determination. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "International Finance",
+            "number": "FINANC 4720",
+            "description": "Application of domestic corporate finance to the international arena. Emphasis on international capital budgeting, working capital management, foreign exchange risk management, international capital markets, balance of payments, international monetary system, and exchange rate determination.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Investment Fund Management",
+            "number": "FINANC 4820",
+            "description": "Analysis and management of securities and markets by participation in the management of a student-run portfolio of publicly traded stocks and bonds. May be repeated once for credit for a total of six credits.",
+            "prerequisites": "FINANC 3000, FINANC 4120 or FINANC 4620, instructor's consent required each enrollment",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000",
+                "FINANC 4120",
+                "FINANC 4620"
+            ]
+        },
+        {
+            "name": "Chartered Financial Analyst Exam Review Course",
+            "number": "FINANC 4830",
+            "description": "(cross-leveled with FINANC 7830). A review of the content and format of the chartered financial analyst (CFA) examination. Students need to be registered for the CFA exam to enroll in the class.",
+            "prerequisites": "Instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Angel Capital Education Program",
+            "number": "FINANC 4840",
+            "description": "(cross-leveled with FINANC 7840). In depth understanding of investing in start up enterprises, including structuring investment deals, doing due diligence, and monitoring of prior investments. Graded on A-F basis only.",
+            "prerequisites": "Instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Professional Finance Internship",
+            "number": "FINANC 4940",
+            "description": "Provides students experience with financial activities in business organizations (or, occasionally, in a governmental or not-for-profit setting). Students are required to prepare and execute a plan of study approved by the instructor and the complete written assignments detailed in the plan.",
+            "prerequisites": "FINANC 3000, College of Business students with a finance concentration or international business students with a finance emphasis, and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000"
+            ]
+        },
+        {
+            "name": "Financial Management",
+            "number": "FINANC 7010",
+            "description": "Theory and techniques of financial management, study of firm valuation, dividend policy, capital budgeting and capital asset pricing.",
+            "prerequisites": "FINANC 3000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000"
+            ]
+        },
+        {
+            "name": "Investments",
+            "number": "FINANC 7020",
+            "description": "Security valuation and analysis, formulation of personal and professional investment programs.",
+            "prerequisites": "FINANC 3000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000"
+            ]
+        },
+        {
+            "name": "Special Topics in Finance",
+            "number": "FINANC 7201",
+            "description": "Selected topics in Finance, insurance, or real estate.  Offered on an experimental basis.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Microeconomics for Business",
+            "number": "FINANC 7210",
+            "description": "Examination of how the behavior or consumers and the business decisions of firms affect supply, demand, and the resulting prices of goods and services in the market.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Economics for Managers",
+            "number": "FINANC 7220",
+            "description": "Applies the concepts and tools of economics to management issues and problems.",
+            "prerequisites": "FINANC 7210 or equivalent",
+            "hours": "1.5-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7210"
+            ]
+        },
+        {
+            "name": "Managerial Finance I",
+            "number": "FINANC 7410",
+            "description": "Introduction to financial management including the time value of money capital budgeting techniques, risk measurement, and the valuation of financial securities.",
+            "prerequisites": "ACCTCY 7310",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ACCTCY 7310"
+            ]
+        },
+        {
+            "name": "Managerial Finance II",
+            "number": "FINANC 7420",
+            "description": "Continuation of the study of financial management with focus on the risk-return tradeoff, capital structure, corporate layout polices, long-term financing, elementary options pricing, and mergers and acquisitions.",
+            "prerequisites": "FINANC 7410",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7410"
+            ]
+        },
+        {
+            "name": "Managerial Finance",
+            "number": "FINANC 7440",
+            "description": "Analyzes financial information relative to acquisition, management of assets; costs of alternative financial contracts; effect of mix of outstanding securities on entity's cost of capital; interaction between funding/investment decisions.",
+            "prerequisites": "ACCTCY 7310 or departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ACCTCY 7310"
+            ]
+        },
+        {
+            "name": "Investment Strategy of Warren Buffett",
+            "number": "FINANC 7620",
+            "description": "Survey and application of the investment philosophy and valuation methods of Warren Buffett.",
+            "prerequisites": "FINANC 3000 or FINANC 7440",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000",
+                "FINANC 7440"
+            ]
+        },
+        {
+            "name": "Investment Fund Management",
+            "number": "FINANC 7820",
+            "description": "(cross-leveled with FINANC 4820). Analysis and management of securities and markets by participation in the management of a student-run portfolio of publicly traded stocks and bonds.  May be repeated 1 time for credit.",
+            "prerequisites": "FINANC 3000 or FINANC 7440; instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 3000",
+                "FINANC 7440"
+            ]
+        },
+        {
+            "name": "Chartered Financial Analyst Exam Review Course",
+            "number": "FINANC 7830",
+            "description": "(cross-leveled with FINANC 4830). A review of the content and format of the chartered financial analyst (CFA) examination. Students need to be registered for the CFA exam to enroll in the class.",
+            "prerequisites": "Instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Angel Capital Education Program",
+            "number": "FINANC 7840",
+            "description": "(cross-leveled with FINANC 4840). In depth understanding of investing in start up enterprises, including structuring investment deals, doing due diligence, and monitoring of prior investments. Graded on A-F basis only.",
+            "prerequisites": "Instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Finance",
+            "number": "FINANC 8001",
+            "description": "Selected topics in finance, insurance or real estate. Offered on experimental basis.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Multicultural and Global Finance Study Abroad",
+            "number": "FINANC 8010",
+            "description": "International topical issues in finance including cultural difference, corporate governance, differential approaches to regulation across countries, and cross-risk. Includes a study abroad component with on-site visits to businesses and other organizations. May be repeated as venues change.",
+            "prerequisites": "Consent required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "International Financial Markets",
+            "number": "FINANC 8012",
+            "description": "International capital, foreign exchange, money markets, and financial institutions including exchange rates, instruments and securities, and multinational risk exposure. May include a study-abroad component with on-site visits to businesses and other organizations. May be repeated as venues change. Graded on A-F basis only.",
+            "prerequisites": "Consent required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Security Markets and Investments",
+            "number": "FINANC 8070",
+            "description": "Valuation of securities including stocks, bonds, options and futures; risk-return analysis of financial assets.",
+            "prerequisites": "FINANC 7440 or equivalent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7440"
+            ]
+        },
+        {
+            "name": "Problems in Finance",
+            "number": "FINANC 8085",
+            "description": "For independent investigation and analysis, graduate students select topics suggested by the foregoing undergraduate courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Master's Thesis Research",
+            "number": "FINANC 8090",
+            "description": "Advanced research leading to thesis.  Graded on S/U basis only.",
+            "prerequisites": "Consent required",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Financial Databases and Analysis",
+            "number": "FINANC 8310",
+            "description": "Financial modeling and using online databases to retrieve data, data analysis, spreadsheet design, excel VBA programming, interpreting results. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Financial Modeling",
+            "number": "FINANC 8312",
+            "description": "Financial modeling using Excel spreadsheet design and VBA programming. Includes alternative computational methods, simulation and the use of information retrieved from financial databases. Graded on A-F basis only.",
+            "prerequisites": "FINANC 8310",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 8310"
+            ]
+        },
+        {
+            "name": "Financial Markets",
+            "number": "FINANC 8320",
+            "description": "Operation and structure of money markets and capital markets, including markets for stocks, bonds and derivatives securities. Study of the securities that trade in those markets including characteristics, valuation and diversification.",
+            "prerequisites": "BUS_AD 7440",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BUS_AD 7440"
+            ]
+        },
+        {
+            "name": "Investment Policy and Portfolio Management",
+            "number": "FINANC 8330",
+            "description": "Study of investment policies and the effects of risk and diversification on investment management including measurement of risk, identification of investment policy, and construction and maintenance of investment portfolios.  ",
+            "prerequisites": "  FINANC 8320",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 8320"
+            ]
+        },
+        {
+            "name": "Derivative Financial Securities",
+            "number": "FINANC 8340",
+            "description": "Comprehensive overview of derivative securities including financial futures and options, swaps, and financial engineering. Major topics: institutional aspects of these markets, advanced pricing models, pricing relationships among derivative securities, and risk shifting.",
+            "prerequisites": "FINANC 8070",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 8070"
+            ]
+        },
+        {
+            "name": "Financial Statement Analysis I",
+            "number": "FINANC 8350",
+            "description": "An introduction to financial statement analysis with emphasis on interpretation and understanding of the balance sheet income statement, and statement of cash flows.",
+            "prerequisites": "ACCTCY 7310",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ACCTCY 7310"
+            ]
+        },
+        {
+            "name": "Financial Statement Analysis II",
+            "number": "FINANC 8352",
+            "description": "Analysis of company financial statements and related accounting information with emphasis on investors' decisions to invest in the company.",
+            "prerequisites": "FINANC 8350",
+            "hours": "1.5-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 8350"
+            ]
+        },
+        {
+            "name": "Equity Securities Analysis",
+            "number": "FINANC 8360",
+            "description": "Theory and application of models and methods for valuing common stocks.",
+            "prerequisites": "FINANC 7420",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Fixed-Income Securities Analysis",
+            "number": "FINANC 8370",
+            "description": "Markets for fixed-income securities and theory and application of models for valuing bonds and other fixed-income securities.  ",
+            "prerequisites": " FINANC 7420",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Investment Banking",
+            "number": "FINANC 8380",
+            "description": "Topics in investment banking including types of offerings and securities, analysis of comparable companies and transactions, valuation methods, and hedge funds and private equity. Graded on A-F basis only.",
+            "prerequisites": "FINANCE 7420 or equivalent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANCE 742"
+            ]
+        },
+        {
+            "name": "Advanced Financial Management",
+            "number": "FINANC 8410",
+            "description": "Examination of the modern theory of finance. Capital budgeting capital structure, dividend theory and valuation.",
+            "prerequisites": "FINANC 7440",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7440"
+            ]
+        },
+        {
+            "name": "Working Capital Management",
+            "number": "FINANC 8420",
+            "description": "Financial planning and short-term financial management; integration of quantitative techniques, microeconomics, and financial decisions; analysis of decisions about profit planning, financial forecasting, accounts receivable, cash management, and financial short-term assets.",
+            "prerequisites": "FINANC 8410",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 8410"
+            ]
+        },
+        {
+            "name": "Capital Budgeting",
+            "number": "FINANC 8430",
+            "description": "An investigation of long-term financial decisions. Topics include capital budgeting, leasing, long-term financing. Extensive use of cases.",
+            "prerequisites": "FINANC 8410",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 8410"
+            ]
+        },
+        {
+            "name": "Financing Multinational Business",
+            "number": "FINANC 8440",
+            "description": "Study of foreign exchange markets, currency derivatives, global capital budgeting, and international financial decision strategy. Some sections of this course may be offered on an A-F or S/U basis only.",
+            "prerequisites": "FINANC 7420",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Ethics and Standards of Financial Practice",
+            "number": "FINANC 8450",
+            "description": "Study of financial ethics with particular focus on standards of practice for investment performance standards.  Recommended for students planning to take the CFA exam.  ",
+            "prerequisites": "  FINANC 7420",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Mergers and Acquisitions",
+            "number": "FINANC 8460",
+            "description": "Analysis of merger and acquisition transactions. Includes methods of financing, valuation and deal structure, hostile takeovers and restructuring.",
+            "prerequisites": "FINANC 7420 or equivalent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Management of Financial Institutions",
+            "number": "FINANC 8510",
+            "description": "Study and analysis of policies, goals, practices and organizational changes in the management of financial institutions and intermediaries.",
+            "prerequisites": "FINANC 7440",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7440"
+            ]
+        },
+        {
+            "name": "Real Estate Investment I",
+            "number": "FINANC 8520",
+            "description": "Analysis of real estate as an investment including forecasting net operating income and cap rates, risk analysis estimation of return on investment, and syndication.",
+            "prerequisites": "FINANC 7420",
+            "hours": "1.5-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Real Estate Investment II",
+            "number": "FINANC 8522",
+            "description": "A continuation of FINANC 8520. Advanced risk analysis, syndication, and renovation and disposition of investment property including case analyses. Graded on A-F basis only.",
+            "prerequisites": "FINANC 8520",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 8520"
+            ]
+        },
+        {
+            "name": "Real Estate Portfolio Analysis",
+            "number": "FINANC 8530",
+            "description": "Portfolio analysis applied to real estate investment including diversification, portfolio theory, and management of real estate portfolios including real estate investment trusts (REITs).",
+            "prerequisites": "FINANC 7420",
+            "hours": "1.5-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Real Estate Finance",
+            "number": "FINANC 8540",
+            "description": "Instruments and methods of financing real estate including fixed and variable rate mortgages, the mortgage loan underwriting process, financing investment property, and alternative financing methods. Graded on A-F basis only.",
+            "prerequisites": "FINANC 7420 or equivalent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Real Estate Valuation I",
+            "number": "FINANC 8550",
+            "description": "Valuation and appraisal methods for real estate. Includes cost, comparable sales, and income capitalization approaches. Credit may not be earned for both FINANC 7510 and FINANC 8550. Graded on A-F basis only.",
+            "prerequisites": "FINANC 7420 or equivalent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Real Estate Valuation II",
+            "number": "FINANC 8552",
+            "description": "A continuation of FINANC 8550. Focus is on advanced methods and the use of case analyses. Credit may not be earned for both FINANC 7510 and FINANC 8552. Graded on A-F basis only.",
+            "prerequisites": "FINANC 8550",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 8550"
+            ]
+        },
+        {
+            "name": "Real Estate Securities Analysis",
+            "number": "FINANC 8560",
+            "description": "Analysis of real estate securities including in-depth financial statement analysis and valuation of real estate investment trusts (REITs) and real estate operating companies (REOCs).",
+            "prerequisites": "FINANC 8530 or instructor's consent",
+            "hours": "1.5-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 8530"
+            ]
+        },
+        {
+            "name": "Real Estate Development",
+            "number": "FINANC 8570",
+            "description": "Developing real estate properties. Topics include organizational forms, land development, construction, and environmental issues. Includes issues specific to residential, office, industrial, and retail properties. Graded on A-F basis only.",
+            "prerequisites": "FINANC 7420 or equivalent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Investment Strategy of Warren Buffett",
+            "number": "FINANC 8620",
+            "description": "This course is designed to familiarize students with the investment philosophy of Warren Buffett. Buffett's criteria for evaluating potential acquisitions and investments will be analyzed in detail.",
+            "prerequisites": "FINANC 7420",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 7420"
+            ]
+        },
+        {
+            "name": "Corporate Risk Management",
+            "number": "FINANC 8630",
+            "description": "Principles of identifying, analyzing, assessing, and managing operational risks faced by large organizations. Sources, dimensions, and qualities of risk as well as development and implementation of methods to avoid, control, or transfer risk.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Prerequisites or Corequisites: FINANC 7420Recommended: Undergraduate Business degree with major/emphasis/minor in Finance, Accounting or Economics",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Corporate Insurance and Alternative Financing Mechanisms",
+            "number": "FINANC 8632",
+            "description": "Basis and techniques for insuring hazard and operational risks encountered by large organizations. Analysis of insurance policies, determination of optimal limits and retentions, and assessment of alternative risk financing methods.",
+            "prerequisites": "FINANC 8630",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC 8630"
+            ]
+        },
+        {
+            "name": "Advanced Topics in Finance",
+            "number": "FINANC 9001",
+            "description": "Selected topics in finance.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Finance",
+            "number": "FINANC 9090",
+            "description": "Thesis research for Ph.D. degree. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Corporate Finance",
+            "number": "FINANC 9100",
+            "description": "Advanced theory, investigation of current research in financial management.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics Seminar in Finance",
+            "number": "FINANC 9101",
+            "description": "Reading and critical evaluation of selected current finance literature and research.  Departmental consent. May be repeated. Graded on S/U basis only.  students only",
+            "prerequisites": "Ph.D",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Corporate Finance",
+            "number": "FINANC 9200",
+            "description": "Advanced topics in corporate finance.",
+            "prerequisites": "Finance [FINANC] 9100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FINANC] 910"
+            ]
+        },
+        {
+            "name": "Financial Economics",
+            "number": "FINANC 9300",
+            "description": "Utility analysis, efficient frontier mathematics, asset pricing and related topics.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Investment Analysis",
+            "number": "FINANC 9400",
+            "description": "Develops integrated theory and analytic techniques for evaluating investment potential of financial instruments. Emphasizes corporate securities. Selected cases and readings.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

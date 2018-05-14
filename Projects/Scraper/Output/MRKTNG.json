@@ -1,0 +1,721 @@
+{
+    "department_name": "Marketing",
+    "department_code": "MRKTNG",
+    "courses": [
+        {
+            "name": "Principles of Marketing",
+            "number": "MRKTNG 3000",
+            "description": "Institutions, processes, and problems involved in producing and transferring goods and services from producer to consumers; emphasis on economics and social aspects.",
+            "prerequisites": "45 semester hours",
+            "hours": "3PrerequisitesorCorequisites:ECONOM 1014,ECONOM 1024,ECONOM1051,orAG_EC 1041",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Principles of Marketing - Honors",
+            "number": "MRKTNG 3000H",
+            "description": "Institutions, processes, and problems involved in producing and transferring goods and services from producer to consumers; emphasis on economics and social aspects.",
+            "prerequisites": "45 semester hours; ECONOM 1014, ECONOM 1024, ECONOM 1051, or AG_EC 1041; Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_EC 1041",
+                "ECONOM 1014",
+                "ECONOM 1024",
+                "ECONOM 1051"
+            ]
+        },
+        {
+            "name": "Special Topics in Marketing",
+            "number": "MRKTNG 3901",
+            "description": "Study of a selected topic in Marketing in a course taken for credit as part of an organized study abroad program.  May be repeated for credit. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "International Business Internship",
+            "number": "MRKTNG 3942",
+            "description": "Internship in an international setting; Marketing Independent Study Coordinator must approve internship plan.  Student and mentor reports required.  See Marketing website for request form, internship requirements and details. Graded on S/U basis only.",
+            "prerequisites": "departmental consent; MRKTNG 3000",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Current Issues in International Marketing",
+            "number": "MRKTNG 3975",
+            "description": "Study of current issues and practices in international marketing in a course taken for credit as part of an organized study abroad program.  May be repeated for credit. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in International Business",
+            "number": "MRKTNG 3985",
+            "description": "Independent study associated with a course taken for credit as part of an organized study abroad program.  See Marketing website for request form. Graded on S/U basis only.",
+            "prerequisites": "departmental consent; MRKTNG 3000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Marketing Management",
+            "number": "MRKTNG 4000",
+            "description": "Further examination of marketing issues: market analysis, market research, positioning, products, pricing, promotion, distribution, relationship management, other topics.",
+            "prerequisites": "MRKTNG 3000, and ACCTCY 2010 or ACCTCY 2026, or ACCTCY 2036 or ACCTCY 2136H. During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ACCTCY 2010",
+                "ACCTCY 2026",
+                "ACCTCY 2036",
+                "ACCTCY 2136",
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Marketing Management - Honors",
+            "number": "MRKTNG 4000H",
+            "description": "Further examination of marketing issues: market analysis, market research, positioning, products, pricing, promotion, distribution, relationship management, other topics.",
+            "prerequisites": "MRKTNG 3000; ACCTCY 2010 or ACCTCY 2026 or ACCTCY 2036 or ACCTCY 2136H; Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ACCTCY 2010",
+                "ACCTCY 2026",
+                "ACCTCY 2036",
+                "ACCTCY 2136",
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Marketing Research",
+            "number": "MRKTNG 4050",
+            "description": "Procedures for defining marketing research problems; specifying information requirements; collecting, analyzing, interpreting, and presenting data for use in marketing decision making.  Utilizes student projects and research-related computer assignments.",
+            "prerequisites": "MRKTNG 3000, STAT 3500. During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000",
+                "STAT 3500"
+            ]
+        },
+        {
+            "name": "Problems in Marketing",
+            "number": "MRKTNG 4185",
+            "description": "In-depth independent study of marketing topic(s).  Student must have course plan (assignments, evaluation criteria, etc.) approved by faculty sponsor.  Contact Marketing Department office for details and enrollment permission. Selected sections of this course may be graded either on A-F or S/U basis only.",
+            "prerequisites": "Departmental consent, MRKTNG 3000",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Topics in Marketing",
+            "number": "MRKTNG 4201",
+            "description": "Selected marketing-related topics.  Subjects may vary across semesters.  During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing.",
+            "prerequisites": "MRKTNG 3000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Consumer Behavior",
+            "number": "MRKTNG 4220",
+            "description": "Dimensions of the consumer market and decision-making process of consumers; analyzing economic, psychological and socio-psychological influences on consumer market and buying behavior.",
+            "prerequisites": "MRKTNG 3000. During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Consumer Behavior - Honors",
+            "number": "MRKTNG 4220H",
+            "description": "Dimensions of the consumer market and decision-making process of consumers; analyzing economic, psychological and socio-psychological influences on consumer market and buying behavior.",
+            "prerequisites": "MRKTNG 3000 and Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Retail Marketing",
+            "number": "MRKTNG 4250",
+            "description": "Strategies, policies, tactics, and procedures of marketing in a retailing environment.",
+            "prerequisites": "MRKTNG 3000. During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Retail Marketing - Honors",
+            "number": "MRKTNG 4250H",
+            "description": "Strategies, policies, tactics, and procedures of marketing  in a retailing environment.",
+            "prerequisites": "MRKTNG 3000 and Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Business-to-Business Relationships",
+            "number": "MRKTNG 4350",
+            "description": "Strategies, tactics, and challenges involved in developing, organizing, and managing interfirm relationships in business/ industrial markets.  During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing.",
+            "prerequisites": "MRKTNG 3000 and junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Buying and Supply Chain Management",
+            "number": "MRKTNG 4380",
+            "description": "Strategies, tactics, challenges, and issues involved in buying, industrial purchasing, and supply chain management.  During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing.",
+            "prerequisites": "MRKTNG 3000 and junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Personal Selling",
+            "number": "MRKTNG 4410",
+            "description": "Modern selling methods that focus on solving customer problems rather that using manipulative techniques.  Principles underlying the sale process.  Practical methods for building long-term customer relationships in business-to-business contexts are emphasized.  Graded on A-F basis only.",
+            "prerequisites": "MRKTNG 3000. During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with an emphasis in Marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Sales Management",
+            "number": "MRKTNG 4420",
+            "description": "Methods and tools employed by salespeople and field sales managers; emphasis on underlying behavioral and quantitative theory.",
+            "prerequisites": "MRKTNG 3000. During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with an emphasis in Marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Services Marketing",
+            "number": "MRKTNG 4440",
+            "description": "Challenges, problems, and strategies specific to marketing in service industries.  Topics include the unique characteristics of services and managing service-oriented businesses; service design and service recovery; service quality and customer satisfaction service pricing issues and demand management; and management of service customers and employees.  Graded on A-F basis only.",
+            "prerequisites": "MRKTNG 3000. During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with an emphasis in Marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Marketing Channels",
+            "number": "MRKTNG 4450",
+            "description": "Development and management of the interorganizational or internal networks through which goods and services are provided to consumer and business markets.  Particular emphasis on the relationship between channel activities and the implementation of market strategy.  During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing.",
+            "prerequisites": "MRKTNG 3000 and junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Integrated Marketing Communications",
+            "number": "MRKTNG 4550",
+            "description": "Design, coordination, and management of marketing communications.  Focus on the role of integrated marketing communications in the overall marketing process, with emphasis on advertising and sales promotion strategies and tactics.",
+            "prerequisites": "MRKTNG 3000. During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Integrated Marketing Communications - Honors",
+            "number": "MRKTNG 4550H",
+            "description": "Design, coordination, and management of marketing communications.  Focus on the role of integrated marketing communications in the overall marketing process, with emphasis on advertising and sales promotion strategies and tactics.  During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing.",
+            "prerequisites": "MRKTNG 3000 and Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "e-Marketing",
+            "number": "MRKTNG 4650",
+            "description": "Strategic and managerial challenges and issues related to use of the Internet and other electronic channels as marketing tools.",
+            "prerequisites": "MRKTNG 3000. During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Global Marketing",
+            "number": "MRKTNG 4720",
+            "description": "Strategic and managerial issues associated with international trade and international marketing.",
+            "prerequisites": "MRKTNG 3000. During early registration, some section may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis in Marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Global Marketing - Honors",
+            "number": "MRKTNG 4720H",
+            "description": "Strategic and managerial issues associated with international trade and international marketing.",
+            "prerequisites": "MRKTNG 3000 and honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Contemporary Issues in Marketing",
+            "number": "MRKTNG 4880",
+            "description": "Selected topical issues, their impact on marketing and marketers, and implications for firms and industries.  Emphasis on scanning the external environment, projection of trends, and analysis; strategy development based on environmental analysis.",
+            "prerequisites": "MRKTNG 3000. During early registration, some sections may be restricted to College of Business students with emphasis in Marketing, or International Business with emphasis on marketing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Contemporary Issues in Marketing - Honors",
+            "number": "MRKTNG 4880H",
+            "description": "Selected topical issues, their impact on marketing and marketers, and implications for firms and industries.  Emphasis on scanning the external environment, projection of trends, and analysis; strategy development based on environmental analysis.",
+            "prerequisites": "MRKTNG 3000 and honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Marketing Practicum",
+            "number": "MRKTNG 4940",
+            "description": "Course providing experience within ongoing business.  Study plan, meeting, and written assignments required.  See Marketing website for application, qualifications, requirements and details.  Graded on S/U basis only.",
+            "prerequisites": "instructor's consent; Marketing and international business-marketing majors only; MRKTNG 3000 and junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Topics in Marketing",
+            "number": "MRKTNG 7201",
+            "description": "The study of selected topics in Marketing. Subjects may vary from semester to semester.",
+            "prerequisites": "MRKTNG 3000 or instructor's consent; departmental consent for repetition",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 3000"
+            ]
+        },
+        {
+            "name": "Managerial Marketing",
+            "number": "MRKTNG 7460",
+            "description": "Introduces concepts and theories for marketing decision making.  Provides an overview of principles and tools to analyze and understand marketing situations in order to develop and execute appropriate marketing initiatives.",
+            "prerequisites": "MBA Program consent required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Marketing Management",
+            "number": "MRKTNG 7470",
+            "description": "Develops knowledge and skills to manage marketing activities at the strategic and tactical levels.  Course utilizes case studies, interactive class exercises, and advanced marketing readings.  Students will learn to apply relevant concepts for effective marketing strategy development, marketing planning, and implementation of marketing mix decisions.",
+            "prerequisites": "MBA program consent required; MRKTNG 7460",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460"
+            ]
+        },
+        {
+            "name": "MBA Topics in Marketing",
+            "number": "MRKTNG 8001",
+            "description": "Advanced study of selected marketing-related topics.  Subjects vary across semesters.",
+            "prerequisites": "MBA Program consent required and completion of  MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Marketing Strategy",
+            "number": "MRKTNG 8050",
+            "description": "Builds on the foundations of Marketing 7460.  This course focuses on how a firm can formulate a market-driven business strategy in a competitive environment and the planning and implementation of marketing programs based on this strategy.",
+            "prerequisites": "MBA Program consent required and completion of  MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Competitive Marketing Strategy",
+            "number": "MRKTNG 8060",
+            "description": "Builds on the foundations of Marketing 7460 and 7470.  Focuses on quantitative market intelligence-based design, execution, and adaptation of a market-drive business strategy to improve a firm's financial performance over time in a competitive environment.  Uses a competitive, multi-period, marketing simulation game in which students are assigned to manage one of several firms competing in an industry.  ",
+            "prerequisites": "  MBA Program consent required: MRKTNG 7460 and MRKTNG 7470.  Cannot receive credit for both MRKTNG 8050 and MRKTNG 8060.",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470",
+                "MRKTNG 8050",
+                "MRKTNG 8060"
+            ]
+        },
+        {
+            "name": "Marketing Business Models",
+            "number": "MRKTNG 8070",
+            "description": "Builds on the foundations of Marketing 4760 and 7470. Focuses on the formulation and analysis of marketing strategy and contemporary business models for creating and capturing value in different industries such as consumer goods, services, retailing, media, sports, entertainment, and online businesses.  Business revenue and profit models will be evaluated in conjunction with marketing performance.",
+            "prerequisites": "MBA Program consent required, MRKTNG 7460 and MRKTNG 7470.  Cannot receive credit for both MRKTNG 8050 and MRKTNG 8070",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470",
+                "MRKTNG 8050",
+                "MRKTNG 8070"
+            ]
+        },
+        {
+            "name": "MBA Independent Study in Marketing",
+            "number": "MRKTNG 8085",
+            "description": "Advanced independent study of marketing topics(s).  Student must have a course plan (assignments, evaluation criteria, etc.) approved by a marketing faculty member. Graded on S/U basis only.",
+            "prerequisites": "departmental and MBA Program consent required; MRKTNG 7460, MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Applied Statistics in Marketing Analytics",
+            "number": "MRKTNG 8180",
+            "description": "This course is designed to increase students' understanding of essential statistical methods, focusing primarily on interpretation and application in marketing contexts.  During the course, students will apply statistical concepts and analyses in diverse marketing settings with a variety of data sets.  By the end of the course, students will know when and how to apply fundamental statistical techniques in marketing situations, how to interpret the results of statistical analysis, and how to present results in a managerially useful manner.  Graded on A-F basis only.",
+            "prerequisites": "Consent of Instructor Required",
+            "hours": "1.5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Customer Analysis",
+            "number": "MRKTNG 8220",
+            "description": "Concepts and approaches for understanding customer needs and wants.  Emphasis is on analyzing and predicting customer responses to marketing actions.",
+            "prerequisites": "MBA Program consent required and completion of  MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Research for Marketing Decisions",
+            "number": "MRKTNG 8280",
+            "description": "Methods for generating and using information related to marketing decisions.  The course is aimed at the manager who designs, conducts, and/or uses the research.  Emphasizes the design of research studies to inform managers' decisions and techniques for gathering and analyzing primary and secondary data.",
+            "prerequisites": "MBA Program consent required and completion of  MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Business-to-Business Marketing",
+            "number": "MRKTNG 8350",
+            "description": "Advanced study of the marketing of goods and services to business customers; customer relationship management, and functionally integrated approaches to solving business problems.",
+            "prerequisites": "MBA Program consent required and completion of  MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Sales Force Management",
+            "number": "MRKTNG 8420",
+            "description": "Basic tasks of sales management as well as the application of theories and concepts to effectively manage that function. Topics covered include salesperson effectiveness, deployment, motivation, organizational design, compensation and evaluation.",
+            "prerequisites": "MBA Program consent required and completion of  MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Relationship Marketing",
+            "number": "MRKTNG 8480",
+            "description": "Focuses on the development of relationship marketing strategies and programs.  The course examines relevant business models, the concept of customer lifetime value and financial as well as behavioral aspects of managing customer relationships. Database marketing methods and interactive tools for profitably managing customer relationships are also discussed.",
+            "prerequisites": "MBA Program consent required and completion of  MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Services Marketing",
+            "number": "MRKTNG 8520",
+            "description": "Focuses on service marketing problems and strategies of goods and service organizations.  Subjects covered include the nature of services, organizing for service delivery, managing demand, tailoring the customer mix and managing supply.",
+            "prerequisites": "MBA Program consent required and completion of  MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Product Management",
+            "number": "MRKTNG 8580",
+            "description": "Focus is on new product/service decisions and development processes.  Discussion emphasized analytical approaches to new product portfolio decisions and the research needed as input to such decisions.  Program strategy, opportunity creation, concept development, product testing, demand estimation, and results evaluation are stressed.",
+            "prerequisites": "MBA Program consent required and completion of MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Marketing Decision Models",
+            "number": "MRKTNG 8620",
+            "description": "Quantitative tools and models used to analyze and solve marketing problems.",
+            "prerequisites": "MBA Program consent required and completion of  MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Digital Marketing",
+            "number": "MRKTNG 8650",
+            "description": "The use of the Internet and other electronic channels as marketing tools.  Emphasis on integration of digital interactions and communication into the overall marketing strategy.",
+            "prerequisites": "MBA Program consent required and completion of MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Database Marketing",
+            "number": "MRKTNG 8680",
+            "description": "A quantitatively-oriented, hands-on course regarding the use of customer data for making decisions about marketing campaigns and targeting of individual customers.  Concepts and applications in this course emphasize statistical analysis of large datasets involving customer records.  The analytical and statistical programming skills learned in the course should be useful in any data-oriented business environment.  Graded on A-F basis only.",
+            "prerequisites": "MBA Program consent required, MRKTNG 7460, MRKTNG 7470, MANGMT 7400, MANGMT 7420, and MANGMT 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MANGMT 7400",
+                "MANGMT 7420",
+                "MANGMT 7470",
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "International Marketing",
+            "number": "MRKTNG 8720",
+            "description": "Strategic and managerial issues associated with international trade and international marketing.  The course focuses on managerial decision making in the differing and complex environments across foreign markets, alternative methods by which firms enter foreign markets and the development and implementation of international marketing strategies.",
+            "prerequisites": "MBA Program consent required and completion of MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Brand Management",
+            "number": "MRKTNG 8750",
+            "description": "Focuses on the creation and execution of profitable brand strategies. Examines the practice of branding, the key components of brand equity, and how firms can build and sustain successful brands in competitive markets.",
+            "prerequisites": "MBA Program consent required, MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Marketing Engineering",
+            "number": "MRKTNG 8760",
+            "description": "A systematic, analytical approach to marketing decision-making.  Students will be able to build their analytical skills through a combination of lectures, Excel-based software tools, and business case studies.  Emphasis is on hands-on approaches for solving real-world marketing problems in domains such as segmentation, targeting, positioning, and resource allocation.  The course will help students understand the financial impact of marketing expenditures including ROI assessment.  Graded on A-F basis only.",
+            "prerequisites": "MBA Program consent required, MRKTNG 7460, MRKTNG 7470 and MANGMT 7400",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MANGMT 7400",
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Marketing Databases and SQL",
+            "number": "MRKTNG 8770",
+            "description": "A user/analyst perspective to relational databases used in marketing applications. Fundamentals of relational databases, including database concepts, table design, views, normalization, and security. Hands-on training in SQL (Structured Query Language) on database tables and views to retrieve, change, join, filter, sort, group, and summarize data. Data analysis with SQL and Excel combined. Presentation of SQL results sets. Course graded on A-F basis only.",
+            "prerequisites": "MBA program consent required, MANGMT 7410",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MANGMT 7410"
+            ]
+        },
+        {
+            "name": "Advanced Marketing Analytics",
+            "number": "MRKTNG 8780",
+            "description": "Analytical methods for solving marketing problems. Emphasis on use of multivariate statistical techniques (e.g. regression models, time series models, principal components analysis, cluster analysis, discriminant analysis, ANOVA, survival/duration models, etc.) to aid marketing tasks and decisions in areas such as customer classification, segmentation, profiling, and targeting; prospecting with archival data; customer response to marketing interventions; customer acquisition/retention tactics; customer relationship management (CRM); sales forecasting; media allocation decisions; market basket analysis; etc. Graded on an A-F basis only.",
+            "prerequisites": "MBA program consent required, MRKTNG 8680",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 8680"
+            ]
+        },
+        {
+            "name": "Markets in Transition",
+            "number": "MRKTNG 8880",
+            "description": "Analysis of selected industries with emphasis on marketing activities and environments. Particular emphasis given to forecasting major trends or changes anticipated in markets over the next decade.",
+            "prerequisites": "MBA Program consent required and completion of MRKTNG 7460 and MRKTNG 7470",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 7460",
+                "MRKTNG 7470"
+            ]
+        },
+        {
+            "name": "Introduction to Research Methods in Marketing",
+            "number": "MRKTNG 9010",
+            "description": "Introduces students to the research process.  Examines philosophy of science, constructs and measurement issues regarding validity, and hypothesis-testing.  Provides an overview of experimental and survey research methods, with introduction to qualitative research, model-building, and research using secondary data.",
+            "prerequisites": "Ph.D. students only; instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Advanced Research Methods in Marketing",
+            "number": "MRKTNG 9020",
+            "description": "Familiarizes students with advanced research methods in marketing, emphasizing problem developmental and conceptualization, operationalization of research questions, measurement, and survey research.",
+            "prerequisites": "MRKTNG 9010 or equivalent;  Ph.D. students only; instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MRKTNG 9010"
+            ]
+        },
+        {
+            "name": "Seminar in Applied Multivariate Analysis in Marketing",
+            "number": "MRKTNG 9030",
+            "description": "Familiarizes students with multivariate analysis of data used for research in marketing.  Emphasizes application of  multivariate methods, presentation of set, performing preliminary assessment of data quality and distribution, assessing measurement quality, and conducting a variety of multivariate and structural equation models, regression, logistic regression, discriminate analysis, cluster analysis, multi-way frequency analysis, and ANOVA.",
+            "prerequisites": "basic course in multivariate statistical methods; Ph.D. students only; instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Marketing",
+            "number": "MRKTNG 9090",
+            "description": "Thesis research for Ph.D. degree. Graded on a S/U basis only.",
+            "prerequisites": "Ph.D. students only",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Current Topics Seminar in Marketing",
+            "number": "MRKTNG 9101",
+            "description": "Reading and critical evaluation of selected current marketing literature and research. Graded on S/U basis only. May be repeated.",
+            "prerequisites": "Ph.D. students only",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Doctoral Independent Study in Marketing",
+            "number": "MRKTNG 9185",
+            "description": "Independent study of a marketing topic or research project. Arranged in consultation with a graduate faculty member. Graded on S/U basis only.",
+            "prerequisites": "Ph.D. students only; instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Marketing Strategy",
+            "number": "MRKTNG 9210",
+            "description": "Focuses on research topics that pertain to strategic marketing programs and decisions, such as marketing productivity, services marketing, product innovation management, and pricing, among others.  Coverage is also given to defining the domain of research in marketing and to the development and use of related theories.",
+            "prerequisites": "Ph.D. students only; instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar Marketing Models",
+            "number": "MRKTNG 9220",
+            "description": "Familiarizes students with quantitative modeling approaches to address a variety of marketing problems.  The focus is on the nature, relevance, and properties of mathematical models and analytical methods that are employed to address various types of marketing decisions.  Students will gain an understanding of the process of model-building, testing and implementation.",
+            "prerequisites": "Ph.D students only; instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Consumer Behavior",
+            "number": "MRKTNG 9230",
+            "description": "Exposes doctoral students to perspectives on consumer behavior that draw from a variety of disciplines, including marketing, psychology, decision theory, sociology, and cultural anthropology.  Students also learn about the different methods researchers employ to study consumers.  Covers both classic and contemporary literature.  Students are encouraged to evaluate and synthesize existing literature in the pursuit of new research ideas.",
+            "prerequisites": "Ph.D. students only; instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Marketing",
+            "number": "MRKTNG 9600",
+            "description": "Readings, independent investigations and reports. May be repeated.",
+            "prerequisites": "Ph.D. students only",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

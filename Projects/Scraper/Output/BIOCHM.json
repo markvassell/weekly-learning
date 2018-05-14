@@ -1,0 +1,612 @@
+{
+    "department_name": "Biochemistry",
+    "department_code": "BIOCHM",
+    "courses": [
+        {
+            "name": "Introduction to Biochemistry",
+            "number": "BIOCHM 1090",
+            "description": "Fundamental concepts in biochemistry and molecular biology: structure function relationships, reactivity, thermodynamics, gene expression.  Professional skills for biomedical careers.  Graded on A-F basis only.",
+            "prerequisites": "MATH 1100 or MATH 1160 or MATH 1500  and Freshman or Sophomore standing",
+            "hours": "3PrerequisitesorCorequisites:CHEM 1320",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100",
+                "MATH 1160",
+                "MATH 1500"
+            ]
+        },
+        {
+            "name": "Introductory Biochemistry Laboratory",
+            "number": "BIOCHM 1094",
+            "description": "Techniques course involving analytical experiments with carbohydrates, lipids, proteins, nucleic acids; use of instrumentation in biochemistry; purification and kinetics of enzymes, PCR and cloning. Graded on A-F basis only.",
+            "prerequisites": "BIOCHM 1090; Biochemistry majors only",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 1090"
+            ]
+        },
+        {
+            "name": "The Living World: Molecular Scale",
+            "number": "BIOCHM 2110",
+            "description": "Survey of modern biochemistry and biotechnology. Structure and function of DNA, proteins, lipids and carbohydrates. The role of biopolymers in life processes and everyday living is emphasized.",
+            "prerequisites": "for non-Biochemistry majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Biotechnology in Society",
+            "number": "BIOCHM 2112",
+            "description": "Biotechnology in a social context covers three areas: introduction to terminology and concepts, specific biotechnological applications to modern problems, and ethical questions.",
+            "prerequisites": "for non-biochemistry majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Macromolecular Structure and Function",
+            "number": "BIOCHM 2480",
+            "description": "The function of biochemical macromolecules is directly related to their structure.  The three-dimensional structures of proteins, nucleic acids, polysaccharides and membranes are each explored in the context of their functions and their microenvironments within living organisms.  Graded on A-F basis only.",
+            "prerequisites": "C- or higher in BIOCHM 1090; CHEM 2100Corequisites: CHEM 2110",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 1090",
+                "CHEM 2100",
+                "CHEM 2110"
+            ]
+        },
+        {
+            "name": "Macromolecular Techniques Laboratory",
+            "number": "BIOCHM 2484",
+            "description": "The laboratory experiments include DNA isolation, DNA cloning, PCR, plasmid transformation, protein expression, affinity-tagged chromatography, SDS-polyacrylamide gel electrophoresis, enzyme isolation, enzyme assay, buffer preparation, and Michaelis-Menten kinetics. Graded on A-F basis only.",
+            "prerequisites": "sophomore standing; restricted to Biochemistry majors only",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Macromolecular Techniques Laboratory - Honors",
+            "number": "BIOCHM 2484H",
+            "description": "The laboratory experiments include DNA isolation, DNA cloning, PCR, plasmid transformation, protein expression, affinity-tagged chromatography, SDS-polyacrylamide gel electrophoresis, enzyme isolation, enzyme assay, buffer preparation, and Michaelis-Menten kinetics.   Graded on A-F basis only.",
+            "prerequisites": "sophomore standing; Biochemistry majors only. Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Macromolecular Techniques Laboratory - Honors/Writing Intensive",
+            "number": "BIOCHM 2484HW",
+            "description": "The laboratory experiments include DNA isolation, DNA cloning, PCR, plasmid transformation, protein expression, affinity-tagged chromatography, SDS-polyacrylamide gel electrophoresis, enzyme isolation, enzyme assay, buffer preparation, and Michaelis-Menten kinetics.   Graded on A-F basis only.",
+            "prerequisites": "sophomore standing; Biochemistry majors only. Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Undergraduate Research in Biochemistry",
+            "number": "BIOCHM 2950",
+            "description": "Research for students in which independent research is less than 50% of total. Graded on S/U basis only.",
+            "prerequisites": "departmental consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "General Biochemistry",
+            "number": "BIOCHM 3630",
+            "description": "Survey of biochemistry; static/dynamic aspects of carbohydrates, lipids, proteins, nucleic acid. Discussion of metabolic pathways, energy production, and metabolic regulatory mechanism.",
+            "prerequisites": "CHEM 2030 or CHEM 2100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2030",
+                "CHEM 2100"
+            ]
+        },
+        {
+            "name": "Topics in Biochemistry",
+            "number": "BIOCHM 4001",
+            "description": "Experimental courses; highly specialized topics taught infrequently or courses taught by visiting professors.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Medicinal Plant Science",
+            "number": "BIOCHM 4120",
+            "description": "Presentation of core topics, including an overview of plant groups with medicinal properties, botanical nomenclature, important biochemical pathways, exposure to journals, texts, and online databases that facilitate evidence-based research involving medicinal plants. Content of world-wide application. Has an international flavor. The course facilitates students to be independent learners and critical thinkers in this important knowledge area (of value to diverse academic backgrounds). The important role of collaborative inter-disciplinary studies will also be emphasized.  Graded on A-F basis only.",
+            "prerequisites": "CHEM 1100 or CHEM 1320",
+            "hours": "3",
+            "recommendation": "BIO_SC 1200 or BIO_SC 1500 or BIOCHM 1090",
+            "connections": [
+                "CHEM 1100",
+                "CHEM 1320",
+                "BIOCHM 1090",
+                "BIO_SC 1200",
+                "BIO_SC 1500"
+            ]
+        },
+        {
+            "name": "Biochemistry",
+            "number": "BIOCHM 4270",
+            "description": "(cross-leveled with BIOCHM 7270). First semester of comprehensive biochemistry course: metabolic pathways, amino acids/proteins, carbohydrates, lipids, nucleic acids, kinetics, energy requirements, metabolic regulation in living cells.",
+            "prerequisites": "CHEM 2110",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2110"
+            ]
+        },
+        {
+            "name": "Biochemistry",
+            "number": "BIOCHM 4272",
+            "description": "(cross-leveled with BIOCHM 7272). Second semester of a comprehensive biochemistry course, including metabolism of carbohydrates, fatty acids, steroids, amino acid synthesis and metabolism, molecular genetics, hormones, photosynthesis and integrated metabolism.",
+            "prerequisites": "C- or higher in BIOCHM 4270",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 4270"
+            ]
+        },
+        {
+            "name": "Physical Chemistry of Biological Systems",
+            "number": "BIOCHM 4300",
+            "description": "To present fundamental principles of physical chemistry in the context of the structure and function of biological macromolecules.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: BIOCHM 4270",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Computer Assisted Sequence Analysis and Molecular Modeling",
+            "number": "BIOCHM 4376",
+            "description": "(cross-leveled with BIOCHM 7376). Employs the use of computer-based interactive molecular graphics and sequence analysis software to analyze the three dimensional structures of macromolecules.",
+            "prerequisites": "CHEM 2110",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2110"
+            ]
+        },
+        {
+            "name": "Problems in Biochemistry",
+            "number": "BIOCHM 4385",
+            "description": "",
+            "prerequisites": "departmental consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cancer Biology",
+            "number": "BIOCHM 4460",
+            "description": "(same as BIO_SC 4460; cross-leveled with BIOCHM 7978, BIO_SC 7978).  Cancer, cell biology, genetics, biochemistry.",
+            "prerequisites": "BIOCHM 4272, BIO_SC 2300 and BIO_SC 2200",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 4272",
+                "BIO_SC 2300",
+                "BIO_SC 2200"
+            ]
+        },
+        {
+            "name": "Single Molecule Biophysics",
+            "number": "BIOCHM 4510",
+            "description": "(same as PHYSCS 4510; cross-leveled with BIOCHM 7510, PHYSCS 7510). The course provides an overview of the biophysics of enzymes, nucleic acids and the cytoskeleton.  Topics covered will include diffusion, molecular motors, polymerization and the cytoskeleton and the polymer properties of nucleic acids and microtubules.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Internship in Biochemistry",
+            "number": "BIOCHM 4940",
+            "description": "Field-based learning experience combining study, observation, and employment with a business, organization, or governmental agency.  The internship provides opportunities to apply skills, concepts and theories about biochemistry in a practical context.  The student intern, internship supervisor, and university coordinator will develop an individualized internship plan. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-6",
+            "recommendation": "junior standing",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Undergraduate Research in Biochemistry",
+            "number": "BIOCHM 4950",
+            "description": "Research credit for students doing an independent research project under the guidance of a faculty member. Project must be arranged by student and faculty member prior to registration.  Graded on A-F basis only.",
+            "prerequisites": "departmental consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Industrial Internship with ABC Laboratories",
+            "number": "BIOCHM 4964",
+            "description": "This 5-credit course is a school and field-based learning experience combining the study, observation, and employment with ABC Laboratories in Columbia, MO. The internship provides opportunities to apply skills, concepts and theories about biochemistry and analytical chemistry in a practical context. The purpose of the internship experience is to provide the intern with the opportunity to develop knowledge and skills deemed desirable for a career in the biotechnology industries. During the time indicated in this agreement for the internship experience, the intern is expected to become a productive employee of ABC Laboratories. This course will provide technical instruction on commonly used laboratory skills and instrumentation at the University of Missouri followed by technical instruction on software and instrumentation at ABC Laboratories. After the training period, the interns will have the opportunity to work at ABC Laboratories full time for the summer.",
+            "prerequisites": "BIOCHM 1090, BIOCHM 2484, BIOCHM 4270",
+            "hours": "5PrerequisitesorCorequisites:BIOCHEM4272,CHEM 3200",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 1090",
+                "BIOCHM 2484",
+                "BIOCHM 4270"
+            ]
+        },
+        {
+            "name": "Senior Capstone in Biochemistry",
+            "number": "BIOCHM 4970",
+            "description": "Problem-based course on fundamental concepts of biochemistry.  Requires written and oral presentations.  One of two capstone courses required for biochemistry majors. Graded on A-F basis only.",
+            "prerequisites": "Departmental consent required",
+            "hours": "2",
+            "recommendation": "Corequsite of BIOCHM 4974",
+            "connections": [
+                "BIOCHM 4974"
+            ]
+        },
+        {
+            "name": "Biochemistry Laboratory",
+            "number": "BIOCHM 4974",
+            "description": "(cross-leveled with BIOCHM 7274). Techniques course involving analytical experiments with carbohydrates, lipids, proteins, nucleic acids; use of instrumentation in biochemistry; purification and kinetics of enzymes.  One of two capstone courses required for biochemistry majors.",
+            "prerequisites": "None Listed",
+            "hours": "5Prerequisites or Corequisites: BIOCHM 4272Corequisites: BIOCHM 4970",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Biochemistry Laboratory - Writing Intensive",
+            "number": "BIOCHM 4974W",
+            "description": "(cross-leveled with BIOCHM 7274). Techniques course involving analytical experiments with carbohydrates, lipids, proteins, nucleic acids; use of instrumentation in biochemistry; purification and kinetics of enzymes.  One of two capstone courses required for biochemistry majors.",
+            "prerequisites": "None Listed",
+            "hours": "5Prerequisites or Corequisites: BIOCHM 4272Corequisites: BIOCHM 4970",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Honors Thesis Research in Biochemistry",
+            "number": "BIOCHM 4996H",
+            "description": "Laboratory research for honors students doing an honors thesis research project in their final two semesters.  Enrollment limited to Honors eligible students with senior standing who have CAFNR honors approval.  Graded on A-F basis only.",
+            "prerequisites": "departmental consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Biochemistry",
+            "number": "BIOCHM 7085",
+            "description": "Problems in Biochemistry.",
+            "prerequisites": "Consent of Director of Graduate Studies required",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Maps in Medicine Summer Institute",
+            "number": "BIOCHM 7110",
+            "description": "Lab/lecture course in which high school teachers gain knowledge of two innovative, inquiry-based programs, Mapping Health and Mapping Cell Fate, that focus on influenza and developmental biology and Missouri science standards for biology and health. Graded on S/U basis only.",
+            "prerequisites": "departmental consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Biochemistry",
+            "number": "BIOCHM 7270",
+            "description": "(cross-leveled with BIOCHM 4270). First semester of comprehensive biochemistry course: metabolic pathways, amino acids/proteins, carbohydrates, lipids, nucleic acids, kinetics, energy requirements, metabolic regulation in living cells.",
+            "prerequisites": "CHEM 2110",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2110"
+            ]
+        },
+        {
+            "name": "Biochemistry",
+            "number": "BIOCHM 7272",
+            "description": "(cross-leveled with BIOCHM 4272). Second semester of a comprehensive biochemistry course, including metabolism of carbohydrates, fatty acids, steroids, amino acid synthesis and metabolism, molecular genetics, hormones, photosynthesis and integrated metabolism.",
+            "prerequisites": "BIOCHM 7270",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 7270"
+            ]
+        },
+        {
+            "name": "Biochemistry Laboratory",
+            "number": "BIOCHM 7274",
+            "description": "Techniques course involving analytical experiments with carbohydrates, lipids, proteins, nucleic acids; use of instrumentation in biochemistry; radioisotope tracers in metabolism; isolation, purification and kinetics of enzymes.",
+            "prerequisites": "None Listed",
+            "hours": "5Corequisites: concurrent enrollment in BIOCHM 7270",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Computer Assisted Sequence Analysis and Molecular Modeling",
+            "number": "BIOCHM 7376",
+            "description": "(cross-leveled with BIOCHM 4376). This course uses advanced computer graphics and computational techniques to analyze protein and nucleic acid sequences and their three-dimensional structures.",
+            "prerequisites": "CHEM 2110",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 2110"
+            ]
+        },
+        {
+            "name": "Single Molecule Biophysics",
+            "number": "BIOCHM 7510",
+            "description": "(same as PHYSCS 7510; cross-leveled with BIOCHM 4510, PHYSCS 4510). The course provides an overview of the biophysics of enzymes, nucleic acids and the cytoskeleton.  Topics covered will include diffusion, molecular motors, polymerization and the cytoskeleton and the polymer properties of nucleic acids and microtubules.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Cancer Biology",
+            "number": "BIOCHM 7978",
+            "description": "(same as BIO_SC 7978). The course will cover major molecular and cellular aspects of cancer. Students will read original research articles, present overviews and lead class discussions.",
+            "prerequisites": "BIOCHM 4270, BIO_SC 2300 and BIO_SC 4976",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 4270",
+                "BIO_SC 2300",
+                "BIO_SC 4976"
+            ]
+        },
+        {
+            "name": "Ethical Conduct of Research",
+            "number": "BIOCHM 8060",
+            "description": "(same as BIO_SC 8060). Discussion of ethical issues in biological research, including the rules and conventions for appropriate research conduct.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Biochemistry",
+            "number": "BIOCHM 8090",
+            "description": "Research in biochemistry for qualified students, with counsel of faculty. Includes preparation of dissertation. Graded on a S/U basis only.",
+            "prerequisites": "Consent of Director of Graduate Studies required",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Medicinal Plant Science",
+            "number": "BIOCHM 8120",
+            "description": "Presentation of core topics in pharmacognosy, including an overview of plant groups with medicinal properties, essentials of botanical nomenclature, Overview of pharmacological activities of plant-sourced products and evidence-based research, phytochemical variation and significance, important biochemical pathways, origins of secondary metabolites, some major groups of phytochemicals, observations on economic and social trends in the use of medicinal plant products in developed and developing countries, overview of modern technology, high throughput screening, bioinformatics. Considerable exposure to key articles in journals, based on internationally accepted text (Trease & Evans), exposure to online databases - all sources of information that facilitate evidence-based research involving medicinal plants. Content of world-wide application. Has considerable international flavor and directly applicable to medicinal flora world-wide. The course facilitates students to be independent learners and critical thinkers in this important knowledge area (of value to diverse academic backgrounds). The important role of collaborative inter-disciplinary studies is also emphasized. Graded on A-F basis only.",
+            "prerequisites": "CHEM 1100 or CHEM 1320 or BIOCHM 1090 and BIO_SC 1200 or BIO_SC 1500 or the equivalent of these courses for non-MU students",
+            "hours": "3",
+            "recommendation": "A Freshman level course in the Life Sciences or General Botany will also be advantageous but not essential",
+            "connections": [
+                "BIOCHM 1090",
+                "BIO_SC 1200",
+                "BIO_SC 1500",
+                "CHEM 1100",
+                "CHEM 1320"
+            ]
+        },
+        {
+            "name": "Introduction to Graduate Biochemistry I",
+            "number": "BIOCHM 8240",
+            "description": "Introduction to biochemistry for life science graduate students. Core course for Biochemistry students. Structures and interactions of biological macromolecules including thermodynamics, binding, enzyme action and biological membranes as well as techniques of analysis and structure determination.",
+            "prerequisites": "Undergraduate organic chemistry plus undergraduate biochemistry or molecular biology, their equivalent or permission of instructor",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Macromolecular Systems Integration",
+            "number": "BIOCHM 8260",
+            "description": "To introduce graduate students to biochemistry at the graduate level with particular emphasis on genomics/gene expression and replication; proteomics/cell signaling and metabolism. Course graded on A-F basis only.",
+            "prerequisites": "BIOCHM 8240",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 8240"
+            ]
+        },
+        {
+            "name": "Nutritional Biochemistry of Carbohydrates",
+            "number": "BIOCHM 8360",
+            "description": "(same as NUTRIT 8360 and NEP 8360). Current concepts with in-depth coverage of selected examples of key regulatory steps controlling carbohydrate metabolism; emphasizing molecular mechanisms. Based entirely on research literature and taught in a tutorial format.",
+            "prerequisites": "BIOCHM 7272",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 7272"
+            ]
+        },
+        {
+            "name": "Introduction to Plant Metabolism",
+            "number": "BIOCHM 8362",
+            "description": "(same as PLNT_S 8362 and BIO_SC 8362). This course is part of a series that aims to provide a solid conceptual foundation in interdisciplinary plant biology for graduate students with a research emphasis in plant biology.  This course examines the basic concepts and techniques used to understand plant metabolism.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Molecular Cell Biology",
+            "number": "BIOCHM 8365",
+            "description": "(same as BIO_SC 8365 and PLNT_S 8365). This course is part of a series that aims to provide a solid conceptual foundation in interdisciplinary plant biology for graduate students with a research emphasis on plant biology.  This course examines the basic concepts and techniques used to understand molecular cell biology.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Molecular Biology of Mineral Nutrition",
+            "number": "BIOCHM 8390",
+            "description": "(same as NUTRIT 8390 and NEP 8390). Current concepts of metal ion transport, intracellular metal trafficking and metal-dependent regulation of gene expression. Based entirely on research literature and taught in a tutorial format.",
+            "prerequisites": "BIOCHM 7272 and a 4000-level nutrition course",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 7272"
+            ]
+        },
+        {
+            "name": "Physical Biochemistry",
+            "number": "BIOCHM 8430",
+            "description": "Physical concepts underlying a variety of physical chemical methods as they apply to biochemical research.",
+            "prerequisites": "BIOCHM 7272 and CHEM 3300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 7272",
+                "CHEM 3300"
+            ]
+        },
+        {
+            "name": "Enzymology and Metabolic Regulation",
+            "number": "BIOCHM 8432",
+            "description": "A basic introduction to the study of enzymes and their role in intermediary metabolism. Topics include enzyme kinetics, mechanisms of enzymatic catalysis and control of metabolic pathways.",
+            "prerequisites": "BIOCHM 7272",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 7272"
+            ]
+        },
+        {
+            "name": "Signaling in Molecular Cell Biology",
+            "number": "BIOCHM 8434",
+            "description": "The objective of this course is to provide important foundations in cellular signaling in the context of biochemistry and cell biology for first and second year graduate students. The course focuses on cell-to-cell communication and intracellular signaling via different classes of cell surface receptors using specific receptor paradigms from human, other animals, plants, yeast and E.coli. Primary literature will be used for in-class discussions and homework assignments to highlight key experiments and introduce students to relevant experimental techniques. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "BIO_SC 2300, BIOCHM 4270",
+            "connections": [
+                "BIOCHM 4270",
+                "BIO_SC 2300"
+            ]
+        },
+        {
+            "name": "Nutrient Regulation of Gene Expression",
+            "number": "BIOCHM 8438",
+            "description": "(same as AN_SCI 8438, NUTRIT 8438, and NEP 8438). Current concepts with in-depth coverage of several minerals that illustrate themes in molecular mineral nutrition. Based entirely on research literature and taught in a tutorial format.",
+            "prerequisites": "BIOCHM 7272 and a 4000-level nutrition course",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 7272"
+            ]
+        },
+        {
+            "name": "Rotation Research",
+            "number": "BIOCHM 8450",
+            "description": "Introductory laboratory research.  Graded on A-F basis only.  Normally 1 hour per advisor per semester, two-1 hour sections can be taken per semester.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Biochemistry",
+            "number": "BIOCHM 9001",
+            "description": "Experimental courses, highly specialized topics taught infrequently or courses taught by visiting professors.",
+            "prerequisites": "None Listed",
+            "hours": "1-9",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Biochemistry",
+            "number": "BIOCHM 9085",
+            "description": "Problems in Biochemistry",
+            "prerequisites": "None Listed",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Biochemistry",
+            "number": "BIOCHM 9087",
+            "description": "Review of current literature; individual presentation of research or classical science topics.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Biochemistry",
+            "number": "BIOCHM 9090",
+            "description": "Research in biochemistry for qualified students, with counsel of faculty. Includes preparation of dissertation. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Molecular Biology I",
+            "number": "BIOCHM 9430",
+            "description": "(same as MICROB 9430). Detailed examination of current fundamental concepts of molecular genetics of bacteria, bacteriophages and yeast. Experimental approaches to analysis of the physical structures of genomic nucleic acids, the biochemistry and genetics of mutations, replication, gene transfer and gene expression will be examined in depth from reports in the current literature.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Molecular Biology II",
+            "number": "BIOCHM 9432",
+            "description": "(same as MICROB and BIO_SC 9432) Detailed experimental analysis of eukaryotic cellular and molecular biology relevant to cellular and viral gene expression, post-transcriptional and post-translational modifications and genome replication. Models for developmental genetic analysis and genetic determinants controlling developmental processes utilizing the current literature will be examined.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Hormone Action",
+            "number": "BIOCHM 9462",
+            "description": "A lecture course with weekly assigned readings. Topics will include: a description of selected polypeptide, steroid and other hormones and their biological effects; receptors; second messengers; protein phosphorylation in hormone mediation; growth factors; cellular oncogenes.",
+            "prerequisites": "BIOCHM 7272",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 7272"
+            ]
+        },
+        {
+            "name": "Plant Biochemistry",
+            "number": "BIOCHM 9466",
+            "description": "Emphasizes biochemistry unique to plants; biochemical events plants share with other organisms discussed, compared. Photosynthesis, metabolism, composition, compartmentation, regulation of biochemical events included.",
+            "prerequisites": "BIOCHM 4270",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 4270"
+            ]
+        },
+        {
+            "name": "Molecular Biology of Plant Growth and Development",
+            "number": "BIOCHM 9468",
+            "description": "(same as BIO_SC 9468). Molecular biology of plant hormones, signal transduction, environmental signals.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Analytical Biochemistry--Chromatography",
+            "number": "BIOCHM 9470",
+            "description": "Principles, experimental design, capabilities, limitations, and applications of the general field of chromatography of biologically important molecules. Eight (2-hour) lectures, eight (4-hour) labs. Four weeks.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Analytical Biochemistry--Mass Spectrometry",
+            "number": "BIOCHM 9472",
+            "description": "Instrumentation, fragmentation mechanisms, interpretation of spectra, combined gas chromatography--mass spectrometry. Eight (2-hour) lectures, eight (4-hour) labs.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

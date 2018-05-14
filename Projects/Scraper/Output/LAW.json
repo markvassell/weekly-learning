@@ -1,0 +1,1459 @@
+{
+    "department_name": "Law",
+    "department_code": "LAW",
+    "courses": [
+        {
+            "name": "Civil Procedure I",
+            "number": "LAW 5010",
+            "description": "Fundamental and recurrent problems in civil actions in federal and state courts; remedies; pleading; discovery; trials; jurisdiction; appeals; joinder; preclusion.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Civil Procedure II",
+            "number": "LAW 5015",
+            "description": "Continuation of LAW 5010.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Contracts I",
+            "number": "LAW 5020",
+            "description": "Contract formation, insufficient and defective agreement, bases of promissory liability (including consideration and promissory estoppel), resolution, and abuse of bargaining process, Statutes of frauds, parole evidence rule and principles of interpretation, contract performance and risk allocation, remedies for breach.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Contracts II",
+            "number": "LAW 5025",
+            "description": "A continuation of LAW 5020",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Criminal Law",
+            "number": "LAW 5035",
+            "description": "The purposes of criminal law; nature of criminal responsibility; characteristics of particular crimes.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Property",
+            "number": "LAW 5050",
+            "description": "Classification of real and personal property; rights to found goods; bailments; possession and adverse possession; estates in land and future interests; concurrent ownership; Landlord and tenant; easements, profits and licenses; convenants running with land and equitable servitudes; contracts for the sale of land; conveyancing.",
+            "prerequisites": "None Listed",
+            "hours": "1-5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Torts",
+            "number": "LAW 5070",
+            "description": "Principles and practices governing recovery of damages for injuries to person or property.  Topics typically covered are intentional torts, negligence, strict liability, products liability, immunities and a survey of various \"no fault\" proposals.",
+            "prerequisites": "None Listed",
+            "hours": "1-5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Legal Research and Writing",
+            "number": "LAW 5080",
+            "description": "An introduction to the basics of legal research (using print materials), legal citation and legal writing. Each student writes two objective office memoranda, and a client letter.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advocacy and Research",
+            "number": "LAW 5085",
+            "description": "An introduction to Computer Assisted Legal Research, written advocacy, oral advocacy, and the Missouri rules of appellate procedure.  Each student writes a trial court motion and brief and then argues that motion.  Each student also writes an appellate brief and presents an oral argument in the First Year Moot Court Competition directed by the Board of Advocates (BOA).",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Legal Reasoning",
+            "number": "LAW 5090",
+            "description": "A limited enrollment course designed to assist first-year students to better understand the legal system, prepare for examinations and improve their legal analysis and reasoning skills. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Lawyering",
+            "number": "LAW 5095",
+            "description": "This course is designed to provide students in introduction to critical lawyering skills; to give students an overview of the alternative processes that a lawyer can employ to resolve a client's problem; and to offer students an understanding of the lawyer's role as a problem solver.  It includes an introduction to Interviewing, Counseling, Negotiation, Mediation, Arbitration, mixed dispute resolution processes and ways to choose or build dispute resolution process.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Constitutional Law",
+            "number": "LAW 5220",
+            "description": "Study of theories of judicial review and justicibility; sources of federal legislative power, commerce, taxing, spending, treaty, presidential, military powers; power of states to regulate and tax interstate commerce; preemption; state actions doctorine; due process, equal protection, First Amendment rights.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Criminal Procedure",
+            "number": "LAW 5240",
+            "description": "Constitutional and other limitations placed upon law enforcement officers and prosecutors.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Evidence",
+            "number": "LAW 5260",
+            "description": "The basic law of evidence; use in trials, relevancy, circumstantial proof and real proof; use of witnesses, methods of examination; presumptions and burden of proof; functions of judge and jury.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Professional Responsibility",
+            "number": "LAW 5280",
+            "description": "Responsibilities of lawyer to client, courts and the public. Topics include: organization of the legal profession, fees, conflicts of interest, the confidential relationship, advertising and solicitation, unauthorized practice and courtroom behavior.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Administrative Law",
+            "number": "LAW 5310",
+            "description": "(same as PUB_AF 8864). Administrative Law is concerned with the process government agencies used to make decisions.  As such it develops the requirements for establishing rules and policies.  It also covers the means by which regulations and statutory provisions are enforced by agencies, and the means for securing judicial review of rules and enforcement actions.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Legal Research",
+            "number": "LAW 5320",
+            "description": "Skill training in advanced research techniques and resources used in law practice.  Designed to help students become critical legal information consumers with emphasis on developing effective, cost-efficient research strategies.  Topics include advanced litigation research, legislative and regulatory history, audience research, research in transactional practices areas, and research in other practices areas including legal ethics, public interest law, and international law.  In-depth practice with Lexis, Westlaw and free Internet sources, including appropriate and effective use of social networking tools to extend research.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Legal Writing",
+            "number": "LAW 5321",
+            "description": "This course is designed to help students to think purposefully about the process of writing and to practice writing and editing in a disciplined way.  Students will do exercises involving: rhetorical techniques; grammar; punctuation; and, word usage.  Students also will rewrite and critique portions of appellate briefs or judicial opinions as a way to practice particular writing techniques.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Torts: Dignitary and Economic Torts",
+            "number": "LAW 5323",
+            "description": "The Advanced Torts: Dignitary and Economic Torts class will examine dignitary and economic torts covering but not limited to such topics as: defamation, invasion of privacy, tortious interference, misrepresentation and injurious falsehood.  Unlike tortious conduct that results in an individual suffering physical harm or contact, the claims that arise from these torts represent one of two kinds of non-physical injury - independent dignitary that are similar to or include emotional harms or independent economic or commercial harms.  The purpose of the course is to provide students with an opportunity to explore tortious conduct and remedies available that are omitted typically from the First Year Torts course.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Trial Practice",
+            "number": "LAW 5325",
+            "description": "This course will expand student knowledge of opening statements, direct/cross examination witnesses, jury instruction, closing arguments and will focus significantly on the examination/cross examination of expert witnesses.  Grading is based on student participation in examination of witness and semester-ending written trial brief.  NOTE:  Intersession Trail Practice will not satisfy the prerequisite.",
+            "prerequisites": "LAW 5260 Evidence and LAW 5925 Trial Practice",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5260",
+                "LAW 5925"
+            ]
+        },
+        {
+            "name": "Advertising and Marketing Law",
+            "number": "LAW 5327",
+            "description": "This course will cover the regulation of false and misleading advertising under the Lanham Act, the FTC Act and state consumer protection laws.  Students will examine advertising and analyze what claims are being made and whether those claims are false or misleading under applicable law.  Students will examine the procedures available for competitors, the government and consumers to challenge false or misleading advertising and the remedies available through those procedures.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advocacy, Family Violence and Public Policy",
+            "number": "LAW 5330",
+            "description": "Interdisciplinary presentations examine both the state of family violence in America and the cross disciplinary issues in effective intervention, including legal procedures. The seminar is open to 2nd or 3rd year law students and other professional graduate students with permission of the faculty. (Not available to students on probation, except for students classified as 3L students).",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "American Legal History to 1876",
+            "number": "LAW 5337",
+            "description": "This is a revision of Legal History.  The course covers such topics as the impact of the English common law heritage; the development of law in the American colonies; slavery, race and gender in nineteenth century America.  The course ends with the conclusion of the Civil War.  The course will explore the effects of historical events on the development of law, but the course does not presume prior study of American history.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "American Legal History from 1876",
+            "number": "LAW 5338",
+            "description": "Historical study of the development of American law since the Civil War.  The course will cover such topics as the Civil War amendments to the Constitution; Reconstruction and its aftermath; legal change during the rise of industrialism; race and gender in late 19th century and 20th century America; law in the Progressive Era; the growth of civil liberties and civil rights in the Supreme Court; the law during war and the Depression; jurisprudential trends; and the Civil Rights Movement of the 1960s.  The course will explore the effects of historical events on the development of law, but the course does not presume prior study of American history.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Antitrust Law",
+            "number": "LAW 5340",
+            "description": "Introduces antitrust and economic analysis and the role of competition, with emphasis on price fixing, horizontal and vertical restraints of trade, monopoly and merger problems.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Appellate Advocacy",
+            "number": "LAW 5345",
+            "description": "Enhances skills training for the preservation and presentation of matters on appeal. In addition, an introductory examination of extraordinary remedies (as a complement to appeal) and other unique actions filed in the Supreme Court of Missouri.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Arbitration",
+            "number": "LAW 5350",
+            "description": "Law, policy and practices relating to arbitration process as it is utilized in commercial and international sectors. Topics include modern arbitration statutes (e.g., the Federal Arbitration Act), enforceability of agreements to arbitrate, public policy defenses against enforcement of arbitration agreements, arbitrators and administering institutions, components of the arbitral process, arbitral remedies and awards, and the arbitration award in the courts.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Topics in Automobile Insurance",
+            "number": "LAW 5357",
+            "description": "This course will explore advanced topics in a major area of insurance law and practice - automobile insurance. It will examine automobile insurance at a national level, but with special emphasis on Missouri law. The class will focus primarily on acquiring a foundational understanding of policy forms, statutes, regulations, and cases relevant to the representation of accident victims, insurance companies, and those who receive representation under the terms of their automobile liability insurance policies. Practitioners with substantial experience in automobile insurance claims processing, dispute resolution, and litigation will be brought into the course periodically for the purpose of linking the substantive law of automobile insurance with practice skills.",
+            "prerequisites": "LAW 5635 Insurance Law",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5635"
+            ]
+        },
+        {
+            "name": "Bankruptcy",
+            "number": "LAW 5365",
+            "description": "Focuses on rights of both secured and unsecured creditors under state and federal law. State law covers collective actions and such individual actions as execution, attachment, garnishment, and the law of fraudulent conveyances. Federal law concentrates on liquidation proceedings under Chapter 7 of the Bankruptcy Code and reorganizations for wage earners under Chapter 13 of the Code. Includes, as time permits, an introduction to the business reorganization provisions of Chapter 11.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Basic Federal Income Taxation",
+            "number": "LAW 5375",
+            "description": "Federal income tax problems of individuals taxpayers; nature of income; when and to whom income is taxable; exclusion from tax base; deduction; tax effects of exchange or other disposition of capital assets. This course is designed to introduce students to the income tax considerations that arise in a variety of legal contexts and will benefit even those students not planning to pursue a career in tax.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "BOA Competition",
+            "number": "LAW 5385",
+            "description": "This is a late summer moot court competition directed by the Board of Advocates. The competition is open to 2Ls and 3Ls, but only 2Ls can advance to the final rounds. Students receive an assignment in the spring, submit their written appellate briefs at the end of July, and participate in oral arguments at the beginning of fall semester. The top six 2L competitors present their final arguments in Jefferson City before Missouri Supreme Court judges. These finalists are invited to represent the law school during the following academic year as members of our regional teams for the National Moot Court Competition. Regional team members must enroll in Moot Court I and Moot Court II. Class may be dropped anytime up to the day that the Appellate Brief is due. Graded on S/U basis only.",
+            "prerequisites": "LAW 5085 Advocacy & Research (or the equivalent for transfer students)",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5085"
+            ]
+        },
+        {
+            "name": "Business, Entrepreneurship, and Tax Law Review",
+            "number": "LAW 5392",
+            "description": "The Business, Entrepreneurship, and Tax Law Review (BETR) will be affiliated with the Center for Intellectual Property and Entrepreneurship. The BET Review journal will give students an opportunity to hone their legal research and writing skills, as well as their leadership skills as editors of the journal, on contemporary issues in growing areas of legal practice. It will also provide an outlet for the publication of articles stemming from symposia and a colloquium series that will be held on topics in the fields of intellectual property, entrepreneurship, and tax.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Business Organizations",
+            "number": "LAW 5395",
+            "description": "The law school's foundation course in business law; recommended for students in all areas of interest.  Course coverage includes the study of agency, partnership, limited partnerships, limited liability partnerships, limited liability companies, and corporations.  This course is a prerequisite for several advanced electives in business law.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Children and the Law",
+            "number": "LAW 5410",
+            "description": "This course covers the status, rights and obligations of children in contemporary American law; civil proceedings and criminal prosecutions alleging child abuse or neglect; foster care; termination of parental rights; juvenile protective legislation; and delinquency.  Emphasis is placed on juvenile justice doctrine, policy and practice issues and the historical and contemporary operation of juvenile and family courts.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Constitutional and Civil Rights Litigation",
+            "number": "LAW 5415",
+            "description": "Advanced analysis of protection of civil liberties that derive from the United States Constitution and federal statutes. The statutes which will be covered most extensively include the Reconstruction Era laws now codified at 42 U.S.C. section 1981, 1983 and 1985, Rehabilitation Act of 1973, Titles IX of the Educational Amends. of 1972, and Titles II and VI  of the Civil Rights Acts of 1964.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Client Interviewing and Counseling",
+            "number": "LAW 5420",
+            "description": "This course covers the nature and conduct of counseling process including basic interviewing techniques, psychological factors affecting the interview process, facilitating and structuring the interview, clarification of statements and ascertaining legal issues, and dealing with client resistance and hostility. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Skills",
+            "number": "LAW 5425",
+            "description": "Skills training for students enrolled in the Criminal Clinic. Lectures and simulations designed to facilitate student skills in case preparation and presentation and client representation: ethical concerns, fact investigation, interviewing and counseling, drafting legal documents, direct and cross examination, making and responding to objections. (Not available to students on probation).",
+            "prerequisites": "LAW 5260 Evidence and LAW 5280 Professional ResponsibilityCorequisites: LAW 5470 Criminal Clinic and LAW 5475 Criminal Clinic Writing Project",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5260",
+                "LAW 5280",
+                "LAW 5470",
+                "LAW 5475"
+            ]
+        },
+        {
+            "name": "Commercial Real Estate Leasing",
+            "number": "LAW 5430",
+            "description": "Seminar course focused on the study of selected topics involved in the negotiation, drafting, and interpretation of commercial real estate leases.  Topics will include but are not limited to: rental provisions, defining the premises, use of the premises, condition of the premises, assignments and subleases, maintenance and repairs, casualty insurance, default/remedies, and collateral lease documentation.  The course looks at the various parties involved in the process of commercial real estate leasing, their  respective interests, and the dynamics of the negotiation and drafting process in which these parties memorialize their respective interests in the lease document.  There is a heavy focus upon the careful reading, review, negotiation and revision of the lease document.  Grading is based upon a series of exercises involving document review, negotiation, and drafting, and includes both individual and group work.",
+            "prerequisites": "LAW 5856 Real Estate Finance, or LAW 5858 Real Estate Transactions, or LAW 5697 Landlord/Tenant Law and Practice",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5856",
+                "LAW 5858",
+                "LAW 5697"
+            ]
+        },
+        {
+            "name": "Comparative Law",
+            "number": "LAW 5435",
+            "description": "This course examines differences and similarities between the major legal systems of the world, focusing on distant areas of substantive and procedural law to demonstrate diverse methods of addressing similar legal issues.  The course includes a discussion of the historical distinctions between the common and civil law traditions but also moves the analysis forward to address more recent legal innovations and the recognition of new groupings of legal systems.  Students will leave the class with a solid understanding of (1) how U.S. legal principles compare to approaches used elsewhere and (2) the uses and benefits of the comparative approach.  Principles taught in this course will be equally applicable to those who anticipate practicing domestic U.S. law as well as those who expect to develop an international practice.  No foreign language skills are necessary for this course.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Complex Litigation",
+            "number": "LAW 5440",
+            "description": "Course will examine principles and practical techniques relevant to complex civil cases.  Building on civil procedure, the course will focus on litigation involving multiple parties and/or multiple jurisdictions.  Each student will be required to complete several drafting assignments.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Complex Litigation: Mass Torts",
+            "number": "LAW 5441",
+            "description": "This course will explore aspects of complex civil litigation through the lens of mass torts lawsuits. It will specifically examine issues such as discovery and scientific evidence, alternative liability issues, class action and multi-district litigation, and alternatives to litigation. This course will involve a final exam.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Conflict and Conflict Management",
+            "number": "LAW 5450",
+            "description": "This course is designed to give lawyers a better understanding of the meaning and dynamics of conflict, so that they may better understanding their client's situations, as well as the mechanisms that may be most appropriate to the resolution of any particular dispute.  Course draws its theoretical teachings from a variety of disciplines beyond law:  psychology, sociology, anthropology and economics.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Contract Drafting",
+            "number": "LAW 5454",
+            "description": "Course teaches students the principles of drafting commercial agreements. Although the course will be of particular interest to students pursuing a corporate or commercial law career, the concepts are applicable to any transactional practice.  Students will learn how transactional lawyers translate business deals into contract provisions, as well as techniques for minimizing ambiguity and drafting with clarity. Through a combination of lecture, hands-on drafting exercises and extensive homework assignments, students will learn about different types of contracts, other documents used in commercial transactions, and the drafting problems that contracts and other documents present. Course will also focus on how a drafter can add value to a deal by finding, analyzing and resolving business issues.  Grades will be based on the graded assignments, good faith completion of the ungraded assignments, and class participation.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Copyright Law",
+            "number": "LAW 5455",
+            "description": "Nature of copyright law; common law misappropriate; scope of common law copyrights; Copyright Revision Act of 1976 as amended; formalities of registration (fixation, copyright notice): copyrightable subject matter; originality; exclusive rights of copyright owner; scope of copyright protection; substantial similarity and infringement; fair use; joint and composite works; duration, renewal, termination, transfer; remedies; artists moral rights; federal preemption; international protection; copyrightability of computer software; copyright issues on the internet.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Corporate Taxation",
+            "number": "LAW 5465",
+            "description": "This course will provide an in-depth study of the federal income taxation of corporations and their shareholders, including the tax aspects of forming and capitalizing a corporation, corporate distributions, redemptions, and taxable and tax-free corporate liquidations.  This course will be taught using the problem methods of instruction.",
+            "prerequisites": "LAW 5375 Basic Federal Income Taxation",
+            "hours": "1-3PrerequisitesorCorequisites:MusthavetakenorbecurrentlyenrolledinLAW 5375BasicFederalIncomeTaxation",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5375"
+            ]
+        },
+        {
+            "name": "Criminal Clinic",
+            "number": "LAW 5470",
+            "description": "The Criminal Clinic is available during both the Fall and Winter semesters.  It can only be taken once.  Enrollment is limited to 8 students per semester. Students must also enroll in Clinical Skills and Criminal Clinic Writing Project and have completed, or be enrolled in, LAW 5280 Professional Responsibility and LAW 5260 Evidence.  (Not available to students on probation).",
+            "prerequisites": "LAW 5280 Professional Responsibility, LAW 5260  Evidence.  Students must have prior permission of professor",
+            "hours": "1-5",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5280",
+                "LAW 5260"
+            ]
+        },
+        {
+            "name": "Criminal Clinic Writing Project",
+            "number": "LAW 5475",
+            "description": "This is the Writing Section accompanying course LAW 5470.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Criminal Justice Administration",
+            "number": "LAW 5477",
+            "description": "This course will examine the justice system's processing of formal criminal cases from the point at which a defendant is formally charged and going forward.  In other words, it will be a \"procedure\" course reviewing the processing and adjudication of criminal cases.  Topics will include the defendant's rights under the Sixth Amendment (e.g. jury trial, speedy trial, confrontation clause, and compulsory process rights); Eighth Amendment issues (e.g. bail and cruel and unusual punishment); criminal discovery (e.g. the prosecutor's Brady obligation to provide exculpatory evidence to defendants and notice requirements for alibi and insanity defenses); expert witnesses; pretrial and trial publicity; plea bargaining; sentencing (e.g. use of discretionary guidelines and minimum mandatory systems); and appeals.  Other topics that may be reviewed are: post-conviction relief (e.g. habeas corpus, pardons, and commutations); fraud and other white collar crimes; conspiracy and the expanding federal presence in investigation, prosecution, and incarceration.  This will be both an advanced criminal procedure course (similar to \"bail to jail\" courses at other law schools) and an advanced criminal law course.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Recommended: successful completion both LAW 5035 Criminal Law and LAW 5240 Criminal Procedure before taking this course",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cross-Cultural Dispute Resolution",
+            "number": "LAW 5485",
+            "description": "The course will focus on the impact culture can have on the private ordering of disputes.  Culture affects communication, perceptions regarding conflict and methods for resolution.  As the world becomes more interrelated and Missouri and the U.S. more diverse, lawyers need to be prepared to resolve problems across cultural lines.  20-25% of the grade will come from timely attendance and class participation.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Deal Skills Class",
+            "number": "LAW 5496",
+            "description": "Introduces students to business and legal issues common to commercial transactions.  Class will emphasize the thought process involved in, and required by, the practice of transactional law, skills as interviewing, counseling and communicating with your client, understanding business issues and drafting contract provisions to reflect those issues, negotiation deals and managing a transaction closing.  Simulation exercise, in-class role-play and lectures, out-of-class due diligence, negotiation and other exercises.",
+            "prerequisites": "Either LAW 5395 - Business Organization or LAW 5454 - Contracting Drafting.  Students cannot enroll concurrently in Corporate Finance and Deal Skills.  Students who have completed Deal Skills are precluded from enrolling in Corporate Finance.  However, students are allowed to enroll in Deal Skills even if they have already taken Corporate Finance",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5395",
+                "LAW 5454"
+            ]
+        },
+        {
+            "name": "Death Penalty Law",
+            "number": "LAW 5497",
+            "description": "The primary focus of this course will be on the Supreme Court's capital punishment jurisprudence over the past 35 years, with particular attention to how it has shaped state statutory schemes and legal argumentation in capital sentencing trials.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Dispute Resolution in the Digital Age",
+            "number": "LAW 5516",
+            "description": "This course will explore the need for expanded and equalized access to remedies in consumer cases, and how the internet opens doors to online dispute resolution (\"ODR\") systems that utilize cost-effective negotiation, mediation, and arbitration processes for resolving complaints. ODR has its drawbacks, but it can be especially effective and satisfying for low dollar claims such as those in most consumer contexts because of its efficiencies. ODR also has potential to ease power imbalances that have hindered market regulation. Accordingly, this course will look at the various systems currently used by major companies such as eBay, as well as the rules and treaty developments in global markets. We also will do ODR simulation exercises, led by Colin Rule, who has been a leader in creating ODR systems. The class also will include deep consideration of both the potential and drawbacks of ODR systems. All ODR processes are not beneficial, and thus we will also discuss development of best practices and question policy directions.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Drafting of Legal Instruments",
+            "number": "LAW 5520",
+            "description": "Problems frequently encountered in general office practice (land transfers, mortgages, leases, contracts, wills, business organizations, etc.), with drafting of the related instruments. Use and adaptation of legal forms. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Education Law",
+            "number": "LAW 5525",
+            "description": "This course examines the application of discrete doctrines from criminal law, constitutional law, juvenile law, employment law, and disability law to the legal problems facing American schools. Students will explore the ways in which the objectives of these discrete legal doctrines either promote or interfere with our educational policies.  Substantive areas of concentration include state regulation of education; freedom of speech, association and religion; equal educational opportunity; employment of teachers; and discipline of students.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Elder Law",
+            "number": "LAW 5530",
+            "description": "This course address legal issues impacting older individuals, including discussion of government benefits (Social Security, Medicaid, Medicare, Supplemental Security Income), long-term care (types, contract issues, civil rights, and financial planning), guardianship and conservatorship, planning for incapacity, and health care decisions at the end of life.  The course emphasizes planning techniques for the average client.  Grade will be based on a short paper and take-home exam.  The course may be taken for writing credit.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Election Law",
+            "number": "LAW 5532",
+            "description": "Election Law has become more important in recent years.  This course will introduce students to the many theoretical and practical constitutional, statutory, common law, and policy issues that accompany the franchise, including: legislative districting, voting rights, campaign finance, political parties, interest groups, direct democracy, and alternative democratic structures.  The course will emphasize federal law, but will also address Missouri state law as appropriate.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Electronic Discovery",
+            "number": "LAW 5534",
+            "description": "This course provides an in-depth treatment of the legal, technical, and cost management issues involving electronically stored information (\"ESI\") in civil litigation.  Covers the 2006 FRCP ESI amendments (Rules 26 meet and confer, 34, production, and 37 sanctions), FRE 502 (privilege review and production), state e-discovery rules, the rapidly developing ESI case law, and emerging best practices from the Sedona Conference Cooperation Proclamation, the Electronic Discovery Reference Model, and other E-discovery authorities.  Practice drafting litigation holds, preservation orders, and related e-discovery documents regularly used in civil litigation.  Grading is based on student projects and a final examination.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Emotional Intelligence in Law",
+            "number": "LAW 5537",
+            "description": "Success in law requires more than substantive legal knowledge.  It also requires self-awareness, or \"emotional intelligence,' by the lawyer in order to be able to operate effectively in a complex and nuanced legal environment. This course is designed to help students develop their emotional intelligence by cultivating such personal and social competencies as personal and social awareness, understanding of motivation, empathy and social skills.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Employment Discrimination",
+            "number": "LAW 5540",
+            "description": "This course examines the laws which prohibit discriminatory practices in employment.  Title VII is the primary focus, but coverage is also given to the Equal Pay Act, the Americans with Disabilities Act, and the Age Discrimination in Employment Act.  Additionally, the course addresses the administrative process available for dealing with employment discrimination complains, the prima facie case requirement and burden shifting analysis fused in civil rights cases, and affirmative action requirements.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Employment Law",
+            "number": "LAW 5543",
+            "description": "Employment Law focuses on the legal relationship between employers and employees in the non-unionized workplace.  The course will survey a variety of issues regarding the establishment, maintenance and termination of the employment relationship.  For example, the course will cover the common law aspects of that relationship, particularly contracts and torts.  It will examine statutory modifications of the common law in areas such as wage and hours, pensions, whistle-blower protection, unemployment insurance, workers compensation, and health and safety.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Entrepreneurship Legal Clinic",
+            "number": "LAW 5544",
+            "description": "The Entrepreneurship Legal Clinic (the \"Clinic\") combines business law issues, intellectual property, and transactional experiential learning. The Clinic explores the lawyer's role as counsel to entrepreneurs engaged in early-stage ventures. Students will survey the legal and business issues encountered by entrepreneurs and develop the practical skills necessary to effectively represent them, including client interviewing and counseling, entity formation and planning, governance issues, employee issues, intellectual property analysis (except patents [presently]), and contract drafting. Students will work on actual client matters approved by the Clinic's Supervising Attorney. Students must have the Supervising Attorney's permission to enroll, and they must meet the Requisites listed below. The Clinic is graded and enrollment is limited.",
+            "prerequisites": "LAW 5395 -Business OrganizationsCorequisites: LAW 5280 - Professional Responsibility",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5395",
+                "LAW 5280"
+            ]
+        },
+        {
+            "name": "Environmental Law",
+            "number": "LAW 5545",
+            "description": "Federal and state regulation of the environment, including the economic and philosophical foundations of environmental regulation, the common law roots of environmental regulation, and substantive coverage of a number of environmental statues, such as the Clean Air Act, Clean Water Act, Resource Conservation and Recovery Act, Comprehensive Environmental Response, Compensation and Liability Act, National Environmental Policy Act, and Endangered Species Act.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Estate Planning and Taxation",
+            "number": "LAW 5555",
+            "description": "This is a tax-oriented planning course, including discussion of federal estate and gift tax, income taxation of estates and trusts, and techniques for transferring property of a minimal tax cost both during life and at death.  Grade will be based on the preparation of one or more projects.",
+            "prerequisites": "LAW 5560 and LAW 5375",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5560",
+                "LAW 5375"
+            ]
+        },
+        {
+            "name": "Estates and Trusts",
+            "number": "LAW 5560",
+            "description": "Wills: probate process and will contests, intestate succession; restrictions on testation; execution, revival of wills; integration, incorporation by reference, events of independent significance; will substitutes; will construction; family protection.. Trusts: elements and creations; modification and termination; beneficial interests; charitable trusts; trust construction; powers of appointment; trust administration and fiduciary duties.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Externship",
+            "number": "LAW 5570",
+            "description": "The Externship offers students an opportunity to develop the skills necessary to bridge the gap between law school and law practice.  Through the Externship, students prepare for \"effective and responsible participation in the legal profession\"  (ABA Std. 301) by applying the core concepts learned in law school courses to the challenges presented in the actual, in-office practice of law.  Details concerning the requirements and structure of the course are available at the Externship webpage.   Students cannot take more than 6 hours of Externship credits.   Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Family Law",
+            "number": "LAW 5575",
+            "description": "After surveying the variety of family arrangements in contemporary America and central issues concerning the practice of domestic relations law, this course covers marriage; dissolution; distribution of martial property; alimony; child custody' visitation and support; post-dissolution disputes over custody and child-rearing; non-marital families and non-marital children; private agreements in family law; and alternative dispute resolution in collaboration with other professions in client representations, and ethical and policy issues.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Family Violence Clinic: Individual and Social Justice",
+            "number": "LAW 5580",
+            "description": "Rule 13 certified law students represent needy abused women and children in 13 rural Missouri counties. Students obtain orders of protection in adult abuse courts, and appear in protective custody cases in juvenile courts. Weekly debriefings may include interprofessional graduate students. Law students must complete LAW 5330 Advocacy, Family Violence and Public Policy before or during their clinical experience.  (Not available to students on probation).",
+            "prerequisites": "LAW 5280  Professional ResponsibilityCorequisites: LAW 5330 Advocacy, Family Violence and Public Policy",
+            "hours": "1-4",
+            "recommendation": "LAW 5260  Evidence",
+            "connections": [
+                "LAW 5280",
+                "LAW 5330",
+                "LAW 5260"
+            ]
+        },
+        {
+            "name": "Fiduciary Administration",
+            "number": "LAW 5584",
+            "description": "This course will cover key issues that arise in the administration of decedent's estates and trusts, including the necessity for probate, rights of creditors, the fiduciary obligations of trustees and personal representatives, investments, and accounting and distribution. Depending on class size, grading will be based either on an exam, a practice-oriented project, or both.",
+            "prerequisites": "LAW 5560 Estates and Trusts",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5560"
+            ]
+        },
+        {
+            "name": "Federal Courts",
+            "number": "LAW 5585",
+            "description": "The course will examine the role of federal courts and their relationship to state courts. Topics covered: justiciability; federal question and diversity jurisdiction; sovereign immunity; abstention; and habeas corpus.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Prerequisites or Corequisites: LAW 5220 Constitutional Law",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Freedom of Speech and Association",
+            "number": "LAW 5590",
+            "description": "A study of the rights of speech and association under the First Amendment of the United States Constitution. Major Supreme Court decisions regarding freedom of speech, including content-based and content-neutral restrictions of speech, regulation of commercial speech, regulation of obscenity and pornography, regulation of speech in public and private fora, libel and privacy law, forced association with persons or ideas, and subsidization of speech.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Food Law and Policy",
+            "number": "LAW 5591",
+            "description": "This course examines the laws that govern food safety and food labeling, and considers how well this network works to protect American consumers. It also considers current issues affecting the global food system. Representative topics include recent food safety problems such as tainted meat and salmonella contamination of eggs; food labeling issues such as the use of the term \"grass fed\" in meat labeling and the use of GMO seed; organic standards; government efforts to address the obesity problem; urban food deserts; animal welfare concerns; the regulation of pet food, and the like. Specific topics addressed each semester will depend on current events and recent legal developments. Students will be graded on the basis of research paper and class participation.  The course will often include a writing section designed to meet the upper-level writing requirement.  The course may be offered from time to time as a paper-only course, designed to meet the upper-level writing requirement.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Firearms Law",
+            "number": "LAW 5592",
+            "description": "This class will examine the historical development and modern context of the regulation of firearms. Although emphasizing domestic law, some international and comparative perspectives will be examined. The class may be taken for writing credit.",
+            "prerequisites": "LAW 5220 Constitutional Law",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5220"
+            ]
+        },
+        {
+            "name": "Gender, Race, Sexuality and the Law",
+            "number": "LAW 5595",
+            "description": "A study of the treatment of gender by the legal system. Topics will include a survey of writings by influential feminist legal scholars, historians and social scientists; a comparison of different theoretical frameworks; and an overview of substantive law and the latest legal developments involving gender. The primary aim of the course is to study various feminist theories to discern how gender is viewed by today's lawmakers and courts.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Health Care Law",
+            "number": "LAW 5615",
+            "description": "An examination of the law governing the interactions between patients and their health care providers (doctors, hospitals and managed care organizations).  The course will focus on rules governing the duty to treat, confidentiality, informed consent, medical malpractice liability, institutional vicarious liability, managed care liability, ERISA preemption and medical malpractice reform.  As time permits, the class may also cover selected elements of public health law.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Innocence Project Clinic",
+            "number": "LAW 5632",
+            "description": "This is a joint clinic among the MU and UMKC law schools, the MU School of Journalism and The Midwestern Innocence Project, a non-profit organization.  Law students will work under the supervision of the Clinic Director, a practicing lawyer, on cases of possible actual innocence from six states. Graded on S/U basis only.",
+            "prerequisites": "LAW 5946  Wrongful Convictions",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5946"
+            ]
+        },
+        {
+            "name": "Insurance Law",
+            "number": "LAW 5635",
+            "description": "A basic course in the fundamentals of insurance law. Topics covered include defining insurance; risk and the nature of the insurance relationship; insurable interest; indemnity; fortuity; subrogation; coordination of benefits; interpretation; rights a variance with policy provisions; contract formation; warranties, misrepresentation and concealment; condition; agents and brokers; introduction to regulation; introduction to insurance coverage.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Insurance Claims Processing and Dispute Resolution",
+            "number": "LAW 5637",
+            "description": "This course provides an in-depth examination of claims processing and dispute resolution in the insurance business in both first-party (property, life, etc.) and third-party (liability) insurance. Topics covered include notice of loss, proof of loss, duty to cooperate; negotiation of insurance claims; appraisal; mediation and arbitration of insurance claims; remedies for noncompliance with claims processing obligations; bad faith. The topics will be covered from a national perspective, but special emphasis will also be given to Missouri law. This course is approved to count as an elective toward the Dispute Resolution Certificate.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Intellectual Property",
+            "number": "LAW 5640",
+            "description": "This course is an introduction to the four broad areas of intellectual property.  Students will learn about intellectual property, contract, and tort knowledge gained from the first year curriculum.  The course will cover trademarks, trade secrets, patent law, and copyright law.  Thus, the course will cover how one obtains the special property rights called the copyright, patent, trademark contract.  Further, the course will cover how these intellectual property rights are protected from the tortious act of infringement, as well as any defense to infringement  it is important to note that this introductory class cannot be used to satisfy any of the requirements for the Intellectual Property certificate; nor is this introductory course substitute for the more in-depth coverage offered by Patent Law and Policy, Copyright Law or Trademark Law.  Rather, it is designed to allow students to explore basic intellectual property issues and to meet any prerequisites for Cyberspace Law, Software Law and International Intellectual Property.  Students may find that taking this introductory course complements the rest of the intellectual property curriculum.  Class participation and preparations is required, as is class attendance.  An exam and several small written projects will be required.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "International Commercial Arbitration",
+            "number": "LAW 5652",
+            "description": "This course offers a study of arbitration as a dispute resolution process for international trade and business disputes.  The course reviews ad hoc and institutional arbitration, the authority of arbitral panels, enforcement of agreement to arbitrate, challenging arbitrators, procedure and choice of law in arbitral proceedings, the enforcement of international arbitral awards.  Special attention will be given to the international convention on the recognition and enforcement of international arbitral agreements and awards (New York Convention) and the UNCITRAL (U.N. Commission of International Trade Law) arbitral rules and model law.  The course focuses on commercial arbitration as an international practice and not on arbitration under any particular national system.  Students will participate in a hypothetical arbitration matter, beginning from the development of the claim to preliminary proceedings, the arbitration hearing, and ending with the arbitrators' award.",
+            "prerequisites": "None Listed",
+            "hours": "2-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "International Human Rights",
+            "number": "LAW 5660",
+            "description": "The purpose of this course is not enable students to develop a basic understanding of the concept of international human rights law and the role played by international and regional organizations, states and private actors in defining and enforcing human rights.  Beginning with the historical origins of human rights, the course will examine the international regional human rights instruments and institutions that form the sources of human rights law (the UN system, including the Charter and treaties, European, African and Inter-American human rights regimes).  It will also examine the role of non-governmental organization, the International Criminal Court and International humanitarian law (the law of war), and the interaction between US civil rights law and International human right.   Throughout the course, students will be introduced to important critical themes of human rights, including:  the distinctions between public and private acts, evolving theories of statehood, sovereignty immunity, cultural relativism, and the western tradition of individual rights, and the relationship between rights and duties.   Issues examined will include:  political participation and democratization, religious freedom, the use of torture, corporate liability, woman's rights, the right and status of refugees, genocide and war crimes.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "International Law",
+            "number": "LAW 5665",
+            "description": "Introduction to the international legal system, with emphasis on relations between nation-states or international entities. Topics include statehood and recognition, legislative and judicial jurisdiction, human rights and the status of the individual, treaties and international organizations.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "International Taxation",
+            "number": "LAW 5675",
+            "description": "This course examines the federal income tax treatment of international transactions. It will focus on the principles and policies underlying the United States tax system as it relates to income earned by U.S. citizens and residents doing business and investing outside the country, as well as income derived from foreign persons doing business and investing in the United States.  Topics include jurisdiction issues, source of income rules, effectively connected income, FDAP income, the foreign tax credit, the role of tax treaties in international tax, and an introduction to subpart F and other anti-deferral mechanisms.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Recommended: LAW 5375 Basic Federal Income Taxation",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internet Law and Practice",
+            "number": "LAW 5677",
+            "description": "This course will focus on preparing to advise business client dealing with electronic commerce an internet law issues.  There is no technological background requirement or prerequisite to take the class.  We will explore a variety of themes including the control over the internet by both government and private actors; how online activities differ from their off-line counterparts; and how the laws should react to new forms of interaction and social structures found online.  Specific doctrinal topics include problems of digital authorship and publication including rights of anonymity, copyrights, trademarks, defamation and other torts; sales and licensing of products; marketing, advertising and data-mining, including privacy issues; jurisdiction over online actors; and cyber-squatting.  Grades will be based on the final exam and an optional short paper.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Privacy Law",
+            "number": "LAW 5679",
+            "description": "This course will focus on the fundamental principles of privacy and these principles' implementation in statutes, regulations and case law. Covered topics include: (a) why privacy matters; (b) fundamental privacy principles; (c) scope of \"privacy law;\" (d) U.S. Federal privacy laws (including HIPAA, COPPA, GLB, FCRA); (e) key State privacy laws (including CalOPPA, Massachusetts's Data Security Regulation, and overview of breach notification laws); (f) overview of foreign privacy regimes, with a particular focus on European Union's evolving privacy laws; (g) restrictions on, and methods to accomplish, trans-border data transfer in light of varying laws (e.g. U.S. Safe Harbor, Model Contracts); and (h) key enforcement bodies and selected enforcement decisions.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Journal of Dispute Resolution",
+            "number": "LAW 5680",
+            "description": "Credit for work as prescribed by the faculty for members of the Journal of Dispute Resolution. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Jurisprudence",
+            "number": "LAW 5690",
+            "description": "The major part of the course will cover classic jurisprudential questions about the nature of law - what law is-and related questions regarding judicial decision-making:  Under what conditions is a rule a law within a legal system?  Are there moral principles that are part of the law even though a legislature has not enacted them?  How do judges actually interpret statues and constitutional clauses?  How should they interpret them and are there definitive right answers to disputes about what the law is?    Is it possible to refrain from \"legislating from the bent.\" or does judicial decision-making necessarily involve making new law based on moral and political judgments?  In the second part of the course, we will begin thinking about the proper function or aim of some core areas of substantive law.   For example, questions might include:  Does the criminal law aim to exact retributive justice, to achieve deterrence, or both?  Is it legitimate for the legislature to use law to enforce morality of the community's  moral belief?  Does tort law aim to achieve corrective justice?  Does corrective justices require reparations to groups for long past injuries?  Reading will include Hart, Fuller, Dworkin, Raz, Ely, Holmes, Scalia, Feinberg, and others.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Jury Instructions",
+            "number": "LAW 5691",
+            "description": "Theoretical and practical aspects of jury instructions (including general and special verdicts) at trial are presented from the perspectives of the judge, counsel, the jury, and the court of appeals.  The course will involve the students in researching and drafting instructions, using pattern instructions, observing or participating in a simulated jury instruction conference, and writing an appellate court opinion that describes what the student has learned during the course.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Labor Law",
+            "number": "LAW 5695",
+            "description": "The regulation of relations between employers and labor unions at common law and under federal and state legislation; primary emphasis on the National Labor Relations Act, as amended.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Landlord Tenant Law and Practice",
+            "number": "LAW 5697",
+            "description": "This course focuses primarily on litigation under the Missouri Landlord Tenant statute and under federal administrative regulations governing public entities which provide housing and housing subsidies to low-income people including the processes for litigating against such entities.  The course will address proper pleading, relevant evidentiary issues, and requisite settlement skills/strategies.  This course is available to all 2L's and 3L's.  The course is required for all students enrolled in the Landlord/Tenant Practicum.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Landlord/Tenant Practicum",
+            "number": "LAW 5698",
+            "description": "The Landlord-Tenant Practicum serves indigent individuals in Mid-Missouri.  A Mid-Missouri Legal Services Corporation staff attorney supervises Rule 13 certified law students representing tenants including but not limited to those who are being evicted and/or who wish to sue their landlords for habitability or security deposit non-return.  Students may also represent tenants who reside in public or subsidized housing in administrative actions brought by or against a Housing Authority.  The practicum is graded and enrollment is limited.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Prerequisites or Corequisites: LAW 5697 Landlord/Tenant Law and PracticeCorequisites: LAW 5280 Professional Responsibility",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Land Use Controls",
+            "number": "LAW 5700",
+            "description": "This course focuses on laws governing the use and development of land.  The course examines legal rules and policy considerations related to zoning, subdivision controls, building codes, historic preservation, aesthetic regulation, growth management, eminent domain, nuisance law, regional land use conflicts, development exactions, and environmental land use restrictions.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Law and Economics",
+            "number": "LAW 5715",
+            "description": "Study of the use of microeconomic analysis and methods in influencing the law. Topics: economic analysis of tort, contract and property law, the use and misuse of economics in the common law judging tradition, limitations on the use of economic analysis in law and links between economic analysis and constitutional law/public choice theory.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Law of Habeas Corpus and Post-Conviction Relief",
+            "number": "LAW 5717",
+            "description": "Course will cover principles and practices of post-conviction remedies available to collaterally attack a criminal conviction in state and federal courts. Students will prepare post-conviction motions and petitions for a writ of habeas corpus under state and federal rules.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Law Practice Management and Technology",
+            "number": "LAW 5721",
+            "description": "Managing a successful law practice requires time and project management skills, as well as knowledge about the business of practicing law.  This course explores the practical and ethical challenges that confront the solo or small firm lawyer.  Students will be introduced to a range of resources for the solo and small firm lawyer, and gain practical experience in preparing a business plan, client welcome package, and policies and procedure manual.  Material presented is relevant to both the litigation and the transactional lawyer.",
+            "prerequisites": "LAW 5280 Professional Responsibility",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5280"
+            ]
+        },
+        {
+            "name": "The Law and Practice of Criminal Sentencing",
+            "number": "LAW 5723",
+            "description": "This simulation-based course examines the substantive law and practical operation of state and federal criminal sentencing systems and seeks to provide students with entry-level competence as advocates in the sentencing phase of criminal cases. Students will participate in a series of simulated sentencing proceedings in state and federal court, acting as counsel for the government or the defendant, or as the sentencing judge. Criminal Procedure and Criminal Justice Administration are recommended, but not required.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Law and Public Policy",
+            "number": "LAW 5724",
+            "description": "This course provides students with a framework for making decisions about the policies that governments should adopt to respond to important public problems.  It takes an interdisciplinary perspective and argues that decision-makers manage four kinds of risk: litigation risk, political risk, policy risk and implementation risk.  Students are introduced to techniques for identifying and minimizing such risks, and apply these techniques to real-world policy problems.  Guest speakers also provide a perspective on the challenges of policy choice.  More information on the course can be obtained from http://www.aroberts.us/category/law-and-public-policy.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Law of Tax Exempt Organizations",
+            "number": "LAW 5727",
+            "description": "This course will briefly address theories and rationales for exempt organizations and examine in some depth the Internal Revenue Service's tests for tax-exemption and the major types of 501(c)(3) organizations and related contribution deductions, as well as a collection of other 501(c) associations. Attention will be paid to state law regarding the formation and operation of Missouri Nonprofit corporations and the IRS application process for recognition of tax-exemption in addition to nonprofit corporate governance matters. Focus will be on Internal Revenue Code provisions, Treasury Regulations, IRS interpretive rulings and case law.",
+            "prerequisites": "LAW 5375  Basic Federal Income Taxation",
+            "hours": "1-3",
+            "recommendation": "LAW 5395 Business Organizations",
+            "connections": [
+                "LAW 5375",
+                "LAW 5395"
+            ]
+        },
+        {
+            "name": "Law Review",
+            "number": "LAW 5730",
+            "description": "Credit for work as prescribed by the faculty for members of the Missouri Law Review. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Legislation",
+            "number": "LAW 5745",
+            "description": "Study of how statues are drafted, adopted, and interpreted. The principal focus of the course is on the interpretation of statues by courts.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Legislative Practicum",
+            "number": "LAW 5746",
+            "description": "This course provides students with the opportunity to work with individual lawyer legislators, or lawyer staff, at the Missouri General Assembly. The students will assist members of the General Assembly with drafting legislation, preparing materials for hearings, conducting research and analysis to respond to broad public policy issues as well as constituent concerns.  On occasion students may be assigned to legislative committees, legislative staff support services, or to groups lobbying for legislation.  Students will be expected to meet periodically with the professor and to maintain a journal of their activities. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Life Skills for Lawyers",
+            "number": "LAW 5748",
+            "description": "Readings and discussions will focus on how members of the class want to live their lives as a lawyer.  Students will be asked to examine their law school experience and visualize their place in the legal profession.  Various problems faced by lawyers (e.g. the pressure to produce billable hours and dealing with clients) will be discussed.  Some of the positive aspects of being a lawyer will be identified. The emphasis will be on what the problems and opportunities mean to you personally and the importance of taking responsibility for your own personal and professional life.  (not available to students on probation, except for students classified as 3L students).",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Local Government Law",
+            "number": "LAW 5750",
+            "description": "(same as PUB_AF 8866). Structure and powers of local government units; state-local relations, including \"home rule\"; local government finance, including taxation and indebtedness; incorporation and annexation; eminent domain; tort liability; land use controls; labor relations.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Mediation",
+            "number": "LAW 5765",
+            "description": "A study of the process in which a neutral third party assists others in resolving a dispute or planning a transaction. The course addresses the mediation movement as regards public policy, politics, professional responsibility, malpractice, and negotiation. Students develop mediation and negotiation skills through readings, demonstrations, experimental exercises, and preparation of a case study.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Mediation Clinic",
+            "number": "LAW 5770",
+            "description": "(same as LAW 6970).  Students develop and refine mediation skills by observing and participating in simulated and real mediation cases. Graded on S/U basis only.",
+            "prerequisites": "LAW 5765 Mediation (or concurrent enrollment), or completion of an approved training. Limited to J.D. or LL.M. students in Designated semesters",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5765"
+            ]
+        },
+        {
+            "name": "Moot Court I",
+            "number": "LAW 5800",
+            "description": "Required only for those students participating in the National Moot Court or ABA Moot Court Competitions. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Moot Court II",
+            "number": "LAW 5805",
+            "description": "Required only for those students participating in the National Moot Court or ABA Moot Court Competitions. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Natural Resources Law",
+            "number": "LAW 5808",
+            "description": "This course is a foundational survey course in the law and policy related to management of natural resources. Resources covered may include public lands, waters, submerged lands and wetlands, forests, minerals and energy, wildlife and biodiversity and ecosystems. Topics also may include organic statutes establishing certain resource management standards and procedures, generally applicable statutes governing agency behavior, judicial review of agency decisions, integrated management of multiple resources, the use of ecosystem management and conservation methods, and takings.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Negotiation",
+            "number": "LAW 5810",
+            "description": "Negotiation is an essential skill for most lawyers, regardless of practice area. Lawyers must negotiate with their counterparts, clients, partners, staff, courts, and many others in the course of representing a client. This course provides an in-depth understanding of the different models of negotiation, and practical skill development for meeting the many challenges that negotiation presents.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Partnership Taxation",
+            "number": "LAW 5815",
+            "description": "This course will study the federal income tax treatment of partnerships and other entities treated as partnerships, including limited liability companies. The course will examine partnership formations, contributions to and distributions from partnerships, partnership operations, including special allocations of income and losses among partners, transfers of partnership interests, and partnership dissolution. This course will be taught using the problem method of instruction.",
+            "prerequisites": "LAW 5375 Basic Federal Income Taxation",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5375"
+            ]
+        },
+        {
+            "name": "Patent Law and Policy",
+            "number": "LAW 5820",
+            "description": "This course will provide comprehensive coverage of the U.S. Patent Laws for those interested in obtaining general information about patents, as well as for those interested in practicing before the Patent and Trademark Office. The course will trace an invention through the application, examination, reconsideration, re-examination and litigation processes. If time permits, there may also be coverage of international treaties that affect U.S. Patent Laws as well as some comparison of U.S. Patent Laws and the Patent Laws of select countries. There are no course prerequisites and a technical background is not required because the course primarily focuses on the Patent Act, its requirements and its jurisprudence. Thus, students need only be familiar with applying statutes and cases to a fact pattern. In lieu of an examination or a paper, up to six written projects, between 3-10 pages each (approx. 40 pages overall), will be due at the semester, giving students an intensive writing experience. The professor will review drafts of some of these projects during the semester and all of the projects will be discussed in class. These projects will allow students to help solve a clients hypothetical patent problem as we work through the Patent Act and its jurisprudence. Students may also have the opportunity to engage in client interviewing and counseling in order to complete the projects. There are no prerequisites and a technical background is not required.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Pretrial Litigation",
+            "number": "LAW 5830",
+            "description": "Focus on the study of the legal principles, techniques, strategies and skills which pertain to civil pretrial practice, including: Professional and Ethical Considerations, Case Selection Case Investigation, Development of a case theory, Pleading, Discovery, Pretrial Conference, Motion Practice, Settlement Processes and Alternative Dispute Resolution.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Products Liability",
+            "number": "LAW 5835",
+            "description": "A study of civil liability for personal injury, property damage, and economic loss caused by defective products. The study includes actions for negligence, strict liability, misrepresentation and the effect of state and federal legislation on those actions.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Property, Life, Disability and Health Insurance Law",
+            "number": "LAW 5837",
+            "description": "This course will explore the legal issues that arise in connection with the purchase and ownership of \"first-party\" insurance policies, which includes the categories of personal and commercial property insurance, life insurance, accidental death insurance, disability insurance, and health insurance. The course will examine the law from a national perspective but will give special attention to Missouri law when appropriate. The emphasis will be on the legal issues that typically arise when the consumer comes into contact with the insurance industry with respect to these products. The coverage of health insurance will focus on the provision and regulation of private insurance, as distinct from government programs providing access to the health care system through insurance or insurance-like benefits.",
+            "prerequisites": "LAW 5635 Insurance Law",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5635"
+            ]
+        },
+        {
+            "name": "Publicly Held Corporation",
+            "number": "LAW 5845",
+            "description": "This course focuses on legal issues most relevant to large public corporations. Recommended for students interested in pursuing a career in corporate law or for students desiring study in corporate law beyond the Business Organizations course.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Real Estate Transactions and Finance",
+            "number": "LAW 5855",
+            "description": "Real estate mortgages and financing substitutes--theory and practice; receivers; redemption; foreclosure; priorities; the Missouri Deed of Trust; subdivision development; leasehold mortgages; shopping centers; government intervention in the mortgage market.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Real Estate Finance",
+            "number": "LAW 5856",
+            "description": "This course examines legal and transactional issues relating to the financing of real estate. The course covers mortgage documentation; the use of mortgagee prior to foreclosure; transfers of mortgaged property; transfers of mortgages and securitization; payment and discharge of mortgages; default and impact of bankruptcy on real estate transactions. The grade will be based upon a final examination.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Real Estate Transactions",
+            "number": "LAW 5858",
+            "description": "This course examines issues relating to the transfer of real estate and the practice of transactional real estate law. The course covers conveyance documentation, the recording system, title and survey review, title insurance, purchase and sale transactions, basis entity structure and tax considerations, environmental review, commercial leasing, valuation of real estate, and project cash flow. The grade will be based on a final examination.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Real Estate Transaction Skills Project",
+            "number": "LAW 5859",
+            "description": "Students will participate in a weekly seminar class focused on contract drafting, negotiation, due diligence, and client management in the context of a transactional real estate law practice.  The grade for the course will be based upon student performance on drafting and practice skills assignments.  Projects may include the negotiation and drafting of a purchase contract; the negotiation and modification of a commitment for title insurance; survey review; review and evaluation of lease; lease drafting and negotiation. Student projects will include both individual and group work.",
+            "prerequisites": "None Listed",
+            "hours": "1Corequisites: Concurrent registration in LAW 5858  Real Estate Transaction is required",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Regulation of Drugs and Medical Devices",
+            "number": "LAW 5861",
+            "description": "This course examines the U.S. Food and Drug Administration (FDA) interpretation and implementation of the federal Food, Drug, and Cosmetic Act (FDCA) and the Public Health Service Act (PHSA). FDA regulates food, drugs, animal drugs and feed, cosmetics, medical devices, tobacco products, and biological products (broadly speaking \"food and drugs\"). The course considers not only the substantive regulations and policies applicable to food and drugs, but also issues of administrative law (agency practice and procedure, as well as judicial review), enforcement authority (powers and priorities), the agency's place within our federal system, and the place of food and drug law in the larger legal environment. The scope of the class will vary from semester to semester, usually covering at least drugs and devices.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Remedies",
+            "number": "LAW 5870",
+            "description": "Survey of damages, history of equity; coverage of various equitable remedies and their adequacy, practicability, defenses, procedural problems, enforcement of decrees, merger of law and equity, contempt.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Law",
+            "number": "LAW 5875",
+            "description": "Independent Research with a faculty member is available during the Summer, Fall and Spring Semesters. Any student enrolling for Research credit must designate at the time of enrollment the professor who will supervise the research project. Credit is earned at the rate of 20 pages per credit hour. No more than three hours of Research may be taken or counted toward the law degree. Enrollment in LAW 5875 may, but need not, be structured so as to satisfy the upper-level writing requirement. Enrollment in LAW 5875 Research satisfies the Law School's writing requirement only if the project culminates in an individually authored paper of at least 20 pages, based on independent research, through a process that involves an initial draft, critique by the supervising faculty members, and rewrite.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Secured Transactions",
+            "number": "LAW 5885",
+            "description": "The course focuses on the rights of secured creditors and debtors under Article 9 of the Uniform Commercial Code, and includes coverage of creditors with special rights (such as taxing authorities and artisans), documentary exchanges under Article 7, and bulk sales under Article 6.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Securities Regulation",
+            "number": "LAW 5890",
+            "description": "Financing of business through the sale of securities. Emphasis on federal securities acts, with some consideration of state statutes. Consideration of the registration process; exemptions from registration; the special antifraud rules; liabilities and criminal penalties; reporting; insider trading; and, proxy solicitation problems.",
+            "prerequisites": "LAW 5395 Business Organizations",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5395"
+            ]
+        },
+        {
+            "name": "Sports Law",
+            "number": "LAW 5905",
+            "description": "Substantive areas of concentration include sports litigation, labor law, NCAA regulations, legal relationships in professional sports, anti-trust aspects of sports activities, and collective bargaining.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Tax Planning",
+            "number": "LAW 5914",
+            "description": "This course will examine the application of corporate and partnership tax planning principles to accomplish common business objectives. Students will interview hypothetical clients, prepare written planning documents, present their tax plans to the class, and analyze associated substantive tax and business issues in a seminar format. The grade in this course will be based on written planning documents, a class presentation, and class participation. There will be no final exam.",
+            "prerequisites": "LAW 5375 Basic Federal Income Taxation",
+            "hours": "1-3",
+            "recommendation": "Students are strongly encouraged to have taken or be concurrently enrolled in LAW 5465 Corporate Taxation or LAW 5815 Partnership Taxation",
+            "connections": [
+                "LAW 5375",
+                "LAW 5465",
+                "LAW 5815"
+            ]
+        },
+        {
+            "name": "Tax Research",
+            "number": "LAW 5915",
+            "description": "This course provides students with an in-depth exploration of methods and sources for researching tax issues. The course provides students an opportunity to gain experience in using tax research tools. While primarily applicable to tax research, the knowledge gained by students will be helpful in future practice, regardless of practice area. Grades will be based on written assignments to be completed throughout the semester and one final project.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Taxation of Property Transactions",
+            "number": "LAW 5916",
+            "description": "This course will examine tax laws and policies fundamental to real estate investment. Topics include depreciation and recapture, cash and accrual methods of accounting, installment sales, non-recognition transactions, including like-kind exchanges and bad involuntary conversions, and discharge of indebtedness issues arising out of real estate transactions. This course is designed to provide a detailed analysis of complex tax provisions necessary for advanced tax planning and will be taught using the problem method of instruction.",
+            "prerequisites": "LAW 5375 Basic Federal Income Taxation",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5375"
+            ]
+        },
+        {
+            "name": "Topics in Law",
+            "number": "LAW 5917",
+            "description": "Various topics in law are explored in depth.  Topics change each semester.",
+            "prerequisites": "None Listed",
+            "hours": "1-5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Tax Policy",
+            "number": "LAW 5918",
+            "description": "This seminar examines issues of federal tax policy and theory made critically important by the budget deficit and projected shortfalls. We will discuss the major features of the U.S. tax system, identify significant problems, and analyze current reform proposals. Topics will include income distribution, tax treatment of the family, corporate tax reform, capital gains taxation, the alternative minimum tax, the estate tax, taxation of health benefits, consumption or value-added taxes, and tax expenditures.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Title Insurance Practice",
+            "number": "LAW 5919",
+            "description": "This course will examine the application of corporate and partnership tax planning principles to accomplish common business objectives. Students will interview hypothetical clients, prepare written planning documents, present their tax plans to the class, and analyze associated substantive tax and business issues in a seminar format. The grade in this course will be based on written planning documents, a class presentation, and class participation. There will be no final exam. Title Insurance is integral to the real estate market in the United States. Students will be exposed to the development and need for title insurance. They will learn what is necessary to become a title insurance producer and how to run a practice that incorporates both title insurance issuance and how to work within an agency and an underwriter.",
+            "prerequisites": "LAW 5855 Real Estate Transactions and Finance, or LAW 5856 Real Estate Finance, or LAW 5858 Real Estate Transactions",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5855",
+                "LAW 5856",
+                "LAW 5858"
+            ]
+        },
+        {
+            "name": "Trademark Law",
+            "number": "LAW 5920",
+            "description": "Nature of trademark law; common law and statutory trademarks and trade-names; Lanham Act of 1946; distinctiveness; types of marks; qualification of marks for registration (use in commerce, intent-to-use certification, secondary meaning, abandonment); registration procedures; exclusive rights of trademark owner; scope of protection; concurrent use; infringement (including \"gray market\" use); international protection; remedies; state trademark acts; related common law doctrines; trademark usage on the Internet; domain name issues.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Transnational Litigation",
+            "number": "LAW 5923",
+            "description": "This course addresses common areas of concern in private transnational litigation and provides students with an understanding of litigation tactics in this growing area of law.  Topics include jurisdictional issues, forum selection, international service of process, international discovery, international choice of law, proving foreign law in U.S. courts, multiple proceedings (including parallel proceedings and interim/interlocutory assistance) and enforcement of foreign judgments.  Although international in nature, the course covers many of the same sorts of concerns that arise in other sorts of complex civil litigation and emphasizes practical strategy points and transactional considerations.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Trial Practice",
+            "number": "LAW 5925",
+            "description": "Skills based course that focuses on the techniques of pleading, discovery, jury selection, opening statements, direct/cross examination of witnesses, preparing jury instructions, closing arguments. Each student participates in classroom problems selected from various phases of litigation, and in one complete trial.  Some sections of this course may be offered as a graded section or graded on S/U basis only.",
+            "prerequisites": "LAW 5260 Evidence",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5260"
+            ]
+        },
+        {
+            "name": "Veterans Clinic",
+            "number": "LAW 5927",
+            "description": "In this clinical program, students will help veterans in need and/or their dependents secure disability related benefits after an initial denial from the Regional VA office.  This work will be done at the board of Veterans' Appeals level or before the Court of Appeals for Veterans' Claims, both located in Washington D.C.  The BVA and CAVC are federal tribunals, specially created to handle veterans' claims. Students will have the opportunity to work with the client, in a law firm type atmosphere, and prepare and argue appeals relating to the denial of benefits.",
+            "prerequisites": "None Listed",
+            "hours": "1-4Prerequisites or Corequisites: LAW 5280 Professional Responsibility",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Voir Dire",
+            "number": "LAW 5930",
+            "description": "This course is designed to provide the students with hands-on experience in selecting a jury. Students will act as lawyers, jurors and one student presiding as judge in the concluding 2-1/2 hour courtroom simulation where a jury is selected after making challenges for cause and end exercising preemptory strikes. An actual case involving a badly injured young plaintiff and a large corporate defendant--where liability is questionable--will be the basis for this exercise. The course will outline the purpose of voir dire and the law pertaining to jury selection. Students will learn active listening skills and how to interpret non-verbal behavior. Examples from prominent, practicing lawyers will be presented. The ultimate purpose of the course is to bring recognition that jury selection is an art--not a science-- and should be tailored to the facts of the case and the witnesses the attorney expects to present. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "White Collar Crime",
+            "number": "LAW 5940",
+            "description": "Study of what are generally considered to be business or organizational crimes. General topics to be explored may include: mail and wire fraud, conspiracy, securities fraud, tax fraud, government contracting fraud (with particular emphasis on the False Claims Act), the Hobbs Act and the Racketeer Influenced and Corrupt Organizations Acts.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Will and Trust Drafting",
+            "number": "LAW 5945",
+            "description": "Building on Estates and Trusts, applies substantive law of wills and trusts to actual drafting of documents typical of those used in law practice. Grade based entirely on student projects.",
+            "prerequisites": "LAW 5560 Estates and Trust",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LAW 5560"
+            ]
+        },
+        {
+            "name": "Wrongful Convictions",
+            "number": "LAW 5946",
+            "description": "This course offers students an insider's look into the operation of the criminal justice system.  It should be of particular interest to any student interested in working in a prosecutor's office, public defender's office or for a firm doing defense work.  It is a prerequisite for any student wishing to enroll in the Innocence Project clinic.  The course is designed to help students gain insight into features of the criminal justice system that have a tendency to produce wrongful convictions.  In addition to examining the causes of wrongful convictions, the course will consider systemic reforms that might minimize convicting the innocent.  We will also work with the Midwestern Innocence Project on cases of possible actual innocence.  Finally, the class will also focus on recurring ethical issues that confront prosecutors and criminal defense lawyers.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Workers' Compensation Law and Practice",
+            "number": "LAW 5947",
+            "description": "This course will cover the law and practice of Workers' Compensation Law both in general and in Missouri.  About two-thirds of the class time will be spent studying and discussing the doctrinal basis of workers' compensation.  In the balance of the time students will work on a simulation in which they will have the opportunity to work through difference steps of a workers' compensation claim.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "London Program",
+            "number": "LAW 6500",
+            "description": "Students enrolled in classes in London. Credit will count toward graduation requirements. Zero billing hours.",
+            "prerequisites": "None Listed",
+            "hours": "1-16",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Comparative Dispute Resolution",
+            "number": "LAW 6710",
+            "description": "South Africa Program",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Comparative Constitutional Law",
+            "number": "LAW 6720",
+            "description": "South Africa Program",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Comparative Criminal Justice",
+            "number": "LAW 6730",
+            "description": "South Africa Program",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "LLM Arbitration Seminar",
+            "number": "LAW 6905",
+            "description": "(same as LAW 6805). This course would cover law, policy, and practices relating to the arbitration in the U.S. under modern arbitration statutes as well as arbitration of international commercial disputes under international conventions and arbitral rules.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "LL.M. Externship",
+            "number": "LAW 6920",
+            "description": "Student will be placed (or secure placement) with attorney, professional mediator or arbitrator, or dispute resolution agency (government-based or private) for an externship ranging three to nine weeks. Students will observe and, to the extent possible, participate in dispute resolution activities of mentor. Journal entries form basis for credit. Externship placements will be local, national or internation. Graded on a S/U basis only.",
+            "prerequisites": "LL.M. students only",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "LL.M. Independent Study",
+            "number": "LAW 6925",
+            "description": "Substantial research project on selected topic of choice.",
+            "prerequisites": "LL.M. students only",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "LL.M. Major Research Project",
+            "number": "LAW 6930",
+            "description": "(same as LAW 6830). Development and presentation of substantial research paper on current topic in dispute resolution. Supervision of this work by appropriate faculty will be determined according to the topic selected.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Dispute System Design",
+            "number": "LAW 6935",
+            "description": "(same as LAW 6835). Analysis of system design principles and the management of multi-party complex disputes. Course will include overview of statutes, regulations, court rules and general policy considerations for the development of systematic approaches to the resolution of disputes as well as the consultation process inherent in system design work. An underlying theme for this course will be issues of program quality. Students will review scholarly work evaluating the ADR field and study basic research/evaluation methodologies.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Negotiation and Mediation Perspectives and Skills",
+            "number": "LAW 6940",
+            "description": "Interactive training program that focuses on the role of the mediator in facilitating settlement. Topics include: theories of competitive and problem solving orientations to negotiation; strengths/weaknesses of mediation as a dispute resolution process; and overview of mediator tasks and responsibilities, such as framing issues, understanding party interest, generating options, and reaching agreement. This course is required for LL.M. students without mediation background and will be delivered in an intensive format during August before regularly scheduled courses begin. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Non-Binding Methods of Dispute Resolution",
+            "number": "LAW 6945",
+            "description": "(same as LAW 6845). Negotiation and mediation of disputes, focusing on the theory, strategy, and skills, and public policy issues involved in using non-binding methods of dispute resolution. The course addresses the role of attorneys in unassisted and mediated negotiation as well as the role of mediators. The course considers the professional responsibility of advocates negotiating for clients and of mediators.",
+            "prerequisites": "instructor's consent",
+            "hours": "3-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Practicum on Dispute Resolution Training and Education",
+            "number": "LAW 6950",
+            "description": "Structured training experience through participation in the first-year curriculum project; service as judges in J.D. student competitions, such as negotiation and client counseling; and assignments to appropriate upper division courses to assist with development of dispute resolution modules. Credit is earned for work over the entire academic year. Graded on a S/U basis only.",
+            "prerequisites": "LL.M. students only",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics",
+            "number": "LAW 6955",
+            "description": "Special and emerging topics in dispute resolution. Subject, content and credit varies, depending on available faculty and student interest.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Understanding Conflict",
+            "number": "LAW 6960",
+            "description": "(same as LAW 6860). Study of the origins, nature, and functions of conflict, using perspectives from a variety of disciplines and from literature and religion. The course will include special attention to the idea of conflict as opportunity and will draw on contemplative practices, of the kind that have been developed in many religious traditions, to aid in understanding the relationship between inner and outer conflict. It will focus persistently on the connections between one's assumptions about conflict and one's attitudes and practices about dispute resolution and lawyering. Prerequisitse: instructor's consent.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Mediation Clinic",
+            "number": "LAW 6970",
+            "description": "(same as LAW 5770).  Students develop and refine mediation skills by observing and participating in simulated and real mediation cases.   Limited to J.D. or LL.M. students in Designated semesters.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-2Prerequisites or Corequisites: LAW 5765 (or concurrent enrollment), or completion of an approved training",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

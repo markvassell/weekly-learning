@@ -1,0 +1,207 @@
+{
+    "department_name": "Chinese",
+    "department_code": "CHINSE",
+    "courses": [
+        {
+            "name": "Elementary Chinese I",
+            "number": "CHINSE 1100",
+            "description": "For beginners with no prior knowledge of Chinese.  Five hours of classroom instruction, with one hour lab work weekly.",
+            "prerequisites": "None Listed",
+            "hours": "6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Elementary Chinese II",
+            "number": "CHINSE 1200",
+            "description": "Five hours of classroom instruction, with one hour lab work weekly.",
+            "prerequisites": "C- or better in CHINSE 1100 or equivalent",
+            "hours": "6",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHINSE 1100"
+            ]
+        },
+        {
+            "name": "Undergraduate Topics in Chinese-General",
+            "number": "CHINSE 2001",
+            "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Undergraduate Topics in Chinese - Humanities",
+            "number": "CHINSE 2005",
+            "description": "Organized study of selected topics. Subjects and credits may vary from semester to semester. No knowledge of Chinese required. No language credit.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Everyday Spoken Chinese Level I",
+            "number": "CHINSE 2100",
+            "description": "Reinforces and extends ability to use Chinese language for spoken communication. Studies situation-specific Chinese in real-life situations. Intended to supplement, not replace, Chinese language courses taught on MU campus. Students must be enrolled in MU China Study Abroad.",
+            "prerequisites": "C- or better in CHINSE 1200",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHINSE 1200"
+            ]
+        },
+        {
+            "name": "Intermediate Chinese I Conversation and Composition",
+            "number": "CHINSE 2160",
+            "description": "",
+            "prerequisites": "C- or better in CHINSE 1200 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHINSE 1200"
+            ]
+        },
+        {
+            "name": "Chinese Civilization I",
+            "number": "CHINSE 2310",
+            "description": "Survey of Chinese culture and arts. No knowledge of Chinese is required. No foreign language credit.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Chinese Language and Culture",
+            "number": "CHINSE 2330",
+            "description": "Presents information about the development of Chinese language over time, the variety of dialects spoken in China, and around the world.  Explores relationship between Chinese language and culture.  Considers different genres of Chinese literature.  Visits to sites significant to development of Chinese language and literature.  Introduction to calligraphy and basic daily Chinese.",
+            "prerequisites": "Must be enrolled in MU China Study Abroad; sophomore standing required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Chinese - General",
+            "number": "CHINSE 3001",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated to a maximum of 6 hours with departmental consent. Graded on A-F basis only.",
+            "prerequisites": "Sophomore standing and instructor consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Chinese - Humanities",
+            "number": "CHINSE 3005",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Some sections may be graded on A-F or S/U basis only.",
+            "prerequisites": "sophomore standing and instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Chinese - Humanities - Honors",
+            "number": "CHINSE 3005H",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Some sections may be graded on A-F or S/U basis only.",
+            "prerequisites": "sophomore standing and instructor's consent, Honors eligibility required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Chinese",
+            "number": "CHINSE 3085",
+            "description": "Supervised study in Chinese language and/or culture.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Intermediate Chinese II Conversation and Composition",
+            "number": "CHINSE 3160",
+            "description": "Continuation of CHINSE 2160.  Introduces more complex grammatical constructions and extends ability to use those constructions for written and oral communication.  Successful completion of course will enable students to communicate in Mandarin Chinese regarding everyday topics, with a vocabulary of just over 1900 words, and about 380 sentence patterns.",
+            "prerequisites": "C- or higher in CHINSE 2160",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHINSE 2160"
+            ]
+        },
+        {
+            "name": "Everyday Spoken Chinese Level II",
+            "number": "CHINSE 3170",
+            "description": "For students who have completed 18 credits college-level Chinese. Reinforces and extends ability to use Chinese language for Spoken communication. Class-time spent studying situation-specific Chinese in real-life situations. Intended to supplement, not replace, Chinese language courses taught on UMC campus. Students must be enrolled in MU China Study Abroad.",
+            "prerequisites": "C- or better in CHINSE 3160 or consent of instructor",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHINSE 3160"
+            ]
+        },
+        {
+            "name": "Advanced Chinese I",
+            "number": "CHINSE 3180",
+            "description": "Improves vocabulary, listening, spoken and written Chinese Skills.  Discusses basic cultural ideas.  Graded on A-F basis only.",
+            "prerequisites": "C- or higher in CHINSE 3160, or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHINSE 3160"
+            ]
+        },
+        {
+            "name": "Chinese Traditions and Global Integration",
+            "number": "CHINSE 3300",
+            "description": "Focuses on developments in China's International relations that have led to prominence on world stage, and the impact of modernization and integration into world community on China's sense of national identity, shape of Chinese culture, and lives of the people.  Visits to cultural and business sites, guest lectures, and conversations with Chinese people.",
+            "prerequisites": "Must be enrolled in MU China Study Abroad; sophomore standing required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Chinese Traditions and Global Integration - Honors",
+            "number": "CHINSE 3300H",
+            "description": "Focuses on developments in China's International relations that have led to prominence on world stage, and the impact of modernization and integration into world community on China's sense of national identity, shape of Chinese culture, and lives of the people.  Visits to cultural and business sites, guest lectures, and conversations with Chinese people.",
+            "prerequisites": "Must be enrolled in MU China Study Abroad;  sophomore standing required.  Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Chinese Poetry",
+            "number": "CHINSE 3310",
+            "description": "This is an introductory course to Chinese poetry, both classical and contemporary, in English. It will explore issues in the intercultural and interlingual interpretation of foreign literature through the study of Western translations of and scholarship on selected Chinese poets.",
+            "prerequisites": "sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Modern and Contemporary Chinese Fiction (in translation)",
+            "number": "CHINSE 3320",
+            "description": "Studies Chinese fiction from 1920s to 1990s. Preceded by a brief historical survey of Chinese literature. Analyzes works by authors like Lu Xun, Ba Jin, Lao She, Wang Meng and many others of the younger generation. Readings and lectures in English.",
+            "prerequisites": "Sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Negotiating Chinese Culture",
+            "number": "CHINSE 3400",
+            "description": "As political, business, religious, and personal encounters between Chinese and Americans increase, so also does the need for competence in negotiating these cross-cultural interactions.  Whether hosting Chinese guests, visiting China for business or as a scholar, or simply trying to understand current events, a clear understanding of cultural differences and similarities can be quite valuable.  Students will be introduced to multiple perspectives on American and Chinese cultural differences along with narratives of cross-cultural experiences. Course address issues related to American and Chinese cross-cultural communication in five spheres of interaction: political, religious, business, interpersonal, education.  Through related readings, discussions, and structured conversations with Chinese, students will explore how this information and a deeper understanding of Chinese and American culture can be applied to more fruitful and positive cross-cultural interactions in multiple contexts.",
+            "prerequisites": "sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Contemporary Chinese Film",
+            "number": "CHINSE 3880",
+            "description": "(same as FILM_S 3880).  Introduces development of 20th century Chinese film and popular genres, including review of earlier times.  Explores how present day Chinese understand their own history, and issues they face in drive toward modernization in a global context.  Films and readings in English or with English subtitles. No previous knowledge of the culture or language required.",
+            "prerequisites": "sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "department_name": "Reading Intensive English Program ",
+    "department_code": "IEPR",
+    "courses": [
+        {
+            "name": "Reading I",
+            "number": "IEPR _0001",
+            "description": "Students will develop the reading skills and vocabulary required to comprehend short, simple texts on general interest topics.  Not open to native speakers of English. No college credit.",
+            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Reading II",
+            "number": "IEPR _0002",
+            "description": "Students will develop the reading skills and vocabulary required to comprehend short, predictable texts on general interest topics. Not open to native speakers of English. No college credit.",
+            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Reading for Academic Purposes III",
+            "number": "IEPR _0030",
+            "description": "Students will develop the reading skills and vocabulary required to comprehend pre-academic and adapted academic texts.  Not open to native speakers of English. No college credit.",
+            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Reading for Academic Purposes IV",
+            "number": "IEPR _0040",
+            "description": "Students will develop the reading skills and vocabulary required to comprehend adapted university-level texts.  Not open to native speakers of English. No college credit.",
+            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Reading for Academic Purposes V",
+            "number": "IEPR _0050",
+            "description": "Students will develop the reading skills and vocabulary required to comprehend and analyze university-level texts.  Not open to native speakers of English. No college credit.  ",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

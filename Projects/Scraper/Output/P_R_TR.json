@@ -1,0 +1,819 @@
+{
+    "department_name": "Parks, Recreation, and Tourism",
+    "department_code": "P_R_TR",
+    "courses": [
+        {
+            "name": "Introduction to Leisure Studies",
+            "number": "P_R_TR 1010",
+            "description": "History of recreation and leisure movement; theories and philosophies of play, recreation and leisure. Developmental stages of leisure services to contemporary status.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Academic Planning and Career Orientation in Parks, Recreation and Tourism",
+            "number": "P_R_TR 1011",
+            "description": "Orientation to the field and analysis of career opportunities in leisure services. Academic planning leading to B.S. in parks, recreation and tourism.Graded on S/U basis only.",
+            "prerequisites": "Parks, Recreation and Tourism major",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Sport Management",
+            "number": "P_R_TR 1080",
+            "description": "This course will examine the meaning of sport management in terms of its history, scope, principles, issues and future trends.  In addition, this course examines the job responsibilities and competencies required of sport managers in a variety of sport organizations. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sport Facility Design",
+            "number": "P_R_TR 1081",
+            "description": "This course will investigate the functions of management in terms of design, implementation, operating and financing public assembly facilities in order to help sell the sport product.  Venues such as public and private arenas, coliseums and stadiums will be studied. Graded on A-F basis only.",
+            "prerequisites": "May be restricted to Parks, Recreation, and Tourism majorsCorequisites: P_R_TR 2082,  P_R_TR 2083",
+            "hours": "1PrerequisitesorCorequisites:P_R_TR 1080",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 2082",
+                "P_R_TR 2083"
+            ]
+        },
+        {
+            "name": "Recreational Shooting Sports",
+            "number": "P_R_TR 1084",
+            "description": "This course provides introductory instruction and hands-on shooting with an introduction to shooting range management. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1PrerequisitesorCorequisites:P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Sports Page",
+            "number": "P_R_TR 1085",
+            "description": "This course is offered to introduce students to Sport Management by discussing the variety of sports, issues, perspectives and people that make the daily sport page worth reading.  Graded on A-F basis only.",
+            "prerequisites": "P_R_TR 1080Corequisites: Instructor consent required if P_R_TR 1080 is taken concurrently",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1080",
+                "P_R_TR 1080"
+            ]
+        },
+        {
+            "name": "Research and Descriptive Statistics for Parks, Recreation and Tourism",
+            "number": "P_R_TR 1091",
+            "description": "An introduction to research methods and techniques and descriptive statistics and their application in the field of recreation and park administration. Math Reasoning Proficiency Course.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Global Sport Environments",
+            "number": "P_R_TR 2080",
+            "description": "This course will provide an overview of organization and management of domestic and international sport, including the Olympic movement and examination of the globalization of U.S. professional sports.  The course will also look into facility design and technology used in sports environment.  Graded on A-F basis only.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Domestic and International Sports Environment",
+            "number": "P_R_TR 2082",
+            "description": "This course will provide an overview of organization and management of domestic and international sport, including the Olympic movement and examination of the globalization of U.S. profession sports. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1Prerequisites or Corequisites: P_R_TR 1080Corequisites: P_R_TR 1081, P_R_TR 2083",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Technological Advancement in Sport",
+            "number": "P_R_TR 2083",
+            "description": "This course will teach students how to solve sports technology problems they will face in their future career, plus develop computer aided design and manufacturing skills.  They will also gain skills in team work, communication and presentation, IT, research and project management. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1Prerequisites or Corequisites: P_R_TR 1080Corequisites: P_R_TR 1081,  P_R_TR 2082",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Park, Recreation and Tourism",
+            "number": "P_R_TR 2101",
+            "description": "Specialized topic content in parks, recreation and tourism programs, management and/or development. Subject content and credit may vary by semester based on faculty resources and student needs. Offered periodically.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Park, Recreation and Tourism - Writing Intensive",
+            "number": "P_R_TR 2101W",
+            "description": "Specialized topic content in parks, recreation and tourism programs, management and/or development. Subject content and credit may vary by semester based on faculty resources and student needs. Offered periodically.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Park, Recreation and Tourism - Behavioral Science",
+            "number": "P_R_TR 2103",
+            "description": "Specialized topic content in parks, recreation and tourism programs, management and/or development. Subject content and credit may vary by semester based on faculty resources and student needs. Offered periodically.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Park, Recreation and Tourism - Social Science",
+            "number": "P_R_TR 2104",
+            "description": "Specialized topic content in parks, recreation and tourism programs, management and/or development. Subject content and credit may vary by semester based on faculty resources and student needs. Offered periodically.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Aquatics Science",
+            "number": "P_R_TR 2107",
+            "description": "A scientific perspective on water chemistry, preventive maintenance of aquatic facilities with an emphasis on the newest safety and engineering design information and construction techniques.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Planning and Evaluating Leisure Environments",
+            "number": "P_R_TR 2111",
+            "description": "Presentation of basic planning principles. Evaluation of existing areas and facilities based upon planning guidelines. Consideration of park plans, standards, terminology, map preparation and evaluation.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Consortium Field Experience",
+            "number": "P_R_TR 2115",
+            "description": "An organized undergraduate experiential learning opportunity.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3PrerequisitesorCorequisites:P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Camp Leadership and Management",
+            "number": "P_R_TR 2140",
+            "description": "Organization and administration of camps; program planning; selection and training of staff; camp site selection and development; health and safety; camp history, standards, trends; practical application of camp craft skills.",
+            "prerequisites": "instructor's consent",
+            "hours": "3PrerequisitesorCorequisites:P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Leadership of Social Recreation",
+            "number": "P_R_TR 2142",
+            "description": "Study and practice in techniques of leading social activities suitable for various social settings. Offered periodically.",
+            "prerequisites": "None Listed",
+            "hours": "2Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Organization and Conduct of Recreation Centers",
+            "number": "P_R_TR 2143",
+            "description": "Problems of operation, management of playgrounds, recreation centers.",
+            "prerequisites": "None Listed",
+            "hours": "2Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Ethics and Current Issues in Sports",
+            "number": "P_R_TR 2182",
+            "description": "Ethical strategies of sport management will be emphasized in all management decisions and current issues that today's sport business professional faces will be studied.  Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1PrerequisitesorCorequisites:P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Leisure Service Management",
+            "number": "P_R_TR 2206",
+            "description": "An introduction to public recreation in local government.",
+            "prerequisites": "P_R_TR 1010, P_R_TR 1011, P_R_TR 2111 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1010",
+                "P_R_TR 1011",
+                "P_R_TR 2111"
+            ]
+        },
+        {
+            "name": "The Business of Sport",
+            "number": "P_R_TR 2281",
+            "description": "This course focuses on the business side of sport management, considering issues of marketing, sponsorship, and sales.  Students will also be presented with actual models relevant to working in sales in the competitive sport environment.   Graded on A-F basis only.",
+            "prerequisites": "some sections may be restricted to Parks, Recreation, and Tourism majors with Sport Management emphasis or instructor consent",
+            "hours": "3PrerequisitesorCorequisites:SomesectionsmayrequireP_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Private and Commercial Recreation Principles and Practice",
+            "number": "P_R_TR 2355",
+            "description": "Considers principles, practices, influences in public/ private leisure services; influence of tourism/travel on public/private recreation services.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Experience Internship",
+            "number": "P_R_TR 2711",
+            "description": "This course is designed as an independent study for students to gain professional experience. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Prerequisites or Corequisites: P_R_TR 1011 and P_R_TR 1010",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Methods in Research and Evaluation",
+            "number": "P_R_TR 2750",
+            "description": "An overview of social research methods, including terms, human and scientific inquiry, ethical behavior, literature review, sampling questionnaire construction, types of data collection, statistical analysis, and reporting of results.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: P_R_TR 1011",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sports Economics and Finance",
+            "number": "P_R_TR 3185",
+            "description": "This course focuses on the economic and financial issues within the sport industry.  The class will help students understand basic and complex concepts within economics and finance in a sport context, and to grasp the importance of financial and economic decision making.  Graded on A-F basis only.",
+            "prerequisites": "P_R_TR 1011; Restricted to Parks, Recreation, and Tourism majors with Sport Management emphasis or instructor consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Sports Economics and Finance - Honors",
+            "number": "P_R_TR 3185H",
+            "description": "This course focuses on the economic and financial issues within the sport industry.  The class will help students understand basic and complex concepts within economics and finance in a sport context, and to grasp the importance of financial and economic decision making.  Graded on A-F basis only.",
+            "prerequisites": "P_R_TR 1011; Restricted to Parks, Recreation, and Tourism majors with Sport Management emphasis or instructor consent.  Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Pre-Internship Seminar in Parks, Recreation and Tourism",
+            "number": "P_R_TR 3189",
+            "description": "The course is designed to prepare students for P_R_TR 4940. Emphasis is placed on students' responsibilities prior to enrollment in P_R_TR 4940, selecting internship sites and completing internship requirements.",
+            "prerequisites": "P_R_TR 1011; restricted to Parks, Recreation and Tourism students only",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Personnel Management and Leadership in Leisure Services",
+            "number": "P_R_TR 3210",
+            "description": "Considers theories and practices of leadership and management in leisure services employment. Topic presentation in relationships, attitudes, supervision, motivation and group functioning.",
+            "prerequisites": "P_R_TR 1011; restricted to Parks, Recreation and Tourism majors",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Personnel Management and Leadership in Leisure Services - Writing Intensive",
+            "number": "P_R_TR 3210W",
+            "description": "Considers theories and practices of leadership and management in leisure services employment. Topic presentation in relationships, attitudes, supervision, motivation and group functioning.",
+            "prerequisites": "P_R_TR 1011; restricted to Parks, Recreation and Tourism majors",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Program Development in Leisure Services",
+            "number": "P_R_TR 3215",
+            "description": "Fundamental principles and techniques of program development; seasonal, year round, specialty areas and total agency program planning.",
+            "prerequisites": "P_R_TR 1011, or instructor's consent; restricted to Parks, Recreation and Tourism majors",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Introduction to Recreation for Individuals with Disabilities",
+            "number": "P_R_TR 3220",
+            "description": "Principles, concepts and historical development of recreation for individuals with disabilities. Explanation of attitudes, issues, practice and barriers related to recreation participation.  Graded on A-F basis only.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Introduction to Therapeutic Recreation",
+            "number": "P_R_TR 3227",
+            "description": "An investigation of therapeutic recreation service delivery models of the P_R_TR 2111 and disabled in both institutional and community settings. Particular emphasis will be placed on advanced leadership and therapeutic interactional skills and dynamics.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Introduction to Parks and Outdoor Recreation Services",
+            "number": "P_R_TR 3230",
+            "description": "An overview of parks and outdoor recreation, natural environment, supply-demand-need relationships, interpretative programming, management philosophies/practices will be studied.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "P_R_TR 1011",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Introduction to Parks and Outdoor Recreation Services - Writing Intensive",
+            "number": "P_R_TR 3230W",
+            "description": "An overview of parks and outdoor recreation, natural environment, supply-demand-need relationships, interpretative programming, management philosophies/practices will be studied.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "P_R_TR 1011",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Principles of Interpretive Outdoor Recreation",
+            "number": "P_R_TR 3231",
+            "description": "Interpretive principles and techniques employed to communicate values, natural history and cultural features to the recreation user.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "P_R_TR 1011",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Governance and Policy in Sport and Leisure",
+            "number": "P_R_TR 3282",
+            "description": "This course serves as a comprehensive study in examining how leisure organizations address fundamental issues of governance and policy.  Through careful use of policy and understanding of governance, organizations often form strategies in their attempts to gain an advantage. Graded on A-F basis only.",
+            "prerequisites": "P_R_TR 1011; Restricted to Parks, Recreation, and Tourism majors with Sport Management emphasis",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Administration of Leisure Services",
+            "number": "P_R_TR 4208",
+            "description": "(cross-leveled with P_R_TR 7208). Theoretical foundations of the organization and administration of leisure services in both community and institutional settings. Emphasis on the roles of the administrator.",
+            "prerequisites": "P_R_TR 1011; Restricted to Parks, Recreation and Tourism majors",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Planning Recreation and Leisure Environments",
+            "number": "P_R_TR 4312",
+            "description": "Practical application of basic planning principles and design. Layout and design of various leisure-oriented areas and facilities. Site planning and analysis.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Senior Seminar in Leisure Services",
+            "number": "P_R_TR 4315",
+            "description": "Presentation of professional principles and issues in leisure services. Seminar study resulting in presentations and discussions.",
+            "prerequisites": "Parks, Recreation and Tourism majors",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Operation of Therapeutic Recreation: Procedures and Principles",
+            "number": "P_R_TR 4327",
+            "description": "Theories and principles of leadership and programming as they apply to recreation services for the ill, handicapped, and aged.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Leisure and Aging",
+            "number": "P_R_TR 4328",
+            "description": "Basic understanding of problems/needs of later maturity in relation to recreation. Characteristics/capabilities of aged, program settings, financial support, planning guidelines emphasized. Objectives: provide fundamentals for recreation planning with aged individuals/groups. Offered periodically.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Therapeutic Recreation Education/Counseling Techniques",
+            "number": "P_R_TR 4329",
+            "description": "Techniques and models of leisure facilitation for use within a variety of clinical, residential and Institutional models. Theories of positive/negative leisure engagement reviewed.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Therapeutic Recreation Assessment/Evaluation Procedures",
+            "number": "P_R_TR 4330",
+            "description": "Reviews accepted clinical protocols for determining a client's physical, emotional, social and cognitive levels of functioning. Competencies in administering, scoring and interpreting multiple tools included.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Administration of Outdoor Recreation - Education Programs",
+            "number": "P_R_TR 4331",
+            "description": "(cross-leveled with P_R_TR 7331). Philosophies, essential principles, methods, techniques, resources, administrative and program practices for outdoor recreation and education. Offered periodically.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Park Management",
+            "number": "P_R_TR 4333",
+            "description": "Basic principles, practices and problems involved in managing public park systems. Consideration given to local, district, county, state, federal and foreign park systems.",
+            "prerequisites": "P_R_TR 1011; Restricted to Parks, Recreation and Tourism majors",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Advanced Recreation Land Management",
+            "number": "P_R_TR 4340",
+            "description": "(cross-leveled with P_R_TR 7340).  Advanced study of problems facing forest recreation managers. Topics include rivers recreation, wilderness management and citizen participation in decision making. Offered periodically.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "P_R_TR 1011",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Problems in Parks, Recreation and Tourism",
+            "number": "P_R_TR 4350",
+            "description": "",
+            "prerequisites": "P_R_TR 1011; departmental consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Tourism Management",
+            "number": "P_R_TR 4356",
+            "description": "Introduction to the scope and scale of the tourism industry. Focus on the industry components, concepts, structures, relationships, and issues with regard to accommodation, transportation, travel, regional development, political system, and the economic, social and environmental effects of tourism.",
+            "prerequisites": "P_R_TR 1011",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Tourism Planning and Development",
+            "number": "P_R_TR 4357",
+            "description": "Nature and scope of tourism planning at the local, regional, and national levels; economic social, environmental, and policy considerations. Comparative study of initiating, planning and implementing tourism and the organization of community resources for developing and controlling a tourism industry.",
+            "prerequisites": "P_R_TR 1011 and P_R_TR 4356",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011",
+                "P_R_TR 4356"
+            ]
+        },
+        {
+            "name": "Legal Aspects of Sport",
+            "number": "P_R_TR 4385",
+            "description": "This course studies the U. S. legal system, its structure and terminology.  Legal aspects of contract law, statutory law, constitutional law, intellectual property, torts, negligence, and risk management in sport will be examined.  Graded on A-F basis only.",
+            "prerequisites": "P_R_TR 1011; Restricted to Parks, Recreation, and Tourism majors with Sports Management emphasis or instructor consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Parks, Recreation and Tourism Internship",
+            "number": "P_R_TR 4940",
+            "description": "Supervised professional experience with an approved organization. Course entails weekly reports, case studies, agency evaluations and a special project related to the student's curricular emphasis.  Graded on A-F basis only.",
+            "prerequisites": "P_R_TR 1011 and P_R_TR 3189,  P_R_TR majors only, instructor's consent",
+            "hours": "12",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011",
+                "P_R_TR 3189",
+                "P_R_TR majo"
+            ]
+        },
+        {
+            "name": "Western Canada Study Abroad",
+            "number": "P_R_TR 4949",
+            "description": "This course provides students an educational opportunity to explore Western Canada.  Students analyze natural resource management, customer and visitor relations, community relations, cultural entrepreneurship, and transportation networks with US and Canadian Management methods.",
+            "prerequisites": "P_R_TR 1011; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Independent Research in Parks, Recreation and Tourism",
+            "number": "P_R_TR 4950",
+            "description": "Independent research project in parks, recreation and tourism.  Graded on A-F basis only.",
+            "prerequisites": "P_R_TR 1011; instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 1011"
+            ]
+        },
+        {
+            "name": "Administration of Leisure Services",
+            "number": "P_R_TR 7208",
+            "description": "(cross-leveled with P_R_TR 4208). Theoretical foundations of the organization and administration of leisure services in both community and institutional settings. Emphasis on the roles of the administrator.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Planning Recreation and Leisure Environments",
+            "number": "P_R_TR 7312",
+            "description": "Practical application of basic planning principles and design. Layout and design of various leisure-oriented areas and facilities. Site planning and analysis.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Leisure and Aging",
+            "number": "P_R_TR 7328",
+            "description": "Basic understanding of problems/needs of later maturity in relation to recreation. Characteristics/capabilities of aged, program settings, financial support, planning guidelines emphasized. Objectives: provide fundamentals for recreation planning with aged individuals/groups. Offered periodically. .",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Administration of Outdoor Recreation - Education Programs",
+            "number": "P_R_TR 7331",
+            "description": "(cross-leveled with P_R_TR 4331). Philosophies, essential principles, methods, techniques, resources, administrative and program practices for outdoor recreation and education. Offered periodically.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Park Management",
+            "number": "P_R_TR 7333",
+            "description": "Basic principles, practices and problems involved in managing public park systems. Consideration given to local, district, county, state, federal and foreign park systems.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Recreation Land Management",
+            "number": "P_R_TR 7340",
+            "description": "(cross-leveled with P_R_TR 4340). Advanced study of problems facing forest recreation managers. Topics include rivers recreation, wilderness management and citizen participation in decision making. Offered periodically.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Private and Commercial Recreation Principles and Practice",
+            "number": "P_R_TR 7355",
+            "description": "Considers principles, practices, influences in public/ private leisure services; influence of tourism/travel on public/private recreation services.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Tourism Management",
+            "number": "P_R_TR 7356",
+            "description": "Introduction to the scope and scale of the tourism industry. Focus on the industry components, concepts, structures, relationships, and issues with regard to accommodation, transportation, travel, regional development, political system, and the economic, social and environmental effects of tourism.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Tourism Planning and Development",
+            "number": "P_R_TR 7357",
+            "description": "Nature and scope of tourism planning at the local, regional, and national levels; economic social, environmental, and policy considerations. Comparative study of initiating, planning and implementing tourism and the organization of community resources for developing and controlling a tourism industry.",
+            "prerequisites": "P_R_TR 7356",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_R_TR 7356"
+            ]
+        },
+        {
+            "name": "Guided Reading in Parks, Recreation and Tourism",
+            "number": "P_R_TR 7960",
+            "description": "Selected reading in parks, recreation and tourism identified to fulfill a graduate student's academic needs or specialized interests.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Foundations of Sport",
+            "number": "P_R_TR 8080",
+            "description": "This course focuses on the business side of sport management, primarily considering issues of marketing, sponsorship, and sales. In this, students will not only supplement knowledge of these concepts, but also be presented with actual models relevant to working in sales in the competitive sport environment. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Parks, Recreation and Tourism",
+            "number": "P_R_TR 8085",
+            "description": "Independent research on special projects.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Masters Level Graduate Seminar in Parks, Recreation and Tourism",
+            "number": "P_R_TR 8087",
+            "description": "In this course, students and faculty will discuss and critically analyze contemporary issues on social concerns relating to leisure services.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sport and Leisure Economics",
+            "number": "P_R_TR 8088",
+            "description": "This course focuses on the business side of sport management, primarily considering issues of marketing, sponsorship, and sales. In this, students will not only supplement knowledge of these concepts, but also be presented with actual models relevant to working in sales in the competitive sport environment. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research Project",
+            "number": "P_R_TR 8089",
+            "description": "Individual research on approved project. Involves creativity and scholarly inquiry where product does not adhere to the traditional thesis format. Graded on S/U basis only.",
+            "prerequisites": "Parks, Recreation and Tourism graduate major",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Thesis Research in Parks, Recreation and Tourism",
+            "number": "P_R_TR 8090",
+            "description": "Research leading to thesis in field of parks, recreation and tourism. Graded on S/U basis only.",
+            "prerequisites": "Parks, Recreation and Tourism graduate major",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Constructs of Leisure",
+            "number": "P_R_TR 8400",
+            "description": "Review analysis and implications of fundamental psycho-social determinants of leisure behavior. Application theories of determinants to existing and proposed leisure service systems.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Recreation and Park Administration",
+            "number": "P_R_TR 8401",
+            "description": "Specialized topics in recreation and park administration dynamics. Subjects and credits vary by semester based on available faculty resources and expertise. Course content announced in advance.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Independent Work in Parks, Recreation and Tourism",
+            "number": "P_R_TR 8411",
+            "description": "Independent research or special projects in parks, recreation and tourism.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Leisure, Technology and Human Values",
+            "number": "P_R_TR 8420",
+            "description": "Study of the developmental patterns of leisure services in society with emphasis to the dynamics of technology and leisure on individual and social values.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Contemporary Issues in Therapeutic Recreation",
+            "number": "P_R_TR 8427",
+            "description": "The course will include new issues and ideas in the field of therapeutic recreation, such as registration, insurance, liability, licensure, assessment, etc., and how they relate to practitioners and services to clients.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research Methods in Parks, Recreation and Tourism",
+            "number": "P_R_TR 8430",
+            "description": "Analysis of basic research methodology. Review and analysis of research work completed in recreation, park and leisure field.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Visitor Behavior and Policy",
+            "number": "P_R_TR 8436",
+            "description": "Course presents issues, concerns and policies dealing with multi-management/planning/operations of outdoor resource based recreation. Such issues as energy, economics, social/ political, pollution and user characteristics will be studied.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Philosophical Perspectives of Leisure",
+            "number": "P_R_TR 8440",
+            "description": "Study of the theoretical and philosophical perspective of leisure in society with emphasis on integration and development of the student's personal and professional viewpoint.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Administration in Leisure Service Delivery",
+            "number": "P_R_TR 8450",
+            "description": "Review, analysis and synthesis of administrative functions as related to public and private recreation and leisure service enterprises.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Financial Operations in Leisure Service Delivery",
+            "number": "P_R_TR 8460",
+            "description": "Review and critical analysis of financial functions, strategies and methodology as related to public and private recreation and leisure service enterprises.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internship in Parks, Recreation and Tourism",
+            "number": "P_R_TR 8940",
+            "description": "Supervised student practice in recreation, park or related settings under qualified instructor.",
+            "prerequisites": "Parks, Recreation and Tourism graduate major",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "department_name": "Environmental Studies",
+    "department_code": "ENV_ST",
+    "courses": [
+        {
+            "name": "Introduction to Ecological Economics",
+            "number": "ENV_ST 2070",
+            "description": "(same as  AG_EC 2070). Examines current environmental and natural resource issues using a systems perspective and key economic concepts. Explores connections between the environment and the economy based on problems at the local, national, and international levels.",
+            "prerequisites": "ENGLSH 1000 and sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
+        },
+        {
+            "name": "Topics in Environmental Sciences",
+            "number": "ENV_ST 2101",
+            "description": "Selected topics not in regularly offered courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Environmental Sustainability",
+            "number": "ENV_ST 2110",
+            "description": "Students will asses availability of key resources, estimate sustainable rates of use and develop plans for aligning current and sustainable rates of use using personal, business and government strategies. Graded A-F only.",
+            "prerequisites": "ENGLSH 1000 and one introductory environmental course",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
+        },
+        {
+            "name": "Directed Independent Study",
+            "number": "ENV_ST 2150",
+            "description": "Working with Environmental Studies you will find and develop a research project or an internship with the university, a government agency, a business or a non-profit agency. The project will be directed towards solving an environmental problem.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Natural History of Missouri",
+            "number": "ENV_ST 3000",
+            "description": "This class deals with the characteristics of natural ecological communities of Missouri and with the skills needed to observe, record and interpret those characteristics. Graded on A-F basis only.  ",
+            "prerequisites": "  MATH 1100 and ENGLSH 1000",
+            "hours": ": 2",
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000",
+                "MATH 1100"
+            ]
+        },
+        {
+            "name": "Topics in Environmental Studies",
+            "number": "ENV_ST 4310",
+            "description": "This course covers topics not covered in regularly offered courses.  Students are expected to combine skills, knowledge and perspectives from the natural and social science to analyze selected environmental problems.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Modeling Environmental Problems",
+            "number": "ENV_ST 4350",
+            "description": "This course covers modeling environmental problems as systems. Modeling incorporates rates of changes, feedback loops, short/long term signals, inertia, upstream causes, interventions, implementing interventions and unintended consequences. Graded on A-F basis only.",
+            "prerequisites": "9 hours natural science courses and junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Modeling Environmental Problems",
+            "number": "ENV_ST 7350",
+            "description": "Course covers modeling environmental problems as systems.  Modeling incorporates rates of change, feedback loops, short/long term signals, inertia, upstream causes, interventions, implementing interventions, unintended consequences and predicting outcomes of major shocks (oil prices, pandemics, climate change).  Graded on A-F basis only.",
+            "prerequisites": "9 hours natural science",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

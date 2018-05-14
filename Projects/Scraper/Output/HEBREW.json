@@ -1,0 +1,71 @@
+{
+    "department_name": "Hebrew",
+    "department_code": "HEBREW",
+    "courses": [
+        {
+            "name": "Elementary Hebrew I",
+            "number": "HEBREW 1100",
+            "description": "For beginners with no prior knowledge of Hebrew. Five hours of classroom instruction, with one hour lab work weekly.",
+            "prerequisites": "None Listed",
+            "hours": "6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Elementary Hebrew II",
+            "number": "HEBREW 1200",
+            "description": "Five hours of classroom instruction, with one hour lab work weekly.",
+            "prerequisites": "C- or better in HEBREW 1100, or equivalent",
+            "hours": "6",
+            "recommendation": "None Listed",
+            "connections": [
+                "HEBREW 1100"
+            ]
+        },
+        {
+            "name": "Topics in Hebrew-General",
+            "number": "HEBREW 2001",
+            "description": "Organized study of selected topics. Subjects and topics may vary semester to semester. May be repeated with departmental consent.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Hebrew - Humanities",
+            "number": "HEBREW 2005",
+            "description": "Organized study of selected topics. Subjects and topics may vary semester to semester. May be repeated with departmental consent. No knowledge of Hebrew required. No language credit.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Hebrew",
+            "number": "HEBREW 3085",
+            "description": "Supervised study of Hebrew language and/or culture.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Israeli Culture",
+            "number": "HEBREW 3310",
+            "description": "Examines unique qualities that shape modern Israeli culture; looks at major social and political events that have shaped ethnicity, ideology, religion, identity, and diversity of the State of Israel. Discusses literature, the fine arts, language, and the mass media. No Foreign Language credit. Graded on A-F basis only.",
+            "prerequisites": "sophomore standing or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Modern Israeli Film",
+            "number": "HEBREW 3845",
+            "description": "(same as FILM_S 3845). Examines the modern film of developing Israel. Discusses complex social relationships. Introduces concepts of Hebrew language and its use in the arts world-wide. Discusses varied communities in Israel, and universal themes such as democracy and social justice. Provides introduction to Israeli culture. Graded on A-F basis only.",
+            "prerequisites": "sophomore standing or instructor's consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

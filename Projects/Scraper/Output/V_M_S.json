@@ -1,0 +1,1253 @@
+{
+    "department_name": "Veterinary Medicine And Surgery",
+    "department_code": "V_M_S",
+    "courses": [
+        {
+            "name": "Topics in Veterinary Medicine",
+            "number": "V_M_S 6001",
+            "description": "Current topics, infrequently-taught courses, or new courses not yet designated by a permanent course number. Some sections may be graded A-F only or S/U only. Course instructor consent prior to enrollment is required.",
+            "prerequisites": "Restricted to Veterinary Medicine students",
+            "hours": "0.5-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Skills",
+            "number": "V_M_S 6005",
+            "description": "A hands -on laboratory class to provide experience with handling and examining Horses, Cattle, Small ruminants and Camelid species, Cats and Dogs for veterinary students.",
+            "prerequisites": "first year veterinary students.  Graded on S/U basis only",
+            "hours": "0.5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Skills",
+            "number": "V_M_S 6006",
+            "description": "A hands -on laboratory class to provide experience with handling and examining Horses, Cattle, Small ruminants and Camelid species, Cats and Dogs for veterinary students. Graded on S/U basis only.",
+            "prerequisites": "first year veterinary students",
+            "hours": "0.5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Evaluated Veterinary Preceptorship",
+            "number": "V_M_S 6010",
+            "description": "This required co-op style course provides the student with practical exposure and experience in nonacademic veterinary medicine.  Duration of 2-6 weeks. Graded on S/U basis only.",
+            "prerequisites": "VM-3 standing",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Radiology with Laboratory",
+            "number": "V_M_S 6020",
+            "description": "Introduces through lectures and demonstrations the principles of radiographic examination and interpretation of disease processes of domestic animals. Instructional period 8.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Anesthesiology with Laboratory",
+            "number": "V_M_S 6030",
+            "description": "Basic principles of anesthesiology for any species of domestic and exotic animals. Instructional period 9.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Companion Animal Medicine with Laboratory",
+            "number": "V_M_S 6040",
+            "description": "Covers basic principles of veterinary internal medicine and selected subdisciplines. Instructional period 9.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Medicine",
+            "number": "V_M_S 6050",
+            "description": "Didactic presentations regarding pathophysiology, diagnosis and therapeutic management of organ system diseases in small animals.",
+            "prerequisites": "None Listed",
+            "hours": "2.5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Surgery with Laboratory",
+            "number": "V_M_S 6060",
+            "description": "Basic principles including suture materials, suture patterns,operative techniques, wound healing, and body system approach to soft tissue surgery conditions.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Surgery",
+            "number": "V_M_S 6071",
+            "description": "Continuation of V_M_S 6060 lectures, focusing primarily on orthopedics.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Optional Surgery and Anesthesia Laboratory",
+            "number": "V_M_S 6072",
+            "description": "Designed to teach entry-level surgical and anesthesia skills using models, live animals, and cadavers. This laboratory is offered as a substitute to V_M_S 6073 for students who wish to gain anesthesia and surgical experience with live tissues. Graded on S/U basis only.",
+            "prerequisites": "V_M_S 6060",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6060"
+            ]
+        },
+        {
+            "name": "Fundamental Surgery Laboratory",
+            "number": "V_M_S 6073",
+            "description": "Designed to teach entry-level surgical skills using models and cadavers. Canine cadavers will be substituted for pigs in the first two celiotomy laboratories. Students will not anesthetize pigs but will observe clinical anesthesia by following one clinical case from start to finish. Graded on S/U basis only.",
+            "prerequisites": "complete V_M_S 6060",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6060"
+            ]
+        },
+        {
+            "name": "Food Animal Medicine and Surgery",
+            "number": "V_M_S 6081",
+            "description": "Covers the important diseases of cattle, goats, sheep, camelids, and swine recognition, management and prevention of diseases are stressed.",
+            "prerequisites": "None Listed",
+            "hours": "2.5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Food Animal Medicine and Surgery",
+            "number": "V_M_S 6082",
+            "description": "Continuation of V_M_S 6081. Covers the important diseases of cattle, goats, sheep, camelids, and swine recognition, management and prevention of diseases are stressed.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Emergency and Critical Care with Laboratory",
+            "number": "V_M_S 6090",
+            "description": "Basic principles of emergency and critical care of companion animals, and body system approach to emergency and critical care.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Theriogenology",
+            "number": "V_M_S 6110",
+            "description": "Reproductive function, estrous cycle manipulation, and breeding of individual domestic animals and herds. Pathogenesis, diagnosis and management (medical and surgical) of common reproductive disorders.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Ophthalmology",
+            "number": "V_M_S 6120",
+            "description": "Covers examination, diagnostic procedures and treatment of important eye diseases of domestic animals.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Fundamentals of Veterinary Business Management",
+            "number": "V_M_S 6130",
+            "description": "To realistically present to the second-year veterinary student a basic explanation of the essential need for strong base of knowledge pertaining to business and management in order to be successful in the veterinary profession.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Nutrition with Laboratory",
+            "number": "V_M_S 6140",
+            "description": "Nutrition of companion and food producing animals and nutritional principles important to veterinary medicine. Subjects presented include feeding of animals for maintenance of healthy conditions during all life stages, evaluation of foods and supplements, and methods of diet formulation and evaluation.",
+            "prerequisites": "None Listed",
+            "hours": "1.5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Equine Medicine and Surgery",
+            "number": "V_M_S 6151",
+            "description": "Covers the fundamentals of diseases of the equine species. Case Management approaches are utilized to provide examples of disease conditions.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Equine Medicine and Surgery",
+            "number": "V_M_S 6152",
+            "description": "Continuation of V_M_S 6151. Covers the fundamentals of diseases of the equine species. Case Management approaches are utilized to provide examples of disease conditions.",
+            "prerequisites": "None Listed",
+            "hours": "1.5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Food Animal Medicine and Surgery I",
+            "number": "V_M_S 6400",
+            "description": "Clinical Rotation. Technical, diagnostic and therapeutic procedures common to the practice of large animal medicine and surgery. Experience in the operation of a large animal hospital and farm outpatient practice.",
+            "prerequisites": "None Listed",
+            "hours": "6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Internal Medicine",
+            "number": "V_M_S 6411",
+            "description": "Clinical rotation in small animal internal medicine for veterinary degree students.  Students will obtain history and conduct physical examination of client-owned dogs and cats.  After reviewing findings with faculty, they will perform diagnostic tests and carry out treatments.  Graded on A-F basis only.  May be repeated for credit.",
+            "prerequisites": "the entire pre-clinical curriculum of the CVM must be completed before taking ;this course; that is, students must have successfully completed the DVM curriculum through instruction period 12.  Restricted to students in years 3 and 4 of the DVM curriculum",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Community Practice",
+            "number": "V_M_S 6412",
+            "description": "Clinical rotation in small animal general medicine and surgery for veterinary degree students.  Students will obtain history and conduct physical examination of client-owned dogs and cats.  After reviewing findings with faculty, they will perform diagnostic tests and carry out treatments. The entire course may not be repeated for credit but smaller sections may with approval.",
+            "prerequisites": "the entire pre-clinical curriculum of the CVM must be completed before taking this course; students must have successfully completed the DVM curriculum through instructional period 12.  Restricted to students in years 3 and 4 of the DVM curriculum",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Behavior and Dermatology",
+            "number": "V_M_S 6413",
+            "description": "The Small Animal Behavior and Dermatology Rotation is designed to give students experience in the evaluation and management of dogs and cats with behavioral problems and to provide students with hands-on experience in the evaluation, diagnosis and management of dermatology cases. During the rotation the student will develop skills in history taking, behavioral evaluations, dermatology examinations and diagnostic procedures and in the management of behavioral and dermatology cases. Graded on A-F basis only.",
+            "prerequisites": "Restricted to third- and fourth-year Veterinary Medicine students",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Equine Medicine and Surgery I",
+            "number": "V_M_S 6420",
+            "description": "Clinical rotation. Technical, diagnostic and therapeutic procedures common to equine practice. Emphasis on fundamental principles.",
+            "prerequisites": "None Listed",
+            "hours": "6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Surgery I",
+            "number": "V_M_S 6430",
+            "description": "Diagnostic procedures and surgical techniques applicable to companion animal surgery. Practical experience in the operation of a small animal surgical practice. Six times per year.",
+            "prerequisites": "None Listed",
+            "hours": "6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Soft Tissue Surgery",
+            "number": "V_M_S 6432",
+            "description": "Clinical rotation. Diagnostic procedures and surgical techniques applicable to companion animal soft tissue surgery. Practical experience in the operation of a small animal soft tissue surgical practice.",
+            "prerequisites": "completion of Vet Med years 1 and 2 and specifically V_M_S 6072 or V_M_S 6073",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6072",
+                "V_M_S 6073"
+            ]
+        },
+        {
+            "name": "Small Animal Orthopedic Surgery",
+            "number": "V_M_S 6434",
+            "description": "Clinical rotation. Diagnostic procedures and surgical techniques applicable to companion animal orthopedic surgery. Practical experience in the operation of a small animal orthopedic surgical practice. Graded on A-F basis only.",
+            "prerequisites": "completion of Veterinary Medicine years 1 and 2",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Neurology/Neurosurgery",
+            "number": "V_M_S 6436",
+            "description": "Clinical rotation. A hands-on applied clinical rotation to provide experience in examination and diagnosis of domestic animals with neurologic disease.",
+            "prerequisites": "completion of preclinical curriculum of Veterinary Medicine years 1 and 2. Restricted to VM3 and VM4 students",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Radiology I",
+            "number": "V_M_S 6441",
+            "description": "Clinical rotation. Fundamentals of radiology: indications for use, techniques, pathophysiologic alterations, interpretation of results, patient aftercare, protective measures against radiation hazards.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Anesthesiology I",
+            "number": "V_M_S 6442",
+            "description": "Clinical rotation. Fundamentals of anesthesiology: indications for use techniques, pathophysiologic alterations, and interpretations of results, patient aftercare.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Theriogenology I",
+            "number": "V_M_S 6450",
+            "description": "Clinical rotation. Practical experience in reproductive techniques, obstetrics, breeding soundness and herd reproductive problems.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Ophthalmology I",
+            "number": "V_M_S 6460",
+            "description": "Clinical rotation. Practical application in problem solving and medical and surgical management of eye conditions of domestic animals.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cardiology",
+            "number": "V_M_S 6480",
+            "description": "Cardiology",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Specialty Medicine I",
+            "number": "V_M_S 6490",
+            "description": "Clinical rotation in small animal oncology. Taught in the clinical setting using animals presented to the VMTH for evaluation and treatment of oncologic diseases.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Food Animal Medicine and Surgery II Elective",
+            "number": "V_M_S 6700",
+            "description": "Additional food animal experience located off-site or on-site under special circumstances.",
+            "prerequisites": "V_M_S 6400. Consent required",
+            "hours": "2-6",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6400"
+            ]
+        },
+        {
+            "name": "Small Animal Medicine II Elective",
+            "number": "V_M_S 6710",
+            "description": "Clinical rotation offered to VM3 and VM4 students. Opportunity for concentrated study and experience in medical areas. Enrollment subject to approval of course coordinator.",
+            "prerequisites": "The entire pre-clinical curriculum of the CVM must be completed before taking this course",
+            "hours": "2-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Internal Medicine Elective Clinical or Research Rotation",
+            "number": "V_M_S 6711",
+            "description": "Clinical rotation in SAIM to focus on either clinical diagnostics and therapy, or research relevant to clinically important issues of pet animals.",
+            "prerequisites": "Veterinary curriculum up until the clinical rotations; must be VM3 or VM4 students",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Private Practice Small Animal Internal Medicine Elective",
+            "number": "V_M_S 6712",
+            "description": "Clinical rotation. Improve critical thinking skills in disease diagnosis and management for internal medicine of dogs and cats. Clinical rotation off-site at Associated Veterinary Specialists. Teaching by cases seen by AVS clinician on duty. Student participation determined by supervising clinician.",
+            "prerequisites": "All required VM1 and VM2 courses. VM3 or VM4 standing required",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Shelter Medicine Elective at the Humane Society of Missouri",
+            "number": "V_M_S 6713",
+            "description": "Comprehensive shelter medicine rotation at Humane Society of Missouri.",
+            "prerequisites": "Restricted to VM3 and VM4 students",
+            "hours": "2-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Equine Medicine and Surgery II Elective",
+            "number": "V_M_S 6720",
+            "description": "Clinical rotation. Continuation of V_M_S 6420. Open to VM3 and VM4 students, subject to approval of course coordinator. Opportunity for concentration in specific area of interest.",
+            "prerequisites": "None Listed",
+            "hours": "2-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Surgery II Elective",
+            "number": "V_M_S 6730",
+            "description": "Opportunity for concentration study and advanced surgical experience.",
+            "prerequisites": "V_M_S 6430 or equivalent",
+            "hours": "3-6",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6430"
+            ]
+        },
+        {
+            "name": "Small Animal Soft Tissue Surgery II Elective",
+            "number": "V_M_S 6732",
+            "description": "Clinical rotation. Opportunity for concentrated study and advanced soft tissue surgical experience.",
+            "prerequisites": "V_M_S 6432 and completion of year VM1 and VM2",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6432"
+            ]
+        },
+        {
+            "name": "Small Animal Orthopedic Surgery II Elective",
+            "number": "V_M_S 6734",
+            "description": "Clinical rotation. Opportunity for concentrated study and advanced orthopedic surgical experience.",
+            "prerequisites": "completion of VM years 1 and 2",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Neurology/ Neurosurgery-Elective",
+            "number": "V_M_S 6736",
+            "description": "A hands-on applied clinical rotation to provide experience in examination and diagnosis of domestic animals with neurologic disease.",
+            "prerequisites": "completion of preclinical curriculum of Veterinary Medicine years 1 and 2. Restricted to VM3 and VM4 students",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Radiology II Elective",
+            "number": "V_M_S 6741",
+            "description": "Clinical rotation. Continuation of V_M_S 6441.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Anesthesiology II Elective",
+            "number": "V_M_S 6742",
+            "description": "Clinical rotation. Continuations of V_M_S 6442. This course will focus on anesthetizing and monitoring the more challenging anesthetic cases during rotation. Required projects include a review paper on a relevant topic of choice, a written case report and assistance in research activities.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Radiology - Special Imaging Elective",
+            "number": "V_M_S 6743",
+            "description": "Introduction to special imaging modalities including ultrasound, computed tomography, magnetic resonance and nuclear scintigraphy with emphasis towards small animal patients.  A major part of the course will be devoted to recognition and interpretation of abdominal ultrasound.  Graded on A-F basis only.  ",
+            "prerequisites": " V_M_S 6020; VM III and VM IV",
+            "hours": "2-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6020"
+            ]
+        },
+        {
+            "name": "Veterinary Radiation Oncology -Clinical Elective",
+            "number": "V_M_S 6744",
+            "description": "Training in radiation therapy planning, treatment execution, and case management. Develop a better understand of the radiation therapy patient, including side effects of therapy and expected outcomes, that will position them to be quality collaborators on radiation therapy cases as referring veterinarians. Graded on A-F basis only.",
+            "prerequisites": "completed and passed the preclinical veterinary curriculum",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Theriogenology II Elective",
+            "number": "V_M_S 6750",
+            "description": "Continuation of V_M_S  6450. Opportunity for concentrated study and experience. An elective, subject to approval of course coordinator and faculty member(s) who supervise student's work.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "External Food Animal Service and Theriogenology Teaching Program",
+            "number": "V_M_S 6751",
+            "description": "Additional options for off-site clinical training in Theriogenology and Food Supply Veterinary Medicine beyond the core curriculum.",
+            "prerequisites": "V_M_S 6081, V_M_S 6082,  V_M_S 6110, and VM3 or VM4 students",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6081",
+                "V_M_S 6082",
+                "V_M_S 6110"
+            ]
+        },
+        {
+            "name": "Small Animal Nutrition",
+            "number": "V_M_S 6760",
+            "description": "Clinical rotation designed to allow students to gain hands-on experience with canine and feline nutrition.",
+            "prerequisites": "V_M_S 6140. Restricted to VM3 or VM4",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6140"
+            ]
+        },
+        {
+            "name": "Herd Health Management and Nutrition II Elective",
+            "number": "V_M_S 6770",
+            "description": "Concentrated study/experience in feed lot, dairy, cow/calf swine herd agribusiness enterprises applicable to veterinary practice.",
+            "prerequisites": "V_M_S 6400 and VM-4 status",
+            "hours": "2-6",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6400"
+            ]
+        },
+        {
+            "name": "Clinical Ophthalmology II Elective",
+            "number": "V_M_S 6800",
+            "description": "Clinical rotation offered to VM  3 and VM 4 students. Opportunity for concentrated study and experience.  Subject to approval of course coordinator and faculty member(s) who supervise student's work.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cardiology II Elective",
+            "number": "V_M_S 6810",
+            "description": "Cardiology course consists of a three-week clinical rotation in the small animal clinic.  Duties include primary care receiving and patient care with clinical case work-up.  Additional responsibilities include attendance at clinical rounds and participating in related clinical activities.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Emergency and Critical Care",
+            "number": "V_M_S 6820",
+            "description": "Clinical rotation offered to VM 3 and VM 4 students.  Opportunity for concentrated study and experience in small animal emergency and critical care.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Emergency Critical Care Elective",
+            "number": "V_M_S 6821",
+            "description": "Clinical rotation providing focused experience in care management and issues pertinent to small animal emergency and critical care.  Graded on A-F basis only.  May be repeated for credit.",
+            "prerequisites": "Restricted to levels VM 3 or VM 4",
+            "hours": "2-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Food Animal Production Medicine",
+            "number": "V_M_S 6830",
+            "description": "Clinical rotation will focus primarily on beef, dairy, and swine with emphasis on preventive medicine by looking at the herd incorporating spreadsheet and the date base application analysis.  The course participants will visit various operations and write reports to the producer, which will enhance their farms.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Oncology",
+            "number": "V_M_S 6850",
+            "description": "Clinical rotation in small animal oncology.  Taught in the clinical setting using animals presented to the VMTH for evaluation and treatment of oncologic diseases.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Equine Techniques Elective",
+            "number": "V_M_S 6920",
+            "description": "This course provides an opportunity for equine oriented veterinary students wishing to enhance their understanding of the clinical techniques used in equine veterinary medicine and gain hands on practical experience in selected clinical techniques.  It is offered as a 2 credit, 2 week elective clinical rotation.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Clinical Neurology and Neurosurgery",
+            "number": "V_M_S 6986",
+            "description": "This is a supplement to neurology taught in the small animal course to improve preparedness for clinical practice. Topics include neurolocalization techniques, electrodiagnostic and CT/MR interpretation, wider exposure to differential diagnosis, and neurosurgical principals.",
+            "prerequisites": "Passing grade in V_M_S 6040",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6040"
+            ]
+        },
+        {
+            "name": "Problem-Based Learning Clinic Preparation",
+            "number": "V_M_S 6987",
+            "description": "This course is designed to prepare the VM 3 student about to enter clinics for a systematic approach to a clinical case.  Emphasis will be placed on developing focused problem and differential lists, and logical choices of diagnostic tests. Graded on S/U basis only.",
+            "prerequisites": "VM 3 level",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Clinical Nutrition",
+            "number": "V_M_S 6988",
+            "description": "Application of nutritional principles to prevention and management of common diseases of dogs and cats.  Including review of nutrients, commercial and home diets, and basic pathophysiology of nutritional aspects of disorders seen in companion animal practice.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Oncology of Animals",
+            "number": "V_M_S 6989",
+            "description": "Expanded discussion of veterinary oncology topics not covered in the oncology section V_M_S 6050.  Important for veterinary students who intend to enter private or academic practice and manage oncology cases, specific tumor types, diagnostic tools, and treatment modalities.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Zoological Medicine",
+            "number": "V_M_S 6990",
+            "description": "Interested students of Zoological Medicine would significantly broaden their understanding of this discipline and increase the likelihood they could enter zoological veterinary practice or a zoological veterinary medical residency.  Graded on A-F basis only",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Equine Lameness with Laboratory",
+            "number": "V_M_S 6991",
+            "description": "Learn to recognized forelimb and hind limb lameness through diagnostic techniques for localization of lameness.  Gain practical experience in limb support for sever musculoskeletal injuries.  One surgical laboratory using equine cadaver limbs to illustrate and practice common distal limb surgeries.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Endoscopy",
+            "number": "V_M_S 6992",
+            "description": "Small Animal Endoscopy",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Veterinary Anesthesia",
+            "number": "V_M_S 6993",
+            "description": "Advanced Veterinary Anesthesia",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Techniques in Small Animal Surgery with Laboratory",
+            "number": "V_M_S 6994",
+            "description": "Course designed for students who want exposure to small animal surgical techniques above and beyond the experience gained from the basic surgical training in V_M_S.",
+            "prerequisites": "V_M_S 6072; limited enrollment",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6072"
+            ]
+        },
+        {
+            "name": "Clinical Cardiology",
+            "number": "V_M_S 6995",
+            "description": "Students will utilize a combination of lectures, hands on laboratories, and problem based clinical correlates covering cardiovascular physical examination, radiographic and electrocardiographic interpretation, and the pathophysiology and management of congenital and acquired cardiac diseases.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Dermatology",
+            "number": "V_M_S 6996",
+            "description": "This is a lecture course that will supplement and expand upon the canine and feline dermatology principles covered in the general pathology and small animal medicine courses.  Graded on A-F basis only.",
+            "prerequisites": "V_M_S 6050",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "V_M_S 6050"
+            ]
+        },
+        {
+            "name": "Food Animal Diagnostic Exercises",
+            "number": "V_M_S 6997",
+            "description": "Discussion based course designed to integrate and review didactic coursework to increase knowledge of livestock diseases.  A list of appropriate differential diagnoses will be generated for each problem.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Small Animal Behavioral Medicine",
+            "number": "V_M_S 6998",
+            "description": "Small Animal Behavioral Medicine",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Food Animal Surgery Laboratory",
+            "number": "V_M_S 6999",
+            "description": "Routine food animal surgical procedures laboratory.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Veterinary Medicine and Surgery",
+            "number": "V_M_S 7301",
+            "description": "Organized study of select topics.",
+            "prerequisites": "junior standing and instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Topics in Veterinary Anesthesia",
+            "number": "V_M_S 7303",
+            "description": "(same as V_M_S 6993).",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Equine Surgery",
+            "number": "V_M_S 7304",
+            "description": "The purpose of the course is to aid in the preparation of the resident for Board certification in the American College of Veterinary Surgeons.",
+            "prerequisites": "a DVM or equivalent degree, acceptance to the graduate school, acceptance to the residency program, and instructor approval",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Fundamentals of Small Animal Emergency and Critical Care",
+            "number": "V_M_S 7320",
+            "description": "(cross-leveled with BIOMED 4320). This course will provide students with the knowledge and skills to assist in a small animal medical emergency and critical care facility.",
+            "prerequisites": "a bachelor's degree in biological science or veterinary technology, or DVM degree, or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introductory Radiation Biology",
+            "number": "V_M_S 7328",
+            "description": "(same as RADIOL 7328, NU_ENG 7328, BIO_SC 7328).",
+            "prerequisites": "junior standing Sciences/Engineering; one course in biological sciences and physics/chemistry; or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Surgical Techniques",
+            "number": "V_M_S 7351",
+            "description": "Special application to large, small animals.",
+            "prerequisites": "D.V.M",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Techniques in Radiology",
+            "number": "V_M_S 7355",
+            "description": "Special application to domestic animals.",
+            "prerequisites": "D.V.M",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Orthopaedic Biomechanics",
+            "number": "V_M_S 7370",
+            "description": "(same as BIOL_EN 7370). Engineering sciences will be leverage to create a comprehensive study of orthopaedic biomechanics.  The tissue mechanics of bone and soft tissue will be studied along with applying structural analysis of the musculoskeletal system. Graded on A-F basis only.",
+            "prerequisites": "ENGINR 1200, BIOL_EN 3170; departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOL_EN 3170",
+                "ENGINR 1200"
+            ]
+        },
+        {
+            "name": "Problems in Veterinary Medicine and Surgery",
+            "number": "V_M_S 7385",
+            "description": "Studies in specific areas of veterinary medicine and surgery.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Equine Clinical Anatomy: Forelimbs",
+            "number": "V_M_S 7510",
+            "description": "Basic Foundation in selected aspects of equine clinical anatomy for veterinary technicians, pre-veterinary students, and other students wishing to enhance their understanding of anatomical structure of the horse's forelimbs.",
+            "prerequisites": "A bachelor's degree in a biological science or veterinary technology, or DVM degree, or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Neurology Journal Review",
+            "number": "V_M_S 8021",
+            "description": "Weekly journal review and seminar on current topics in veterinary neurology, related clinical disciplines and basic neurosciences. Graded on S/U basis only.",
+            "prerequisites": "DVM degree",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internal Medicine Clinicopathologic Conference",
+            "number": "V_M_S 8022",
+            "description": "Advanced discussion of small animal medicine cases with an emphasis on pathophysiology and clinicopathologic findings.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internal Medicine Journal Review",
+            "number": "V_M_S 8023",
+            "description": "Resident led review of the current veterinary internal medicine literature.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Medicine-Surgery-Pathology Conference",
+            "number": "V_M_S 8024",
+            "description": "This is a case-based course in which clinical and pathological findings of interesting cases from the VMTH are presented by those who treated and interpreted the case.  Dogs, cats, cows, horses, and small ruminants  are included with occasional non-traditional species. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Equine Medicine Journal Review",
+            "number": "V_M_S 8025",
+            "description": "Aid Residents in preparing for board certification in ACVIM and ACVS.  Articles pertaining to current equine veterinary literature are reviewed on a weekly basis.  Participants select, distribute articles to group prior to meeting, then present short review with a discussion following.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Surgery Journal Review",
+            "number": "V_M_S 8026",
+            "description": "Resident led review of the current veterinary surgical peer-reviewed literature. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Food Animal Medicine Journal Review",
+            "number": "V_M_S 8027",
+            "description": "Critical review of the scientific literature with a focus on ACVIM board preparation.  May also be used as a forum for information exchanged relevant to ACVIM board preparation.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cardiovascular Medicine Journal Review",
+            "number": "V_M_S 8028",
+            "description": "Resident led review of  the current veterinary cardiovascular medicine literature.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Emergency and Critical Care Journal Review",
+            "number": "V_M_S 8029",
+            "description": "This course will concentrate on review of emergency and critical care literature. Graded on S/U basis only.",
+            "prerequisites": "DVM degree",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminars in Vet. Med. & Surgery: Ophthalmology Pathology Seminar",
+            "number": "V_M_S 8030",
+            "description": "Review of clinical cases presented in two formats: histopathology slides and kodachrome slides. Graded on S/U basis only.",
+            "prerequisites": "DVM degree or equivalent and acceptance into an ophthalmology residency program",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sem. in Vet. Med & Surgery: Ophthalmology Seminar & Journal Review",
+            "number": "V_M_S 8031",
+            "description": "Weekly journal review and seminar on current topics in veterinary ophthalmology, review of pertinent literature in human ophthalmology, and review of ophthalmic texts. Graded on S/U basis only.",
+            "prerequisites": "DVM or equivalent degree and acceptance into the ophthalmology residency program",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminars in Veterinary Anesthesiology",
+            "number": "V_M_S 8032",
+            "description": "A journal review will focus on advances in veterinary anesthesiology, pharmacology, and physiology. Graded on S/U basis only.",
+            "prerequisites": "DVM and graduate school enrollment or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminars in Clinical Sciences-Equine Surgery Journal Review",
+            "number": "V_M_S 8033",
+            "description": "Journal review will focus on advances in equine surgery and will consist of a review of recent manuscripts pertaining to equine surgery in current journals and review of pertinent book chapters. Graded on S/U basis only.",
+            "prerequisites": "DVM degree and instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminars in Veterinary Radiology",
+            "number": "V_M_S 8034",
+            "description": "This journal review will focus on advances in veterinary radiology, ultrasound and alternate imaging.  Current and past literature will be reviewed weekly and will be chosen by the class coordinator. Graded on S/U basis only.",
+            "prerequisites": "DVM and graduate school enrollment or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Current Topics in Veterinary Clinical Nutrition",
+            "number": "V_M_S 8035",
+            "description": "Review and critical analysis of recently published articles in veterinary nutrition and discussion of aspects relevant to clinical application and management of veterinary patients. Can be repeated for a total of six credit hours.  Graded on a S/U basis only.",
+            "prerequisites": "Restricted to Graduate Veterinary Medicine majors or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Physiology of the Dog and Cat",
+            "number": "V_M_S 8036",
+            "description": "To understand advanced medical physiology: cell physiology, muscle function, cardiac and circulatory physiology, renal function, distribution of fluid in the body, functions of red and white blood cells, mechanisms of hemostasis, resistance to infection and pulmonary physiology. Graded on A-F basis only.",
+            "prerequisites": "Instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Small Animal Clinical Nutrition",
+            "number": "V_M_S 8040",
+            "description": "Advanced study of veterinary clinical nutrition in the dog and cat.  Includes review of applied biochemistry, nutrients, and feeding principles along with pathophysiology and nutritional management of common diseases.  May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "Introductory Veterinary Nutrition",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Current Topics in Dairy Production Medicine",
+            "number": "V_M_S 8041",
+            "description": "The course will focus on the presentation, evaluation and discussion of contemporary scientific peer-reviewed literature published in indexed journal related to current concepts on dairy production medicine. Participating students will be aimed to critically review current research publication with special emphasis on study design, hypothesis and objectives. Through the analysis of results and discussion, concepts of dairy production medicine will be imparted. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Veterinary Medicine and Surgery (Thesis)",
+            "number": "V_M_S 8090",
+            "description": "Thesis research. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Veterinary Regulatory Medicine and Public Health",
+            "number": "V_M_S 8400",
+            "description": "(same as P_HLTH 8400). The goal of this course is to familiarize the student with clinical aspects of veterinary public health/regulatory medicine.",
+            "prerequisites": "Must be enrolled in MPH (veterinary public health concentration) or DVM curriculum",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Veterinary Clinical Sciences",
+            "number": "V_M_S 8401",
+            "description": "Current topics, infrequently-taught courses, or new courses not yet designated by a permanent course number.  Some sections may be graded A-F only or S/U only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Veterinary Clinical Sciences",
+            "number": "V_M_S 8402",
+            "description": "Graduate seminars and conferences with a focus on current literature within a specialty area. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Comparative Respiratory Pathophysiology",
+            "number": "V_M_S 8405",
+            "description": "A consideration of clinical pathophysiology of the respiratory system relative to diseases of the thorax and clinical anesthesiology.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in  Veterinary Medicine and Surgery",
+            "number": "V_M_S 8406",
+            "description": "Current topics, infrequently taught courses, or new courses not yet designated by a permanent course number.",
+            "prerequisites": "must be a DVM or be enrolled in the Veterinary curriculum; instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Medicine and Surgery Research Seminar",
+            "number": "V_M_S 8410",
+            "description": "Current research in veterinary medicine and surgery. Literature reviews and presentation or original graduate student research.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Veterinary Endocrinology",
+            "number": "V_M_S 8411",
+            "description": "A 2-hour course for post-DMV graduate students. It will focus on clinically relevant physiology, pathophysiology, and diagnostic evaluation of hormone systems.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Equine Internal Medicine",
+            "number": "V_M_S 8413",
+            "description": "The purpose of the course is to aid in the preparation of the Resident for board certification in the American College of Veterinary Internal Medicine-LAIM.  Current concepts in the pathophysiology, diagnosis and management of medical disorders of horses.",
+            "prerequisites": "DVM degree or equivalent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Veterinary Neurology",
+            "number": "V_M_S 8415",
+            "description": "Basic neuroscience as it relates to clinical neurology and the pathophysiology of diseases of the brain, spinal cord, peripheral nerve and muscle in domestic animals. Graded on A-F basis only.",
+            "prerequisites": "DVM degree",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Veterinary Internal Medicine: Cardiovascular Medicine",
+            "number": "V_M_S 8416",
+            "description": "Pathologic, pathophysiologic, hemodynamic and pharmacological mechanisms of important to the diagnosis, assessment, management and research of cardiovascular diseases of animals.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Veterinary Internal Medicine - Clinical Oncology",
+            "number": "V_M_S 8417",
+            "description": "Provides graduate students in the clinical and basic sciences alike with a working knowledge of the biological mechanisms of cancer development and progression and the related approaches to cancer prevention and therapy. It is assumed that students will have a strong background in biology as a foundation for discussion.",
+            "prerequisites": "DVM or equivalent degree recommended",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Veterinary Internal Medicine: Food Animal Medicine",
+            "number": "V_M_S 8418",
+            "description": "Current concepts in the pathophysiology, diagnosis and management of medical disorders, diseases of the limbs, and infectious diseases of cattle and food producing animals.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Topics in Cancer Biology and Clinical Oncology",
+            "number": "V_M_S 8419",
+            "description": "This course will provide students with a knowledge base in cancer cell biology that may be applied to the practice of clinical oncology. Monthly clinically-oriented seminars by invited speakers will be preceded by a weekly in-depth review of the basic science related to the seminar topic.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "MD or DVM",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Veterinary Surgery: Small Animal Surgery",
+            "number": "V_M_S 8421",
+            "description": "Current concepts in the pathophysiology, diagnosis and management of surgical disease of the dog and the cat. Includes laboratories of advanced surgical techniques.",
+            "prerequisites": "None Listed",
+            "hours": "2-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Comparative Arthrology",
+            "number": "V_M_S 8423",
+            "description": "Lectures and discussion covering anatomy, physiology, biomechanics, pathophysiology, and clinical aspects of mammalian diarthrodial joints.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Veterinary Surgery: Equine Surgery",
+            "number": "V_M_S 8425",
+            "description": "Current concepts in the pathophysiology, diagnosis and management of surgical disorders of the horse. Taught yearly as sections A, B, C. Repeatable to a maximum of 10 credit hours (individual sections may be taken once).",
+            "prerequisites": "None Listed",
+            "hours": "2-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Veterinary Surgery - Ophthalmic Surgery",
+            "number": "V_M_S 8426",
+            "description": "Surgery labs consisting of 2-4 hours of surgical instruction per week. Graded on A-F basis only.",
+            "prerequisites": "DVM or equivalent degree and acceptance into the ophthalmology residency program",
+            "hours": "2-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research Methods and Data Analysis",
+            "number": "V_M_S 8431",
+            "description": "A consideration of research methods, data analysis, and practical approaches to analyzing data sets derived from veterinary and biomedical studies.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Applied Statistics and Informatics",
+            "number": "V_M_S 8432",
+            "description": "Educate students in the practical application of statistics and information research tools.  Students will learn about application of statistical modeling to biomedical research.  They will be trained to use statistical software programs and then use those skills to analyze data sets.  Additionally, students will learn about the use of informatics systems for researching scientific questions, data searching, and data dissemination.  At the end of the course successful students should be able to develop and perform statistical analyses appropriate for most basic research study designs.  Graded on A-F basis only.",
+            "prerequisites": "DVM or equivalent degree and enrollment in a veterinary residency program unless an exception is approved by the course coordinator",
+            "hours": "2",
+            "recommendation": "Successful completion of a general statistics course is highly recommended prior to taking this course",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Clinical Sciences: Clinical Immunology",
+            "number": "V_M_S 8435",
+            "description": "Advanced concepts in veterinary immunology and immunopathology.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Clinical Sciences: Clinical Pharmacology",
+            "number": "V_M_S 8436",
+            "description": "Advanced concepts in veterinary clinical pharmacology, pharmacokinetics, and anesthesiology.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Topics in Veterinary Medicine (Nuclear Medicine)",
+            "number": "V_M_S 8437",
+            "description": "An in-depth review of veterinary nuclear medicine. Includes the physics of nuclear medicine, common imaging techniques, common radiopharmaceuticals, radiopharmaceutical kinetic evaluation and some common physiological applications.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Veterinary Ultrasonography",
+            "number": "V_M_S 8439",
+            "description": "Advanced concepts in veterinary ultrasonography; including ultrasound and Doppler physics, instrumentation, examination methodology, and interpretation of studies.",
+            "prerequisites": "None Listed",
+            "hours": "2-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Adv Veterinary Clinical Sciences: Advanced Clinical Ophthalmology",
+            "number": "V_M_S 8440",
+            "description": "Case-based discussion course. Graded on A-F basis only.",
+            "prerequisites": "DVM or equivalent degree and acceptance into the ophthalmology residency program",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Critical Care and Emergency Medicine",
+            "number": "V_M_S 8445",
+            "description": "Advanced study of veterinary critical care and emergency medicine and surgery focusing on current research and literature as well as clinical application.",
+            "prerequisites": "None Listed",
+            "hours": "2-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Veterinary Medicine and Surgery (non-thesis)",
+            "number": "V_M_S 8450",
+            "description": "Non-Thesis research.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Veterinary Clinical Sciences",
+            "number": "V_M_S 8485",
+            "description": "Supervised individuals studies arranged with a faculty member and approved by the advisory committee.  Some sections may be graded A-F only or S/U only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Nuclear Medicine",
+            "number": "V_M_S 8487",
+            "description": "Principles of radiation detection instrumentation, monitoring radiological safety and diagnostic procedures used on veterinary nuclear medicine.",
+            "prerequisites": "one year College Physics, D.V.M. degree, and departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Radiation Therapy",
+            "number": "V_M_S 8488",
+            "description": "Intermediate level course to review basic and advanced concepts in radiation biology, radiation physics, and clinical application of ionizing radiation for the treatment of cancer  Teletherapy, brachytherapy and radiation oncology are covered.",
+            "prerequisites": "A basic course in radiation physics/dosimetry, radiation biology and medical oncology.  One year college physics, DVM degree and departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Radiographic Physics",
+            "number": "V_M_S 8489",
+            "description": "In depth review of the fundamental principles of radiographic physics, with an emphasis on preparation for the American college of Veterinary Radiology board examination. Graded on an S/U basis only.",
+            "prerequisites": "DVM and graduate school enrollment or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Veterinary Medicine and Surgery",
+            "number": "V_M_S 9090",
+            "description": "PhD Dissertation research.  Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

@@ -1,0 +1,700 @@
+{
+    "department_name": "Music-Music Theory",
+    "department_code": "MUS_THRY",
+    "courses": [
+        {
+            "name": "Introduction to Computer Technology and Music",
+            "number": "MUS_THRY 1210",
+            "description": "Introduces Finale, music engraving and playback software, and introduces sequencing and other software applications that may impact students while they are in school and as professional musicians.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Music Theory",
+            "number": "MUS_THRY 1213",
+            "description": "Introduction to music notation and to rhythmic, melodic, harmonic, and structural elements of music.  Emphasis on written skills, but ear training, sight singing, and keyboard components included as well.   Graded on A/F basis only.",
+            "prerequisites": "consent required.  Placement by exam",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Syntax, Structure and Style of Music I",
+            "number": "MUS_THRY 1220",
+            "description": "Review of fundamentals. Study of rhythm, melody, harmonic, structure and stylistic characteristics of various periods. Application through original composition projects. ",
+            "prerequisites": " none for Music majors; others: instructor's consent.",
+            "hours": ": 2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Syntax, Structure and Style of Music II",
+            "number": "MUS_THRY 1221",
+            "description": "Continuation of MUS_THRY 1220. Study of smaller forms and introduction to chromatic harmony.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 1220",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 1220"
+            ]
+        },
+        {
+            "name": "Aural Training and Sight Singing I",
+            "number": "MUS_THRY 1230",
+            "description": "Development of aural and sight singing skills.",
+            "prerequisites": "None Listed",
+            "hours": "2Prerequisites or Corequisites: MUS_THRY 1220",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Aural Training and Sight Singing II",
+            "number": "MUS_THRY 1231",
+            "description": "Continuation of MUS_THRY 1230.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 1230",
+            "hours": "2PrerequisitesorCorequisites:MUS_THRY 1221",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 1230"
+            ]
+        },
+        {
+            "name": "Composition I",
+            "number": "MUS_THRY 2215",
+            "description": "Fundamentals of composition and writing in small forms.",
+            "prerequisites": "grade of B- or better in  MUS_THRY 1220, MUS_THRY 1221, MUS_THRY 1230, MUS_THRY 1231, and instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 1220",
+                "MUS_THRY 1221",
+                "MUS_THRY 1230",
+                "MUS_THRY 1231"
+            ]
+        },
+        {
+            "name": "Composition II",
+            "number": "MUS_THRY 2216",
+            "description": "Continuation of MUS_THRY 2215.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2215",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2215"
+            ]
+        },
+        {
+            "name": "Syntax, Structure and Style of Music III",
+            "number": "MUS_THRY 2220",
+            "description": "Chromatic harmony, variation techniques and contrapuntal genres. Study of traditional forms in instrumental, vocal and choral compositions. Applications through original composition projects.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 1221",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 1221"
+            ]
+        },
+        {
+            "name": "Syntax, Structure and Style of Music IV",
+            "number": "MUS_THRY 2221",
+            "description": "Continued study of chromatic harmony and compositions in larger forms. Application through original composition projects.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2220",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2220"
+            ]
+        },
+        {
+            "name": "Aural Training and Sight Singing III",
+            "number": "MUS_THRY 2230",
+            "description": "Continuation of MUS_THRY 1231. Further development of aural and sight singing skills with an emphasis on chromatic harmony and decorative pitches. Introduction of structural perception.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 1231 and MUS_THRY 2220 or MUS_THRY 2220 concurrently",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 1231",
+                "MUS_THRY 2220",
+                "MUS_THRY 2220"
+            ]
+        },
+        {
+            "name": "Aural Training and Sight Singing IV",
+            "number": "MUS_THRY 2231",
+            "description": "Continuation MUS_THRY 2230.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2230",
+            "hours": "2PrerequisitesorCorequisites:MUS_THRY 2221",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2230"
+            ]
+        },
+        {
+            "name": "Composition III",
+            "number": "MUS_THRY 3215",
+            "description": "Further development of creative writing in traditional forms.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2216",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2216"
+            ]
+        },
+        {
+            "name": "Composition IV",
+            "number": "MUS_THRY 3216",
+            "description": "Continuation of MUS_THRY 3215.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 3215",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 3215"
+            ]
+        },
+        {
+            "name": "Jazz Harmony and Arranging I",
+            "number": "MUS_THRY 4210",
+            "description": "(cross-leveled with MUS_THRY 7210). Study of basic melodic and harmonic materials commonly used in jazz.  Application through arranging projects for small jazz groups.",
+            "prerequisites": "MUSIC_NM 1211 or MUS_THRY 1220; instructor's consent required",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUSIC_NM 1211",
+                "MUS_THRY 1220"
+            ]
+        },
+        {
+            "name": "Jazz Harmony and Arranging II",
+            "number": "MUS_THRY 4211",
+            "description": "(cross-leveled with MUS_THRY 7211). Continuation of MUS_THRY 4210.  Study of advanced melodic and harmonic materials commonly used in jazz.  Application through arranging projects for small and large jazz groups.",
+            "prerequisites": "MUS_THRY 4210; instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 4210"
+            ]
+        },
+        {
+            "name": "Jazz Theory I",
+            "number": "MUS_THRY 4212",
+            "description": "Comprehensive study of the grammar and syntax of jazz harmony.",
+            "prerequisites": "Grade of C- or better in MUSIC_NM 1211 or MUS_THRY 1220",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUSIC_NM 1211",
+                "MUS_THRY 1220"
+            ]
+        },
+        {
+            "name": "Jazz Theory 2",
+            "number": "MUS_THRY 4213",
+            "description": "Continuation of MUS_THRY 4212.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 4212",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 4212"
+            ]
+        },
+        {
+            "name": "Composition V",
+            "number": "MUS_THRY 4215",
+            "description": "Writing of works in larger forms for a solo instrument or chamber ensemble.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 3216",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 3216"
+            ]
+        },
+        {
+            "name": "Composition VI",
+            "number": "MUS_THRY 4216",
+            "description": "Continuation of MUS_THRY 4215. May be repeated for additional credit.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 4215",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 4215"
+            ]
+        },
+        {
+            "name": "20th Century Composition Techniques",
+            "number": "MUS_THRY 4220",
+            "description": "(cross-leveled with MUS_THRY 7220). The study and application of analytical procedures to 20th century music literature. Special readings; individual projects.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Analysis of Music",
+            "number": "MUS_THRY 4221",
+            "description": "An analytical study of rhythmic, melodic, harmonic and structural aspects of 18th-, 19th- and 20th-century music.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221 or equivalent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Computer Technology and Music",
+            "number": "MUS_THRY 4222",
+            "description": "The introduction of music software for educational and professional use. Music notation software will be learned. Sequencing software will be studied in depth. Hands-on experience with Macintosh computers, multi-timbral synthesizers and various CD-ROMS.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 4220",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 4220"
+            ]
+        },
+        {
+            "name": "Eighteenth-Century Counterpoint",
+            "number": "MUS_THRY 4223",
+            "description": "(cross-leveled with MUS_THRY 7223). Study of contrapuntal procedures and representative works of the eighteenth century. Emphasis on compositions and style of Johann Sebastian Bach. Original composition projects: canon, invention, and fugue.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Sixteenth-Century Counterpoint",
+            "number": "MUS_THRY 4225",
+            "description": "(cross-leveled with MUS_THRY 7225). Analysis of contrapuntal procedures and representative compositions of 16th century. Emphasis on styles of Palestrina, Lassus and Victoria. Stylistic writing in two, three or more voices.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Orchestration",
+            "number": "MUS_THRY 4227",
+            "description": "(cross-leveled with MUS_THRY 7227). Study of orchestral instruments and the process of scoring for various orchestral combinations.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Band Arranging",
+            "number": "MUS_THRY 4229",
+            "description": "Transcription, scoring of solo and ensemble literature for band instrument combinations of varying sizes up to and including concert band.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Choral Arranging",
+            "number": "MUS_THRY 4230",
+            "description": "Transcription and arrangement of music suitable for performance by various vocal ensembles.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Schenkerian Analysis",
+            "number": "MUS_THRY 4231",
+            "description": "Techniques of musical analysis developed by Heinrich Schenker.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Rhythmic Analysis of Tonal Music",
+            "number": "MUS_THRY 4232",
+            "description": "Introduction to rhythmic analysis, including context of current thinking, basic concepts, various approaches, selected topics, performance issues, and particular problems.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Acoustics of Music",
+            "number": "MUS_THRY 4233",
+            "description": "(cross-leveled with MUS_THRY 7233). The study of tuning systems and the properties, production and reception of musical sound.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Schenkerian Analysis",
+            "number": "MUS_THRY 4241",
+            "description": "(cross-leveled with MUS_THRY 7241). Continuation of MUS_THRY 4231, with a focus on the analysis of complete works, including larger forms.",
+            "prerequisites": "Grade of C-minus or better in MUS_THRY 4231, or equivalent at another institution",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 4231"
+            ]
+        },
+        {
+            "name": "Introduction to Electronic Music",
+            "number": "MUS_THRY 4245",
+            "description": "Techniques used in the creation of music with tape recorders, voltage-controlled synthesizers and electronics.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 4220",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 4220"
+            ]
+        },
+        {
+            "name": "Introduction to Digital Synthesis",
+            "number": "MUS_THRY 4247",
+            "description": "Introduction to the techniques of digital synthesis, including the study of programming, and Musical Instrument Digital Interfacing.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Analysis of Musical Styles",
+            "number": "MUS_THRY 4250",
+            "description": "Analytical study of specific rhythmic, melodic, harmonic, and structural factors which constitute the stylistic practices of a specific period or MUS_THRY 4221 or equivalent. May be repeated for credit with departmental consent.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Keyboard Harmony and Score Reading",
+            "number": "MUS_THRY 4252",
+            "description": "Study of idiomatic chord progressions and harmonization strategies at the keyboard, including figured bass, score reading, and score playing.  Skills are reinforce by analysis, both at sight and prepared.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Advanced Orchestration I",
+            "number": "MUS_THRY 4267",
+            "description": "(cross-leveled with MUS_THRY 7267). Transcription for full orchestra of large works from different style periods.  Scoring of original works for orchestra. Seminar, private lessons.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 4227",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 4227"
+            ]
+        },
+        {
+            "name": "Advanced Orchestration II",
+            "number": "MUS_THRY 4268",
+            "description": "(cross-leveled with MUS_THRY 7268). Survey of original works for orchestra.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Pedagogy of Music Theory I",
+            "number": "MUS_THRY 4271",
+            "description": "Techniques and materials for teaching basic music theory courses for high schools and colleges.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Pedagogy of Music Theory II",
+            "number": "MUS_THRY 4272",
+            "description": "Techniques and materials for advanced college courses in music theory.",
+            "prerequisites": "Grade of C- or better in  MUS_THRY 4271",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 4271"
+            ]
+        },
+        {
+            "name": "Contemporary Analytical Techniques",
+            "number": "MUS_THRY 4284",
+            "description": "Study and application of various analytical systems for 20th century compositions. Analysis of music employing contemporary theories.",
+            "prerequisites": "Grade of C- or better in MUS_THRY 2221",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2221"
+            ]
+        },
+        {
+            "name": "Graduate Theory Review",
+            "number": "MUS_THRY 4299",
+            "description": "Review of music theory for graduate students in music.  Does not fulfill graduate degree requirements. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Jazz Harmony and Arranging I",
+            "number": "MUS_THRY 7210",
+            "description": "(cross-leveled with MUS_THRY 4210). Study of basic melodic and harmonic materials commonly used in jazz.  Application through arranging projects for small jazz groups.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Jazz Harmony and Arranging II",
+            "number": "MUS_THRY 7211",
+            "description": "(cross-leveled with MUS_THRY 4211). Continuation of MUS_THRY 7210.  Study of advanced melodic and harmonic materials commonly used in jazz.  Application through arranging projects for small and large groups.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Composition I",
+            "number": "MUS_THRY 7215",
+            "description": "Fundamentals of Composition: Writing in small forms. For non-composition graduate students in music.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Composition II",
+            "number": "MUS_THRY 7216",
+            "description": "Continuation of MUS_THRY 7215.",
+            "prerequisites": "MUS_THRY 7215",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 7215"
+            ]
+        },
+        {
+            "name": "20th Century Composition Techniques",
+            "number": "MUS_THRY 7220",
+            "description": "(cross-leveled with MUS_THRY 4220). Graduate review in the study and application of analytical procedures to 20th century music literature. Special readings; individual projects.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Analysis of Music",
+            "number": "MUS_THRY 7221",
+            "description": "Graduate review in the analytical study of rhythmic, melodic, harmonic and structural aspects of 18th-, 19th- and 20th-century music.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Computer Technology and Music",
+            "number": "MUS_THRY 7222",
+            "description": "Graduate-level introduction of music software for educational and professional use. Music notation software will be learned.  Sequencing software will be studied in depth. Hands-on experience with Macintosh computers, multiptimbral synthesizers and various CD-ROMS.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Eighteenth-Century Counterpoint",
+            "number": "MUS_THRY 7223",
+            "description": "(cross-leveled with MUS_THRY 4223). Advanced study of contrapuntal procedures and representative works of the eighteenth century. Emphasis on compositions and style of Johann Sebastian Bach. Original composition projects: canon, invention, and fugue. ",
+            "prerequisites": " instructor's consent",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sixteenth-Century Counterpoint",
+            "number": "MUS_THRY 7225",
+            "description": "(cross-leveled with MUS_THRY 4225). Advanced analysis of contrapuntal procedures and representative compositions of 16th century. Emphasis on styles of Palestrina, Lassus and Victoria. Stylistic writing in two, three or more voices.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Orchestration",
+            "number": "MUS_THRY 7227",
+            "description": "(cross-leveled with MUS_THRY 4227). Study of orchestral instruments and the process of scoring for various orchestral combinations.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Band Arranging",
+            "number": "MUS_THRY 7229",
+            "description": "Advanced transcription, scoring of solo and ensemble literature for band instrument combinations of varying sizes up to and including concert band.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Choral Arranging",
+            "number": "MUS_THRY 7230",
+            "description": "Advanced transcription and arrangement of music suitable for performance by various vocal ensembles.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Schenkerian Analysis",
+            "number": "MUS_THRY 7231",
+            "description": "Advanced techniques of musical analysis developed by Heinrich Schenker.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Rhythmic Analysis of Tonal Music",
+            "number": "MUS_THRY 7232",
+            "description": "Advanced study of rhythmic analysis, including context of current thinking, basic concepts, various approaches, selected topics, performance issues, and particular problems.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Acoustics of Music",
+            "number": "MUS_THRY 7233",
+            "description": "(cross-leveled with MUS_THRY 4233). Advanced study of tuning systems and the properties, production and reception of musical sound.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Schenkerian Analysis",
+            "number": "MUS_THRY 7241",
+            "description": "(cross-leveled with MUS_THRY 4241). Continuation of MUS_THRY 7231, with a focus on the analysis of complete works, including larger forms.",
+            "prerequisites": "Grade of C-minus or better in MUS_THRY 4231 or MUS_THRY 7231, or equivalent at another institution",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 4231",
+                "MUS_THRY 7231"
+            ]
+        },
+        {
+            "name": "Introduction to Electronic Music",
+            "number": "MUS_THRY 7245",
+            "description": "Advanced techniques used in the creation of music with tape recorders, voltage-controlled synthesizers and electronics.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Digital Synthesis",
+            "number": "MUS_THRY 7247",
+            "description": "Graduate-level introduction to the techniques of digital synthesis, including the study of programming, and Musical Instrument Digital Interfacing.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Analysis of Musical Styles",
+            "number": "MUS_THRY 7250",
+            "description": "Advanced analytical study of specific rhythmic, melodic, harmonic, and structural factors which constitute the stylistic practices of a specific period or composer. May be repeated for credit with departmental consent.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Keyboard Harmony and Score Reading",
+            "number": "MUS_THRY 7252",
+            "description": "Study of idiomatic chord progressions and harmonization strategies at the keyboard, including figured bass, score reading, and score playing.  Skills are reinforce by analysis, both at sight and prepared.",
+            "prerequisites": "demonstrable keyboard proficiency at level of Bach invention; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Orchestration I",
+            "number": "MUS_THRY 7267",
+            "description": "(cross-leveled with MUS_THRY 4267). Advanced transcription for full orchestra of large works from different style periods.  Scoring of original works for orchestra. Seminar, private lessons.",
+            "prerequisites": "MUS_THRY 7227 or instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 7227"
+            ]
+        },
+        {
+            "name": "Advanced Orchestration II",
+            "number": "MUS_THRY 7268",
+            "description": "(cross-leveled with MUS_THRY 4268). Survey of original works for orchestra.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Pedagogy of Music Theory I",
+            "number": "MUS_THRY 7271",
+            "description": "Advanced techniques and materials for teaching basic music theory courses for high schools and colleges.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Pedagogy of Music Theory II",
+            "number": "MUS_THRY 7272",
+            "description": "Advance techniques and materials for advanced college courses in music theory.",
+            "prerequisites": "MUS_THRY 7271",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 7271"
+            ]
+        },
+        {
+            "name": "Contemporary Analytical Techniques",
+            "number": "MUS_THRY 7284",
+            "description": "Advanced study and application of various analytical systems for 20th century compositions. Analysis of music employing contemporary theories.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Composition VII",
+            "number": "MUS_THRY 8215",
+            "description": "Intensive work in larger forms. Seminar, private lessons. May be repeated for credit with departmental consent.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

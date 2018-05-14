@@ -1,0 +1,469 @@
+{
+    "department_name": "Agricultural Education and Leadership",
+    "department_code": "AG_ED_LD",
+    "courses": [
+        {
+            "name": "Orientation to Agricultural Education and Leadership",
+            "number": "AG_ED_LD 1000",
+            "description": "Overview of the discipline of agricultural education including: career opportunities, certification requirements, professional development, and current issues.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Verbal Communication in Agriculture, Food and Natural Resources",
+            "number": "AG_ED_LD 2220",
+            "description": "Application of verbal communication skills used in the dissemination of information related to agriculture, food, and natural resource topics. Acquisition of interpersonal communication skills and small group, impromptu and professional presentation skills.",
+            "prerequisites": "Restricted to College of Agriculture, Food and Natural Resources students only during Early Registration",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Leadership",
+            "number": "AG_ED_LD 2250",
+            "description": "Overview of basic leadership principles and theories, including, but not limited to: personal leadership development, characteristics of effective leaders, leadership styles, ethics as a leader and leadership obstacles.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Team and Organizational Leadership",
+            "number": "AG_ED_LD 2260",
+            "description": "Principles and practices in planning, developing, conducting, and evaluating leadership programs for agricultural groups. The course focuses on helping students better understand themselves and others, improving group communications; becoming effective leaders and members of groups; improving leadership and personal development skills; assessing leadership situations, determining and administering appropriate leadership strategies, and evaluating results.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Team and Organizational Leadership - Writing Intensive",
+            "number": "AG_ED_LD 2260W",
+            "description": "Principles and practices in planning, developing, conducting, and evaluating leadership programs for agricultural groups. The course focuses on helping students better understand themselves and others, improving group communications; becoming effective leaders and members of groups; improving leadership and personal development skills; assessing leadership situations, determining and administering appropriate leadership strategies, and evaluating results.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Leadership Development in Youth Organizations",
+            "number": "AG_ED_LD 2270",
+            "description": "This course focuses on how to develop leadership in youth through participation in a youth organization.  In particular, this course explores youth development, how to develop leadership through youth organizations and their activities, and organizational structures.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Early Field Experience",
+            "number": "AG_ED_LD 2271",
+            "description": "This field experience is designed for students to explore the role of being a school-based agricultural educator.  In particular, students will experience the total agricultural education program with a focus on youth organizations.",
+            "prerequisites": "AG_ED_LD 2270 or concurrent enrollment",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_ED_LD 2270"
+            ]
+        },
+        {
+            "name": "Problems in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 3085",
+            "description": "Supervised and independent study of problems and issues in Agricultural Education and Leadership at the undergraduate level.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Metal Fabrication and Laboratory Management",
+            "number": "AG_ED_LD 3320",
+            "description": "Application of metal fabrication skills, including cutting, bending, and welding, using a variety of processes. Operations of hand tools and power equipment used in project construction.  Also includes laboratory management, instructional strategies, and assessment techniques related to secondary agriculture programs.  ",
+            "prerequisites": " Agriculture Education Majors Only",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Litton Leadership Scholars",
+            "number": "AG_ED_LD 3776",
+            "description": "The Litton Leadership Scholars class focuses on developing students as leaders. Through leadership coursework, field-based mentorship and self-reflection, students will practice and develop exemplary leadership skills. Students will have an opportunity to spend time with industry leaders, expand their personal growth boundaries and develop their unique leadership style. Students will engage in an interview process to be selected for the Litton Leadership Scholars program.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 4001",
+            "description": "Courses on specialized topics offered on a trial basis until the course has been assigned a course number.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internship Seminar in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 4087",
+            "description": "Seminar focused on the problems of practice and developing skills needed for a career in teaching agriculture at the secondary level. The core of the seminar is on coordinating experiential learning and leadership development activities, managing the complete program, and professional development.",
+            "prerequisites": "None Listed",
+            "hours": "3Corequisites: AG_ED_LD 4995",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Leading Organizational and Community Change",
+            "number": "AG_ED_LD 4240",
+            "description": "(cross-leveled with AG_ED_LD 7240). This course provides the diagnostic and strategic foundations for students to enact leadership in organizational and community contexts. Designed for undergraduate students and graduate-level professionals alike, this course increases a student's capacity to lead with or without authority, and with or without a formal organizational or political position. The course is based heavily on Heifetz's Adaptive Leadership theory, which challenges individuals to think beyond individual, role-based leadership skills and behaviors when enacting change in systems, such as organizations and communities.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "AG_ED_LD 2250 and AG_ED_LD 2260",
+            "connections": [
+                "AG_ED_LD 2250",
+                "AG_ED_LD 2260"
+            ]
+        },
+        {
+            "name": "Intracurricular Program Management in Agricultural Education",
+            "number": "AG_ED_LD 4310",
+            "description": "This course explores the philosophical foundations and current structures of secondary Agricultural Education Programs.  Students will learn how to plan, supervise, and evaluate the intracurricular components within Agricultural Education programs.",
+            "prerequisites": "junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Methods of Teaching I",
+            "number": "AG_ED_LD 4320",
+            "description": "(cross-leveled with AG_ED_LD 7320). Investigations into the teaching and learning process which including lesson planning, direct instruction methods, and assessment. Enrollment limited to students accepted into Phase II of the Teacher Development Program.",
+            "prerequisites": "junior standingor  instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Field Experience I",
+            "number": "AG_ED_LD 4321",
+            "description": "A field-based experience that examines the integration of Supervised Agricultural Experience and Career Development Events into the secondary agriculture curriculum. Investigates the use of advisory committees and graduate follow-up data in curriculum planning. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1Corequisites: AG_ED_LD 4320",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Methods of Teaching II",
+            "number": "AG_ED_LD 4330",
+            "description": "Further investigations into the teaching and learning process which includes methods beyond direct instruction, classroom and behavior management, and curricular design. Enrollment limited to students accepted into Phase II of Teacher Development Program.",
+            "prerequisites": "AG_ED_LD 4320 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_ED_LD 4320"
+            ]
+        },
+        {
+            "name": "Field Experience II",
+            "number": "AG_ED_LD 4331",
+            "description": "A field-based experience that provides students with comprehensive experience directed toward learning, teaching, and assessment in secondary agriculture programs.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1Corequisites: AG_ED_LD 4330",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Designing and Delivering Educational/Leadership Programs",
+            "number": "AG_ED_LD 4340",
+            "description": "Overview of theory and practice in communicating and facilitating adult and youth training/leadership programs in communities and organizations.  Including: communicating program design, methods of communicating for different contexts, marketing programs, and evaluating programs.",
+            "prerequisites": "junior standing or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internship in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 4993",
+            "description": "Field-based learning experience that combines study, observation, and employment with an agricultural business, industry or government agency in the area of education, training, and development. Individual internship plans are developed by a student, faculty supervisor, and an industry cooperator.",
+            "prerequisites": "departmental consent",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Student Teaching Internship in Agriculture",
+            "number": "AG_ED_LD 4995",
+            "description": "A field-based learning experience that combines observation and practice in a secondary/adult agriculture program. The purpose of the internship is to provide an opportunity to apply teaching and learning concepts in a practical context.",
+            "prerequisites": "departmental consent",
+            "hours": "1-12",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internship Seminar in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 7087",
+            "description": "Seminar focused on the problems of practice and developing skills needed for a career in teaching agriculture at the secondary level. The core of the seminar is on coordinating experimental learning and leadership development activities, managing the complete program, and professional development.",
+            "prerequisites": "None Listed",
+            "hours": "3Corequisites: AG_ED_LD 4995",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Leading Organizational and Community Change",
+            "number": "AG_ED_LD 7240",
+            "description": "(cross-leveled with AG_ED_LD 4240). This course provides the diagnostic and strategic foundations for students to enact leadership in organizational and community contexts. Designed for undergraduate students and graduate-level professionals alike, this course increases a student's capacity to lead with or without authority, and with or without a formal organizational or political position. The course is based heavily on Heifetz's Adaptive Leadership theory, which challenges individuals to think beyond individual, role-based leadership skills and behaviors when enacting change in systems, such as organizations and communities.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Intracurricular Program Management in Agricultural Education",
+            "number": "AG_ED_LD 7310",
+            "description": "This course explores the philosophical foundations and current structures of secondary Agricultural Education Programs.  Students will learn how to plan supervise and evaluate the intracurricular components within Agricultural Education Programs.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Methods of Teaching I",
+            "number": "AG_ED_LD 7320",
+            "description": "(cross-leveled with AG_ED_LD 7320). Investigations into the teaching and learning process which includes lesson planning, direct instruction methods, and assessment.",
+            "prerequisites": "acceptance into the Teacher Certification option",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Methods of Teaching II",
+            "number": "AG_ED_LD 7330",
+            "description": "Further investigations into the teaching and learning process which includes methods beyond direct instruction, classroom and behavior management, and curricular design.",
+            "prerequisites": "acceptance into Teacher Certification option and AG_ED_LD 4320 or AG_ED_LD 7320",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_ED_LD 4320",
+                "AG_ED_LD 7320"
+            ]
+        },
+        {
+            "name": "Designing and Delivering Educational/Leadership Programs",
+            "number": "AG_ED_LD 7340",
+            "description": "Overview of theory and practice in communicating and facilitating adult and youth training/leadership programs in communities and organizations.  Including: communicating program design, methods of communicating for different contexts, marketing programs, and evaluating programs.",
+            "prerequisites": "AG_ED_LD 2220 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_ED_LD 2220"
+            ]
+        },
+        {
+            "name": "Inservice Course in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 7350",
+            "description": "Professional development course which focuses on enhancing the technical, administrative, or management skills of agricultural educators.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Creative Component in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 8080",
+            "description": "Independent original work that culminates in a scholarly project, document or presentation. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 8085",
+            "description": "",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 8087",
+            "description": "Seminar in Agricultural Education and Leadership.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Thesis Research in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 8090",
+            "description": "Independent research activities by a master's student that culminates in a thesis. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "History and Leadership of the Land Grant University",
+            "number": "AG_ED_LD 8210",
+            "description": "Historical overview of the evolution and development of land-grant colleges.  Students examine early public mandates and evaluate education, research, public service developments and new initiatives needed for Land Grant universities to effectively serve society.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Leadership Theory and Application",
+            "number": "AG_ED_LD 8250",
+            "description": "Survey of concepts, theories and practices of leadership, personal development and group dynamics.  Exploration of leadership traits and models with a focus upon how they apply to Agricultural Education.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Methods of Teaching",
+            "number": "AG_ED_LD 8330",
+            "description": "Explores the principles and psychological aspects of teaching and learning; teaching strategies, methods, and techniques; evaluating student learning; motivating students; and personal teacher behaviors that influence learning.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Student and Teacher Development in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 8340",
+            "description": "Examines planning and supervising career exploration, experiential learning, and leadership development activities of secondary agriculture students. The professional development of the secondary agriculture teacher is also examined.",
+            "prerequisites": "AG_ED_LD 4310 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_ED_LD 4310"
+            ]
+        },
+        {
+            "name": "College Teaching of Agriculture, Food and Natural Resources",
+            "number": "AG_ED_LD 8350",
+            "description": "A course designed to assist current or future college faculty who wish to improve their teaching skills. Topics include theories, principles and practices associated with effective teaching and learning in higher education.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Induction Year Teaching I",
+            "number": "AG_ED_LD 8351",
+            "description": "Continuing education course for the professional development of first-year teachers of agriculture. The course focuses on the pedagogical knowledge, skills, and attitudes and managerial skills needed by beginning teachers of agriculture.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Induction Year Teaching II",
+            "number": "AG_ED_LD 8352",
+            "description": "Continuing education course for the professional development of second-year teachers of agriculture. The course is a continuation of AG_ED_LD 8351 and focuses on the pedagogical knowledge, skills, and attitudes and managerial skills needed by beginning teachers of agriculture.",
+            "prerequisites": "AG_ED_LD 8351",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_ED_LD 8351"
+            ]
+        },
+        {
+            "name": "Philosophical Foundations of Agricultural Education and Leadership",
+            "number": "AG_ED_LD 8410",
+            "description": "Overview of the history and philosophical development of agricultural education and leadership as a discipline.  Philosophers, policy makers, movements, trends, and legislation that has influenced agricultural education.  Current issues and future trends impacting the field.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Evaluation of Educational Programs",
+            "number": "AG_ED_LD 8430",
+            "description": "(same as RU_SOC 8430). Examines program evaluation concepts, principles, and models; and identifies major steps in planning, conducting, and reporting results of evaluation objects.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research Methods and Design",
+            "number": "AG_ED_LD 8510",
+            "description": "(same as RU_SOC 8510). A foundations course on quantitative research methodology and design principles for investigating problems in social and behavioral sciences.  A focus is on the language of research, purposes, validity threats, and data collection methods. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Preparing Manuscripts for Publication",
+            "number": "AG_ED_LD 8520",
+            "description": "An introduction to planning, preparing, and submitting research based articles for publication in professional journals and research proceedings.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Grant Proposal Writing",
+            "number": "AG_ED_LD 8530",
+            "description": "Preparation of proposals designed to solicit grant funding to support teaching, research or outreach programs. Emphasis on proposal development, identifying funding sources, and proposal review processes.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Methods of Qualitative Research",
+            "number": "AG_ED_LD 8540",
+            "description": "(same as RU_SOC 8540). Overview of philosophies, approaches toward, design, data collection, analysis and reporting of qualitative research.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "College Teaching Practicum",
+            "number": "AG_ED_LD 8995",
+            "description": "Learning experience that combines the study, observation, and practice of teaching university-level courses in food, agriculture and/or natural resources under the supervision of teaching mentors. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent and AG_ED_LD 8330 or AG_ED_LD 8350",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_ED_LD 8330",
+                "AG_ED_LD 8350"
+            ]
+        },
+        {
+            "name": "Doctoral Research in Agricultural Education and Leadership",
+            "number": "AG_ED_LD 9090",
+            "description": "Independent research activities by a doctoral student that culminates in a dissertation or other scholarly work. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Foundations and Practices of Teacher Education",
+            "number": "AG_ED_LD 9410",
+            "description": "Foundations and practices of teacher preparation programs including student selection and advisement, licensure requirements, accreditation, curriculum, clinical and field experiences, supervision, evaluation and research.",
+            "prerequisites": "Doctoral student or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Data Collection, Analysis and Interpretation",
+            "number": "AG_ED_LD 9510",
+            "description": "(same as RU_SOC 9510). A quantitative methods course in measurement, data collection and analysis related to social and behavioral science research.  An applied approach is taken on instrumentation and analyzing data using descriptive and inferential statistics. Practical skills in data manipulation using SPSS are developed. Graded on A-F basis only.",
+            "prerequisites": "AG_ED_LD 8510 or RU_SOC 8510 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_ED_LD 8510",
+                "RU_SOC 8510"
+            ]
+        }
+    ]
+}

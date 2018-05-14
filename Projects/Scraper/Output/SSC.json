@@ -1,0 +1,101 @@
+{
+    "department_name": "Student Success Center",
+    "department_code": "SSC",
+    "courses": [
+        {
+            "name": "University Freshmen Seminar",
+            "number": "SSC 1020",
+            "description": "(same as INTDSC 1020). To maximize student's potential to achieve academic success and to adjust responsibly to the individual and interpersonal challenges presented by collegiate life.  Attainment of an appropriate balance between personal freedom and social responsibility underlies all seminar activities.",
+            "prerequisites": "Restricted to first time college student.  No credit for students who have earned credit for AFNR 1115, INTDSC 1001, IS_LT 1110,  ED_LPA 3100 or an equivalent first-year orientation course at another institution.  Credit restrictions that apply to orientation classes apply to this course.  Students are not allowed to be enrolled in SSC 1020 and SSC 1150 in the same semester",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "AFNR 1115",
+                "ED_LPA 3100",
+                "IS_LT 1110",
+                "INTDSC 1001",
+                "SSC 1020",
+                "SSC 1150"
+            ]
+        },
+        {
+            "name": "University Freshmen Seminar - Honors",
+            "number": "SSC 1020H",
+            "description": "(same as INTDSC 1020). To maximize student's potential to achieve academic success and to adjust responsibly to the individual and interpersonal challenges presented by collegiate life.  Attainment of an appropriate balance between personal freedom and social responsibility underlies all seminar activities.",
+            "prerequisites": "Restricted to first time college student.  No credit for students who have earned credit for AFNR 1115, INTDSC 1001, IS_LT 1110,  ED_LPA 3100 or an equivalent first-year orientation course at another institution.  Credit restrictions that apply to orientation classes apply to this course.  Students are not allowed to be enrolled in SSC 1020 and SSC 1150 in the same semester.  Honors eligibility required",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "AFNR 1115",
+                "ED_LPA 3100",
+                "IS_LT 1110",
+                "INTDSC 1001",
+                "SSC 1020",
+                "SSC 1150"
+            ]
+        },
+        {
+            "name": "College Success Seminar",
+            "number": "SSC 1150",
+            "description": "This course is designed to create a positive new student experience by connecting students with the Mizzou campus community and the academic resources essential to their success.  Students' strengths will be assessed and used to assist each student in the development and implementation of an individualized and strategic approach to successfully navigating their way through collegiate life.  Individual course sections may be restricted to specific majors or groups.",
+            "prerequisites": "Freshmen or sophomore standing required",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Academic Success Seminar",
+            "number": "SSC 1151",
+            "description": "Academic recovery strategies will be explored and implemented throughout the course.  Students will learn to assess their academic situations, develop a plan of action, apply new strategies for success, and activate their success plan throughout all aspects of their collegiate career.  Campus academic resources will be identified to meet students' specific needs.  Each student will create an individual plan of action in order to recover academically and stay on the path toward success and graduation.  Individual course sections may be restricted to specific majors or groups.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Mindfulness and Academic Recovery",
+            "number": "SSC 1155",
+            "description": "This class includes instruction in mindfulness practices with a special emphasis on how these skills can positively help manage stress associated with work, school, family, relationships, finances and health concerns. The class is practically oriented and teaches breathing strategies, body awareness practices, mindful communication skills, and a variety of positive psychology practices designed to change the way we use our thoughts and emotions for greater personal and academic success.  Graded on an A-F basis only.",
+            "prerequisites": "Instructor consent required",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Disney Internship",
+            "number": "SSC 1500",
+            "description": "Internship:  Experiential learning as a \"cast member\" of the Walt Disney World College Program.  Students work for a semester at the Walt Disney World resort and have the option of taking Disney Classes. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent; departmental signature",
+            "hours": "0",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Career Explorations",
+            "number": "SSC 2100",
+            "description": "Contribution of career development theory to choice of career and/or major. Exploration of personal and social determinants of career choice. Class consists of lecture, laboratory experiences, and use of facilities at the Career Planning and Placement Center.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Tutoring University Students",
+            "number": "SSC 2150",
+            "description": "An introduction to tutoring university students.  Provides a pedagogical foundation for tutoring college students in content areas.  Topics include but are not limited to diversity, the tutoring relationship, plagiarism, learning strategies, and best practices.  Students will observe tutorials during the first part of the course and will conduct their own tutorials later in the semester.  Graded on A-F basis only.",
+            "prerequisites": "Instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Disney Internship",
+            "number": "SSC 3100",
+            "description": "Advanced Internship:  Experiential learning opportunity with the Walt Disney World College Program.  Students work for a semester at the Walt Disney World resort and have the option of taking Disney classes.  This is a second internship that is more field-specific and carries with it more responsibilities. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent, departmental signature",
+            "hours": "0",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

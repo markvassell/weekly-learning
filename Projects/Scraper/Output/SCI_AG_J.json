@@ -1,0 +1,248 @@
+{
+    "department_name": "Science and Agricultural Journalism",
+    "department_code": "SCI_AG_J",
+    "courses": [
+        {
+            "name": "Introduction to Science and Agricultural Journalism",
+            "number": "SCI_AG_J 1160",
+            "description": "Introduction to journalistic writing for print, broadcast, Web.  Introduction to writing for public relations.  Also includes writing for live Web publication:  cafnrcornerpost.com.  Provides overview of career opportunities.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Science and Agricultural Journalism",
+            "number": "SCI_AG_J 2150",
+            "description": "For undergraduates majoring in science and agricultural journalism. May be repeated.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Communicating Science to the Public",
+            "number": "SCI_AG_J 2210",
+            "description": "For science majors.  Introduction to the history, theory and practice of communicating science to the general public.  Emphasis on the interplay of science, human values and politics; also, the art and craft of writing and talking to lay audiences. Graded on A-F basis only.",
+            "prerequisites": "ENGLSH 1000 and a declared major in a science or engineering field or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
+        },
+        {
+            "name": "Internships in Science and Agricultural Journalism",
+            "number": "SCI_AG_J 2940",
+            "description": "May be repeated for credit.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Science and Agricultural Journalism",
+            "number": "SCI_AG_J 3201",
+            "description": "Instruction in select subject matter areas in the field of communications.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Fundamentals of Communications",
+            "number": "SCI_AG_J 3210",
+            "description": "Instruction in writing about conflicts in agriculture and the environment and their cultural impacts.  Emphasis on media literacy, critical thinking, communication and the interplay of science and human values.",
+            "prerequisites": "ENGLSH 1000 and sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
+        },
+        {
+            "name": "Fundamentals of Communications - Writing Intensive",
+            "number": "SCI_AG_J 3210W",
+            "description": "Instruction in writing about conflicts in agriculture and the environment and their cultural impacts.  Emphasis on media literacy, critical thinking, communication and the interplay of science and human values.",
+            "prerequisites": "ENGLSH 1000 and sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
+        },
+        {
+            "name": "Communicating on the Web",
+            "number": "SCI_AG_J 3240",
+            "description": "Learn to make a useful, content-driven web site using web authoring software (this is not a programming class). This course emphasizes informative content and functional design.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Science and Agricultural Journalism",
+            "number": "SCI_AG_J 3385",
+            "description": "Opportunity to apply journalism skills to agricultural subjects; opportunity to integrate communication processes within single medium or across media. Section 1: Corner Post Staff, Section 2: Problems in Science and Agricultural Journalism. May be repeated for up to 9 credit hours.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Science and Agricultural Journalism",
+            "number": "SCI_AG_J 4301",
+            "description": "Instruction in select subject matter areas in the field of communications. Graded on A-F basis only.",
+            "prerequisites": "JOURN 4450 and Junior standing",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "JOURN 4450"
+            ]
+        },
+        {
+            "name": "Topics in Science and Agricultural Journalism-Honors",
+            "number": "SCI_AG_J 4301H",
+            "description": "Instruction in select subject matter areas in the field of communications. Graded on A-F basis only.",
+            "prerequisites": "JOURN 4450 and Junior standing; Honors Eligibility required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "JOURN 4450"
+            ]
+        },
+        {
+            "name": "Topics in Science and Agricultural Journalism - Honors/Writing Intensive",
+            "number": "SCI_AG_J 4301HW",
+            "description": "Instruction in select subject matter areas in the field of communications. Graded on A-F basis only.",
+            "prerequisites": "JOURN 4450 and Junior standing; Honors Eligibility required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "JOURN 4450"
+            ]
+        },
+        {
+            "name": "Topics in Science and Agricultural Journalism - Writing Intensive",
+            "number": "SCI_AG_J 4301W",
+            "description": "Instruction in select subject matter areas in the field of communications. Graded on A-F basis only.",
+            "prerequisites": "JOURN 4450 and Junior standing",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "JOURN 4450"
+            ]
+        },
+        {
+            "name": "Readings in Science and Agricultural Journalism",
+            "number": "SCI_AG_J 4410",
+            "description": "An examination of modern journalistic book-length storytelling about science, the food system, environment, natural resources and society. Students will learn about the authors and how they use theory and techniques of storytelling. Students will gain a deeper knowledge about how to pursue such information-gathering and writing, as well as develop their critical-thinking abilities and expertise in the subject matter covered by the books. They will read, analyze and write about the books and the ideas and times that shaped them. Each course will examine a particular subject grouping of books, for example several on farming, or on conservation, or on climate change.",
+            "prerequisites": "English 1000",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Field Reporting on the Food System and Environment",
+            "number": "SCI_AG_J 4414",
+            "description": "(Same as JOURN 4414).  Field reporting on the social, political, scientific, economic and ethical dimensions of the food system and environment, with emphasis on explanatory story-telling.  Includes multi-day field trip. Graded A-F only.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Current Issues in Science Journalism",
+            "number": "SCI_AG_J 4415",
+            "description": "(Same as JOURN 4415) Focuses on covering the interplay of one or more current issues of concern to journalists, scientists and society. The focus for any given semester may be biotechnology, climate change, energy, food safety, global population growth, wildlife or another issue. Graded on A-F basis only.",
+            "prerequisites": "JOURN 2100 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "JOURN 2100"
+            ]
+        },
+        {
+            "name": "Will Write for Food (and Wine)",
+            "number": "SCI_AG_J 4480",
+            "description": "(same as JOURN 4480) Course focuses on food and wine writing in current U.S. culture. Come ready to create mouthwatering narrative and actively seek publishing your finished work. An emphasis will be placed on class participation and written critiques of peer-reviewed articles in class. Graded on A-F basis only.",
+            "prerequisites": "JOURN 4450 or JOURN 4804.  Restricted to Journalism and Science Agricultural Journalism students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "JOURN 4450",
+                "JOURN 4804"
+            ]
+        },
+        {
+            "name": "Will Write for Food (and Wine) - Writing Intensive",
+            "number": "SCI_AG_J 4480W",
+            "description": "(same as JOURN 4480) Course focuses on food and wine writing in current U.S. culture. Come ready to create mouthwatering narrative and actively seek publishing your finished work. An emphasis will be placed on class participation and written critiques of peer-reviewed articles in class. Graded on A-F basis only.",
+            "prerequisites": "JOURN 4450 or JOURN 4804.  Restricted to Journalism and Science Agricultural Journalism students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "JOURN 4450",
+                "JOURN 4804"
+            ]
+        },
+        {
+            "name": "Field Reporting: Wine Country Writing",
+            "number": "SCI_AG_J 4482",
+            "description": "(same as JOURN 4482). Students will examine wine culture, agricultural issues in the vineyard, wine trends, the historical context of wine and Missouri settlement, and more.  Come ready to shape articles into sharp focus and make them fresh with input from fellow student critiques.  Graded on A-F basis only.",
+            "prerequisites": "JOURN 2100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "JOURN 2100"
+            ]
+        },
+        {
+            "name": "Field Reporting: Wine Country Writing - Writing Intensive",
+            "number": "SCI_AG_J 4482W",
+            "description": "(same as JOURN 4482). Students will examine wine culture, agricultural issues in the vineyard, wine trends, the historical context of wine and Missouri settlement, and more.  Come ready to shape articles into sharp focus and make them fresh with input from fellow student critiques.  Graded on A-F basis only.",
+            "prerequisites": "JOURN 2100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "JOURN 2100"
+            ]
+        },
+        {
+            "name": "Internships in Science and Agricultural Journalism",
+            "number": "SCI_AG_J 4940",
+            "description": "May be repeated for credit.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "60 or more credit hours completed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Agriculture and the Media Senior Seminar Capstone",
+            "number": "SCI_AG_J 4970",
+            "description": "Provides background, knowledge of trends and experience with agricultural media.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "Science and Agricultural Journalism seniors take last Spring semester before graduation",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Science and Agricultural Journalism",
+            "number": "SCI_AG_J 7301",
+            "description": "Selected current topics in science and agricultural journalism. Specific topics to be announced at time of registration. Course graded on A-F basis only.",
+            "prerequisites": "Instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Field Reporting on the Food System and Environment",
+            "number": "SCI_AG_J 7414",
+            "description": "(same as JOURN 7414). Field reporting on the social, political, scientific, economic and ethical dimensions of the food system and environment, with emphasis on explanatory story-telling.  Includes multi-day filed trip. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

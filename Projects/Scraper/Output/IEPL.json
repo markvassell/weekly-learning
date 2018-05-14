@@ -1,0 +1,51 @@
+{
+    "department_name": "Listening and Speaking Intensive English Program",
+    "department_code": "IEPL",
+    "courses": [
+        {
+            "name": "Listening and Speaking I",
+            "number": "IEPL _0001",
+            "description": "Students will develop the listening and speaking skills required to comprehend and talk about basic information and everyday situations.  Not open to native speakers of English. No college credit.",
+            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Listening and Speaking II",
+            "number": "IEPL _0002",
+            "description": "Students will develop the listening and speaking skills required to comprehend and talk about simple familiar topics. Not open to native speakers of English. No college credit.",
+            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Listening and Speaking for Academic Purposes III",
+            "number": "IEPL _0030",
+            "description": "Students will develop the listening and speaking skills required to comprehend and discuss adapted academic topics.  Not open to native speakers of English. No college credit.",
+            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Listening and Speaking for Academic Purposes IV",
+            "number": "IEPL _0040",
+            "description": "Students will develop the listening and speaking skills required to comprehend and discuss academic topics and adapted university lectures.  Not open to native speakers of English. No college credit.",
+            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Listening and Speaking for Academic Purposes V",
+            "number": "IEPL _0050",
+            "description": "Students will develop the listening and speaking skills required to comprehend and discuss university lectures and academic interactions.  Not open to native speakers of English. No college credit.",
+            "prerequisites": "must be admitted to the IEP program and placed into the course by the IEP; consent of department required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

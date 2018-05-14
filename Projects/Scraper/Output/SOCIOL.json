@@ -1,0 +1,1353 @@
+{
+    "department_name": "Sociology",
+    "department_code": "SOCIOL",
+    "courses": [
+        {
+            "name": "Introduction to Sociology",
+            "number": "SOCIOL 1000",
+            "description": "Nature of organization and activities of human groupings-family, community, crowd, social class, etc.; structure, function of institutions; social influences shaping personality, behavior, social change. No credit for both SOCIOL 1000 and RU_SOC 1000.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Sociology Honors",
+            "number": "SOCIOL 1000H",
+            "description": "Nature of organization and activities of human groupings-family, community, crowd, social class, etc.; structure, function of institutions; social influences shaping personality, behavior, social change. No credit for both SOCIOL 1000 and RU_SOC 1000.",
+            "prerequisites": "Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Problems",
+            "number": "SOCIOL 1010",
+            "description": "Introduces a sociological perspective on what constitutes social problems and their impact on individuals and societies. Emphasizes critical thinking skills. Topics covered may include poverty, inequalities of gender, race, class, religion, education, and political power, the environment and global conflicts among others.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Population and Ecology",
+            "number": "SOCIOL 1120",
+            "description": "(same as RU_SOC 1120 and PEA_ST 1120). Changes in the structure and characteristics of population groups and their relationship to both human and non-human aspects of the biophysical environment.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Female Experience: Body, Identity, Culture",
+            "number": "SOCIOL 1360",
+            "description": "(same as WGST 1360). Study of the experience of being female in American culture. Course will focus on development of women's identities through such topics as: sexuality, reproduction, self-image, rape and health care.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Deviance",
+            "number": "SOCIOL 1650",
+            "description": "Survey of approaches to the study of behaviors commonly regarded as deviant such as crime, sexual abuse, substance abuse, mental illness, etc.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Sociology-Behavioral Science",
+            "number": "SOCIOL 2103",
+            "description": "Organized study of selected topics. Particular topics may vary from semester to semester. Departmental consent for repetition.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Critical Dialogues: Nonviolence in Peace/Democracy Movements",
+            "number": "SOCIOL 2182",
+            "description": "(same as PEA_ST 2182). History and theory of movements for peace, justice, and democracy. Development of violent and nonviolent tactics and factions in movements; relationship to state authority. Cases such as Gandhi's Independence, American Civil Rights, Arab Spring, and Occupy movements.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "PEA_ST 1050",
+            "connections": [
+                "PEA_ST 1050"
+            ]
+        },
+        {
+            "name": "Critical Dialogues: Nonviolence in Peace/Democracy Movements - Writing Intensive",
+            "number": "SOCIOL 2182W",
+            "description": "(same as PEA_ST 2182W). History and theory of movements for peace, justice, and democracy. Development of violent and nonviolent tactics and factions in movements; relationship to state authority. Cases such as Gandhi's Independence, American Civil Rights, Arab Spring, and Occupy movements.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "PEA_ST 1050",
+            "connections": [
+                "PEA_ST 1050"
+            ]
+        },
+        {
+            "name": "Social Inequalities",
+            "number": "SOCIOL 2200",
+            "description": "(same as BL_STU 2200). Survey of inequalities based upon criteria such as race, ethnicity, sex, age, religion and social class in contemporary societies. Focus on dynamics by which privilege and inequalities are structured.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Black Americans",
+            "number": "SOCIOL 2210",
+            "description": "(same as BL_STU 2210). Analysis of history of blacks in the United States. Assessment of contemporary black community in terms of its institutions, styles of life, patterns of work and intergroup relations.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Perspectives on Aging",
+            "number": "SOCIOL 2230",
+            "description": "Survey of basic knowledge in social gerontology, aging and old age in American society. Analysis of changes as individuals age, differences among old people, social problems of the aged.",
+            "prerequisites": "SOCIOL 1000 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 1000"
+            ]
+        },
+        {
+            "name": "Youth, Islam, and Global Cultures",
+            "number": "SOCIOL 2255",
+            "description": "(same as PEA_ST 2255). Youth subcultures and the social issues and problems faced by youth, focusing on the Islamic world and Muslim immigrants, in the United States and elsewhere. Social and behavioral theories and concepts such as paths to modernization, Orientalism, post-colonialism, population movements, social construction, identity, and recognition will be illustrated.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Race, Democracy, and Violence in Cuba and Haiti",
+            "number": "SOCIOL 2280",
+            "description": "(same as PEA_ST 2280, GEOG 2280).  A sociological approach to understand race/ethnicity, identity, citizenship, human rights, violence, and political and economic systems in the Caribbean. Comparisons of the culture, politics, and historical trajectories of Cuba and Haiti using Post-Colonial and Feminist theories. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Race, Democracy, and Violence in Cuba and Haiti - Writing Intensive",
+            "number": "SOCIOL 2280W",
+            "description": "(same as PEA_ST 2280, GEOG 2280).  A sociological approach to understand race/ethnicity, identity, citizenship, human rights, violence, and political and economic systems in the Caribbean. Comparisons of the culture, politics, and historical trajectories of Cuba and Haiti using Post-Colonial and Feminist theories. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Nuclear Weapons: Environmental, Health and Social Effects",
+            "number": "SOCIOL 2281",
+            "description": "(same as HLTH_SCI 2200 and PEA_ST 2200).  Environmental consequences of the nuclear arms race, \"regional\" nuclear war, and weapons testing for human health, agriculture, and society. Examining \"a world without nuclear weapons\"; political dialogue on proliferation; Iran, North Korea, and nuclear weapons conventions. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Nuclear Weapons: Environmental, Health and Social Effects - Writing Intensive",
+            "number": "SOCIOL 2281W",
+            "description": "(same as HLTH_SCI 2200 and PEA_ST 2200).  Environmental consequences of the nuclear arms race, \"regional\" nuclear war, and weapons testing for human health, agriculture, and society. Examining \"a world without nuclear weapons\"; political dialogue on proliferation; Iran, North Korea, and nuclear weapons conventions. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Critical Dialogs: Global Environmental Policy Conflicts",
+            "number": "SOCIOL 2284",
+            "description": "(same as PEA_ST 2284). Climate change, water supplies, food, sustainability, industrialization, and chemical, oil, radioactive pollution.  Activity of transnational corporations, social harm, and formulation of international policies.  Analysis of alternatives using criteria of justice: distribution, recognition, participation, legality.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Large Corporations, Economic Crisis, Social Responsibility",
+            "number": "SOCIOL 2285",
+            "description": "(same as PEA_ST 2285). Institutional power of the corporate CEO; ethical regulatory restraint.  Historical contexts of economic crisis.  Theories of justice, alternative concepts of justice in popular culture.  Politics of policy issues in prosecution and criminalization of corporate behavior.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Technological Futures, National Security, and Civil Liberties",
+            "number": "SOCIOL 2286",
+            "description": "(same as PEA_ST 2286). Contemporary practices and future trends in data collection and mining by the NSA and by businesses. The interplay of government and corporate power, and possibilities of regulation and maintenance of privacy and civil liberties. The development of digital intellectual copyright and its consequences on patterns of dissemination of knowledge.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Technological Futures, National Security, and Civil Liberties - Writing Intensive",
+            "number": "SOCIOL 2286W",
+            "description": "(same as PEA_ST 2286). Contemporary practices and future trends in data collection and mining by the NSA and by businesses. The interplay of government and corporate power, and possibilities of regulation and maintenance of privacy and civil liberties. The development of digital intellectual copyright and its consequences on patterns of dissemination of knowledge.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Self and Society",
+            "number": "SOCIOL 2300",
+            "description": "Analysis of the self in modern society.  Topics covered include social interaction, social perception, language and learning, the sociology of emotions and the social construction of identity.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Culture and Mass Media",
+            "number": "SOCIOL 2310",
+            "description": "Sociological study of modern folk, local, popular and mass cultural production and consumption; mass media, diffusion, change, differentiation.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Research I",
+            "number": "SOCIOL 2950",
+            "description": "(same as RU_SOC 2950). Introduction to principles of methodology; theory and research; survey of basic research designs and perspectives; preparation for understanding and conducting social research.",
+            "prerequisites": "Required for Sociology majors",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Urban Sociology",
+            "number": "SOCIOL 3000",
+            "description": "Urbanism as a world phenomenon; ecological, demographic characteristics of cities; organization of urban society including status systems, occupational structure, formal and informal associations, racial and cultural relations, forms of communication, housing, city planning.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Recent Theories in Sociology",
+            "number": "SOCIOL 3100",
+            "description": "(same as RU_SOC 3100). Introduction to major theoretical positions and issues in contemporary American sociology. Logical and intellectual structure of major theoretical schools: functionalism, conflict, exchange, symbolic interaction, phenomenological-ethnomethodological theories.",
+            "prerequisites": "Sociology majors only. Non-sociology majors may petition the instructor to add the course",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Class, Status, and Power",
+            "number": "SOCIOL 3200",
+            "description": "Study of the structure of wealth, poverty, prestige, and power.  Concepts of social justice in political, economic and legal issues and policies.  Provides student engagement in research.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sociology of Globalization",
+            "number": "SOCIOL 3210",
+            "description": "Globalization's origin and dynamics; the social and political effects of globalization: countervailing forces to economic globalization, in particular reassertions of \"traditional\" identities, labor movements, new social movements, and the global democracy movement.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Education and Social Inequalities",
+            "number": "SOCIOL 3230",
+            "description": "Examination of the ways in which inequalities are constructed, reproduced, maintained or transformed by and within educational institutions. Particular attention will be given to inequalities based on gender, race, and social class.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Youth in Today's World",
+            "number": "SOCIOL 3255",
+            "description": "Study of what factors influence the development of youth in today's society. Examined are types of behavior such as mating, deviance and the role of schools, parents, TV and friendship groups.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Queer Theories/Identities",
+            "number": "SOCIOL 3300",
+            "description": "(same as WGST 3300). Analysis of gay, lesbian, bisexual, transgender (GLBT) and queer identities in culture and society with an emphasis on the contributions of queer theory and other GLBT standpoint theories to sociology and the study of society.",
+            "prerequisites": "SOCIOL 2200 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 2200"
+            ]
+        },
+        {
+            "name": "Queer Theories/Identities - Writing Intensive",
+            "number": "SOCIOL 3300W",
+            "description": "(same as WGST 3300). Analysis of gay, lesbian, bisexual, transgender (GLBT) and queer identities in culture and society with an emphasis on the contributions of queer theory and other GLBT standpoint theories to sociology and the study of society.",
+            "prerequisites": "SOCIOL 2200 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 2200"
+            ]
+        },
+        {
+            "name": "Social Psychology",
+            "number": "SOCIOL 3310",
+            "description": "Survey of theories and research concerned with the ways in which individuals construct social situations and are affected by them. Topics covered include self-identities, social influence, personal relationships, prejudice and discrimination.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Psychology - Writing Intensive",
+            "number": "SOCIOL 3310W",
+            "description": "Survey of theories and research concerned with the ways in which individuals construct social situations and are affected by them. Topics covered include self-identities, social influence, personal relationships, prejudice and discrimination.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sociology of Gender",
+            "number": "SOCIOL 3320",
+            "description": "(same as WGST 3320). Study of the ways in which femininities and masculinities are constructed in American society with particular attention to gender ideologies and the gendered nature of the social structure.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Environmental Justice",
+            "number": "SOCIOL 3330",
+            "description": "(same as PEA_ST 3330). Environmental justice refers to the ways in which the \"cost and benefits\" of modern industrial society are distributed among social groups.  This course is concerned with justice, not as an abstract concept, and inequality not in terms of numbers in a bank account.  Social justice or inequality are lived, embodied experiences.  An individual's likelihood of experiencing environmental harm is related to intersecting gender, race and class formations, among other things.  Justice or inequality is not only embodied, it also happens in places--national and regional differences matter.  In this course we will look at some of the extensive literature documenting the ways in which communities of color and poor communities are subject to disproportionate environmental risks.  In addition, we will focus on gender as an important category in understanding environmental inequality.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Politics of the Media",
+            "number": "SOCIOL 3400",
+            "description": "(same as PEA_ST 3400). In this course we study critical thinking skills and use them to compare and contrast U.S. media coverage of current issues with media in other parts of the world. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Politics of the Media - Writing Intensive",
+            "number": "SOCIOL 3400W",
+            "description": "(same as PEA_ST 3400). In this course we study critical thinking skills and use them to compare and contrast U.S. media coverage of current issues with media in other parts of the world. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Family",
+            "number": "SOCIOL 3420",
+            "description": "Families, kin and households as interacting groups; roles, socialization, problems, structural change; family in relation to other social institutions; historical, cultural and class variations.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Sociology of Sport",
+            "number": "SOCIOL 3430",
+            "description": "The role of sport in modern society. Includes violence in sport; politics and economics of sport; male, female, and racial inequalities; and international comparisons of sport structures.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sociology of Health",
+            "number": "SOCIOL 3440",
+            "description": "A survey of sociological thinking and research on health, health problems, health occupations and health services. How these are shaped by the society. Problems faced by individuals and the system. Potential solutions to problems.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Sociology of Religion",
+            "number": "SOCIOL 3450",
+            "description": "Sociology of religious experience, action, organization, movements and social change; contemporary trends, including mainline and new religions, civil religion, secularization.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Technology and Society",
+            "number": "SOCIOL 3460",
+            "description": "In the last few decades science and technology have permeated our lives as never before.  This has led to wide ranging intellectual debates and social movements in and around the issue of relationship between science, technology, and society.  This course, which is organized on a lecture-seminar format, will critically investigate different aspects of the relationship between science, technology, and society.   Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Technology and Society - Writing Intensive",
+            "number": "SOCIOL 3460W",
+            "description": "In the last few decades science and technology have permeated our lives as never before.  This has led to wide ranging intellectual debates and social movements in and around the issue of relationship between science, technology, and society.  This course, which is organized on a lecture-seminar format, will critically investigate different aspects of the relationship between science, technology, and society.   Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Public Opinion and Communication",
+            "number": "SOCIOL 3510",
+            "description": "Nature of public opinion; processes of opinion formation; special publics, pressure groups; effects of communication through personal contacts and mass media; propaganda, censorship; opinion surveying.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Collective Behavior",
+            "number": "SOCIOL 3520",
+            "description": "(same as PEA_ST 3520). Analysis of crowd behavior and related phenomena: rumors, disasters, fashions. Social responses to unclear, dangerous or unjust conditions. The dynamics of conflict, consensus and change.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Collective Behavior - Writing Intensive",
+            "number": "SOCIOL 3520W",
+            "description": "(same as PEA_ST 3520). Analysis of crowd behavior and related phenomena: rumors, disasters, fashions. Social responses to unclear, dangerous or unjust conditions. The dynamics of conflict, consensus and change.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "New Media, Conflict and Control",
+            "number": "SOCIOL 3522",
+            "description": "(same as PEA_ST 3522). This course will explore the increasing role of new media tools in conflict and surveillance. Examples from recent conflicts will illustrate how citizens and regimes use new media to communicate, report, mobilize, monitor, and/or control. Students will utilize new media as they research instances of democracy and control.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Criminology",
+            "number": "SOCIOL 3600",
+            "description": "(same as PEA_ST 3600). Sociology of law; constitutional, psychological, sociological theories of criminal behavior; process of criminal justice; treatment of corrections; control of crime.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Institutions and Society",
+            "number": "SOCIOL 3700",
+            "description": "Institutions of societies with focus on institutional arrangements (economy, polity, media, education, religion); organizational structures; interorganizational networks; interrelations of institutional sectors.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Sociology of Work",
+            "number": "SOCIOL 3710",
+            "description": "Analysis of occupational, professional aspects of American society. Division of labor; occupational mobility; work and the self; colleagueship and informal organizations of work.",
+            "prerequisites": "SOCIOL 1000 or SOCIOL 1650",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 1000",
+                "SOCIOL 1650"
+            ]
+        },
+        {
+            "name": "Social Research I - Writing Intensive",
+            "number": "SOCIOL 3950W",
+            "description": "(same as RU_SOC 3950W). Introduction to principles of methodology; theory and research; survey of basic research designs and perspectives; preparation for understanding and conducting social research.",
+            "prerequisites": "Required for Sociology majors",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Sociology-Social Science",
+            "number": "SOCIOL 4104",
+            "description": "Organized study of selected topics. Particular topics may vary from semester to semester. May be repeated for credit with departmental consent.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Feminist Research and Criticism",
+            "number": "SOCIOL 4110",
+            "description": "(same as WGST 4110). Examination of both feminist critiques of traditional social research and recent, feminist-oriented research that attempts to answer these criticisms.",
+            "prerequisites": "SOCIOL 2950",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 2950"
+            ]
+        },
+        {
+            "name": "Social Statistics",
+            "number": "SOCIOL 4120",
+            "description": "(same as RU_SOC 4120). Descriptive statistics and bivariate quantitative analysis techniques commonly used by social scientists. Includes coverage of parametric and non-parametric methods. Introduction to computer analysis.",
+            "prerequisites": "SOCIOL 2950 or graduate standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 2950"
+            ]
+        },
+        {
+            "name": "Social Inequalities",
+            "number": "SOCIOL 4200",
+            "description": "Examination of theories and research concerned with inequalities based on social class, gender, and race-ethnicity. M.A. core course for sociology students.",
+            "prerequisites": "graduate standing or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Aging and the Life Course",
+            "number": "SOCIOL 4210",
+            "description": "Course will take a life course perspective on the sociological aspects of aging in contemporary American society. Begins with birth, then childhood, adolescence, emergent adulthood, middle life, old age, and death. Graded on A-F basis only.",
+            "prerequisites": "Junior standing or above",
+            "hours": "3",
+            "recommendation": "At least three credits in Sociology prior to enrollment is preferred",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Race and Ethnic Relations",
+            "number": "SOCIOL 4220",
+            "description": "The experience of racial and ethnic minorities; inequality, assimilation, ethnic and racial conflict, accommodation.",
+            "prerequisites": "junior standing or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Women, Development, and Globalization",
+            "number": "SOCIOL 4230",
+            "description": "(same as BL_STU 4230 and WGST 4230 and PEA_ST 4230). Examines the history and structure of \"development\" discourse and practices. Stresses the interconnections and impact on women globally. Reviews women's strategies in defining and instituting programs to improve quality of life in communities.",
+            "prerequisites": "BL_STU 1332, BL_STU 2200; SOCIOL 2200; WGST 1332 or WGST 2010",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BL_STU 1332",
+                "BL_STU 2200",
+                "SOCIOL 2200",
+                "WGST 1332",
+                "WGST 2010"
+            ]
+        },
+        {
+            "name": "Social Perspectives on Gender and Emotion",
+            "number": "SOCIOL 4235",
+            "description": "(same as BL_STU 4235, WGST 4235; cross-leveled with BL_STU 7235, SOCIOL 7235, WGST 7235). Examines theories of affect and emotions, the social contexts and the implications for human development and behavior, with special emphasis on sex, gender, race, class and culture. Graded on A-F basis only.",
+            "prerequisites": "WGST 1332 or WGST 1360; SOCIOL 1360 or SOCIOL 2300; BL_STU 1332 or BL_STU 2200; junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BL_STU 1332",
+                "BL_STU 2200",
+                "SOCIOL 1360",
+                "SOCIOL 2300",
+                "WGST 1332",
+                "WGST 1360"
+            ]
+        },
+        {
+            "name": "Social Demography",
+            "number": "SOCIOL 4315",
+            "description": "(same as RU_SOC 4315). General demographic theories; age, sex, and ethnic composition of population; fertility, mortality and migration as components of population change; social, economic and political implications of demographic trends.",
+            "prerequisites": "SOCIOL 1000 or RU_SOC 1000 and junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
+        },
+        {
+            "name": "Culture, Identity and Interaction",
+            "number": "SOCIOL 4320",
+            "description": "Examines the interplay between culture, identity, and interaction as these intersect with issues of social inequality, social control, social change, and the everyday production of subjectivities.",
+            "prerequisites": "SOCIOL 3310 graduate standing or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 3310"
+            ]
+        },
+        {
+            "name": "Social Change and Development",
+            "number": "SOCIOL 4335",
+            "description": "(same as RU_SOC 4335).  Nature of social change and development. Emphasizes sociological theories of social change and development contrasting them with approaches from the disciplines.",
+            "prerequisites": "RU_SOC 1000 or SOCIOL 1000 and junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
+        },
+        {
+            "name": "Environment and Society",
+            "number": "SOCIOL 4370",
+            "description": "(same as RU_SOC 4370). An interdisciplinary examination of domestic and international environmental issues focusing on social, cultural, and policy dimensions. Perspectives of the social sciences and humanities are included.",
+            "prerequisites": "junior, senior or graduate standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sociology of Education",
+            "number": "SOCIOL 4410",
+            "description": "(cross-leveled with  ED_LPA 7458 and SOCIOL 7410). Contexts, structures and processes of schooling; effects on class, race, ethnicity and gender; social change, educational policy, and organizational dynamics; higher education and the economy.",
+            "prerequisites": "SOCIOL 1000 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 1000"
+            ]
+        },
+        {
+            "name": "Sociology of Social Policy",
+            "number": "SOCIOL 4500",
+            "description": "Sociological theories and methodologies focused on social policy; policy as process; contextual and critical policy analyses; assessing policy effects and consequences.",
+            "prerequisites": "senior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Movements and Conflicts",
+            "number": "SOCIOL 4510",
+            "description": "Survey of approaches and research on social movements and social change. Historical and contemporary social movements in the U.S.; collective protest and violence; political revolutions. MA core course.",
+            "prerequisites": "SOCIOL 3520, SOCIOL 3700, or SOCIOL 3320 or graduate standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 3520",
+                "SOCIOL 3700",
+                "SOCIOL 3320"
+            ]
+        },
+        {
+            "name": "Political Sociology",
+            "number": "SOCIOL 4520",
+            "description": "(same as PEA_ST 4520). Social bases of power and politics, economic and political elites, the political economy of the advanced societies, sources of political conflict and change.",
+            "prerequisites": "SOCIOL 3200, SOCIOL 3510, SOCIOL 3520, or SOCIOL 3700",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 3200",
+                "SOCIOL 3510",
+                "SOCIOL 3520",
+                "SOCIOL 3700"
+            ]
+        },
+        {
+            "name": "Gender and Human Rights in Cross Cultural Perspective",
+            "number": "SOCIOL 4550",
+            "description": "(same as WGST 4550 and PEA_ST 4550).  This course focuses on the global discourse on human rights and gender, emphasizing cross-cultural theories.  Course includes the meaning of rights, Western and non-western perspectives, feminist contributions, important substantive debates, violations, policymaking and activism.",
+            "prerequisites": "WGST 1120 or SOCIOL 2200; senior standing required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 2200",
+                "WGST 1120"
+            ]
+        },
+        {
+            "name": "Society and Social Control",
+            "number": "SOCIOL 4610",
+            "description": "The concept of social control is analyzed from both micro and macro theoretical perspectives. Focus is on patterns of social domination.",
+            "prerequisites": "SOCIOL 3700 or SOCIOL 3710",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 3700",
+                "SOCIOL 3710"
+            ]
+        },
+        {
+            "name": "Drugs and Society",
+            "number": "SOCIOL 4620",
+            "description": "Course will examine the social, political, and economic aspects of legal and illegal drug use in American society.  Issues include: theories of drug use, the social correlates of drug use, the war on drugs and policy alternatives, and the rise of the pharmaceuticals industry.  Graded on A/F basis only",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sociology of Mental Health",
+            "number": "SOCIOL 4630",
+            "description": "Course examines the social aspects of mental health and illness.  Topics include: stress and mental health, medicalization of behavior, stigma and labeling, mental health care systems, social correlates of mental health (such as gender, childhood, work status, and social support).",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "1000 level sociology course or 1000 level Psychology course",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internship in Sociology",
+            "number": "SOCIOL 4940",
+            "description": "Professional experience under faculty supervision. Project must be arranged by student and faculty member prior to registration.",
+            "prerequisites": "junior standing and instructor's consent",
+            "hours": "1-9",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Service Learning in Sociology",
+            "number": "SOCIOL 4942",
+            "description": "Students participate in a variety of research-oriented, community service projects which illuminate and reinforce concepts introduced in various sociology courses. Repeatable twice for credit. Does not meet Arts and Science general education requirements.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Special Readings in Sociology",
+            "number": "SOCIOL 4960",
+            "description": "Extensive reading in selected area or special field.",
+            "prerequisites": "12 hours Sociology and departmental consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Senior Seminar",
+            "number": "SOCIOL 4970",
+            "description": "Integrates perspectives, methods, substantive foci of undergraduate courses. Analysis of sociology as a discipline and profession. Discussion of opportunities for graduate study, employment.",
+            "prerequisites": "SOCIOL 2950 and SOCIOL 3100 and senior sociology major",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 2950",
+                "SOCIOL 3100"
+            ]
+        },
+        {
+            "name": "Senior Seminar - Writing Intensive",
+            "number": "SOCIOL 4970W",
+            "description": "Integrates perspectives, methods, substantive foci of undergraduate courses. Analysis of sociology as a discipline and profession. Discussion of opportunities for graduate study, employment.",
+            "prerequisites": "SOCIOL 2950 and SOCIOL 3100 and senior sociology major",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 2950",
+                "SOCIOL 3100"
+            ]
+        },
+        {
+            "name": "Honors in Sociology",
+            "number": "SOCIOL 4995",
+            "description": "Intensive work in a selected field within sociology, including readings and research. Repeatable up to 6 hours with departmental consent.",
+            "prerequisites": "for honors candidates; SOCIOL 2950 and SOCIOL 3100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 2950",
+                "SOCIOL 3100"
+            ]
+        },
+        {
+            "name": "Topics in Sociology-Social Science",
+            "number": "SOCIOL 7004",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated with departmental consent.",
+            "prerequisites": "junior standing and instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Sociology",
+            "number": "SOCIOL 7085",
+            "description": "Directed research not leading to thesis or dissertation.",
+            "prerequisites": "12 hours Sociology and departmental consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Feminist Research and Criticism",
+            "number": "SOCIOL 7110",
+            "description": "(same as WGST 7110). Examination of both feminist critiques of traditional social research and recent, feminist-oriented research that attempts to answer these criticisms.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Statistics",
+            "number": "SOCIOL 7120",
+            "description": "(same as RU_SOC 7120). Descriptive statistics and bivariate quantitative analysis techniques commonly used by social scientists. Includes coverage of parametric and non-parametric methods. Introduction to computer analysis.",
+            "prerequisites": "SOCIOL 2950",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 2950"
+            ]
+        },
+        {
+            "name": "Social Inequalities",
+            "number": "SOCIOL 7200",
+            "description": "Examination of theories and research concerned with inequalities based on social class, gender, and race-ethnicity. M.A. core course for sociology students.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sociology of Aging",
+            "number": "SOCIOL 7210",
+            "description": "Sociological research and theories of aging and old age; historical, demographic, comparative, social psychological and structural topics are studied in depth.",
+            "prerequisites": "6 hours of Sociology",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Race and Ethnic Relations",
+            "number": "SOCIOL 7220",
+            "description": "The experience of racial and ethnic minorities; inequality, assimilation, ethnic and racial conflict, accommodation.",
+            "prerequisites": "SOCIOL 1000 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 1000"
+            ]
+        },
+        {
+            "name": "Women, Development and Globalization",
+            "number": "SOCIOL 7230",
+            "description": "(same as WGST 7230 and BL_STU 7230; cross-leveled with WGST 4230). Examines the history and structure of \"development\" discourse and practices. Stresses the interconnections and impact on women globally. Reviews women's strategies in defining and instituting programs to improve quality of life in communities.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Perspectives on Gender and Emotion",
+            "number": "SOCIOL 7235",
+            "description": "(same as WGST 7235, BL_STU 7235; cross-leveled with WGST 4235, SOCIOL 4235, BL_STU 4235).  Examines theories of affect and emotions, the social contexts and the implications for human development and behavior, with special emphasis on sex, gender, race, class and culture. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Comparative Social Institutions",
+            "number": "SOCIOL 7287",
+            "description": "Analysis of selected social institutions such as agriculture, family, economy, education, health care, law, polity, religion. Inter-institutional and international comparisons.",
+            "prerequisites": "SOCIOL 4700 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 4700"
+            ]
+        },
+        {
+            "name": "Death and Dying",
+            "number": "SOCIOL 7300",
+            "description": "Death and dying explored from demographic, sociological and social psychological perspectives. Topics: trends and differentials; definitions of death; dying as a social process; funerals and survivors; cultural solutions to problems of death.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Demography",
+            "number": "SOCIOL 7315",
+            "description": "(same as RU_SOC 7315). General demographic theories; age, sex, and ethnic composition of population; fertility, mortality and migration as components of population change; social, economic and political implications of demographic trends.",
+            "prerequisites": "SOCIOL 1000 or RU_SOC 1000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
+        },
+        {
+            "name": "Culture, Identity and Interaction",
+            "number": "SOCIOL 7320",
+            "description": "Examines the interplay between culture, identity, and interaction as these intersect with issues of social inequality, social control, social change, and the everyday production of subjectives.",
+            "prerequisites": "SOCIOL 3310",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 3310"
+            ]
+        },
+        {
+            "name": "Social Change and Development",
+            "number": "SOCIOL 7335",
+            "description": "(same as RU_SOC 7335). Nature of social change and development. Emphasizes sociological theories of social change and development contrasting them with approaches from the disciplines.",
+            "prerequisites": "RU_SOC 1000 or SOCIOL 1000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "RU_SOC 1000",
+                "SOCIOL 1000"
+            ]
+        },
+        {
+            "name": "Self, Language, and Social Life",
+            "number": "SOCIOL 7340",
+            "description": "Examines the interplay between self, language, and social life. Particular attention is paid to how the everyday construction of inner lives relates to diverse social worlds. The effects of situational and institutional conditions as they shape identity and social interactions are important considerations.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Environment and Society",
+            "number": "SOCIOL 7370",
+            "description": "(same as RU_SOC 7370). An interdisciplinary examination of domestic and international environmental issues focusing on social, cultural, and policy dimensions. Perspectives of the social sciences and humanities are included.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Sociology of Work",
+            "number": "SOCIOL 7387",
+            "description": "Recent developments in the sociological study of occupations and professions. Surveys alternative theoretical perspectives and methodological approaches. Deals with rationalization, professionalization, alienation, class consciousness, self management.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sociology of Education",
+            "number": "SOCIOL 7410",
+            "description": "(same as  ED_LPA 7458; cross-leveled with SOCIOL 4410). Contexts, structures and processes of schooling; effects on class, race, ethnicity and gender; social change, educational policy, and organizational dynamics; higher education and the economy.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Community Social Structure",
+            "number": "SOCIOL 7446",
+            "description": "(same as RU_SOC 7446). A comparative study of communities in different nations and in urban and rural areas. A primary focus of the course will be on social change in communities, in response to changing economic, political, social, cultural, and ecological factors.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sociology of Social Policy",
+            "number": "SOCIOL 7500",
+            "description": "Sociological theories and methodologies focused on social policy; policy as process; contextual and critical policy analyses; assessing policy effects and consequences.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Movements and Conflicts",
+            "number": "SOCIOL 7510",
+            "description": "Survey of approaches and research on social movements and social change. Historical and contemporary social movements in the U.S.; collective protest and violence; political revolutions.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Political Sociology",
+            "number": "SOCIOL 7520",
+            "description": "(same as PEA_ST 7520). Social bases of power and politics, economic and political elites, the political economy of the advanced societies, sources of political conflict and change.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Gender and Human Rights in Cross Cultural Perspective",
+            "number": "SOCIOL 7550",
+            "description": "(same as PEA_ST 7550 and WGST 7550). Focuses on the global discourse on human rights and gender, emphasizing cross-cultural theories. Course includes the meaning of human rights, western and non-western perspectives, feminist contributions, important substantive debates, violations, policymaking and activism.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Culture and Mass Media",
+            "number": "SOCIOL 7587",
+            "description": "Sociological examination of culture and mass media, including institutional character, production and distribution, audience effects, relation of social structures. Current research, theories, methods.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Society and Social Control",
+            "number": "SOCIOL 7610",
+            "description": "The concept of social control is analyzed from both micro and macro theoretical perspectives. Focus is on patterns of social domination.",
+            "prerequisites": "SOCIOL 3700 or SOCIOL 3710",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 3700",
+                "SOCIOL 3710"
+            ]
+        },
+        {
+            "name": "Seminar in Family Sociology",
+            "number": "SOCIOL 7687",
+            "description": "Research and theory on family structure and family life; in-depth study of a selection of topics and issues.",
+            "prerequisites": "SOCIOL 4210 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 4210"
+            ]
+        },
+        {
+            "name": "Special Readings in Sociology for the Graduate Level",
+            "number": "SOCIOL 7960",
+            "description": "Extensive reading in selected area or special field. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Teaching Sociology",
+            "number": "SOCIOL 8086",
+            "description": "This graduate seminar will cover current issues in higher education, building a teaching portfolio, the daily work of teaching, and work/life balance in academia.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Critical Race Theory",
+            "number": "SOCIOL 8087",
+            "description": "Critical examination of key sociological theories of race, racialization, and racism in contemporary society.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Theoretical Thinking in Sociology",
+            "number": "SOCIOL 8100",
+            "description": "Close analysis of the texts of classical and contemporary social theory.  Key concepts will be elaborated in the context of intellectual history, and will be applied to deepening the theoretical significance of an empirical research question on the student's emerging agenda.  Required for all entering graduate students in Sociology.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Sociology",
+            "number": "SOCIOL 8110",
+            "description": "Research not expected to terminate in thesis or dissertation.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Logic of Social Research",
+            "number": "SOCIOL 8120",
+            "description": "Meta-theoretical and conceptual issues at the core of design decision making, questionnaire construction, qualitative field techniques, interviewing, scaling, panel analysis, computer applications to qualitative data; experimental, survey and case study designs, ethics. Required for Ph.D. students.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Social Statistics",
+            "number": "SOCIOL 8130",
+            "description": "(same as RU_SOC 8130). Introduction to multivariate analysis for social scientists. Emphasis on non-experimental applications of analysis of variance and correlation-regression. Computer applications emphasized.",
+            "prerequisites": "SOCIOL 7120 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 7120"
+            ]
+        },
+        {
+            "name": "Seminar in Population Health",
+            "number": "SOCIOL 8140",
+            "description": "Graduate Seminar on the social distribution of morbidity and mortality.  Covers major theoretical perspectives and the state of empirical evidence regarding several individuals and contextual explanations of health disparities.   Graded on A-F basis only.",
+            "prerequisites": "instructor permission",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graduate Seminar in Urban Sociology",
+            "number": "SOCIOL 8150",
+            "description": "In this course we will survey the field of urban sociology.  Urban sociology is the study of human social relations in cities and urbanized communities.  We will consider urbanization in its preindustrial, industrial, and postindustrial forms in the U.S. and elsewhere.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar on Interview Theory and Technique",
+            "number": "SOCIOL 8187",
+            "description": "The seminar has three goals: First is the consideration of literature dealing with recent theoretical formulations of the interview. This will provide a basis, second, for critically examining a number of popular interview guidebooks. The third goal is to offer the opportunity to put theory and technique into practice by analyzing selected interview material.",
+            "prerequisites": "doctoral standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Media and Power in Comparative Perspective Seminar",
+            "number": "SOCIOL 8250",
+            "description": "This course traces the historical development of U.S. and selected international media systems.  We analyze and debate the relationship of differing media systems to political power, popular culture, and the facilitation or inhibition of democratic practices.  Students do comparative analyses of international media institutions and related analyzes of media content.",
+            "prerequisites": "undergraduate seniors may enroll with instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Race, Ethnicity, and Transnational Inequalities",
+            "number": "SOCIOL 8277",
+            "description": "(same as BL_STU 8277).  This graduate seminar examines the global contest of our radicalized modern world system.  How do people develop and give meaning to race/ethnicity in different regions?  Focus on the construction of bodies Creole identities, gender, sexualities, citizenships and immigration.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar on Sustainable Development",
+            "number": "SOCIOL 8287",
+            "description": "(same as RU_SOC 8287). An interdisciplinary examination of sustainable development focusing on social, economic, cultural and environmental dimensions of development.  International and domestic issues and approaches to sustainable development are included.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar on Narrative and Identity",
+            "number": "SOCIOL 8387",
+            "description": "",
+            "prerequisites": "graduate standing required; instructor's consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Social Processes of Information/Knowledge Utilization",
+            "number": "SOCIOL 8425",
+            "description": "(same as RU_SOC 8425). Factors conditioning communication and diffusion of ideas and practices; exercise of personal influence; role of change agents and agencies in the process of change.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graduate Seminar in Medicine, Technology, and Globalization",
+            "number": "SOCIOL 8435",
+            "description": "In the last two hundred years medicine and technology have transformed our day-to-day living as never before. They have permeated our social and personal imagination, our epistemological bearing, disciplinary practices, and not to forget national and global agendas. A key aspect of such transformations, which we are going to investigate in this course, has been the intertwining of medicine and technology in a variety of ways, resulting in wide ranging impact - from the emergence of medical gaze, transformation of healthcare practices, to present day transnationalization and globalization of medical practices. This course would utilize recent theoretical developments to interrogate different interrelated facets of medicine, technology, and globalization.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Criminology and Deviant Behavior",
+            "number": "SOCIOL 8687",
+            "description": "Survey of empirical research and sociological theory in criminology and deviant behavior. May be repeated once with instructor's consent.",
+            "prerequisites": "SOCIOL 3600",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 3600"
+            ]
+        },
+        {
+            "name": "Seminar on the Sociology of Health and Sickness",
+            "number": "SOCIOL 8987",
+            "description": "Topical seminar dealing with one of three subject areas: (1) Health problems, disease, illness, sickness; (2) Occupations, and Organizations in the health field, or (3) Comparative Health Care Systems. Course may be repeated for different topics.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research",
+            "number": "SOCIOL 9090",
+            "description": "Advanced work leading to thesis or dissertation.  Graded on a S/U basis only.",
+            "prerequisites": "consent of major advisor",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Sociological Theory I",
+            "number": "SOCIOL 9187",
+            "description": "Traces development of sociological theory from the \"generation of 1890\" through the 1940s, including the work of Durkheim, Weber, Parsons and others.",
+            "prerequisites": "SOCIOL 8100 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 8100"
+            ]
+        },
+        {
+            "name": "Seminar in Qualitative Methods in Sociology",
+            "number": "SOCIOL 9287",
+            "description": "(same as RU_SOC 9287). Examination of various qualitative methods of research, including problem-formulation, access and interpretation of data, theory-generation, and preparation of research reports.",
+            "prerequisites": "SOCIOL 8120 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 8120"
+            ]
+        },
+        {
+            "name": "Ethnographic Fieldwork",
+            "number": "SOCIOL 9288",
+            "description": "History of sociological ethnography, the analysis of key ethnographic texts, forms of ethnographic fieldwork, and recent debates related to representational practices.  Applications to participant observation, field interviewing, and strategies of discourse analysis in various social settings.",
+            "prerequisites": "SOCIOL 9287,  instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 9287"
+            ]
+        },
+        {
+            "name": "Social Interaction Research",
+            "number": "SOCIOL 9300",
+            "description": "Seminar on research methods in social interaction. ",
+            "prerequisites": " PSYCH 8310 or instructor's consent",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 8310"
+            ]
+        },
+        {
+            "name": "Graduate Seminar in Environmental Discourses",
+            "number": "SOCIOL 9350",
+            "description": "This seminar explores human cultural interactions with nature: how we understand ourselves in relation to space, how we interact with and learn about nature, and how we use nature.  Readings will include exemplary texts from sociology, geography and anthropology, science studies and cultural studies. Graduate Standing required.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Sociological Theory II",
+            "number": "SOCIOL 9487",
+            "description": "Theoretical developments in sociology in Europe and United States since 1950. Recent formulations, controversies.",
+            "prerequisites": "SOCIOL 8100 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 8100"
+            ]
+        },
+        {
+            "name": "Seminar in State and Economy",
+            "number": "SOCIOL 9500",
+            "description": "Analysis of public policy and economic change in contemporary political-economic systems; growth of welfare state, capitalist planning, state socialist economics.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Culture, Difference, and Inequality",
+            "number": "SOCIOL 9525",
+            "description": "This course is an examination of exemplary, interdisciplinary texts employing a variety of cultural approaches to understanding difference and inequality.  In this seminar, we will think about what is gained from various cultural approaches to difference and inequality, now such approaches can be achieved methodologically, and how students can apply such approaches to their own research.  The main focus of the course is on cultural studies and poststructural feminist studies, but readings will also be included from intersectionality studies, affect studies, critical race studies and cultural sociology.",
+            "prerequisites": "restricted to Sociology graduate students or instructor permission",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topical Seminar in Contemporary Sociological Theory",
+            "number": "SOCIOL 9587",
+            "description": "Critical evaluation of selected points of view in current sociological theory. May be repeated with departmental consent.",
+            "prerequisites": "SOCIOL 8100 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 8100"
+            ]
+        },
+        {
+            "name": "Topical Seminar in Historical Sociology",
+            "number": "SOCIOL 9687",
+            "description": "Methodological approaches to sociological explanation of historical phenomena; related sociological theories of historical development, including Weberian, Marxist and other perspectives applied to a topical historical problem.",
+            "prerequisites": "SOCIOL 8100 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 8100"
+            ]
+        },
+        {
+            "name": "Graduate Seminar in Body and Society",
+            "number": "SOCIOL 9777",
+            "description": "The course is organized around three major themes - body as a site of personal and political experience; the social body, emphasizing the relationship between society, culture, and individuals; and the body as a site and instrument of politics.  Readings assigned for the course are aimed at critical engagement with the \"body: within and across these themes.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Multivariate Analysis Techniques",
+            "number": "SOCIOL 9837",
+            "description": "(same as RU_SOC 9837). Examination of various qualitative techniques of data analysis.",
+            "prerequisites": "SOCIOL 8120 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 8120"
+            ]
+        },
+        {
+            "name": "Seminar in Sociology of Gender",
+            "number": "SOCIOL 9887",
+            "description": "Analysis of recent research in which gender is a major focus. This research is chosen to exemplify a variety of theoretical perspectives, research strategies, and substantive topics.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Independent Readings in Preparation f/Comprehensive Examinations",
+            "number": "SOCIOL 9920",
+            "description": "Independent readings for PhD comprehensives. Open only to PhD candidates who have passed qualifying examinations.",
+            "prerequisites": "consent of major advisor",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Sociological Reasoning and Research Development",
+            "number": "SOCIOL 9987",
+            "description": "Systematic development of sociological research integrating theory, method, and contributions to knowledge. Formulations of sociological problems, conceptual frameworks, research programs analytical strategies.",
+            "prerequisites": "SOCIOL 8120 or equivalent; departmental consent; doctoral standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOCIOL 8120"
+            ]
+        }
+    ]
+}

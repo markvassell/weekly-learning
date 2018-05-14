@@ -1,0 +1,1238 @@
+{
+    "department_name": "Physics",
+    "department_code": "PHYSCS",
+    "courses": [
+        {
+            "name": "Topics in Physics and Astronomy",
+            "number": "PHYSCS 1002",
+            "description": "Study of selected topics in physics and astronomy. Subjects and earnable credit may vary from semester to semester.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Concepts in Cosmology",
+            "number": "PHYSCS 1050",
+            "description": "Introduction to fundamental concepts of modern cosmology. Topics include Olbers' paradox, Hubble expansion, Big Bang, and the Cosmic Microwave Background Radiation.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Science and Inventions",
+            "number": "PHYSCS 1100",
+            "description": "This course covers the history of some of the most important inventions in science and their impact on past civilizations, current advances in science and inventions, funding and policies, and critical advances in technology required for future generations.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Concepts in Physics",
+            "number": "PHYSCS 1150",
+            "description": "Introduction to fundamental concepts of physics for non-science majors. Concepts include the conservation of energy, the second law of thermodynamics, and the special theory of relativity. Students learn to reason and apply these concepts through writing assignments.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "College Physics I",
+            "number": "PHYSCS 1210",
+            "description": "This introductory college physics course uses algebra and trigonometry in developing some of the fundamental concepts of classical physics. Topics covered are vectors, kinematics, dynamics, gravity, momentum, energy, rotational kinematics, rotational dynamics, fluids, simple harmonic motion, waves and sound, and thermodynamics. Three lectures, one discussion, one lab weekly. Students may receive credit for PHYSCS 1210 or PHYSCS 2750, but not both.",
+            "prerequisites": "MATH 1100",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100"
+            ]
+        },
+        {
+            "name": "College Physics II",
+            "number": "PHYSCS 1220",
+            "description": "This introductory second semester college physics course uses algebra and trigonometry in developing some of the fundamental concepts of classical physics.Topics covered include electricity and magnetism, optics and modern physics. Three lectures, one discussion, one lab weekly. Students may receive credit for PHYSCS 1220 or PHYSCS 2760, but not both.",
+            "prerequisites": "grade of C- or better in PHYSCS 1210",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 1210"
+            ]
+        },
+        {
+            "name": "Energy and Energy Technology - Honors",
+            "number": "PHYSCS 1500H",
+            "description": "Explore issues in energy, energy production and energy use from a science and technology perspective. Students will learn through a combination of lectures, classroom activities, a writing assignment, open-ended discussion, and student presentations. Graded on A-F only.",
+            "prerequisites": "Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Physics and Astronomy- Physical Science",
+            "number": "PHYSCS 2002",
+            "description": "Study of selected topics in physics and astronomy.  Subjects and earnable credit may vary from semester to semester.  Course may be repeated for credit.",
+            "prerequisites": "MATH 1100",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100"
+            ]
+        },
+        {
+            "name": "Topics in Physics and Astronomy- Physical Science - Honors",
+            "number": "PHYSCS 2002H",
+            "description": "Study of selected topics in physics and astronomy.  Subjects and earnable credit may vary from semester to semester.  Course may be repeated for credit.",
+            "prerequisites": "MATH 1100; Honors eligibility required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100"
+            ]
+        },
+        {
+            "name": "Thinking Physics",
+            "number": "PHYSCS 2100",
+            "description": "This course investigates motion and force and the relationship between them.  Problem-solving skills will be emphasized in addition to hands-on inquiry and deep conceptual understanding.  This course is intended to help prepare students for College Physics I or University Physics I. Graded on A-F basis only.",
+            "prerequisites": "MATH 1100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100"
+            ]
+        },
+        {
+            "name": "Life and the Universe",
+            "number": "PHYSCS 2200",
+            "description": "This course explores the connection between our everyday existence and the underlying physics' processes.  Students will look at processes - essential to life - ranging from the very small (atomic level) to the very large (universe), and the many length scales in between (cellular level and human being level) as will as make connections between the laws of physics and the numbers that go into them and the prerequisites for the existence of life.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Exploring the Principles of Physics",
+            "number": "PHYSCS 2330",
+            "description": "A hands-on course covering topics in Electricity, Magnetism, Forces, Motion and Energy. Pedagogy reflects styles used in K-12 classrooms; emphasis on inquiry, concept development, quantitative applications and technology. Enrollment limited to Elementary and Early Childhood Education majors who have completed MATH 1100 or higher.",
+            "prerequisites": "instructor's consent required",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Physics Around Us",
+            "number": "PHYSCS 2400",
+            "description": "This course will address the basic physics principles behind commonly accepted technology. Examples include microwave ovens, rockets and LED lights. The course will be taught using hands-on activities combined with lecture and discussion. Graded on A-F basis only.",
+            "prerequisites": "MATH 1100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100"
+            ]
+        },
+        {
+            "name": "The Beautiful Invisible: Exploring Physics, Fiction, and Reality",
+            "number": "PHYSCS 2500",
+            "description": "This course explores the conceptual structure of modern physics from a humanistic perspective. Rather than describing the natural world \"as it is\", physical science weaves some key observations in a convincing and memorable narrative. It is not within its power to explain reality, but it can make it understandable, sometimes even predictable. Due to the presence of internal and external constraints, physical theories are akin to myths, i.e., fiction created by many authors over an extended period of time. The mythical character of a theory does not diminish its scientific validity - quite the contrary. Convincing myths are not easily found and better observations demand better myths. The mythical content of the theory is not some extraneous content that we introduce for the sake of popularization, but an essential part of the science itself.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "University Physics I",
+            "number": "PHYSCS 2750",
+            "description": "First course in calculus-based physics for science and engineering students. Topics covered are vectors, translational and rotational kinematics, translational and rotational dynamics, energy, momentum, gravity, oscillations, waves, fluids and thermodynamics. Three lectures, one discussion, one lab weekly. Students may receive credit for PHYSCS 1210 or PHYSCS 2750, but not both.",
+            "prerequisites": "MATH 1500 or equivalent",
+            "hours": "5",
+            "recommendation": "MATH 1700",
+            "connections": [
+                "MATH 1500",
+                "MATH 1700"
+            ]
+        },
+        {
+            "name": "University Physics I - Honors",
+            "number": "PHYSCS 2750H",
+            "description": "First course in calculus-based physics for science and engineering students. Topics covered are vectors, translational and rotational kinematics, translational and rotational dynamics, energy, momentum, gravity, oscillations, waves, fluids and thermodynamics. Three lectures, one discussion, one lab weekly. Students may receive credit for PHYSCS 1210 or PHYSCS 2750, but not both.  Graded on A-F basis only.",
+            "prerequisites": "MATH 1500 or equivalent. Honors eligibility required",
+            "hours": "5",
+            "recommendation": "MATH 1700",
+            "connections": [
+                "MATH 1500",
+                "MATH 1700"
+            ]
+        },
+        {
+            "name": "University Physics II",
+            "number": "PHYSCS 2760",
+            "description": "Second semester course in calculus-based physics for science and engineering students. Topics covered are electrostatics, circuits, magnetism, electromagnetic phenomena, optics, matter waves and particles and modern physics.  Three lectures, one discussion, one lab weekly. Students may receive credit for PHYSCS 1220 or PHYSCS 2760, but not both.",
+            "prerequisites": "MATH 1700 and grade of C- or better in PHYSCS 2750",
+            "hours": "5",
+            "recommendation": "MATH 2300",
+            "connections": [
+                "MATH 1700",
+                "PHYSCS 2750",
+                "MATH 2300"
+            ]
+        },
+        {
+            "name": "Undergraduate Seminar in Physics",
+            "number": "PHYSCS 2800",
+            "description": "Introduction to the Physics Department and presentation of topics of current interest in physics by faculty and students. Intended for physics majors at the freshman or sophomore level only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Physics and Astronomy - Physical Science",
+            "number": "PHYSCS 3002",
+            "description": "Study of selected topics in physics and astronomy.  Subjects and earnable credit may vary from semester to semester. May be repeated   2 for credit.",
+            "prerequisites": "PHYSCS 1210 or PHYSCS 2750",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 1210",
+                "PHYSCS 2750"
+            ]
+        },
+        {
+            "name": "Introduction to Modern Astrophysics",
+            "number": "PHYSCS 3010",
+            "description": "(same as ASTRON 3010). Elements of stellar, and galactic astrophysics. Interpretation of observations and physical conditions of various astronomical objects including stars, gaseous nubulea and, galaxies.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Teaching Physics",
+            "number": "PHYSCS 3100",
+            "description": "Introduces modeling and inquiry methods of teaching about force, motion, energy, electricity and magnetism.  Students learn research-base physics teaching methods, including eliciting prior understanding, facilitating conceptual change, and active learning strategies.",
+            "prerequisites": "PHYSCS 1220 or PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 1220",
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Introduction to Modern Physics",
+            "number": "PHYSCS 3150",
+            "description": "Relativistic kinematics and Lorentz transformations; historical basis for quantum mechanics; atomic structure; physics of solids; nuclear structure and decay.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Introduction to Modern Physics - Writing Intensive",
+            "number": "PHYSCS 3150W",
+            "description": "Relativistic kinematics and Lorentz transformations; historical basis for quantum mechanics; atomic structure; physics of solids; nuclear structure and decay.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Physics of Space Explorations",
+            "number": "PHYSCS 3200",
+            "description": "The course provides an overview of the solar system, spaceflight history, a review of Newtonian physics and law of universal gravitation, the application of these laws to spacecraft launch, entry, and orbit, planetary trajectories, and other special topics.  Three focused case studies of actual space missions are addressed.  Graded on A-F basis only.",
+            "prerequisites": "MATH 1100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1100"
+            ]
+        },
+        {
+            "name": "Astrophysical Techniques",
+            "number": "PHYSCS 4020",
+            "description": "(same as ASTRON 4020; cross-leveled with PHYSCS 7020). Elements of modern astronomical instruments, observations and analysis, with the emphasis in the optical regime. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Electronic Laboratory",
+            "number": "PHYSCS 4050",
+            "description": "(cross-leveled with PHYSCS 7050). Acquaints students with the foundations and techniques of electronics design, with emphasis on data acquisition and processing.  Topics: circuits with discrete and integrated circuits, active and passive filters, amplifiers, power supplies, instrumentation and interfacing.  Integrated lectures and labs.  Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Advanced Physics Laboratory I",
+            "number": "PHYSCS 4060",
+            "description": "This upper-level undergraduate laboratory course familiarizes students with the methods and procedures of experimental physics at an advanced level. The course covers principles of magnetism, graphic programming and interface techniques, weak-signal detection, and some modern physics discoveries such as, magneto-optical Kerr effect, digital holography and gamma-ray spectroscopy. Students work on research projects in the areas of condensed matter physics, materials science, modern spectroscopy, superconductivity, and quantum physics.",
+            "prerequisites": "PHYSCS 3150",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Major Themes in Classical Physics",
+            "number": "PHYSCS 4080",
+            "description": "Introduction to classical physics: mechanics, electromagnetism and thermodynamics, emphasizing the unity and the connections between different parts of it.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Major Themes in Classical Physics - Writing Intensive",
+            "number": "PHYSCS 4080W",
+            "description": "Introduction to classical physics: mechanics, electromagnetism and thermodynamics, emphasizing the unity and the connections between different parts of it.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Electricity and Magnetism I",
+            "number": "PHYSCS 4100",
+            "description": "Mathematical preliminaries, properties of charge distributions at rest and in motion, the field concept, introduces electromagnetic radiation.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Topics on Physics and Astronomy-Biological/Physical/Mathematics",
+            "number": "PHYSCS 4102",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Departmental consent for repetition.",
+            "prerequisites": "PHYSCS 2760 or instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Light and Modern Optics",
+            "number": "PHYSCS 4110",
+            "description": "Interaction of light with matter, spectroscopic techniques, wave optics, interferometry, multilayer films, polarization, non-linear optics, design of optical instruments, matrix methods, waveguides, fiber optics, acousto-optic and photo-elastic modulation. Includes both lectures and laboratory.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Introduction to Thermodynamics",
+            "number": "PHYSCS 4120",
+            "description": "Development of the concepts of temperature, heat, work, entropy, enthalpy and free energy. Applications to gases, liquids and solids. Statistical methods.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Electricity and Magnetism II",
+            "number": "PHYSCS 4130",
+            "description": "Application of Maxwell's equations.",
+            "prerequisites": "PHYSCS 4100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 4100"
+            ]
+        },
+        {
+            "name": "Mechanics",
+            "number": "PHYSCS 4140",
+            "description": "Development of fundamental concepts, principles of mechanics using mathematical methods. Many problems used.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Solar System Science",
+            "number": "PHYSCS 4180",
+            "description": "(same as GEOL 4180 and ASTRON 4180).  Investigates physical states, interior structures and comparative geology of solar systems bodies:  planets, moons, asteroids, comets, sun. Solar system formation and evolution.",
+            "prerequisites": "PHYSCS 1220 or PHYSCS 2760 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 1220",
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Physics and Chemistry of Materials",
+            "number": "PHYSCS 4190",
+            "description": "(same as NU_ENG 4319, BIOL_EN 4480 and CHEM 4490). This course will cover fundamental and applied aspects relating to the Physics, Chemistry and Biology of materials with special emphasis on Nanoscience and Nanomedicine. Consists of lectures and experiments in Nanoscience.",
+            "prerequisites": "PHYSCS 2760 and CHEM 1320 or equivalent, or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Scanning and Transmission Electron Microscopy and Microanalysis",
+            "number": "PHYSCS 4230",
+            "description": "(cross-leveled with PHYSCS 7230). This course is designed for senior undergraduate/graduate students.  This course covers the basic principles and practical considerations using SEM, TEM, EDS, and EELS in the characterization of materials. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 3150 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Stellar Astrophysics",
+            "number": "PHYSCS 4250",
+            "description": "(same as ASTRON 4250). Basic astrophysics of stable and unusual stars, stellar systems. Investigates stellar dimensions, radiation, spectra, energy, evolution, populations; interstellar medium, stellar motions and aggregation.",
+            "prerequisites": "PHYSCS 3150 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Physics in Cell and Developmental Biology",
+            "number": "PHYSCS 4310",
+            "description": "(same as BIO_SC 4310). Discusses the role of physical mechanisms in specific cellular and developmental processes and phenomena, in particular those characterizing the embryonic stage of multicellular organisms. Each process and phenomenon is first described in biological terms and then within a physical model, with special emphasis on the interplay between the two descriptions.",
+            "prerequisites": "PHYSCS 2760 and BIO_SC 2300 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 2300",
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Galactic Astronomy",
+            "number": "PHYSCS 4350",
+            "description": "(same as ASTRON 4350). Observational properties of normal galaxies and clusters of galaxies, Seyfert and emission-line structure and dynamics of galaxies; interacting galaxies, quasi-steller objects. Introduction to cosmology.",
+            "prerequisites": "PHYSCS 3010",
+            "hours": "3",
+            "recommendation": "PHYSCS 4140",
+            "connections": [
+                "PHYSCS 3010",
+                "PHYSCS 4140"
+            ]
+        },
+        {
+            "name": "Extragalactic Astronomy",
+            "number": "PHYSCS 4360",
+            "description": "This course introduces students to the most basic knowledge of extragalactic astronomy, starting from Milky Way and extending to the most distant universe.  Topics covered will include galaxy morphology and classification, groups and clusters of galaxies, active galactic nuclei, and galaxy formation and evolution.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Problems in Physics",
+            "number": "PHYSCS 4390",
+            "description": "Problems in Physics",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Physics of Electronic Devices",
+            "number": "PHYSCS 4400",
+            "description": "(cross-leveled with PHYSCS 7400). This course is designed for graduate and undergraduate students of Physics and Electrical Engineering who have an interest in learning the basic physical idea underlying the operation of electronic devices.  The course consists of lectures, handout lecture notes, problem sets, two mid-term and one final exam. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 3150 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Analysis of Biological Macromolecules and Biomaterials",
+            "number": "PHYSCS 4410",
+            "description": "This interdisciplinary, team-taught course introduces basic concepts and experimental techniques for studying bio-macromolecules and biomaterials.  A Problem Based Learn/Writing Intensive approach uses four modules: Proteins, membranes, cellular interactions and biomaterials.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Introduction to Biomedical Imaging",
+            "number": "PHYSCS 4420",
+            "description": "This course offers a broad introduction to medical imaging.  Topics to be covered include the physics basics and instrumentation of X-ray, CT, PET, SPECT, ultrasound, MRI, and optical imaging, as well as recent developments in biomedical imagining.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Introduction to Cosmology",
+            "number": "PHYSCS 4450",
+            "description": "Develops the physical concepts necessary for understanding the major recent discoveries in cosmology, such as the acceleration of the universe and dark energy.  No prior knowledge of general relativity is assumed. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 3150 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Interstellar Medium",
+            "number": "PHYSCS 4460",
+            "description": "(same as ASTRON 4460). The course discusses observational properties and physical and chemical processes occurring in the interstellar medium.  Topics include interstellar diffuse and molecular clouds, HII regions, dust grains, interstellar chemistry, star formation, supernova remnants, and interstellar shock waves.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Computational Biological Physics",
+            "number": "PHYSCS 4500",
+            "description": "Provides a practical introduction (hands-on approach) to the study of the structure and function of biomolecular systems by employing computational methods and theoretical concepts familiar from the physical sciences.",
+            "prerequisites": "PHYSCS 2760 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Single Molecule Biophysics",
+            "number": "PHYSCS 4510",
+            "description": "(same as BIOCHM 4510; Cross-leveled with PHYSCS 7510).  The course provides an overview of the biophysics of enzymes, nucleic acids and the cytoskeleton.  Topics covered will include diffusion, molecular motors, polymerization and the cytoskelton and the polymer properties of nucleic acids and microtubules",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Introduction to Biophysics",
+            "number": "PHYSCS 4520",
+            "description": "This course introduces the study of biological systems from the perspective of a physicist. Students will learn how to relate the structure of a particular system and its constituents to its function. The treatment of molecular and cellular phenomena will be based on physical principles quantified through the necessary analytical tools. Prominent biophysical methods and their fundamental operating principles will also be discussed. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 1220 or PHYSCS 2760 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 1220",
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Cosmochemistry",
+            "number": "PHYSCS 4550",
+            "description": "(same as ASTRON 4550).  Cosmic dust, stardust, spectra, energy, interstellar medium, meteorites, astromineralogy.",
+            "prerequisites": "PHYSCS 1220 or PHYSCS 2760 or instructor's consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 1220",
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Semiconductor Optics",
+            "number": "PHYSCS 4600",
+            "description": "It is an introductory-level course in the field of optical processes in semiconductors (both inorganic and organic) and solid-state optoelectronics, designed both for graduate and undergraduate students of Physics, Chemistry and Electrical Engineering. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 3150",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Introduction to Materials Science",
+            "number": "PHYSCS 4620",
+            "description": "This course on the science and technology of materials explores the interrelationship between processing, structure, properties (electrical, optical, magnetic), and performance. Observable properties of materials will be used to explore and understand the consequences of atomic- and molecular-level events. Structure-property correlations, including electronic, thermal, and mechanical properties, will be presented for different classes of materials including nanoscale materials. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 3150",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Modern Condensed Matter Physics",
+            "number": "PHYSCS 4650",
+            "description": "Introduces the basic concepts and gives an overview of the latest developments of modern condensed-matter physics as the forefront of (nano) science and technology.  Combines lectures and computational laboratory, where students use and develop interactive computer simulations. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 3150 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Introduction to Methods in Mathematical Physics",
+            "number": "PHYSCS 4700",
+            "description": "Introduces mathematical methods and theories of physics. Topics usually covered are complex analysis, partial differential equations, integral equations and tensor analysis.",
+            "prerequisites": "MATH 4100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100"
+            ]
+        },
+        {
+            "name": "Introduction to Quantum Mechanics I",
+            "number": "PHYSCS 4800",
+            "description": "Foundations of wave mechanics; wave packets; Schrodinger equation and I-D problems; operators and eigenfunctions, spherically symmetric systems.",
+            "prerequisites": "PHYSCS 3150 and MATH 4100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 4100",
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Introduction to Quantum Mechanics II",
+            "number": "PHYSCS 4810",
+            "description": "Review of quantum mechanics and units, forms of radiation, radiation detectors, spacetime symmetries, internal symmetries, nuclear structure and form factors, low-energy nuclear models, recent developments.",
+            "prerequisites": "PHYSCS 4800 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 4800"
+            ]
+        },
+        {
+            "name": "Computational Methods in Physics",
+            "number": "PHYSCS 4850",
+            "description": "Use of modern computational techniques in solving a wide variety of problems in solid state, nuclear, quantum and statistical physics.",
+            "prerequisites": "PHYSCS 4800 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 4800"
+            ]
+        },
+        {
+            "name": "Problem-Based Learning in Physics Using Case Studies",
+            "number": "PHYSCS 4885",
+            "description": "Using case studies from frontiers of physics research, students in this course will develop skills on leadership, team-work, communication, deductive reasoning, writing and oral presentation skills.  A combined Problem-Based Learning/ Writing Intensive approach will be used.",
+            "prerequisites": "PHYSCS 3150",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Undergraduate Research in Physics",
+            "number": "PHYSCS 4950",
+            "description": "Special studies for advanced undergraduate students in physics covering subjects not included in courses regularly offered. Departmental consent for repetition.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Senior Thesis in Physics",
+            "number": "PHYSCS 4960",
+            "description": "Special studies for senior undergraduate students in physics. The course requires an oral or poster presentations, or faculty-guided writing of a senior thesis involving independent research.",
+            "prerequisites": "instructor's consent and 3 units of PHYSCS 4950. Departmental consent required for repetition",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 4950"
+            ]
+        },
+        {
+            "name": "Issues in Modern Physics and Engineering",
+            "number": "PHYSCS 4985",
+            "description": "Students are expected to write a major paper on a selected topic from modern physics or engineering.  The paper will review the current state of the experimental and theoretical research on the topic at a level appropriate to their peers.",
+            "prerequisites": "PHYSCS 3150",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Astrophysical Techniques",
+            "number": "PHYSCS 7020",
+            "description": "(same as ASTRON 7020; cross-leveled with PHYSCS 4020). Elements of modern astronomical instruments, observations and analysis, with the emphasis in the optical regime. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Electronic Laboratory",
+            "number": "PHYSCS 7050",
+            "description": "(cross-leveled with PHYSCS 4050). Acquaints students with the foundations and techniques of electronics design, with emphasis on data acquisition and processing.  Topics: circuits with discrete and integrated circuits, active and passive filters, amplifiers, power supplies, instrumentation and interfacing. Integrated lectures and labs. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Problems in Physics",
+            "number": "PHYSCS 7085",
+            "description": "Laboratory work involving study of literature of special experiments in physics. Introduces research methods.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Physics",
+            "number": "PHYSCS 7087",
+            "description": "Topics of current interest selected for discussion. May be elected repeatedly. S/U Graded only.",
+            "prerequisites": "PHYSCS 8150",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8150"
+            ]
+        },
+        {
+            "name": "Light and Modern Optics",
+            "number": "PHYSCS 7110",
+            "description": "Interaction of light with matter, spectroscopic techniques, wave optics, interferometry, multilayer films, polarization, non-linear optics, design of optical instruments, matrix methods, waveguides, fiber optics, acousto-optic and photo-elastic modulation. Includes both lectures and laboratory.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Solar System Science",
+            "number": "PHYSCS 7180",
+            "description": "(same as GEOL 7180 and ASTRON 7180; cross-leveled with GEOL 4180 and ASTRON 4180).  Investigates physical states, interior structures and comparative geology of solar systems bodies:  planets, moons, asteroids, comets, sun. Solar system formation and evolution.",
+            "prerequisites": "PHYSCS 1220 or PHYSCS 2760 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 1220",
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Physics and Chemistry of Materials",
+            "number": "PHYSCS 7190",
+            "description": "(same as NU_ENG 7319, BIOL_EN 7480 and CHEM 7490). This course will cover fundamental and applied aspects relating to the Physics, Chemistry and Biology of materials with special emphasis on Nanoscience and Nanomedicine.  Consists of lectures and experiments in Nanosicence.",
+            "prerequisites": "PHYSCS 2760 and CHEM 1320 or equivalent and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Topics in Physics",
+            "number": "PHYSCS 7201",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester",
+            "prerequisites": "Instructor's consent required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Scanning and Transmission Electron Microscopy and Microanalysis",
+            "number": "PHYSCS 7230",
+            "description": "(cross-leveled with PHYSCS 4230). This course is designed for senior undergraduate/graduate students.  This course covers the basic principles and practical considerations using SEM, TEM, EDS, and EELS in the characterization of materials. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 3150 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Topics in Astronomy and Astrophysics",
+            "number": "PHYSCS 7301",
+            "description": "Selected topics from solar system, stellar, galactic and extragalactic astronomy, and astrophysics.  May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Physics in Cell and Developmental Biology",
+            "number": "PHYSCS 7310",
+            "description": "(same as BIO_SC 7310 and MPP 7300). Discusses the role of physical mechanisms in specific cellular and developmental processes and phenomena, in particular those characterizing the embroyonic stage of multicellular organisms. Each process and phenomenon is first described in biological terms and then within a physical model, with special emphasis on the interplay between the two descriptions.",
+            "prerequisites": "PHYSCS 1220 or PHYSCS 2760 and BIO_SC 2300 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 2300",
+                "PHYSCS 1220",
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Extragalactic Astronomy",
+            "number": "PHYSCS 7360",
+            "description": "(same as ASTRON 7360). This course introduces students to the most basic knowledge of extragalactic astronomy, starting from Milky Way and extending to the most distant universe.  Topics covered will include galaxy morphology and classification, groups and clusters of galaxies, active galactic nuclei, and galaxy formation and evolution.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Physics of Electronic Devices",
+            "number": "PHYSCS 7400",
+            "description": "(cross-leveled with PHYSCS 4400). This course is designed for graduate students of Physics and Electrical Engineering who have an interest in learning the basic physical idea underlying the operation of electronic devices.  The course consists of lectures, handout lecture notes, problem sets, two mid-term and one final exam.",
+            "prerequisites": "PHYSCS 3150 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Analysis of Biological Macromolecules and Biomaterials",
+            "number": "PHYSCS 7410",
+            "description": "This interdisciplinary, team-taught course introduces basic concepts and experimental techniques for studying bio-macromolecules and biomaterials.  A Problem Based Learn/Writing Intensive approach uses four modules: proteins, membranes, cellular interactions and biomaterials.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Introduction to Biomedical Imaging",
+            "number": "PHYSCS 7420",
+            "description": "(same as BIOL_EN 7420).  This course offers a broad introduction to medical imaging. Topics to be covered include the physics basics and instrumentation of X-ray CT, PET, SPECT, ultrasound, MRI, and optical imaging, as well as recent developments in biomedical imaging.",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Introduction to Cosmology",
+            "number": "PHYSCS 7450",
+            "description": "Develops the physical concepts necessary for understanding the major recent discoveries in cosmology, such as the acceleration of the universe and dark energy.  No prior knowledge of general relativity is assumed. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 3150 or equivalent or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Computational Biological Physics",
+            "number": "PHYSCS 7500",
+            "description": "Provides a practical introduction (hands-on approach) to the study of the structure and function of biomolecular systems by employing computational methods and theoretical concepts familiar from the physical sciences.",
+            "prerequisites": "PHYSCS 1220 or PHYSCS 2760 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 1220",
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Single Molecule Biophysics",
+            "number": "PHYSCS 7510",
+            "description": "(same as BIOCHM 7510; cross-leveled with PHYSCS 4510). The course provides an overview of the biophysics of enzymes, nucleic acids and the cytoskeleton.  Topics covered will include diffusion, molecular motors, polymerization of the cytoskelton and the polymer properties of nucleic acids and microtubules",
+            "prerequisites": "PHYSCS 2760",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760"
+            ]
+        },
+        {
+            "name": "Cosmochemistry",
+            "number": "PHYSCS 7550",
+            "description": "(same as ASTRON 7550).  Chemistry of cosmic dust and molecules.",
+            "prerequisites": "PHYSCS 2760 or PHYSCS 1220; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2760",
+                "PHYSCS 1220"
+            ]
+        },
+        {
+            "name": "Semiconductor Optics",
+            "number": "PHYSCS 7600",
+            "description": "It is an introductory-level course in the field of optical processes in semiconductors (both inorganic and organic) and solid-state optoelectronics, designed both for graduate and undergraduate students of Physics, Chemistry and Electrical Engineering.",
+            "prerequisites": "PHYSCS 3150 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Modern Condensed Matter Physics",
+            "number": "PHYSCS 7650",
+            "description": "Introduces the basic concepts and gives an overview of the latest developments of modern condensed matter physics as the forefront of (nano) science and technology.  Combines lectures and computational laboratory, where students use and develop interactive computer simulations. Graded on A-F basis only.",
+            "prerequisites": "PHYSCS 3150 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "Interstellar Medium",
+            "number": "PHYSCS 7750",
+            "description": "The course discusses observational properties and physical and chemical processes occurring in the interstellar medium. Topics include interstellar diffuse and molecular clouds, HII regions, dust grains, interstellar chemistry, star formation, supernova remnants, and interstellar shock waves.",
+            "prerequisites": "PHYSCS 1220",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 1220"
+            ]
+        },
+        {
+            "name": "Computational Methods in Physics",
+            "number": "PHYSCS 7850",
+            "description": "Use of modern computational techniques in solving a wide variety of problems in solid state, nuclear, quantum and statistical physics.",
+            "prerequisites": "PHYSCS 4800 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 4800"
+            ]
+        },
+        {
+            "name": "Study of Techniques of Teaching College Physics",
+            "number": "PHYSCS 8040",
+            "description": "Objectives, methods and problems related to teaching college physics. Some credit in this course is required for all students teaching physics. May repeat for 3 hours maximum.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Physics",
+            "number": "PHYSCS 8090",
+            "description": "Graduate research.  Graded on S/U Basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics of Physics and Astronomy",
+            "number": "PHYSCS 8101",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
+            "prerequisites": "instructor's consent. Departmental consent for repetition",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Physics for High School Teachers I",
+            "number": "PHYSCS 8110",
+            "description": "This s a physics course designed primarily for high school teachers.  Topics include motion, forces, Newton's Laws, electricity, k and magnetism.  The course uses research based pedagogical methods utilizing inquiry, modeling, and hands-on techniques.  Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Physics for High School Teachers II",
+            "number": "PHYSCS 8120",
+            "description": "This is a physics course designed primarily for high school teachers.  Topics include applications of Newton's laws, energy, waves, optics, heat, and astronomy.  The course uses research based pedogogical methods utilizing inquiry modeling, and hands-on techniques. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Physics for High School Teachers 3",
+            "number": "PHYSCS 8130",
+            "description": "This is a physics course designed primarily for high school teachers.  Topics include modern physics and history of science.  The course uses research based pedagogical methods utilizing inquiry, modeling, and hands-on techniques. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Condensed Matter Physics I",
+            "number": "PHYSCS 8150",
+            "description": "Crystal structure, reciprocal lattice, phonons, neutron and x-ray scattering, free electron theory of metals, Fermi surfaces, energy bands, static properties of solids, semiconductors, devices, and quantum structures, optical properties, excitons, introduction to magnetism and superconductivity.",
+            "prerequisites": "PHYSCS 4800 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 4800"
+            ]
+        },
+        {
+            "name": "Condensed Matter Physics II",
+            "number": "PHYSCS 8160",
+            "description": "The basic Hamiltonian, Phonons, theory of the electron gas, second quantization, Hartree and Hartree-Fock approximation, local-density method, tight-binding theory, electron-electron interaction and screening, Fermi liquid theory, transport properties, impurities, Green's function's, Localization, Quantum Hall effect, magnetism, superconductivity.",
+            "prerequisites": "PHYSCS 8150",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8150"
+            ]
+        },
+        {
+            "name": "Topics in Astronomy and Astrophysics",
+            "number": "PHYSCS 8301",
+            "description": "(same as ASTRON 8301). Selected topics from solar system, stellar, galactic and extragalactic astronomy and astrophysics. May be repeated to a maximum of six hours.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "College Science Teaching",
+            "number": "PHYSCS 8310",
+            "description": "(same as ASTRON 8310, BIO_SC 8724 and LTC 8724). Study of learner characteristics, teaching strategies, and research findings related to teaching science at the post-secondary level.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Science Outreach",
+            "number": "PHYSCS 8350",
+            "description": "(same as BIO_SC 8725 and AN_SCI 8725)  This course is aimed at promoting public understanding and appreciation of science.  The students will develop presentations that increase awareness of the impact of science on many aspects of our daily lives.",
+            "prerequisites": "None Listed",
+            "hours": "1-2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Low Energy Neutron Scattering",
+            "number": "PHYSCS 8400",
+            "description": "Theory, application of low energy neutron scattering to investigation of structure and dynamics of aggregate matter including lattice vibrations, ordered spin systems, spin waves, diffusive motions in liquids; experimental techniques discussed.",
+            "prerequisites": "PHYSCS 8150",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8150"
+            ]
+        },
+        {
+            "name": "Concepts in Nanoscale Materials: Interdisciplinary Science",
+            "number": "PHYSCS 8410",
+            "description": "This interdisciplinary course covers basic concepts in nanoscale materials, their characterization, and how and why they differ from conventional bulk materials. The course focuses on neutron scattering methods and uses lectures, problem-based modules, and writing assignments.",
+            "prerequisites": "PHYSCS 3150 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 3150"
+            ]
+        },
+        {
+            "name": "X-ray and Neutron Scattering Methods for Studying Surfaces/Interfaces of Nanocrystalline Materials",
+            "number": "PHYSCS 8420",
+            "description": "This course develops the conceptual foundation of neutron and x-ray scattering methods for probing the structure of epitaxial films, nanomaterials and their buried interfaces. A particular emphasis is given to the use of intense synchrotron x-ray radiation. Course graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Plasma Physics",
+            "number": "PHYSCS 8450",
+            "description": "Single particle motion, plasma kinetic theory, magnetohydrodynamics and other fluid theories, waves in unmagnetized and magnetized plasmas, transport phenomena, instabilities, controlled fusion.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Stellar Structure and Evolution",
+            "number": "PHYSCS 8550",
+            "description": "(same as ASTRON 8550). Reviews of atomic and molecular spectra. Investigates quantum radiation law, emission and absorption processes, radiation transfer theory, continuous and discrete line spectra of stars, stellar composition.",
+            "prerequisites": "PHYSCS 4250, PHYSCS 4800, or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 4250",
+                "PHYSCS 4800"
+            ]
+        },
+        {
+            "name": "Quantitative X-Ray Microanalysis and Advanced Imaging",
+            "number": "PHYSCS 8560",
+            "description": "This course covers the theory and methodology to quantitatively analyze materials using both energy-dispersive (EDS) and wavelength-dispersive (WDS) spectrometry.  Other topics include chemical mapping and data extraction using image processing and analysis techniques.",
+            "prerequisites": "PHYSCS 7230",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 7230"
+            ]
+        },
+        {
+            "name": "Classical Mechanics",
+            "number": "PHYSCS 8610",
+            "description": "The interplay of dynamics and symmetry, Hamilton's principle and Noether's theorem, Lagrangian, Hamiltonian, Hamilton-Jacobi theories of mechanics in special relativity. Rigid body motion, small oscillation, canonical transformations and fields as continuous mechanical systems.",
+            "prerequisites": "PHYSCS 4140 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 4140"
+            ]
+        },
+        {
+            "name": "Electrodynamics I",
+            "number": "PHYSCS 8620",
+            "description": "Electrostatic potential and fields, boundary-value problems in electrostatics, methods of images, Green's functions, multipole expansion, dielectrics, magnetostatics, magnetic materials, Maxwell's' equations, time-varying fields.",
+            "prerequisites": "PHYSCS 8610 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8610"
+            ]
+        },
+        {
+            "name": "Electrodynamics II",
+            "number": "PHYSCS 8640",
+            "description": "Electromagnetic wave propagation, reflection, refraction, wave guides, cavities antennas and diffraction, tensors, special relativity, the Lorentz group, dynamics of relativistic particles and fields radiation by moving charges, retardation, bremsstrahlung.  Additional topics may include magnetohydrodynamics and plasma physics.",
+            "prerequisites": "PHYSCS 8620 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8620"
+            ]
+        },
+        {
+            "name": "Methods in Mathematical Physics",
+            "number": "PHYSCS 8660",
+            "description": "Concentrates on mathematical techniques used in modern physics. Infinite series, functions of a complex variable, differential equations, Fourier series and integral, etc.",
+            "prerequisites": "PHYSCS 4700 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 4700"
+            ]
+        },
+        {
+            "name": "Thermodynamics and Statistical Mechanics",
+            "number": "PHYSCS 8680",
+            "description": "Thermodynamics as applied in physics, chemistry; laws of distribution; statistical methods of study matter, radiation.",
+            "prerequisites": "PHYSCS 8710 or concurrently",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8710"
+            ]
+        },
+        {
+            "name": "Non-Equilibrium Statistical Mechanics",
+            "number": "PHYSCS 8700",
+            "description": "This course provides an introduction to the theoretical and mathematical description of classical stochastic systems with examples from biophysics and condensed matter physics.",
+            "prerequisites": "PHYSCS 8680 or consent of instructor",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8680"
+            ]
+        },
+        {
+            "name": "Quantum Mechanics I",
+            "number": "PHYSCS 8710",
+            "description": "Non-relativistic quantum theory in Hilbert space. States and self-adjoint observables, unitary time evolution in various pictures, the path-integral, identical particles, Fock space, angular momentum and some pertubation theory.",
+            "prerequisites": "PHYSCS 8610",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8610"
+            ]
+        },
+        {
+            "name": "Quantum Mechanics II",
+            "number": "PHYSCS 8720",
+            "description": "More perturbation theory, variational methods, semi-classical methods and application to radiation theory, linear response theory and rudiments of relativistic quantum mechanics including the Klein-Gordan equation and the Dirac equation.",
+            "prerequisites": "PHYSCS 8710",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8710"
+            ]
+        },
+        {
+            "name": "Quantum Mechanics III",
+            "number": "PHYSCS 8730",
+            "description": "Properties of many-particle systems at low temperature. General Formalism for Fermi and Bose systems, theory of superconductivity and superfluidity, introduction to quantum spin model--Diagromatic formulation of quantum electrodynamics. Scattering of electrons and positions, introduction to radioactive corrections. Graded on S/U basis only.",
+            "prerequisites": "PHYSCS 8720",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8720"
+            ]
+        },
+        {
+            "name": "Topics in Solid State Theory",
+            "number": "PHYSCS 8801",
+            "description": "Selected topics in solid-state theory, including various elementary excitations in solids and their interactions. May be elected more than once.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Relativity and Gravitation",
+            "number": "PHYSCS 8820",
+            "description": "Special and general theories of relativity. Discussion of accelerated observers and the principles of equivalence. Einstein's gravitational field equations, black holes, gravitational waves and cosmology.",
+            "prerequisites": "PHYSCS 8610, PHYSCS 8620",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 8610",
+                "PHYSCS 8620"
+            ]
+        },
+        {
+            "name": "Research in Physics",
+            "number": "PHYSCS 9090",
+            "description": "Research leading to Ph.D. dissertation.  Graded on a S/U basis only.",
+            "prerequisites": "PhD candidacy has been established",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

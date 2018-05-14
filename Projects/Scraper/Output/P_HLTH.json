@@ -1,0 +1,293 @@
+{
+    "department_name": "Public Health",
+    "department_code": "P_HLTH",
+    "courses": [
+        {
+            "name": "Topics in Public Health",
+            "number": "P_HLTH 7001",
+            "description": "Selected topics of interest related to Public Health.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Public Health",
+            "number": "P_HLTH 7085",
+            "description": "Guided readings, intensive study of an area in Public Health related to special interest of student or an area in which the student needs to strengthen.   May be repeated for credit.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Principles of Public Health",
+            "number": "P_HLTH 7150",
+            "description": "This course provides an overview of public health, including concentration areas of public health systems, epidemiology, social and behavioral determinants of health, environmental health, and public health policy.  Case studies from local, state, national and international public health issues are incorporated into each segment, culminating in a discussion of the future of public health.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Interdisciplinary Perspectives in Global Health",
+            "number": "P_HLTH 7160",
+            "description": "This course is designed for those interested in health issues from a global perspective. It explores contemporary issues, problems, and controversies in global health through an interdisciplinary perspective. This course will follow a lecture and case study discussion format.  Graded on A-F basis only.",
+            "prerequisites": "Department consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Physical Function and Older Adults",
+            "number": "P_HLTH 7750",
+            "description": "(same as F_C_MD 7750, ARCHST 7640, HMI 7750, H_D_FS 7750, NURSE 7750, and SOC_WK 7752). This course takes an interdisciplinary approach to understanding and improving the physical function and independence of older adults and explores approaches to alleviate disabling conditions that interfere with physical function and quality of life in old age.  Graded  on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Psychosocial Function and Older Adults",
+            "number": "P_HLTH 7751",
+            "description": "(same as ARCHST 7650, F_C_MD 7751, HMI 7751, H_D_FS 7751, NURSE 7751, P_HLTH 7751 and SOC_WK 7751).  This course takes an Interdisciplinary approach to understanding the psychosocial function of older adults and explores approaches to alleviate disabling conditions that interfere with psychosocial function and quality of life in old age.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Public Health Campaign Successes and Failures",
+            "number": "P_HLTH 7800",
+            "description": "Explains public health campaigns from assessing needs to planning and implementing interventions, as well as taking lessons learned from previous public health campaigns to create strategies that increase the likelihood of success and reduce the chance of failure.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Mental Health Policy",
+            "number": "P_HLTH 7850",
+            "description": "This course is an introductory survey of the principles and practice of mental health policy, beginning with its early history and continuing to the present day. Topics will include the nature of mental illness, its incidence and prevalence, mental health stigma, policy concerns related to mental health finance, the process of policy making, involvement of mental health care consumers in the policy process, and mental health in health policy reform.  The needs of special populations including the homeless, persons in the criminal justice system, ethnic/minority groups, persons living in rural areas and veterans will be examined as well as needs specific to children and the elderly. Students are also expected to understand mental health policy considerations related to current health care reform and ethical issues in the practice of mental health policy.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research Methods in Public Health",
+            "number": "P_HLTH 7952",
+            "description": "This course is designed to introduce students to the process of research as a sequence of events, systematically organized to further knowledge.  A scientific and conceptual stance to knowledge development is emphasized, along with the importance of the empirical approach in establishing relationships between theories, concepts, and behavior phenomena.   May be repeated for credit.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Public Health",
+            "number": "P_HLTH 8001",
+            "description": "Selected topics of interest related to Public Health.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Public Health",
+            "number": "P_HLTH 8085",
+            "description": "Guided readings, intensive study of an area in Public Health related to special interest of student or an area in which the student needs to strengthen.",
+            "prerequisites": "instructor's consent.  May be repeated for credit",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Masters Thesis Research",
+            "number": "P_HLTH 8090",
+            "description": "Leads to preparation of masters thesis.  May only be repeated for credit for six hours.  Graded on S/U basis only.",
+            "prerequisites": "P_HLTH 8980.  Instructor's consent required",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_HLTH 8980"
+            ]
+        },
+        {
+            "name": "Applied Epidemiology in Community Assessment",
+            "number": "P_HLTH 8120",
+            "description": "The purpose of this course is to enable students to gain skills and abilities in assessing population groups and determining their priority public health problems. Students will consider a variety of strategies for empowering and mobilizing populations in collaborative public health efforts. Communication skills are key to the community assessment and intervention process, particularly in translating epidemiological data to lay audiences, and advocating for action. Students will be challenged to communicate public health issues effectively both on-line and in writing. Graded on A-F basis only.",
+            "prerequisites": "P_HLTH 8420, Graduate level Statistics (STAT 7020 or STAT 7410)",
+            "hours": "3PrerequisitesorCorequisites:P_HLTH 7952",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_HLTH 8420",
+                "STAT 7020",
+                "STAT 7410"
+            ]
+        },
+        {
+            "name": "Human Health and the Environment",
+            "number": "P_HLTH 8150",
+            "description": "This graduate level course will address threats to public health related to environmental factors including biological, physical and chemical factors.  Subjects will include environmental contamination and remediation, zoonotic disease food and water quality.  This course will include recorded lectures with optional synchronous participation.  Lectures will be recorded live and students will have the option to virtually attend live lecture, but this will not be required. Lecture recordings are archived for students to view at their convenience.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Equity and Disparities in Health",
+            "number": "P_HLTH 8250",
+            "description": "(same as SOC_WK 8250). This course is designed to provide students with knowledge about the distribution, causes, and consequences of health inequalities.  The course will examine how multiple predictors such as socioeconomic status, behavioral risk factors, and cultural factors such as perceived discrimination and acculturation, gender and marriage, stigma, and health care inequalities are related with racial/ethnic, socioeconomic, and gender disparities in health.  This course will also discuss implications that may contribute substantively toward the elimination of health inequalities.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Immigrant Health",
+            "number": "P_HLTH 8251",
+            "description": "Public health professions have considerable interest in understanding the unique health concerns of immigrants, in order to prevent disease, promote health, and prolong life in this specific population and in the population as a whole.  This course will be based on readings in the peer-reviewed literature, discussion in a seminar format, community visits and observations/interviews, and guest speakers on topics of importance when considering issues of public health particular to immigrant communities.  Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Emergency Preparedness",
+            "number": "P_HLTH 8260",
+            "description": "An overview of current national guidance and basic assessment of the current health care system level of readiness focusing on the critical role of the health care system for community, regional, state, and nationally based emergency preparedness efforts. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Storytelling in Public Health and Public Policy",
+            "number": "P_HLTH 8270",
+            "description": "Storytelling for public health and public policy offers students an opportunity to become familiar with the literature and theoretical frameworks underlying the use of narrative and digital storytelling in public health and policy advocacy and public health interventions focused on behavior change. Students will review case studies of effective narrative communication and practice elements of effective storytelling in a variety of print and digital platforms. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Biosafety and Laboratory Issues in Public Health",
+            "number": "P_HLTH 8280",
+            "description": "This course is designed to provide current worldwide guidance on laboratory issues & bio-safety with respect to conducting field epidemiology. This integration has recently been given media exposure with recent outbreaks of infectious disease, food-borne illnesses in the food supply, & also recently in Hollywood filmography (see Contagion, 2011 & Outbreak, 1995). While bio-safety, epidemiology, & laboratory medicine are disciplines that are closely interrelated, they are not always optimally connected on functional & organizational levels. This course will provide an overview of the field of biological safety (shorthanded to 'bio-safety') & its application to epidemiology & laboratory medicine for the control biological hazards for students at all levels who are interested in the epidemiology of microbial diseases. Students will review biological hazards associated with occupational laboratory acquired infections, & examine select case studies to identify critical bio-safety lapses & outbreak scenarios of food borne illness using epidemiological tools. The course will teach participants how to perform a comprehensive qualitative risk assessment for the use bio-hazards in the laboratory & learn how to employ the control strategies to appropriately manage these risks for field epidemiology. This course will also convey the laboratory perspective of public health investigations to field epidemiologists in order to improve collaboration between these disciplines & to enhance the quality of field investigations as well as day-to-day interaction. Course concepts can be applied to the control of bio-hazards during the review of proposed research involving bio-hazards, along with emphasizing protective measures when addressing incidents involving bio-hazards, such as emergency spills or bio-terrorism related events. In addition, coverage of the Select Agent Program & the additional security practices entailed with research will be covered.  Graded on A-F basis only.",
+            "prerequisites": "Departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Health Care in the United States",
+            "number": "P_HLTH 8300",
+            "description": "(same as PUB_AF 8172). Overview of financing, structure, and outcomes in the U.S. health care system.  Contemporary health care issues, policy, and politics will be addressed.  May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Veterinary Regulatory Medicine and Public Health",
+            "number": "P_HLTH 8400",
+            "description": "(same as V_M_S 8400).  The goal of this course is to familiarize the student with clinical aspects of veterinary public health/regulatory medicine. Must be enrolled in MPH (veterinary public health concentration) or DVM curriculum.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Principles of Epidemiology",
+            "number": "P_HLTH 8420",
+            "description": "This course is intended to provide a general introduction to the course epidemiological concepts and methods as grounded in the essential services of public health.  The focus of the course is on developing critical thinking skills and providing a foundation in applied epidemilogic competencies.  May be repeated for credit.  Graded on A-F only.",
+            "prerequisites": "graduate level statistics; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Emerging Zoonoses Diseases",
+            "number": "P_HLTH 8620",
+            "description": "This course will enhance student understanding of epidemiology and ecology as it relates to emerging and established zoonotic diseases. Risk factors for the emergence of and mechanisms for control and prevention of zoonotic diseases will be discussed. Course will involve individual and group assignments, use of discussion board, and several blackboard collaborate sessions. Blackboard collaborate sessions (time is TBA) will be held throughout the semester as an introduction to course modules and for help sessions. Students must have audio capability (microphone and speakers) for the course. Built in microphones and speakers work nicely, an inexpensive headset helps screen out background noise. If your computer does not have a build in microphone, an inexpensive one can be purchased at an electronics/computer store. Graded on A-F basis only.",
+            "prerequisites": "P_HLTH 8420 or V_PBIO 8455 and P_HLTH 8150",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_HLTH 8420",
+                "P_HLTH 8150",
+                "V_PBIO 8455"
+            ]
+        },
+        {
+            "name": "Data Analysis for Health Researchers",
+            "number": "P_HLTH 8625",
+            "description": "The goal of this course is to introduce students to the systematic approach to data analysis, statistical computing, correct interpretation and presentation of results. Note that mathematical equations or their derivations forms are not emphasized. However, candidates taking this course are required to have a basic understanding of the epidemiologic and statistical principles and data analysis. The course is not expected to convert you into an expert data analyst within 16 weeks but upon completing the course, you will have acquired skills needed to analyze and interpret cohort, case-control and cross-sectional studies by cross tabulations, stratification, and regression. In addition, you will be able to build and interpret findings from complex multivariable models after controlling for confounding. Graded on A-F basis only.",
+            "prerequisites": "P_HLTH 8420 or V_PBIO 8455, STAT 7020",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_HLTH 8420",
+                "STAT 7020",
+                "V_PBIO 8455"
+            ]
+        },
+        {
+            "name": "Social and Behavioral Sciences in Public Health",
+            "number": "P_HLTH 8920",
+            "description": "(same as PSYCH 8920).  This course will take both a theoretical and a practical approach to understanding health-related behavior and the field of public health.  Students will gain an understanding of theory and empirical research in the social and behavioral sciences, as well as developing practical skills in critically evaluating research and in applying scientific evidence to address real world health concerns.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Assessment of Population Health and Field Epidemiology",
+            "number": "P_HLTH 8921",
+            "description": "Assessment in public health including outbreak investigation, surveillance, infectious disease, and environmental epidemiology.   May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "Graduate level statistics, basic graduate level epidemiology.  Instructor's consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Evaluating Global Public Health Programs",
+            "number": "P_HLTH 8953",
+            "description": "This course is designed to prepare students to evaluate global public health programs, preferably in developing countries. Students will identify a global public health issue, find one or more global health intervention or prevention programs, evaluate the programs using principles of evaluation research methods, and suggest implications for global public health promotion. Graded on A-F basis only.",
+            "prerequisites": "P_HLTH 7952 or P_HLTH 8420",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "P_HLTH 7952",
+                "P_HLTH 8420"
+            ]
+        },
+        {
+            "name": "Public Health Capstone",
+            "number": "P_HLTH 8970",
+            "description": "As an integrating experience, the Public Health Capstone will allow students to articulate and share what they have learned in coursework and to supplement previous learning by exploring areas of knowledge the students identify as most relevant to their readiness for professional practice. It will enable students to test theoretical knowledge against real life practical experiences, and to integrate and refine basic and advanced concepts, values, and methods acquired during the professional education.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Veterinary Public Health Capstone",
+            "number": "P_HLTH 8971",
+            "description": "This capstone experience provides a unique set of opportunities and responsibilities.  It is generally scheduled after completion of at least 2 semesters of the MPH curriculum and is designed to serve as a capstone experience integrating previous coursework and experiences.  Exceptions to the requirement of completion of 2 semesters of MPH coursework will be granted for students who have completed or concurrent degree.  Examples of relevant preparatory coursework will include epidemiology and veterinary public health.  As an integrating experience, the capstone will require students to apply knowledge in an independent manner, integrate knowledge into cohesive production, and communication the results of this experience.",
+            "prerequisites": "completion of at least 2 semester of MPH curriculum",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Public Health Internship",
+            "number": "P_HLTH 8980",
+            "description": "The field experience, or internship, is an opportunity for the student to test many of the theories, concepts, and information about public health learned during the first year and translate them into practice.  Using the internship site as the \"organizational laboratory,\" the student begins to develop the necessary professional skill sets for becoming a successful public health professional.  The current knowledge, skills, abilities, and experiences will continue to develop and grow as each student becomes a life-long learner and practitioner of public health.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

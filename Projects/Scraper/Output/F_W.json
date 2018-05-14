@@ -1,0 +1,760 @@
+{
+    "department_name": "Fisheries And Wildlife",
+    "department_code": "F_W",
+    "courses": [
+        {
+            "name": "Topics in Fisheries and Wildlife",
+            "number": "F_W 1002",
+            "description": "Organized study of selected topics intended primarily for lower-level students in Fisheries and Wildlife Sciences.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Captive Wild Animal Management",
+            "number": "F_W 1012",
+            "description": "(same as AN_SCI 1012). General introduction to housing, husbandry, behavior, genetics, nutrition, reproduction, animal health, and disease control of native and exotic species in zoological parks and other animal conservation facilities; emphasizes the role of captive animals in wildlife conservation.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introductory Zoology with Laboratory",
+            "number": "F_W 1100",
+            "description": "(same as BIO_SC 1100). Introduces important principles and concepts of zoology.  Emphasizes cell biology; evolution; genetics; ecology; structure, function, development of the organism.",
+            "prerequisites": "None Listed",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Fisheries and Wildlife-Biological/Physical/Mathematics",
+            "number": "F_W 2002",
+            "description": "Organized study of selected topics. Intended for lower division Fisheries and Wildlife students. Subjects may vary from semester to semester.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Genetics and Evolution for Conservation",
+            "number": "F_W 2500",
+            "description": "Basic principles and processes of genetics and evolution and their importance for management and conservation. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "NAT_R 1070, BIO_SC 1500, CHEM 1310, and MATH 1100",
+            "connections": [
+                "BIO_SC 1500",
+                "CHEM 1310",
+                "MATH 1100",
+                "NAT_R 1070"
+            ]
+        },
+        {
+            "name": "Ornithology",
+            "number": "F_W 2600",
+            "description": "(same as BIO_SC 2600). Structure, identification, habits, importance of regional birds. Field work, lectures, lab.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "5 hours Biological Sciences",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Ichthyology",
+            "number": "F_W 2700",
+            "description": "(same as BIO_SC 2700). A broad introduction to the biology and ecology of fishes. Emphasis will be placed on understanding the adaptations fishes exhibit to aspects of their environment.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "8 hours Biological Sciences",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Principles of Wildlife Management",
+            "number": "F_W 2900",
+            "description": "Expose students to the principles of wildlife management with emphasis on current issues faced by wildlife researchers and managers in the field.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "NAT_R 1070 and one other course in biological or environmental science; sophomore standing or higher",
+            "connections": [
+                "NAT_R 1070"
+            ]
+        },
+        {
+            "name": "Topics in Fisheries and Wildlife-Biological/Physical/Mathematics",
+            "number": "F_W 3002",
+            "description": "Organized study of selected topics. Intended for upper division students. Subjects and credit may vary from semester to semester.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Fisheries and Wildlife",
+            "number": "F_W 3085",
+            "description": "Individual problems studies to supplement regularly organized undergraduate courses in Fisheries and Wildlife.  Proposal for problems study must be arranged by student and supervising faculty member prior to registration.",
+            "prerequisites": "consent of supervising faculty member",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "International Studies in Conservation",
+            "number": "F_W 3090",
+            "description": "International study abroad that enhances and expands conservation knowledge and experience.  May be repeated for credit.",
+            "prerequisites": "12 hours biological science and/or conservation-related coursework.  Restricted to Fisheries and Wildlife majors only",
+            "hours": "1-5",
+            "recommendation": "12 hours biological science and/or conservation-related coursework.  Must complete a Study Abroad Proposal prior to attending the course",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Aquaculture",
+            "number": "F_W 3200",
+            "description": "This course aims to develop an understanding of key aspects of the practice of fish culture, an awareness of aquatic species being cultured worldwide, and an appreciation of why aquaculture is expanding so rapidly on a global basis and the emerging environmental concerns associated with aquaculture growth.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Wildlife Damage Management",
+            "number": "F_W 3300",
+            "description": "To explore wildlife damage conflicts involving human health and safety, agricultural resources, economics and natural resources.  The course studies damage caused by wildlife species and methods to alleviate damage.  Covers wildlife diseases, human dimensions and wildlife policies.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Wildlife Damage Management Lab",
+            "number": "F_W 3350",
+            "description": "To explore wildlife damage management techniques in a field setting.  To gain knowledge in assessing wildlife damage and the responsible species and determine the best approach to reduce that damage. Graded on A-F basis only.` Prerequites or",
+            "prerequisites": "None Listed",
+            "hours": "1Corequisites: F_W 3300",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Water Quality and Natural Resource Management",
+            "number": "F_W 3400",
+            "description": "Introduction to broad aspects of water quality science, management and policy.  Topics include aquatic ecology, eutrophication, lake and coastal management, water supply and treatment, watershed management with respect to agriculture and urban development, and toxicology.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "CHEM 1000 or CHEM 1320 and ENV SC 1100 or NAT_R 1070",
+            "connections": [
+                "CHEM 1000",
+                "CHEM 1320",
+                "NAT_R 1070"
+            ]
+        },
+        {
+            "name": "Wildlife Conservation in British Cities",
+            "number": "F_W 3500",
+            "description": "Five week study abroad course focusing on approaches to wildlife conservation in London, Birmingham, Manchester, Liverpool and Edinburgh.  Students will learn how managers blend ecology, conservation, and participatory approaches to management to conserve species in a human dominated landscape.  Hands on involvement with conservation projects included.",
+            "prerequisites": "None Listed",
+            "hours": "3-6Recommended: NAT_R 1060 or NAT_R 1070, and Management course in SNR",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Conservation Biology",
+            "number": "F_W 3600",
+            "description": "Introduction to principles of conservation biology. Application of ecological concepts and conservation biology principles to management of endangered species, biodiversity and threatened ecosystems.",
+            "prerequisites": "BIO_SC 3650",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650"
+            ]
+        },
+        {
+            "name": "Mammalogy",
+            "number": "F_W 3660",
+            "description": "(same as BIO_SC 3660). Taxonomy, distribution, structure, habits, importance of mammals; emphasizes those of central United States.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "junior standing",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Animal Behavior",
+            "number": "F_W 3700",
+            "description": "Behavior allows animals to react promptly to environmental changes, and is how they interact with others and their surroundings.  Because behaving is central to an animal's life, knowing about behavior is fundamental to understanding animal ecology and to conservation efforts.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "F_W 1100",
+            "connections": [
+                "F_W 1100"
+            ]
+        },
+        {
+            "name": "Ecology of Fishes",
+            "number": "F_W 3900",
+            "description": "This course considers fishes' interactions with their environments in relation to survival, growth and population processes.  The course is for mid- to upper-level undergraduates interested in fisheries science, management and fish conservation.  May be repeated once for credit.  Graded on A-F basis only.",
+            "prerequisites": "STAT 2530 or STAT 1400; BIO_SC 1500 or F_W 1100; sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1500",
+                "F_W 1100",
+                "STAT 2530",
+                "STAT 1400"
+            ]
+        },
+        {
+            "name": "Topics in Fisheries and Wildlife-Biological/Physical/Mathematics",
+            "number": "F_W 4002",
+            "description": "Organized study of selected topics intended primarily for senior-level students in Fisheries and Wildlife Sciences.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Limnology",
+            "number": "F_W 4100",
+            "description": "(same as BIO_SC 4100). (lecture/lab: 4 hrs.; lecture only: 3 hrs.). Ecology of inland waters with emphasis on productivity.",
+            "prerequisites": "None Listed",
+            "hours": "3-4Recommended: senior standing or BIO_SC 3650",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Urban Wildlife Conservation",
+            "number": "F_W 4200",
+            "description": "Reviewing the theory and practice of applying ecological concepts to the management of wildlife species in urban areas.",
+            "prerequisites": "BIO_SC 3650",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650"
+            ]
+        },
+        {
+            "name": "Urban Wildlife Conservation - Writing Intensive",
+            "number": "F_W 4200W",
+            "description": "Reviewing the theory and practice of applying ecological concepts to the management of wildlife species in urban areas.",
+            "prerequisites": "BIO_SC 3650",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650"
+            ]
+        },
+        {
+            "name": "Human Dimensions of Fish and Wildlife Conservation",
+            "number": "F_W 4220",
+            "description": "Overview of human dimensions approaches and methods as they are applied to issues in fish and wildlife conservation.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "One 3000-level or above professional Fisheries and Wildlife management or techniques course",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Fisheries Management",
+            "number": "F_W 4300",
+            "description": "Introduction to the scientific principles and techniques of fishery management. Integrates ecological principles with social, economic and legal considerations.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "BIO_SC 3650 and STAT 2530",
+            "connections": [
+                "BIO_SC 3650",
+                "STAT 2530"
+            ]
+        },
+        {
+            "name": "Techniques for Fisheries Management and Conservation",
+            "number": "F_W 4400",
+            "description": "Introduction to techniques (field and analytical/quantitative) used by fisheries and conservation biologists. Fosters understanding of techniques uses, advantages, limitations biases, and data interpretation. Extended weekly field outings require chest waders and life jackets. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "BIO_SC 3650 and STAT 2530 or NAT_R 3110 and F_W 2700 or F_W 4300",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 2700",
+                "F_W 4300",
+                "NAT_R 3110",
+                "STAT 2530"
+            ]
+        },
+        {
+            "name": "Techniques for Fisheries Management and Conservation - Writing Intensive",
+            "number": "F_W 4400W",
+            "description": "Introduction to techniques (field and analytical/quantitative) used by fisheries and conservation biologists. Fosters understanding of techniques uses, advantages, limitations biases, and data interpretation. Extended weekly field outings require chest waders and life jackets. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "BIO_SC 3650 and STAT 2530 or NAT_R 3110 and F_W 2700 or F_W 4300",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 2700",
+                "F_W 4300",
+                "NAT_R 3110",
+                "STAT 2530"
+            ]
+        },
+        {
+            "name": "Animal Population Dynamics and Management",
+            "number": "F_W 4500",
+            "description": "Quantitative modeling approach to examining principles and analysis techniques of fish and wildlife population dynamics. Emphasis on approaches useful in the management of exploited species.",
+            "prerequisites": "MATH 1400, STAT and BIO_SC 3650",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "MATH 1400",
+                "STAT and "
+            ]
+        },
+        {
+            "name": "Ecosystem Management",
+            "number": "F_W 4600",
+            "description": "Explores the development and implementation of large-scale approaches to restoring and maintaining ecosystems for sustainability.  Incorporates ecological, socio-economic, and institutional factors that influence natural management agencies.  Graded on A-F basis only.",
+            "prerequisites": "BIO_SC 3650",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650"
+            ]
+        },
+        {
+            "name": "Ecosystem Management - Writing Intensive",
+            "number": "F_W 4600W",
+            "description": "Explores the development and implementation of large-scale approaches to restoring and maintaining ecosystems for sustainability.  Incorporates ecological, socio-economic, and institutional factors that influence natural management agencies.  Graded on A-F basis only.",
+            "prerequisites": "BIO_SC 3650",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650"
+            ]
+        },
+        {
+            "name": "Wildlife Management Planning",
+            "number": "F_W 4650",
+            "description": "Students will be exposed to various wildlife planning tools. Student teams will develop wildlife management plans with strategic and operational components for current conservation issues in Missouri. Plans will be critiqued by peers and outside professionals. Graded on A-F basis only.",
+            "prerequisites": "BIO_SC 3650 and senior standing",
+            "hours": "3",
+            "recommendation": "F_W 2900",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 2900"
+            ]
+        },
+        {
+            "name": "Wildlife Research and Management Evaluation Methods",
+            "number": "F_W 4700",
+            "description": "Techniques for conducting wildlife research and evaluating wildlife management practices.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "BIO_SC 3650 or F_W 2900 or STAT",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 2900",
+                "STAT"
+            ]
+        },
+        {
+            "name": "Wildlife Research and Management Evaluation Methods - Writing Intensive",
+            "number": "F_W 4700W",
+            "description": "Techniques for conducting wildlife research and evaluating wildlife management practices.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "BIO_SC 3650 or F_W 2900 or STAT",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 2900",
+                "STAT"
+            ]
+        },
+        {
+            "name": "Environmental Toxicology",
+            "number": "F_W 4800",
+            "description": "Introduction to classes of chemicals, tools, methods, and approaches used in environmental toxicology. Emphasizes fundamentals of toxicology, dose-response relationships, evaluation of contaminant issues, strategies, and exposure analysis/toxicity assessment strategies in a risk assessment.",
+            "prerequisites": "CHEM 1320 and F_W 3400",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "F_W 3400"
+            ]
+        },
+        {
+            "name": "Wildlife Disease Ecology",
+            "number": "F_W 4810",
+            "description": "An introduction to the ecology of wildlife diseases.  Topics include the definition of a disease, how to measure diseases, impacts on individuals and populations, and the role of disease in wildlife management and conservation.",
+            "prerequisites": "BIO_SC 3650",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650"
+            ]
+        },
+        {
+            "name": "Waterfowl Ecology and Management",
+            "number": "F_W 4880",
+            "description": "Ecology and management of North American waterfowl and their habitats.  Laboratory exercises focus on identification, life histories, sex and age determination, and survey methods.  Lectures cover taxonomy, ecology, behavior, population dynamics, harvest management, and habitat management and conservation.  Graded on A-F basis only.",
+            "prerequisites": "F_W 2600; BIO_SC 3650; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 2600"
+            ]
+        },
+        {
+            "name": "Senior Seminar in Captive Wild Animal Management",
+            "number": "F_W 4910",
+            "description": "(same as AN_SCI 4910). Investigates key issues in captive wild animal management, focusing on the role of animal caretakers in addressing the issues.  Students are required to formulate informed opinions regarding these topics and communicate effectively about the subject matter. Graded on A-F basis only.",
+            "prerequisites": "AN_SCI 1012 or F_W 1012;  junior or senior standing",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "AN_SCI 1012",
+                "F_W 1012"
+            ]
+        },
+        {
+            "name": "Fisheries and Wildlife Internship",
+            "number": "F_W 4940",
+            "description": "Supervised professional experience with an approval public or private organization. May be repeated for credit.  Graded on S/U basis only.",
+            "prerequisites": "Fisheries and Wildlife majors only",
+            "hours": "1-12",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Undergraduate Research in Fisheries and Wildlife",
+            "number": "F_W 4950",
+            "description": "Individually directed field or laboratory research for students under faculty supervision.  Project must be arranged by student and faculty member prior to registration.",
+            "prerequisites": "consent of supervising faculty member",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Special Readings in Fisheries and Wildlife",
+            "number": "F_W 4960",
+            "description": "Critical review of current literature and research in fisheries and wildlife sciences.  Project must be arranged by student and faculty supervisor prior to registration.",
+            "prerequisites": "supervising faculty member's consent required",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graduate Topics in Fisheries and Wildlife",
+            "number": "F_W 7002",
+            "description": "Organized study of selected topics intended primarily for graduate students in Fisheries and Wildlife Sciences.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Limnology",
+            "number": "F_W 7100",
+            "description": "(same as BIO_SC 7100). (lecture/lab: 4 hrs.; lecture only: 3 hrs.) Ecology of inland waters with emphasis on productivity.",
+            "prerequisites": "BIO_SC 3650",
+            "hours": "3-4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650"
+            ]
+        },
+        {
+            "name": "Urban Wildlife Conservation",
+            "number": "F_W 7200",
+            "description": "Reviewing the theory and practice of applying ecological concepts to the management of wildlife species in urban areas.",
+            "prerequisites": "None Listed",
+            "hours": "3Corequisites: BIO SC 3650 or instructor's consent",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Human Dimensions of Fish and Wildlife Conservation",
+            "number": "F_W 7220",
+            "description": "Overview of human dimensions approaches and methods as they are applied to issues in fish and wildlife conservation.",
+            "prerequisites": "One 3000-level or above professional management or techniques course or instructor consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Fisheries Management",
+            "number": "F_W 7300",
+            "description": "Introduction to the scientific principles and techniques of fishery management. Integrates ecological principles with social, economic and legal considerations.",
+            "prerequisites": "BIO_SC 3650 and STAT 2530",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "STAT 2530"
+            ]
+        },
+        {
+            "name": "Techniques for Fisheries Management and Conservation",
+            "number": "F_W 7400",
+            "description": "Introduction to techniques (field and analytical/quantitative) used by fisheries and conservation biologists. Fosters understanding of techniques uses, advantages, limitations biases, and data interpretation. Extended weekly field outings require chest waders and life jackets.",
+            "prerequisites": "BIO_SC 3650 and STAT 2530 or NAT_R 3110 and F_W 2700 or F_W 4300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 2700",
+                "F_W 4300",
+                "NAT_R 3110",
+                "STAT 2530"
+            ]
+        },
+        {
+            "name": "Animal Population Dynamics and Management",
+            "number": "F_W 7500",
+            "description": "Quantitative modeling approach to examining principles and analysis techniques of fish and wildlife population dynamics. Emphasis on approaches useful in the management of exploited species.  Graded on A-F basis only.",
+            "prerequisites": "MATH 1400, BIO_SC 3650, Statistics",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "MATH 1400"
+            ]
+        },
+        {
+            "name": "Ecosystem Management",
+            "number": "F_W 7600",
+            "description": "Explores the development and implementation of large-scale approaches to restoring and maintaining ecosystems for sustainability.  Incorporates ecological, social-economic, and institutional factors that influence natural resource management agencies.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Wildlife Research and Management Techniques",
+            "number": "F_W 7700",
+            "description": "Research and Management methods for wildlife populations and habitats.",
+            "prerequisites": "BIO_SC 3650 and STAT 2530 or NAT_R 3110. One-week pre-semester field session required",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "NAT_R 3110",
+                "STAT 2530"
+            ]
+        },
+        {
+            "name": "Environmental Toxicology",
+            "number": "F_W 7800",
+            "description": "Introduction to classes of chemicals, tools, methods, and approaches used in environmental toxicology. Emphasizes fundamentals of toxicology, dose-response relationships, evaluation of contaminant issues, strategies, and exposure analysis/toxicity assessment strategies in a risk assessment.",
+            "prerequisites": "CHEM 1320 and F_W 3400 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "CHEM 1320",
+                "F_W 3400"
+            ]
+        },
+        {
+            "name": "Wildlife Disease Ecology",
+            "number": "F_W 7810",
+            "description": "An introduction to the ecology of wildlife diseases.  Topics include the definition of a disease, how to measure diseases, impacts on individuals and populations, and the role of disease in wildlife management and conservation.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Waterfowl Ecology and Management",
+            "number": "F_W 7880",
+            "description": "Ecology and Management of North American waterfowl and their habitats.  Laboratory exercises focuses on identification, life histories, sex and age determination, and survey methods.  Lectures cover taxonomy, ecology, behavior, population dynamics, harvest management, and habitat management and conservation.  Graded on A-F basis only.",
+            "prerequisites": "F_W 2600; BIO_SC 3650; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 2600"
+            ]
+        },
+        {
+            "name": "Topics in Fisheries and Wildlife",
+            "number": "F_W 8001",
+            "description": "Organized study of selected topics. Subjects and credit may vary from semester to semester.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Non-Thesis Research in Fisheries and Wildlife",
+            "number": "F_W 8050",
+            "description": "Independent research not leading to a thesis.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graduate Problems in Fisheries and Wildlife",
+            "number": "F_W 8085",
+            "description": "Individualized problems studies to supplement regularly organized graduate courses in Fisheries and Wildlife.",
+            "prerequisites": "consent of supervising faculty member",
+            "hours": "1-5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Masters Seminar in Fisheries and Wildlife",
+            "number": "F_W 8087",
+            "description": "Discussions of current developments in forestry, fisheries and wildlife, and critical study of research programs.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Masters Thesis Research in Fisheries and Wildlife",
+            "number": "F_W 8090",
+            "description": "Research leading to a thesis or dissertation. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Professional Development and Communications",
+            "number": "F_W 8300",
+            "description": "Intended to foster professional growth and development of graduate students. The course will present a rigorous introduction to professionalism, ethics, career development, and professional communications skills and techniques.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Fish Ecology",
+            "number": "F_W 8440",
+            "description": "Advanced study of the interactions between fish and their environment. Topics include behavioral, physiological, population and community ecology of fishes, with emphasis on development and application of ecological theory in fishery management.",
+            "prerequisites": "F_W 2700, F_W 4100, BIO_SC 3650 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 2700",
+                "F_W 4100"
+            ]
+        },
+        {
+            "name": "Advanced Limnology",
+            "number": "F_W 8450",
+            "description": "Physical, chemical and biological processes of lakes and streams emphasizing biological production, water quality and modern problems. Field, laboratory techniques in limnology research.",
+            "prerequisites": "F_W 4100, BIO_SC 3650, BIO_SC 3510 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "BIO_SC 3510",
+                "F_W 4100"
+            ]
+        },
+        {
+            "name": "Wetland Ecology",
+            "number": "F_W 8460",
+            "description": "A survey of the wetlands of North America; emphasis on nutrient dynamics, habitat structure, management, legislation and regulations, and man's impacts.",
+            "prerequisites": "F_W 4100, BIO_SC 3650 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 4100"
+            ]
+        },
+        {
+            "name": "Fish Bioenergetics: Concepts and Applications",
+            "number": "F_W 8470",
+            "description": "Key concepts of fish bioenergetics are treated by readings, discussions of articles and lectures by the instructor. Concepts are applied through modeling.  Novel applications, shortcomings and benefits of bioenergetics models are treated.  The course applies to graduate students seeking careers in fisheries management, aquatic ecology, fish conservation and aquaculture.  Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Ecology, Conservation, and Environmental Justice",
+            "number": "F_W 8510",
+            "description": "The goal of this course is to introduce graduate students in natural resource management and conservation biology to the ecological and management concepts that underlie environmental justice issues, and to explain how broader environmental justice concepts are relevant to natural resource and conservation fields.   Graded on A-F basis only.  ",
+            "prerequisites": "  one undergraduate course from the following list of disciplines: ecology, natural resource management, conservation biology, sociology or equivalent.",
+            "hours": ": 2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Stream Ecology",
+            "number": "F_W 8520",
+            "description": "Ecological principles applied to flowing waters. Emphasis on ecological processes within algal, invertebrate and fish communities. The influence of geomorphic processes, hydrologic principles and physical-chemical factors on the biota.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Quantitative Fish and Wildlife Assessment",
+            "number": "F_W 8530",
+            "description": "Methods to assess space use patterns, animal abundance and population status are drawn into quantitative framework for making inferences to wild populations. Practical application and limitations of techniques are emphasized through analysis and interpretation of field data.",
+            "prerequisites": "NAT_R 3110 or equivalent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "NAT_R 3110"
+            ]
+        },
+        {
+            "name": "Wildlife Nutritional Ecology",
+            "number": "F_W 8540",
+            "description": "A comprehensive and comparative treatment of vertebrates interact with their environment to satisfy nutrient and energy requirements. Emphasis on nutrient requirements, food processing, bioenergetics and foraging strategies.",
+            "prerequisites": "BIO_SC 3650 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650"
+            ]
+        },
+        {
+            "name": "Advanced Waterfowl Ecology",
+            "number": "F_W 8550",
+            "description": "Advance studies of waterfowl ecology. Emphasis on mating systems, foraging ecology, energetics, and post-breeding and wintering ecology.",
+            "prerequisites": "F_W 2600, F_W 3800 and BIO_SC 3650 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "F_W 2600",
+                "F_W 3800"
+            ]
+        },
+        {
+            "name": "Vertebrate Behavioral Ecology",
+            "number": "F_W 8620",
+            "description": "In-depth study of the behavioral adaptations of vertebrates. Topics include reproductive strategies, mate selection, parental care, predator avoidance, habitat selection, foraging strategies and spacing patterns.",
+            "prerequisites": "BIO_SC 4640 and BIO_SC 3650 or equivalents",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 4640",
+                "BIO_SC 3650"
+            ]
+        },
+        {
+            "name": "PhD Seminar in Fisheries and Wildlife",
+            "number": "F_W 9087",
+            "description": "Discussions of current developments in forestry, fisheries and wildlife, and critical study of research programs.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Ph. D. Dissertation Research in Fisheries and Wildlife",
+            "number": "F_W 9090",
+            "description": "Research leading to a thesis or dissertation. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

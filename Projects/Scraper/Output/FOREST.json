@@ -1,0 +1,739 @@
+{
+    "department_name": "Forestry",
+    "department_code": "FOREST",
+    "courses": [
+        {
+            "name": "Topics in Forestry - Biological/Physical/Mathematical",
+            "number": "FOREST 1102",
+            "description": "Organized study of selected topics in forestry. Intended for undergraduate students.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Forestry - Social Science",
+            "number": "FOREST 1104",
+            "description": "Organized study of selected topics in forestry. Intended for undergraduate students.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Dendrology",
+            "number": "FOREST 2151",
+            "description": "An introduction to the biology of trees, emphasizing identification in the field, taxonomy, ecology, geographic distribution and economic significance of forest species.",
+            "prerequisites": "BIO_SC 1200 or PLNT_S 2120 and PLNT_S 3130",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1200",
+                "PLNT_S 2120",
+                "PLNT_S 3130"
+            ]
+        },
+        {
+            "name": "Forest Hydrology Field Studies",
+            "number": "FOREST 2540",
+            "description": "Introduction to forest hydrology, watershed management, water quantity and quality, climate and biophysical relationships.",
+            "prerequisites": "SOIL 2100, FOREST 2151Corequisites: FOREST 2541, FOREST 2542, FOREST 2543, FOREST 2544 and FOREST 2545",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2151",
+                "FOREST 2541",
+                "FOREST 2542",
+                "FOREST 2543",
+                "FOREST 2544",
+                "FOREST 2545",
+                "SOIL 2100"
+            ]
+        },
+        {
+            "name": "Forest Utilization",
+            "number": "FOREST 2541",
+            "description": "Field studies of logging and milling of timber.",
+            "prerequisites": "SOIL 2100, FOREST 2151Corequisites: FOREST 2540, FOREST 2542, FOREST 2543, FOREST 2544 and FOREST 2545",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2151",
+                "FOREST 2540",
+                "FOREST 2542",
+                "FOREST 2543",
+                "FOREST 2544",
+                "FOREST 2545",
+                "SOIL 2100"
+            ]
+        },
+        {
+            "name": "Forest Measurement and Inventory",
+            "number": "FOREST 2542",
+            "description": "Field measurement of standing trees including diameter, height and age. Estimation of forest timber resources using a variety of sampling schemes and techniques. Introduction to Arcview and growth models.",
+            "prerequisites": "SOIL 2100, FOREST 2151Corequisites: FOREST 2540, FOREST 2541, FOREST 2543, FOREST 2544 and FOREST 2545",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2151",
+                "FOREST 2540",
+                "FOREST 2541",
+                "FOREST 2543",
+                "FOREST 2544",
+                "FOREST 2545",
+                "SOIL 2100"
+            ]
+        },
+        {
+            "name": "Forest Ecology Field Studies",
+            "number": "FOREST 2543",
+            "description": "Field studies of vegetation, soils, habitats and ecological units. Application of ecological principles of natural resource management and understanding of natural and managed forested communities with an emphasis on southeastern Missouri.",
+            "prerequisites": "SOIL 2100, FOREST 2151Corequisites: FOREST 2540, FOREST 2541, FOREST 2542, FOREST 2544 and FOREST 2545",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2151",
+                "FOREST 2540",
+                "FOREST 2541",
+                "FOREST 2542",
+                "FOREST 2544",
+                "FOREST 2545",
+                "SOIL 2100"
+            ]
+        },
+        {
+            "name": "Introduction to Silviculture and Management",
+            "number": "FOREST 2544",
+            "description": "Management objectives and stand prescriptions, regeneration and intermediate silvicultural treatments, management on private and federal forest lands, tree evaluation and timber marking.",
+            "prerequisites": "SOIL 2100, FOREST 2151Corequisites: FOREST 2540, FOREST 2541, FOREST 2542, FOREST 2543 and FOREST 2545",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2151",
+                "FOREST 2540",
+                "FOREST 2541",
+                "FOREST 2542",
+                "FOREST 2543",
+                "FOREST 2545",
+                "SOIL 2100"
+            ]
+        },
+        {
+            "name": "Forest Management Planning",
+            "number": "FOREST 2545",
+            "description": "Preparation and presentation of a written forest management plan using material and data developed in prerequisite courses.",
+            "prerequisites": "SOIL 2100, FOREST 2151Corequisites: FOREST 2540, FOREST 2541, FOREST 2542, FOREST 2543 and FOREST 2544 concurrently",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2151",
+                "FOREST 2540",
+                "FOREST 2541",
+                "FOREST 2542",
+                "FOREST 2543",
+                "FOREST 2544",
+                "SOIL 2100"
+            ]
+        },
+        {
+            "name": "Topics in Forestry",
+            "number": "FOREST 3201",
+            "description": "Organized study of selected topics. Intended primarily for undergraduate Forestry students. Subjects and credit may vary from semester to semester.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Forest Fire Control and Use",
+            "number": "FOREST 3207",
+            "description": "Fundamentals of all phases of fire protection. Objectives and techniques in use of fire.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Forest Health and Protection",
+            "number": "FOREST 3212",
+            "description": "Fundamental concepts of forest pathology and forest entomology including emphasis on ecological principles and management strategies.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "FOREST 2151",
+            "connections": [
+                "FOREST 2151"
+            ]
+        },
+        {
+            "name": "Forest Health and Protection - Writing Intensive",
+            "number": "FOREST 3212W",
+            "description": "Fundamental concepts of forest pathology and forest entomology including emphasis on ecological principles and management strategies.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "FOREST 2151",
+            "connections": [
+                "FOREST 2151"
+            ]
+        },
+        {
+            "name": "Fire and Society",
+            "number": "FOREST 3217",
+            "description": "A study of the relationship between society (humans) and fire.  What kind of  role does fire play in day-to-day life? How has fire influenced our behavior since Day 1?  How do we view fire today?",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Wood Technology",
+            "number": "FOREST 3240",
+            "description": "Structure and identification of commercial woods. Relation of growth to physical and chemical properties of wood.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Urban Forestry",
+            "number": "FOREST 3290",
+            "description": "The culture and management of trees in urban areas, including ownership patterns, species composition, growth environment, amenities provided and evaluation. One-day field trip required.",
+            "prerequisites": "FOREST 2151 or PLNT_S 2210",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2151",
+                "PLNT_S 2210"
+            ]
+        },
+        {
+            "name": "Problems in Forestry",
+            "number": "FOREST 3300",
+            "description": "Problems in Forestry",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Special Readings in Forestry",
+            "number": "FOREST 3350",
+            "description": "Critical review of current literature and research in forestry, fisheries and wildlife, and methods of presenting research results.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Forestry",
+            "number": "FOREST 4301",
+            "description": "Organized study of selected topics. Intended for upper-division students. Subjects and credit may vary from semester to semester.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Forest Ecology",
+            "number": "FOREST 4320",
+            "description": "Principles of community, ecosystem, and population ecology and examination of the influence of environmental factors and human activity on forest dynamics, composition, structure and function.",
+            "prerequisites": "Senior standing only.  Recommended FOREST 2151",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2151"
+            ]
+        },
+        {
+            "name": "Forest Ecology - Writing Intensive",
+            "number": "FOREST 4320W",
+            "description": "Principles of community, ecosystem, and population ecology and examination of the influence of environmental factors and human activity on forest dynamics, composition, structure and function.",
+            "prerequisites": "Senior standing only.  Recommended FOREST 2151",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2151"
+            ]
+        },
+        {
+            "name": "Practice of Silviculture",
+            "number": "FOREST 4330",
+            "description": "Applied ecological principles, cultural practices, tree improvement techniques and treatments to forest stands and other lands for systematic production of goods and services.",
+            "prerequisites": "FOREST 4320; Senior standing only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 4320"
+            ]
+        },
+        {
+            "name": "Tree Physiology",
+            "number": "FOREST 4340",
+            "description": "Lectures on physical and chemical phenomena involved in the functions and activities of trees.",
+            "prerequisites": "BIOCHM 2110, BIO_SC 1200, CHEM 1100; or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 2110",
+                "BIO_SC 1200",
+                "CHEM 1100"
+            ]
+        },
+        {
+            "name": "Forest Economics",
+            "number": "FOREST 4350",
+            "description": "Economic principles applied to production/marketing of goods and services from forest land: emphasizes capital and land factors and investment alternatives related to time.",
+            "prerequisites": "AG_EC 1042 or AG_EC 2070",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_EC 1042",
+                "AG_EC 2070"
+            ]
+        },
+        {
+            "name": "Photogrammetry, Inventory and Models",
+            "number": "FOREST 4360",
+            "description": "Applied course in the area of aerial photogrammetry, forest inventory, and forest growth models for developing, maintaining, and utilizing these tools in a forest management.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Logging Systems: Operations and Analyses",
+            "number": "FOREST 4365",
+            "description": "A systems approach to timber harvesting from acquisition through engineering to log transport. Regional aspects and influences will be considered.",
+            "prerequisites": "FOREST 2540 and FOREST 2541",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2540",
+                "FOREST 2541"
+            ]
+        },
+        {
+            "name": "Wildland Fire Management",
+            "number": "FOREST 4370",
+            "description": "Management, administration, and organization of wildland and prescribed fires and other natural and man-made disasters. Emphasis placed on organizational arrangements of incidents rather than on either strategy or tactics.",
+            "prerequisites": "FOREST 3207",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 3207"
+            ]
+        },
+        {
+            "name": "Forest Stand Dynamics",
+            "number": "FOREST 4375",
+            "description": "Examines the development of forest structure, the role of disturbance on forest change and the use of this knowledge in applying silvicultural systems. Both forest stand dynamics theories, structure diagrams, forest growth models, and long term data sets are used to understand stand dynamics.",
+            "prerequisites": "FOREST 4330",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 4330"
+            ]
+        },
+        {
+            "name": "Forest Resource Management",
+            "number": "FOREST 4380",
+            "description": "Teaches resource managers how to develop a plan for the management of forest resources using managerial, economic, silvical and wildlife techniques for its enhancement and to meet the landowner's objectives.",
+            "prerequisites": "FOREST 4330 and FOREST 4350; Senior Standing only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 4330",
+                "FOREST 4350"
+            ]
+        },
+        {
+            "name": "Agroforestry I: Theory, Practice and Adoption",
+            "number": "FOREST 4385",
+            "description": "Understand biophysical, ecological, social and economic features of temperate and tropical agroforestry. Covers the basics of design, planning and implementation of agroforestry practices.",
+            "prerequisites": "junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Agroforestry Economics and Policy",
+            "number": "FOREST 4387",
+            "description": "This course focuses on economic principles applied to the adoption and management of agroforestry practices at both the micro and macro scale.  This includes cost and benefits analysis of ecosystem services and marketing of goods and services from agroforestry.  More specifically, this course emphasizes both market and nonmarket valuation of managed tree and crop/livestock interactions; investment alternatives related to economics and natural resources; and decision making with relation to financial principles, environmental principles, and social principles. Graded on A-F basis only.",
+            "prerequisites": "FOREST 4385 or FOREST 7385, AG_EC 1041 or permission of instructor",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_EC 1041",
+                "FOREST 4385",
+                "FOREST 7385"
+            ]
+        },
+        {
+            "name": "Watershed Management and Water Quality",
+            "number": "FOREST 4390",
+            "description": "(cross-leveled with FOREST 7390). Hydrologic processes on wildland watersheds. Effects of forest land management on streamflow, erosion and water quality.",
+            "prerequisites": "MATH 1400; Senior standing only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1400"
+            ]
+        },
+        {
+            "name": "Forestry Internship",
+            "number": "FOREST 4940",
+            "description": "Supervised professional experience with an approved public or private organization. May be repeated for credit.  Graded on S/U basis only.",
+            "prerequisites": "Instructor's consent required",
+            "hours": "1-12",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Forestry Undergraduate Research",
+            "number": "FOREST 4950",
+            "description": "Research apprenticeship with a faculty mentor. Students are expected to develop initial concept for the research, design experiments, collect data, and analyze data with faculty input, oversight, and guidance. Graded on A-F basis only.",
+            "prerequisites": "Senior standing, STAT 2530",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": [
+                "STAT 2530"
+            ]
+        },
+        {
+            "name": "Special Readings in Forestry",
+            "number": "FOREST 4960",
+            "description": "Individualized study on particular topic in forestry. Graded on A-F basis only.",
+            "prerequisites": "Senior standing required",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Senior Honors Research in Forestry",
+            "number": "FOREST 4994",
+            "description": "",
+            "prerequisites": "Instructor Consent Required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Senior Honors Research in Forestry",
+            "number": "FOREST 4995",
+            "description": "",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Forestry",
+            "number": "FOREST 7301",
+            "description": "Organized study of selected topics. Intended for upper-division and graduate students. Subjects and credit may vary from semester to semester.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Forest Ecology",
+            "number": "FOREST 7320",
+            "description": "Principles of community, ecosystem, and population ecology and examination of the influence of environmental factors and human activity on forest dynamics, composition, structure and function.",
+            "prerequisites": "FOREST 2151 or BIO_SC 3210 or instructor's consent",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3210",
+                "FOREST 2151"
+            ]
+        },
+        {
+            "name": "Practice of Silviculture",
+            "number": "FOREST 7330",
+            "description": "Applied ecological principles, cultural practices, tree improvement techniques and treatments to forest stands and other lands for systematic production of goods and services.",
+            "prerequisites": "FOREST 4320",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 4320"
+            ]
+        },
+        {
+            "name": "Tree Physiology",
+            "number": "FOREST 7340",
+            "description": "Lectures on physical and chemical phenomena involved in the functions and activities of trees.",
+            "prerequisites": "BIOCHM 2110; BIO_SC 1200; CHEM 1100; or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIOCHM 2110",
+                "BIO_SC 1200",
+                "CHEM 1100"
+            ]
+        },
+        {
+            "name": "Forest Economics",
+            "number": "FOREST 7350",
+            "description": "Economic principles applied to production/marketing of goods and services from forest land: emphasizes capital and land factors and investment alternatives related to time.",
+            "prerequisites": "Mathematics requirement completed; AG_EC 1041,  or AG_EC 3080",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_EC 1041",
+                "AG_EC 3080"
+            ]
+        },
+        {
+            "name": "Photogrammetry, Inventory and Models",
+            "number": "FOREST 7360",
+            "description": "Applied course in the area of aerial photogrammetry, forest inventory, and forest growth models for developing, maintaining, and utilizing these tools in a forest management.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Logging Systems: Operations and Analysis",
+            "number": "FOREST 7365",
+            "description": "A systems approach to timber harvesting from acquisition through engineering to log transport. Regional aspects and influences will be considered.",
+            "prerequisites": "FOREST 2543 and FOREST 2544",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 2543",
+                "FOREST 2544"
+            ]
+        },
+        {
+            "name": "Wildland Fire Management",
+            "number": "FOREST 7370",
+            "description": "Management, administration, and organization of wildland and prescribed fires and other natural and man-made disasters. Emphasis placed on organizational arrangements of incidents rather than on either strategy or tactics.",
+            "prerequisites": "FOREST 3207 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 3207"
+            ]
+        },
+        {
+            "name": "Forest Stand Dynamics",
+            "number": "FOREST 7375",
+            "description": "Examines the development of forest structure, the role of disturbance on forest change and the use of this knowledge in applying silvicultural systems. Both forest stand dynamics theories, structure diagrams, forest growth models, and long term data sets are used to understand stand dynamics.",
+            "prerequisites": "FOREST 4330 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 4330"
+            ]
+        },
+        {
+            "name": "Forest Resource Management",
+            "number": "FOREST 7380",
+            "description": "Teaches resource managers how to develop a plan for the management of forest resources using managerial, economic, silvical and wildlife techniques for its enhancement and to meet the landowner's objectives.",
+            "prerequisites": "FOREST 4330 and FOREST 4350",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 4330",
+                "FOREST 4350"
+            ]
+        },
+        {
+            "name": "Agroforestry I: Theory, Practice and Adoption",
+            "number": "FOREST 7385",
+            "description": "Understand biophysical, ecological social and economic features of temperate and tropical agroforestry. Covers the basics of design, planning and implementation of agroforestry practices.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Watershed Management and Water Quality",
+            "number": "FOREST 7390",
+            "description": "(cross-leveled with FOREST 4390). Hydrologic processes on wildland watersheds. Effects of forest land management on streamflow, erosion and water quality.",
+            "prerequisites": "MATH 1400 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1400"
+            ]
+        },
+        {
+            "name": "Research in Forestry",
+            "number": "FOREST 8050",
+            "description": "Original research not leading to preparation of dissertation.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Masters Thesis Research in Forestry",
+            "number": "FOREST 8090",
+            "description": "Original investigation for presentation in a M.S. thesis. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-10",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Ecological Principles of Agroforestry",
+            "number": "FOREST 8385",
+            "description": "The course prepares students to develop an understanding of the complexity of agroforestry.  Students will critically analyze classical and contemporary ecological theories and apply them in designing agroforestry practices to solve complex production and environmental issues.   May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "FOREST 4385 or FOREST 7385 or permission of instructor",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 4385",
+                "FOREST 7385"
+            ]
+        },
+        {
+            "name": "Physical Hydrology",
+            "number": "FOREST 8390",
+            "description": "Students will obtain an understanding of hydrologic processes in terms of the occurrence, distribution and movement of water spanning the atmosphere and lithosphere.  Students will have an opportunity to develop an understanding of physical processes governing mass and energy flux in wildland and anthropogenic systems.  May be repeated for credit. Graded on A-F basis only.",
+            "prerequisites": "College Physics and Calculus I",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Forestry",
+            "number": "FOREST 8401",
+            "description": "Organized study of selected topics. Subjects and credit may vary from semester to semester.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Applied Silviculture",
+            "number": "FOREST 8430",
+            "description": "Ecological and economic factors affecting application of silviculture in each of eighteen forest regions in United States.",
+            "prerequisites": "FOREST 4330",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 4330"
+            ]
+        },
+        {
+            "name": "Forest Soils",
+            "number": "FOREST 8450",
+            "description": "Physical, chemical and biological properties of forest soils in relation to tree growth.",
+            "prerequisites": "FOREST 4330 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 4330"
+            ]
+        },
+        {
+            "name": "Advanced Forest Ecology",
+            "number": "FOREST 8460",
+            "description": "Lecture/discussion based course emphasizing contemporary and classic ecological studies and concepts in the context of current forest ecology issues and research.  ",
+            "prerequisites": " undergraduate ecology course",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Forest Management",
+            "number": "FOREST 8490",
+            "description": "Modern quantitative methods to facilitate decision-making in harvest scheduling and regulation, land use allocation, and production planning in natural resource management.",
+            "prerequisites": "FOREST 4380",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FOREST 4380"
+            ]
+        },
+        {
+            "name": "Advanced Forest Biometrics",
+            "number": "FOREST 8515",
+            "description": "An introduction to the topics and philosophy of ecological modeling. The course will guide students through the process of developing a conceptual model, formalizing the model, formulating, parameterizing, and running the model as well as analyzing the results.",
+            "prerequisites": "STAT 7070 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "STAT 7070"
+            ]
+        },
+        {
+            "name": "Social Forestry",
+            "number": "FOREST 8520",
+            "description": "Issues with using forestry as an international development tool; planning, implementing and evaluating farm and community forestry projects.",
+            "prerequisites": "FOREST 4350, or AG_EC 3270, or equivalent and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AG_EC 3270",
+                "FOREST 4350"
+            ]
+        },
+        {
+            "name": "Ecosystem Management: The Human Dimension",
+            "number": "FOREST 8530",
+            "description": "Overview of cultural, social, political and economic dimensions of natural resource problems and issues from an ecologically grounded management perspective.",
+            "prerequisites": "NAT_R 4353 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "NAT_R 4353"
+            ]
+        },
+        {
+            "name": "Tree Growth-Quality Relationships",
+            "number": "FOREST 8540",
+            "description": "Response of tree growth (wood formation) to such environmental influences fertilization, moisture, nutrient supply, wounding pruning, etc.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Plant-Water Relations",
+            "number": "FOREST 8620",
+            "description": "Absorption, translocation, utilization and loss of water by plants . Biophysics of water movement in the soil-plant-atmosphere continuum. Effects of water deficits on physiological processes.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Plant-Water Relations Laboratory",
+            "number": "FOREST 8625",
+            "description": "Introduction to techniques and instrumentation used in studies of plant-water relations.",
+            "prerequisites": "None Listed",
+            "hours": "2Corequisites: FOREST 8620",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Forestry",
+            "number": "FOREST 9087",
+            "description": "Discussions of current developments in Forestry, and critical study of research programs. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Dissertation Research in Forestry",
+            "number": "FOREST 9090",
+            "description": "Original investigation for presentation in a doctoral dissertation. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-10",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Forestry",
+            "number": "FOREST 9410",
+            "description": "Discussions of current developments in Forestry, and critical study of research programs.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

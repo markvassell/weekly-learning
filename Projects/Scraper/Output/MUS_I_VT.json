@@ -1,0 +1,504 @@
+{
+    "department_name": "Music-Instrumental And Vocal Techniques",
+    "department_code": "MUS_I_VT",
+    "courses": [
+        {
+            "name": "Group Piano for Music Majors I",
+            "number": "MUS_I_VT 1610",
+            "description": "Beginning piano for music majors and concentrations only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Group Piano for Music Majors II",
+            "number": "MUS_I_VT 1611",
+            "description": "Continuation of MUS_I_VT 1610.",
+            "prerequisites": "MUS_I_VT 1610 with a minimum grade of C- or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 1610"
+            ]
+        },
+        {
+            "name": "Jazz Piano Class",
+            "number": "MUS_I_VT 1620",
+            "description": "Beginning piano technique and study of common jazz piano voicings for accompaniment and solo performance.",
+            "prerequisites": "MUSIC_NM 1211 or MUS_THRY 1220; instructor's consent required",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUSIC_NM 1211",
+                "MUS_THRY 1220"
+            ]
+        },
+        {
+            "name": "Group Piano for Music Majors III",
+            "number": "MUS_I_VT 2610",
+            "description": "Continuation of MUS_I_VT 1611.",
+            "prerequisites": "MUS_I_VT 1611 with a minimum grade of C- or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 1611"
+            ]
+        },
+        {
+            "name": "Group Piano for Music Majors IV",
+            "number": "MUS_I_VT 2611",
+            "description": "Continuation of MUS_I_VT 2610.",
+            "prerequisites": "MUS_I_VT 2610 with a minimum grade of C- or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2610"
+            ]
+        },
+        {
+            "name": "Basic Conducting and Score Reading",
+            "number": "MUS_I_VT 2631",
+            "description": "To develop the basic psychomotor and score reading skills prerequisite to the art of conducting.",
+            "prerequisites": "grade of C- or better in MUS_THRY 2220",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 2220"
+            ]
+        },
+        {
+            "name": "Rehearsal Clinic: String Orchestra Conducting",
+            "number": "MUS_I_VT 2632",
+            "description": "To develop musical and interpersonal skills requisite for successful rehearsal leadership, emphasizing strategies effective for rehearsal of string ensembles.",
+            "prerequisites": "Grade of C- or better in MUS_I_VT 2631 and either MUS_I_VT 2640 or MUS_I_VT 2641",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2631",
+                "MUS_I_VT 2640",
+                "MUS_I_VT 2641"
+            ]
+        },
+        {
+            "name": "Rehearsal Clinic: Choral Conducting I",
+            "number": "MUS_I_VT 2633",
+            "description": "To develop musical and interpersonal skills requisite for successful leadership of a choral ensemble, emphasizing rehearsal strategies and repertoire.",
+            "prerequisites": "Grade of C- or better in MUS_I_VT 2631 or instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2631"
+            ]
+        },
+        {
+            "name": "Rehearsal Clinic: Band Conducting I",
+            "number": "MUS_I_VT 2634",
+            "description": "To develop musical and interpersonal skills requisite for successful rehearsal leadership, emphasizing strategies effective for rehearsal of wind and percussion ensembles.",
+            "prerequisites": "Grade of C- or better in MUS_I_VT 2631 or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2631"
+            ]
+        },
+        {
+            "name": "Rehearsal Clinic: Choral Conducting II",
+            "number": "MUS_I_VT 2635",
+            "description": "Continuation of MUS_I_VT 2633.",
+            "prerequisites": "Grade of C- or better in MUS_I_VT 2633",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2633"
+            ]
+        },
+        {
+            "name": "Rehearsal Clinic: Band Conducting II",
+            "number": "MUS_I_VT 2636",
+            "description": "Continuation of MUS_I_VT 2634.",
+            "prerequisites": "Grade of C- or better in MUS_I_VT 2634",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2634"
+            ]
+        },
+        {
+            "name": "Woodwinds I",
+            "number": "MUS_I_VT 2637",
+            "description": "Class instruction in clarinet and saxophone; playing and methods/materials for teaching. Taught on a laboratory basis. Meets twice weekly.",
+            "prerequisites": "major in Music or Music Education",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Woodwinds II",
+            "number": "MUS_I_VT 2638",
+            "description": "Class instruction in flute and double reeds; playing and methods/materials for teaching. Taught on a laboratory basis. Meets twice weekly.",
+            "prerequisites": "major in Music or Music Education",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Strings I",
+            "number": "MUS_I_VT 2640",
+            "description": "Class instruction in violin and viola; playing and methods and materials for teaching. Taught on a laboratory basis. Meets twice weekly.",
+            "prerequisites": "major in Music or Music Education",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Strings II",
+            "number": "MUS_I_VT 2641",
+            "description": "Class instruction in violoncello and string bass; playing and methods and materials for teaching. Taught on a laboratory basis. Meets twice weekly.",
+            "prerequisites": "major in Music or Music Education",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Brass I",
+            "number": "MUS_I_VT 2645",
+            "description": "Class instruction in trumpet and horn; playing and methods/ materials for teaching. Taught on a laboratory basis. Meets twice weekly.",
+            "prerequisites": "major in Music or Music Education",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Brass II",
+            "number": "MUS_I_VT 2646",
+            "description": "Class instruction in trombone, euphonium, and tuba; playing and methods/materials for teaching. Taught on a laboratory basis. Meets twice weekly.",
+            "prerequisites": "major in Music or Music Education",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Percussion",
+            "number": "MUS_I_VT 2648",
+            "description": "Class instruction in percussion instruments; playing and methods and materials for teaching. Taught on a laboratory basis. Meets twice weekly.",
+            "prerequisites": "major in Music Education",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Percussion II",
+            "number": "MUS_I_VT 2649",
+            "description": "Extension of MUS_I_VT 2648.  Topics include marching percussion, drumset, Latin accessory instruments, and percussion ensemble literature.",
+            "prerequisites": "MUS_I_VT 2648",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2648"
+            ]
+        },
+        {
+            "name": "Keyboard Skills for Piano Majors I",
+            "number": "MUS_I_VT 2661",
+            "description": "Study of sightreading, harmonization, transposition, figured bass realization, and duet skills.",
+            "prerequisites": "grade of C- or better in MUS_THRY 1221 and MUS_THRY 1231; instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_THRY 1221",
+                "MUS_THRY 1231"
+            ]
+        },
+        {
+            "name": "Keyboard Skills for Piano Majors II",
+            "number": "MUS_I_VT 2662",
+            "description": "Study of score reading, duet performance, and collaborative experiences with voice and instruments.",
+            "prerequisites": "grade of C- or better in MUS_I_VT 2661; instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2661"
+            ]
+        },
+        {
+            "name": "Undergraduate Seminar in Vocal Techniques",
+            "number": "MUS_I_VT 3640",
+            "description": "Discusses accepted techniques of singing, practical application to posture, breath support, tone placement, musicianship, diction, interpretation, stage deportment. Recognizing and solving specific vocal problems. May be repeated once for credit.",
+            "prerequisites": "instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in String Techniques",
+            "number": "MUS_I_VT 3642",
+            "description": "In-depth study of publications, philosophies, repertory, grading, specific problems for the string player. May be repeated once for credit.",
+            "prerequisites": "MUS_I_VT 2640 and MUS_I_VT 2641, or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2640",
+                "MUS_I_VT 2641"
+            ]
+        },
+        {
+            "name": "Symposium in Instrumental Music",
+            "number": "MUS_I_VT 3643",
+            "description": "Study of procedures, techniques and literature for variable combinations of wind, string, and percussion classes and the administration of instrumental music programs.",
+            "prerequisites": "junior standing in Music or Music Education or instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Jazz Methods and Materials",
+            "number": "MUS_I_VT 3644",
+            "description": "Training and supervised practice in conducting Jazz Ensembles; study of administration, methods, and materials pertinent to teaching Jazz, Rock, and Commercial Music in high school and college.",
+            "prerequisites": "junior standing or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Marching Band Techniques",
+            "number": "MUS_I_VT 3646",
+            "description": "Study of techniques and procedures used in the development of field and street marching.",
+            "prerequisites": "junior standing in Music or Music Education",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Diction in Singing: Italian",
+            "number": "MUS_I_VT 3670",
+            "description": "Study of the correct principles and application of Italian diction in singing the solo vocal, operatic and choral literature; the International phonetic alphabet; spoken language drill, study and recitation of representative literature.",
+            "prerequisites": "sophomore standing",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Diction in Singing: German",
+            "number": "MUS_I_VT 3671",
+            "description": "Study of the correct principles and application of German diction in singing the solo vocal, operatic and choral literature; the International Phonetic Alphabet spoken language drill, study and recitation of representative literature.",
+            "prerequisites": "sophomore standing",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Diction in Singing: French",
+            "number": "MUS_I_VT 3672",
+            "description": "Study of the correct principles and application of French diction in singing the solo vocal, operatic, and choral literature; the International Phonetic Alphabet spoken language drill, study and recitation of representative literature. ",
+            "prerequisites": " sophomore standing",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Diction in Singing: English",
+            "number": "MUS_I_VT 3673",
+            "description": "Study of the correct principles and application of English diction in singing the solo vocal, operatic and choral literature; the International phonetic alphabet; spoken language drill, study and recitation of representative literature.",
+            "prerequisites": "Sophomore standing",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Improvisation",
+            "number": "MUS_I_VT 4640",
+            "description": "(cross-leveled with MUS_I_VT 7640). Introduction to contemporary improvisation, aimed at classically trained musicians. No improvisational experience necessary.",
+            "prerequisites": "Consent of instructor",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Jazz Improvisation",
+            "number": "MUS_I_VT 4645",
+            "description": "Creation of a melodic vocabulary for jazz improvisation through study and application of jazz chord-scale theory, solo transcription, and careful listening to the vanguard of jazz.",
+            "prerequisites": "MUSIC_NM 1211 or  MUS_THRY 1220, instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUSIC_NM 1211",
+                "MUS_THRY 1220"
+            ]
+        },
+        {
+            "name": "Piano Pedagogy Survey I",
+            "number": "MUS_I_VT 4661",
+            "description": "Study of approaches for teaching young beginning and intermediate student; survey of materials and resources.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Piano Pedagogy Survey II",
+            "number": "MUS_I_VT 4662",
+            "description": "Study of approaches for teaching older, more advanced and class piano students; survey of materials and resources.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Piano Pedagogy Laboratory",
+            "number": "MUS_I_VT 4663",
+            "description": "Supervised instruction in private and class piano . May be repeated once for additional credit.",
+            "prerequisites": "MUS_I_VT 4661 and MUS_I_VT 4662",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 4661",
+                "MUS_I_VT 4662"
+            ]
+        },
+        {
+            "name": "Classical Guitar Pedagogy",
+            "number": "MUS_I_VT 4680",
+            "description": "Basic anatomical and physiological aspects of guitar performance, setting technical and musical goals for students, repertoire development in relation to age, level, and musical style.  Career goals (building a private studio, lesson planning, organizational skills) are addressed.",
+            "prerequisites": "Audition required and instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Improvisation",
+            "number": "MUS_I_VT 7640",
+            "description": "(cross-leveled with MUS_I_VT 4640). Introduction to contemporary improvisation, aimed at classically trained musicians. No improvisational experience necessary.",
+            "prerequisites": "Consent of instructor",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graduate Jazz Improvisation",
+            "number": "MUS_I_VT 7645",
+            "description": "Creation of a melodic vocabulary for jazz improvisation through study and application of jazz chord-scale theory, solo transcription, and careful listening to the vanguard of jazz.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graduate Classical Guitar Pedagogy",
+            "number": "MUS_I_VT 7680",
+            "description": "Basic anatomical and physiological aspects of guitar performance, setting technical and musical goals for students, repertoire development in relation to age, level and musical style. Career goals (building a private studio, lesson planning, organizational skills) are addressed.",
+            "prerequisites": "Audition and approval of instructor",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Jazz Pedagogy I",
+            "number": "MUS_I_VT 8646",
+            "description": "Study of historical and current trends in jazz education and pedagogy, including administration and curriculum, through assigned readings, supervised teaching, classroom discussion, survey of materials, and formation of an annotated bibliography. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Jazz Pedagogy II",
+            "number": "MUS_I_VT 8647",
+            "description": "Continuation of MUS_I_VT 8646; formulation of an extensive philosophy of jazz education. Graded on A-F basis only.",
+            "prerequisites": "MUS_I_VT 8646 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 8646"
+            ]
+        },
+        {
+            "name": "Principles of Singing I",
+            "number": "MUS_I_VT 8671",
+            "description": "",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Choral Conducting",
+            "number": "MUS_I_VT 8673",
+            "description": "Advanced conducting techniques in the interpretation of choral literature; score analysis. May be repeated for additional credit.",
+            "prerequisites": "MUS_I_VT 2633 or instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2633"
+            ]
+        },
+        {
+            "name": "Advanced Instrumental Conducting",
+            "number": "MUS_I_VT 8674",
+            "description": "Advanced conducting techniques in the interpretation of band and orchestral literature; score analysis. May be repeated for additional credit.",
+            "prerequisites": "MUS_I_VT 2634 or instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 2634"
+            ]
+        },
+        {
+            "name": "Advanced Piano Pedagogy I",
+            "number": "MUS_I_VT 8681",
+            "description": "A survey of materials and techniques of instruction for teaching the young beginner and the intermediate piano student.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Piano Pedagogy II",
+            "number": "MUS_I_VT 8682",
+            "description": "A survey of materials and techniques of instruction for teaching class piano, the older beginner, and the advanced student.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Piano Pedagogy Internship",
+            "number": "MUS_I_VT 8683",
+            "description": "Supervised teaching of individual and group lessons. May be repeated once for credit.",
+            "prerequisites": "MUS_I_VT 8681 and MUS_I_VT 8682 and instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_I_VT 8681",
+                "MUS_I_VT 8682"
+            ]
+        },
+        {
+            "name": "Group Piano Pedagogy",
+            "number": "MUS_I_VT 8684",
+            "description": "Preparation of graduate students to teach group piano to both college level music majors and adult beginners.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Choral Techniques",
+            "number": "MUS_I_VT 8686",
+            "description": "Study of techniques for developing choral singing and musical interpretation.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Band Techniques",
+            "number": "MUS_I_VT 8689",
+            "description": "To develop individual conducting techniques as well as instrumental ensemble techniques. Emphasis is placed on the learning process to give the student a perspective to improve the techniques of others.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

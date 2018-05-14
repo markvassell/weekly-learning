@@ -1,0 +1,819 @@
+{
+    "department_name": "Special Education",
+    "department_code": "SPC_ED",
+    "courses": [
+        {
+            "name": "Teaching the Exceptional Learner",
+            "number": "SPC_ED 4020",
+            "description": "Teaching the Exceptional Learner addresses topics in the foundations of pedagogy for students with disabilities in inclusive settings, including the roles and responsibilities of the general educator and related service personnel with respect to special education law and policy, behavior management, universal design for learning, and evidence-based practices.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "Progression into Phase II",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Special Education",
+            "number": "SPC_ED 4300",
+            "description": "Introductory overview of the field of special education; historical developments, characteristics of special populations, and compliance with state and federal regulations.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Behavioral Management for Exceptional Students",
+            "number": "SPC_ED 4310",
+            "description": "Study of classroom management and applied behavior analysis strategies. Focus on teacher as decision-maker in the design, implementation, evaluation of individual and group management programs.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Assessment and Evaluation in Special Education",
+            "number": "SPC_ED 4320",
+            "description": "Procedures and instruments used in the assessment of individual with disabilities, including standardized and non-standardized measures of intellectual ability, academic achievement, oral language, social/emotional behaviors, career/vocational needs.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Language Development of Exceptional Students",
+            "number": "SPC_ED 4325",
+            "description": "Study of language and communication issues and disorders in special education; normal and atypical language development; language assessment and intervention models and programs.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Collaboration and Consultation in Special Education",
+            "number": "SPC_ED 4330",
+            "description": "Study of communication, problem-solving, collaboration strategies. Application of strategies to work with exceptional students, their families, other professional members of interdisciplinary, interagency teams.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Literacy in Special Education",
+            "number": "SPC_ED 4370",
+            "description": "Addresses specific literacy needs of students who are at-risk or have special needs with a focus on assessment and instruction in general education classrooms.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: SPC_ED 4300",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Literacy in Special Education II",
+            "number": "SPC_ED 4371",
+            "description": "Advanced study in literacy methods and research for students with disabilities.  Graded on A-F basis only.",
+            "prerequisites": "SPC_ED 4370 or SPC_ED 7370",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4370",
+                "SPC_ED 7370"
+            ]
+        },
+        {
+            "name": "Cross Categorical Special Education",
+            "number": "SPC_ED 4375",
+            "description": "Study of characteristics of students with cross categorical disabilities and other pertinent issues including inclusion, assessment, and evaluation practices.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "Admittance to Phase II",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Methods in Cross-Categorical Special Education",
+            "number": "SPC_ED 4380",
+            "description": "(cross-leveled with SPC_ED 7380). This course is designed to provide students with research-based instructional and behavior management methods for use with student with cross-categorical disabilities.",
+            "prerequisites": "SPC_ED 4375 and SPC_ED 4940",
+            "hours": "3-4",
+            "recommendation": "Admittance to Phase II",
+            "connections": [
+                "SPC_ED 4375",
+                "SPC_ED 4940"
+            ]
+        },
+        {
+            "name": "Methods in Cross-Categorical Special Education - Writing Intensive",
+            "number": "SPC_ED 4380W",
+            "description": "(cross-leveled with SPC_ED 7380). This course is designed to provide students with research-based instructional and behavior management methods for use with student with cross-categorical disabilities.",
+            "prerequisites": "SPC_ED 4375 and SPC_ED 4940",
+            "hours": "3-4",
+            "recommendation": "Admittance to Phase II",
+            "connections": [
+                "SPC_ED 4375",
+                "SPC_ED 4940"
+            ]
+        },
+        {
+            "name": "Methods in Vocational Education for the Disabled and Disadvantaged",
+            "number": "SPC_ED 4390",
+            "description": "(same as LTC_V 4770). Study of legislation, interagency cooperation, curriculum, transition, evaluation/grading role of support personnel. For educators, counselors and administrators working in vocational settings with special needs students and students with disabilities.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "2-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Topics in Special Education",
+            "number": "SPC_ED 4401",
+            "description": "In-depth study of certain developments, findings, trends and issues in one or more areas of special education.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cross-Categorical Special Education: Practicum I",
+            "number": "SPC_ED 4940",
+            "description": "Involvement in meaningful field-based activities that extend and/or apply content information from SPC_ED 4375.",
+            "prerequisites": "None Listed",
+            "hours": "1-4Prerequisites or Corequisites: SPC_ED 4375Recommended: Admittance to Phase II",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Practicum in Cross-Categorical II",
+            "number": "SPC_ED 4941",
+            "description": "(cross-leveled with SPC_ED 7941). The purpose of this course is to provide students with experience in applying the content of Special Education 4380 (i.e. assessment and intervention strategies for use with students with cross categorical disabilities). This course may be repeated for credit.",
+            "prerequisites": "SPC_ED 4375 and SPC_ED  4940",
+            "hours": "2-3PrerequisitesorCorequisites:SPC_ED 4380",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4375",
+                "SPC_ED  494"
+            ]
+        },
+        {
+            "name": "Capstone Seminar and Portfolio in Special Education",
+            "number": "SPC_ED 4972",
+            "description": "Students in final student teaching internship will meet weekly to examine and compare their internship experiences.  Analysis, synthesis, evaluation and problem solving are the focus of the examination of various aspects of pedagogy and experience.  Additionally, students will develop and submit for scoring their State mandated certification portfolio.",
+            "prerequisites": "SPC_ED 4981",
+            "hours": "1",
+            "recommendation": "Enrollment in final semester of student teaching internship",
+            "connections": [
+                "SPC_ED 4981"
+            ]
+        },
+        {
+            "name": "Internship in Special Education",
+            "number": "SPC_ED 4981",
+            "description": "(cross-leveled with SPC_ED 7981).  This field experience provides preservice interns a semester-long public school experience where they simultaneously engage in a unique combination of observation and teaching.  Through observation, conferencing, reading, discussion, demonstration, and participation, the preservice intern will synthesize the course concepts of the Senior Year On-Site Program (SYOSP).  Graded on A-F basis only.",
+            "prerequisites": "ED_LPA 4060",
+            "hours": "4-10",
+            "recommendation": "Admittance to Phase II",
+            "connections": [
+                "ED_LPA 4060"
+            ]
+        },
+        {
+            "name": "Teaching the Exceptional Learner",
+            "number": "SPC_ED 7020",
+            "description": "Teaching the Exceptional Learner addresses topics in the foundations of pedagogy for students with disabilities in inclusive settings, including the roles and responsibilities of the general educator and related service personnel with respect to special education law and policy, behavior management, universal design for learning, and evidence-based practices.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "Progression into Phase II",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Special Education",
+            "number": "SPC_ED 7300",
+            "description": "Introductory overview of the field of special education; historical developments, characteristics of special populations, and compliance with state and federal regulations.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Behavioral Management for Exceptional Students",
+            "number": "SPC_ED 7310",
+            "description": "Study of classroom management and applied behavior analysis strategies. Focus on teacher as decision-maker in the design, implementation, evaluation of individual and group management programs.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Assessment and Evaluation in Special Education",
+            "number": "SPC_ED 7320",
+            "description": "Procedures and instruments used in the assessment of individual with disabilities, including standardized and non-standardized measures of intellectual ability, academic achievement, oral language, social/emotional behaviors, career/vocational needs.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Language Development of Exceptional Students",
+            "number": "SPC_ED 7325",
+            "description": "Study of language and communication issues and disorders in special education; normal and atypical language development; language assessment and intervention models and programs.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Collaboration and Consultation in Special Education",
+            "number": "SPC_ED 7330",
+            "description": "Study of communication, problem-solving, collaboration strategies. Application of strategies to work with exceptional students, their families, other professional members of interdisciplinary, interagency teams.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Literacy in Special Education",
+            "number": "SPC_ED 7370",
+            "description": "Addresses specific literacy needs of students who are at-risk or have special needs with a focus on assessment and instruction in general education classrooms.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: SPC_ED 4300",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Literacy in Special Education II",
+            "number": "SPC_ED 7371",
+            "description": "Advanced study in literacy methods and research for students with disabilities.  Graded A-F only.",
+            "prerequisites": "SPC_ED 4370 or SPC_ED 7370",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4370",
+                "SPC_ED 7370"
+            ]
+        },
+        {
+            "name": "Cross Categorical Special Education",
+            "number": "SPC_ED 7375",
+            "description": "Study of characteristics of students with cross categorical disabilities and other pertinent issues including inclusion, assessment, and evaluation practices.",
+            "prerequisites": "professional standing in Phase II",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Methods in Cross-Categorical Special Education",
+            "number": "SPC_ED 7380",
+            "description": "This course is designed to provide students with research-based instructional and behavior management methods for use with student with cross-categorical disabilities.",
+            "prerequisites": "professional standing in Phase II, SPC_ED 4375, SPC_ED 4940",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4375",
+                "SPC_ED 4940"
+            ]
+        },
+        {
+            "name": "Methods in Vocational Education for the Disabled & Disadvantaged",
+            "number": "SPC_ED 7390",
+            "description": "(same as LTC_V 7770). Study of legislation, interagency cooperation, curriculum, transition, evaluation/grading role of support personnel. For educators, counselors and administrators working in vocational settings with special needs students and students with disabilities.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "2-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Topics in Special Education",
+            "number": "SPC_ED 7401",
+            "description": "In-depth study of certain developments, findings, trends and issues in one or more areas of special education.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cross-Categorical Special Education: Practicum I",
+            "number": "SPC_ED 7940",
+            "description": "Involvement in meaningful field-based activities that extend and/or apply content information from Special Education 4375.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: SPC_ED 4375, professional standing in Phase II",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Practicum in Cross-Categorical II",
+            "number": "SPC_ED 7941",
+            "description": "(cross-leveled with SPC_ED 4941). The purpose of this course is to provide students with experience in applying the content of Special Education 4380 (i.e. assessment and intervention strategies for use with students with cross categorical disabilities). This course may be repeated for credit.",
+            "prerequisites": "SPC_ED 4375 and SPC_ED 4940",
+            "hours": "2-3PrerequisitesorCorequisites:SPC_ED 4380",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4375",
+                "SPC_ED 4940"
+            ]
+        },
+        {
+            "name": "Internship in Special Education",
+            "number": "SPC_ED 7981",
+            "description": "(cross-leveled with SPC_ED 4981). This field experience provides preservice interns a semester-long public school experience where they simultaneously engage in a unique combination of observation and teaching. Through observation, conferencing, reading, discussion, demonstration, and participation, the preservice intern will synthesize the course concepts of the Senior Year On-Site Program (SYOSP). Graded on A-F basis only.",
+            "prerequisites": "ED_LPA 7060; Admittance to the College of Education",
+            "hours": "4-10",
+            "recommendation": "Admittance into Phase II",
+            "connections": [
+                "ED_LPA 7060"
+            ]
+        },
+        {
+            "name": "Problems in Special Education",
+            "number": "SPC_ED 8085",
+            "description": "",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Masters Thesis Research Hours",
+            "number": "SPC_ED 8090",
+            "description": "Restricted to students enrolled in the graduate program.  Graded S/U only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Using Assessment to Guide Instruction",
+            "number": "SPC_ED 8210",
+            "description": "This course is designed to present information on the evaluation of individual student skills and the effects of instruction on those skills.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "School-Wide Positive Behavior Support",
+            "number": "SPC_ED 8220",
+            "description": "Overview of theory, research, and methods related to establishing a system of positive behavior support in schools.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Professional Seminar in Special Education",
+            "number": "SPC_ED 8287",
+            "description": "Designed to provide overview of Special Education, COE program requirements, and general graduate student expectations. Students STRONGLY encouraged to take course first semester in graduate program. Graded on S/U basis only.",
+            "prerequisites": "acceptance into a master's degree program",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Students with Behavioral Disorders",
+            "number": "SPC_ED 8300",
+            "description": "Study of characteristics of students with behavioral disorders as they relate to best practices for assessment, instruction, and intervention.",
+            "prerequisites": "SPC_ED 4300 and instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Students With Learning Disabilities",
+            "number": "SPC_ED 8310",
+            "description": "Study of characteristics of students with learning disabilities as they relate to best practices for assessment, instruction, and intervention.",
+            "prerequisites": "SPC_ED 4300 and instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Advanced Studies in Developmental Disabilities",
+            "number": "SPC_ED 8340",
+            "description": "Current theories and practices and their historic roots through examination of empirical and descriptive literature.",
+            "prerequisites": "admission to graduate study and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Trends and Issues in Special Education",
+            "number": "SPC_ED 8345",
+            "description": "A study of the historical developments and related trends, issues and problems associated with the education of exceptional students.",
+            "prerequisites": "admission to graduate study and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research with Exceptional Children",
+            "number": "SPC_ED 8350",
+            "description": "Explores significant, historical, and current research in special education. Emphasizes the application of research, methodology, and findings relative to problems facing the practitioner.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Studies: Single Subject Design",
+            "number": "SPC_ED 8353",
+            "description": "The course is for advanced graduate students in special education, k psychology, related fields and includes behavioral measurement, single subject research designs, data analysis methods, critical analysis and evaluation of single subject research and research proposal. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Grant Writing",
+            "number": "SPC_ED 8355",
+            "description": "Preparation of research, demonstration, training, or other grant proposals meeting the criteria for competitive funding by a federal agency; review and evaluation of proposals.",
+            "prerequisites": "admission to graduate study and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Special Education Administration",
+            "number": "SPC_ED 8360",
+            "description": "Principles, protective safeguards, and general practices associated with the organization and administration of special education; legal foundations for special education; selection, training, and supervision of personnel.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research Design in Special Education",
+            "number": "SPC_ED 8365",
+            "description": "Overview of professional writing and intermediate research applications with a focus on knowledge and skills needed for higher level doctoral work in statistics and research design.",
+            "prerequisites": "ESC_PS 4170 or equivalent, SPC_ED 8350 or equivalent, and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 4170",
+                "SPC_ED 8350"
+            ]
+        },
+        {
+            "name": "Foundations I: History, Law and Policy in Special Education",
+            "number": "SPC_ED 8370",
+            "description": "The changing concept of disability will be viewed from the perspectives of history, legal issues, and policy traced from early Greek and European periods through contemporary times.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Foundations II: Pedagogical Theories in Special Education",
+            "number": "SPC_ED 8375",
+            "description": "A study of theories of teaching as they apply to special education with emphases on empirically based practices, historical trends, current theories, and the relationship between theories of learning and teaching.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Nature and Needs of Gifted and Talented Students",
+            "number": "SPC_ED 8380",
+            "description": "A conceptual and empirical examination for educational personnel of student identification procedures, special populations, programming issues, research topics and teacher competencies.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Special Education",
+            "number": "SPC_ED 8387",
+            "description": "",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Curriculum Methods for Gifted and Talented Students",
+            "number": "SPC_ED 8391",
+            "description": "A theoretical examination for educational personnel of specific instructional approaches including structure of intellect, enrichment triad, empirical research, and creative problem solving.",
+            "prerequisites": "SPC_ED 8380 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 8380"
+            ]
+        },
+        {
+            "name": "Affective Development of Gifted Students",
+            "number": "SPC_ED 8400",
+            "description": "Psychosocial development of gifted students; theories, and practices in affective development; strategies to develop positive self-concept, successful coping strategies, and effective peer relationships by gifted students.",
+            "prerequisites": "SPC_ED 8380 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 8380"
+            ]
+        },
+        {
+            "name": "Assessment and Evaluation in Gifted Education",
+            "number": "SPC_ED 8405",
+            "description": "Seminar focuses on practices for identifying students for gifted education programs, evaluation models applicable to school programs and strategies for grading and evaluation of gifted students.",
+            "prerequisites": "SPC_ED 8380 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 8380"
+            ]
+        },
+        {
+            "name": "Differentiating Instruction: Reaching Gifted, Typical and Struggling Learners",
+            "number": "SPC_ED 8406",
+            "description": "Explores various instructional approaches to help meet the learning needs of a range of learners from gifted through struggling and at-risk students. Graded on A-F basis only.",
+            "prerequisites": "Introduction to Special Education; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Behavior Management: Applied Behavior Analysis",
+            "number": "SPC_ED 8440",
+            "description": "This course will provide graduate students with advanced theory and knowledge in behavior management. Emphasis will be placed on understanding and using the principles of applied behavior analysis.",
+            "prerequisites": "SPC_ED 4310 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4310"
+            ]
+        },
+        {
+            "name": "Advanced Studies in Behavioral Disorders",
+            "number": "SPC_ED 8455",
+            "description": "Contemporary issues a historical perspective; theoretical perspectives or models which guide research, policy, and intervention approaches.",
+            "prerequisites": "admission to graduate study and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Literacy in Special Education",
+            "number": "SPC_ED 8470",
+            "description": "Study of literacy assessment and instruction methods specific to special education; formal and informal assessment: language and instructional strategies to improve literacy for students with disabilities.",
+            "prerequisites": "SPC_ED 4300",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Advanced Studies in Learning Disabilities",
+            "number": "SPC_ED 8475",
+            "description": "Major current issues, trends, and controversies in learning disabilities; theories, research, and practices in learning disabilities.",
+            "prerequisites": "admission to graduate study and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction and Methods of Early Intervention",
+            "number": "SPC_ED 8485",
+            "description": "This course will enhance individual knowledge and skills necessary to design, implement, and evaluate research-based strategies and practices in home and center-based programs for infants and toddlers with disabilities, consistent with the philosophical and legal requirements of IDEA Part C.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Assessment in Early Childhood Special Education",
+            "number": "SPC_ED 8490",
+            "description": "Procedures and instruments used in assessment of children with special needs, including screening, diagnosis, interpretation of diagnostic findings, and application to instructional plans.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction and Methods of Early Childhood Special Education",
+            "number": "SPC_ED 8495",
+            "description": "This course will enhance individual knowledge and skills necessary to design, implement, and evaluate research-based strategies and practices in community or public school integrated programs for preschools with disabilities, consistent with the philosophical and legal requirements of IDEA Part B Section 619.",
+            "prerequisites": "None Listed",
+            "hours": "2-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Studies in Early Childhood Special Education",
+            "number": "SPC_ED 8505",
+            "description": "Origins, theoretical perspectives, issues, scope and efficacy of the field of early childhood special education.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Meeting the Needs of all Learners",
+            "number": "SPC_ED 8520",
+            "description": "The purpose of this course is to provide information on current research and methodology on teaching students who are struggling or who have disabilities. Open only to teaching fellows.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Autism",
+            "number": "SPC_ED 8601",
+            "description": "This course provides an introduction of children youth with autism spectrum disorders. Topics include: historical and theoretical foundations, diagnostic and assessment approaches, and characteristics. Graded on A-F basis only.",
+            "prerequisites": "Introduction to Special Education; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Methods of Instruction for Students with Autism",
+            "number": "SPC_ED 8602",
+            "description": "Overview of interventions for individuals with autism spectrum disorders and strategies needed for teaching. Best practices and promising practices will be presented. Course graded on A-F basis only.",
+            "prerequisites": "SPC_ED 8601, instructor's consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 8601"
+            ]
+        },
+        {
+            "name": "Social Competency for Students with Autism",
+            "number": "SPC_ED 8603",
+            "description": "Course provides a framework for addressing social competence deficits experienced by students with autism. Course graded on A-F basis only.",
+            "prerequisites": "SPC_ED 8601, instructor's consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 8601"
+            ]
+        },
+        {
+            "name": "High Functioning Students with Autism",
+            "number": "SPC_ED 8604",
+            "description": "The course is designed to increase understanding and ability to support individuals on the Autism Spectrum who have average to above average intelligence. Course graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Young Children with Autism",
+            "number": "SPC_ED 8605",
+            "description": "Current research on characteristics, diagnosis, and intervention for very young children with autism. Strategies for support children and their families. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Assessment in Autism, Special Education",
+            "number": "SPC_ED 8606",
+            "description": "This course covers procedures and instruments used in assessment of school-aged children with autism, including screening, diagnosis, interpretation of assessment findings, and application to instructional plans. Graded on A-F only.",
+            "prerequisites": "SPC_ED 7300Corequisites: SPC_ED 8601",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 7300",
+                "SPC_ED 8601"
+            ]
+        },
+        {
+            "name": "Practicum: Students with Behavioral Disorders",
+            "number": "SPC_ED 8940",
+            "description": "Graduate field experience in educational setting for students with behavioral disorders. Application of competencies from Special Education  8300.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Practicum: Students with Learning Disabilities",
+            "number": "SPC_ED 8941",
+            "description": "Graduate field experience in educational setting for students with learning disabilities. Application of competencies from SPC_ED 8310.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Practicum: Students with Developmental Disabilities",
+            "number": "SPC_ED 8942",
+            "description": "Graduate field experience in educational setting for students with mental retardation. Application of knowledge and skills from SPC_ED 8320.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Practicum in Special Education",
+            "number": "SPC_ED 8943",
+            "description": "Provides graduate practicum experience relevant to the education of exceptional students.",
+            "prerequisites": "SPC_ED 4300 and instructor's consent",
+            "hours": "1-10",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 4300"
+            ]
+        },
+        {
+            "name": "Practicum I: Cross-Categorical Special Education",
+            "number": "SPC_ED 8944",
+            "description": "Graduate field-based experience focused on observation and participation in programming for students with mild-moderate disabilities.",
+            "prerequisites": "instructor's and/or advisor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Practicum II: Cross-Categorical Special Education",
+            "number": "SPC_ED 8945",
+            "description": "Advanced graduate field experience. Demonstration of required competencies with mild-moderate disabilities.",
+            "prerequisites": "SPC_ED 8944 and instructor and/or advisor's consent",
+            "hours": "3-8",
+            "recommendation": "None Listed",
+            "connections": [
+                "SPC_ED 8944"
+            ]
+        },
+        {
+            "name": "Practicum: Gifted Education",
+            "number": "SPC_ED 8946",
+            "description": "Provides graduate field experience in the area of gifted education.",
+            "prerequisites": "instructor or advisor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Practicum: Early Childhood Special Education",
+            "number": "SPC_ED 8947",
+            "description": "Graduate field experience in an approved setting for young children with special needs. May be repeated.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-10",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Special Education",
+            "number": "SPC_ED 9090",
+            "description": "Graded on a S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Professional Seminar in Special Education",
+            "number": "SPC_ED 9387",
+            "description": "Designed to provide overview of Special Education, COE program requirements, and general graduate student expectations. Students STRONGLY encouraged to take course first semester in graduate program. Graded on S/U basis only.",
+            "prerequisites": "acceptance into a master's degree program",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internship: College Teaching in Special Education",
+            "number": "SPC_ED 9940",
+            "description": "Individually guided and supervised college teaching experiences. Competency based activities using portfolio assessment methods. May be taken more than once. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internship: Special Education Research",
+            "number": "SPC_ED 9941",
+            "description": "Individually guided research internship with doctoral advisor and/or faculty mentor(s). Opportunity to develop research competencies either on individual or collaborative projects. May be taken more than once. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internship: Professional Practice in Special Education",
+            "number": "SPC_ED 9942",
+            "description": "Individually guided internship in the public schools and/or agencies serving students with special needs or exceptionalities. Focus on professional practices, administrative practices, and/or evaluation practices. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

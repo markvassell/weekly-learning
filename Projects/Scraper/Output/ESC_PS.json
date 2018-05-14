@@ -1,0 +1,1838 @@
+{
+    "department_name": "Educational, School and Counseling Psychology",
+    "department_code": "ESC_PS",
+    "courses": [
+        {
+            "name": "Topics in Educational School, and Counseling Psychology - General",
+            "number": "ESC_PS 1901",
+            "description": "Topics place holder for lower division courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Experiencing Cultural Diversity in the United States",
+            "number": "ESC_PS 2000",
+            "description": "The purpose of this course is to examine cultural diversity in U.S. Society, to increase self-awareness related to worldviews and beliefs about diversity issues, and to increase understanding of the intersections of multiple group identities.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Inquiry Into Learning I",
+            "number": "ESC_PS 2010",
+            "description": "This course is designed to focus students on the central themes of learning and teaching. Emphasis will be placed on the interaction of theory, philosophy and practice as related to the field of education. Required for Phase II of the certification program.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Inquiry into Learning I - Field Experience",
+            "number": "ESC_PS 2014",
+            "description": "This field experience course supports the Inquiry into Learning I, component of Phase I. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1Recommended: departmental consent",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Inquiry into Learning I - Field Experience - Honors",
+            "number": "ESC_PS 2014H",
+            "description": "This field experience course supports the Inquiry into Learning I, component of Phase I. Graded on S/U basis only.",
+            "prerequisites": "Honors eligibility required",
+            "hours": "1",
+            "recommendation": "Departmental consent",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Career Explorations",
+            "number": "ESC_PS 2100",
+            "description": "Contribution of career development theory to choice of career and/or major. Exploration of personal and social determinants of career choice. Class consists of lecture, laboratory experiences, and use of facilities at the Career Planning and Placement Center.  Some sections may be graded on either A-F basis or S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Transforming Stress: Heart Rate Variability Biofeedback",
+            "number": "ESC_PS 2350",
+            "description": "This course will offer an in-depth opportunity to learn the  philosophy and management of stress through a computer -based biofeedback system.  Students will develop a personal practice, track their progress and learn skills in using this technology for a range of concerns.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Learning and Instruction",
+            "number": "ESC_PS 2400",
+            "description": "The nature of human learning processes with implications for instruction. Emphasis on bases of and readiness for learning, types of learning, memory forgetting and transfer, and related topics.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Child Development",
+            "number": "ESC_PS 2500",
+            "description": "The psychological, intellectual, social, and physical development of children.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Psychological Perspectives in Sport",
+            "number": "ESC_PS 2700",
+            "description": "Survey of sport psychology literature with focus upon such topics as personality, positive and negative affect, cognitive and behavioral intervention, motivation, aggression, audience effects, team cohesion, team building, leadership, exercise, and multicultural issues.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Educational School, and Counseling Psychology - General",
+            "number": "ESC_PS 2901",
+            "description": "Topics place holder for lower division courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Educational, School, and Counseling Psychology",
+            "number": "ESC_PS 3085",
+            "description": "",
+            "prerequisites": "None Listed",
+            "hours": "1-3Recommended: instructor's consent",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "African-American Psychology",
+            "number": "ESC_PS 3100",
+            "description": "(same as BL_STU 3100 and PSYCH 3880). The research, theories and paradigms developed to understand the attitudes, behaviors and psychosocial realities of African-Americans are discussed.",
+            "prerequisites": "PSYCH 1000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
+        },
+        {
+            "name": "Black Feminism",
+            "number": "ESC_PS 3200",
+            "description": "This course outlines the basic principles and practices of Black feminism in the United States. Examination of the multiple systems of oppression on Black women's lives and Black women's collective actions against social structures will occur.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "PSYCH 1000 or instructor's consent",
+            "connections": [
+                "PSYCH 1000"
+            ]
+        },
+        {
+            "name": "Topics in Educational School, and Counseling Psychology - General",
+            "number": "ESC_PS 3901",
+            "description": "Topics place holder for lower division courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Educational, School, and Counseling Psychology",
+            "number": "ESC_PS 4087",
+            "description": "",
+            "prerequisites": "None Listed",
+            "hours": "1-3Recommended: instructor's consent",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Human Learning",
+            "number": "ESC_PS 4115",
+            "description": "An introduction to the basic principles of learning. Focus is on principles of learning which have the greatest utility for professional educators. This course provides a foundation for more advanced courses in human learning.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Foundations of Counseling Psychology",
+            "number": "ESC_PS 4120",
+            "description": "Survey of contemporary theories underlying individual feminist, family systems, and multicultural approaches to counseling. Introduction to professional and ethical issues in Counseling Psychology.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "departmental consent",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Developmental Aspects of Human Learning",
+            "number": "ESC_PS 4160",
+            "description": "Investigates aspects of human development that affect classroom learning. Topics include parenting style, divorce, friendship, mental health, attachment, play, aggression, culture, and media.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Applied Statistics",
+            "number": "ESC_PS 4170",
+            "description": "Introduces statistical techniques including descriptive statistics, correlation, simple regression and hypothesis testing. Math Reasoning Proficiency Course.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "College Algebra or equivalent",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Health Behavior: Drug and Sexuality Education",
+            "number": "ESC_PS 4185",
+            "description": "Psychological, social, and physical factors related to drug taking and sexuality behaviors.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "instructor's consent",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Positive Psychology",
+            "number": "ESC_PS 4200",
+            "description": "Using self-actualization and self-determination theory, the course builds on identifying personal strengths in people.  An emphasis is placed on developing interventions that promote positive thinking.  Some sections graded on either A-F or S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Exploring Mental Health Issues in Schools",
+            "number": "ESC_PS 4460",
+            "description": "This course is an introduction to the mental health challenges found in schools. It provides education professionals with the knowledge and basic skills to promote positive mental health practices in the schools.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "MU Youth Development Academy: Positive Youth Development in Practice",
+            "number": "ESC_PS 4575",
+            "description": "(cross-leveled with ESC_PS 7575). This course prepares students to apply principles of positive youth development to practice, including leading youth programs, developing organizational and community systems that support youth, and engaging others to create positive environments in which youth ages 5-19 grow, thrive, and make successful transitions to adulthood. Course topics include ages and stages of development, experiential learning, program planning, diversity and inclusion, youth/adult partnerships, volunteer systems, risk management, community partnerships, and creating environments for healthy relationships. Graded on A-F basis only.",
+            "prerequisites": "Restricted to upper level (junior/senior standing) students",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Educational School, and Counseling Psychology - General",
+            "number": "ESC_PS 4901",
+            "description": "Topics place holder for lower division courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Readings in Educational, School, and Counseling Psychology",
+            "number": "ESC_PS 4960",
+            "description": "",
+            "prerequisites": "None Listed",
+            "hours": "1-3Recommended: instructor's consent",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Foundation of Teacher Prep I",
+            "number": "ESC_PS 7000",
+            "description": "Designed for graduate students seeking teacher certification, this course addresses content and application in comprehensive classroom management, development, behavior management, and diversity. Field work is required and integrated with course content.",
+            "prerequisites": "PSYCH 1000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
+        },
+        {
+            "name": "Seminar in Educational, School, and Counseling Psychology",
+            "number": "ESC_PS 7087",
+            "description": "",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Theories and Applications of Educational Psychology",
+            "number": "ESC_PS 7100",
+            "description": "An introduction into the ideas and purpose of Educational Psychology in human development, learning, assessment/measurement and education.",
+            "prerequisites": "PSYCH 1000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
+        },
+        {
+            "name": "Human Learning",
+            "number": "ESC_PS 7115",
+            "description": "An introduction to the basic principles of learning. Focus is on principles of learning which have the greatest utility for professional educators. This course provides a foundation for more advanced courses in human learning. Graded on A-F basis only.",
+            "prerequisites": "ESC_PS 4100 or ESC_PS 7100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 4100",
+                "ESC_PS 7100"
+            ]
+        },
+        {
+            "name": "Foundations of Counseling Psychology",
+            "number": "ESC_PS 7120",
+            "description": "Survey of contemporary theories underlying individual, feminist, family systems, and multicultural approaches to counseling.  Introduction to professional and ethical issues in Counseling Psychology.",
+            "prerequisites": "departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Parent Counseling and Consultation",
+            "number": "ESC_PS 7130",
+            "description": "For personnel working with parents in professional settings. Examines current family needs and child-rearing practices. Basic skills in diagnosis, counseling, consultation, parent education are developed.",
+            "prerequisites": "ESC_PS 4120 or ESC_PS 7120",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 4120",
+                "ESC_PS 7120"
+            ]
+        },
+        {
+            "name": "Interviewing and Counseling",
+            "number": "ESC_PS 7150",
+            "description": "Study of beginning interviewing and counseling skills applied to helping relationships in human services professions. Emphasis placed on learning helping skills in small group format. Lab required.",
+            "prerequisites": "PSYCH 1000 or PSYCH 1010",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000",
+                "PSYCH 1010"
+            ]
+        },
+        {
+            "name": "Developmental Aspects of Human Learning",
+            "number": "ESC_PS 7160",
+            "description": "Investigates aspects of human development that affect classroom learning. Topics include parenting style, divorce, friendship, mental health, attachment, play aggression, culture, and media.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Applied Statistics",
+            "number": "ESC_PS 7170",
+            "description": "Introduces statistical techniques including descriptive statistics, correlation, simple regression and hypothesis testing. Graded on A-F basis only.",
+            "prerequisites": "College Algebra or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Foundations of Rehabilitation",
+            "number": "ESC_PS 7180",
+            "description": "The vocational and independent living rehabilitation system for disabled persons. Concept of disability, its social psychological implications, and techniques of preparing disabled persons for adult adjustment.",
+            "prerequisites": "PSYCH 1000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
+        },
+        {
+            "name": "Health Behaviors: Drug and Sexuality Education",
+            "number": "ESC_PS 7185",
+            "description": "Psychological, social and physical factors related to drug taking and sexuality behaviors.",
+            "prerequisites": "LTC 1310 or equivalent or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LTC 1310"
+            ]
+        },
+        {
+            "name": "Alcohol Abuse and Rehabilitation I",
+            "number": "ESC_PS 7190",
+            "description": "Covers historical perspective, definition and measurement of the problem, classifications and theories about the etiology of alcoholism.",
+            "prerequisites": "ESC_PS 4120 or ESC_PS 7120 or ESC_PS 4180 or ESC_PS 7180 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 4120",
+                "ESC_PS 7120",
+                "ESC_PS 4180",
+                "ESC_PS 7180"
+            ]
+        },
+        {
+            "name": "Sport and Applied Coaching Psychology",
+            "number": "ESC_PS 7195",
+            "description": "Sport and Applied Coaching Psychology is a fusion of positive psychology and sport psychology. Positive psychology teaches coaches a healthy approach based in positive motivation and behavior modeling. Sport psychology helps coaches identify with the mental training of athletes and its role in delivering maximum performance. Course focus is on helping coaches maximize the potential of their athletes and teams, while also building upon their emotional and psychological wellbeing.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Positive Psychology",
+            "number": "ESC_PS 7200",
+            "description": "Positive psychology explores what is positive, creative, and fulfilling in human behavior.  It is the scientific study of well-being and flourishing:  what people do right.  This course will examine cornerstones and key concepts such as emotions, engagement, relationships, strengths, virtues, meaning, and purpose. Proven as a very effective application in the realms of organizations, governments, businesses, education, counseling, etc., it is best originally understood by applying it to oneself.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Measurement of Cognitive Abilities",
+            "number": "ESC_PS 7220",
+            "description": "Analysis of the function of psychological testing and a critical examination of various achievement, aptitude, and intelligence assessment instruments.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Development of Character and Talent Strengths",
+            "number": "ESC_PS 7260",
+            "description": "This course will explore the development and application of psychological strengths through the lens of positive psychology theory, research, and intervention. Lessons feature strengths topics including identification, leadership, flow and engagement, regulation, goal-setting and motivation. At the end of the course, students will be proficient in the languages of the StrengthsFinder and VIA Character Strengths assessments, exploration and development oriented activities, and basic facilitator techniques. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Motivation and Positive Psychology",
+            "number": "ESC_PS 7270",
+            "description": "This course is designed to give you a better understanding of your own motivation and the motivations of others. We will explore the whether, the what, the why, and the how of motivation through the study of Self-Determination, Self-Concordance and Goal Systems, as well as Attribution and Achievement goal theories. In addition to conceptual knowledge, it is our hope that you broaden your personal knowledge, such as gain new insights on how to set and select self-appropriate goals. Additionally, we will explore techniques and recommendations for motivating others towards better performance, learning, and development.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Mindfulness, Meditation and Wellbeing",
+            "number": "ESC_PS 7280",
+            "description": "This class explores both the historical roots and contemporary research related to mindfulness, meditation, and their impacts on wellbeing. Through readings, video presentations and applied practices students will expand their knowledge of meditation and Eastern influences on psychology. Students will also be encouraged to increase their personal awareness of the relationships between stress reduction, present moment and mind/ body awareness, and mindfulness practices. Students will be challenged to integrate a regular meditation practice into their daily routine and, through diverse readings, be introduced to cross-cultural perspectives on human health, psychology, and wellbeing. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Foundations of School Mental Health",
+            "number": "ESC_PS 7460",
+            "description": "Explores the history, foundations, and implementation of  an expanded framework of school mental health focusing on collaborative and interdisciplinary approaches to supporting the wellness and school success of youth.  Introduces professional working in or with schools to the school mental health framework emphasizing a behavioral health continuum of care, links between mental health and academic performance, a comprehensive system of learning supports, and data-based decision-making.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "MU Youth Development Academy: Positive Youth Development in Practice",
+            "number": "ESC_PS 7575",
+            "description": "(cross-leveled with ESC_PS 4575).  This course prepares students to apply principles of positive youth development to practice, including leading youth programs, developing organizational and community systems that support youth, and engaging others to create positive environments in which youth ages 5-19 grow, thrive, and make successful transitions to adulthood. Course topics include ages and stages of development, experiential learning, program planning, diversity and inclusion, youth/adult partnerships, volunteer systems, risk management, community partnerships, and creating environments for healthy relationships. Graded on A-F basis only.",
+            "prerequisites": "restricted to graduate students (Master's and PhD)",
+            "hours": "3",
+            "recommendation": "Prior course work in education, human development, family studies, sociology, social work, or other child and youth-related programs is highly preferred",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Child Development",
+            "number": "ESC_PS 8000",
+            "description": "Psychological development from birth to adolescence. Examines the influence of maturation and learning upon the acquisition of normal development tasks. Emphasizes the application of current research and theory with the school-age child.",
+            "prerequisites": "ESC_PS 4100 or ESC_PS 7100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 4100",
+                "ESC_PS 7100"
+            ]
+        },
+        {
+            "name": "Advanced Adolescent Development",
+            "number": "ESC_PS 8010",
+            "description": "Analysis of normal adolescent psychological development, including the cognitive, affective, academic, physiological, moral and social parameters. Applications with typical adolescent problems are emphasized.",
+            "prerequisites": "ESC_PS 4100 or ESC_PS 7100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 4100",
+                "ESC_PS 7100"
+            ]
+        },
+        {
+            "name": "Child and Adolescent Development",
+            "number": "ESC_PS 8015",
+            "description": "A comprehensive analysis of normal development across the lifespan with a primary focus on children and adolescents. Will investigate the cognitive, affective, academic, physical, moral and social/cultural/racial domains.  Examples of atypical development will be discussed. Graded on A-F basis only.",
+            "prerequisites": "ESC_PS 4100 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 4100"
+            ]
+        },
+        {
+            "name": "Overview of Research Methods",
+            "number": "ESC_PS 8020",
+            "description": "Survey of research design and methods of data collection for masters, educational specialists, and doctoral students.",
+            "prerequisites": "ESC_PS 7170 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7170"
+            ]
+        },
+        {
+            "name": "Role and Function of the School Psychologist",
+            "number": "ESC_PS 8030",
+            "description": "Introduction to major helping relationship approached in School Psychology, applied to various professional settings. History, current issues, trends, professional organizations, legal/ethical standards, discussed.",
+            "prerequisites": "enrollment in Educational School, and Counseling Psychology Program",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Counseling Methods and Practices",
+            "number": "ESC_PS 8040",
+            "description": "Introduction to counseling microskills and techniques, with attention to case conceptualization, therapeutic alliance, and counseling process.  Laboratory experience in demonstrating skills and the ability to form an effective counseling relationship is required.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Marriage and Family Counseling",
+            "number": "ESC_PS 8050",
+            "description": "Appropriate for students who work with couples and families in a professional setting. Examines major family and marriage theories and research, counseling, skill development communication, and marital/family enrichment.",
+            "prerequisites": "ESC_PS 8040",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040"
+            ]
+        },
+        {
+            "name": "Lifespan Development",
+            "number": "ESC_PS 8060",
+            "description": "A comprehensive analysis of normal development across the lifespan with a primary focus on children and adolescents. Will investigate the cognitive, affective, academic, physical, moral, social/cultural/racial, religious/spiritual and sexual domains. Examples of atypical development will be discussed.",
+            "prerequisites": "ESC_PS 4100 or equivalent. Consent of instructor required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 4100"
+            ]
+        },
+        {
+            "name": "Ethical and Legal Issues in Psychological Practice",
+            "number": "ESC_PS 8070",
+            "description": "Legal and ethical concepts and issues relevant to the practice of psychology and student personnel services.",
+            "prerequisites": "ESC_PS 4120 or ESC_PS 7120 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 4120",
+                "ESC_PS 7120"
+            ]
+        },
+        {
+            "name": "Foundations of Educational and Psychological Measurement",
+            "number": "ESC_PS 8082",
+            "description": "Basic principles of educational and psychological measurement including test construction, validity, reliability, item analysis, and derived scores.",
+            "prerequisites": "ESC_PS 4170 or ESC_PS 7170 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 4170",
+                "ESC_PS 7170"
+            ]
+        },
+        {
+            "name": "Problems in Educational, School, and Counseling Psychology",
+            "number": "ESC_PS 8085",
+            "description": "",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Educational, School, and Counseling Psychology",
+            "number": "ESC_PS 8087",
+            "description": "Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Master's Thesis in Educational, School, and Counseling Psychology",
+            "number": "ESC_PS 8090",
+            "description": "Independent research leading to Master's Thesis.  Graded on S/U basis only.  ",
+            "prerequisites": " advisor's consent",
+            "hours": "3-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Educational, School, and Counseling Psychology",
+            "number": "ESC_PS 8095",
+            "description": "Supervised research that is independent of master's thesis or doctoral dissertation. Graded on S/U basis only.",
+            "prerequisites": "advisor's consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Psychological Assessment of Children and Adolescents: Cognitive Assessment",
+            "number": "ESC_PS 8100",
+            "description": "Basic principles in intelligence theory and intermediate measurement concepts.  Practice in administering, scoring, and interpretation of data from individually administered intelligence tests with school aged children and adolescents. Graded on A-F basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Methods in Group Counseling",
+            "number": "ESC_PS 8110",
+            "description": "Study of group counseling methods and techniques. Participation in a group is required.",
+            "prerequisites": "ESC_PS 8040, demonstrated knowledge of ethical principles and departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040"
+            ]
+        },
+        {
+            "name": "Psychological Assessment of Children and  Adolescents:Psychoeducational Assessment",
+            "number": "ESC_PS 8120",
+            "description": "Practice in administering, scoring, and interpretation of data from academic achievement, nonverbal intelligence, memory, adaptive behavior, and perceptual/motor assessments with school-age youth and adolescents.",
+            "prerequisites": "ESC_PS 8100 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8100"
+            ]
+        },
+        {
+            "name": "Professional Iss. in Sch. Psych. I:Hist., Trends & Ethical Pract.",
+            "number": "ESC_PS 8125",
+            "description": "For first-year doctoral students in school psychology. History, current issues, trends, professional organizations, legal-ethical standards of doctoral level school psychology are discussed. The scientist-practitioner model and scientific reasoning process as they apply to both science and practice are reviewed.",
+            "prerequisites": "Must be admitted to school psychology program",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Psychological Assessment of Adults",
+            "number": "ESC_PS 8130",
+            "description": "Students develop and practice skills in writing psychological reports with special emphasis on assessing psychological social-vocational functioning.",
+            "prerequisites": "ESC_PS 8100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8100"
+            ]
+        },
+        {
+            "name": "Foundations of Career Psychology",
+            "number": "ESC_PS 8135",
+            "description": "Theoretical orientations to counseling for career development; nature and structure of work, education, and leisure; work and family issues; career concerns of special populations; use of career information in counseling.",
+            "prerequisites": "PSYCH 1000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
+        },
+        {
+            "name": "Psychological Assessment in Childrent and Adolescents: Behavior and Social Emotional Assessment",
+            "number": "ESC_PS 8140",
+            "description": "This course introduces behavior theory, behavioral and social-emotional  assessment techniques (including observations, interviewing, rating scales, and projective techniques) and their link to relevant interventions, with a primary focus on school-age youth and adolescents.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Psychological Interventions with Children and Adolescents: Behavioral  Intervention",
+            "number": "ESC_PS 8145",
+            "description": "This course will emphasize behavioral theory, assessment, and intervention, including functional behavior assessment, positive behavior supports, and the conceptualization from an individual, systems, and public health perspective.  Graded on A-F basis only",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Psychological Interventions with Children and Adolescents: Educational Instruction",
+            "number": "ESC_PS 8160",
+            "description": "This course investigates models of school instruction in both general and special education, and how instruction can be adapted for learners who exhibit a range of academic and psychological problems and disabling conditions.",
+            "prerequisites": "ESC_PS 8100, ESC_PS 8120 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8100",
+                "ESC_PS 8120"
+            ]
+        },
+        {
+            "name": "Psychological Interventions with Children and Adolescents: Evidence-  Based Therapies",
+            "number": "ESC_PS 8165",
+            "description": "An introduction to evidence-based child and adolescent psychotherapies, including individual and group interventions.  Various aspects will be considered including assessment, diagnosis, and treatment planning.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Career Resources in Business and Industry",
+            "number": "ESC_PS 8170",
+            "description": "Personnel practices, occupational requirements, and career opportunities and resources in business and industry. Applications are emphasized through on-site visits and use of business-industry-labor personnel. Graded on S/U basis only.",
+            "prerequisites": "ESC_PS 8135 or instructor's consent",
+            "hours": "2-4",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8135"
+            ]
+        },
+        {
+            "name": "Theory and Practice in Career Psychology",
+            "number": "ESC_PS 8180",
+            "description": "Methods and programs for facilitating the career development of individuals over the life span. Organization and development of activities and programs for all ages emphasized.",
+            "prerequisites": "ESC_PS 8135",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8135"
+            ]
+        },
+        {
+            "name": "Health Promotion",
+            "number": "ESC_PS 8185",
+            "description": "An overview of the important concepts of health promotion. Emphasis on specific health-related problems and issues, health behavior change, and the design, development implementation, and evaluation of comprehensive health promotion programs.",
+            "prerequisites": "LTC 1310 or equivalent or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LTC 1310"
+            ]
+        },
+        {
+            "name": "Applied Positive Coaching",
+            "number": "ESC_PS 8195",
+            "description": "Explores concepts of sport, coaching and positive psychology, particularly the interventions and applications designed to further develop a coach's philosophy, communication skills, understanding of motivation, leadership skills, and the coach's and athlete's well-being. ",
+            "prerequisites": " ESC_PS 7195",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7195"
+            ]
+        },
+        {
+            "name": "Applied Positive Psychology",
+            "number": "ESC_PS 8200",
+            "description": "This course will require students to implement positive psychology concepts from the introductory course into their personal, professional, and/or social lives. We will also study specific ways in which these concepts and theories are being applied throughout various realms of well-being. Among the topics in this course are therapeutic lifestyles, goal-setting and attainment, self-care, meaning making, transformational leadership, influence and sustainable happiness theory. ",
+            "prerequisites": " ESC_PS 7200",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7200"
+            ]
+        },
+        {
+            "name": "Projective Assessment of Adults",
+            "number": "ESC_PS 8210",
+            "description": "Assessment of personality functioning using projective and inferential testing procedures. Rudimentary skills in using the Rorschach method.",
+            "prerequisites": "ESC_PS 8000 or ESC_PS 8100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8000",
+                "ESC_PS 8100"
+            ]
+        },
+        {
+            "name": "Vocational Assessment of Individuals with Disabilities",
+            "number": "ESC_PS 8220",
+            "description": "This course is an overview of the philosophy of vocational assessment of individuals with disabilities.  The course also emphasizes to positive integration of vocational assessment into the rehabilitation counseling process. Assessment practice included.",
+            "prerequisites": "ESC_PS 7180 and ESC_PS 8082",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7180",
+                "ESC_PS 8082"
+            ]
+        },
+        {
+            "name": "Foundations of Sport Performance",
+            "number": "ESC_PS 8232",
+            "description": "Focuses on principles and methods to become an effective sport performance coach. Examines the development of athletes and education of basic sports nutrition, strength, and conditioning.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sport in America",
+            "number": "ESC_PS 8240",
+            "description": "Sociological perspectives of sport in America. Attention given to the influence of society on sport as in institution, and the role of sport as an agent of social change.",
+            "prerequisites": "SOCIOL 1000 or PSYCH 1000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000",
+                "SOCIOL 1000"
+            ]
+        },
+        {
+            "name": "School Psychology Practicum: Introduction to School Services",
+            "number": "ESC_PS 8250",
+            "description": "This course is an intro practicum that exposes students to the organization and functions of schools. Students work with psychologists and other school personnel on academic and behavioral interventions to learn how schools serve children and their families.  May be repeated for credit.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Legal Aspects of Sport and Coaching",
+            "number": "ESC_PS 8255",
+            "description": "Emphasis is to provide insight about how the law is applied is sport settings, the types of litigation involved, and the standard of care required. Fundamental terminology and concepts, and contemporary issues in sport law will be addressed.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "School Psychology Practicum: School-Based",
+            "number": "ESC_PS 8260",
+            "description": "Level II School Psychology Practicum provides students with experience in school-based psychological service delivery. Students gain experience with psychoeducational assessment and diagnosis, intervention planning and delivery, consultation, and serving on multidisciplinary teams.   May be repeated for credit.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Administration of Athletic Programs",
+            "number": "ESC_PS 8265",
+            "description": "Examines methods, principles, and roles of athletic administrators. Also, examines the job responsibilities and competencies required of sport leaders in athletic administration.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Student-Athlete Wellbeing",
+            "number": "ESC_PS 8270",
+            "description": "As a positive coach and career educator, your knowledge of student wellbeing is critical to support your students' physical, mental, and social health alongside their academic success and development beyond sport. Although our semester will focus largely on the most critical components of student welfare, we will also frame our study of student wellbeing using the tenets of Positive Psychology, a discipline that champions a strengths-based approach to guide positive behaviors associated with health and wellbeing. Health promotion theory will also guide our course of study as we examine: (a) individual student-athlete wellbeing with a focus on physical, mental, and social health (b) wellbeing in the context of student services provided by the school or organization, and (c) program evaluation methodology to identify strengths and opportunities for program improvement to enhance wellbeing and welfare for all student-athletes. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "ESC_PS 7200 Positive Psychology",
+            "connections": [
+                "ESC_PS 7200"
+            ]
+        },
+        {
+            "name": "Gender Issues in Sport",
+            "number": "ESC_PS 8280",
+            "description": "Through a study of theory and applied practice, students will explore personal biases, understand intersecting identities and explore privilege and oppression at the individual, interpersonal, structural, and cultural level when considering gender awareness in sport.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Multicultural Issues in Sport",
+            "number": "ESC_PS 8290",
+            "description": "The purpose of this course is to increase the level of multicultural awareness, knowledge, skills, and relationship of athletic coaches working with diverse student populations. Activities and assignments are designed to assist, encourage, and challenge each student to more fully develop awareness and knowledge of self, and to use this information to improve intercultural interactions with others in professional settings as well as other settings.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Positive Leadership in Sport",
+            "number": "ESC_PS 8300",
+            "description": "A Positive Leadership philosophy requires Positive Leadership delivery. Course is designed to prepare leaders to bridge content knowledge to practical application. Students will use core competencies learned throughout their program to develop their leadership approach.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Colloquium in Educational Psychology",
+            "number": "ESC_PS 8310",
+            "description": "A course that covers current topics in learning, development, and schooling. Topics include cognitive, affective, academic, physical, moral ethnic/cultural domains. May be repeated for credit.",
+            "prerequisites": "Instructor's consent required",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Human Learning",
+            "number": "ESC_PS 8320",
+            "description": "A study of behavioral and cognitive theories of learning with an emphasis on those greatest utility for educators. Experimental evidence forming the theoretical base for educational practice is examined.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "ESC_PS 2400 or ESC_PS 7100",
+            "connections": [
+                "ESC_PS 2400",
+                "ESC_PS 7100"
+            ]
+        },
+        {
+            "name": "Motivating At-Risk and Diverse Students",
+            "number": "ESC_PS 8330",
+            "description": "This course examines motivational concepts that apply to students of all ages. The course is designed to help teachers design classrooms and assignments that would improve the motivation of students, especially at-risk students. The course pays special attention to issues of diversity relevant to motivation. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cultural Backgrounds and Learning",
+            "number": "ESC_PS 8340",
+            "description": "The course explores the influence of culture on the process of learning. Topics and discussions will center on learning within the K-12 classroom. Readings and assignments are tailored to engage students in practical classroom applications of the information and discussions within the course. At the conclusion of the course students will have a deep understanding of how culture shapes thinking, learning, behavior, and the classroom environment. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cognition, Learning and Instruction",
+            "number": "ESC_PS 8350",
+            "description": "Examines the topics of memory and cognition as they apply to the process of learning and instruction.",
+            "prerequisites": "ESC_PS 8320 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8320"
+            ]
+        },
+        {
+            "name": "Cognition and Emotion",
+            "number": "ESC_PS 8355",
+            "description": "This course looks at human cognition and emotions and their influence on learning, self-control, motivation, executive processes, and behavior change. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Counseling Theories and Interventions",
+            "number": "ESC_PS 8360",
+            "description": "Contemporary theories and interventions of counseling.  Advanced study of efficacious techniques. Graded on A-F basis only.",
+            "prerequisites": "ESC_PS 8040 or ESC_PS 8342",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040",
+                "ESC_PS 8342"
+            ]
+        },
+        {
+            "name": "Data-Driven Instructional Decisions",
+            "number": "ESC_PS 8380",
+            "description": "This course explores the uses of assessments and evaluation techniques for practical applications within the classroom. Focus is on use of data gathering techniques to increase student academic performance and inform classroom instruction. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Analysis of Research in Career Psychology",
+            "number": "ESC_PS 8400",
+            "description": "Examination of career development theories, the research supporting the theories, and the practical application of these ideas in career counseling and career programs.",
+            "prerequisites": "ESC_PS 8135",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8135"
+            ]
+        },
+        {
+            "name": "School Guidance Programs",
+            "number": "ESC_PS 8410",
+            "description": "Provides knowledge and skills in the development and management of school guidance programs including program planning, structuring, implementing, and evaluating.",
+            "prerequisites": "ESC_PS 7120",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7120"
+            ]
+        },
+        {
+            "name": "Program Evaluation for School Counselors",
+            "number": "ESC_PS 8415",
+            "description": "Program Evaluation is a graduate seminar intended to provide students with the skills needed to evaluate comprehensive guidance and counseling programs.  Graded on A-F basis only.",
+            "prerequisites": "ESC_PS 7120",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7120"
+            ]
+        },
+        {
+            "name": "Effects of Maltreatment on Child and Adolescent Development",
+            "number": "ESC_PS 8425",
+            "description": "Course topics to be covered include 1) definitions of child maltreatment, 2) incidence and prevalence rates, 3) possible causes and consequences associated with child maltreatment, 4) treatment of survivors and perpetrators, and 5) prevention efforts. Important legal and ethical issues will be discussed, such as children's competence and eyewitness abilities, false allegations of abuse, mandated reporting, and investigative interviewing of children. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Mental, Emotional, and Behavioral Disorders in Youth",
+            "number": "ESC_PS 8430",
+            "description": "The course will include on overview of normal development and an investigation into specific deviations in intensity, frequency, and/or duration of normal development which impact the individual in his or her home, school, and community.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Wellness Management for School Personnel",
+            "number": "ESC_PS 8435",
+            "description": "The current climate in schools places considerable demands on teachers and other school personnel. Often, those working in schools find themselves under enormous stress and pressure. In this course, school personnel will examine a variety of topics related to both identifying and effectively dealing with these pressures. Topics include communication skills, dealing with challenging individuals in the school system, recognizing and effectively managing stress, and recognizing burnout and re-energizing. The course will provide an overview of the research on these topics, as well as numerous effective strategies to deal with these pressures. Students in the course will have opportunities to apply learned strategies to real-life situations in the schools. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "School Mental Health: Policy, Law and Ethics",
+            "number": "ESC_PS 8440",
+            "description": "This course is designed to familiarize school-based professionals with policies, laws and ethics associated with children and youth and schools.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Building Resiliency and Optimism in Youth",
+            "number": "ESC_PS 8445",
+            "description": "Examines risk and resiliency processes during childhood and adolescence. Focuses on defining resilience; sources of risks and protective factors within families, schools, and communities; prevention programs targeting early, middle childhood and adolescence. Promotion of one's own resilience and well-being discussed. Special topics include strengths-based models of resiliency, resilience and family difficulties, violence and maltreatment, poverty, dropout, and school/community-based prevention and intervention.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Diversity Issues in School Mental Health",
+            "number": "ESC_PS 8450",
+            "description": "The purpose of this course is to increase the level of multicultural awareness, knowledge, skills, and relationship of school personnel working with diverse student populations.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Bully and Youth Violence: Prevention and Reduction",
+            "number": "ESC_PS 8455",
+            "description": "This course is a survey of current issues in bullying and youth violence with an emphasis on applications in the school environment. The course will present effective strategies for bullying and violence prevention within the school and in collaboration with the community at large. Students are encouraged to apply the course concepts to their work environment and develop tools for future practice in schools and other youth-serving settings. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Communication and Collaboration with Children and Families",
+            "number": "ESC_PS 8460",
+            "description": "This course will provide education professionals with the knowledge and basic skills to address common mental health issues through positive and solution focused communication and collaboration.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Vital Issues in School Mental Health",
+            "number": "ESC_PS 8465",
+            "description": "The course is highly individualized in that students, as a group, will choose the specific topics to be covered. Readings and assignments have three foci: 1) improve understanding of each issue within a broader context of public mental health policy, prevention, intervention, and maintenance; 2) deepen student knowledge of the topic from practice and research-based sources; and 3) enable students to deal more effectively with those issues within relevant settings. Topics may include, but are not limited to: school dropout, substance use, self-injury/cutting, relational aggression, management of extreme behaviors, homelessness, divorce/death, eating disorders, pregnancy, ADHD, and many others. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Preventions and Interventions in School Mental Health",
+            "number": "ESC_PS 8470",
+            "description": "This course explores the role that educators and school mental health professionals play in promoting, prevention and early intervention practices for mental, emotional, and behavioral disorders in youth and considers the basic steps for designing, implementing and evaluating evidence based interventions.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Proactive Behavior Management",
+            "number": "ESC_PS 8475",
+            "description": "This course provides a framework to a prevention-focused model of classroom support and behavior management. Prevention is less time-consuming in the long run and leads to more opportunities for learning and social engagement because discipline problems are not interfering with teaching. This course will include evidence based strategies to structure proactive learning environments that promote students' academic skills and competencies as well as their social and emotional development. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Mental Health in Schools Capstone Paper",
+            "number": "ESC_PS 8490",
+            "description": "Course focuses on writing a capstone integration paper that is intended to be a culminating experience. Allows students to reflect on the content of their course work, evaluate the knowledge and skills acquired, and apply what they have learned into their professional practice. ",
+            "prerequisites": " instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Rehabilitation Counseling",
+            "number": "ESC_PS 8500",
+            "description": "A study of the history and current status of rehabilitation counseling, and the role, theory, and practice of counseling in rehabilitation settings with persons with disabilities.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Medical and Psychological Aspects of Disability",
+            "number": "ESC_PS 8510",
+            "description": "Presentation of medical aspects of major disabilities and their effects upon social, vocational, personal, and economic adjustment. Study of basic restoration and accommodating services.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sport Psychology",
+            "number": "ESC_PS 8515",
+            "description": "Current topics of research in sport psychology are examined. Topics include: sport personality, attention, activation and anxiety intervention, motivation, sport aggression, audience effects, team cohesion, leadership, and health psychology.",
+            "prerequisites": "PSYCH 1000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PSYCH 1000"
+            ]
+        },
+        {
+            "name": "Job Acquisition for Individuals with Disabilities",
+            "number": "ESC_PS 8520",
+            "description": "Techniques of job development, placement, job analyses of the individual's skill and abilities and the employer's needs, and how to build professional relationships with employers.",
+            "prerequisites": "ESC_PS 7180",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7180"
+            ]
+        },
+        {
+            "name": "Developmental Psychopathology and Exceptionality",
+            "number": "ESC_PS 8530",
+            "description": "An investigation into the presentation, diagnosis, and treatment of psychopathologies in individuals, emphasizing causal pathways, risks/resiliency, prevalence, incidence, and continuity/discontinuity of the disorders from research in the field of developmental psychopathology.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Theory and Practice in Feminist Therapy",
+            "number": "ESC_PS 8540",
+            "description": "Theory, research, practice standards and current debates within feminist therapy. Includes both examination of topical areas in a seminar format and live observation of feminist therapy.",
+            "prerequisites": "ESC_PS 8940 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8940"
+            ]
+        },
+        {
+            "name": "Diversity and Multiculturalism II - Practical Application",
+            "number": "ESC_PS 8550",
+            "description": "This course is part two in the Multicultural Education Certificate series of online courses designed for students working in a broad range of professions, such as health care, social work, education, school counseling, administration, etc. Students will examine various topics on diversity and multiculturalism to enhance their personal and professional development. To this end, the milieu of this course will be a safe online environment that is conducive to open dialogue, self-reflection, critical thinking, and questioning, and one in which students can actively engage in the learning process through affective and cognitive approaches. Postings, along with relevant readings and assignments, will be used as the primary tools and resources for this collective learning experience. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "ESC_PS 8450",
+            "connections": [
+                "ESC_PS 8450"
+            ]
+        },
+        {
+            "name": "African American Education - Historic and Current Issues",
+            "number": "ESC_PS 8555",
+            "description": "Critical examination of the deculturalization of American educational system. Concepts of race, culture, and \"post racial society\" are juxtaposed with social and systemic trends impacting African American students both in and out of the classroom. Pedagogical strategies are discussed. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "ESC_PS 8450",
+            "connections": [
+                "ESC_PS 8450"
+            ]
+        },
+        {
+            "name": "Immigrant Issues in Education",
+            "number": "ESC_PS 8560",
+            "description": "The purpose of this course is to increase the level of cross-cultural awareness, knowledge, and skills of school personnel working with students who are immigrants. It is designed to be practically and experientially oriented. Activities and assignments in the class are designed to assist, encourage, and challenge each student to more fully develop awareness and knowledge of self, and to use this information to improve intercultural interactions with others in professional settings as well as other settings. The anticipated outcome includes improved skills in conceptualizing the unique needs of and responding with appropriate approaches to effectively assist students who are immigrants. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "ESC_PS 8450",
+            "connections": [
+                "ESC_PS 8450"
+            ]
+        },
+        {
+            "name": "Gay, Lesbian and Bisexual Issues in the Schools",
+            "number": "ESC_PS 8565",
+            "description": "This online course seeks to expand your perspective, worldview, and knowledge of GLB individuals and in your work environments as well as an invitation to promote social justice to make positive changes for the benefit of GLB individuals. Individuals who identify as GLB face many unique experiences, challenges, and opportunities during their developmental life span including issues related to coming out, psychological well-being and mental health development, heterosexism and homophobia, stereotypes and myths, and sexual identity. These issues and more are discussed in the course. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "ESC_PS 8450",
+            "connections": [
+                "ESC_PS 8450"
+            ]
+        },
+        {
+            "name": "Social and Cultural Identity Development",
+            "number": "ESC_PS 8580",
+            "description": "Graduate-level course designed to introduce students to: (a) the dominant social and cultural identity theories and paradigms; (b) how these theories have been operationalized and measured.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Gender Issues in Counseling and Education",
+            "number": "ESC_PS 8585",
+            "description": "Topics include conceptions of gender roles, measurement of gender-related constructs, gender role socialization process, high incidence gender-related problems, and psychoeducational and counseling interventions.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Multicultural Counseling Competencies: Theory and Research",
+            "number": "ESC_PS 8590",
+            "description": "This course will introduce students to the current status of multicultural counseling theories and research issues and help students to increase their knowledge of cultural differences n counseling and psychology.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Interviewing, Diagnosis, and Assessment",
+            "number": "ESC_PS 8640",
+            "description": "Introduction to clinical, psychometric assessment, and diagnosis.  Data-gathering methods include interviews and tests/inventories of intellectual functioning, abilities, personality, and interests.  Students utilize psychological reports to inform assessment, diagnosis and treatment.",
+            "prerequisites": "None Listed",
+            "hours": "3Prerequisites or Corequisites: ESC_PS 8082",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Item Response Theory",
+            "number": "ESC_PS 8655",
+            "description": "Introduces modern scaling with Item Response Theory, and includes how it can be used to statistically specify information about latent variables and the stimuli (e.g., tests) used to represent them.",
+            "prerequisites": "ESC_PS 9640 and ESC_PS 9650",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 9640",
+                "ESC_PS 9650"
+            ]
+        },
+        {
+            "name": "Educational Planning and Evaluation",
+            "number": "ESC_PS 8690",
+            "description": "This course addresses major issues and models used in educational program planning and evaluation, including the appropriate use of various evaluation models and different types of data.",
+            "prerequisites": "departmental inquiry course, ESC_PS 8830 and/or ESC_PS 8957",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8830",
+                "ESC_PS 8957"
+            ]
+        },
+        {
+            "name": "Life/Career Coaching and Development",
+            "number": "ESC_PS 8700",
+            "description": "Designed to teach life and career coaching strategies with roots in career psychology and positive psychology.  It provides the tools and knowledge on how to coach people to achieve their personal and professional goals.",
+            "prerequisites": "ESC_PS 7200",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7200"
+            ]
+        },
+        {
+            "name": "Meaning In Work",
+            "number": "ESC_PS 8710",
+            "description": "Covers a broad look at meaning and vocation using theoretical and empirical frameworks.  Also explores the influence of culture, environment, relationships and personal values on meaning development while providing a framework for working from a coaching/counseling standpoint to help others identify or develop meaningful vocations.  Graded on A-F basis only.",
+            "prerequisites": "ESC_PS 7200",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7200"
+            ]
+        },
+        {
+            "name": "Community and Stewardship",
+            "number": "ESC_PS 8720",
+            "description": "Examines the concepts of community and stewardship, explores the literal roots of the word (common-unity) and our ability to respond (responsibility) to and build our communities.  Also explores the connections between altruism, personal well-being, and social stewardship.",
+            "prerequisites": "ESC_PS 7200",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7200"
+            ]
+        },
+        {
+            "name": "Positive Organizational Psychology",
+            "number": "ESC_PS 8730",
+            "description": "Surveys the impact of positive organizational psychology research throughout professional organizations.  Students will learn empirically defined elements of positive work environments and learn the building blocks associated with this field including: Appreciative Inquiry, the Abundance Approach, Strengths-Based Organizations, Positive Work Environments, and Employee Engagement and Satisfaction.",
+            "prerequisites": "ESC_PS 7200",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7200"
+            ]
+        },
+        {
+            "name": "Quantitative Analysis in Educational Research I",
+            "number": "ESC_PS 8830",
+            "description": "This is the first course in the sequence of statistical analysis methods.  Topics covered in this course include statistical inference, simple regression, multiple regression, regression assumptions, regression with categorical predictors, model selection methods polynomial regression, and model validation.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Quantitative Analysis in Educational Research II",
+            "number": "ESC_PS 8840",
+            "description": "This is the second course in the sequence of statistical analysis methods.  Topics extend those covered in Quantitative Analysis I and include hypothesis testing, ANOVA, ANCOVA, repeated measures design, random-effects ANOVA, introduction to logistic regression, polytomous and ordinal regression and linear mixed models (if time permits).",
+            "prerequisites": "ESC_PS 7170 and ESC_PS 8830",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7170",
+                "ESC_PS 8830"
+            ]
+        },
+        {
+            "name": "Quantitative Foundations in Educational Research",
+            "number": "ESC_PS 8850",
+            "description": "This course is designed to provide students the fundamental and necessary quantitative methods skills in educational research. Topics include one-way and factorial analysis of variance (ANOVA), analysis of covariance (ANCOVA), repeated measures ANOVA, random-effects ANOVA, simple linear regression, multiple regression, regression diagnostics, introduction to logistic regression, and statistical power analysis. Graded on A-F basis only.",
+            "prerequisites": "ESC_PS 7170",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7170"
+            ]
+        },
+        {
+            "name": "Public Health Psychology",
+            "number": "ESC_PS 8870",
+            "description": "Study of applications of psychology to behavior, environment, and policy to promote health and prevent disease. The course gives particular attention to behavioral epidemiology and risk/resiliency factors associated with negative outcomes of childhood and adolescents.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Education, School and Counseling Psychology",
+            "number": "ESC_PS 8900",
+            "description": "Topics placeholder for upper division courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Counseling Psychology Practicum",
+            "number": "ESC_PS 8940",
+            "description": "Supervised practice of counseling in an approved counseling setting. May be repeated. Graded on S/U basis only.",
+            "prerequisites": "ESC_PS 8040, ESC_PS 8135, and ESC_PS 8640 and consent of counseling area faculty",
+            "hours": "3-9",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040",
+                "ESC_PS 8135",
+                "ESC_PS 8640"
+            ]
+        },
+        {
+            "name": "Practicum and Theory in Group Counseling I",
+            "number": "ESC_PS 8941",
+            "description": "Supervised practice of group facilitation in an approved setting. Formal study of contemporary theories and advanced techniques is integrated with the practice of group facilitation. Graded on S/U basis only.",
+            "prerequisites": "ESC_PS 8110 and instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8110"
+            ]
+        },
+        {
+            "name": "Practicum and Theory in Group Counseling II",
+            "number": "ESC_PS 8942",
+            "description": "A continuation of Educational School, and Counseling Psychology 8200. Graded on S/U basis only.",
+            "prerequisites": "ESC_PS 8200 and instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8200"
+            ]
+        },
+        {
+            "name": "Practicum in Multicultural Counseling Interventions",
+            "number": "ESC_PS 8943",
+            "description": "Supervised practice of applied multicultural counseling interventions in a wide variety of approved community and university settings. Graded on S/U basis only.",
+            "prerequisites": "ESC_PS 8040 and either ESC_PS 8570 or ESC_PS 8590",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040",
+                "ESC_PS 8570",
+                "ESC_PS 8590"
+            ]
+        },
+        {
+            "name": "School Psychology Practicum",
+            "number": "ESC_PS 8944",
+            "description": "Supervised practice of psychological assessment, intervention and remediation strategies. May be repeated. Graded on A-F basis only.",
+            "prerequisites": "departmental consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Practicum in Marriage and Family Counseling",
+            "number": "ESC_PS 8945",
+            "description": "Supervised practice in marriage and family counseling conducted in appropriate laboratories and agencies. Graded on S/U basis only.",
+            "prerequisites": "ESC_PS 8040, ESC_PS 8342, ESC_PS 8160 or ESC_PS 8050 and departmental consent",
+            "hours": "3-6",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040",
+                "ESC_PS 8342",
+                "ESC_PS 8160",
+                "ESC_PS 8050"
+            ]
+        },
+        {
+            "name": "Rehabilitation Counseling Internship",
+            "number": "ESC_PS 8946",
+            "description": "Field-based counseling internship in a community setting serving individuals with disabilities. 600 hour supervised experience designed to combine theoretical and applied program training aspects. Graded on S/U basis only.",
+            "prerequisites": "ESC_PS 8040, ESC_PS 8520, and ESC_PS 8220",
+            "hours": "3-9",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040",
+                "ESC_PS 8520",
+                "ESC_PS 8220"
+            ]
+        },
+        {
+            "name": "Practicum in Student Development Programs",
+            "number": "ESC_PS 8947",
+            "description": "Supervised practice in student personnel services in an approved agency. Graded on S/U basis only.",
+            "prerequisites": "ESC_PS 8080",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8080"
+            ]
+        },
+        {
+            "name": "Field Placement in Counseling/Supervision",
+            "number": "ESC_PS 8948",
+            "description": "Students will conduct counseling and/or supervision in approved community agencies under the supervision of licensed practitioners. Graded on S/U basis only.",
+            "prerequisites": "completion of 9 credit hours of ESC_PS 8040, and consent of the Counseling Area Faculty",
+            "hours": "1-12",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040"
+            ]
+        },
+        {
+            "name": "Prevention Science Practicum: School and Family Centered Interventions",
+            "number": "ESC_PS 8950",
+            "description": "Prevention Science Practicum is an advanced graduate level practicum intended to provide students with the theoretical and practice skills needed to provide effective prevention services to children and families across multiple contexts. An emphasis is placed on school and family centered supports that prevent emotional and behavior problems in children. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent required",
+            "hours": "3-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Qualitative Methods in Educational Research I",
+            "number": "ESC_PS 8957",
+            "description": "(same as LTC 8957 and ED_LPA 8957). This course provides a practical introduction to qualitative research and its applications in education and social sciences.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Interdisciplinary Child and Family Practicum",
+            "number": "ESC_PS 8960",
+            "description": "This class includes a focus on child/family services with a systems/interdisciplinary approach. Students provide services via a mentorship model (strong supervision initially moving toward autonomy). Services include evaluations, therapy, consultation, psychiatric cross-training, and others. Graded on S/U basis only.",
+            "prerequisites": "ESC_PS 8040 and instructor's consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040"
+            ]
+        },
+        {
+            "name": "Field Experience in Counseling",
+            "number": "ESC_PS 8980",
+            "description": "Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "3-9",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Career Development Theory for Women",
+            "number": "ESC_PS 8990",
+            "description": "Consideration of the relevance of theories of career development for women, and their application to the counseling of women. Supervised clinical experience in the application of theories to counseling high school age women.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Multicultural Issues in Counseling",
+            "number": "ESC_PS 9000",
+            "description": "This course covers the research and theories of counseling racial/ethnic minorities and gays, lesbians, and bisexuals in the U.S. Examination of personal values and education about the interrelationship between race, class, gender, and sexuality are accomplished via structured activities.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "ESC_PS 8340",
+            "connections": [
+                "ESC_PS 8340"
+            ]
+        },
+        {
+            "name": "Building Cross-Cultural Competencies: Taiwan Up Close",
+            "number": "ESC_PS 9010",
+            "description": "The primary purpose of the course is to promote the development of cross-cultural knowledge, awareness, and skills for applied psychologists.  The first part of the course occurs at MU in preparation for part two, a 10-day professional cultural immersion in Taiwan.",
+            "prerequisites": "ESC_PS 9000 preferred; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 9000"
+            ]
+        },
+        {
+            "name": "Psychology of Crossing Cultural Borders",
+            "number": "ESC_PS 9020",
+            "description": "The primary purpose of the course is to promote the development of cross-cultural knowledge, awareness, and skills for applied psychologists. Students acquire knowledge of psychological processes associated with crossing cultural borders, and translate that knowledge into practical applications. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cross-Cultural Issues in Counseling: International Focus",
+            "number": "ESC_PS 9040",
+            "description": "This course focuses on developing students' awareness, knowledge, and skills in cross-national counseling and research in equipping the next generation of counseling psychologists' competencies related to the globalization trend of counseling psychology. Graded on A-F basis only.",
+            "prerequisites": "ESC_PS 9000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 9000"
+            ]
+        },
+        {
+            "name": "Biofeedback in Psychological Practice",
+            "number": "ESC_PS 9050",
+            "description": "Use of biofeedback in achieving voluntary self-regulation and control of stress related behaviors.",
+            "prerequisites": "ESC_PS 8040 or ESC_PS 8342 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040",
+                "ESC_PS 8342"
+            ]
+        },
+        {
+            "name": "Advisor's Seminar",
+            "number": "ESC_PS 9087",
+            "description": "",
+            "prerequisites": "departmental consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Doctoral Dissertation Educational School & Counseling Psychology",
+            "number": "ESC_PS 9090",
+            "description": "Independent research leading to dissertation. Graded on S/U basis only.",
+            "prerequisites": "departmental consent",
+            "hours": "1-12",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internship in Counseling Psychology",
+            "number": "ESC_PS 9091",
+            "description": "Supervised experience in counseling psychology on half- or full-time basis in approved internship station. May be repeated. Graded on S/U basis only.",
+            "prerequisites": "departmental consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Internship in School Psychology",
+            "number": "ESC_PS 9092",
+            "description": "Supervised practice in school psychology in an educational setting. May be repeated. Graded on S/U basis only.",
+            "prerequisites": "departmental consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Doctoral Internship in School Psychology",
+            "number": "ESC_PS 9093",
+            "description": "Supervised practice in doctoral-level school psychology in an institutional or applied setting. May be repeated.  Graded on S/U basis only.",
+            "prerequisites": "departmental consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Psychological Measurement and Assessment",
+            "number": "ESC_PS 9100",
+            "description": "Introduction to the scientific and psychometric foundations of clinical assessment, including measurement theory, reliability, validity, and scale/test construction. Primary focus on the development and validation of evidence-based, psychometrically-sound assessment tools. Graded on A-F basis only.",
+            "prerequisites": "Instructor consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Professional Iss. in Sch. Psych. II: Rsrch. Design & Application",
+            "number": "ESC_PS 9125",
+            "description": "For first-year doctoral students in school psychology. Includes study of research design and methodological issues in the field of school psychology.",
+            "prerequisites": "Must be admitted to school psychology doctoral program",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Prevention Science Research Design and Analysis",
+            "number": "ESC_PS 9126",
+            "description": "Prevention Science Research is a graduate seminar intended to provide students with the theoretical and empirical foundations of prevention science. In particular, students will learn how to conceptualize problems from a prevention science perspective and design and evaluate preventive interventions using advanced methodologies. Opportunities for community based participatory research including research design and analysis, papers and briefs, grantwriting, and community collaborations regarding prevention programming particularly pertaining to children's mental health.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "School Psychology Practicum: Community-Based",
+            "number": "ESC_PS 9250",
+            "description": "This course is an advanced practicum for students providing school psychology services in non-school settings. Students develop higher-level skills in the areas of case coordination, diagnostic decision-making, intervention, and systems change.  May be repeated for credit.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Policy Practicum in Professional Psychology",
+            "number": "ESC_PS 9260",
+            "description": "Policy Practicum is an advanced practicum focused on macro level skills for shaping policy and systems-level intervention.  Students work within agencies that establish policy for special education, mental health, and other education/psychology-related issues.  May be repeated for credit.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Psychoanalytic Counseling",
+            "number": "ESC_PS 9300",
+            "description": "A study of the contribution of classical and contemporary psychoanalysis to counseling theory, research and practice. Examination of theoretical and clinical material in a seminar format.",
+            "prerequisites": "ESC_PS 8040, ESC_PS 8342 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8040",
+                "ESC_PS 8342"
+            ]
+        },
+        {
+            "name": "Theories and Practices in Supervision",
+            "number": "ESC_PS 9400",
+            "description": "Instruction and practice in the supervision of psychological services conducted in appropriate laboratories and agencies. Sections titled Counseling Psychology are graded on S/U basis only. Sections titled School Psychology are on A-F basis only.",
+            "prerequisites": "ESC_PS 8940 or ESC_PS 8944 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8940",
+                "ESC_PS 8944"
+            ]
+        },
+        {
+            "name": "College Student Development",
+            "number": "ESC_PS 9445",
+            "description": "Emphasis on college student development theory and its application in student affairs work.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Student Affairs Administration",
+            "number": "ESC_PS 9446",
+            "description": "History, philosophy, theory, and issues pertinent to student affairs work.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Motivation",
+            "number": "ESC_PS 9450",
+            "description": "Investigates human motivation applied to performance in schools, athletics, and personal life.  Topics include goals, attributions, self-efficacy, interest, cultural differences, and rewards. Graded on A-F basis only.",
+            "prerequisites": "ESC_PS 8320 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8320"
+            ]
+        },
+        {
+            "name": "Health Behavior Change Research",
+            "number": "ESC_PS 9460",
+            "description": "(Same as NURSE 9460). Doctoral seminar focusing on theories, measurement, and methods for conducting health behavior change research. ",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Scientific Fdns of Counseling Psych I: Prof Iss &",
+            "number": "ESC_PS 9530",
+            "description": "For first-year doctoral students in counseling psychology. This course focuses on the history of counseling psychology, in and scientific reasoning processes as they apply to both science and practice.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Scientific Foundations of Counseling Psych II: Rsrch, Dsgn & Appl",
+            "number": "ESC_PS 9540",
+            "description": "For first-year doctoral students in applied psychology. Includes study of research design and methodological issues in the field of counseling psychology.",
+            "prerequisites": "ESC_PS 9530",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 9530"
+            ]
+        },
+        {
+            "name": "Scientific Writing in Counseling Psychology",
+            "number": "ESC_PS 9550",
+            "description": "This course focuses on the technical skills needed for developing a scientific research proposal in counseling psychology.",
+            "prerequisites": "ESC_PS 9530 and ESC_PS 9540 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 9530",
+                "ESC_PS 9540"
+            ]
+        },
+        {
+            "name": "Psychological Consultation: Schools",
+            "number": "ESC_PS 9560",
+            "description": "The individual psychological consultation process between the mental health professional and school personnel. Techniques, models, research roles, and responsibilities are discussed. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Psychological Consultation: Organizations",
+            "number": "ESC_PS 9570",
+            "description": "This course provides an introduction to the theory and practical skills required to effectively consult at the organizational level in a variety of settings and contexts.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Applied Sport Psychology",
+            "number": "ESC_PS 9610",
+            "description": "Building upon the knowledge base of sport psychology, this course integrates and synthesizes student's understandings of the wide array of concepts and theories of the field into meaningful applications and strategies aimed at enhancing the sport experience of others. A case study approach will be employed.",
+            "prerequisites": "ESC_PS 8515",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8515"
+            ]
+        },
+        {
+            "name": "Qualitative Methods in Educational Research II",
+            "number": "ESC_PS 9620",
+            "description": "(same as ED_LPA 9620 and LTC 9620). This course constructs a conceptual and methodological bridge between the understandings of qualitative research developed in Qualitative Methods I and more advanced study of theories, designs, and methods.  The focus is on theory, approaches to data analysis, and interpretation.  Graded on A-F basis only.",
+            "prerequisites": "ESC_PS 8957",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8957"
+            ]
+        },
+        {
+            "name": "Introduction to Theory of Educational Measurement",
+            "number": "ESC_PS 9640",
+            "description": "Classical and modern test theory, including IRT, generalizability theory and test bias. Also covered are advanced strategies for investigating reliability and validity.",
+            "prerequisites": "ESC_PS 7170 and ESC_PS 8082",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7170",
+                "ESC_PS 8082"
+            ]
+        },
+        {
+            "name": "Application of Multivariate Analysis in Educational Research",
+            "number": "ESC_PS 9650",
+            "description": "The focus of this course will be on applications of multivariate analysis in educational research.",
+            "prerequisites": "ESC_PS 8830 and ESC_PS 8840 or equivalent and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 8830",
+                "ESC_PS 8840"
+            ]
+        },
+        {
+            "name": "Structural Equation Modeling",
+            "number": "ESC_PS 9710",
+            "description": "Simultaneous analysis of relationships among variables.  Topics included are path analysis, confirmatory factor analysis, hybrid models, and special types of structural models involving longitudinal data, multiple groups and analysis of means. May be repeated for credit.",
+            "prerequisites": "ESC_PS 7170, ESC_PS 8830, ESC_PS 8840, ESC_PS 9650",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7170",
+                "ESC_PS 8830",
+                "ESC_PS 8840",
+                "ESC_PS 9650"
+            ]
+        },
+        {
+            "name": "Hierarchical Linear Modeling",
+            "number": "ESC_PS 9720",
+            "description": "Hierarchical Linear Modeling (HLM), including multilevel and longitudinal approaches, in applied research settings for the social, educational psychological, and health-related sciences. May be repeated for credit.",
+            "prerequisites": "ESC_PS 7170, ESC_PS 8830,ESC_PS 8840,ESC_PS 9650; consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ESC_PS 7170",
+                "ESC_PS 8830",
+                "ESC_PS 8840",
+                "ESC_PS 9650"
+            ]
+        },
+        {
+            "name": "Topics in Educational Leadership and Policy Analysis",
+            "number": "ESC_PS 9900",
+            "description": "Topics placeholder for upper division courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

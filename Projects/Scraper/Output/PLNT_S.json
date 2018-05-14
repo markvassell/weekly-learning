@@ -1,0 +1,1273 @@
+{
+    "department_name": "Plant Science",
+    "department_code": "PLNT_S",
+    "courses": [
+        {
+            "name": "Topics In Plant Science - Biological/Physical/Mathematics",
+            "number": "PLNT_S 1002",
+            "description": "Initial offering of a course(s) in a specific subject matter area. Offered when proposed by a faculty member in that area of expertise.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Plant Science Orientation",
+            "number": "PLNT_S 1010",
+            "description": "Introduction to perspectives, comprehensiveness, and current issues in the plant sciences. Involves independent learning, faculty interviews, and oral and written communication about agronomy, horticulture, entomology, and plant pathology.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "World Food and You",
+            "number": "PLNT_S 1020",
+            "description": "(same as F_S 1020). Basic scientific principles involved in production agriculture, food processing, marketing and consumption. Evaluation and understanding of current agriculture issues that affect human foods and required nutrients.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Career Development",
+            "number": "PLNT_S 1120",
+            "description": "Introductory course for students planning a career in plant sciences. Includes an overview of each emphasis area, as well as development of professional skills required for a successful career. Graded on A-F basis only.",
+            "prerequisites": "Plant Science majors only",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "People, Plants and the Environment",
+            "number": "PLNT_S 1125",
+            "description": "Exploration of the science and niche relationships that exist between people, plants, animals, and the environment.  Emphasis placed on urban vs. rural culture, the impact on production agriculture and the world food supply.",
+            "prerequisites": "restricted to freshmen and sophomores",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Plant Science - Biological/Physical/Mathematics",
+            "number": "PLNT_S 2002",
+            "description": "Initial offering of a course(s) in a specific subject matter area. Offered when proposed by a faculty member in that area of expertise.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Environmental Horticulture",
+            "number": "PLNT_S 2075",
+            "description": "Investigate interrelationships between plants and the environment.  Special emphasis placed on improving homeowners' environmental stewardship and their knowledge of sustainable practices.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Soils",
+            "number": "PLNT_S 2100",
+            "description": "(same as SOIL 2100). Introduction to soil sciences with emphasis placed on physical, biological, and chemical properties and application to land use, plant growth and environmental problems.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "3 hrs of Chemistry",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Plants and their Cultivation",
+            "number": "PLNT_S 2110",
+            "description": "Principles of plant growth with emphasis on anatomy,  physiology, and response to environmental factors. Production and protection of economically important crop and horticulture species.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Plant Structure and Function",
+            "number": "PLNT_S 2125",
+            "description": "Introduction to plant anatomy;physiology; how plant structures and processes are involved in growth/development.  Labs explore photosynthesis, mineral nutrition, water relations, growth, and hormonal regulation.",
+            "prerequisites": "BIO_SC 1200 and CHEM 1100 or CHEM 1320",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1200",
+                "CHEM 1100",
+                "CHEM 1320"
+            ]
+        },
+        {
+            "name": "Plants for Interior Design",
+            "number": "PLNT_S 2150",
+            "description": "Identification, culture and uses of plants adaptable to or capable of becoming acclimated to interior environments.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Grapes and Wines of the World",
+            "number": "PLNT_S 2195",
+            "description": "(same as F_S 2195). Explores the world of wine through study of viticultural principles and practices, wine styles, classifying wine, the winemaking process and New World and Old World wine regions. Learn wine tasting skills and experience wines from around the world. World wine consumption, social and physical health benefits of moderate wine consumption.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Ornamental Woody Plants",
+            "number": "PLNT_S 2210",
+            "description": "Identification and evaluation of trees and shrubs for landscape use.",
+            "prerequisites": "BIO_SC 1200 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1200"
+            ]
+        },
+        {
+            "name": "Ornamental Herbaceous Plants",
+            "number": "PLNT_S 2215",
+            "description": "Annuals, biennials, perennials, ground covers, and bulbs; their identification, nomenclature classification, culture and use.",
+            "prerequisites": "BIO_SC 1010 or BIO_SC 1500 or BIO_SC 1200",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1010",
+                "BIO_SC 1500",
+                "BIO_SC 1200"
+            ]
+        },
+        {
+            "name": "Introduction to Floral Design",
+            "number": "PLNT_S 2220",
+            "description": "Introduction to the basics of floral design with special emphasis on design mechanics, flower processing, care and handling.  Graded on A-F basis only.",
+            "prerequisites": "Some sections of this course may be restricted to Plant Science Majors Only and/or students with 75 credit hours or less",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Everyday Floral Design",
+            "number": "PLNT_S 2221",
+            "description": "Intermediate floral design course expanding skills from introductory floral design with emphasis on the elements and principles of design.  Graded on A-F basis only.",
+            "prerequisites": "PLNT_S 2220",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2220"
+            ]
+        },
+        {
+            "name": "Landscape Graphic Communication",
+            "number": "PLNT_S 2240",
+            "description": "Landscape design is a blend of art and science. This course is designed to help students expand their artistic skills, including graphic communications. Topics included to achieve this goal are drawing mediums and techniques, coloring mediums and techniques, symbol usage, and elevation drawings. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "ART_DRAW 1050",
+            "connections": [
+                "ART_DRAW 1050"
+            ]
+        },
+        {
+            "name": "Landscape Site Analysis",
+            "number": "PLNT_S 2250",
+            "description": "In order to effectively design what a site can become a landscape designer must first be able to accurately see what it is. This course presents a detailed look at obtaining, calculating, and manipulating a site's topography and features while offering a glimpse into the methods and means required for implementation of the final landscape design. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "MATH 1100 or equivalent",
+            "connections": [
+                "MATH 1100"
+            ]
+        },
+        {
+            "name": "Landscape Design",
+            "number": "PLNT_S 2254",
+            "description": "An introduction into the processes, principles, and practices of landscape design, this course begins with site analysis and moves through the drawing and presentation of your landscape concepts.",
+            "prerequisites": "Completion of 30 hours",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Insects in the Environment",
+            "number": "PLNT_S 2710",
+            "description": "Ways in which insects are adapted for life in particular environments, basics of morphology, taxonomy; how important insect pests affect food and crop production, and principles of control.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Plant Science - Biological/Physical/Mathematics",
+            "number": "PLNT_S 3002",
+            "description": "Initial offering of a course(s) in a specific subject matter area. Offered when proposed by a faculty member in that area of expertise.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Horticultural Drainage and Irrigation Systems",
+            "number": "PLNT_S 3110",
+            "description": "This course is designed to provide practical knowledge of drainage and irrigation systems for golf courses, sports fields, lawns, landscapes, greenhouses, nurseries and vineyards. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Undergraduate Seminar in Plant Science",
+            "number": "PLNT_S 3130",
+            "description": "Discussion of assigned or selected topics in Plant Science, including participation in a panel debate and individual seminar oral presentations.",
+            "prerequisites": "Completion of 60 credit hours",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Principles of Weed Science",
+            "number": "PLNT_S 3210",
+            "description": "Introduction to principles of weed growth, reproduction, and impact on human activities. Discussion of weed control techniques and technology, weed identification, and developing weed management strategies.",
+            "prerequisites": "PLNT_S 2110 or BIO_SC 1200",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1200",
+                "PLNT_S 2110"
+            ]
+        },
+        {
+            "name": "Genetics of Agricultural Plants and Animals",
+            "number": "PLNT_S 3213",
+            "description": "(same as AN_SCI 3213). Concepts of molecular, transmission, and population and quantitative genetics. Emphasis given to breeding and biotechnological applications in plant and animal agriculture. ",
+            "prerequisites": " MATH 1100 and one of the following:  BIO_SC 1100 (or F_W 1100) or BIO_SC 1200 or BIO_SC 1500.",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1100",
+                "BIO_SC 1200",
+                "BIO_SC 1500",
+                "F_W 1100",
+                "MATH 1100"
+            ]
+        },
+        {
+            "name": "Special Occasion Floral Design",
+            "number": "PLNT_S 3220",
+            "description": "Advanced floral design course with emphasis in silk décor, sympathy design and public ceremony design.  Graded on A-F basis only.",
+            "prerequisites": "PLNT_S 2220 and PLNT_S 2221 with grade of B or above in both",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2220",
+                "PLNT_S 2221"
+            ]
+        },
+        {
+            "name": "Wedding Floral Design",
+            "number": "PLNT_S 3221",
+            "description": "Advanced floral design course with emphasis in wedding floral design and personal pieces design.  Graded on A-F basis only.",
+            "prerequisites": "PLNT_S 2220 and PLNT_S 2221 with grade of B or above in both",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2220",
+                "PLNT_S 2221"
+            ]
+        },
+        {
+            "name": "Retail Floral Management",
+            "number": "PLNT_S 3222",
+            "description": "Course focusing on all areas of retail floral management: business finance, marketing, products and services, employee management, and customer service.  Graded on A-F basis only.",
+            "prerequisites": "PLNT_S 2220 and  PLNT_S 2221",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2220",
+                "PLNT_S 2221"
+            ]
+        },
+        {
+            "name": "Plant Breeding and Genetics",
+            "number": "PLNT_S 3225",
+            "description": "Mendelian genetic principles and related genetic developments applicable in plant breeding. Discussion of established and new plant breeding procedures applicable to cultivar development.",
+            "prerequisites": "PLNT_S 2110 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2110"
+            ]
+        },
+        {
+            "name": "Plant Propagation",
+            "number": "PLNT_S 3230",
+            "description": "Principles and practices of propagation of horticultural plants. ",
+            "prerequisites": "  One of the following: PLNT_S 2075, BIO_SC 1200, or BIO_SC 1500 or Instructor's consent.",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1200",
+                "BIO_SC 1500",
+                "PLNT_S 2075"
+            ]
+        },
+        {
+            "name": "Plant Propagation - Writing Intensive",
+            "number": "PLNT_S 3230W",
+            "description": "Principles and practices of propagation of horticultural plants. ",
+            "prerequisites": "  One of the following: PLNT_S 2075, BIO_SC 1200, or BIO_SC 1500 or Instructor's consent.",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1200",
+                "BIO_SC 1500",
+                "PLNT_S 2075"
+            ]
+        },
+        {
+            "name": "Principles of Viticulture I",
+            "number": "PLNT_S 3240",
+            "description": "(same as F_S 3240). Grapevine growth, development, selection, propagation, training systems, pruning, and harvesting; vineyard site selection, design, and development. Graded on A-F basis only.",
+            "prerequisites": "F_S 1010 and F_S 2195 or PLNT_S 2195; or PLNT_S 2100; or PLNT_S 2110; or PLNT_S 2125",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "F_S 1010",
+                "F_S 2195",
+                "PLNT_S 2195",
+                "PLNT_S 2100",
+                "PLNT_S 2110",
+                "PLNT_S 2125"
+            ]
+        },
+        {
+            "name": "Green Industry Bidding",
+            "number": "PLNT_S 3250",
+            "description": "Principles of interpreting drawings, estimating labor, equipment, materials and other costs and recordkeeping for preparation of competitive green industry bids.  Graded on A-F basis only.",
+            "prerequisites": "Plant Science major and completion of 30 credit hours",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Arboriculture and Pruning",
+            "number": "PLNT_S 3252",
+            "description": "Concepts for establishment and management of urban trees.  Emphasis on planting, fertilization, pruning, disease, hazard assessment and components of a municipal trees ordinance.",
+            "prerequisites": "PLNT_S 2210 or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2210"
+            ]
+        },
+        {
+            "name": "Landscape AutoCAD",
+            "number": "PLNT_S 3254",
+            "description": "AutoCAD is the most widely utilized computer aided drafting software program in the professional landscape design industry. This course will teach students how to utilize AutoCAD to transform their landscape design skills into a digital format and investigate the benefits of utilizing technology as a design tool. We will also explore other industry utilized software, and their functionality, with focus on landscape design and presentation. Additional software will include, but not be limited to, AutoDesk Revit; Adobe Photoshop; and Sketchup. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "PLNT_S 2250 and PLNT_S 2254",
+            "connections": [
+                "PLNT_S 2250",
+                "PLNT_S 2254"
+            ]
+        },
+        {
+            "name": "Greenhouse Management",
+            "number": "PLNT_S 3260",
+            "description": "Greenhouse design, environmental control and equipment. Practices associated with plant nutrition management, greenhouse pest control, postproduction handling and marketing of greenhouse crops, and greenhouse management are also covered.",
+            "prerequisites": "PLNT_S 2075 or instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2075"
+            ]
+        },
+        {
+            "name": "Forage Crops",
+            "number": "PLNT_S 3270",
+            "description": "An introduction to principle forage crops, including identification, anatomy, physiology, and growth characteristics.  Pasture production and management, grazing systems, and forage preservation and utilization will also be covered.",
+            "prerequisites": "PLNT_S 2125 or AN_SCI 3232 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AN_SCI 3232",
+                "PLNT_S 2125"
+            ]
+        },
+        {
+            "name": "Grain Crops",
+            "number": "PLNT_S 3275",
+            "description": "Lecture and discussion covering production and utilization, plus growth and development of a wide range of grain crops, including Missouri crops. Problem solving tasks include agronomics, economics and environmental factors.",
+            "prerequisites": "PLNT_S 2110 or PLNT_S 2125",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2110",
+                "PLNT_S 2125"
+            ]
+        },
+        {
+            "name": "Introductory Turfgrass Management",
+            "number": "PLNT_S 3355",
+            "description": "Characteristics of turf materials, principles of establishment and maintenance.",
+            "prerequisites": "PLNT_S 2100 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2100"
+            ]
+        },
+        {
+            "name": "Problems in Plant Science",
+            "number": "PLNT_S 3385",
+            "description": "Not accepted as a substitute for any regularly scheduled course. Problems arranged with individual faculty member in specific matter area.",
+            "prerequisites": "consent required",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Forest Pathology",
+            "number": "PLNT_S 3500",
+            "description": "Provides basic understanding of biotic and abiotic agents which cause forest diseases, and current approaches to disease control.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "5 hours Biological Sciences or equivalent",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Biology of Fungi",
+            "number": "PLNT_S 3510",
+            "description": "(same as BIO_SC 3510). The diverse roles of fungi in the biosphere will be explored by considering fungi we eat, fungi which destroy our food, fungi in folklore and fungi as global nutrient recyclers.",
+            "prerequisites": "BIO_SC 1200 or BIO_SC 1500 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1200",
+                "BIO_SC 1500"
+            ]
+        },
+        {
+            "name": "Introductory Entomology",
+            "number": "PLNT_S 3710",
+            "description": "(same as BIO_SC 3710). Emphasizes the role insects play in the scheme of life.  Topics include insect structure, development, diversity, ecology, communication and behavior, and management.  ",
+            "prerequisites": " Completion of 60 credit hours and one of the following: BIO_SC 1100 (or F_W 1100) or BIO_SC 1200, or BIO_SC 1500.",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1100",
+                "BIO_SC 1200",
+                "BIO_SC 1500",
+                "F_W 1100"
+            ]
+        },
+        {
+            "name": "Insect Diversity",
+            "number": "PLNT_S 3715",
+            "description": "(same as BIO_SC 3715). Laboratory exercises emphasizing external insect anatomy, classification, and identification (to family level).  Preparation of an insect collection is required.",
+            "prerequisites": "None Listed",
+            "hours": "2Prerequisites or Corequisites: PLNT_S 3710 (or BIO_SC 3710)",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Plant Science - Biological/Physical/Mathematics",
+            "number": "PLNT_S 4002",
+            "description": "Initial offering of a course(s) in a specific subject matter area. Offered when proposed by a faculty member in that area of expertise.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Soil Fertility and Plant Nutrition",
+            "number": "PLNT_S 4313",
+            "description": "(same as SOIL 4313; cross-leveled with PLNT_S 7313, SOIL 7313). Explanation of principles of delivery of plant nutrients to plants, discussion of the role of each essential nutrient in crop plants and introduction to the management of soil amendments.",
+            "prerequisites": "SOIL 2100 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOIL 2100"
+            ]
+        },
+        {
+            "name": "Soil Fertility and Plant Nutrition Laboratory",
+            "number": "PLNT_S 4314",
+            "description": "(same as SOIL 4314; cross-leveled with PLNT_S 7314, SOIL 7314). The application of elementary analytical procedures to the evaluation of the nutrient status of soils and crop plants.",
+            "prerequisites": "None Listed",
+            "hours": "2Prerequisites or Corequisites: SOIL 4313",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Crop Physiology",
+            "number": "PLNT_S 4315",
+            "description": "(cross-leveled with PLNT_S 7315). Basic course on crop growth and development. Emphasis is on physiological processes and morphology of crop plants, and their application to crop breeding and management decisions.",
+            "prerequisites": "PLNT_S 2125 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2125"
+            ]
+        },
+        {
+            "name": "Molecular Plant Physiology",
+            "number": "PLNT_S 4320",
+            "description": "(same as BIO_SC 4320; cross-leveled with PLNT_S 7320, BIO_SC 7320). Modern physiology of higher plants using common cultivated plants as examples.  ",
+            "prerequisites": " CHEM 1320 or CHEM 1330 and one of the following: BIO_SC  1500 or BIO_SC 1200.",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC  150",
+                "BIO_SC 1200",
+                "CHEM 1320",
+                "CHEM 1330"
+            ]
+        },
+        {
+            "name": "Field Crop Breeding",
+            "number": "PLNT_S 4325",
+            "description": "(cross-leveled with PLNT_S 7325). Will introduce students to the application of genetics and the plant sciences to the breeding and improvement of self-pollinated field crops. Classical, current and innovative plant breeding techniques will be addressed.",
+            "prerequisites": "PLNT_S 2110 or PLNT_S 2125, and PLNT_S 3213 (or equivalent), and PLNT_S 3225 (or equivalent)",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2110",
+                "PLNT_S 2125",
+                "PLNT_S 3213",
+                "PLNT_S 3225"
+            ]
+        },
+        {
+            "name": "Plant Breeding Theory",
+            "number": "PLNT_S 4330",
+            "description": "(cross-leveled with PLNT_S 7330). Designed to provide a logical application of genetic concepts to mating and selection theory in general improvement of cross pollinated crops.",
+            "prerequisites": "PLNT_S 3225 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3225"
+            ]
+        },
+        {
+            "name": "Principles of Viticulture II",
+            "number": "PLNT_S 4340",
+            "description": "(same as F_S 4340).  Environmental and biological factors influencing vine physiology and winegrape quality.  Irrigation, canopy management, pest and disease control, budgets and current trends in viticulture. Graded on A-F basis only.",
+            "prerequisites": "F_S 3240 or PLNT_S 3240",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "F_S 3240",
+                "PLNT_S 3240"
+            ]
+        },
+        {
+            "name": "Principles of Viticulture and Winemaking",
+            "number": "PLNT_S 4345",
+            "description": "(same as F_S 4345; cross-leveled with PLNT_S 7345, F_S 7345). This course will cover the basics needed by viticulturists and winemakers to understand grape vine growth and vineyard considerations along with winemaking principles. Viticultural topics will include grapevine growth and development, vineyard design and development, cultivar selection, grapevine propagation, training systems, and harvest and pruning. Winemaking topics will include sensory analysis of grapes, chemical, microbiological and technological aspects of winemaking, and the analytical methods used for juice and wine analysis. Graded on A-F basis only.",
+            "prerequisites": "BIO_SC 1010 or BIO_SC 1020 or BIO_SC 1030",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1010",
+                "BIO_SC 1020",
+                "BIO_SC 1030"
+            ]
+        },
+        {
+            "name": "Nursery Crop Production and Management",
+            "number": "PLNT_S 4350",
+            "description": "Operations, methods used by wholesale, retail, landscape nurseries. Field problems, observational trips.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "PLNT_S 3230 and PLNT_S 3235",
+            "connections": [
+                "PLNT_S 3230",
+                "PLNT_S 3235"
+            ]
+        },
+        {
+            "name": "Advanced Turfgrass Management",
+            "number": "PLNT_S 4355",
+            "description": "(cross-leveled with PLNT_S 7355). Provides turfgrass majors a more informative and applicable look at mathematics of turfgrass management, application techniques, cultural practices, and soil/water relationships applicable to careers in golf course and sports turf management, lawn care, and professional grounds maintenance.",
+            "prerequisites": "PLNT_S 3355 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3355"
+            ]
+        },
+        {
+            "name": "Precision Agriculture Science and Technology",
+            "number": "PLNT_S 4360",
+            "description": "(same as AG_S_M 4360, SOIL 4360; cross-leveled with PLNT_S 7360, AG_S_M 7360, SOIL 7360). Precision agriculture is an information-based approach to farming whereby variability is managed to optimize crop production and reduce environmental pollution. This course provides an overview of precision agriculture technologies (like GIS, GPS, remote sensing), mapping methods, and case studies illustrating decisions and management.",
+            "prerequisites": "PLNT_S 2100 or SOIL 2100, or PLNT_S 2110, or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2100",
+                "PLNT_S 2110",
+                "SOIL 2100"
+            ]
+        },
+        {
+            "name": "Greenhouse Crops Production",
+            "number": "PLNT_S 4365",
+            "description": "(cross-leveled with PLNT_S 7365). Production management decision and commercial culture of the major floriculture crops.",
+            "prerequisites": "PLNT_S 3260 or instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3260"
+            ]
+        },
+        {
+            "name": "Problems in Plant Science",
+            "number": "PLNT_S 4385",
+            "description": "Special problem in plant pathology designed for the minor program in Plant Pathology. Problems arranged on an individual student basis.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Plant Anatomy",
+            "number": "PLNT_S 4400",
+            "description": "(same as BIO_SC 4400; cross-leveled with PLNT_S 7400, BIO_SC 7400). Comparative structure, growth of meristems; development, structure of important cell types, tissues systems; comparative anatomy of stem, root, leaf.  Emphasizes anatomy of gymnosperms, angiosperms.  Includes lab. Graded on A-F basis only.",
+            "prerequisites": "BIO_SC 1200 or equivalent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1200"
+            ]
+        },
+        {
+            "name": "Biology and Pathogenesis of Plant-Associated Microbes",
+            "number": "PLNT_S 4500",
+            "description": "(cross-leveled with PLNT_S 7500). Diagnosis of diseases of plants caused by fungi, nematodes, viruses and bacteria  Environmental and genetic factors leading to disease development and strategies for disease management, including biotechnology.  ",
+            "prerequisites": " 5 hours from the following courses: BIO_SC 1010, BIO_SC 1020, BIO_SC 1030, BIO_SC 1100, BIO_SC 1200 or BIO_SC 1500; and completion of 60 credit hours.",
+            "hours": ": 4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1010",
+                "BIO_SC 1020",
+                "BIO_SC 1030",
+                "BIO_SC 1100",
+                "BIO_SC 1200",
+                "BIO_SC 1500"
+            ]
+        },
+        {
+            "name": "Environmental Microbiology",
+            "number": "PLNT_S 4520",
+            "description": "Fundamental knowledge of selected microbial processes that are important in agriculture, environmental detoxification, and microbial biotechnology. Emphasis is on molecular, genetic and physiological aspects of nitrogen metabolism, bioconversions, antibiosis and biocontrol.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Plant Biotechnology",
+            "number": "PLNT_S 4550",
+            "description": "(cross-leveled with PLNT_S 7550). Principles of gene expression, metabolic pathway analysis and data mining, plant tissue culture and transformation, transgene integration and expression analysis, plant epigenome, emerging transgenic technologies, etc.  ",
+            "prerequisites": "  PLNT_S 2125 and one of the following: PLNT_S 3213, or BIO_SC 2200 or BIO_SC 2300.",
+            "hours": ": 4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 2200",
+                "BIO_SC 2300",
+                "PLNT_S 2125",
+                "PLNT_S 3213"
+            ]
+        },
+        {
+            "name": "Systematic Entomology",
+            "number": "PLNT_S 4710",
+            "description": "(cross-leveled with PLNT_S 7710). Taxonomy of insects: emphasizes biology and classification of orders and suborders in lecture, and major families in lab.  Insect collection required. ",
+            "prerequisites": " PLNT_S 3715 and one of the following: BIO_SC 1100 or BIO_SC 1500.",
+            "hours": ": 5",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1100",
+                "BIO_SC 1500",
+                "PLNT_S 3715"
+            ]
+        },
+        {
+            "name": "Aquatic Entomology",
+            "number": "PLNT_S 4720",
+            "description": "(cross-leveled with PLNT_S 7720).  Identification, life histories, ecology of aquatic insects.  Grading is based on lecture, lab, and a collection.  For students of wildlife, fisheries management, aquatic biology, advanced entomology.",
+            "prerequisites": "PLNT_S 3710 or PLNT_S 3715 or equivalent, or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3710",
+                "PLNT_S 3715"
+            ]
+        },
+        {
+            "name": "Insect Pest Management for Plant Protection",
+            "number": "PLNT_S 4730",
+            "description": "(cross-leveled with PLNT_S 7730). History and concepts of Integrated Pest Management of insect pests, emphasizing complementary use of biological control, plant resistance, environmental manipulations, genetic manipulations, and selective use of insecticides.",
+            "prerequisites": "PLNT_S 3710 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3710"
+            ]
+        },
+        {
+            "name": "Internship in Plant Science",
+            "number": "PLNT_S 4940",
+            "description": "Combines study, observation, and employment with an industry or government agency in area of agronomy or horticulture. Written and oral reports and faculty evaluation.",
+            "prerequisites": "Completion of 75 hours including two courses in department and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Undergraduate Research in Plant Science",
+            "number": "PLNT_S 4950",
+            "description": "Capstone experience consisting of investigations in Plant Science in support of an undergraduate thesis or special project portfolio.",
+            "prerequisites": "Completion of 75 credit hours and Plant Science Majors only",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Special Readings in Plant Pathology",
+            "number": "PLNT_S 4965",
+            "description": "Independent readings and discussions of topics in entomology selected in consultation with supervising faculty member. Paper required.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Readings in Molecular Ecology of Herbivory",
+            "number": "PLNT_S 4970",
+            "description": "(cross-leveled with PLNT_S 7970). The application of molecular biology tools to the rich history of chemical, physiological, population, and multi-trophic ecology studies on plant herbivore interactions has made for an exciting, fast-paced field at the forefront of ecology, 'functional biology' and 'systems biology'. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Landscape Design",
+            "number": "PLNT_S 4975",
+            "description": "(cross-leveled with PLNT_S 7975). Development of project presentation techniques by analysis of the social, cultural, historical and ecological aspects of landscape design.",
+            "prerequisites": "PLNT_S 2254 or instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2254"
+            ]
+        },
+        {
+            "name": "Topics",
+            "number": "PLNT_S 7001",
+            "description": "Initial offering of a course(s) in a specific subject matter area. Offered when proposed by a faculty member in that area of expertise.",
+            "prerequisites": "None Listed",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems",
+            "number": "PLNT_S 7085",
+            "description": "Advanced studies not expected to terminate in thesis. Problems arranged with individual faculty member in specific matter area.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar",
+            "number": "PLNT_S 7087",
+            "description": "In-depth development of advanced aspects of plant, insect, or microbial sciences through reviews of results of research in progress and current scientific publications. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Nonthesis Research",
+            "number": "PLNT_S 7090",
+            "description": "Original investigation not leading to preparation of thesis.",
+            "prerequisites": "None Listed",
+            "hours": "1-9",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Soil Fertility and Plant Nutrition",
+            "number": "PLNT_S 7313",
+            "description": "(same as SOIL 7313; cross-leveled with PLNT_S 4313, SOIL 4313). Explanation of principles of delivery of plant nutrients to plants, discussion of the role of each essential nutrient in crop plants and introduction to the management of soil amendments.",
+            "prerequisites": "SOIL 2110 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOIL 2110"
+            ]
+        },
+        {
+            "name": "Soil Fertility and Plant Nutrition Laboratory",
+            "number": "PLNT_S 7314",
+            "description": "(same as SOIL 7314; cross-leveled PLNT_S 4314, SOIL 4314). The application of elementary analytical procedures to the evaluation of the nutrient status of soils and crop plants.",
+            "prerequisites": "concurrent enrollment or previous completion of SOIL 4313 SOIL 7313",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "SOIL 4313",
+                "SOIL 7313"
+            ]
+        },
+        {
+            "name": "Crop Physiology",
+            "number": "PLNT_S 7315",
+            "description": "(cross-leveled with PLNT_S 4315). Basic course on crop growth and development. Emphasis is on physiological processes and morphology of crop plants, and their application to crop breeding and management decisions.",
+            "prerequisites": "PLNT_S 2125 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2125"
+            ]
+        },
+        {
+            "name": "Molecular Plant Physiology",
+            "number": "PLNT_S 7320",
+            "description": "(same as BIO_SC 7320; cross-leveled with PLNT_S 4320, BIO_SC 4320). Modern physiology of higher plants using common cultivated plants as examples. May be taken with or without laboratory.",
+            "prerequisites": "BIO_SC 1500 or BIO_SC 1200 and five hours of chemistry",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1500",
+                "BIO_SC 1200"
+            ]
+        },
+        {
+            "name": "Field Crop Breeding",
+            "number": "PLNT_S 7325",
+            "description": "(cross-leveled with PLNT_S 4325). Will introduce students to the application of genetics and the plant sciences to the breeding and improvement of self-pollinated field crops. Classical, current and innovative plant breeding techniques will be addressed.",
+            "prerequisites": "PLNT_S 2110 or PLNT_S 2125, and PLNT_S 3213 (or equivalent), and PLNT_S 3225 (or equivalent)",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2110",
+                "PLNT_S 2125",
+                "PLNT_S 3213",
+                "PLNT_S 3225"
+            ]
+        },
+        {
+            "name": "Plant Breeding Theory",
+            "number": "PLNT_S 7330",
+            "description": "(cross-leveled with PLNT_S 4330). Designed to provide a logical application of genetic concepts to mating and selection theory in general improvement of cross pollinated crops.",
+            "prerequisites": "PLNT_S 3225 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3225"
+            ]
+        },
+        {
+            "name": "Principles of Viticulture and Winemaking",
+            "number": "PLNT_S 7345",
+            "description": "(same as F_S 7345; cross-leveled with PLNT_S 4345, F_S 4345). This course will cover the basics needed by viticulturists and winemakers to understand grape vine growth and vineyard considerations along with winemaking principles. Viticultural topics will include grapevine growth and development, vineyard design and development, cultivar selection, grapevine propagation, training systems, and harvest and pruning. Winemaking topics will include sensory analysis of grapes, chemical, microbiological and technological aspects of winemaking, and the analytical methods used for juice and wine analysis. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Readings",
+            "number": "PLNT_S 7350",
+            "description": "Individual study of assigned topics.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Turfgrass Management",
+            "number": "PLNT_S 7355",
+            "description": "(cross-leveled with PLNT_S 4355). Provides turfgrass majors a more informative and applicable look at mathematics of turfgrass management, application techniques, cultural practices, and soil/water relationships applicable to careers in golf course and sports turf management, lawn care, and professional grounds maintenance. Graded on A-F basis only.",
+            "prerequisites": "PLNT_S 3355 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3355"
+            ]
+        },
+        {
+            "name": "Precision Agriculture Science and Technology",
+            "number": "PLNT_S 7360",
+            "description": "(same as AG_S_M 7360 and SOIL 7360; cross-leveled with PLNT_S 4360, AG_S_M 4360, SOIL 7360). Precision agriculture is an information-based approach to farming whereby variability is managed to optimize crop production and reduce environmental pollution. This course provides an overview of precision agriculture technologies (like GIS, GPS, remote sensing), mapping methods, and case studies illustrating decisions and management.",
+            "prerequisites": "SOIL 2100, PLNT_S 2110 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2110",
+                "SOIL 2100"
+            ]
+        },
+        {
+            "name": "Greenhouse Crops Production",
+            "number": "PLNT_S 7365",
+            "description": "(cross-leveled with PLNT_S 4365). Production management decision and commercial culture of the major floriculture crops.",
+            "prerequisites": "PLNT_S 3260 or instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3260"
+            ]
+        },
+        {
+            "name": "Small Fruit and Vegetable Production",
+            "number": "PLNT_S 7370",
+            "description": "Emphasizes production, management and marketing practices for small fruit and vegetable crops.",
+            "prerequisites": "PLNT_S 2100, PLNT_S 3230, and PLNT_S 3235",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2100",
+                "PLNT_S 3230",
+                "PLNT_S 3235"
+            ]
+        },
+        {
+            "name": "Plant Anatomy",
+            "number": "PLNT_S 7400",
+            "description": "(same as BIO_SC 7400; cross-leveled with PLNT_S 4400, BIO_SCI 4400). Comparative structure, growth of meristems; development, structure of important cell types, tissue systems; comparative anatomy of stem, root, leaf. Emphasized anatomy of gymnosperms, angiosperms. Includes lab. Graded on A-F basis only.",
+            "prerequisites": "BIO_SC 1200 or equivalent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 1200"
+            ]
+        },
+        {
+            "name": "Biology and Pathogenesis of Plant-Associated Microbes",
+            "number": "PLNT_S 7500",
+            "description": "(cross-leveled with PLNT_S 4500). Diagnosis of disease of plants caused by fungi, nematodes, viruses and bacteria.  Environmental and genetic factors leading to disease development and strategies for disease management, including biotechnology.",
+            "prerequisites": "5 hours BIO_SC",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC"
+            ]
+        },
+        {
+            "name": "Plant Biotechnology",
+            "number": "PLNT_S 7550",
+            "description": "(cross-leveled with PLNT_S 4550). Principles of gene expression, metabolic pathway analysis and data mining, plant tissue culture and transformation, transgene integration and expression analysis, plant epigenome, emerging transgenic technologies, etc.",
+            "prerequisites": "BIO_SC 2960 or equivalent; BIO_SC 2200 or equivalent; BIO_SCI 2300 or equivalent; PLNT_S 2125",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 2960",
+                "BIO_SC 2200",
+                "BIO_SCI 230",
+                "PLNT_S 2125"
+            ]
+        },
+        {
+            "name": "Systematic Entomology",
+            "number": "PLNT_S 7710",
+            "description": "(cross-leveled with PLNT_S 4710). Taxonomy of insects: emphasizes biology and classification of orders and suborders in lecture, and major families in lab.  Insect collection required.",
+            "prerequisites": "PLNT_S 3710 and PLNT_S 3715 or 10 hours Biological Sciences",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3710",
+                "PLNT_S 3715"
+            ]
+        },
+        {
+            "name": "Aquatic Entomology",
+            "number": "PLNT_S 7720",
+            "description": "(cross-leveled with PLNT_S 4720). Identification, life histories, ecology of aquatic insects.  Grading is based on lecture, lab, and a collection.  For students of wildlife, fisheries management, aquatic biology, advanced entomology.",
+            "prerequisites": "PLNT_S 3710, PLNT_S 3715 or equivalent or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3710",
+                "PLNT_S 3715"
+            ]
+        },
+        {
+            "name": "Insect Pest Management for Plant Protection",
+            "number": "PLNT_S 7730",
+            "description": "(cross-leveled with PLNT_S 4730).   History and concepts of Integrated Pest Management for insects pests, emphasizing complementary use of biological control, plant resistance, environmental manipulations, genetic manipulations, and selective use of insecticides.",
+            "prerequisites": "PLNT_S 3710 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3710"
+            ]
+        },
+        {
+            "name": "Principles of Insect Physiology",
+            "number": "PLNT_S 7820",
+            "description": "Major concepts of insect physiology emphasizing functions of organ-systems sensory physiology hormones in development, nutrition.",
+            "prerequisites": "PLNT_S 3710, PLNT_S 3715 and PLNT_S 7810 or equivalent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3710",
+                "PLNT_S 3715",
+                "PLNT_S 7810"
+            ]
+        },
+        {
+            "name": "Readings in Plant Stress Biology",
+            "number": "PLNT_S 7965",
+            "description": "Independent readings and discussion of recent research publications. Topics selected in consultation with supervisory faculty member.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-9",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Readings in Molecular Ecology of Herbivory",
+            "number": "PLNT_S 7970",
+            "description": "(cross-leveled with PLNT_S 4970).The application of molecular biology tools to the rich history of chemical, physiological, population, and multi-trophic ecology studies on plant herbivore interactions has made for an exciting, fast-paced field at the forefront of ecology, 'functional biology' and 'systems biology'. Graded on S/U basis only.",
+            "prerequisites": "Instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Landscape Design",
+            "number": "PLNT_S 7975",
+            "description": "(cross-leveled with PLNT_S 4975). Development of project presentation techniques by analysis of the social, cultural, historical and ecological aspects of landscape design.",
+            "prerequisites": "PLNT_S 2254, instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 2254"
+            ]
+        },
+        {
+            "name": "Topics",
+            "number": "PLNT_S 8001",
+            "description": "Instruction in specific subject matter areas in plant, insect or microbial sciences.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Professionalism and Ethics",
+            "number": "PLNT_S 8010",
+            "description": "Ethical issues in the conduct of scientific research including data integrity, plagiarism, and intellectual property.  Scientific writing, lab management, peer review and other professional skills for the life sciences. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Thesis Research",
+            "number": "PLNT_S 8090",
+            "description": "Original investigations in plant, insect or microbial science in support of thesis for master's candidates.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-10",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Molecular Breeding",
+            "number": "PLNT_S 8330",
+            "description": "Development of Molecular Breeding, Evolution of Transgenics, Transformation and Gene Transfer Methods, Transgenics in the Food Supply Genetics and Marker Technology, Genotyping Methods for Marker Assisted Selection (MAS, and Emerging Transgenic and Genotyping Technologies.  Graded on A-F basis only.  ",
+            "prerequisites": " PLNT_S 3225",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3225"
+            ]
+        },
+        {
+            "name": "Introduction to Plant Metabolism",
+            "number": "PLNT_S 8362",
+            "description": "(same as BIO_SC 8362 and BIOCHM 8362). This course is part of a series that aims to provide a solid conceptual foundation in interdisciplinary plant biology for graduate students with a research emphasis in plant biology.  This course examines the basic concepts and techniques used to understand plant metabolism.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Molecular Cell Biology",
+            "number": "PLNT_S 8365",
+            "description": "(same as BIOCHM 8365 and BIO_SC 8365). This course is part of a series that aims to provide a solid conceptual foundation in interdisciplinary plant biology for graduate students with a research emphasis on plant biology.  This course examines the basic concepts and techniques used to understand molecular cell biology.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Weed Science",
+            "number": "PLNT_S 8410",
+            "description": "Discussion of herbicide physiology and fate in the environment, current development in weed science theory and methodology, and application of analytical procedures in weed research.",
+            "prerequisites": "PLNT_S 3210",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3210"
+            ]
+        },
+        {
+            "name": "Herbicide Mode of Action and Symptomology",
+            "number": "PLNT_S 8420",
+            "description": "Designed for graduate students to gain an understanding of the in-depth processes by which herbicides interrupt normal plant growth and development at a tissue, cellular, and enzymatic level while learning to diagnose visual symptoms associated with herbicide injury.  Course maybe repeated for credit.  Graded on A-F basis.",
+            "prerequisites": "PLNT_S 3210; instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3210"
+            ]
+        },
+        {
+            "name": "Introduction to Bioinformatics Programming",
+            "number": "PLNT_S 8430",
+            "description": "(same as AN_SCI 8430). This course provides the basics of programming and database development to students in the life sciences who have little prior programming experience. It covers Unix/Linux, Perl, MySQL, the relational database design process, and common data formats used in genome informatics. Students will learn how programming skills can enhance their ability to analyze large biological datasets, and will gain hands on experience with examples focused on genomics and bioinformatics. Graded on A-F basis only.",
+            "prerequisites": "Instructor's consent",
+            "hours": "4",
+            "recommendation": "Undergraduate or graduate course in Genetics",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Plant Stress Biology",
+            "number": "PLNT_S 8505",
+            "description": "(same as BIO_SC 8505) This course is part of a series that aims to provide a solid conceptual foundation to interdisciplinary plant biology for graduate students with a research emphasis in plant biology.  This course examines the basic concepts and techniques used to understand plant stress biology.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research with Plant Stress Agents",
+            "number": "PLNT_S 8530",
+            "description": "Students will learn key research strategies for abiotic and biotic plant stress agents. Students will complete two focused hands-on projects. Graded on A-F basis only.",
+            "prerequisites": "PLNT_S 7500 and PLNT_S 7510 or PLNT_S 7315, or PLNT_S 7320, or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 7500",
+                "PLNT_S 7510",
+                "PLNT_S 7315",
+                "PLNT_S 7320"
+            ]
+        },
+        {
+            "name": "Ecological and Evolutionary Genomics",
+            "number": "PLNT_S 8650",
+            "description": "(same as BIO_SC 8650).  This course is designed to give a background in evolution and then explore an exciting new field:  Ecological and evolutionary genomics.  We will study genes that affect fitness and how whole genomes evolve.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Insect Behavior",
+            "number": "PLNT_S 8720",
+            "description": "An examination of the breadth of behaviors found in insects, such as orientation mechanisms, communication, dispersal and migration, defensive mechanisms, lost location, feeding strategies, pollination, courtship and reproduction, and social behavior.",
+            "prerequisites": "PLNT_S 3710 and PLNT_S 3715 or 10 hours of Biological Sciences",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 3710",
+                "PLNT_S 3715"
+            ]
+        },
+        {
+            "name": "Topics",
+            "number": "PLNT_S 9001",
+            "description": "Instruction in specific subject matter areas in plant, insect or microbial sciences.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Plant Science",
+            "number": "PLNT_S 9087",
+            "description": "In-depth development of advanced aspects of plant, insect and microbial sciences through reviews of results of research in progress and current scientific publications. Graded on A-F or S/U basis dependent on section.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Dissertation Research",
+            "number": "PLNT_S 9090",
+            "description": "Original investigations in plant, insect or microbial science in support of dissertation for doctoral candidates. Graded on a S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-10",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Ecology of Grazing Lands Systems",
+            "number": "PLNT_S 9310",
+            "description": "Students travel to grazing lands ecosystems to learn: the components and function of grazing lands; research techniques in soil-plant-animal research; forage-livestock ecology; and the role of forages in conservation practices, wildlife habitat, and sustainable agriculture.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Plant Physiology",
+            "number": "PLNT_S 9415",
+            "description": "Advanced course in the physiology of plant growth and development. Discussion of current and classical studies in plant physiology with emphasis on responses to environmental variation.",
+            "prerequisites": "PLNT_S 4315 or PLNT_S 4320 or equivalent.  Instructor's consent required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 4315",
+                "PLNT_S 4320"
+            ]
+        },
+        {
+            "name": "Applied Quantitative and Statistical Genetics",
+            "number": "PLNT_S 9440",
+            "description": "Estimation of genetic effects using means and variances, diallel analysis, environmental stability responses, index selection, and gain from selection.",
+            "prerequisites": "PLNT_S 4330,  STAT 4510, STAT 4530, AN_SCI 9423, or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "AN_SCI 9423",
+                "PLNT_S 4330",
+                "STAT 4510",
+                "STAT 4530"
+            ]
+        },
+        {
+            "name": "Genetics of Plant-Microorganism Interaction",
+            "number": "PLNT_S 9540",
+            "description": "Molecular and general genetics of the interactions between plants and pathogenic or symbiotic microorganisms.",
+            "prerequisites": "PLNT_S 7500 and PLNT_S 7510, one course each in Biochemistry and Genetics",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PLNT_S 7500",
+                "PLNT_S 7510"
+            ]
+        },
+        {
+            "name": "Insect Ecology",
+            "number": "PLNT_S 9810",
+            "description": "Ecological aspects of insect populations and communities including population dynamics, predator-prey interactions, competition, diversity and stability. Quantitative methods are emphasized.",
+            "prerequisites": "PLNT_S 3710 and PLNT_S 3715, STAT 1400 and BIO_SC 3650 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "BIO_SC 3650",
+                "PLNT_S 3710",
+                "PLNT_S 3715",
+                "STAT 1400"
+            ]
+        }
+    ]
+}

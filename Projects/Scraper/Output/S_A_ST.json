@@ -1,0 +1,400 @@
+{
+    "department_name": "South Asia Studies",
+    "department_code": "S_A_ST",
+    "courses": [
+        {
+            "name": "Topics in South Asian Studies - Social Science",
+            "number": "S_A_ST 1004",
+            "description": "Special topics.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Elementary Hindi I",
+            "number": "S_A_ST 1100",
+            "description": "Oral-aural and structural approach. Devanagari script.",
+            "prerequisites": "None Listed",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Asian Humanities",
+            "number": "S_A_ST 1152",
+            "description": "(same as REL_ST 1820, HIST 1820 and AR_H_A 1230). This course is an introduction to the literature and visual arts of Asia through selected master works. It focuses principally on India and China and investigates the distinctive features of their cultures.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Elementary Hindi II",
+            "number": "S_A_ST 1200",
+            "description": "Continuation of S_A_ST 1100. Spoken and written Hindi.",
+            "prerequisites": "grade of C or better in S_A_ST 1100",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": [
+                "S_A_ST 1100"
+            ]
+        },
+        {
+            "name": "History of Ancient India",
+            "number": "S_A_ST 1860",
+            "description": "(same as HIST 1860). This course surveys the history of South Asian history.  The course begins with the Indus Valley Civilization (fl. 2600-1900B.C.) and ends with an analysis of Islamic impact on Indic culture around 1200-1350.  Emphasis will be placed on cultural and social history, religion, arts and literature, and the sources used for the study of permodern civilizations.  Students will develop a basic knowledge and vocabulary necessary to pursue additional South Asian courses.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "History of Modern India",
+            "number": "S_A_ST 1861",
+            "description": "(same as HIST 1861).  This course surveys the history of the South Asian subcontinent from the early seventeenth through the twentieth century.  Emphasis will be placed on cultural and social history, religion, arts and literature, imperialism and colonialism, and the sources used for the study of modern civilizations.  Students will develop a basic knowledge and vocabulary necessary to pursue additional South Asian courses.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "History of India: 1000-1750",
+            "number": "S_A_ST 1862",
+            "description": "(Same as HIST 1862) This course surveys the history of the South Asian subcontinent from the eleventh through mid-eighteenth centuries. Emphasis will be placed on cultural and social history, religion, arts and literature, and the sources used to study civilization. Students will develop a basic knowledge and vocabulary necessary to pursue additional South Asian courses.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in South Asian Studies-Humanities",
+            "number": "S_A_ST 2005",
+            "description": "Special Topics.  May be repeated for credit.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Philosophy: East and West",
+            "number": "S_A_ST 2100",
+            "description": "(same as PHIL 2100). Compares the interpretation and role of philosophical concepts such as experience, reason permanence, change, immortality, soul, God, etc., in Indian, Chinese and European traditions.",
+            "prerequisites": "sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Elementary Hindi III",
+            "number": "S_A_ST 2110",
+            "description": "Continuation of S_A_ST 1200. ",
+            "prerequisites": " S_A_ST 1100 or S_A_ST 1200",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": [
+                "S_A_ST 1100",
+                "S_A_ST 1200"
+            ]
+        },
+        {
+            "name": "Geography of Asia",
+            "number": "S_A_ST 2270",
+            "description": "(same as GEOG 2270). An introductory survey of the geography of Asia from India through Southeast Asia to China and Japan, emphasizing factors contributing to cultural similarities and variations, conflicts of interest, and current development.",
+            "prerequisites": "sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Women in Indian History",
+            "number": "S_A_ST 2800",
+            "description": "(same as HIST 2800). This course examines the role of women in Indian (South Asian) history, focusing on women in British India from the eighteenth century up to the Partition of 1947.  While previous knowledge of South Asian history may be beneficial, it is not required for this course.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Hindi Readings I",
+            "number": "S_A_ST 3130",
+            "description": "Directed readings in the literature of the student's area of concentration, and advanced conversation.",
+            "prerequisites": "instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Hindi Readings II in South Asian Studies",
+            "number": "S_A_ST 3160",
+            "description": "Continuation of S_A_ST 3160.",
+            "prerequisites": "instructor's consent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Hinduism",
+            "number": "S_A_ST 3200",
+            "description": "(same as REL_ST 3200). Origin and development of central themes of traditional Hinduism from earliest times to the modern period. Topics include: the Vedic tradition, rituals and practice, varieties of yoga and meditation, Indian religious thought and devotional Hinduism.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Buddhism and Environmental Ethics",
+            "number": "S_A_ST 3230",
+            "description": "(same as REL_ST 3230). Global environmental crisis is associated with rapidly expanding human population.  Buddhist teachings about the interdependent aspects of existence and interrelatedness of all life may provide critical insights for how humanity can achieve balance and reciprocity with nature.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Buddhism of South and Southeast Asia",
+            "number": "S_A_ST 3240",
+            "description": "(same as REL_ST 3240). Examines the origins of Buddhism in India, the narratives of the life of the Buddha, the development of early Buddhist schools, the extension of Buddhism into Central and Southeast Asia, and the current practice of Buddhism in south and Southeast Asia.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Nonviolence in the Modern World",
+            "number": "S_A_ST 3245",
+            "description": "(same as PEA_ST 3840). Readings on recent world history, emphasis on Ghandi and nonviolent tradition in America, Europe and the Third World.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Southeast Asia",
+            "number": "S_A_ST 3260",
+            "description": "(same as GEOG 3260). Physical, cultural, historical and regional geography of Southeast Asia, with an introduction to East Asian geography. Emphasizes the problems of tradition and development.",
+            "prerequisites": "GEOG 2270 or junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "GEOG 2270"
+            ]
+        },
+        {
+            "name": "Hindu Goddesses",
+            "number": "S_A_ST 3261",
+            "description": "(same as REL_ST 3260). This course examines the vast range of Hindu Goddesses and their worship in South Asia. It includes information about goddess origins, mythology, symbolism, and attendant ritual practices. In order to approach this topic, background information about the history of Hinduism, major religious narratives, devotional practices, and iconographic representations of the divine are discussed. The course introduces the approaches of various scholars to Hindu Goddess worship within the context of religion, social relations, and gender roles, and explores ways in which South Asian women experience and negotiate feminine power in contemporary socio-cultural contexts.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Geography of South Asia",
+            "number": "S_A_ST 3280",
+            "description": "(same as GEOG 3280). Topical and regional analysis of India, Pakistan, Sri Lanka. Historical development of distinctive cultural regions. Relations with neighboring areas. Impact of Westernization on economic activities, settlements, population.",
+            "prerequisites": "junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Indian Cinema",
+            "number": "S_A_ST 3490",
+            "description": "(same as AR_H_A 3790, ANTHRO 3490  and FILM_S 3490). Indian Cinema provides an overview of the key genres and themes of Indian film, including Bollywood, art cinema/parallel cinema, Indian regional cinemas, and diasporan cinema. The course combines film studies, anthropological, historical, and visual culture analyses to provide a holistic view of Indian culture and society through cinema.",
+            "prerequisites": "Sophomore standing or higher",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in South Asian Studies - Social Science",
+            "number": "S_A_ST 4004",
+            "description": "Special topics.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Religious Narratives of South Asia",
+            "number": "S_A_ST 4300",
+            "description": "(same as REL_ST 4300). Study of major narratives of India and their interpretation in literature and art. Topics include: Vedic and Epic mythology, stories of Krishna, myths and images of Shiva, and forms of the Goddess.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Politics in India and South Asia",
+            "number": "S_A_ST 4620",
+            "description": "(same as POL_SC 4620). Contemporary political and governmental patterns of India, Pakistan, Sri Lanka, Nepal, and Bangladesh.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sanskrit I",
+            "number": "S_A_ST 4630",
+            "description": "(same as REL_ST 4630). This intensive course will cover the essentials of Sanskrit grammar in one semester and prepare students for further readings in Hindu and Buddhist Literature.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sanskrit II",
+            "number": "S_A_ST 4640",
+            "description": "(same as REL_ST 4640). This course is intended as a \"sampler\" of Sanskrit literature. We will read Sanskrit texts in the original. The objectives of the course are 1) Expanding the students' knowledge of the Sanskrit language, 2) To acquaint the students with a broad range of textual genres in Sanskrit literature, and 3) To acquaint the students with some central ideas of Hindu and Buddhist philosophy.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Culture and Society in South Asia",
+            "number": "S_A_ST 4790",
+            "description": "(same as ANTHRO 4790). Survey of the cultures, social organizations, and lived experience of people from across the Indian subcontinent.  Major topics include caste, kinship, gender, religion, village life, urbanization, public culture, popular culture, social change, and the South Asian diaspora.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "junior standing",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Asian Philosophy",
+            "number": "S_A_ST 4800",
+            "description": "(same as PHIL 4800). This course traces the origins of Indian and Chinese philosophical world views. Included are the major ideas in Hindu, Jaina, and Buddhist thought in India, and Taoism and Confucianism in China. Emphasis is placed on the diverse, assimilative, and pragmatic nature of Indian thought and its impact on contemporary Asian philosophy.",
+            "prerequisites": "sophomore standing and one course in Philosophy; or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Philosophy of India",
+            "number": "S_A_ST 4810",
+            "description": "(same as PHIL 4810). General development of Indian Philosophy.",
+            "prerequisites": "sophomore standing and one course in Philosophy; or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Contemporary Indian Philosophy",
+            "number": "S_A_ST 4820",
+            "description": "(same as PHIL 4820). Indian philosophical traditions as represented in backgrounds of Gandhi, Tagore, Tamkrishna, and philosophical systems of Radharkrishnan, Aurobindo, etc.",
+            "prerequisites": "junior standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Traversing the Muslim World",
+            "number": "S_A_ST 4850",
+            "description": "(same as HIST 4850). The traveler's tale formed an important part of the medieval world's system of knowledge.  The writing intensive discussion-based course examines a wide array of the most influential travelers in Muslim lands such as Ibn Fadlan, Ibn Buttuta, Benjamin of Tudela and Marco Polo.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Traversing the Muslim World - Writing Intensive",
+            "number": "S_A_ST 4850W",
+            "description": "(same as HIST 4850). The traveler's tale formed an important part of the medieval world's system of knowledge.  The writing intensive discussion-based course examines a wide array of the most influential travelers in Muslim lands such as Ibn Fadlan, Ibn Buttuta, Benjamin of Tudela and Marco Polo.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Colonial Masculinity/Colonial Frontier",
+            "number": "S_A_ST 4860",
+            "description": "(same as HIST 4860). This writing intensive discussion-based coarse examines how the Indian Army acted as a colonial army in the British Empire, including Africa, the Boxer Rebellion, and the World Wars.  Focus is on the role of the Indian Army, impact of the Sepoy Mutiny an martial race ideology.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in South Asian Studies",
+            "number": "S_A_ST 7004",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Religious Texts and Interpretation: The Veda",
+            "number": "S_A_ST 7200",
+            "description": "(same as REL_ST 8200). This course examines the Veda, the foundational scripture of Hinduism. It includes close study of Vedic texts and rituals and the influence, interpretation, and application of the Veda in the later Hinduism.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Special Readings in South Asian Studies Languages",
+            "number": "S_A_ST 7350",
+            "description": "Individual advanced study of desired South Asian language.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sanskrit I",
+            "number": "S_A_ST 7630",
+            "description": "(same as REL_ST 7630). This course is intended as a \"\"sampler\"\" of Sanskrit literature. We will read Sanskrit texts in the original. The objectives of the course are 1) Expanding the students' knowledge of the Sanskrit language, 2) To acquaint the students with a broad range of textual genres in Sanskrit literature, and 3) To acquaint the students with some central ideas of Hindu and Buddhist philosophy.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Sanskrit II",
+            "number": "S_A_ST 7640",
+            "description": "(same as REL_ST 7640). This course is intended as a \"\"sampler\"\" of Sanskrit literature. We will read Sanskrit texts in the original. The objectives of the course are 1) Expanding the students' knowledge of the Sanskrit language, 2) To acquaint the students with a broad range of textual genres in Sanskrit literature, and 3) To acquaint the students with some central ideas of Hindu and Buddhist philosophy.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Religious Narratives of South Asia",
+            "number": "S_A_ST 7700",
+            "description": "(same as REL_ST 7700). Study of major narratives of India and their interpretation in literature and art. Topics include: Vedic and Epic mythology, stories of Krishna, myths and images of Shiva, and forms of the Goddess.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Cultures and Society in South Asia",
+            "number": "S_A_ST 7790",
+            "description": "(same as ANTHRO 7790). Survey of the cultures, social organizations, and lived experience of people from across the Indian subcontinent.  Major topics include cast, kinship, gender, religion, village life, urbanization, public culture, popular culture, social change, and the South Asian diaspora.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in South Asian Studies",
+            "number": "S_A_ST 8085",
+            "description": "(same as HIST 8085).",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Indian Philosophy",
+            "number": "S_A_ST 9040",
+            "description": "Reality, levels of being, status of the world, nature of knowledge in Indian philosophy in relation the Advaita Vedanta system of Samkara.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

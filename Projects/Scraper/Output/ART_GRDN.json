@@ -1,0 +1,193 @@
+{
+    "department_name": "Art-Graphic Design",
+    "department_code": "ART_GRDN",
+    "courses": [
+        {
+            "name": "Beginning Digital Imaging",
+            "number": "ART_GRDN 1400",
+            "description": "Class will cover the basic tools used in digital imaging software. A variety of different software may be offered. Course may be repeated for up to 3 hours with the consent of instructor. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Digital Imaging",
+            "number": "ART_GRDN 2400",
+            "description": "Class will cover the basic tools used in digital imaging software. A variety of different software may be offered. Course may be repeated for up to 3 hours with the consent of instructor. Graded on S/U basis only.",
+            "prerequisites": "ART_GRDN 1400",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_GRDN 1400"
+            ]
+        },
+        {
+            "name": "Graphic Design I",
+            "number": "ART_GRDN 2410",
+            "description": "Emphasis on developing a design language and vocabulary. Projects explore visual images in two-dimensional space, each one focusing on a specific set of relationships. Introduction to methodological and research practices for designers. Course concludes with portfolio review for admission to ART_GRDN 2420 and further Graphic Design Courses. Payment of expendable materials fee is required.",
+            "prerequisites": "ART_GNRL 1030, ART_DRAW 1050; restricted to BA/BFA art majors",
+            "hours": "3",
+            "recommendation": "ART_GNRL 1040",
+            "connections": [
+                "ART_DRAW 1050",
+                "ART_GNRL 1030",
+                "ART_GNRL 1040"
+            ]
+        },
+        {
+            "name": "Graphic Design II",
+            "number": "ART_GRDN 2420",
+            "description": "Introduction to the discipline, function and tradition of typography. Topics include communication, text intensive documents, legibility/readability, movement, language sequence and information hierarchy. Payment of expendable materials fee is required. Enrollment is limited to students who have completed ART_GRDN 2410 and successful completion of the graphic design portfolio review.",
+            "prerequisites": "consent of instructor",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Calligraphy and Hand Lettering",
+            "number": "ART_GRDN 2430",
+            "description": "Technical and historical instruction on several calligraphic alphabets. Application of hand lettering to both two and three-dimensional design projects. Emphasis placed on both technical mastery of letters, development of personal style and creative expression in projects.",
+            "prerequisites": "ART_GNRL 1030, ART_DRAW 1050 or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_DRAW 1050",
+                "ART_GNRL 1030"
+            ]
+        },
+        {
+            "name": "Graphic Design III",
+            "number": "ART_GRDN 3410",
+            "description": "Digital media and motion graphics are explored through the development of interactive presentations and web site design. Students experiment with the computer as a medium for delivery of communication.  New, practical and conceptual skills will be discussed in order to develop meaningful, interactive user experiences.  Payment of expendable materials fees is required.",
+            "prerequisites": "ART_GRDN 2420",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_GRDN 2420"
+            ]
+        },
+        {
+            "name": "Graphic Design IV",
+            "number": "ART_GRDN 3420",
+            "description": "Goal directed graphic design problem solving stressing the integration of theory and practical applications while sharpening conceptual, computer, and research skills. Topics include current design theory, advanced typographic study, production methods and design/client interaction.  Payment of expendable materials fee is required.",
+            "prerequisites": "ART_GRDN 3410",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_GRDN 3410"
+            ]
+        },
+        {
+            "name": "Advanced Calligraphy and Hand Lettering",
+            "number": "ART_GRDN 3430",
+            "description": "Continuation of ART_GRDN 2430. Students will expand their skills including study of more complex alphabets and further their personal style. Emphasis placed on both mastery of letters and creative exploration in projects. Repeatable to 6 credits.",
+            "prerequisites": "ART_GRDN 2430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_GRDN 2430"
+            ]
+        },
+        {
+            "name": "Packaging Design",
+            "number": "ART_GRDN 3440",
+            "description": "This course will look at the discipline of packaging design from a three-dimensional perspective. By gaining an understanding of the materials and processes that relate to packaging, students will develop a selection of packaging solutions for a variety of different clients. Payment of expendable material fee is required. Repeatable to 6 credits.",
+            "prerequisites": "ART_GRDN 3410",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_GRDN 3410"
+            ]
+        },
+        {
+            "name": "The History of Graphic Design",
+            "number": "ART_GRDN 3441",
+            "description": "Broad overview of the history of graphic design.  Topics will range from the history of printing, the beginnings of the profession, major movements and developments to the practice of design.  Also looks at how the history of design and printing apply to today's visual communication.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Design for Corporate Identity and Branding",
+            "number": "ART_GRDN 3442",
+            "description": "Planning, strategy, and design of the visual components necessary to create a corporate identity. Course will focus on how cohesive design programs function across various mediums and engage specific audiences. Payment of expendable materials fees is required. Repeatable to 6 credits.",
+            "prerequisites": "ART_GRDN 3410",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_GRDN 3410"
+            ]
+        },
+        {
+            "name": "Letterpress",
+            "number": "ART_GRDN 3443",
+            "description": "This course is about creating conceptual design solutions using the letterpress printing process.  Projects are very broad, conceptual and highly individual with the opportunity to explore letterpress printing processes using several different presses and printing techniques.  Each project will require a limited edition print run.  Repeatable to 9 hours.",
+            "prerequisites": "Instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graphic Design V",
+            "number": "ART_GRDN 4410",
+            "description": "Directed research, study and critical analysis in graphic design. Emphasis placed on research, writing, problem solving, aesthetic perception, conceptual thinking skills and technical proficiency.  Students will focus on portfolio preparation and are advised to take the course a minimum of two times.  May be repeated to 15 hours maximum. Payment of expendable materials fee is required.",
+            "prerequisites": "ART_GRDN 3420",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_GRDN 3420"
+            ]
+        },
+        {
+            "name": "Problems in Graphic Design",
+            "number": "ART_GRDN 4485",
+            "description": "Problems in Graphic Design.",
+            "prerequisites": "departmental consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Imprint - Design Practicum",
+            "number": "ART_GRDN 4996",
+            "description": "Class operates as professional design studio doing work for university, local and regional clients.  Focus on client/designer relationships, contracts and teamwork.  Students passing with grade in A range will graduate with departmental honors. May be repeated for credit. Admission based on GPA (3.3 in art courses) and portfolio review.  Enrollment limited to students with junior standing or higher.",
+            "prerequisites": "Instructor's consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graduate Graphic Design",
+            "number": "ART_GRDN 7400",
+            "description": "Graduate level work in graphic design.  Emphasis on self-directed research and critical analysis.  Students are encouraged to focus on conceptual development of their design work.  Instruction is tailored to the student's individual investigations.  Repeatable to 15 hours maximum.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Graphic Design",
+            "number": "ART_GRDN 7485",
+            "description": "Graduate level work in graphic design.",
+            "prerequisites": "ART_GRDN 4410 and departmental consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_GRDN 4410"
+            ]
+        },
+        {
+            "name": "Graduate Graphic Design II",
+            "number": "ART_GRDN 8400",
+            "description": "Continuation of ART_GRDN 7400. Repeatable to 15 hours.",
+            "prerequisites": "ART_GRDN 7400 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_GRDN 7400"
+            ]
+        }
+    ]
+}

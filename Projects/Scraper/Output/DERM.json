@@ -1,0 +1,60 @@
+{
+    "department_name": "Dermatology",
+    "department_code": "DERM",
+    "courses": [
+        {
+            "name": "ABS Dermatology Research",
+            "number": "DERM 6233",
+            "description": "ABS Dermatology Research",
+            "prerequisites": "None Listed",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "ABS Dermatology Research and Review",
+            "number": "DERM 6235",
+            "description": "ABS Dermatology Research and Review",
+            "prerequisites": "None Listed",
+            "hours": "5-10",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Dermatology I",
+            "number": "DERM 6450",
+            "description": "The Dermatology rotation is designed to provide the medical student with a broad general base in clinical dermatology for the non-dermatologist. During the rotation the student should: Enhance the visual diagnostic skills and related reasoning used in dermatology; Become familiar with a select list of dermatologic conditions commonly seen and best treated by the non-dermatologist; Gain familiarity with certain dermatologic conditions which require a high index of suspicion by all physicians because of their danger to life or risks to public health; Become familiar with dermatologic treatment regimens for the non-dermatologist and guidelines for appropriate referral of cases; Learn appropriate use of both systemic and topical dermatologic medications; Learn basic punch, shave, and excisional biopsy techniques; Become proficient in skin surveillance, especially early detection of skin cancer.  Students are evaluated using a standard evaluation. The student's knowledge of subject matter is evaluated in the following settings:  informal discussion during clinics, ward rounds, inpatient consultation rounds and scheduled conferences.",
+            "prerequisites": "Internal Medicine Clerkship",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Dermatology I - Rural",
+            "number": "DERM 6750",
+            "description": "The Dermatology rotation is designed to provide the medical student with a broad general base in clinical dermatology for the non-dermatologist. During the rotation the student should:   Enhance the visual diagnostic skills and related reasoning used in dermatology.   Become familiar with a select list of dermatologic conditions commonly seen and best treated by the non-dermatologist.   Gain familiarity with certain dermatologic conditions which require a high index of suspicion by all physicians because of their danger to life or risks to public health.   Become familiar with dermatologic treatment regimens for the non-dermatologist and guidelines for appropriate referral of cases.   Learn appropriate use of both systemic and topical dermatologic medications.   Learn basic punch, shave, and excisional biopsy techniques.   Become proficient in skin surveillance, especially early detection of skin cancer.",
+            "prerequisites": "None Listed",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Dermatology II",
+            "number": "DERM 6856",
+            "description": "This elective rotation is an expansion of the objective goals outlined for Dermatology I. The student is expected to expand the depth and breadth of his/her dermatology experiences and knowledge.  Enhance the visual diagnostic skills and related reasoning used in dermatology.   Become familiar with a select list of dermatologic conditions commonly seen and best treated by the non-dermatologist.   Gain familiarity with certain dermatologic conditions which require a high index of suspicion by all physicians because of their danger to life or risks to public health.   Become familiar with dermatologic treatment regimens for the non-dermatologist and guidelines for appropriate referral of cases.   Learn appropriate use of both systemic and topical dermatologic medications.   Learn basic punch, shave, and excisional biopsy techniques.   Become proficient in skin surveillance, especially early detection of skin cancer.   As Dermatology II is an extension of the Dermatology I curriculum, Dermatology II students are expected to master the above objectives. In addition, they are expected to expand their clinical skills related to the diagnosis and treatment of dermatologic diseases and they will have increased responsibilities for patient education. It is expected that they will further their surgical skills including biopsies, simple excisions, and basic cryotherapy. They will also become proficient in basic laboratory procedures including KOH and scabies prep.",
+            "prerequisites": "None Listed",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Dermatology Elective",
+            "number": "DERM 6910",
+            "description": "The 2 week elective in Dermatology will allow students to participate in a wide breadth of general, pediatric, and surgical dermatology. Students will participate in clinics and in weekly didactic sessions. Students will also complete the American Academy of Dermatology online student modules and the self-evaluation that is provided.",
+            "prerequisites": "Successful completion of the first two years of medical school. Must have completed at least 1 core clinical rotation",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

@@ -1,0 +1,452 @@
+{
+    "department_name": "Latin",
+    "department_code": "LATIN",
+    "courses": [
+        {
+            "name": "Elementary Latin I",
+            "number": "LATIN 1100",
+            "description": "Forms, grammar, syntax.",
+            "prerequisites": "None Listed",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Honors Elementary Latin",
+            "number": "LATIN 1100H",
+            "description": "Beginning Latin for Honors Eligible students.",
+            "prerequisites": "Honors eligibility required",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Elementary Latin II",
+            "number": "LATIN 1200",
+            "description": "Continuation of LATIN 1100.",
+            "prerequisites": "LATIN 1100",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": [
+                "LATIN 1100"
+            ]
+        },
+        {
+            "name": "Honors Elementary Latin II",
+            "number": "LATIN 1200H",
+            "description": "Continuation of LATIN 1100H.",
+            "prerequisites": "LATIN 1100. Honors eligibility required",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": [
+                "LATIN 1100"
+            ]
+        },
+        {
+            "name": "Latin Reading",
+            "number": "LATIN 2000",
+            "description": "Readings in Latin prose and poetry.",
+            "prerequisites": "LATIN 1200",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LATIN 1200"
+            ]
+        },
+        {
+            "name": "Latin Reading - Honors",
+            "number": "LATIN 2000H",
+            "description": "Readings in Latin prose and poetry.",
+            "prerequisites": "LATIN 1200. Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LATIN 1200"
+            ]
+        },
+        {
+            "name": "Latin Poetry",
+            "number": "LATIN 4300",
+            "description": "Readings in selections from the Latin poets.",
+            "prerequisites": "LATIN 2000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LATIN 2000"
+            ]
+        },
+        {
+            "name": "Latin Prose",
+            "number": "LATIN 4350",
+            "description": "Selections from various Latin prose writers; some composition at instructor's discretion.",
+            "prerequisites": "LATIN 2000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LATIN 2000"
+            ]
+        },
+        {
+            "name": "Latin Stylistics",
+            "number": "LATIN 4500",
+            "description": "Study and writing of connected prose compositions.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Recommended: LATIN 4300",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Latin",
+            "number": "LATIN 4505",
+            "description": "Topics course involving Latin texts.  May be repeated for credit.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "LATIN 4300",
+            "connections": [
+                "LATIN 4300"
+            ]
+        },
+        {
+            "name": "Age of the Scipios",
+            "number": "LATIN 4510",
+            "description": "Critical readings in and integrated analyses of the culture of the second century B.C.",
+            "prerequisites": "None Listed",
+            "hours": "3-6Recommended: LATIN 4300",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Age of Cicero",
+            "number": "LATIN 4520",
+            "description": "Critical readings in and integrated analyses of the culture of the last decades of the Roman Republic.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "LATIN 4300",
+            "connections": [
+                "LATIN 4300"
+            ]
+        },
+        {
+            "name": "Vergil",
+            "number": "LATIN 4530",
+            "description": "Readings, discussion, and literary analysis of Vergil Aeneid.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "LATIN 4300",
+            "connections": [
+                "LATIN 4300"
+            ]
+        },
+        {
+            "name": "Augustan Literature",
+            "number": "LATIN 4540",
+            "description": "Critical readings in and integrated analyses of the culture of Augustan Rome.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "LATIN 4300",
+            "connections": [
+                "LATIN 4300"
+            ]
+        },
+        {
+            "name": "Latin Epigraphy",
+            "number": "LATIN 4550",
+            "description": "Introduction to the study of Latin inscriptions and their contributions to ancient culture.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "LATIN 4300",
+            "connections": [
+                "LATIN 4300"
+            ]
+        },
+        {
+            "name": "Neronian Literature",
+            "number": "LATIN 4560",
+            "description": "Critical readings in and integrated analysis of the culture of the age of Nero.",
+            "prerequisites": "None Listed",
+            "hours": "3-6Recommended: LATIN 4300",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Age of Pliny and Tacitus",
+            "number": "LATIN 4570",
+            "description": "Critical readings in and integrated analyses of the ages of Domitian and Trajan.",
+            "prerequisites": "None Listed",
+            "hours": "3-6Recommended: LATIN 4300",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Theodosian Age",
+            "number": "LATIN 4580",
+            "description": "A survey of major literary works of the late fourth and early fifth centuries. Readings from Augustine, Ambrose, Prudentius, Paulinus of Nola, Ammianus Marcellinus, Claudian.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "LATIN 4300",
+            "connections": [
+                "LATIN 4300"
+            ]
+        },
+        {
+            "name": "Medieval Latin",
+            "number": "LATIN 4590",
+            "description": "Selected texts of Middle Ages and Renaissance. For students with primary interest in history, literature, philosophy, religion, Romance philology, or the classical tradition, experience with Latin sources in their field.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "LATIN 4300",
+            "connections": [
+                "LATIN 4300"
+            ]
+        },
+        {
+            "name": "Survey of Latin Literature",
+            "number": "LATIN 4600",
+            "description": "Latin literature from origins to end of Roman Empire; emphasis on authors not covered in other courses, to provide general view of styles and genres.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "LATIN 4300",
+            "connections": [
+                "LATIN 4300"
+            ]
+        },
+        {
+            "name": "Special Readings in Latin",
+            "number": "LATIN 4960",
+            "description": "Readings in authors and texts not covered in other courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-3Recommended: LATIN 4300",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Latin Poetry",
+            "number": "LATIN 7300",
+            "description": "Readings in selections from the Latin poets. Available to students for graduate credit in departments other than Classical Studies.",
+            "prerequisites": "LATIN 2000 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LATIN 2000"
+            ]
+        },
+        {
+            "name": "Latin Prose",
+            "number": "LATIN 7350",
+            "description": "Selections from various Latin prose writers; some composition at instructor's discretion. Available to students for graduate credit in departments other than Classical Studies.",
+            "prerequisites": "LATIN 2000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "LATIN 2000"
+            ]
+        },
+        {
+            "name": "Latin Stylistics",
+            "number": "LATIN 7500",
+            "description": "Study and writing of connected prose compositions.",
+            "prerequisites": "two years classical Latin or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Latin",
+            "number": "LATIN 7505",
+            "description": "Topics in Latin.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Age of the Scipios",
+            "number": "LATIN 7510",
+            "description": "Critical readings in and integrated analyses of the culture of the second century B.C.",
+            "prerequisites": "two years Classical Latin or equivalent",
+            "hours": "3-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Age of Cicero",
+            "number": "LATIN 7520",
+            "description": "Critical readings in and integrated analyses of the culture of the last decades of the Roman Republic.",
+            "prerequisites": "two years Classical Latin or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Vergil",
+            "number": "LATIN 7530",
+            "description": "Readings, discussion, and literary analysis of Vergil's Aeneid.",
+            "prerequisites": "two years of Classical Latin or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Augustan Literature",
+            "number": "LATIN 7540",
+            "description": "Critical readings in and integrated analyses of the culture of Augustan Rome.",
+            "prerequisites": "two years Classical Latin or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Latin Epigraphy",
+            "number": "LATIN 7550",
+            "description": "Introduction to the study of Latin inscriptions and their contributions to ancient culture.",
+            "prerequisites": "two years Classical Latin or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Neronian Literature",
+            "number": "LATIN 7560",
+            "description": "Critical readings in and integrated analysis of culture of the age of Nero.",
+            "prerequisites": "two years Classical Latin or equivalent",
+            "hours": "3-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Age of Pliny and Tacitus",
+            "number": "LATIN 7570",
+            "description": "Critical readings in and integrated analyses of the ages of Domitian and Trajan.",
+            "prerequisites": "two years Classical Latin or equivalent",
+            "hours": "3-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Theodosian Age",
+            "number": "LATIN 7580",
+            "description": "A survey of major literary works of the late fourth and early fifth centuries. Readings from Augustine, Ambrose, Prudentius, Paulinus of Nola, Ammianus Marcellinus, Claudian.",
+            "prerequisites": "two years of Classical Latin or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Medieval Latin",
+            "number": "LATIN 7590",
+            "description": "Selected texts of Middle Ages and Renaissance. For students with primary interest in history, literature, philosophy, religion, Romance philology, or the classical tradition, experience with Latin sources in their field.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Survey of Latin Literature",
+            "number": "LATIN 7600",
+            "description": "Latin literature from origins to end of Roman Empire; emphasis on authors not covered in other courses, to provide general view of styles and genres.",
+            "prerequisites": "two years Classical Latin or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Special Readings in Latin",
+            "number": "LATIN 7960",
+            "description": "Readings in authors and texts not covered in other courses.",
+            "prerequisites": "two years Classical Latin or equivalent",
+            "hours": "2-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Proseminar in Latin Texts",
+            "number": "LATIN 8000",
+            "description": "",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Latin Rough Guide",
+            "number": "LATIN 8010",
+            "description": "Intensive exploration of Latin literature from the Roman Republic through the Late Empire.  Emphasis upon texts as both literary and cultural artifacts whose interpretation requires familiarity with the historical and archaeological legacy of antiquity as well as modern exegetical strategies.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Roman Comedy",
+            "number": "LATIN 9187",
+            "description": "Seminar in Roman Comedy.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Latin Lyric and Elegiac Poetry",
+            "number": "LATIN 9287",
+            "description": "Seminar in Latin Lyric and Elegiac Poetry",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Neronian Literature",
+            "number": "LATIN 9387",
+            "description": "Seminar in Neronian Literature",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Roman Historians",
+            "number": "LATIN 9487",
+            "description": "Seminar in Roman Historians.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Latin Epic Poetry",
+            "number": "LATIN 9587",
+            "description": "Seminar in Latin Epic Poetry.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in the Augustan Age",
+            "number": "LATIN 9687",
+            "description": "Integrated studies in the culture of the age of Augustus--its literature, art and architecture, religion, political and social institutions.",
+            "prerequisites": "None Listed",
+            "hours": "3-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Late Antiquity",
+            "number": "LATIN 9787",
+            "description": "Integrated studies in the culture of late antiquity with interdisciplinary focus.",
+            "prerequisites": "consent required for non graduate students",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in Special Fields",
+            "number": "LATIN 9887",
+            "description": "Seminar in special fields.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

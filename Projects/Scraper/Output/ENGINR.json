@@ -1,0 +1,225 @@
+{
+    "department_name": "Engineering",
+    "department_code": "ENGINR",
+    "courses": [
+        {
+            "name": "Introduction to Engineering",
+            "number": "ENGINR 1000",
+            "description": "This course will help students identify a field of engineering that they will pursue during the remainder of their studies at MU.  This objective will be achieved by exposing students to the history of our engineering disciplines, and by giving an overview of the individual departments within the college of engineering.  Guest lecturers from industry will make presentations on what it's like to be an engineer.  Other lectures will be given to help acclimate students to university life.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Experimental Course",
+            "number": "ENGINR 1001",
+            "description": "For freshman-level students. Content and number of credit of hours to be listed in Schedule of Courses.",
+            "prerequisites": "None Listed",
+            "hours": "3-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Engineering Graphics Fundamentals",
+            "number": "ENGINR 1100",
+            "description": "Introduction to computer-aided design and drafting. Topics include visualization methods and standards techniques for communication and presenting engineering design graphics information.",
+            "prerequisites": "Restricted to Engineering Students only, or by departmental consent",
+            "hours": "2PrerequisitesorCorequisites:MATH 1500",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Solid Modeling for Engineering Design",
+            "number": "ENGINR 1110",
+            "description": "Introduction to 3D (three dimensional) modeling techniques using computer aided design software. Topics include model creation techniques and advanced graphical presentation practices.  Graded on A-F basis only.",
+            "prerequisites": "ENGINR 1100 or instructor's consent.  Restricted to Engineering Students Only or by departmental consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1100"
+            ]
+        },
+        {
+            "name": "Statics and Elementary Strength of Materials",
+            "number": "ENGINR 1200",
+            "description": "Fundamentals of statics; static equilibrium and introduction to elements of mechanics of elastic materials.",
+            "prerequisites": "MATH 1500",
+            "hours": "3PrerequisitesorCorequisites:PHYSCS 2750.RestrictedtoEngineeringStudentsonlyorwithdepartmentalconsent",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1500"
+            ]
+        },
+        {
+            "name": "Experimental Course",
+            "number": "ENGINR 2001",
+            "description": "For sophomore-level students. Content and number of credit hours to be listed in Schedule of Courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Experimental Course - Writing Intensive",
+            "number": "ENGINR 2001W",
+            "description": "For sophomore-level students. Content and number of credit hours to be listed in Schedule of Courses.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Women in Engineering Leadership",
+            "number": "ENGINR 2010",
+            "description": "This is a course focused on women in leadership, leadership development and leadership in engineering. Through experiential learning, empowering examples, group discussion, written reflections, attendance at three conferences, one retreat and completion of two short papers and one major project, you will develop the self-knowledge and skills to practice leadership for a changing world, explore your own potential for leadership, explore the context for the practice of leadership and learn to make a difference through leadership. Beginning in August and working through May, you will work individually and in teams to produce a final project that shows how your own skills and knowledge about leadership can you help you use your passion and engineering degree to impact the world around you.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "First Year Students (transfers, first time college, etc)",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Circuit Theory for Engineers",
+            "number": "ENGINR 2100",
+            "description": "DC circuit analysis, inductors and capacitors, first-order response, AC circuit analysis, single-phase AC power and three-phase, transformers.",
+            "prerequisites": "MATH 1700.  For Non-Electrical and Computer Engineering  Majors.  Restricted to Engineering Students only or with departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1700"
+            ]
+        },
+        {
+            "name": "Circuit Theory for Engineers - Honors",
+            "number": "ENGINR 2100H",
+            "description": "DC circuit analysis, inductors and capacitors, first order response, AC circuit analysis, single-phase AC power.",
+            "prerequisites": "MATH 1700.  Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MATH 1700"
+            ]
+        },
+        {
+            "name": "Intermediate Strength of Materials",
+            "number": "ENGINR 2200",
+            "description": "Elements of mechanics of elastic materials.",
+            "prerequisites": "ENGINR 1200.  Restricted to Engineering Students only or with departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGINR 1200"
+            ]
+        },
+        {
+            "name": "Engineering Thermodynamics",
+            "number": "ENGINR 2300",
+            "description": "(same as MAE 2300). Fluid properties, work and heat, first law, second law, entropy, applications to vapor and ideal gas processes.",
+            "prerequisites": "PHYSCS 2750.  Restricted to Engineering Students Only or departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "PHYSCS 2750"
+            ]
+        },
+        {
+            "name": "A History of Modern Engineering",
+            "number": "ENGINR 2500",
+            "description": "This course will introduce the student to significant engineering events that have shaped the late modern-area from the French Revolution to the end of World War II (1789-1945). Radical inventions and their dates will be used as historical landmarks throughout the course. Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "A History of Modern Engineering - Honors",
+            "number": "ENGINR 2500H",
+            "description": "This course will introduce the student to significant engineering events that have shaped the late modern-area from the French Revolution to the end of the World War II (1789-1945).  Radical inventions and their dates will be used as historical landmarks throughout the course.  Graded on A-F basis only.",
+            "prerequisites": "Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "History of Human Spaceflight - Honors",
+            "number": "ENGINR 2600H",
+            "description": "This course will provide an overview of the history of human spaceflight, including early efforts up through the present for the three countries that have flown humans in space (U.S., Russian, and China).  Special topics will include a discussion of the major space accidents.  Finally, the future of human space exploration will be discussed.  May be repeated for credit.  Graded on A-F basis only.  ",
+            "prerequisites": " Honors eligibility required",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "History of Human Spaceflight - Honors/ Writing Intensive",
+            "number": "ENGINR 2600HW",
+            "description": "This course will provide an overview of the history of human spaceflight, including early efforts up through the present for the three countries that have flown humans in space (U.S., Russian, and China).  Special topics will include a discussion of the major space accidents.  Finally, the future of human space exploration will be discussed.  May be repeated for credit.  Graded on A-F basis only.  ",
+            "prerequisites": " Honors eligibility required",
+            "hours": ": 3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Short Term Education Abroad",
+            "number": "ENGINR 3000",
+            "description": "Introduction to history and culture of country and/or cities in specified country.  Students will make engineering profession and corporate site visits.  Lecture activities will focus on industry and society, with country and/or cities compared and contrasted to U.S. engineering.  Graded A-F only.",
+            "prerequisites": "Instructor's consent required.  Students must be in Academic Good Standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Short Term Education Abroad - Honors",
+            "number": "ENGINR 3000H",
+            "description": "Introduction to history and culture of country and/or cities in specified country.  Students will make engineering profession and corporate site visits.  Lecture activities will focus on industry and society, with country and/or cities compared and contrasted to U.S. engineering.   Graded A-F only.",
+            "prerequisites": "Instructor's consent required.  Students must be in Academic Good Standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Study Abroad Technical Elective",
+            "number": "ENGINR 4000",
+            "description": "This course is designed to provide students with an international experience while also potentially fulfilling a required engineering technical elective course.  Engineering technical electives are courses that are relevant or related to engineering from a broad range of fields including math and science as will as the various engineering departments.  This course will be used as the umbrella course for all Engineering Technical Elective Study Abroad Opportunities and each course will provide a separate section number.",
+            "prerequisites": "None Listed",
+            "hours": "3-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Engineering",
+            "number": "ENGINR 4085",
+            "description": "Special design, experimental or analytical problems in engineering.  May be repeated to 6 hours.",
+            "prerequisites": "None Listed",
+            "hours": "0-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Multi-disciplinary Senior Engineering Capstone Design",
+            "number": "ENGINR 4890",
+            "description": "Engineering design and prototyping including reliability, testing, evaluation, preparation of documentation, safety, ethics, manufacturing, intellectual property, economic and environmental constraints.  Oral and written reports.  Graded A-F only.",
+            "prerequisites": "Instructor's consent.  Student's department consent also required",
+            "hours": "3",
+            "recommendation": "Senior standing",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Multi-disciplinary Senior Engineering Capstone Design - Writing Intensive",
+            "number": "ENGINR 4890W",
+            "description": "Engineering design and prototyping including reliability, testing, evaluation, preparation of documentation, safety, ethics, manufacturing, intellectual property, economic and environmental constraints.  Oral and written reports.  Graded A-F only.",
+            "prerequisites": "Instructor's consent.  Student's department consent also required",
+            "hours": "3",
+            "recommendation": "Senior standing",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Design and Development of Biomedical Innovations",
+            "number": "ENGINR 8100",
+            "description": "(same as BIOL_EN 8100). This course takes students through the process of brainstorming and working out a solution to a medical need, and then producing a product.  Outputs may include the development of a physical prototype through interactions with the College of Engineering rapid prototype facility.  May be repeated for credit.  Graded on A-F basis only.",
+            "prerequisites": "Must be enrolled in a graduate degree program",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

@@ -1,0 +1,983 @@
+{
+    "department_name": "French",
+    "department_code": "FRENCH",
+    "courses": [
+        {
+            "name": "Elementary French I",
+            "number": "FRENCH 1100",
+            "description": "An introductory course for students who wish to begin their study of French.  It teaches the four skills--listening, speaking, reading, and writing.  The class meets four days a week and one day in the lab.  Classtime is used to practice the structures and vocabulary.",
+            "prerequisites": "None Listed",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Elementary French I - Honors",
+            "number": "FRENCH 1100H",
+            "description": "This course designed for Honors students with 2-3 years of high school French focuses on the four skills, speaking, listening, reading and writing, and offers enriched cultural opportunities in and out of the classroom, such as movies, guest lectures, art exhibits, and plays.  Students practice those skills, using authentic materials in real-life situations.  Graded on A-F basis only.",
+            "prerequisites": "2 years high school French; Honors eligibility required",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Elementary French II",
+            "number": "FRENCH 1200",
+            "description": "The second course of the beginning language sequence is the continuation of FRENCH 1100.  It places equal emphasis on the four skills; listening, speaking, reading, and writing. Students who have prior knowledge of French are encouraged to take this course. NO credit for both FRENCH 1200 and FRENCH 1250.",
+            "prerequisites": "grade of C or better in FRENCH 1100 or equivalent",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 1100"
+            ]
+        },
+        {
+            "name": "Accelerated Beginning French",
+            "number": "FRENCH 1250",
+            "description": "Course is designed for students who have taken more than two years of High School French.  It offers a reinforcement of the beginning concepts of the French language and the many cultures it encompasses.  Course allows students to further develop all language skills.  NO credit for both FRENCH 1200 and FRENCH 1250.",
+            "prerequisites": "None Listed",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Undergraduate Topics in French-General",
+            "number": "FRENCH 2001",
+            "description": "Organized study of selected topics. Subjects may vary from semester to semester. May be repeated with consent of department.",
+            "prerequisites": "FRENCH 1200 with a grade of C or better",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 1200"
+            ]
+        },
+        {
+            "name": "Undergraduate Topics in French-Social Science",
+            "number": "FRENCH 2004",
+            "description": "Organized study of selected topics. Subjects may vary from semester to semester. May be repeated with departmental consent.",
+            "prerequisites": "FRENCH 1200 with a grade of C or better",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 1200"
+            ]
+        },
+        {
+            "name": "Undergraduate Topics in French-Humanities/Fine Arts",
+            "number": "FRENCH 2005",
+            "description": "Organized study of selected topics. Subjects may vary from semester to semester. May be repeated with departmental consent.",
+            "prerequisites": "FRENCH 1200 with a grade of C or better",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 1200"
+            ]
+        },
+        {
+            "name": "Undergraduate Topics in French-Humanities/Fine Arts - Honors",
+            "number": "FRENCH 2005H",
+            "description": "Organized study of selected topics. Subjects may vary from semester to semester. May be repeated with departmental consent.",
+            "prerequisites": "FRENCH 1200 with a grade of C or better. Honors eligibility required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 1200"
+            ]
+        },
+        {
+            "name": "Elementary French III",
+            "number": "FRENCH 2100",
+            "description": "A multi-skill course following FRENCH 1200, centering on cultural/literary reading, and including a grammar review, practice of the spoken language, as well as some practice in written expression.",
+            "prerequisites": "grade of C or better in FRENCH 1200 or FRENCH 1250, or their equivalent courses",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 1200",
+                "FRENCH 1250"
+            ]
+        },
+        {
+            "name": "Elementary French III - Honors",
+            "number": "FRENCH 2100H",
+            "description": "A multi-skill course following FRENCH 1200, centering on cultural/ literary reading, and including a grammar review, practice of the spoken language, as well as some practice in written expression.",
+            "prerequisites": "grade of C or better in FRENCH 1200 or FRENCH 1250, or their equivalent courses. Honors eligibility required",
+            "hours": "4",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 1200",
+                "FRENCH 1250"
+            ]
+        },
+        {
+            "name": "Intermediate French Composition and Conversation",
+            "number": "FRENCH 2160",
+            "description": "A course designed to develop the ability to speak, read, and write in French via the reading of French short stories and/or a short novel. Grammar review.",
+            "prerequisites": "FRENCH 2100",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 2100"
+            ]
+        },
+        {
+            "name": "French Civilization",
+            "number": "FRENCH 2310",
+            "description": "Open to any student interested. No knowledge of French required. May not be included in area of concentration in French.",
+            "prerequisites": "sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "French Civilization - Writing Intensive",
+            "number": "FRENCH 2310W",
+            "description": "Open to any student interested. No knowledge of French required. May not be included in area of concentration in French.",
+            "prerequisites": "sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "French Literature and Thought in English Translation I",
+            "number": "FRENCH 2320",
+            "description": "This course examines how the masterworks of French literature, from the Middle Ages to the eighteenth century, have influenced Western literary, cultural and philosophical traditions.",
+            "prerequisites": "sophomore standing or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "French Literature in Translation II",
+            "number": "FRENCH 2330",
+            "description": "This course examines how the masterworks of French literature of the nineteenth and twentieth centuries have influenced Western literary, cultural and philosophical traditions.",
+            "prerequisites": "sophomore standing or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "New World Francophone Literature in Translation",
+            "number": "FRENCH 2350",
+            "description": "A survey of literature written by Caribbean writers of French expression. Writers include M. Conde, P. Chamoiseau, A. Cesaire, E. Glissant, S. Bart-Schwartz, R. Depestre and G. Etienne.",
+            "prerequisites": "ENGLSH 1000",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ENGLSH 1000"
+            ]
+        },
+        {
+            "name": "French Women Writers (in translation)",
+            "number": "FRENCH 2370",
+            "description": "Survey of texts and contributions of French women writers from the medieval period to the 20th century.",
+            "prerequisites": "sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in French-General",
+            "number": "FRENCH 3001",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
+            "prerequisites": "sophomore standing, departmental consent for repetition",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in French-Social Science",
+            "number": "FRENCH 3004",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
+            "prerequisites": "sophomore standing, departmental consent for repetition",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in French-Humanities/Fine Arts",
+            "number": "FRENCH 3005",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Departmental consent for repetition. ",
+            "prerequisites": " sophomore standing",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in French-Humanities/Fine Arts - Honors",
+            "number": "FRENCH 3005H",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
+            "prerequisites": "sophomore standing, departmental consent for repetition.  Honors eligibility required",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced French Composition and Conversation I",
+            "number": "FRENCH 3160",
+            "description": "Development of more sophisticated skills of written and oral expression.",
+            "prerequisites": "FRENCH 2160 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 2160"
+            ]
+        },
+        {
+            "name": "Les Fondations de la Civilisation Francaise",
+            "number": "FRENCH 3180",
+            "description": "Overview of French civilization from its origins to French Revolution.  Studies will examine key cultural objects from art, literature, and popular culture as well as political and historical movements that have shaped development of French civilization.  Ideal for students interested in engaging with issues, debates, and problems that helped to define the nascent French state.",
+            "prerequisites": "FRENCH 2160",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 2160"
+            ]
+        },
+        {
+            "name": "Commercial French",
+            "number": "FRENCH 3280",
+            "description": "Composition and Conversation course based on materials related to the French business world. Acquisition of business-related vocabulary. Introduction to French business operations and correspondence.",
+            "prerequisites": "FRENCH 2160 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 2160"
+            ]
+        },
+        {
+            "name": "Introduction to Literary Analysis",
+            "number": "FRENCH 3410",
+            "description": "Will acquaint students with vocabulary required for analysis of literary texts. Along with the traditional French method of poetry explication, students will learn to analyze the major literary genres (poetry, theatre, prose).",
+            "prerequisites": "FRENCH 3160",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3160"
+            ]
+        },
+        {
+            "name": "Introduction to French Literature I",
+            "number": "FRENCH 3420",
+            "description": "Study of selected masterpieces of French literature from the Middle Ages through the 18th century.",
+            "prerequisites": "FRENCH 3160",
+            "hours": "3",
+            "recommendation": "FRENCH 3410",
+            "connections": [
+                "FRENCH 3160",
+                "FRENCH 3410"
+            ]
+        },
+        {
+            "name": "Introduction to French Literature I - Writing Intensive",
+            "number": "FRENCH 3420W",
+            "description": "Study of selected masterpieces of French literature from the Middle Ages through the 18th century.",
+            "prerequisites": "FRENCH 3160",
+            "hours": "3",
+            "recommendation": "FRENCH 3410",
+            "connections": [
+                "FRENCH 3160",
+                "FRENCH 3410"
+            ]
+        },
+        {
+            "name": "Introduction to French Literature II",
+            "number": "FRENCH 3430",
+            "description": "Study of selected masterpieces of French literature of the 19th and 20th centuries.",
+            "prerequisites": "FRENCH 3160",
+            "hours": "3",
+            "recommendation": "FRENCH 3410",
+            "connections": [
+                "FRENCH 3160",
+                "FRENCH 3410"
+            ]
+        },
+        {
+            "name": "Introduction to French Literature II - Writing Intensive",
+            "number": "FRENCH 3430W",
+            "description": "Study of selected masterpieces of French literature of the 19th and 20th centuries.",
+            "prerequisites": "FRENCH 3160",
+            "hours": "3",
+            "recommendation": "FRENCH 3410",
+            "connections": [
+                "FRENCH 3160",
+                "FRENCH 3410"
+            ]
+        },
+        {
+            "name": "Francophone Literature of North America",
+            "number": "FRENCH 3440",
+            "description": "A survey course of Francophone literature of New France, Louisiana territory and the French West Indies from its beginnings in the seventeenth century to the late twentieth century.  Selected novels, poems and plays will be studied in their historical and social context.",
+            "prerequisites": "FRENCH 2160",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 2160"
+            ]
+        },
+        {
+            "name": "Survey of Minority and Creole Languages of the U.S. and the Caribbean",
+            "number": "FRENCH 3710",
+            "description": "(same as SPAN 3710 and LINGST 3710). Analysis of the state of the minority languages of the U.S. and the Creole languages of the Caribbean with particular attention to the social status of these languages and speakers' attitudes toward them in the context of ethnic, cultural and national identity (taught in English).",
+            "prerequisites": "sophomore standing",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in French-Social Science",
+            "number": "FRENCH 4004",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester.",
+            "prerequisites": "junior standing, departmental consent for repetition",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Intensive Beginning French",
+            "number": "FRENCH 4070",
+            "description": "Rapid acquisition of a reading knowledge of French. Cannot be taken to fulfill undergraduate language requirement.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Foreign Language Teaching Methodology",
+            "number": "FRENCH 4120",
+            "description": "(same as SPAN 4120). Theory and techniques of current foreign language methodology and their application in the classroom. Presentation of instructional projects, classroom observations, and strategies for classroom management. May not be used toward Arts and Science major.",
+            "prerequisites": "departmental consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Stylistics",
+            "number": "FRENCH 4130",
+            "description": "A technical study of French as a means of communication and of self-expression, involving levels of meaning, rhetorical structure, and textual analysis.",
+            "prerequisites": "FRENCH 3160 or FRENCH 3280",
+            "hours": "3",
+            "recommendation": "FRENCH 3420, FRENCH 3430 or FRENCH 3410",
+            "connections": [
+                "FRENCH 3160",
+                "FRENCH 3280",
+                "FRENCH 3420",
+                "FRENCH 3430",
+                "FRENCH 3410"
+            ]
+        },
+        {
+            "name": "Stylistics - Writing Intensive",
+            "number": "FRENCH 4130W",
+            "description": "A technical study of French as a means of communication and of self-expression, involving levels of meaning, rhetorical structure, and textual analysis.",
+            "prerequisites": "FRENCH 3160 or FRENCH 3280",
+            "hours": "3",
+            "recommendation": "FRENCH 3420, FRENCH 3430 or FRENCH 3410",
+            "connections": [
+                "FRENCH 3160",
+                "FRENCH 3280",
+                "FRENCH 3420",
+                "FRENCH 3430",
+                "FRENCH 3410"
+            ]
+        },
+        {
+            "name": "French Medieval Literature",
+            "number": "FRENCH 4410",
+            "description": "Survey of representative works from the principal literary genres of the Middle Ages:  epic (La Chanson de Roland), courtly romance (Chretien de Troyes), chantefable (Aucassin et Nicolette), short story (lai, fabliau), theatre, and lyric poetry.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "French Renaissance",
+            "number": "FRENCH 4420",
+            "description": "Survey of prose and poetry of the sixteenth century with significant emphasis on Montaigne, Rabelais, and the poetry of the Pleiade.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Seventeenth-Century French Literature",
+            "number": "FRENCH 4430",
+            "description": "(cross-leveled with FRENCH 7430). Survey of major writers of the seventeenth century.  The principal currents of the century as well as the Baroque and the classical movements are discussed.  Authors include Corneille, Moliere, Racine, Descartes, Pascal, La Bruyere, La Rochefoulcauld, and Madame de Lafayette.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Eighteenth-Century French Literature",
+            "number": "FRENCH 4440",
+            "description": "(cross-leveled with FRENCH 7440). Through systematic and representative readings, this course familiarizes students with the literary trends and intellectual currents of 18th century France.  The course includes works by Montesquieu, Voltaire, Rousseau, Laclos, Diderot, Marivaux, Prevost, and Beaumarchais.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Nineteenth-Century French Literature",
+            "number": "FRENCH 4450",
+            "description": "(cross-leveled with FRENCH 7450). Selected readings from poetry and theatre with an emphasis on the various manifestations of Romanticism throughout the century.  Works by Lamartine, Hugo, Vigny, Musset, Gautier, Nerval, Baudelaire, Verlaine, and Mallarme are included.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Twentieth-Century French Novel",
+            "number": "FRENCH 4460",
+            "description": "(cross-leveled with FRENCH 7460). The course is a historical survey that deals with three topics: the modernist writings of the early twentieth century. (Proust, Gide, and Colette), existentialism of the mid-century (Sartre, Camus), and contemporary forms of writing (Beckett, Robbe-Grillet, Sarraute, among others).",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Introduction to the Contemporary French Theatre",
+            "number": "FRENCH 4470",
+            "description": "Survey of twentieth-century French drama.  Students read plays by Claudel, Giraudoux, Sartre, Anouilh, Beckett, Ionesco, Genet, and others.  Strong emphasis is played on class discussions.  Written analyses of two plays are assigned, and there is an hourly exam and a final.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Introduction to Modern French Poetry",
+            "number": "FRENCH 4480",
+            "description": "Introduction to major currents of French poetry from beginning of the 19th century to the present. Students will write explications of poems, present oral analyses and will be tested on poetic terms and poetic content/styles of various poems and poets.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Nineteenth-Century French Novel",
+            "number": "FRENCH 4490",
+            "description": "(cross-leveled with FRENCH 7490). Study of the three major currents in prose fiction: romanticism, realism, and naturalism.  Representative readings from Chateaubriand, Balzac, Stendhal, Flaubert, and Zola are included.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "African Francophone Literature",
+            "number": "FRENCH 4510",
+            "description": "Course introduces contemporary African Literature to students via readings and detailed analysis of literary texts by Francophone African writers.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "History of the French Language",
+            "number": "FRENCH 4710",
+            "description": "(same as LINGST 4710). Study of the French language from its Latin origin to the present.  The course includes a survey of the external social, political, and historical factors that have affected the development of French, followed by a diachronic study of the internal structural features of the language.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Structure of Modern French",
+            "number": "FRENCH 4720",
+            "description": "(same as LINGST 4720). An introductory presentation of the phonological and syntactic systems of contemporary standard French.",
+            "prerequisites": "FRENCH 3160 or equivalent or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3160"
+            ]
+        },
+        {
+            "name": "Blogging the World: The Web in Cultural Context",
+            "number": "FRENCH 4820",
+            "description": "(same as GERMAN 4820 and RUSS 4820). Innovative interdisciplinary course addresses issues of access to international news and specific cultural context working in cross-disciplinary teams. Students in journalism, foreign language, international studies, political science and various other disciplines track cultural developments and information on non-US Web sites, blogs and digital social networks along with exploring various historical forms of communication that preceded the digital era of the Web.  Students analyze the potential and limitations/ effects of blogs and the web in specific contemporary cultural contexts and as part of the broader historical evolution of the web.  The course is taught in English.  The goal of this course is two-fold; students learn the particulars of web blogging, explore various features of the contemporary social network landscape while focusing on the concept of culture, in particular the cultures of Europe and the US.  Questions asked are: what is culture? What is common or popular right now in other cultures? And how do new social networks amplify or alter certain features or culture across national and international contests?",
+            "prerequisites": "sophomore standing required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Blogging the World: The Web in Cultural Context - Writing Intensive",
+            "number": "FRENCH 4820W",
+            "description": "(same as GERMAN 4820 and RUSS 4820). Innovative interdisciplinary course addresses issues of access to international news and specific cultural context working in cross-disciplinary teams. Students in journalism, foreign language, international studies, political science and various other disciplines track cultural developments and information on non-US Web sites, blogs and digital social networks along with exploring various historical forms of communication that preceded the digital era of the Web.  Students analyze the potential and limitations/ effects of blogs and the web in specific contemporary cultural contexts and as part of the broader historical evolution of the web.  The course is taught in English.  The goal of this course is two-fold; students learn the particulars of web blogging, explore various features of the contemporary social network landscape while focusing on the concept of culture, in particular the cultures of Europe and the US.  Questions asked are: what is culture? What is common or popular right now in other cultures? And how do new social networks amplify or alter certain features or culture across national and international contests?",
+            "prerequisites": "sophomore standing required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Special Readings in French",
+            "number": "FRENCH 4960",
+            "description": "Independent study through readings, conferences, reports.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430 and departmental consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Special Themes in French",
+            "number": "FRENCH 4980",
+            "description": "Subject varies according to instructor.  May be repeated for credit.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Special Themes in French - Honors",
+            "number": "FRENCH 4980H",
+            "description": "Subject varies according to instructor.  May be repeated for credit.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430.  Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "The Capstone Experience in French",
+            "number": "FRENCH 4993",
+            "description": "This course is required of all majors. Topics vary but all courses synthesize and review essential components of the major: speaking, writing, reading in French, and the ability to think critically and analytically.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Capstone Experience in French - Honors",
+            "number": "FRENCH 4993H",
+            "description": "This course is required of all majors. Topics vary but all courses synthesize and review essential components of the major: speaking, writing, reading in French, and the ability to think critically and analytically.",
+            "prerequisites": "Honors eligibility required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Honors Reading in French",
+            "number": "FRENCH 4996",
+            "description": "Directed readings in area of honors thesis.",
+            "prerequisites": "admission to departmental Honors program",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in French-Social Science",
+            "number": "FRENCH 7004",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. Departmental consent for repetition.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced oral French for Teachers",
+            "number": "FRENCH 7110",
+            "description": "Advanced speaking practice primarily for teachers with emphasis on pronunciation, syntactical accuracy and vocabulary expansion. May not be used toward Arts and Science Major. May be repeated for a maximum of 12 hours credit.",
+            "prerequisites": "FRENCH 3160 or equivalent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3160"
+            ]
+        },
+        {
+            "name": "Foreign Language Teaching Methodology",
+            "number": "FRENCH 7120",
+            "description": "(same as SPAN 7120). Theory and techniques of current foreign language methodology and their application in the classroom. Presentation of instructional projects, classroom observations, and strategies for classroom management.  May not be used toward Arts and Science major.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Stylistics",
+            "number": "FRENCH 7130",
+            "description": "A technical study of French as a means of communication and of self-expression, involving levels of meaning, rhetorical structure, and textual analysis.",
+            "prerequisites": "FRENCH 3160 or FRENCH 3280 and FRENCH 3420 or FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3160",
+                "FRENCH 3280",
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "French Medieval Literature",
+            "number": "FRENCH 7410",
+            "description": "",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "French Renaissance",
+            "number": "FRENCH 7420",
+            "description": "",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Seventeenth-Century French Literature",
+            "number": "FRENCH 7430",
+            "description": "(cross-leveled with FRENCH 4430). Survey of major writers of the seventeenth century.  The principal currents of the century as well as the Baroque and the classical movements are discussed.  Authors include Corneille, Moliere, Racine, Descartes, Pascal, La Bruyere, La Rochefoulcauld, and Madame de Lafayette.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Eighteenth-Century French Literature",
+            "number": "FRENCH 7440",
+            "description": "(cross-leveled with FRENCH 4440). Through systematic and representative readings, this course familiarizes students with the literary trends and intellectual currents of 18th century France.  The course includes works by Montesquieu, Voltaire, Rousseau, Laclos, Diderot, Marivaux, Prevost, and Beaumarchais.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Nineteenth-Century French Literature",
+            "number": "FRENCH 7450",
+            "description": "(cross-leveled with FRENCH 4450). Selected readings from poetry and theatre with an emphasis on the various manifestations of Romanticism throughout the century.  Works by Lamartine, Hugo, Vigny, Musset, Gautier, Nerval, Baudelaire, Verlaine, and Mallarme are included.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Twentieth-Century French Novel",
+            "number": "FRENCH 7460",
+            "description": "(cross-leveled with FRENCH 4460). The course is a historical survey that deals with three topics: the modernist writings of the early twentieth century. (Proust, Gide, and Colette), existentialism of the mid-century (Sartre, Camus), and contemporary forms of writing (Beckett, Robbe-Grillet, Sarraute, among others).",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Introduction to the Contemporary French Theatre",
+            "number": "FRENCH 7470",
+            "description": "",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Introduction to Modern French Poetry",
+            "number": "FRENCH 7480",
+            "description": "Introduction to major currents of French poetry from beginning of the 19th century to the present. Students will write explications of poems, present oral analyses and will be tested on poetic terms and poetic content/styles of various poems and poets.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Nineteenth-Century French Novel",
+            "number": "FRENCH 7490",
+            "description": "(cross-leveled with FRENCH 4490). Study of the three major currents in prose fiction: romanticism, realism, and naturalism.  Representative readings from Chateaubriand, Balzac, Stendhal, Flaubert, and Zola are included.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "African Francophone Literature",
+            "number": "FRENCH 7510",
+            "description": "Course introduces contemporary African Literature to students via readings and detailed analysis of literary texts by Francophone African writers.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "History of the French Language",
+            "number": "FRENCH 7710",
+            "description": "(same as LINGST 7710). Required of M.A. candidates.",
+            "prerequisites": "FRENCH 3420 and FRENCH 3430",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3420",
+                "FRENCH 3430"
+            ]
+        },
+        {
+            "name": "Structure of Modern French",
+            "number": "FRENCH 7720",
+            "description": "(same as LINGST 7720). An introductory presentation of the phonological and syntactic systems of contemporary standard French.",
+            "prerequisites": "FRENCH 3160 or equivalent or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "FRENCH 3160"
+            ]
+        },
+        {
+            "name": "Blogging the World: The Web in Cultural Context",
+            "number": "FRENCH 7820",
+            "description": "(same as RUSS 7820 and GERMAN 7820). Innovative interdisciplinary course addresses issues of access to international news and specific cultural context.  Working in cross-disciplinary teams, students in journalism, foreign language, international studies, political science and various other disciplines track cultural developments and information on non-US Web sites, blogs and digital social networks along with exploring various historical forms of communication that preceded the digital era of the Web.  Students analyze the potential and limitations/effects of blogs and the web in specific contemporary cultural contexts and as part of the broader historical evolution of the web.  The course is taught in English.  The goal of this course is two-fold:  students learn the particulars of web blogging, explore various features of the contemporary social network landscape while focusing on the concepts of culture, in particular the cultures of Europe and the US.  Questions asked are: what is culture?  What is common or popular right now in other cultures? And how do new social networks amplify or alter certain features or culture across national and international contexts?",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Special Readings in French",
+            "number": "FRENCH 7960",
+            "description": "Independent study through readings, conferences, reports.",
+            "prerequisites": "departmental consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Special Themes in French",
+            "number": "FRENCH 7980",
+            "description": "Subject varies according to instructor.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "The Capstone Experience in French",
+            "number": "FRENCH 7993",
+            "description": "This course is required of all majors. Topics vary but all courses synthesize and review essential components of the major: speaking, writing, reading in French, and the ability to think critically and analytically.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Readings in French",
+            "number": "FRENCH 8080",
+            "description": "Independent readings in preparation for MA or MALT comprehensive examination in French.  Graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in French",
+            "number": "FRENCH 8085",
+            "description": "Problems in French.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar in French",
+            "number": "FRENCH 8087",
+            "description": "Subject varies according to instructor.",
+            "prerequisites": "None Listed",
+            "hours": "2-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in French",
+            "number": "FRENCH 8090",
+            "description": "Leads to preparation of MA or MALT thesis.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Bilingualism and Language Contact",
+            "number": "FRENCH 8120",
+            "description": "(same as SPAN 8120 and LINGST 8120). Global analysis of the study of Bilingualism from a combined sociocultural, sociolinguistic and psycholinguistic perspective based on current research and examination of various phenomena of language contact (taught in English).",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Old French",
+            "number": "FRENCH 8411",
+            "description": "Old French.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "FRENCH 4710 or FRENCH 7710 and some knowledge of Latin",
+            "connections": [
+                "FRENCH 4710",
+                "FRENCH 7710"
+            ]
+        },
+        {
+            "name": "Studies in French Medieval Literature",
+            "number": "FRENCH 8412",
+            "description": "Studies in French Medieval Literature.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "FRENCH 4410 or FRENCH 7710",
+            "connections": [
+                "FRENCH 4410",
+                "FRENCH 7710"
+            ]
+        },
+        {
+            "name": "Studies in the French Renaissance",
+            "number": "FRENCH 8416",
+            "description": "Studies in the French Renaissance.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "FRENCH 4420 or FRENCH 7420",
+            "connections": [
+                "FRENCH 4420",
+                "FRENCH 7420"
+            ]
+        },
+        {
+            "name": "Studies in Seventeenth-Century French Literature",
+            "number": "FRENCH 8417",
+            "description": "Studies in Seventeenth-Century French Literature.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "FRENCH 4430 or FRENCH 7430",
+            "connections": [
+                "FRENCH 4430",
+                "FRENCH 7430"
+            ]
+        },
+        {
+            "name": "Studies in Eighteenth-Century French Literature",
+            "number": "FRENCH 8418",
+            "description": "Studies in Eighteenth-Century French Literature.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "FRENCH 4440 or FRENCH 7440",
+            "connections": [
+                "FRENCH 4440",
+                "FRENCH 7440"
+            ]
+        },
+        {
+            "name": "Studies in Nineteenth-Century French Literature",
+            "number": "FRENCH 8419",
+            "description": "Studies in Nineteenth-Century French Literature.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "FRENCH 4450 or FRENCH 7450; or FRENCH 4490 or FRENCH 7490",
+            "connections": [
+                "FRENCH 4450",
+                "FRENCH 7450",
+                "FRENCH 4490",
+                "FRENCH 7490"
+            ]
+        },
+        {
+            "name": "Studies in Twentieth-Century French Literature",
+            "number": "FRENCH 8420",
+            "description": "Studies in Twentieth-Century French Literature.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "FRENCH 4460 or FRENCH 7460, FRENCH 4470 or FRENCH 7470 or FRENCH 4480 or FRENCH 7480",
+            "connections": [
+                "FRENCH 4460",
+                "FRENCH 7460",
+                "FRENCH 4470",
+                "FRENCH 7470",
+                "FRENCH 4480",
+                "FRENCH 7480"
+            ]
+        },
+        {
+            "name": "Readings in French",
+            "number": "FRENCH 9080",
+            "description": "Independent readings in preparation for the PhD comprehensive examination in French.",
+            "prerequisites": "None Listed",
+            "hours": "3-6",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in French",
+            "number": "FRENCH 9090",
+            "description": "Leads to preparation of PhD dissertation in French. Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "department_name": "Art-Photography",
+    "department_code": "ART_PHOT",
+    "courses": [
+        {
+            "name": "Beginning Photography",
+            "number": "ART_PHOT 2600",
+            "description": "Introduction to photography within an art context; digital workflow including use of camera, software, and digital output methods; and a survey of both contemporary and historical topics related to visual and conceptual concerns. Digital camera with RAW capability and manual aperture + shutter controls required. DSLR recommended. Payment of expendable materials fee required.",
+            "prerequisites": "BA/BFA art majors only through early registration",
+            "hours": "3",
+            "recommendation": "ART_GNRL 1030, ART_GNRL 1040, ART_DRAW 1050",
+            "connections": [
+                "ART_DRAW 1050",
+                "ART_GNRL 1030",
+                "ART_GNRL 1040"
+            ]
+        },
+        {
+            "name": "Intermediate Photography",
+            "number": "ART_PHOT 3600",
+            "description": "Continuation of ART_PHOT 2600 with emphasis utilizing acquired technical process to facilitate use of the camera as a means of developing awareness of immediate environment and the capabilities of Photography as a communicative, documentary, and expressive medium. Payment of expendable material fee is required.",
+            "prerequisites": "ART_PHOT 2600",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_PHOT 2600"
+            ]
+        },
+        {
+            "name": "Advanced Photography",
+            "number": "ART_PHOT 4600",
+            "description": "Exploration of aesthetic concepts, development of personal vision, and instruction in advanced technical process including fine B&W printing, negative and positive color, large format, zone system, and portfolios and book design to facilitate critical observation and personal expression through the medium of Photography. Payment of expendable materials fee is required. May repeat to 15 hours maximum.",
+            "prerequisites": "ART_PHOT 2600 and ART_PHOT 3600",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_PHOT 2600",
+                "ART_PHOT 3600"
+            ]
+        },
+        {
+            "name": "Problems in Photography",
+            "number": "ART_PHOT 4685",
+            "description": "Supervised research in creative photography.",
+            "prerequisites": "departmental consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graduate Photography",
+            "number": "ART_PHOT 7600",
+            "description": "Advanced technical study with emphasis on development of the individual student's creative ideas. Payment of expendable materials expense is required.  May repeat to 15 hours maximum.",
+            "prerequisites": "ART_PHOT 3600 and consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_PHOT 3600"
+            ]
+        },
+        {
+            "name": "Problems in Photography",
+            "number": "ART_PHOT 7685",
+            "description": "Supervised research in creative photography.",
+            "prerequisites": "ART_PHOT 4410",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_PHOT 4410"
+            ]
+        },
+        {
+            "name": "Graduate Photography II",
+            "number": "ART_PHOT 8600",
+            "description": "Continuation of ART_PHOT 7600. Repeatable to 15 hours.",
+            "prerequisites": "ART_PHOT 7600 or equivalent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "ART_PHOT 7600"
+            ]
+        }
+    ]
+}

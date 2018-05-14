@@ -1,0 +1,650 @@
+{
+    "department_name": "Music-Music History And Literature",
+    "department_code": "MUS_H_LI",
+    "courses": [
+        {
+            "name": "Introduction to Music in the United States",
+            "number": "MUS_H_LI 1322",
+            "description": "Historical overview of American folk, popular, and fine-art music; emphasis on listening skills.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "History of Western Music I",
+            "number": "MUS_H_LI 2307",
+            "description": "Historical survey of selected European practices up to 1700 following a consideration of the major fine-art traditions of the world.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 1322",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 1322"
+            ]
+        },
+        {
+            "name": "History of Western Music II",
+            "number": "MUS_H_LI 2308",
+            "description": "Historical survey of Western fine-art music from approximately 1700 to the present.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2307",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2307"
+            ]
+        },
+        {
+            "name": "Historical Studies in Art Song",
+            "number": "MUS_H_LI 4311",
+            "description": "Historical survey of works for solo voice and instruments.",
+            "prerequisites": "Grade of C- or better in  MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Art Song - Writing Intensive",
+            "number": "MUS_H_LI 4311W",
+            "description": "Historical survey of works for solo voice and instruments.",
+            "prerequisites": "Grade of C- or better in  MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Choral Music",
+            "number": "MUS_H_LI 4312",
+            "description": "Historical survey of works featuring choral ensembles.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Choral Music - Writing Intensive",
+            "number": "MUS_H_LI 4312W",
+            "description": "Historical survey of works featuring choral ensembles.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Opera",
+            "number": "MUS_H_LI 4313",
+            "description": "(cross-leveled with MUS_H_LI 7313).  Historical survey of opera.",
+            "prerequisites": "Grade of C- or better in  MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Opera - Writing Intensive",
+            "number": "MUS_H_LI 4313W",
+            "description": "Historical survey of opera.",
+            "prerequisites": "Grade of C- or better in  MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Large Ensemble Music",
+            "number": "MUS_H_LI 4314",
+            "description": "Historical survey of works for large instrumental ensembles.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Chamber Music",
+            "number": "MUS_H_LI 4315",
+            "description": "Historical survey of works for small ensembles, instrumental and vocal.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Chamber Music - Writing Intensive",
+            "number": "MUS_H_LI 4315W",
+            "description": "Historical survey of works for small ensembles, instrumental and vocal.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Keyboard Music",
+            "number": "MUS_H_LI 4316",
+            "description": "Historical survey of works for solo keyboard instruments.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Jazz and Popular Music",
+            "number": "MUS_H_LI 4317",
+            "description": "Historical survey of works from the realm of American jazz and popular music.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in Jazz and Popular Music - Writing Intensive",
+            "number": "MUS_H_LI 4317W",
+            "description": "Historical survey of works from the realm of American jazz and popular music.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Studies in World Music",
+            "number": "MUS_H_LI 4318",
+            "description": "Advanced systematic study of musical activities in selected world cultures, with the emphasis on developing listening skills and understanding the role of music in a culture.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2307 and MUS_H_LI 2308",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2307",
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Studies in World Music - Writing Intensive",
+            "number": "MUS_H_LI 4318W",
+            "description": "Advanced systematic study of musical activities in selected world cultures, with the emphasis on developing listening skills and understanding the role of music in a culture.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2307 and MUS_H_LI 2308",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2307",
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in African-American Music",
+            "number": "MUS_H_LI 4320",
+            "description": "(cross-leveled with MUS_H_LI 7320). Exploration of history and current scholarship in African-American music from the eighteenth to twenty-first centuries. Genres include folk music, religious music, blues, ragtime, jazz, musical theater, art music, R&B, funk, soul, disco, house, hip-hop and rap.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and Instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in African-American Music - Writing Intensive",
+            "number": "MUS_H_LI 4320W",
+            "description": "Exploration of history and current scholarship in African-American music from the eighteenth to twenty-first centuries. Genres include folk music, religious music, blues, ragtime, jazz, musical theater, art music, R&B, funk, soul, disco, house, hip-hop and rap.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and Instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Music of the Postmodern Era",
+            "number": "MUS_H_LI 4330",
+            "description": "(cross-leveled with MUS_H_LI 7330). Systematic study of fine-art musical practice from approximately 1945 to the present.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Music of the Middle Ages and the Renaissance",
+            "number": "MUS_H_LI 4335",
+            "description": "Systematic study of European musical practice before 1600.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Music in the Baroque Era",
+            "number": "MUS_H_LI 4336",
+            "description": "Systematic study of European musical practice from approximately 1600 to 1750.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Music of the Classic Era",
+            "number": "MUS_H_LI 4337",
+            "description": "Systematic study of European musical practice from approximately 1750 to 1800.",
+            "prerequisites": "Grade of C- or better in  MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Music of the Classic Era - Writing Intensive",
+            "number": "MUS_H_LI 4337W",
+            "description": "Systematic study of European musical practice from approximately 1750 to 1800.",
+            "prerequisites": "Grade of C- or better in  MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Music of the Romantic Era",
+            "number": "MUS_H_LI 4338",
+            "description": "Systematic study of European musical practice from approximately 1800 to 1900.",
+            "prerequisites": "Grade of C- or better in  MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Music of the Modern Era",
+            "number": "MUS_H_LI 4339",
+            "description": "Systematic study of fine-art musical practice from approximately 1900 to the present.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Focal Composers",
+            "number": "MUS_H_LI 4340",
+            "description": "Systematic study of the works of landmark composers: J.S. Bach, Mozart, Beethoven, Verdi/Wagner, Debussy, or Stravinsky, studied in rotation. Repeatable for up to 6 hours or credit.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Focal Composers - Writing Intensive",
+            "number": "MUS_H_LI 4340W",
+            "description": "Systematic study of the works of landmark composers: J.S. Bach, Mozart, Beethoven, Verdi/Wagner, Debussy, or Stravinsky, studied in rotation. Repeatable for up to 6 hours or credit.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Advanced Studies in American Music",
+            "number": "MUS_H_LI 4341",
+            "description": "(cross-leveled with MUS_H_LI 7341). Systematic study of the diverse streams of musical practice in the United States from the colonial time to the present.",
+            "prerequisites": "Grade of C- or better in  MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Advanced Studies in American Music - Writing Intensive",
+            "number": "MUS_H_LI 4341W",
+            "description": "(cross-leveled with MUS_H_LI 7341). Systematic study of the diverse streams of musical practice in the United States from the colonial time to the present.",
+            "prerequisites": "Grade of C- or better in  MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Contemporary Issues in Musicology",
+            "number": "MUS_H_LI 4342",
+            "description": "Systematic study of single musicological problem of contemporary relevance.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2308 and instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Introduction to Ethnomusicology",
+            "number": "MUS_H_LI 4350",
+            "description": "Study of theories, historical development, research methodologies, and practice of ethnomusicology, in an interdisciplinary approach.  Topics include ethnographic research, oral and literate sources, transcription and analysis, critical analysis, and interpretative techniques.",
+            "prerequisites": "grade of C-or better in MUS_H_LI 2308; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Introduction to Ethnomusicology - Writing Intensive",
+            "number": "MUS_H_LI 4350W",
+            "description": "Study of theories, historical development, research methodologies, and practice of ethnomusicology, in an interdisciplinary approach.  Topics include ethnographic research, oral and literate sources, transcription and analysis, critical analysis, and interpretative techniques.",
+            "prerequisites": "grade of C-or better in MUS_H_LI 2308; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in African Music",
+            "number": "MUS_H_LI 4352",
+            "description": "(same as BL_STU 4352) Ethnomusicological introduction to the music and culture of countries and ethnic groups in Africa.  Traditional and contemporary popular styles are explored, and influences of Islamic invasions, missionary arrivals, colonial conquests, neo-colonial trends, and globalization.",
+            "prerequisites": "grade of C-or better in MUS_H_LI 2308; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Historical Studies in African Music - Writing Intensive",
+            "number": "MUS_H_LI 4352W",
+            "description": "(same as BL_STU 4352) Ethnomusicological introduction to the music and culture of countries and ethnic groups in Africa.  Traditional and contemporary popular styles are explored, and influences of Islamic invasions, missionary arrivals, colonial conquests, neo-colonial trends, and globalization.",
+            "prerequisites": "grade of C-or better in MUS_H_LI 2308; instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "American Musicals",
+            "number": "MUS_H_LI 4376",
+            "description": "(same as THEATR 4720). Historical survey of the development of the 20th-Century American Musical in Theatre and Film.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Honors in Music History I",
+            "number": "MUS_H_LI 4397",
+            "description": "Special readings, directed research for graduation with Honors in music history.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 2307 and MUS_H_LI 2308",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 2307",
+                "MUS_H_LI 2308"
+            ]
+        },
+        {
+            "name": "Honors in Music History II",
+            "number": "MUS_H_LI 4398",
+            "description": "Continuation of MUS_H_LI 4397 leading to Honors thesis in music history.",
+            "prerequisites": "Grade of C- or better in MUS_H_LI 4397",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 4397"
+            ]
+        },
+        {
+            "name": "Graduate History Review",
+            "number": "MUS_H_LI 4399",
+            "description": "Review of history for graduate students. Does not fulfill graduate degree requirements. Graded on S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graduate Review of Music History I",
+            "number": "MUS_H_LI 7307",
+            "description": "Survey of the history of Western music from ca. 600 A.D. to ca. 1750. Special readings; individual projects.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Graduate Review of Music History II",
+            "number": "MUS_H_LI 7308",
+            "description": "Survey of the history of Western music from ca. 1750 to the present. Special readings; individual projects.",
+            "prerequisites": "None Listed",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Historical Studies in Art Song",
+            "number": "MUS_H_LI 7311",
+            "description": "Advanced historical survey of works for solo voice and instruments.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Historical Studies in Choral Music",
+            "number": "MUS_H_LI 7312",
+            "description": "Advanced historical survey of works featuring choral ensembles.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Historical Studies in Opera",
+            "number": "MUS_H_LI 7313",
+            "description": "Advanced historical survey of opera.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Historical Studies in Large Ensemble Music",
+            "number": "MUS_H_LI 7314",
+            "description": "Advanced historical survey of works for large instrumental ensembles.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Historical Studies in Chamber Music",
+            "number": "MUS_H_LI 7315",
+            "description": "Advanced historical survey of works for small ensembles, instrumental and vocal.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Historical Studies in Keyboard Music",
+            "number": "MUS_H_LI 7316",
+            "description": "Advanced historical survey of works for solo keyboard instruments.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Historical Studies in Jazz and Popular Music",
+            "number": "MUS_H_LI 7317",
+            "description": "Advanced historical survey of works from the realm of American jazz and popular music.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Studies in World Music",
+            "number": "MUS_H_LI 7318",
+            "description": "Advanced systematic study of musical activities in selected world cultures, with emphasis on developing listening skills and understanding the role of music in a culture.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Historical Studies in African-American Music",
+            "number": "MUS_H_LI 7320",
+            "description": "Exploration of history and current scholarship in African-American music from the eighteenth to the twenty-first centuries. Genres include folk music, religious music, blues, ragtime, jazz, musical theater, art music, R&B, funk, soul, disco, house, hip-hop and rap.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Music of the PostModern Era",
+            "number": "MUS_H_LI 7330",
+            "description": "(cross-leveled with MUS_H_LI 4330). Systematic study of fine-art musical practice from approximately 1945 to the present.",
+            "prerequisites": "Instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Music of the Middle Ages and the Renaissance",
+            "number": "MUS_H_LI 7335",
+            "description": "Advanced systematic study of European musical practice before 1600.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Music in the Baroque Era",
+            "number": "MUS_H_LI 7336",
+            "description": "Advanced systematic study of European musical practice from approximately 1600 to 1750.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Music of the Classic Era",
+            "number": "MUS_H_LI 7337",
+            "description": "Advanced systematic study of European musical practice from approximately 1750 to 1800.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Music of the Romantic Era",
+            "number": "MUS_H_LI 7338",
+            "description": "Advanced systematic study of European musical practice from approximately 1800 to 1900.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Music of the Modern Era",
+            "number": "MUS_H_LI 7339",
+            "description": "Advanced systematic study of fine-art musical practice from approximately 1900 to the present.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Advanced Studies in American Music",
+            "number": "MUS_H_LI 7341",
+            "description": "(cross-leveled with MUS_H_LI 4341). Advanced systematic study of the diverse streams of musical practice in the United States from the colonial time to the present.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Contemporary Issues in Musicology",
+            "number": "MUS_H_LI 7342",
+            "description": "Advanced systematic study of single musicological problem of contemporary relevance.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Ethnomusicology",
+            "number": "MUS_H_LI 7350",
+            "description": "Study of theories, historical development, research methodologies, and practice of ethnomusicology, in an interdisciplinary approach. Topics include ethnographic research, oral and literate sources, transcription and analysis, critical analysis, and interpretative techniques.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Historical Studies in African Music",
+            "number": "MUS_H_LI 7352",
+            "description": "Ethnomusicological introduction to the music and culture of countries and ethnic groups in Africa.  Traditional and contemporary popular styles are explored, and influences of Islamic invasions, missionary arrivals, colonial conquests, neo-colonial trends,and globalization.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Graduate Study",
+            "number": "MUS_H_LI 8313",
+            "description": "Introduction to library procedures, basic sources of information in music and techniques for research.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Graduate Studies in Music II",
+            "number": "MUS_H_LI 8314",
+            "description": "The application of basic music bibliography, research techniques, and conventions of music scholarship.",
+            "prerequisites": "MUS_H_LI 8313 or instructor's consent",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": [
+                "MUS_H_LI 8313"
+            ]
+        },
+        {
+            "name": "Focal Composers",
+            "number": "MUS_H_LI 8340",
+            "description": "Advanced systematic study of the works of landmark composers: J.S. Bach, Mozart, Beethoven, Verdi/Wagner, Debussy, or Stravinsky, studied in rotation. Repeatable for up to 6 hours or credit.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}

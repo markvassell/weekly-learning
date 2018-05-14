@@ -1,0 +1,633 @@
+{
+    "department_name": "Communication Science And Disorders",
+    "department_code": "C_S_D",
+    "courses": [
+        {
+            "name": "Introduction to Communication Science and Disorders",
+            "number": "C_S_D 1000",
+            "description": "Nature of communication and its development; types of speech, language and hearing disorders; professional preparation, settings, and work of speech-language pathologists and audiologists. Course graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Signed English",
+            "number": "C_S_D 1050",
+            "description": "Introduction to the English-based sign system, Signed English, a system that has been developed to bridge the gap between English and American Sign Language.  Graded on A-F basis only.",
+            "prerequisites": "Restricted to Communication, Science and Disorder majors only during Early Registration",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Human Language",
+            "number": "C_S_D 1060",
+            "description": "(same as ANTHRO 1060, LINGST 1060 and ENGLSH 1060). General introduction to various aspects of linguistic study. Elementary analysis of language data with some attention to application of linguistic study to other disciplines.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "American Sign Language I",
+            "number": "C_S_D 1100",
+            "description": "Introduction to American Sign Language (ASL). Development of basic expressive and receptive skills in ASL, the manual alphabet, numbers, and signed vocabulary. Includes an overview of ASL syntax and grammar. Course graded on A-F basis only.",
+            "prerequisites": "None Listed",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "American Sign Language II",
+            "number": "C_S_D 1200",
+            "description": "This course is designed to increase students' understanding of American Sign Language. Students will increase their sign vocabulary, expressive and receptive skills, an understanding of ASL syntax and grammar.  Graded on A-F basis only.",
+            "prerequisites": "C_S_D 1100 or equivalent",
+            "hours": "5",
+            "recommendation": "None Listed",
+            "connections": [
+                "C_S_D 1100"
+            ]
+        },
+        {
+            "name": "Survey of Communication Disorders",
+            "number": "C_S_D 2120",
+            "description": "Systematic survey of the disorders of speech, language and hearing.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "American Sign Language III",
+            "number": "C_S_D 2150",
+            "description": "This course expands on vocabulary and signing skills developed in ASL II. Includes review of ASL grammar and extensive discussions of ASL linguistic structure and Deaf culture. Class is conducted entirely in ASL. Course graded on A-F basis only.",
+            "prerequisites": "C_S_D 1200 with minimum grade of C or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "C_S_D 1200"
+            ]
+        },
+        {
+            "name": "American Phonetics",
+            "number": "C_S_D 3010",
+            "description": "(same as LINGST 3010). Analysis of production and acoustics of the sounds of speech with an emphasis on American English; practice in broad and narrow transcription using the International Phonetic Alphabet.",
+            "prerequisites": "Restricted to Communication Science and Disorders majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Normal Language Development",
+            "number": "C_S_D 3020",
+            "description": "Language development in children and changes in language processing during normal aging. Cognition and language; language learning processes; language sample analysis; relationship between spoken and written language.",
+            "prerequisites": "Communication Science and Disorders majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Normal Language Development - Writing Intensive",
+            "number": "C_S_D 3020W",
+            "description": "Language development in children and changes in language processing during normal aging. Cognition and language; language learning processes; language sample analysis; relationship between spoken and written language.",
+            "prerequisites": "Communication Science and Disorders majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Anatomy and Physiology of the Speech Mechanism",
+            "number": "C_S_D 3210",
+            "description": "(same as LINGST 3210). Introduction to anatomical and functional aspects of the speech mechanism.",
+            "prerequisites": "Communication Science and Disorders majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Speech Acoustics",
+            "number": "C_S_D 3220",
+            "description": "(same as LINGST 3220).  An introduction to the acoustic aspects of speech as they relate to the respiratory, phonatory, resonatory, and articulatory systems.",
+            "prerequisites": "Communication Science and Disorders majors only or instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Hearing Science",
+            "number": "C_S_D 3230",
+            "description": "Introduction to the nature of sound and its measurement; anatomy and physiology of the auditory and vestibular systems; psychoacoustic methods and phenomena.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Communication Science and Disorders",
+            "number": "C_S_D 4001",
+            "description": "Organized study of selected topics. Subjects and earnable credit may vary from semester to semester. May be repeated with program consent.",
+            "prerequisites": "junior standing and instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Language Disorders in Children",
+            "number": "C_S_D 4020",
+            "description": "Overview of language disorders from early childhood through adolescence. Includes language disorders as primary disability and as secondary to other disabilities. Introduction to assessment and intervention.",
+            "prerequisites": "Communication Science and Disorders majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Language Disorders in Children - Writing Intensive",
+            "number": "C_S_D 4020W",
+            "description": "Overview of language disorders from early childhood through adolescence. Includes language disorders as primary disability and as secondary to other disabilities. Introduction to assessment and intervention.",
+            "prerequisites": "Communication Science and Disorder majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Language Disorders of Adults",
+            "number": "C_S_D 4030",
+            "description": "Introduction to acquired adult language disorders.  Review of neuroanatomy/physiology, etiology and symptomatology, with introduction to assessment and treatment procedures.",
+            "prerequisites": "Communication Science and Disorders majors only",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Applications of Sign Language",
+            "number": "C_S_D 4050",
+            "description": "(cross-leveled with C_S_D 7050). This course covers research, theory, and methods of using sign language to assist the communication of the Deaf, individuals with disabilities, and hearing learners. Use of sign language to improve literacy and classroom management will also be targeted. Graded on A-F basis only.",
+            "prerequisites": "Instructor's consent required",
+            "hours": "3",
+            "recommendation": "C_S_D 1050 or C_S_D 1100 or equivalent",
+            "connections": [
+                "C_S_D 1050",
+                "C_S_D 1100"
+            ]
+        },
+        {
+            "name": "Fluency Disorders",
+            "number": "C_S_D 4210",
+            "description": "Introduction to the nature, assessment, and treatment of fluency disorders.  Emphasis on developmental stuttering.",
+            "prerequisites": "Communication Science and Disorders majors only",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Voice Disorders",
+            "number": "C_S_D 4220",
+            "description": "Introduction to voice disorders in children and adults. Includes overview of perceptual and instrumental assessment procedures and selected treatment approaches.",
+            "prerequisites": "Communication Science and Disorders majors only",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Disorders of Phonology and Articulation",
+            "number": "C_S_D 4320",
+            "description": "Overview of disorders of use and production of speech sounds with an emphasis on developmental disorders. Introduction to assessment and treatment.",
+            "prerequisites": "Communication Science and Disorders majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Introduction to Audiology",
+            "number": "C_S_D 4330",
+            "description": "Principles and techniques of audiological testing; etiologies of hearing impairment; current technologies in rehabilitation.",
+            "prerequisites": "C_S_D 3230; Communication Science and Disorders majors only or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": [
+                "C_S_D 3230"
+            ]
+        },
+        {
+            "name": "Aural Rehabilitation",
+            "number": "C_S_D 4340",
+            "description": "(cross-leveled with C_S_D 7340). Identification, evaluation, and management of problems associated with hearing impairment in both children and adults. Includes issues related to speech/language development, communication, education, and social factors.",
+            "prerequisites": "Communication Science and Disorders majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Neurophysiology for Speech, Language, and Hearing",
+            "number": "C_S_D 4430",
+            "description": "(cross-leveled with C_S_D 7430). Principles of basic neurophysiology, emphasizing correlation of structure and function of the nervous system.",
+            "prerequisites": "Communications Science and Disorders majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Psycholinguistics",
+            "number": "C_S_D 4810",
+            "description": "(same as LINGST 4810; cross-leveled with C_S_D 7810, LINGST 7810). Examination of the knowledge and processes that underlie the human ability to produce and understand language.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Speech Perception",
+            "number": "C_S_D 4820",
+            "description": "(same as LINGST 4820; cross-leveled with C_S_D 7820, LINGST 7820). Selected topics in the perceptual processing of speech sounds and spoken language.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Individual Differences in Language Processing",
+            "number": "C_S_D 4830",
+            "description": "(cross-leveled with C_S_D  7830). Examination of the normal variations exhibited across individuals in the acquisition, use, and representation of language.  Also considered are individual differences seen in second language learning, the aging process, and language disorders.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Language and Development in Infancy",
+            "number": "C_S_D 4840",
+            "description": "(cross-leveled with C_S_D 7840). Overview of theory and research on the foundations and development of language in infancy (0 to 2 years), with an emphasis on relevant, interrelated areas of development, individual differences, early recognition of delay, and assessment.",
+            "prerequisites": "senior standing required. Instructor's consent required",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Observation in Communication Disorders",
+            "number": "C_S_D 4900",
+            "description": "Directed clinical observations designed to prepare the student for clinical practicum. Required for professional certification. Graded on a S/U basis only.",
+            "prerequisites": "Communication Science and Disorders  majors only",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Apprenticeship in Communication Disorders",
+            "number": "C_S_D 4945",
+            "description": "Supervised observation and clinical experience in speech-language pathology for undergraduates.",
+            "prerequisites": "senior standing and departmental consent. Communication Science and Disorders majors only",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research Apprenticeship",
+            "number": "C_S_D 4950",
+            "description": "Research apprenticeship with a faculty member, assisting in the development and execution of research in communication processes and disorders. May be repeated to 6 hrs. maximum.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Directed Reading in Communication Science and Disorders",
+            "number": "C_S_D 4960",
+            "description": "Independent reading; reports.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Honors Thesis",
+            "number": "C_S_D 4990",
+            "description": "Individual honors thesis on a topic selected with a faculty advisor. Requires planning, conducting, and writing up a research project under the guidance of a faculty member. Successful completion of thesis and maintenance of 3.3 GPA, leads to degree with departmental honors. Graded on A-F basis only.",
+            "prerequisites": "Senior standing; 3.3 GPA; 3.5 GPA in Communication Science and Disorders courses; instructor's consent. Restricted to Communication Science and Disorders students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Communication Science and Disorders",
+            "number": "C_S_D 7001",
+            "description": "Study of selected topics in speech pathology/audiology. Topic and credit may vary from semester to semester. May be repeated for credit with instructor and departmental consent.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Applications of Sign Language",
+            "number": "C_S_D 7050",
+            "description": "(cross-leveled with C_S_D 4050). This course covers research, theory, and methods of using sign language to assist the communication of the Deaf, individuals with disabilities, and hearing learners. Use of sign language to improve literacy and classroom management will also be targeted.  Graded on A-F basis only.",
+            "prerequisites": "Instructor's consent required",
+            "hours": "3",
+            "recommendation": "C_S_D 1050 or C_S_D 1100 or equivalent",
+            "connections": [
+                "C_S_D 1050",
+                "C_S_D 1100"
+            ]
+        },
+        {
+            "name": "Problems in Communication Science and Disorders",
+            "number": "C_S_D 7085",
+            "description": "Individual study not leading to thesis or dissertation.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Aural Rehabilitation",
+            "number": "C_S_D 7340",
+            "description": "(cross-leveled with C_S_D 4340). Identification, evaluation, and management of problems associated with hearing impairment in both children and adults. Includes issues related to speech/language development, communication, education, and social factors.",
+            "prerequisites": "Communication Science and Disorders majors only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Neurophysiology for Speech, Language, and Hearing",
+            "number": "C_S_D 7430",
+            "description": "(cross-leveled with C_S_D) 4430). Principles of basic neurophysiology, emphasizing correlation of structure and function of the nervous system.",
+            "prerequisites": "Communication Science and Disorders majors or instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Psycholinguistics",
+            "number": "C_S_D 7810",
+            "description": "(same as LINGST 7810: cross-leveled with C_S_D 4810, LINGST 4810). Examination of the knowledge and processes that underlie the human ability to produce and understand language.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Speech Perception",
+            "number": "C_S_D 7820",
+            "description": "(same as LINGST 7820; cross-leveled with C_S_D 4820, LINGST 4820). Selected topics in the perceptual processing of speech sounds and spoken language.",
+            "prerequisites": "instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Individual Differences in Language Processing",
+            "number": "C_S_D 7830",
+            "description": "(cross-leveled with C_S_D 7830). Examination of the normal variations exhibited across individuals in the acquisition, use, and representation of language.  Also considered are individual differences seen in second language learning, the aging process, and language disorders.",
+            "prerequisites": "instructor's consent",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Language and Development in Infancy",
+            "number": "C_S_D 7840",
+            "description": "(cross-leveled with C_S_D 4840). Overview of theory and research on the foundations and development of language in infancy (0 to 2 years), with an emphasis on relevant, interrelated areas of development, individual differences, early recognition of delay, and assessment.",
+            "prerequisites": "None Listed",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Topics in Communication Science and Disorders",
+            "number": "C_S_D 8001",
+            "description": "Study of selected topics in speech pathology/audiology. Topic and credit may vary from semester to semester. May be repeated for credit with instructor and departmental consent.",
+            "prerequisites": "instructor's consent, instructor's",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Developmental Language Disorders",
+            "number": "C_S_D 8020",
+            "description": "Nature, etiology, assessment and management of childhood language disorders.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Acquired Language Disorders",
+            "number": "C_S_D 8030",
+            "description": "Etiology, symptomatology, assessment and rehabilitation of acquired neurogenic communication disorders in aphasia, traumatic brain injury, and dementia.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Communication Science and Disorders",
+            "number": "C_S_D 8050",
+            "description": "Independent research leading to a report but not to a thesis or dissertation.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Problems in Communication Science and Disorders",
+            "number": "C_S_D 8085",
+            "description": "Individual study not leading to thesis or dissertation.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar: Contemporary Topics in Speech-Language Pathology",
+            "number": "C_S_D 8087",
+            "description": "Advanced study involving critical literature review and research on selected topics in speech and language. May be repeated for up to 6 credits.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Communication Science and Disorders",
+            "number": "C_S_D 8090",
+            "description": "Research leading to thesis or dissertation.",
+            "prerequisites": "instructor's consent. Graded on a S/U basis only",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Motor Speech Disorders",
+            "number": "C_S_D 8200",
+            "description": "Etiology, symptomatology, epidemiology, and prognosis of motor speech disorders resulting from acquired neurological damage.  Emphasis on clinical assessment and rehabilitation procedures. Graded on A-F basis only.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Disorders of Fluency",
+            "number": "C_S_D 8210",
+            "description": "Identification and remediation of fluency disorders in children and adults.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Voice Science and Voice Disorders",
+            "number": "C_S_D 8225",
+            "description": "Diagnosis and management of communicative disorders resulting from pathologies or misuse of the phonatory system. Includes experience with pertinent laboratory instrumentation. Graded on A-F basis only.",
+            "prerequisites": "restricted to MHS CSD students; or with instructor's consent",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Dysphagia",
+            "number": "C_S_D 8230",
+            "description": "Etiology, symptomatology, and epidemiology of acquired and developmental swallowing disorders (dysphagia).  Emphasis on instrumental and non-instrumental methods for assessing and treating dysphagia.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Orofacial Anomalies",
+            "number": "C_S_D 8240",
+            "description": "Nature, causes, diagnosis, and treatment of disorders of communication associated with congenital orofacial anomalies. Emphasis on cleft palate.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Methods in Speech-Language Pathology",
+            "number": "C_S_D 8250",
+            "description": "An introduction to clinical procedures and evidence-based intervention methods relating to speech and language disorders.  Topics include session design, data collection, measurement of progress, reporting of clinical results, and various treatment options.  Graded on A-F basis only.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Diagnosis in Speech-Language Pathology",
+            "number": "C_S_D 8260",
+            "description": "General principles of diagnosis; specific diagnostic tools and procedures for various speech and language disorders.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Neurological Bases of Speech and Language",
+            "number": "C_S_D 8300",
+            "description": "Structure and function of the human brain and nervous system including general organization, cranial nerves, basal ganglia, cerebellum, and descending motor pathways as related to the field of speech language pathology.  Graded on A-F basis only.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Speech Sound Disorders",
+            "number": "C_S_D 8320",
+            "description": "Principles of clinical assessment and treatment for speech sound disorders in children.  Includes foundations in research on early speech sound acquisition, organic and developmental disorders, and treatment efficacy.  Graded on A-F basis only.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Reading and Language Disabilities in School-Age Children",
+            "number": "C_S_D 8420",
+            "description": "Theories, research, and practice in reading development and disorders. Assessment and remediation of reading disabilities related to language disorders of various etiologies including developmental language disorders and head injury.",
+            "prerequisites": "C_S_D 4020 or C_S_D 8020",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": [
+                "C_S_D 4020",
+                "C_S_D 8020"
+            ]
+        },
+        {
+            "name": "Augmentative and Alternative Communication",
+            "number": "C_S_D 8430",
+            "description": "Students will learn the principles of AAC assessment, methods of intervention, and types of technology available for individuals unable to communicate fully through speech. Graded on A-F basis only.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Issues in Professional Practice",
+            "number": "C_S_D 8500",
+            "description": "Organizational, inter-professional, economic, legal, and ethical aspects of delivering speech, language, and hearing services. Graded on A/F basis only.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "2",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Language Analysis",
+            "number": "C_S_D 8600",
+            "description": "This course provides a theoretical framework for understanding the morphology, semantics, syntax, and pragmatics of English as well as practice in the analysis of typical and atypical language samples.  Graded on A-F basis only.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Practice in Audiology",
+            "number": "C_S_D 8935",
+            "description": "Supervised practice in hearing screening, hearing conservation, and aural re/habilitation.  May be repeated for credit.  Graded on S/U basis only.",
+            "prerequisites": "None Listed",
+            "hours": "1",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Clinical Practice in Speech-Language Pathology",
+            "number": "C_S_D 8945",
+            "description": "Supervised clinical practice in speech pathology for graduate students. May be repeated for credit.",
+            "prerequisites": "Communication Science and Disorders students only",
+            "hours": "1-10",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Directed Reading in Communication Science and Disorders",
+            "number": "C_S_D 8960",
+            "description": "Independent reading; reports.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Communication Science and Disorders",
+            "number": "C_S_D 9050",
+            "description": "Independent research leading to a report but not to a thesis or dissertation.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Seminar: Contemporary Topics in Speech-Language Pathology",
+            "number": "C_S_D 9087",
+            "description": "Advanced study involving critical literature review and research on selected topics in speech and language. May be repeated for up to 6 credits.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-3",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        },
+        {
+            "name": "Research in Communication Science and Disorders",
+            "number": "C_S_D 9090",
+            "description": "Research leading to thesis or dissertation. Graded on a S/U basis only.",
+            "prerequisites": "instructor's consent",
+            "hours": "1-99",
+            "recommendation": "None Listed",
+            "connections": "None Listed"
+        }
+    ]
+}
