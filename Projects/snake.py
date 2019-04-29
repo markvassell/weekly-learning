@@ -2,10 +2,7 @@ import pygame
 from random import randint
 
 BLOCK_SIZE = 10
-R = 'right'
-L = 'left'
-U = 'up'
-D = 'down'
+
 class Color:
     def __init__(self):
         self.black = [0,0,0]
