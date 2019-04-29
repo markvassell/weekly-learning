@@ -131,6 +131,9 @@ if __name__ == "__main__":
     link_container = all_data.find('div', {'id': 'co_departments'})
     department_links = link_container.find_all('a', href=True)
     #print(department_links)
+    all_departments = {}
+    all_departments["name"] = "University of Missouri - Columbia"
+    all_departments_info = []
     department_complete_data = {}
     class_list = []
     for link in department_links:
@@ -220,9 +223,14 @@ if __name__ == "__main__":
             )
         department_complete_data.update({"courses" : class_list})
         with open("../Output/"+department_code+".json", "w+") as outfile:
-            outfile.write(json.dumps(department_complete_data, indent=4, sort_keys=False, separators=(',', ': '), ensure_ascii=False))
+            outfile.write(json.dumps(department_complete_data, indent=4, sort_keys=False, separators=(',', ': '),
+                                        ensure_ascii=False))
 
 
         class_list = []
         department_complete_data = {}
+    with open("../Output/merged_data/all_courses.json", "w+") as outfile:
+        outfile.write(json.dumps(all_departments, indent=4, sort_keys=False, separators=(',', ': '),
+                                     ensure_ascii=False))
+
 
