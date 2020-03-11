@@ -29,7 +29,7 @@ def partition(array, start, end):
             i += 1
             swap(array, i, j)
         j += 1
-    swap(array, i+1, end)
+    swap(array, i + 1, end)
     return i + 1
 
 
@@ -42,5 +42,5 @@ def swap(array, pos1, pos2):
 if __name__ == '__main__':
     data = sample(range(1, 1000), 5)
     print('Unsorted List: ', data)
-    sorted_list = quick_sort(data, 0, len(data)-1)
+    sorted_list = quick_sort(data, 0, len(data) - 1)
     print("Sorted List: ", sorted_list)
